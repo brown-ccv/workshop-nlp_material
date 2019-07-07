@@ -1,0 +1,1241 @@
+DOCUMENT RESUME 
+
+
+
+ED 336 225 RC 018 290 
+
+AUTHOR Tamaoka, Katsuo 
+
+TITLE Measuring Intelligence of Minority children in 
+
+Canadian Multicultural Contexts. 
+PUB DATE 66 
+NOTE 23p. 
+
+PUB TYPE Information Analyses (070) 
+
+EDRS PRICE MFOl/PCOl Plus Postage. 
+
+DESCRIPTORS Academic Achievement} American Indian Education; 
+
+-Canada Natives; Culture Fair Tests; *Educational 
+Testing; Elementary Secondary Education; Foreign 
+Countries; Intelligence Quotient; * Intelligence 
+Tests; *Minority Group Children; -Test Bias; Testing 
+Problems 
+
+IDENTIFIERS Canada; United States 
+ABSTRACT 
+
+Heavy migration into Canada and migration from Native 
+rural communities to urban areas has made it necessary to identify 
+appropriate instruments for assessing minority children's academic 
+abilities. In Canada, IQ tests have ieen used extensively for 
+academic placement in school. This paper reviews the literature 
+evaluating cultural bias in IQ tests used in Canada and the United 
+States. Studies conducted in the United States suggest that Blacks 
+and Hispanics are at a cultural disadvantage on the major IQ tests, 
+while Hispanics are disadvantaged in language skills as well. With 
+respect to the mainstream Canadian population, the WISC and WISC-R 
+contain items reflecting an American cultural bias. However, 
+Canadianization of such items may not guarantee the proper difficulty 
+level for the substituted items. Cultural bias against Native 
+children is found on some WISC-R items, and degree of acculturation 
+seems to influence IQ results of Native children. Alternative means 
+of assessing minority children's intelligence have included 
+culture-free (or culture-fair) tests, and recalculation of IQ scores 
+taking into account family size, family structure, socioeconomic 
+status, and urban acculturation to indicate "estimated learning 
+potential." These methods did not predict school achievement more 
+accurately than the WISC-R. While the commonly used IQ tests in 
+Canada do not necessarily assess a child's true general ability, they 
+are reasonably predictive of academic success in school (perhaps 
+partly because they reflect cultural biases in school) . A multiple 
+assessment approach for minority children is recommended. This paper 
+contains 39 references. (SV) 
+
+
+
+********************************************************************* 
+
+
+
+* Reproductions supplied by EDRS are the boat that can be made 
+
+* from the original document. 
+
+
+
+1 
+
+Measuring Intelligence of Minority children 
+in Canadian Multicultural Contexts 
+
+
+
+Katsuo Tamaoka 
+Matsuyama university, Matsuyama, Japan 
+
+
+
+Canadlanlzatlon for the Items of Wise and wisc-R would 
+not guarantee the proper difficulty levul for the substituted 
+items. Failure of adjusting the questioning items of Information 
+lf« subtest Indicate an American cultural bias with respect to a 
+
+main-stream Canadian population. For Native children, cultural 
+content bias against Native children is indicated in the question 
+Gto items of the WISC-R Information subtest. The degree of 
+
+acculturation seems to influence, to a certain degree, IQ tests' 
+^_ results of Native children. Cultural fair tests to remove 
+
+f *'* cultural effects on IQ scores did not indicate a strong 
+
+:.0 predictive power for academic achievement. The attempt at 
+
+computing an Estimated Learning Potential (ELP) also failed to 
+predict a child's academic success. A simple re-calculation of 
+WISC-R scores based on family size, family structure, socio- 
+economic status and urban acculturation dose not Indicate ELP. 
+The two attempts at cultural free tests and ELP scores also 
+failed to assess intelligence of minority groups as a predictor 
+jf child's school achievement. Though a compromise, but the most 
+careful and sensitive approach to assess intelligence of Canadian 
+minority children have to be a multiple assessment approach using 
+already established tests as a part of the Information used to 
+assess a child's learning abilities in order to facilitate 
+adequate education and counselling. 
+
+
+
+U.S. MMNTMINT OP IOUCATION 
+
+oihce ot Educational Research and improvameni 
+
+EDUCATIONAL RrSOURCES INFORMATION 
+J Cf NTKR (ERIC) 
+
+Vnit document hat Man reproduced as 
+S received Irom iht) person or orgamjalion 
+onyinaling >l 
+
+r Mino' changes have bean made to impiove 
+taproducdon quality 
+
+• Point* oi view or opinions stated in ihn docu- 
+ment do «ot necessarily represent official 
+OtRl poiidon or policy 
+
+
+
+"PERMISSION TO REPRODUCE THIS 
+MATERIAL HAS BEEN GRANTED BY 
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC)." 
+
+
+
+Abstract : 
+
+
+
+1. Introduction 
+
+
+
+Although an attempt to understand human intelligence has 
+drawn extensive attention in the area of psychology, there seems 
+
+£2 t0 be neither a single instrument nor a clear-cut definition for 
+
+intelligence to which no psychologist raises a question. A lack 
+
+sQQ of consensus in studies as to the definition of intelligence 
+
+indicates the intricate complexity of human intelligence. 
+
+e 
+
+However, heavy migration into Canada and migration from Native 
+
+erjc 2 BEST COPY AVAILABLE 
+
+
+
+2 
+
+rural communities to urban areas has made It necessary to 
+Identify appropriate Instruments for assessing children's 
+academic abilities In order to facilitate adequate education and 
+counselling. 
+
+In Canada, IQ tests have been extensively used for academic 
+placement at school. IQ tests partly reflects the main-stream 
+culture which has passed its cultural heritage to the next 
+generation. Although various studies in psychometrlcs suggest 
+that the predictive power of these IQ tests is high enough to use 
+for the placement of children at Canadian schools, cultural bias 
+in IQ tests often acts as an element to decrease the predictive 
+power of children's school achievement. Hence, the present study 
+focused on evaluating whether newly-developed and commonly-used 
+IQ tests In North America obtain a strong cultural bias when 
+examining children from other social and cultural environments, 
+and if so what would be the best approach to facilitate the 
+proper education of those children. 
+
+2. Issues In Assessing Intelligence of Minority Groups 
+
+Canada has been inviting numerous immigrants from various 
+countries where English and French are not necessarily spoken as 
+an official language and are not used as an instructional 
+langauge at school. The census of Canada in 1981 (Statistics 
+Canada, 1984) showed that 1,608,645 people in Canada do not speak 
+English or French as a mother tongue. Assessing Intelligence of 
+
+
+
+ERJ.C 
+
+
+
+3 
+
+
+
+these minority children for academic placement Is one of the 
+difficult tasks for Canadian school psychologists. Therefore, In 
+this Section, effects of linguistic and cultural differences on 
+IQ tests have to be considered when assessing these children. 
+For the effects of linguistic differences, several studies In the 
+United states, which has been experiencing cultural difficulties 
+among minority groups longer than Canada, are used to examine the 
+difference between verbal and performance iqs and are applied a 
+Canadian multicultural context. For cultural bias and adjustment 
+of IQ questioning Items, 'Canadlanizat Ion • of WISC-R proposed by 
+Vernon (1976) Is examined In this section. 
+
+2.1 Effects of Language Skills on Verbal Intelligence 
+
+IQ tests have been conducted on some major ethnic groups in 
+the United States. Differences In the means of black and white 
+Americans seem, more or less, to be duplicated in a series of 
+studies (Jensen, 1969, 1976; Vernon 1969 for early studies and 
+Eysenck & Kamln, 1981; Sattler 1982, 1988 for recent review). 
+However, uncertainties remain in determining the factors 
+influencing the results of IQ tests. Comparing the average IQs 
+of black and white Americans, blacks seems to produce lower IQ 
+scores than whites. This may be partly caused by culturally 
+handicapped conditions of blacks. Yet, there is no definite 
+explanation for it. 
+
+Although the difference in mean IQ scores between blacks and 
+
+
+
+4 
+
+
+
+whites Is constantly reported, Johnston and Bolen (1984) and 
+Naglierl (1966) argued that black and white Americans showed 
+almost Identical patterns In both scores of the Wechsler 
+intelligence Scale for children - Revised (wisc-R) and Kaufman's 
+Assessment Battery for children (K-ABC) . The study on the 
+discrepancy between verbal (VIQ) and Performance (PIQ) IQs 
+(Vaylor, Zlegler and Partenlo, 1984) showed significant 
+differences among black, white and Hispanic groups, [£(2, 
+533)=16.62, q.<.011. Post hoc multiple comparisons indicated that 
+the Hispanic group had significantly larger VIQ-PIQ splits than 
+did the white or the black group, but no significant differences 
+were found between the black and white groups. Furthermore, as 
+shown in Table 1, the direction of VIQ-PIQ discrepancies for 
+black and white groups were similar, while significantly more 
+Hispanics obtain PIQ>VIQ (74.4%) than PIQ<VIQ (23.9%). This 
+result suggests that the Hispanic group may have a disadvantage 
+in language skills which prevents better scores in VIQ . 
+
+Table 1 
+
+Direction of VIQ-PIQ Discre pancies by Ethnic Group 
+Ethnic Group Direction of discrepancies 
+
+
+
+VIQ>PIQ 
+
+
+
+VIQ<PIQ 
+
+
+
+VIQ=PIQ 
+
+
+
+Black 
+
+Hispanic 
+
+White 
+
+
+
+44.1% 
+
+23.9% 
+44.2% 
+
+
+
+51.1% 
+7 4.7% 
+49.7% 
+
+
+
+4.8% 
+1,7% 
+5.9% 
+
+
+
+(Taylor, Ziegler & Partenio, 1984, p. 439) 
+
+
+
+9 
+
+ERIC 
+
+
+
+5 
+
+
+
+5 
+
+Concerning IQ tests and language skills, the comparative 
+study, using the Peabody Picture Vocabulary Test (PPVT), the 
+revised PPVT (PPVT-R) and placement IQ tests, was conducted among 
+black, white and Hispanic Educable Mentally Retarded (EMR) 
+students (Bracken & Prasse, 1981). This study concluded that 
+mean IQs were nearly Identical for the three ethnic groups. 
+However, PPVT and PPVT-R Indicated great differences In language 
+skills; the Hispanic group scored the lowest In PPVT and PPVT-R . 
+In addition, Teuoer and Furlong (1985) conducted the research 
+using the Expressive One-Word Vocabulary Test and PPVT-R, 
+Indicated that bilingual Mexican American children (Hispanic 
+group) on both tests scored almost two standard deviations lower 
+than the normative mean. With the finding of great PIQ>VIQ 
+Hispanic population (Taylar, Ziegler & Partenio, 1984), these 
+studies suggests that the Hispanic group has a disadvantage in 
+taking the language-related subtests of IQ tests in comparison 
+with black and white groups. 
+
+The findings of the American cross-cultural studies are 
+applicable to Canadian multicultural contexts in two ways. 
+First, the VIQ-PIQ discrepancy in IQ tests will appear between 
+the main-stream cultural group and minority groups. Second, the 
+disadvantage in English learning conditions (e.g., growing up in 
+a non-English family) will affect scores of Verbal IQs, and 
+minority students may display lower scores in language ability 
+tests and language-related IQ tests. For those children, the 
+VIQ-PIQ discrepancy in IQ tests should be considered with a 
+
+
+
+ERIC 
+
+
+
+6 
+
+
+
+6 
+
+cross-examination of other mental and language ability tests. 
+2.2 Effects of Cultural Context on Intelligence Test 
+
+One of the major arguments for the use of wise and WXSC-R to 
+assess minority groups in Canada is whether the Information 
+subtest contains a somewhat American cultural bias. If so, is it 
+necessary to modify the items according to groups such as French, 
+Ukrainian, Chinese and Aboriginal Peoples (Indians, Inuit and 
+Metis)? The first attempt to modify American IQ tests was to 
+adjust the Information subtest for the use of Canadian children. 
+
+WISC-R, which is designed for assessing intelligence of 
+children in America (Wechsler, 1974), contains materials related 
+to an American context. The Information subtest in particular 
+contains questions pertaining to American history and geography. 
+As shown in table 2, Vernon (1976) has encouraged Canadian school 
+psychologists to substitute the seven items of Information 
+subtest (116, #17, #19, #20, #21, #24 and #27) for Canadian 
+users. However, conducting WISC-R to a randomly selected sample 
+of 300 urban Saskatchewan children, Perters (1976) did not find 
+any evidence of a systematic bias on the Information subtest. 
+
+Furthermore, using 342 adolescent psychiatric inpatients and 
+outpatients, Cyr and Atkinson (1987) found that the substitutes 
+for items #16 and #19 should be abandoned because of their 
+unacceptably high pass rates. The study concluded not only that 
+the ranks of difficulty order were affected by modified items, 
+
+
+
+ERIC 
+
+
+
+7 
+
+
+
+7 
+
+
+
+Table 2 
+
+Canadlanlzatlon Items for the WISC-R Information Stihfcesfc 
+
+
+
+Item # 
+
+16 (A) Who Invented the electric light bulb? 
+(C) Who Invented the telephone? 
+
+17 (A) From what country did America become independent in 
+
+1776? 
+
+(C) From what country did most of the first sellers in 
+Canada come? 
+
+19 (A) Name the two countries that border the United States? 
+(C) Name two oceans bordering Canada. 
+
+20 (A) How many pounds make a ton? 
+
+(C) How many weeks are there in a year? 
+
+21 (A) In what continent is Chile? 
+(O In what continent in Sweden? 
+
+24 (A) How tall is the average American man? 
+
+(C) How tall is the average Canadian man? 
+
+27 (A) How far is it from New York to Los Angeles? 
+
+(C) How far is it from Toronto to Vancouver? 
+
+
+
+(Vernon, 1976) 
+Note ! (A) is an original American item while (C) is a 
+Canadlanized item. 
+
+
+
+but also that those items were significantly easier for the 
+respondents. Thus, ths view that such a bias exists is, for the 
+most part, based on the face validity of items, and not construct 
+validity. 
+
+On the other hand, Marx (1984) suggested to adopt Vernon's 
+change on the basis of his research finding with the use of both 
+the manual items and modified items of WISC-R Information subtest 
+comparing Canadian children (210 junior secondary school students 
+in Burnaby, B.C.) with the American standardization group. 
+However, as shown in Table 3, although the ranking order seems to 
+be rearranged in a sequential order from one to seven, all seven 
+modified items proposed by Vernon (1976) were higher than the 
+
+
+
+9 
+
+ERIC 
+
+
+
+8 
+
+
+
+comparable data from the standardization group In the passing 
+percentages. The results of Marx's study actually Indicated that 
+the Vernon's canadlanizatlon Items will cause a higher score on 
+the Information subtest. 
+
+Table 3 
+
+Ranks and Percentage of Standardization Sample and Burnaby Sample 
+Passing Each Item 
+
+
+
+Burnaby Sample 
+
+Standardization Sample Manual Items Modified Items 
+
+
+
+Item 
+
+
+% 
+
+
+Rank 
+
+
+% 
+
+
+Rank 
+
+
+% 
+
+
+Rank 
+
+
+16 
+
+
+50.7 
+
+
+1 
+
+
+38.6 
+
+
+3 
+
+
+65.7 
+
+
+1 
+
+
+17 
+
+
+50.0 
+
+
+2 
+
+
+41.4 
+
+
+2 
+
+
+54.8 
+
+
+3 
+
+
+19 
+
+
+48 .9 
+
+
+3 
+
+
+45.7 
+
+
+1 
+
+
+60.5 
+
+
+2 
+
+
+20 
+
+
+43.9 
+
+
+4 
+
+
+32.9 
+
+
+6 
+
+
+53.3 
+
+
+4 
+
+
+21 
+
+
+40.2 
+
+
+5 
+
+
+37.6 
+
+
+4 
+
+
+51.4 
+
+
+5 
+
+
+24 
+
+
+23.1 
+
+
+6 
+
+
+34.3 
+
+
+5 
+
+
+38.6 
+
+
+6 
+
+
+27 
+
+
+16 . 4 
+
+
+7 
+
+
+10.0 
+
+
+7 
+
+
+18.1 
+
+
+7 
+
+
+
+(Marx, 1984, p. 32) 
+
+
+
+2.3 Summary 
+
+Despite these research results, the majority of Canadian 
+school psychologists regularly adopted the Canadlanlzed Items of 
+the Information subtest In 1980s. Since Canadlanizatlon for WISC 
+and WISC-R would not guarantee the proper difficulty level for 
+the substituted Items, the main purpose of substitution Is to 
+Increase the face validity for use with the Canadian population. 
+It seems Impossible to avoid cultural bias In the existing IQ 
+
+9 
+
+
+
+tests, in addition, failure of adjusting questioning items of 
+Information subtest indicate an American cultural bias in the 
+main-stream Canadian population. Again, with language 
+differences, cultural differences should be taken into account 
+when assessing minority children for educational placement and 
+counselling. 
+
+3. Issues of Assessing Intelligence of Native children 
+
+A great increase of Native population (Indian, inuit, and 
+Metis) in urban areas has been reported by the Department of 
+Indian and Northern Affairs (1977). In 1980, approximately 30 
+percent of Indians (status Indians) in Canada were estimated to 
+live off the reservation (reserve), of which nearly 80 percent 
+are now living in urban areas (Frideres, 1988). For example, 
+Regina predicted to have over one-forth of the Native (status and 
+non-status Indians and Metis) population by 1985. In 1980-1981, 
+the cumulative drop-out rate of Native students in urban 
+Saskatchewan was calculated 90.5 percent in Grades 7 to 12, while 
+non-Native students were 40.0 percent (Saskatchewan, Department 
+of Education* 1985). 
+
+This great migration of Native peoples to urban areas has 
+created cross-cultural situations of Native students who have 
+grown up in remote Native communities. English skills are often 
+a major consideration for placement of Native students with their 
+former school records. Because of the handicapped social and 
+
+
+
+10 
+
+
+
+cultural conditions of their English learning, Native students 
+are often placed two or three grades lower in city schools than 
+the ones they previously were in. Still, a high drop-out rate 
+was reported among Native students. Hence, the placement process 
+should be re-examined for Native students in order to provide 
+adequate learning conditions and counselling. As for providing 
+an appropriate assessment of intelligence for Native students' 
+placement, studies of iq tests should be explored to examine 
+their fairness of information and interpretation. 
+
+3.1 Cultural content Bias for Native children in the WISC-R 
+Information Subtest 
+
+Like the difference in the mean scores of IQ tests between 
+black and white Americans, the mean scores of Native students 
+were generally lower than the norm means of IQ tests (Goodenough, 
+1962; Vernon, 1966 & 1969; MacArthur, 1968 & 1969; Krywaniul & 
+Das, 1976; Seyfort, Spreen & Lahmer, 1980; Connelly, 1983; 
+Mueller, Mulcahy, Wilgosh, Hatters & Mancini, 1986). In 
+addition, the results of WICC and WISC-R among Native children 
+indicated that thty yield higher scores on Performance IQ than 
+Verbal IQ. This pattern of PIQ>VIQ "may be a reflection of a 
+visual style of learning and limited familiarity with English" 
+(Sattler, 1982, p. 376). Furthermore, sattler (1982 & 1988) 
+explains that the degree of discrepancy between PIQ and VIQ may 
+illustrate the degree of acculturation which Native peoples have 
+
+
+
+11 
+
+experienced. 
+
+Acculturation, however, indicates how much Native peoples 
+adapted to the main stream culture; consequently, it should not 
+be measured by IQ tests. For example, the items in the 
+Information subtest, wisc-R which contain American history and 
+geography are "who discovered America?", "From what country did 
+America become Independent in 1776?", "Name the two countries 
+that border the United states?*, "How tall Is the average 
+American man?", "How far Is it from New York to Los Angeles?" 
+(Wechsler, 1974). Even the Canadlanlzed Items (Vernon, 1976) 
+such as "From which country did most of the first settlers in 
+Canada come?", "How tall is the average Canadian man?" (the 
+average white man) also show cultural content which most Native 
+children will not be aware of, unless they learn It at school. 
+If the items were to be sensitized to Native children, they would 
+be changed to "which Indian tribe contacted to the first arrlvers 
+from Europe in Canada?", "which is the most spoken Indian 
+language in Canada?". The Information subtest seems to present 
+the cultural group who has a governing power of the country. 
+
+In addition, the twelfth item of the WISC-R Information 
+subtest, "who discovered America?", which Vernon (1976) did not 
+suggest to change for Canadian uses, represents an ethnocentric 
+view of history. In current history textbooks, this statement 
+has been replaced by the expression of the first European to 
+arrive in America. Testing Native students, this Item will 
+affect motivation of native students to continue and complete 
+
+
+
+12 
+
+
+
+WISC-R. Furthermore, there Is a clear evidence that the Norse, 
+filrlk Thorvaldsson (Eric the Red) arrived in Baffin island in 982 
+(Magnussen & Palsson, 1986). 
+
+Effects of cultural content bias are shown in the study of 
+Canadian Inult children (Mueller, Mulcahy, Wllgosh, Watters & 
+Ma..cini, 1986) which administered the nine WISC-R subtests 
+(Object Assembly, Coding and Hazes excluded). They found that 
+several items of the information subtest were misplaced in rank 
+order and the twelfth item, "who discovered America?", was a 
+harder question for inult children. Nevertheless, this research 
+group concluded that the Information subtest is H a reasonably 
+good measure of the WISC-R verbal construct" (p. 17). If the 
+argument of Marx (1984) is accepted as a reason for WISC-R 
+Canadianization, then by the same reasoning, the Information 
+subtest should be adjusted for Inuit children. 
+
+3.2 Applying Bannatyne's RecategoL izat ion to Native Children 
+
+The another aspect of cultural bias against Native children 
+is observed in the reorganized scores of WISC and WISC-R subtests 
+commonly known as Bannatyne's system. Bannatyne (19 74) 
+reorganized the WISC subtests: the Spatial category (Picture 
+Completion, Block Design and Object Assembly), the Conceptual 
+category (Similarities, Vocabulary and Comprehension), the 
+Sequential category (Arithmetic, Digit Span and Coding), and the 
+Acquired Knowledge category (Information, Arithmetic and 
+
+
+
+13 
+
+
+
+Vocabulary). According to this recategor ization of WISC, 
+Bannatyne suggested that learning disabled (LD) children were 
+likely to exhibit a pattern of Spatial>Conceptual>Seguential 
+scoring order. However, this pattern is not always commonly 
+observed among Native LD children. 
+
+Recategorization of WISC and WISC-R was examined with 
+respect to Native children, zarske and Moore (1982) conducted 
+the research concerning Bannatyne' s system with WISC-R for non- 
+handicapped (M.= 113), learning disabled (U.= 150), educationally 
+disadvantaged (H-189), and regular classroom (K-44) Navajo 
+children. The study found that the classic Bannatyne's LD 
+pattern failed to occur for the LD Navajo children. Instead of 
+Bannatyne's system, all four groups of Navajo children presented 
+a pattern of Spat ial>Sequential>Conceptual scoring order. 
+Another study on Yukima Indian tribe (Diessner & walker, 1986) 
+also indicated the same pattern as the study by Zarske and Moore. 
+The pattern of Spat ial>Sequential>conceptual scoring older may be 
+typical across American Indians; consequently, Bannatyne's system 
+was not the pattern observed in LD children of some Indian 
+tribes . 
+
+A further investigation of WISC-R recategorization by 
+Connelly (1983) provided an additional factor influencing the 
+scoring pattern of Bannatyne's system. With WISC-R administered 
+to 146 LD Tlingit children in southwestern Alaska for whom 
+English was the first language, Connelly found that an younger LD 
+group at the ages of 6 to 10 displayed Bannatyne's LD pattern of 
+
+
+
+14 
+
+
+
+spatial>Conceptual>Sequential scoring order while an older group 
+at the ages of 11 to 16 exhibited the typical Indian pattern of 
+Spatial>Sequential>Conceptual . In addition, the study of 81 
+Chippewa, Muncey and Oneida children from two reserve schools in 
+southwestern Ontario (English was also the first language; 
+exhibited the LD sequence of the Bannaytne's recategor ization in 
+WISC-R (Scaldwell, Frame & Cookson, 1985). Since both studies 
+used Indian children who speak English as their first language, 
+as McShane and Plas (1982) suggested, it could be assumed that LD 
+Indian children from more traditional settings tended to produce 
+the typical Indian pattern in WISC-R while more acculturated LD 
+Indian children displayed Banna tyne's pattern. Thus, the degree 
+of acculturation towards the main-stream English speaking culture 
+could be an additional factor to exhibit Bannatyne's 
+recategor ization of WISC-R subtests differently. 
+
+3.3 Summary 
+
+For measuring intelligence of Native children, cultural 
+content bias against Native children is indicated in the question 
+items of the WISC-R information subtest. In addition, 
+Bannaytne's recategor ization of WISC and WISC-R subtests 
+suggested that the scoring pattern for LD children was 
+Spatial>Conceptual>Sequential . However, Indian children from 
+traditional settings were likely to exhibit the pattern of 
+Spatial>Sequent ial>Conceptual which is commonly known as the 
+
+
+
+15 
+
+
+
+typical Indian pattern. The degree of acculturation seems to 
+influence, to a certain degree, Bannaytne's recategor ization of 
+intelligence among Native children. Hence, interpretation of the 
+intelligence tests results (e.g., WISC, WISC-R) should take into 
+an account of acculturation factor for Native children. 
+
+4. Discussion: Is There Alternative Approach to Measuring 
+Intelligence of Minority children? 
+
+The item difficulty pattern of WISC-R subtest showed a 
+cultural content bias against minority groups. The study on 
+measuring intelligence of Native children indicated some cultural 
+biases in question items of the WISC-R Information subtest. In 
+addition, the LD pattern of Bannytne's recategor ization was not 
+observed among LD Indian children when they grew up in a 
+traditional Native settings. Therefore, the degree of 
+acculturation rr>ay affect intelligence scores of minority 
+children. Then, what is the possible approach to assess the 
+intelligence of children from the outside of the main-stream 
+culture? Two attempts to assess intelligence of minority 
+children are examined in this section; first, cultural free (or 
+fair) tests to remove cultural effects on IQ scores, and second, 
+re-calculation of IQ scores using an Estimated Learning Potential 
+to predict academic success without interference of cultural 
+effects . 
+
+To eliminate the cultural influence, cattell designed the 
+
+
+
+16 
+
+
+
+16 
+
+Cultural Free Test which consisted of entirely nonverbal 
+materials. The shorter revised version is called the Personality 
+and Ability Testing (IPAT) cultural Free Intelligence Test. The 
+test was intended to ensure the results of IQ tests freedom from 
+bias by cultural learning effects (Smith, 1959). in 1950s, the 
+Cultural Free Test was evaluated as containing a high reliability 
+and validity (Drake, 1953; Schwesinger, 1953; Smith, 1959). 
+
+Milholland (1965), however, pointed out that five references 
+of the manual cited for Scales 2 and 3 did not provide any 
+evidence of the *g' saturation of the tests. Besides, a few 
+cross-cultural studies cited by the manual are not readily 
+available in the literature. In addition, "these results hardly 
+seem to furnish definitive evidence of the outstanding freedom 
+from culture effects of the culture fair test" (Milholland, 1965, 
+p. 721). The IPAT Cultural Free Test are constructed on the 
+basis o£ the concept of crystallized and fluid intelligence which 
+cannot be clearly separated from each other in the scores on the 
+tests. Occasionally, black children are reported to find 
+cultural free (or fair) tests are more difficult than verbal 
+tests (Sattler, 1982). 
+
+As another means to assess the learning abilities of 
+children from minority groups, Mercer and Lewis (1978) proposed 
+to use an Estimated Learning Potential (ELP). since WISC-R As 
+useful to predict an academic success of students, WISC-R serves 
+as a measure of School Functioning Level (SFL). However, 
+children from minority groups cannot be evaluated solely against 
+
+erJc 1 7 
+
+
+
+17 
+
+the standard WISC-R norms. Hence, Mercer suggested using ELP 
+scores, to be calculated by re-adjusting the wisc-R scores in 
+consideration of child's socio-cultural characteristics. 
+
+Oakland (1983) conducted the study of concurrent and 
+predictive validity for both WISC-R and WISC using 396 children 
+from Grades 1 to 8 analyzed on the basis of racial-ethnic groups 
+(Anglo, Black and Mexican American) and social classes (middle 
+and lower). The subtests of the California Achievement Test were 
+used to measure abilities of English-reading and mathematics as 
+criteria. The study found that concurrent predictions of reading 
+and mathematics achievement are made more accurately with WISC-R 
+IQ scores than with ELP scores, and that predicting achievement 
+three years later (1976-1979) was likely to be make more 
+accurately with WISC-R scores than ELP scores (Oakland, 1983). 
+Thus, the WISC-R score modifying method of ELP scores resulted in 
+a decrease of predictive power. 
+
+As Vernon (1969) pointed out, cattell misstated that fluid 
+ability tests are largely immune to cultural influence; actually, 
+the skills of these tests (fluid ability tests or cultural free 
+tests) "would appear to be built up In just the same way as those 
+involved in verbal reasoning" (Vernon, 1969, p. 25). In other 
+words, since even mathematical concepts including spatial and 
+sequential understanding are taught at school differently 
+according to each cultural context, the cultural experience of 
+children will also affect performance of nonverbal tests. The 
+attempt at computing an ELP also failed to predict a child's 
+
+
+
+13 
+
+
+
+18 
+
+academic success. A simple re-calculation of WISC-R scores on 
+the basis of family size, family structure, socio-economic status 
+and urban acculturation does not indicate so-called Estimated 
+Learning Potential; ELP scores cannot predict school achievement 
+more accurately than WISC-R scores. These two attempts at 
+cultural free tests and ELP scores failed to assess the 
+intelligence of minority groups as a predictor of a child's 
+school achievement. 
+
+As long as the purpose of IQ tests remains to predict 
+scholastic performance in Canadian main-stream schools for child 
+placement and counselling, the tests should be able to measure 
+those abilities most relevant to the curriculum and type of 
+instruction which were shaped largely European and North American 
+middle-class populations. Therefore, IQ tests ironically have to 
+contain a certain degree of cultural bias toward children with 
+non-main-stream cultures in order to have a reasonably high 
+correlation with an academic success at school. Accordingly, IQ 
+tests will be able to provide more accurate prediction for 
+child's academic success when these IQ tests reflect a certain 
+degree of the cultural context of the dominating school 
+environment . 
+
+Still, as pointed out earlier in this paper, the results of 
+IQ tests could be influenced by various factors of the child's 
+cultural background, primary language and handicapped conditions. 
+Maintaining a tolerant view towards cultural bias in IQ tests 
+implies the necessity that the minority child adjusts to the 
+
+
+
+19 
+
+
+
+19 
+
+main-stream culture, which may result In the rejection o£ the 
+child's own cultuial heritage. This view is often cast as 
+'assimilation* and considered not to be of value to maintain the 
+cultural identity of minority groups. Since Canada proposed 
+•multlculturallsm' in the Constitution Act, 1982, education 
+system should play a role to preserve and enhance the 
+multicultural heritage of Canadians. 
+
+Furthermore, the commonly-used IQ tests in Canada do not 
+necessarily represent the child's true general ability, even 
+though these tests will have a reasonable predictive power of 
+child's academic success at Canadian schools. Therefore, though 
+a compromise, but the most careful and sensitive approach to 
+assess intelligence of Canadian minority children have to be a 
+multiple assessment approach using already established tests as a 
+part of the information used to assess a child's learning 
+abilities in order to facilitate adequate education and 
+counselling. 
+
+
+
+ERIC ?() 
+
+
+
+20 
+
+
+
+References 
+
+Bannatyne, A. (1974). Diagnosis: A note on recategor ization of 
+WISC scale scores. JflHIJiaJ Q* Learning Disabilities, 1, 272- 
+273. 
+
+Bracken, B. A., & Prasse D. P. (1981). Comparison of the PPVT, 
+PPVT-R, and intelligence tests used for the placement of 
+black, white and Hispanic EMR students. Journal of School 
+Psychology. 12., 304-311. 
+
+Canada, Indian and Northern Affairs (1977). Urbanization and 
+Indian people and an analyt ical literature review. Ottawa: 
+
+Development Planning Associates. 
+
+Connelly, J. B. (1983). Recategor ized WISC-R score patterns of 
+older and younger referred Tlingit Indain children. Psychology, 
+in th» Schools. 2JL, 271-275. 
+
+Cyr, J. J., & Atkinson, L. (1987). Test item bias in the WISC-R. 
+Canadian Journal of Behavi oural Science. 12., 101-107. 
+
+Diessner, R., & Walker, J. L. (1986). A cognitive pattern of the 
+Yakima Indian students. Journal of American Indian Education, 
+IS., 66-70. 
+
+Drake, R. M. (1953). The IPAT cultural free intelligence tests. 
+In O. Buros (Ed.), worth mpntal measurements yearbook. New 
+York: Gryphon Press, 401-402. 
+
+Eysenck, H. J., & Lamln, L. (1981). The intelligence controversy. 
+New York: John Wiley & Sons. 
+
+Frideres, J. S. (1988). Native peo ples in Canada: Contemporary 
+Conflicts . Scarborough, Ontario: Prentice-Hall Canada. 
+
+Goodenough, F. (1962). Racial differences in the intelligence of 
+school children. Journal of Experimental Psychology, i, 368- 
+397 . 
+
+Jensen, A. R. (1969). How much can we boost IQ and scholastic 
+achievement? Harvard E ducational Review. 1£, 1-123. 
+
+Jensen, A. R. (1976). Race and the genetics of intelligence. In 
+N. J. Block & G. Dworkin (eds.), The iq controversy. New York: 
+Pantheon Books. 
+
+Johnston, W. T., & Bolen, L. M. (9184). A comparison of the 
+factor structure of the WISC-R for blacks and whites. 
+Psycholog y In the Schools. 21, 42-44. 
+
+
+
+
+CI 
+
+
+
+21 
+
+
+
+Krywaniuk, L. W., & Das, J. P. (1976). cognitive stratefies in 
+Native children: Analsyis and intervention. Al berta Journal 
+of Educational R esearch . 21, 42-44. 
+
+MacArthur, R. S. (1968). Assessing intellectual potential of 
+Native Canadian pupils. Alberta Journal of Educational 
+Research. 21/ 271-280. 
+
+McShare, D. A., & Plas, J. M. (1984). Response to a critique of 
+the HcShane & Plus review of American Indian performance on 
+the Wechsler intelligence scales. School Psychology Review . 
+11, 83-88. 
+
+Magnussen, M., & Palsson, H. (1966). The Vlneland saga» ; 
+
+The Norse discovery of America! Graenlendlnga saoa and Elrlk's 
+sjiaa.. New York: University Press. 
+
+Marx, R . W. (1984). Canadian content and the WISC-R information 
+subtest. Canadian Journal of Behavioural Science. If., 30-35. 
+
+Mercer, J. R . , & Lewis, J. F. (1978). Systematic multicultural 
+pluralistic assessment! student assessment manual . New York: 
+Psychological Corporation. 
+
+Milholland, J. E. (1965). Cultural free intelligence tests. 
+In 0. Buros (Ed.), Sixth mental measurements yearbook . New 
+York: Gryphon Press, 719-721. 
+
+Mueller, H. H . , Mulcahy, R. P., wilgosh, L . , watters, B., & 
+Mancini, G. J. (1986). An analysis of VISC-R item responses 
+with Canadian Inuit children. Alberta Journal of Educational 
+Kcaearch ,. 12., 12-36. 
+
+Naglieri, J. A. (1986). WISC-R and K-ABC comparison for matched 
+samples of black and white children. Journal of school 
+Psychology. 2A, 81-88. 
+
+Oakland, T. (1983). Concurrent and predictive validity estimates 
+for the WISC-R IQs and ELPs by racial-ethnic and SES groups. 
+School Psychology Review. 12, 57-61. 
+
+Perters, H. D. (1976). The validity of the wechsler intelligence 
+scale for children - Revised. Canadian Journal of Behavioral 
+Science. £, 414-417. 
+
+Sattler, J. M. (1982). Assessment of children's intelligence and 
+special abilities . Boston: Allyn and Bacon. 
+
+Sattler, J. M. (1988). Assessment of children . Boston: Allyn and 
+Bacon . 
+
+
+
+ERJC 22 
+
+
+
+22 
+
+
+
+Saskatchewan, Department of Education. (1985). inner-city dropout 
+study . Regina, Saskatchewan: Department of Education. 
+
+Scaldwell, W. A., Frame, J. E., & Cookson, D. G. (1985). 
+
+Indivisual intellectual assessment of Chippewa, Muncey, and 
+Oneida children using the WISC-R. Canadian Journal of school 
+Psychology . 1, 15-21. 
+
+Schwesinger, G. C. (1953). The IPAT cultural free intelligence 
+tests. In 0. Buros (Ed.), Forth mental measurements yearbook. 
+New York: Gryphon Press, 402. 
+
+Seyfort, B., Spreen, 0., & Lahmer, V. (1980). A critical look at 
+the wiflC-R with Native Indian children, Alhfirfrfl ilouxnaJ nf 
+
+Educational Research , 26 f 14-24. 
+
+Smith, I. N. (1959). IPAT cultural free intelligence tests. In 0. 
+Buros (Ed.), Fifth mental measurements yearbook. New York: 
+Gryphon Press, 473-474. 
+
+Statistics Canada (1984). 1981 Census of Canada; Population; 
+Ethnic origin . Ottawa: Minister of supply and Services 
+Canada . 
+
+Taylor, R. L., Ziegler, E. W., Partenio, I. (1984). An 
+
+investigation of WISC-* verbal-performance differences as a 
+function of ethlnlc status. Psychology In the Schools , 21 , 
+437-441. 
+
+Teuber, J. P. t & Furlong, M. J. (1985). The concurrent validity 
+of the expressive one-word picture vocabulary test for 
+Mexican-amer lean children. Educational Review ,. 22.* 269-273. 
+
+Vernon, P. E. (1966). Educational and intellectual development 
+among Canadian Indians and Eskimos. Part 1, 2. Educational 
+Review , L$_, 79-91 & 186-196. 
+
+Vernon, P. E. (1969). Educational and intellectual development 
+among Canadian Indians and Eskimos. Part 1,2. Educational 
+Review . i&, 79-91 & 186-196. 
+
+Vernon, P. E. (1976). Modifications in WISC-R for Canadian use. 
+' Canadian Psychological Association Bulletin, £, 4-5. 
+
+Wechsler, D. (1974). Manual for the Wechsler I ntelligence scale 
+for children - Revised . New York: Psychological Corporation. 
+
+Zarske, J. A., & Moore, C, L. (1982). Recategor ized WISC-R scores 
+for non-handicapped, learning disabled, educationally 
+disadvantaged and regular classroom Navajo children, school 
+Psychology Review, H, 319-323. 
+
+
+
+ERIC C3 
+
+
+

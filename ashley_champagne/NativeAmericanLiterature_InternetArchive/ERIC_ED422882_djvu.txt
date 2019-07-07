@@ -1,0 +1,851 @@
+DOCUMENT RESUME 
+
+
+
+ED 422 882 
+
+
+
+IR 019 023 
+
+
+
+AUTHOR 
+
+TITLE 
+
+
+
+SPONS AGENCY 
+
+PUB DATE 
+NOTE 
+
+
+
+PUB TYPE 
+
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+Wang, Deming D.; Lee, Richard C. ; Chen, Chunju 
+The Role of Distance Education and Major Factors That 
+Influence Minority Adults* Participation in Educational 
+Programs . 
+
+Wisconsin Univ. System, Milwaukee. Inst, on Race and 
+Ethnicity. 
+
+1998-00-00 
+
+7p . ; In: Distance Learning * 98 . Proceedings of the Annual 
+Conference on Distance Teaching & Learning (14th, Madison, 
+WI, August 5-7, 1998); see IR 018 976. 
+
+Information Analyses (070) -- Reports - Research (143) -- 
+
+Speeches/Meeting Papers (150) 
+
+MF01/PC01 Plus Postage. 
+
+♦Access to Education; *Adult Education; Continuing 
+Education; *Distance Education; Educational Needs,* 
+Educational Technology; *Equal Education; *Ethnic Groups; 
+Higher Education; Literature Reviews; *Minority Groups; 
+National Surveys; Policy Formation; Statistical Analysis; 
+Student Educational Objectives 
+National Center for Education Statistics 
+
+
+
+ABSTRACT 
+
+
+
+This paper describes a study partially supported by a grant 
+from the Institute on Race and Ethnicity of the University of Wisconsin (UW) 
+System. The study was designed to examine the major factors, including 
+distance teaching and learning and relevant technological innovations, that 
+affect adult education for ethnic minorities; for the purpose of this study, 
+ethnic minorities include all African, Asian, Hispanic, and Native American 
+adults. Data sets provided by the National Center for Education Statistics 
+(NCES) were used to accomplish three objectives: (1) to investigate the 
+
+extent and scope to which the minority groups are served by adult educational 
+establishments, including the specific needs and existing barriers for 
+minority adults to obtain distance education; (2) to examine the role and 
+contributions of distance teaching and learning and relevant educational 
+technologies in facilitating the access of adult education by ethnic minority 
+groups; and (3) to stimulate further research interest and draw broader 
+attention by sharing the initial results with scholars, policy-makers, and 
+the general public, regarding issues about distance education, adult 
+education, and minority education. Charts and graphics presenting research 
+results are not included. (Author/DLS) 
+
+
+
+******************************************************************************** 
+
+
+
+* Reproductions supplied by EDRS are the best that can be made * 
+
+* from the original document. * 
+
+******************************************************************************** 
+
+
+
+
+^3 ED 422 882 
+
+
+
+U.S. DEPARTMENT OF EDUCATION 
+
+Office of Educational Research and Improvement 
+
+EDUCATIONAL RESOURCES INFORMATION 
+CENTER (ERIC) 
+
+□ This document has been reproduced as 
+received from the person or organization 
+originating it. 
+
+□ Minor changes have been made to 
+improve reproduction quality. 
+
+* Points of view or opinions stated in this 
+document do not necessarily represent 
+official OERI position or policy. 
+
+
+
+Dean 
+
+
+
+The Role of Distance Education and 
+Major Factors That Influence Minority Adults’ 
+Participation in Educational Programs 
+
+Deming D. Wang, Ph.D. 
+
+Director of Computer and Media Services 
+Alma College 
+
+Richard C. Lee, Ph.D. 
+
+of Graduate Studies, Continuing Education and Summer Session 
+University of Wisconsin- White water 
+
+
+
+‘•PERMISSION TO REPRODUCE TH^S 
+
+material has been granted by 
+C.H. Olgren 
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC). 
+
+
+
+Chunju Chen, Ph.D. 
+Director, Institutional Research 
+University of Wisconsin- Whitewater 
+
+
+
+Abstract 
+
+This study has been partially supported by a grant from the Institute on Race and Ethnicity 
+of the UW System for examining the major factors, including distance teaching and learning 
+and relevant technological innovations, that affect adult education for ethnic minorities. 
+
+Data sets provided by the National Center for Education Statistics (NCES) were used to 
+accomplish three objectives: First, to investigate the extent and scope to which the minority 
+groups are served by adult educational establishments, including the specific needs and 
+existing barriers for minority adults to obtain education; Second, to examine the role and 
+contributions of distance teaching and learning and relevant educational technologies in 
+facilitating the access of adult education by ethnic minority groups; Finally, to stimulate 
+further research interest and draw broader attention by sharing the initial results with 
+scholars, policy-makers, and the general public regarding issues about distance education, 
+adult education and minority education. 
+
+Background and Introduction 
+
+During the years of 1991, 1993, 1995, and 1996, the National Center for Education Statistics 
+(NCES) collected data through a series of national household education surveys (NHES), of 
+which, an important dimension concerns the various activities, facilities, and environment of 
+adult learning. In the surveys conducted in 1991 and 1995 respectively, components were 
+added focusing on a wide range of adult education experiences. A collection of rich 
+information was gathered from nationally sampled participants and non-participants of 
+different adult education programs. 
+
+NHES is a telephone survey of the noninstitutionalized civilian population of the United 
+States. Households were selected by using random-digit-dialing methods, and data were 
+collected using computer-assisted telephone interviewing. The sample size is 25,137 cases for 
+1991 survey and 78,888 cases for 1995 survey, involving both participants and non- 
+participants of adult education programs. One of the goals for NHES survey was to ensure a 
+reliable estimates for subdomains defined by race and ethnicity. Estimates by race and 
+ethnicity were key in developing the sample size. Blacks and Hispanics were sampled at 
+
+
+
+RJC 
+
+
+
+2 
+
+
+
+The Role of Distance Education ❖ 423 
+
+
+
+✓ 
+
+
+
+higher rates to improve the reliability of estimates for these groups (NCES report. May 
+1997). 
+
+In recent years, fast technology advancement has made distance education and technology- 
+assisted instructions an unavoidable phenomenon in all aspects of education programs, 
+including adult education. In 1995, NCES added a group of questions which are directly 
+asked the survey participants about whether they learned knowledge or preformed specific 
+tasks by using computer instruction, by interactive video instruction without an instructor 
+present; or by receiving instructions through telephone. In addition, the NHES survey 
+coordinators informed the researchers of this article that they realize the increasing 
+importance of distance education in adult education. In the NCES's planned 1999 NHES 
+survey, distance education related questions will become a major section. 
+
+Linking the distance learning methods the survey participants adopted, the available data 
+sets contain detailed rich information of the subjects relevant to this study, including ethnic 
+background, age, gender, family economic status, the whole family's education related 
+issues, type of adult education programs participated, courses taken, instructional methods 
+involved (computer-assisted, video instruction, etc.), approaches used to participate (by 
+directly going to campus of an institution, or through certain kind of distance education 
+facilities, such as by mail, radio /television, and other means /technologies), intensity of the 
+study (part/full time and attending frequency), reasons for taking the course(s), specific 
+barriers to participation in adult education, and results/ achievements. We have obtained 
+permission from NCES to use the data in this study. 
+
+Research Results 
+
+
+
+Relevant Literatures 
+
+An extensive literature review reveals basic patterns of current research on ethnic minorities 
+and their access to education. To a large extent, most studies on ethnic minorities stress the 
+changing demographic structures and the need to be aware of the developing trend and 
+impact on the society. Echoes are repeated among these studies that the traditionally 
+classified minority groups are playing an increasingly prominent role in national economic 
+prosperity and social stability. Meanwhile, accesses to education have been inadequate for 
+minorities, especially among the adults, while their actual needs are growing continually. In 
+this particularly crucial area, efforts of empirical research have not kept pace in terms of both 
+quantity and scope at the general level, and even less in some specific aspects, such as 
+improving minority access by taking advantage of today's delivering technologies. 
+
+Eight years ago, Jan Jackson insightfully pointed out that adult education in America is 
+urgently in need of a much improved agenda as we are quickly approaching the twenty-first 
+century (Jackson 1989). The society and the general public can benefit in multiple ways by 
+becoming more aware of the special needs in a changing multicultural environment. It 
+should be no surprise that what defined as minority groups today will together constitute 
+the majority population in the foreseeable future. Meanwhile, insufficient access to 
+education continues contributing to the limited job and life opportunities, consequent 
+poverty, and various problems of the disadvantaged minority (Brazziel 1993; Knox 1993). 
+
+Other related studies report that generally educational services to ethnic minorities are 
+deficient and the situation is most detrimental for the adult population. The lack of a 
+
+
+
+
+424 ❖ Wang, Lee, & Chen 
+
+
+
+3 
+
+
+
+national action to vigorously involve ethnic minorities in educational programs can be 
+attributed to the low status of adult education, shortsightedness, biases or discrimination, 
+and shortage of financial resources (Barrera 1994; Cassara 1991). Research findings proposed 
+various challenges for the adult education programs in the United States to tackle in order to 
+better serve the entire society by giving more attention to minority issues. To start with, the 
+society need to realize that it serves the whole society better to replace the melting pot 
+concept with cultural pluralism. Thus, persons from various backgrounds can have more 
+appreciation of each other without forfeiting their cultural heritage. Accordingly, more 
+cross-cultural education is necessary for all individuals to have a better understanding of 
+each other's differences. Another challenge refers to the formulation and implementation of 
+a national policy to provide pertinent, fundamental, and accessible educational 
+opportunities for minority adults to make educational decisions and to empower 
+themselves. Still another critical challenge is about establishing and maintaining dependable 
+financing resources in a time of economic crisis, and so on (Cassara 1991). 
+
+Research continues documenting strong evidence that education, especially adult education, 
+may provide the key to unlock and develop the under-developed and under-utilized human 
+potentials, and eventually, get out of the impasse of impoverishment and improve the 
+despaired situation of powerlessness. Education is responsible and capable of responding to 
+the emerging diversity of human needs and the changing world of work. Thanks to the 
+invaluable resources of educational establishment, the society is blessed with all the facilities 
+for effectively reaching all individuals regardless of their age, gender, economic status, and 
+racial background (Jackson 1989). The remarkable penetration and expansion of distance 
+education in all levels of educational institutions have continually improved the capacity of 
+knowledge delivery and learning efficiency. Accelerating technological advancement has 
+greatly strengthened the institution, expanding its horizons and opening new paths with 
+ample resources at affordable costs. Constant educational innovations, combined with the 
+continually improved campus infrastructure, promise the most optimum learning results 
+with the flexibility of time, location, approach, and size of audience. The literature shows 
+that this new horizon bring new promises and encouragement to adult learners. As some of 
+the most recent research reveals, the non-traditional students, often the minority work force 
+members, are highly motivated for degree programs provided through by distance learning 
+(Manzo 1997; Parrott 1994; Portway & Lane 1994; Withrow 1997). 
+
+There is an urgent need to gain relevant in-depth new knowledge in the most fundamental 
+aspects of distance education to answer such practical questions as: Who are the current and 
+prospective learners/ users of the various kinds of distance education facilities? What are 
+their needs and expectations in the context of fast changing socio-economic-technical 
+background? What are the trends, directions, and changes of development of course 
+demands and capacity of offerings from remote sites? It is therefore both necessary and 
+plausible to devote special efforts to promote minority education for the well-being of the 
+whole society with a long-term commitment and sharp vision into the future. As the existing 
+research indicates, there is an apparent gap between the fast development of distance 
+teaching and learning systems, programs, curriculum and course offerings and a good 
+understanding of the overall structure, scope, key features, and the trend of development 
+and potentials instructional technology applications in remote modes of teaching and 
+learning. 
+
+
+
+
+The Role of Distance Education ❖ 425 
+
+
+
+As a result of the national education goals and the concern about America's ability to 
+compete in a global economy, there has been a heightened interest in enhancing and 
+improving access to adult learning, with considerable amount of attention on minority 
+education as a result of the dramatic demographic changes. Meanwhile, the proportion of 
+public funding for education is decreasing, which makes it not necessary but imperative to 
+study the role of distance education technology advancement. Next important agenda in 
+order is the increasing demand for effective management of postsecondary education 
+relying on information from solid empirical data for decision-making and for guidance of 
+innovative teaching and learning activities. Based on the specific needs of adult learners, 
+human being's teaching and learning would see the remarkable penetration and expansion 
+of distance education in all levels of educational institutions. Constant educational 
+innovations, combined with the continually improved campus infrastructure, promise the 
+most optimum learning results with the flexibility of time, location, approach, and size of 
+audience. 
+
+Methodology 
+
+The National Household Education Survey series contain rich information about educational 
+background, language capabilities, apprenticeship, employment conditions, job related 
+experience and activities, and household characteristics of the adult population. Such 
+information is available and largely consistently collected in multiple years. This paper 
+focuses on the traditionally under-represented minority adults and the relevance of distance 
+education facilities to their access to, and success in, formal education. For the purpose of 
+this study, ethnic minority include all African, Asian, Hispanic and Native American adults. 
+Key variables have been carefully selected and/or constructed while the relevant cases are 
+divided into subgroupings for detailed examination and comparison. 
+
+Both descriptive and inferential statistics are employed for data analysis. Basic demographic 
+characteristics are summarized using statistical charts and tables for simple presentation, 
+comparison and elaboration. Factor analysis and cluster analysis are used to further explore 
+the relationship among variables and to identify relevant underlying structures. In addition, 
+canonical analysis are useful to examine the relationship between the two main sets of 
+variables: adult education experiences and distance education facilities. A major proportion 
+of the data analysis is performed using the SPSS, SAS and other statistical packages available 
+on our IBM mainframe computer and workstations running the Windows version of 
+applications. The results will be presented at the conference by charts and graphics. 
+
+The principle investigators focus their research attention on four areas. First, the course- 
+taking formats and learning activities of adult learners, e.g., whether they take the courses 
+by mail, telephone, television, radio, newspaper, computer or interactive videos. Second, the 
+reasons the adult learners decide to take the courses: to improve, advance, or keep up to 
+date on their current job, to train for a new job or a new career, to improve their basic 
+reading, writing, or math skills, to meet a requirement for a diploma, degree, or certificate of 
+completion, or for a personal, family, social reasons, or for any other reasons. Third, the 
+barriers which have kept the adult learners from participating in the required adult 
+education programs: e.g. work schedule, meeting times of classes, cost of classes, location of 
+classes, lack of transportation to classes, lack of child care, miscellaneous family 
+responsibilities, lack of information about available classes, classes of interest are not offered, 
+etc. Fourth, the types of courses they are taking: e.g., adult basic skills and general education 
+
+
+
+
+426 ❖ Wang, Lee, & Chen 
+
+
+
+5 
+
+
+
+development preparation classes, English as a second language instruction, courses taken 
+toward college degrees or vocational or technical certificate, apprenticeship programs, career 
+or job-related courses, etc. 
+
+With the focused aim on studying the role of distance education delivery approaches, the 
+researchers studied the relationship between the formats the adult learners take courses and 
+their specific barriers; to examine whether distance education delivery formats have any 
+significant impacts on their participation patterns; to examine the relationship between their 
+needs and their participation patterns; and to compare whether the variable of ethnicity has 
+any significant impact on their adult education activities. 
+
+References 
+
+Barrera, A. (1994). Distance learning: The challenge for a multicultural society. Occasional 
+Papers in Bilingual Education, 8. 
+
+Brazziel, W. F. (1993, June). Shaping graduate education's future: Implications of demographic 
+shifts for the 21st century. Paper presented at the Annual Conference of the Canadian 
+Society for the Study of Higher Education, Ontario, Canada. 
+
+Cassara, B. B. (1991, April). Multiculturalism: The Challenge to adult education in the United 
+States. Paper presented at the Executive Committee Meeting of the International Council 
+for Adult Education at Gothenborg, Sweden. 
+
+Jackson, J. (1989) ACHE (Association for Continuing Higher Education) 1989 Proceedings. San 
+Bernardino: California State University. 
+
+Knox, A. B. (1993). Strengthening adult and continuing education. San Francisco: Jossey-Bass 
+Publishers. 
+
+Macias, R., & Rose, D. J. (1994, August). Wired for Knowledge. Hispanic, 7 (7), 17-18, 20, 22. 
+
+Manzo, K. K. (1997, February). Lifestyle-friendly education: Non- traditional colleges and the 
+off-campus approach. Black Issues in Higher Education, 13(26), 42-43. 
+
+Parrott, S. (1994). Future learning: Distance education in community colleges. ERIC Digest. 
+
+Portway, P. S. & Lane, C. (1994). Teleconferencing & distance learning. San Ramon, CA: 
+
+Applied Business Telecommunications. 
+
+Withrow, F. B. (1997). Technology in education and the next twenty-five years. Technological 
+Horizons in Education Journal 24(11), 59-61. 
+
+Autobiographical Sketches 
+
+Dr. Deming Wang is currently the Director of Computer and Media Services at Alma College, 
+MI. He received his doctorate from the University of Minnesota-Twin Cities, with 
+specialization in computer and information technology applications in the social sciences, 
+statistical programming, and data management. He has over ten years of college level 
+
+
+
+
+6 
+
+
+
+The Role of Distance Education ❖ 427 
+
+
+
+teaching experience in data analysis, research methodology, and computer systems and 
+applications. 
+
+Dr. Richard Lee is the Dean of Graduate Studies, Research and Continuing Adult Education 
+and a Professor of Special Education at the current campus. He holds a Ph.D. in Special 
+Education and Rehabilitative Clinical Child Psychology from the University of Illinois at 
+Urbana-Champaign (1979) and a masters of science (1976) and a bachelor of science (1975), 
+both in Educational Psychology (Human Learning and Child Development emphases), from 
+the University of Wisconsin-Milwaukee. The Dean is the author of five books and numerous 
+research monographs, articles and professional papers reflecting the results of studies that 
+employed a wide range of experimental and survey research methodologies. 
+
+Dr. Chunju Chen is the Director of Institutional Research. Both her master and Ph.D. of 
+Vocational and Technical Education were obtained from the University of Minnesota. Her 
+daily job responsibilities involve a wide range of quantitative and quantitative research 
+skills. She has presented at numerous professional conferences on adult education and 
+extension. Her paper on perceptions of the priorities of Minnesota Extension Service's 
+mission received the "Outstanding Research Award" from the Annual Central Region 
+Research Conference of American Association for Agricultural Education. 
+
+Address: Provost Office 
+
+UW-Whitewater 
+Whitewater, WI 53190 
+Email: chenc@uwwvax.uww.edu 
+
+Phone: (414) 472-1276 
+
+Fax: (414) 472-1518 
+
+
+
+ERIC 
+
+
+
+428 ❖ Wang, Lee, & Chen 
+
+
+
+7 
+
+
+
+f 
+
+
+
+
+U.S. Department of Education 
+
+Office of Educational Research and Improvement (OERI) 
+National Library of Education (NLE) 
+Educational Resources Information Center (ERIC) 
+
+
+
+
+REPRODUCTION RELEASE 
+
+(Specific Document) 
+
+
+
+I. DOCUMENT IDENTIFICATION: 
+
+
+
+Title: 
+
+CdtoFttLivcz. w D.rravc.^. 
+
+
+H:AC-t/rAJC> /4 a>0 4J£, 
+
+
+Author(s): a/ A~ 
+
+
+Corporate Source: 
+
+
+
+
+Publication Date: 
+
+
+IfAJ/ l/US'-r*} W 
+
+
+
+
+
+
+
+II. REPRODUCTION RELEASE: 
+
+In order to disseminate as widely as possible timely and significant materials of interest to the educational community, documents announced in the 
+monthly abstract journal of the ERIC system, Resources in Education (RIE), are usually made available to users in microfiche, reproduced paper copy, 
+and electronic media, and sold through the ERIC Document Reproduction Service (EDRS). Credit is given to the source of each document, and, if 
+reproduction release is granted, one of the following notices is affixed to the document. 
+
+If permission is granted to reproduce and disseminate the identified document, please CHECK ONE of the following three options and sign at the bottom 
+of the page. 
+
+
+
+The sample sticker shown below will be The sampla sticker shown below will be The sample sticker shown below will be 
+
+affixed to all Level 1 documents affixed to all Level 2A documents affixed to all Lave! 2B documents 
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL HAS 
+BEEN GRANTED BY 
+
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL IN 
+MICROFICHE, AND IN ELECTRONIC MEDIA 
+FOR ERIC COLLECTION SUBSCRIBERS ONLY, 
+HAS BEEN GRANTED BY 
+
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL IN 
+MICROFICHE ONLY HAS BEEN GRANTED BY 
+
+
+P «\® 
+
+
+
+
+A 0 
+
+
+
+
+J? 
+
+
+<b& 
+
+
+
+
+cV* 
+
+
+
+
+cf 
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+
+\ 
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+
+TO THE EDUCATIONAL RESOURCES . 
+INFORMATION CENTER (ERIC) 
+
+
+1 
+
+
+
+
+2A 
+
+
+
+
+2B 
+
+
+
+Level 1 
+
+
+Level 2A 
+
+
+Level 2B 
+
+
+
+
+i 
+
+
+
+
+i 
+
+
+t 
+
+
+
+
+is' 
+
+
+
+
+□ 
+
+
+□ 
+
+
+Check here for Level 1 release, permitting reproduction 
+and dissemination in microfiche or other ERIC archival 
+media (e.g., electronic) and paper copy. 
+
+
+Check here for Level 2A release, permitting reproduction 
+and dissemination in microfiche and in electronic media 
+for ERIC archival collection subscribers only 
+
+
+Check here for Level 2B release, permitting 
+reproduction and dissemination in microfiche only 
+
+
+
+Documents will be processed as indicated provided reproduction quality permits. 
+
+If permission to reproduce is granted, but no box is checked, documents will be processed at Level 1 . 
+
+
+
+Sign 
+
+
+
+here,-* 
+
+
+
+O >se 
+
+ERLC 
+
+
+
+I hereby grant to the Educational Resources Information Center (ERIC) nonexclusive permission to reproduce and disseminate this document 
+as indicated above. Reproduction from the ERIC microfiche or electronic media by persons other than ERIC employees and its system 
+contractors requires permission from the copyright holder. Exception is made for non-profit reproduction by libraries and other service agencies 
+to satisfy information needs of educators in response to discrete inquiries. 
+
+
+
+Signature: * 
+
+z/ 
+
+Organization/Address: ^ 
+
+
+
+44 
+
+
+
+Organization/Address: 
+
+UW a 
+
+
+
+lo&t> A*' &i 3*4 
+
+
+
+AlA'DtPjiJ M 
+
+
+
+
+
+
+Printed Name/PosttiorVTitle: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date: 
+
+
+
+(over) 
+
+
+
+III. DOCUMENT AVAILABILITY INFORMATION (FROM NON-ERIC SOURCE): 
+
+| 
+
+If permission to reproduce is not granted to ERIC, or, if you wish ERIC to cite the availability of the document from another source, please 
+provide the following information regarding the availability of the document. (ERIC will not announce a document unless it is publicly 
+available, and a dependable source can be specified. Contributors should also be aware that ERIC selection criteria are significant^ more 
+stringent for documents that cannot be made available through EDRS.) ' " 
+
+
+
+Publisher/Distributor: 
+
+Address: 8/3& 
+
+yfi A fr/Jhr/J' Cj/ 
+
+PriCS* eJt 
+
+
+
+IV. REFERRAL OF ERIC TO COPYRIGHT/REPRODUCTION RIGHTS HOLDER: 
+
+If the right to grant this reproduction release is held by someone other than the addressee, please provide the appropriate name and 
+address: 
+
+
+
+
+V. WHERE TO SEND THIS FORM: 
+
+
+
+Send this form to the following ERIC Clearinghouse: 
+
+
+
+However, if solicited by the ERIC Facility, or if making an unsolicited contribution to ERIC, return this form (and the document being 
+contributed) to: ' 
+
+ERIC Recessing and Reference Facility 
+100 West Street, 2 nd Floor 
+Laurel, Maryland 20707-3598 
+
+
+
+O 
+
+ERIC 
+
+. J88 (Rev. 9/97) 
+
+PREVIOUS VERSIONS OF THIS FORM ARE OBSOLETE 
+
+
+
+TelepKWe: 301-497-4080 
+Toll F raei 800-799-3742 
+FAX 301^953-0263 
+e-mail: ericfac@inet.ed.gov 
+WWW: http://ericfac.piccard.csc.com 
+
+
+

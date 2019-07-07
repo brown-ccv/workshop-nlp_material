@@ -1,0 +1,2230 @@
+Journal of Advanced Acaden 
+
+
+
+Volume 19 Number 2 Winter 2008 pp. 202-235 
+
+
+Expanding 
+Opportunities for 
+High Academic 
+Achievement: 
+
+
+An International Baccalaureate Diploma 
+Program in an Urban High School 
+
+
+Anysia P. Mayer 
+
+University of Connecticut 
+
+
+1 1s it possible to use well-defined academic programs to prepare 
+low-income students and students of color for 4-year universi- 
+ties and to interrupt the reproduction of social and educational 
+disadvantage (Bourdieu ScPasseron, 1990)? What does it take to 
+establish a high-quality academic program in a low-performing 
+high school serving these students? What are the consequences 
+of trying something of this sort — for the program and for the stu- 
+dents who participate in it? Federal incentives and the standards 
+set forth in the No Child Left Behind Act (NCLB; 2001) have 
+prompted struggling urban school districts across the country to 
+introduce rigorous curriculum like Advanced Placement (AP) 
+courses and International Baccalaureate (IB) programs to help 
+raise students’ academic performance (Kyburg, Hertberg-Davis, 
+& Callahan 2007). Although AP and IB programs have become 
+important signals of college readiness, there is little empiri- 
+cal evidence to justify using these programs as a type of school 
+reform effort to stimulate high academic achievement among 
+
+
+202 
+
+
+Copyright © 2008 Prufrock Press, P.O. Box 88 1 3, Waco, TX 7671 4 
+
+
+Students of color are consistently underrepresented in honors and gifted 
+programs nationwide. Research suggests that even high-achieving stu- 
+dents share many of the risk factors with their low-achieving peers. As a 
+result, their continued academic success is far from assured. In addition, 
+research on academic intervention programs designed to help these 
+students suggests these programs are not widespread or institutional- 
+ized in schools in ways that will lead to meaningful gains in closing 
+the achievement gaps at the high end of the academic spectrum. The 
+study presented in this paper employed mixed methods to investigate 
+the relationship between the design of a rigorous college preparatory 
+program, the International Baccalaureate Diploma Program (IB), and 
+the socioeconomic status of the students the program serves. The study 
+found that an open admission International Baccalaureate (IB) program 
+was successfully attracting and retaining African American, Latino, and 
+Native American students from economically disadvantaged back- 
+grounds. Findings are attributed to IB teachers' deeply held belief in the 
+ability of the students to meet the rigor of the program. This IB program 
+also has instituted a number of academic and social support mecha- 
+nisms to keep students motivated to pursue the challenging curriculum. 
+
+
+Mayer, A. P. (2008). Expanding opportunities tor high academic achievement: An 
+International Baccalaureate Diploma program in an urban high school . Journal of Advanced 
+Academics, 19, 202-235. 
+
+
+summary 
+
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+low-income Latino and African American students (Kyburg et 
+al., 2007). In this article, I describe a research study designed to 
+answer these important questions. My findings reveal that imple- 
+menting a rigorous academic curriculum was only the first step 
+in the process of raising the academic achievement of Latino and 
+African American students. To maintain the academic rigor of 
+the IB program, educators had to implement additional academic 
+and social support mechanisms to ensure students were able to 
+meet the numerous challenges of the IB program. My findings 
+suggest that not only can an urban school serving Latino and 
+African American students successfully implement a rigorous 
+college preparatory program such as IB, with the appropriate 
+scaffolds, this program can benefit a wide range of students. 
+
+This paper begins with a brief overview of the literature that 
+documents the academic achievement gap among high-achiev- 
+ing Latino and African American students, as well as the lit- 
+erature on intervention programs designed to ameliorate these 
+gaps. Following a description of my methodology, I present the 
+recruitment and admission practices employed by the program I 
+studied. I conclude with a description of the academic and social 
+scaffolds developed and implemented by local IB teachers that 
+directly support students’ academic achievement. 
+
+
+Academic Achievement 
+and Educational Opportunity Gaps 
+
+Even High-Achieving Latino and African American 
+Students Do Not Achieve at the Same Level as Their White 
+and Asian Peers 
+
+Closing the academic achievement gap is one of the most 
+pressing issues facing policy makers and educators. This gap is 
+not just a phenomenon that exists at the midrange of scores; it is 
+a significant feature of the upper range as well. For example, the 
+top fifth of Latino students in 2002 had a SAT verbal score of 598 
+and mean of 646 on the SAT math compared to score of 663 and 
+
+
+204 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+Table 1 
+
+Mean GPAs of High School Graduates 
+by Gender and Ethnicity 
+
+
+Male 
+
+2.86 
+
+Female 
+
+3.09 
+
+Asian 
+
+3.16* 
+
+Latino 
+
+2.82* 
+
+African American 
+
+2.69* 
+
+White 
+
+3.05 
+
+
+Note. From High School Transcript Study (HSTS), 1990—2005 , by U.S. Department 
+of Education, National Center for Education Statistics, 2007, Washington, DC: U.S. 
+Department of Education, Government Printing Office. Retrieved March 6, 2008, from 
+http://nationsreporteard.gov/hsts_2005/data_hs_gpa_3a_lc.asp 
+
+* Significantly different from White graduates. 
+
+720 respectfully for the top fifth of White students (Gandara, 
+2005). This is a difference of two thirds to three fourths of a stan- 
+dard deviation. The recently published High School Transcript 
+Study (Shettle et al., 2007) reveals that the GPAs for Mexican 
+American and African American students also lagged behind 
+their White and Asian counterparts (see Table 1). Fewer African 
+American and Latino students are enrolling in a college prepa- 
+ratory curriculum (see Table 2). In examining two national data 
+sets — the Early Childhood Longitudinal Study (ECLS) and 
+the National Educational Longitudinal Study (NELS) — even 
+the top quintile of Latino students in these studies scored lower 
+than White and Asian American students. A closer investigation 
+reveals that the family backgrounds of high-achieving minor- 
+ity students tend to look more like those of their low-achieving 
+peers than their high-achieving peers. Thus, even high-achiev- 
+ing students share the same risk factors 1 as low-achieving stu- 
+dents (Barton, 2003). According to ECLS-K 1998 data, Latino 
+high-achieving students are far more likely than White students 
+to have a mother or father with less than a bachelor’s degree 
+(Gandara, 2005). They also are less likely than White high per- 
+
+
+Volume 19 Number 2 Winter 2008 205 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+Table 2 
+
+Percentage Distribution of High School Graduates in a 
+Rigorous Academic Curriculum** By Ethnicity, Academic 
+
+Year 2005 
+
+
+Ethnicity 
+
+White 
+
+11 
+
+African American 
+
+6 
+
+Hispanic 
+
+8 
+
+Asian 
+
+22 
+
+
+Note. From High School Transcript Study (HSTS), 1990-2005 , by U.S. Department 
+of Education, National Center for Education Statistics, 2007, Washington, DC: U.S. 
+Department of Education, Government Printing Office. Retrieved March 6, 2008, from 
+http://nationsreportcard.gov/hsts_2005/data_hs_curr_2b_lc.asp 
+
+**4 years of English; 3 years eaeh of social studies, mathematics (which includes precaleu- 
+lus or higher), and science (which includes biology, chemistry, and physics); and 3 years of 
+foreign language. 
+
+
+formers to live with their two biological parents. Looking at the 
+other end of the academic pipeline, the NELS data replicates 
+many of the patterns found in the ECLS data. High-achieving 
+Latino students in the NELS sample are more likely to have 
+parents with low levels of education; more than 25% of Latino 
+students compared with 5% of the White sample have at least 
+one parent without a high school diploma (Gandara, 2005). 
+
+African American, Latino, and Native American students 
+are underrepresented in programs for the gifted and talented 
+throughout the nation, and White and Asian students are over- 
+represented. Table 3 shows the percentage of each ethnic group 
+participating in these classes in K-12 in the 1997 school year, 
+the most recent year for which these data are available. Tables 
+4 and 5 show more recent data on students enrolled in K-12 
+gifted programs in states serving high percentages of minority 
+students. 
+
+As Gandara (2005) pointed out, it does not make numeri- 
+cal sense to attempt to close the academic achievement gap by 
+focusing only on the lowest third of students. Yet under cur- 
+
+
+206 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+Table 3 
+
+Percent Participation in Gifted and Talented Classes by Ethnic 
+Group and Percent K-l 2 Population, 1997 
+
+
+
+
+Percent K-12 
+
+Ethnic Group 
+
+Percent of Gifted 
+
+Population 
+
+White 
+
+76.61 
+
+64.0 
+
+Black 
+
+6.63 
+
+17.0 
+
+Hispanic 
+
+8.56 
+
+14.3 
+
+Asian 
+
+6.63 
+
+3.1 
+
+Native Am 
+
+.90 
+
+1.1 
+
+Note. From The Condition of Education 1998 , by U.S. Depar 
+
+tment of Education, National 
+
+Center for Education Statistics, 1999, Washington, DC: U.S. Department of Education, 
+
+Government Printing Office. 
+
+
+
+
+Table 4 
+
+
+Percent Identified as 
+
+Gifted and Talented 
+
+in 2004 by Ethnic 
+
+Group and Percent K-l 2 Population, California 
+
+
+Percent of Gifted 
+
+Percent K-12 
+
+Ethnic Group 
+
+(2004) 
+
+Population (2004) 
+
+White 
+
+47 
+
+32.9 
+
+Black 
+
+4 
+
+7.9 
+
+Hispanic 
+
+26 
+
+46.8 
+
+Asian 
+
+22 
+
+11.3 
+
+Native Am 
+
+1 
+
+.82 
+
+Note. Data from California Department of Education (2005) and National Association for 
+
+
+Gifted Children (2005). 
+
+
+rent accountability systems this is what local leaders believe they 
+must do to meet federal and state academic requirements. The IB 
+coordinator at the high school examined in this paper reported 
+that even at his school this was the case. 
+
+
+Volume 19 Number 2 Winter 2008 207 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+Table 5 
+
+Percent Identified as Gifted and Talented in 2004 By Ethnic 
+Group and Percent K-l 2 Population, Texas 
+
+
+Ethnic Group 
+
+Percent of Gifted 
+(2004) 
+
+Percent K-12 
+Population (2004) 
+
+White 
+
+55 
+
+38 
+
+Black 
+
+8.5 
+
+14 
+
+Hispanic 
+
+20 
+
+45 
+
+Asian 
+
+6 
+
+3 
+
+Native Am 
+
+0 
+
+.3 
+
+
+Note. Data from National Association for Gifted Children (2005) and Texas Education 
+Agency Information Analysis Division (2004). 
+
+
+He said, 
+
+The school community has chosen to place its energy and 
+emphasis on numerical indicators of student progress. 
+
+The prevailing educational philosophy within the school 
+is to focus on improving the test performance of students 
+in the lowest third in order to raise overall school test 
+scores. (Diploma program evaluation, March 25, 2005) 
+
+Academic Interventions for Traditionally 
+Underrepresented 2 Students 
+
+Raising the achievement of high-school-age, low-income stu- 
+dents of color to levels of “high achievement” is generally seen in 
+the literature as helping these students become eligible for college. 
+This usually means helping students to access college preparatory 
+coursework, honors, and AP classes, and in so doing, strengthen- 
+ing their academic skills. Schools often create special intervention 
+programs for disadvantaged students that consist of activities such 
+as tutoring, summer academic bridge programs, special intensive 
+curricular interventions, SAT and ACT test preparation, and 
+
+
+208 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+peer study groups. The activities listed above are designed by pro- 
+gram administrators to help disadvantaged students overcome the 
+numerous academic achievement barriers they face. 
+
+A recent study by Gandara and Bial (2001) reviewed a 
+national sample of intervention programs. The study sought to 
+describe the kinds of strategies that are employed by program 
+staff to prepare traditionally underrepresented students for col- 
+lege and to assess the extent to which they were successful in 
+meeting this goal. Gandara and Bial investigated 13 programs 
+that had completed sufficiently rigorous evaluations to allow 
+a judgment about their effectiveness. These included school- 
+centered, classroom-centered, individual-focused, and statewide 
+models. They were initiated and supported by private founda- 
+tions, government agencies, schools, and universities. The evalua- 
+tions reviewed by Gandara and Bial provided very little evidence 
+of students’ improved academic performance. Among the most 
+effective strategies reported were: (a) close monitoring of stu- 
+dents’ personal and academic growth; (b) providing access to 
+high-quality curriculum; (c) providing appropriate “scaffolding” 
+to ensure academic success (tutoring, supplemental coursework, 
+more time on task); and (d) providing academically oriented, 
+supportive peer groups. If students are to successfully attain 
+bachelor’s degrees, students need to be both motivated to attend 
+college and adequately prepared to do college-level coursework. 
+The evidence points to a need for more comprehensive interven- 
+tion programs (Cooper, Chavira, 8c Mena, 2005). An example 
+that includes some of the key ingredients is AVID, a model that 
+combines college preparatory coursework along with additional 
+social and academic support systems (Watt, Powell, 8c Mendiola 
+2004). Some critics of expanding opportunities for students to 
+take rigorous courses argue that students either will not enroll or 
+that courses will be watered down (Loveless, 1999). 
+
+The program presented in this study seemed to be one way 
+to address weaknesses identified by Gandara and Bial’s (2001) 
+study, as it provides both access to rigorous academic courses 
+through the IB Diploma Program as well as academic and social 
+scaffolding. My findings suggest that given the right set of aca- 
+
+
+Volume 19 Number 2 Winter 2008 209 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+demic supports, high levels of academic achievement can be 
+fostered among students from diverse academic, socioeconomic, 
+and ethnic backgrounds. 
+
+The International Baccalaureate Diploma Program 
+
+The International Baccalaureate (IB) Diploma Program is 
+an internationally recognized and externally validated compre- 
+hensive program of study that provides students with access to 
+highly trained teachers and a very high-level curriculum. The 
+IB Diploma Program is a 2-year program that begins in 11th 
+grade. It is a comprehensive program composed of six subject 
+areas and a core of three additional activities. Students gener- 
+ally enroll in courses from each of the six subject areas during 
+their junior and senior year. To earn a diploma, students must 
+pass exams in all six subjects and complete the three additional 
+core activities. The overarching goal of the curriculum is for stu- 
+dents to gain both depth and breadth in each area of knowl- 
+edge and for students to reflect and think critically about how 
+all six areas of knowledge fit together (IBO, 2002). Many IB 
+programs are implemented in relatively advantaged communi- 
+ties in the U.S. where upper middle class parents have sought out 
+educational advantages for their children (IBO, 2006; Mathews, 
+2003). As of fall 2006, there were 462 schools authorized to offer 
+the Diploma Program in the U.S., representing 44% of the IB 
+schools worldwide. In recent years, schools in California, Texas, 
+Philadelphia, and New York that serve socioeconomically disad- 
+vantaged students have implemented IB Diploma Programs as a 
+type of organizational-level reform effort designed to stimulate 
+high achievement (personal interview, IBNA Executive Officer, 
+January 24, 2005). Increasing access for underrepresented stu- 
+dents to IB programs was one of the International Baccalaureate 
+North America (IBNA) Executive Board’s primary goals. Its 
+strategic plan states: 
+
+Access is the second principal concept of the new IB 
+
+plan. By creating partnerships and seeking outside fund- 
+
+
+2 1 0 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+ing, it is hoped that IBNA can expand IB programs to 
+new schools and new populations in the region. This 
+effort is not intended to diminish the achievement of 
+existing schools receiving IB services, but to add to the 
+richness and diversity of the current IB community. By 
+purposefully reaching out to all communities, by seeking 
+new ways to be inclusive, by sharing our expertise with 
+the broader population in the region, IBNA places itself 
+squarely behind the ideal expressed in the IBO mission 
+statement. These efforts will be the best response to the 
+charge of “elitism” that is leveled against IB programs. 
+IBO is unapologetic about creating and maintaining high 
+academic standards for all its academic programs, but it 
+insists that these programs should be available to all stu- 
+dents who seek the challenge of educational excellence. 
+(International Baccalaureate Organization, 2004, p. 4) 
+
+Although the recognition offered by prestigious 4-year uni- 
+versities have made AP and IB courses signals of students’ col- 
+lege readiness, there has been very little empirical research on 
+how AP and IB participants fair in college (National Research 
+Council, 2002). Adelman (1999) found students who took rig- 
+orous courses were more successful in college but AP and IB 
+courses were not the focus of his investigation. A study by Geiser 
+and Santelices (2004) specifically attempted to ascertain the pre- 
+dictive validity of AP and IB courses on college grades and reten- 
+tion of students enrolled as first-time freshman from 1998-2004 
+at all eight University of California campuses. Controlling for 
+demographic and socioeconomic variables, they found students 
+enrolled in IB courses in high school earned higher college 
+grade point averages (GPA) than students who had not taken IB 
+courses (Geiser 8c Santelices, 2004). Other research conducted 
+in a school district in New York, serving socioeconomically and 
+ethnically diverse students, attributed expanded AP and IB 
+course enrollments to students’ higher scores on Regents’ math 
+exams (Burris, Heubert, 8c Levin, 2004). A more recent study of 
+three urban high schools investigated how well IB and AP pro- 
+
+
+Volume 19 Number 2 Winter 2008 21 1 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+grams serve underrepresented students’ academic needs (Kyburg 
+et al., 2007). The paper presented a useful model that represents 
+the incredibly complex factors that influence underrepresented 
+students’ participation and success in advanced academic courses. 
+Classroom observations and interviews with teachers, students, 
+and parents at these schools revealed significant variation among 
+these groups regarding the appropriateness of the AP and IB 
+curricula to meeting students’ needs. Researchers also found that 
+successful AP and IB programs were characterized by teachers’ 
+beliefs in their students’ abilities to meet the high expectations 
+of the curricula as well as support mechanisms designed to foster 
+positive peer support groups and college-oriented activities. 
+
+
+Methodology 
+
+In 1982, as a response to a statewide effort to improve large 
+urban schools, Jefferson High School received a grant to facili- 
+tate the implementation of three small learning communities on 
+campus. The International Baccalaureate (IB) Diploma Program 
+was one of these programs, and the only one that sustained imple- 
+mentation until the time of this study in 2003. In 1991, Portville 
+School District began implementing a voluntary desegregation 
+program in an effort to draw White families back to the dis- 
+trict (all names are pseudonyms). Like many districts across the 
+country, Portville launched magnet programs at local elementary, 
+middle, and high schools in an attempt to create demographi- 
+cally balanced schools (Rossell 6c Armor, 1996) and chose to 
+include Jefferson High School’s IB program in this magnet plan. 
+According to court order, the district monitored the ethnicity 
+and socioeconomic status of students participating in the IB 
+program and took an active role in marketing the program, one 
+of three secondary-level magnet programs, to families through- 
+out the district. Thus the IB program was required to participate 
+in local recruitment events such as the Magnet Fair, held at the 
+local shopping mall each winter where the teachers and students 
+provided information about the program. The district also pro- 
+
+
+2 1 2 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+duced a color brochure describing the unique attributes of the 
+magnet programs that was mailed to local households. 
+
+School Desegregation in Portville 
+
+In 1974, a lawsuit brought about court-ordered desegre- 
+gation in Portville School District. In 1977, when the district 
+implemented a mandatory desegregation program, 59% of the 
+district’s student population was White (Rossell, 1994). The 
+mandatory desegregation plan implemented by the district 
+involved involuntary bussing of both minority and White stu- 
+dents. This program achieved its goal of creating racially balanced 
+schools. But, not unlike communities attempting to desegregate 
+schools in the South, 3 years into implementation, Portville 
+saw its White enrollment decline by 32% (Rossell, 1994). The 
+Portville community was deeply impacted by the implementa- 
+tion of these programs and has not recovered. Even though the 
+district switched to a voluntary magnet-based desegregation 
+plan in 1991, the district did not see the return of White fami- 
+lies. Due in part to a doubling of minority student enrollment, 
+Portville’s students now attend some of the most racially iso- 
+lated schools in the country (Frankenburg 6c Lee, 2002; Rossell, 
+1994). At the time of this study few White or middle class fami- 
+lies remained in the urban neighborhoods served by Portville 
+School District (as of 2007 only 14% of the district population 
+was White; Frankenburg 6c Lee, 2002) . In 2004, the courts found 
+the district schools were in compliance with U.S. Constitutional 
+requirements, and the district was declared unitary, ending the 
+34-year court case. The district was allowed to maintain the mag- 
+net programs. However, allocation of seats in magnet programs 
+was to be made according to geographic distribution. The legacy 
+of desegregation is important to this study for two reasons. First, 
+schools in South Portville, like Jefferson, were at the center of 
+the minority parents’ legal arguments claiming racial bias and 
+educational inequality. Second, although the district intended 
+to increase White enrollment by supporting the implementa- 
+tion of a rigorous college preparatory academic program like IB, 
+
+
+Volume 19 Number 2 Winter 2008 213 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+Jefferson teachers responsible for the IB program’s day-to-day 
+operations did not share this goal. 
+
+Data Collection 
+
+The literature describing the efforts of intervention programs 
+designed to increase the numbers of traditionally underserved 
+students transitioning from high school to college reported that 
+these programs were successfully helping students who were 
+already academically prepared, but they seemed to have little 
+impact on increasing the academic achievement of underpre- 
+pared students (Gandara & Bial, 2001). While collecting data 
+on university partnership programs for another research project, 
+I learned of the IB Diploma Program at Jefferson High School. 
+In light of past research, I wanted to conduct an investigation 
+of Jefferson’s IB program to understand how it operated, who 
+it served, if it were implemented according to the prescribed IB 
+model, and if it were impacting students’ academic achievement 
+and in fact sending students to 4-year universities. My investiga- 
+tion began with an initial study of all of the college prep path- 
+ways available at Jefferson, which involved an in-depth study of 
+each program’s recruitment and admissions practices. This article 
+primarily reports findings from the second study I conducted at 
+Jefferson — a study solely focused on the IB program. My under- 
+standing of the IB program and its admission and recruitment 
+practices draws on findings from the first study. 
+
+A White female, I was the only researcher involved in the 
+study and performed all of the data collection, coding, and anal- 
+ysis. My study of IB program implementation spanned across 
+dimensions such as program characteristics, local organizational 
+capacity, resources and barriers, and program outcomes. I spent 
+one day a week during the 2003-2004 academic year for a total 
+of 24 visits to Jefferson High. Although I always introduced 
+myself as a graduate student from a local university, I positioned 
+myself as an interested observer during my visits, emphasizing 
+that I was a former teacher interested in learning more about 
+
+
+2 1 4 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+the program, so as not to leave the impression that I was there to 
+judge or evaluate the program. 
+
+To gain an understanding of the program philosophy and 
+key components of the IB program, I interviewed officials from 
+the national headquarters of the IB program in New York and an 
+IB Executive Board member. Based on program documents and 
+interviews, I identified key program components and actions 
+schools would be required to take in order to implement the IB 
+model with fidelity. Using a semistructured interview protocol 
+with open-ended interview questions, I interviewed program 
+coordinators, counselors, administrators, teachers, and parents 
+affiliated with Jefferson’s IB program. I used a similar protocol 
+to interview three district administrators and a school board 
+member. I asked individuals to reflect on their experiences with 
+the program, how they came to participate in the program, how 
+they perceived the program was functioning, who they thought 
+the program served, and their experiences with parents. During 
+interviews with teachers, I asked about professional develop- 
+ment participation, years of teaching experience, and educational 
+background. I also asked teachers to compare their IB teaching 
+experiences with previous teaching experiences. The interviews 
+lasted 30-50 minutes on average. All interviews were conducted 
+individually either in a classroom or school office. Parent inter- 
+views were conducted in a group of four. Additional comments 
+from parents were collected after recruitment sessions or IB par- 
+ent meetings, until I felt I had collected the full range of parent 
+experiences. I was able to identify key program stakeholders at 
+the school, district, and national level from contact lists avail- 
+able on the Internet. IB Program coordinators provided me with 
+contact information for parents. All interviews were recorded 
+electronically and then transferred to Annotape, partially tran- 
+scribed and then coded. 
+
+Thus the primary data sources for this study were transcrip- 
+tions of 63 interviews with school personnel, parents, and IB 
+administrators. In many cases, teachers invited me to observe 
+their classes either before or after interviews. These observa- 
+tions were not included in the data analysis, but they did inform 
+
+
+Volume 19 Number 2 Winter 2008 215 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+my understanding of the IB curriculum and student-teacher 
+interactions. 
+
+To triangulate interview data, I observed after-school activi- 
+ties such as student recruitment and parent information ses- 
+sions. I made detailed field notes during these observations, then 
+I entered them into Annotape for coding and analysis. Using 
+Annotape software, I reviewed transcripts and field notes and 
+coded the data as I identified key program components in place 
+at Jefferson. I then searched the data to capture other significant 
+aspects of the IB program. Examples of these were coded as such 
+and represent the significant findings presented in this report. 
+
+A data sharing agreement between my university and the 
+Portville school district allowed me to access longitudinal tran- 
+script data for Jefferson students in attendance between 2000 
+and 2004. Additional data on Jefferson students’ university 
+attendance was collected and provided by the IBNA office in 
+New York. 
+
+Limitations of the Study 
+
+During the research process, I was well aware that my pres- 
+ence and status as a university researcher might influence respon- 
+dents’ answers to my inquiries and that staff might “try to look 
+good” for my benefit. To mitigate this influence, I attempted 
+to have numerous interactions with key stakeholders in a vari- 
+ety of situations until I was satisfied that I had obtained con- 
+sistent responses through prolonged exposure. The findings I 
+report in this study may not be generalizable beyond the school 
+I investigated. 
+
+Research Site 
+
+Jefferson High School is an urban comprehensive high 
+school that serves primarily Latino, Black, and Southeast Asian 
+students. Jefferson High has been in operation for more than 40 
+years. I was particularly interested in Jefferson because, based on 
+my review of the literature, it was a highly unlikely place to find 
+
+
+2 1 6 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+a rigorous college preparatory program. Jefferson High School 
+was receptive to researchers from the local university because 
+the school had an established relationship with the University 
+of California prior to the inception of my study When I began 
+my study, one of my first interviews was with a Portville school 
+board member. He met me at a community center not far from 
+Jefferson High for our interview. He greeted me and said, 
+“Welcome to the ghetto.” I begin my description of Jefferson 
+High School with this anecdote because the statistics that fol- 
+low describe the school, but not the labels that often come with 
+the statistics. Jefferson is an archetype of the urban comprehen- 
+sive high school in California and, perhaps, the nation. Jefferson 
+High School is set in a residential neighborhood a few miles 
+from the downtown area of a moderately sized industrial city 
+of Portville. The city of Portville is 37% Latino, 53% White, 
+11% African American, 37% Asian, and .5% Native American/ 
+Alaska Native (U.S. Census Bureau, 2005). Of the population 25 
+years and over in Portville, 68.2% have a high school diploma, 
+15.4% have a bachelor’s degree and 4.9% have a graduate or 
+professional degree (U.S. Census Bureau, 2000). Jefferson High 
+School is designated as a Title 1 school by the Department of 
+Education. Title 1 schools receive special funds from the fed- 
+eral government to provide remedial or compensatory education 
+programs for low-income students. Jefferson serves a population 
+that has all of the academic achievement risk factors identified 
+in the literature (Barton, 2003). It is large, serving 3,176 students 
+with 132 teachers on staff. It is diverse, 60% Latino, 13% Asian, 
+12% African American, 10% White, and 5% American Indian 
+or Alaskan Native. According to the California Department of 
+Education (CDE; 2005) Academic Performance Index (API) 
+report for 2005, 1,374 students were classified as economically 
+disadvantaged. Their API score was 539 of a possible 1,000 
+points in 2004. Jefferson’s API score is among the lowest in the 
+state. The school has been sanctioned or called a “high priority 
+school” under California’s school accountability system. These 
+sanctions mean that the Portville school district received addi- 
+
+
+Volume 19 Number 2 Winter 2008 217 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+tional state funding from 2001-2004 to increase students’ aca- 
+demic performance. 
+
+International Baccalaureate Diploma Program 
+Begins as a Magnet Program at Jefferson High 
+
+The following paragraphs were written by Jefferson IB’s 
+coordinators in 2004. They describe the context and the early 
+history of the IB program at Jefferson High. 
+
+The International Baccalaureate Diploma Program 
+at Jefferson High School was established in 1993 as a 
+magnet Program for Portville Unified School District in 
+California. Following desegregation of the school system 
+in 1970s, many of the affluent families in Portville moved 
+to neighborhoods in the northern part of the city. The 
+remaining population of Portville Unified School District 
+consisted of a diverse group of families from low socio- 
+economic backgrounds. In establishing the IB Diploma 
+Program in 1993, the school administrators hoped to 
+draw students from the more affluent neighborhoods of 
+surrounding districts back to Jefferson High School. 
+
+During the early years, the Program at Jefferson 
+confronted issues similar to many new IB Programs. 
+Generating energy and enthusiasm for IB was challeng- 
+ing. There were few students willing to do any IB courses. 
+
+The teachers lacked confidence in themselves and their 
+students. At the time, few teachers even expressed the 
+belief that “kids like ours” could be successful in an IB 
+Program. Thus, they were unwilling to devote the time 
+and energy that was necessary to succeed. Adding to the 
+difficulties, all of the students had to take identical classes 
+because the course offerings were limited. Students had 
+to complete district and state requirements in addition 
+to IB requirements, making the IB Diploma exceedingly 
+difficult to attain. 
+
+
+2 1 8 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+By 1999, the district and IBO were unhappy. The dis- 
+trict increasingly viewed the Program as a failure because 
+only a few students were earning the IB Diploma. The 
+Program seemed to be going nowhere and the number of 
+students entering the Program was declining. By the end 
+of the year, the district lost the magnet funding for the 
+Program. The outlook for the future of the IB Diploma 
+Program at Jefferson High School was bleak. What could 
+be done? (IBNA Journal of Best Practices, 2004) 
+
+In 1995, Jefferson had only 3 IB diploma candidates. By 1999, 
+the number had not increased. According to an IBNA official, 
+Jefferson teachers knew something needed to change or the pro- 
+gram’s authorization would be revoked by IBO (IBNA Executive 
+Official, personal interview, January 24, 2005). In 1999, in an 
+effort to rejuvenate the program, John (a history teacher) and his 
+wife Helen (an English teacher) were asked by Jefferson’s princi- 
+pal to serve as co-coordinators of the IB Diploma Program. John 
+and Helen were both Stanford University graduates. John had a 
+teaching certificate in gifted and talented education, had taught 
+at Jefferson for 30 years, and was chair of the history department. 
+Making the IB program work for the Latino, African American, 
+Asian, and Native American students from Jefferson’s attendance 
+area became John and Helen’s personal crusade. John and Helen 
+once told me in an interview, “Doing this work remains an excit- 
+ing and rewarding labor of love” (personal interview, May 31, 
+2005). As a coordinator, John proved to be both charismatic and 
+tenacious. John and Helen’s first task was to increase the number 
+of students participating in the IB program, which meant adopt- 
+ing a new admission philosophy. 
+
+The IB Admission Philosophy at Jefferson High 
+
+Given the persistent underrepresentation of minority stu- 
+dents in advanced academic programs at all levels, the issue of 
+how to identify students for participation in advanced programs 
+has garnered considerable discussion in the literature (Ford, 
+
+
+Volume 19 Number 2 Winter 2008 219 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+Harris,Tyson,&Trotman,2002; Strong-Scott8cDelgado,2005). 
+The use of traditional achievement tests to identify students for 
+these programs has been blamed for minority underrepresen- 
+tation (Figueroa Sc Ruiz, 1999; Vanderslice, 1999). Although 
+researchers recognize the flaws of using traditional achievement 
+tests, there seems to be little consensus among researchers on 
+how schools should identify students who will be best served in 
+advanced academic programs (Smutny, 2003). 
+
+It is not uncommon for high school honors and AP or IB 
+programs to serve as extensions of districts’ K-8 gifted and tal- 
+ented programs and to maintain some minimum criteria, such as 
+a score in the 85th percentile on a standardized test, for admission 
+to the program according to IB administrators at the national 
+level (IBNA Executive Officer, personal interview, January 24, 
+2005). The IBO does not officially have any policy regarding 
+admission to the IB Diploma Program; thus admission criteria 
+are adopted by local coordinators. John, Jefferson’s IB coordina- 
+tor, described his admission philosophy in the following way: 
+
+One of the main reasons for our program’s recent growth 
+is access. Jefferson High School has always extended a 
+policy of open enrollment for the IB program. All students 
+are encouraged to pursue the full diploma. Students from 
+outside the Jefferson attendance area must take at least 
+four classes to stay in the program. There are no entrance 
+exams, no GPA requirements, and no interviews prior to 
+taking IB courses. Any student who has the desire to enter 
+our program may do so. We encourage students to be at or 
+near grade level in language and math. We also emphasize 
+the need to be self-motivated. Although some students 
+are invited to apply based on a GPA of 3.0 or higher, any 
+interested student can submit an application through the 
+district’s magnet application process to enter the pre-IB 
+program in ninth grade. We prefer to have students make 
+the attempt, assess their prospects, and choose to leave the 
+program on their own, rather than to exclude them at the 
+outset, (personal interview, May 31, 2005) 
+
+
+220 Journal of Advanced Academics 
+
+
+Table 6 
+
+Demographic Characteristics of Students 2004 
+
+
+Mayer 
+
+
+% 
+
+African 
+
+American 
+
+Asian 
+
+American 
+
+Latino 
+
+Native 
+
+American 
+
+White 
+
+IB Program 
+
+12.4 
+
+15.8 
+
+47.3 
+
+.1 
+
+21 
+
+Jefferson High 
+School 
+
+13.7 
+
+12.8 
+
+56.1 
+
+4.3 
+
+11.8 
+
+Portville School 
+District 
+
+14.9 
+
+15.7 
+
+47.4 
+
+2.9 
+
+13.5 
+
+U.S. IB 
+Students 
+
+10 
+
+15 
+
+9 
+
+.4 
+
+63 
+
+
+Note. Data from California Department of Education (2005) and International Baccalaureate 
+North America (2004). 
+
+
+In 2003, the open admission process attracted eighth-grade 
+students with a wide range of GPAs (n = 172) — 59% of the 
+incoming eighth-grade students had GPAs of 3.0 or higher, 35% 
+had GPAs between 2.0 and 3.0, and the remainder had GPAs 
+below 2.0. Only half of these students had completed algebra 
+in eighth grade, and 42% of these students began their educa- 
+tion in the U.S. as English learners. Approximately 50% of these 
+students received federal free and reduced lunch. Table 6 dem- 
+onstrates that the open-access admission policy had successfully 
+captured students traditionally underrepresented in accelerated 
+programs. 
+
+Admission Perspectives From the International 
+Baccalaureate Organization 
+
+Unlike some college preparatory intervention programs, 
+like AVID (Watt et al., 2004) or Puente (Gandara, Mejorado, 
+Gutierrez, & Molina, 1998), the IB Diploma Program does not 
+have formal admissions guidelines. When I asked IBO affiliates 
+about admission policies, I learned that IBO administrators have 
+
+
+Volume 19 Number 2 Winter 2008 221 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+purposely chosen to leave this matter up to local schools (IB 
+Executive Board Member, personal interview, March 18, 2005; 
+IBNA Executive Officer, personal interview, March 28, 2005). 
+For example, one state used data provided by local IB program 
+coordinators to investigate differences in exam pass rates between 
+IB programs based on the type of admission policy the school 
+employed. 
+
+The IB administrator said: 
+
+One important bit of data from the Five Year Program 
+Evaluations collected from all IB high schools in 
+California related to the issue of program access. I really 
+wanted to know about the entry criteria programs were 
+using, because I wanted to compare the exam pass rates 
+of schools with “open” entrance requirements [schools 
+where the only criteria was motivation] versus “high 
+gates” [schools who required gifted and talented status or 
+test scores] for entry. A researcher did some analysis of 
+the data and found that there was only a difference of two 
+percentage points in pass rates. In other words, no differ- 
+ence really [64% vs. 66% average pass rate]. (California 
+IB Organization President, personal interview, January 
+24,2005) 
+
+IB executives understood the relationship between a pro- 
+gram’s admission policies and students’ exam scores as evidenced 
+by the following statement: 
+
+You have to be careful how you interpret the results of 
+an IB exam. If your goal is for all students to get five, 
+six, sevens on IB exams and you want every kid in your 
+program to get a diploma, well, you can accomplish that 
+by limiting the number of kids that you allow to take 
+the program, or make sure that you take only the best — 
+the best isn’t the right word — only the most prepared 
+students into your program. But, if you start to appreci- 
+ate how much this [program] can help all kinds of kids 
+
+
+222 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+then you may have a gentler view, when your diploma 
+rate goes down or your kids are getting threes and fours, 
+because you are more aware of the distance students have 
+traveled. And this may be more important than the des- 
+tination. (IBNA Executive Officer, personal interview, 
+January 21, 2005) 
+
+In 2004, at one suburban high school in California that accepts 
+only students who have been previously identified as gifted and 
+talented, 96% of the IB exam scores were passing or higher 
+(Mayer, 2006). For the U.S. as a whole, 80% of IB exams are 
+passed, and internationally 85% are passed (Mayer, 2006). By 
+comparison, in 2004, only 48% of IB exam scores were passing 
+or higher at Jefferson, where the program had an open admission 
+policy. 
+
+Despite the fact that national IB representatives said they 
+actively share their open entrance philosophy with teachers with 
+the hope that more teachers would be open to accepting a wide 
+variety of academically prepared students into IB their classes, 
+one IBO representative said, “I know some older IB teachers 
+are really attached to the validation of their teaching that they 
+get from their students’ exam scores. This need for validation 
+keeps these teachers from taking Tow’ kids into their program” 
+(IBNA Executive Officer, personal interview, January 21, 2005). 
+According to this representative, school counselors were another 
+group that needed to be convinced to let a wider variety of stu- 
+dents into their IB programs. Although this representative was 
+enthusiastic about communicating that an IB program could 
+accommodate many levels of academic preparation, her state- 
+ments also indicated that IBO was not currently planning to use 
+policy levers to institute these beliefs. 
+
+IB administrators at the national level argue that they can 
+leave admission decisions up to the program coordinators at local 
+schools because of the high level of program fidelity: “There is 
+only one IB program . . . fidelity is a nonnegotiable” (California 
+IB Organization President, personal interview, January 21, 
+2005). I specifically asked IBNA representatives if they thought 
+
+
+Volume 19 Number 2 Winter 2008 223 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+IB programs implemented in schools serving low-income and 
+minority students would need to implement their IB programs 
+differently than schools that served socially and economically 
+advantaged students. These representatives repeatedly empha- 
+sized the importance of program fidelity. Data from a study on 
+program implementation supports their claim (Mayer, 2006). 
+The IB program at Jefferson was implemented as prescribed by 
+the IBO with a very high level of fidelity. However, there was 
+an important relationship between students’ academic and fam- 
+ily backgrounds and program design. The Jefferson program had 
+many unique qualities that went above and beyond the standard 
+set of IB components. These components were directly related 
+to the characteristics of the students they serve. I characterized 
+these components as scaffolds. 
+
+Meeting IB’s Academic Expectations: 
+
+Providing Students With Academic and Social Scaffolds 
+
+Scaffolding is a concept attributed to Vygotsky’s (1978) 
+work in child development. In this context, Mehan, Villanueva, 
+Hubbard, and Lintz (1996) defined scaffolding as a series of 
+both social and academic supports specifically designed to help 
+underachieving students achieve academically. For example, John, 
+Jefferson’s coordinator, said, “For a lot of our kids just being here 
+[at school] every day is an immense success, accomplishing stuff 
+while they are here is an even greater success, and then for them 
+to accomplish things at a high level is off the charts” (personal 
+interview, March 20, 2004). After taking their positions as coor- 
+dinators in 1999, Jefferson’s coordinators, John and Helen, real- 
+ized that their open enrollment policy meant that students were 
+entering the program with different levels of academic prepara- 
+tion. In a 2004 newsletter, the coordinators wrote: 
+
+As an open-enrollment program, we run the risk of los- 
+ing some students before they finish the Diploma. In 
+
+some cases, the students cannot do the work. In others, 
+
+
+224 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+they are not willing to do the work. As each year passes, 
+we find better ways to support those who are struggling. 
+
+To ameliorate these differences, John and Helen developed 
+several different types of scaffolds to help students acquire the 
+academic skills and social supports most students already have 
+when they enter the program at other schools. John said, 
+
+The more things you have in place to reach more kids — 
+teachers who are supportive and coming from their heart, 
+a program where overall kids are excited to be there, 
+where there is social connection — you have a chance of 
+drawing in more and more kids, (personal interview, May 
+31,2005) 
+
+These aspects of the IB program appeared to be unique to 
+Jefferson. These scaffolds included counseling, academic enrich- 
+ment courses, and social supports. 
+
+Counseling 
+
+Counselors’jobs often differ depending on the demographic 
+characteristics of the students they serve (Paul, 2002). At 
+Jefferson the counselors said they had not been given the oppor- 
+tunity to attend even the free college preparatory conferences 
+sponsored by local universities. By comparison, IB counselors at 
+another California school regularly attended college admissions 
+workshops sponsored by Ivy League universities. Observation 
+and interview data revealed that the majority of counselors at 
+Jefferson were focused on helping students meet local high school 
+graduation requirements. Jefferson’s IB coordinators realized 
+that their students needed a counselor who could help students 
+with college admissions requirements, financial aid, and moni- 
+toring students’ academic progress. The IB coordinators worked 
+with Jefferson’s administrators to have IB students assigned to 
+a single counselor who participated in IB professional develop- 
+ment. As the program grew, this counselor played an important 
+
+
+Volume 19 Number 2 Winter 2008 225 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+role in helping coordinators to track student progress, to identify 
+students who might be struggling academically, and to provide 
+students with financial aid and scholarship counseling. 
+
+Academic Enrichment Opportunities 
+
+Academic enrichment opportunities offered by the IB teach- 
+ers occurred during and after the academic school day. For exam- 
+ple, the ninth-grade Spanish-speaking algebra teacher provided 
+free after-school tutoring for students. During lunch, 11th- and 
+12th-grade biology students served as science tutors for 9th- and 
+lOth-grade students. The IB coordinators also arranged for the 
+district to offer a special summer course in algebra for students 
+interested in IB who had not completed algebra in the eighth 
+grade. In addition, Helen pointed out in a 2004 newsletter: 
+
+Our students have 2 full years of IB-caliber classes before 
+they enter the Diploma Program. A demanding pre- 
+IB program helps to prepare students for the Diploma 
+Program. Our freshman curriculum includes a course 
+called Introduction to Inquiry, which is designed to ensure 
+that all students have the skills necessary to be successful 
+in the program. The commitment to community service 
+also begins in the pre-IB program as part of the course 
+evaluation in Introduction to Inquiry. The hours do not 
+count towards the IBO service learning requirement in 
+the Diploma program. However, the requirement instills 
+in students the idea of service as part of the learning 
+experience. We view the preparation as critical to their 
+success in obtaining the Diploma. The 4-year commit- 
+ment is essential to creating our IB family. 
+
+Social Scaffolds 
+
+Research demonstrates that students can benefit academi- 
+cally from a positive, academically oriented peer group and can 
+be similarly disadvantaged by a peer group that is not academi- 
+
+
+226 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+cally oriented (Gandara, O’Hara, 6c Gutierrez, 2004; Henderson, 
+1997; Ogbu, 1978; Stanton-Salazar 1997). As Ogbu (2003) 
+pointed out, “For Black students, peers had a negative impact on 
+academic engagement. . . . Poor academic performance . . . was 
+partly due to the achievement norms of peer groups” (p. 197). 
+John, the Jefferson IB coordinator, believed: 
+
+The identity that the kids get from participating in the 
+IB community is a healthy one. It feeds their self-esteem, 
+their belief in themselves, but it doesn’t isolate them. IB 
+kids don’t think that they are better than everybody else; 
+they come from modest backgrounds. There isn’t the 
+temptation to set themselves way above everybody else; a 
+superior attitude is not encouraged by the staff, (personal 
+interview, April 13, 2004) 
+
+The Hispanic Dropout Project’s findings (Secada et al., 1998) 
+support Jefferson coordinators’ views that supportive student- 
+teacher relationships are important to students’ academic success. 
+Other studies also support coordinators’ beliefs that building 
+trusting relationships with teachers can influence student aca- 
+demic achievement (Alexander, Entwisle, 6c Thompson, 1987; 
+Gandara, 1995; Quint, 2006; Stanton-Salazar 6c Dornbusch 
+1995). An IB club meets once a month during lunch to plan 
+activities. The psychology teacher, who has a master’s degree in 
+counseling and prior experience working with at-risk youth, runs 
+an after-school physical education class in horsemanship. 
+
+John and Helen also have developed several student retreats 
+modeled after youth leadership development programs. As John 
+described in a 2004 newsletter, 
+
+One activity is “Warm-Up Week,” which all incom- 
+ing freshmen are encouraged to attend. For 5 hours a 
+day during Warm-Up Week we work with the students 
+in developing the attitudes and teamwork strategies in 
+order to succeed in the program. We also provide them 
+with opportunities to practice and apply what they 
+
+
+Volume 19 Number 2 Winter 2008 227 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+learn. Students from grades 10 through 12 also attend 
+and advise small groups. We find that the students who 
+attend the Warm Up Week are more confident and bet- 
+ter prepared starting the school year. They also have a 
+head start on forming the connections with other stu- 
+dents, an essential element to success in the IB program. 
+During the Senior Diploma Candidate Retreat each fall, 
+the candidates and some of the senior staff retreat for 
+3 days to camp in the nearby foothills, an event that is 
+sponsored by the Parent Booster Club. We instituted the 
+retreat because our students were having serious diffi- 
+culty completing their Extended Essays and maintain- 
+ing the momentum of their junior year in the program. 
+Ostensibly, the purpose is to read and discuss Extended 
+Essays and to provide encouragement toward comple- 
+tion, which does happen to a greater or lesser degree. For 
+students who do not have a supportive home environ- 
+ment, the retreat encourages them to rely on one another 
+and on their teachers for support and motivation. 
+
+In interviews, John and Helen shared that the purpose of the 
+retreats and clubs is to give students an opportunity to build 
+trusting relationships with teachers outside of the school con- 
+text. They summarized their results in a 2004 newsletter: 
+
+John and Helen’s attempts have been successful. As one 
+set of parents reported: We feel that one thing which 
+the IB program provides, which is very seldom accom- 
+plished in public schools, is a sense of community. This is 
+a quality which is most often found in the home, church, 
+or organizations and clubs, but which is quite often dif- 
+ficult, if not impossible, to create in a public school. Both 
+of our children have found a close-knit support group 
+within the IB community, both with other students and 
+with staff. This has made it easier, more fun, and more 
+rewarding to achieve the difficult goals of the IB program. 
+Achieving these goals has made it possible for them to 
+
+
+228 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+better synthesize, analyze, and articulate the information 
+in the curriculum. 
+
+Students’ own statements revealed that John and Helen’s 
+efforts to create a supportive environment were working: 
+
+Environment plays a major role in learning. The IB pro- 
+gram is for kids who have a common goal, to learn. Being 
+with other students who want to learn can make a big 
+difference. In [regular] classes we are interrupted by stu- 
+dents who are not willing to learn. Instead, we are in a 
+classroom filled with students who are there for the same 
+reason that I want to [be] there. Therefore, this causes 
+less distraction for us. And gives us the grades we want. 
+(Student 4, essay, May 5, 2004) 
+
+Other students said, “IB is more than just an academic pro- 
+gram . . . It’s a family. There’s Helen and John playing the role 
+of parents . . . our fellow peers play the role of brothers and sis- 
+ters” (Student 77, essay, May 5, 2004), and “The program offers 
+a small family environment in a school filled with a tremendous 
+amount of students” (Student 86, essay, May 5, 2004). During 
+exam week I observed on two different occasions teachers bring 
+breakfast to their students and provide encouragement during 
+the tense hours prior to their exams. 
+
+
+Significance 
+
+Jefferson’s IB students are succeeding in an extremely rigor- 
+ous academic curriculum and preparing to go to college in part 
+because of the additional scaffolds John and Helen have built 
+into their program. Student data in Table 7 illustrates the tre- 
+mendous growth of the IB program since the implementation of 
+the open application process and scaffolds. In 2006, 48 of the 55 
+diploma candidates went on to college. Findings from this study 
+suggest a wide range of students can succeed in a rigorous aca- 
+
+
+Volume 19 Number 2 Winter 2008 229 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+
+cQ 
+
+Jd 
+
+a 
+
+o 
+
+Q 
+
+CD 
+
+> 
+
+Q_ 
+
+U 
+
+oo 
+
+0 
+
+Q 
+
+
+
+"■a 
+
+<d 
+
+
+vp 
+
+O' 
+
+vp 
+
+O' 
+
+Vp 
+
+o' 
+
+'vP 
+
+o' 
+
+>p 
+
+o'- 
+
+
+C/D 
+
+C/D 
+
+IT -1 
+
+o 
+
+
+00 
+
+
+er) 
+
+
+OS 
+
+£ 
+
+T— 1 
+
+CO 
+
+co 
+
+oo 
+
+T— 1 
+
+
+
+HH 
+
+
+LT) 
+
+CO 
+
+en 
+
+NO 
+
+
+'P 
+
+O' 
+
+
+00 
+
+00 
+
+00 
+
+00 
+
+00 
+
+C/D 
+
+o 
+
+
+
+
+
+
+
+s 
+
+
+
+Np 
+
+0 s - 
+
+>P 
+
+o' 
+
+>p 
+
+o' 
+
+Np 
+
+O' 
+
+'p 
+
+O' 
+
+cP 
+
+"■a 
+
+CO 
+
+^J- 
+
+O 
+
+<N 
+
+
+nO 
+
+r *j 
+
+<d 
+
+
+p 
+
+
+NO 
+
+<n 
+
+00 
+
+w 
+
+C/D 
+
+
+ON 
+
+o 
+
+T— 1 
+
+co 
+
+<N 
+
+>p 
+
+0 s 
+
+C3 
+
+PL, 
+
+
+
+00 
+
+00 
+
+00 
+
+00 
+
+
+B 'Q 
+S £ 
+W s* 
+
+•vO ^ 
+
+
+'p 
+
+O' 
+
+'P 
+
+O' 
+
+'p 
+
+O' 
+
+'vP 
+
+o'- 
+
+>p 
+
+O' 
+
+co 
+
+O 
+
+O 
+
+er) 
+
+en 
+
+en 
+
+T— 1 
+
+On 
+
+en 
+
+CO 
+
+
+00 
+
+ON 
+
+
+T— 1 
+
+
+
+LT) 
+
+en 
+
+er> 
+
+
+S T> 
+
+
+(N 00 IT) 
+
+
+NO 
+
+
+Ctf <U 
+
+s M 
+
+o 3 
+
+^ £ 
+
+n 
+
+M O 
+
+
+I 
+
+S " J - 
+
+rt <» 
+
+
+w 
+
+
+to 
+
+er> 
+
+
+cn 
+
+
+NO 
+
+co 
+
+
+LT) 
+
+NO 
+
+
+00 
+
+o 
+
+
+
+W S 
+
+
+
+
+co 
+
+CO 
+
+<N 
+
+00 
+
+00 
+
+ON 
+
+T Tf 
+
+O 
+
+ON 
+
+
+CO 
+
+CO 
+
+r<j 
+
+T— 1 
+
+T— 1 
+
+
+v od 
+
+-J-* <D 
+
+r£ C 
+
+*3 1 
+
+s a 
+
+o w 
+
+
+cn 
+
+^r 
+
+
+NO CNJ o 
+
+no m 
+
+
+C/D 
+
+CJ 
+
+
+52 ^ 
+
+^ a 
+
+o 
+
+O 
+
+PQ ° 
+
+
+£ 
+
+
+NO 
+
+er> 
+
+
+cnj 
+
+T— 1 
+
+T— 1 
+
+H 
+
+rH 
+
+T— 1 
+
+T— 1 
+
+er> 
+
+
+co 
+
+<N 
+
+T— 1 
+
+o 
+
+O 
+
+o 
+
+O 
+
+o 
+
+o 
+
+o 
+
+O 
+
+O 
+
+o 
+
+ON 
+
+CNJ 
+
+cnj 
+
+CNJ 
+
+CS 
+
+
+230 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+demic program like IB. Academic programs can maintain their 
+integrity without limiting student access. The full implementa- 
+tion of the IB Diploma Program at Jefferson required that IB 
+coordinators raise students’ performance to the level of program 
+expectation rather than lower the expectations to accommodate 
+students’ limited academic preparation. 
+
+A rigorous academic program like the IB Diploma Program 
+should complement intervention efforts at schools across the 
+country that already offer underserved students scaffolds such 
+as motivational retreats, tutoring, and college preparatory clubs. 
+As educators strive to create more high schools that support the 
+academic achievement of low-income and minority students, 
+this study underscores the incredible challenges these schools 
+will face. These schools will be required to implement both a rig- 
+orous curriculum and the scaffolds to ensure students can meet 
+the challenges of rigorous academic courses. Policy makers at 
+the local and federal level will need to support teachers like John 
+and Helen, who are committed to helping all students succeed 
+at high levels with funds for ongoing professional development 
+and the implementation of rigorous academic programs like the 
+IB Diploma Program. 
+
+
+References 
+
+Adelman, C. (1999). Answers in the tool box. Academic intensity, atten- 
+dance patterns, and bachelors degree attainment. Washington, DC: 
+U.S. Department of Education, Office of Educational Research 
+and Improvement. 
+
+Alexander, K., Entwisle, D., & Thompson, M. (1987). School perfor- 
+mance, status relations, and the structure of sentiment: Bringing 
+the teacher back in .American Sociological Review, 52, 665—682. 
+
+Barton, P. (2003). Parsing the achievement gap: Baselines for tracking 
+progress. Princeton, NJ: Educational Testing Service. 
+
+Bourdieu, P, & Passeron, J. C. (1990). Reproduction. London: Sage. 
+
+Burris, C., Heubert, J., & Levin, H. (2004) Math acceleration for all. 
+Educational Leadership, 61, 68—71. 
+
+
+Volume 19 Number 2 Winter 2008 231 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+California Department of Education. (2005). DataQuest. Retrieved 
+June 15,2007, from http://dq.cde.ca.gov/Dataquest 
+
+Cooper, C., Chavira, G., &Mena, D. (2005). From pipelines to part- 
+nerships: A synthesis of research on how diverse families, schools, 
+and communities support children’s pathways through school. 
+Journal of Education for Students Placed at Risk, 10, 407—443. 
+
+Figueroa, R.,&Ruiz,N. (1999). Minority underrepresentation in gifted 
+programs: Old problems, new perspectives. In A. Tashakkori, H. 
+Salvador, & E. Kemper (Eds.), Readings on equal education, Vol. 
+16. Education of Hispanics in the United States: Politics, policies and 
+outcomes (pp. 119-141). New York: AMS Press. 
+
+Ford, D., Harris J. J., Tyson, C., &Trotman,M. (2002). Beyond deficit 
+thinking: Providing access for gifted African American students. 
+Roeper Review, 24, 52—58. 
+
+Frankenburg, E., & Lee, C. (2002). Race in American public schools: 
+Rapidly resegregating school districts. Cambridge, MA: The Civil 
+Rights Project, Harvard University. 
+
+Gandara, P. (1995). Over the ivy walls: The educational mobility of low- 
+income Chicanos. Albany: State University of New York Press. 
+
+Gandara, P. (2005) . Fragile futures: Risk and vulnerability among Latino 
+high achievers. Princeton, NJ: Educational Testing Service. 
+
+Gandara, P, &Bial, D. (2001). Paving the way to postsecondary education: 
+K—12 intervention programs for underrepresented youth. Report of the 
+National postsecondary education cooperative working group on access 
+to postsecondary education (NCES Report No. NCES2001205). 
+Washington, DC: National Center for Education Statistics. 
+
+Gandara, P, Mejorado, M., Gutierrez, D., &Molina, M. (1998). Final 
+report of the evaluation of High School Puente, 1994—98. Davis: 
+University of California, Davis. 
+
+Gandara, P., O’Hara, S., & Gutierrez, D. (2004). The changing shape 
+of aspirations: Peer influence on achievement behavior. In G. 
+Gibson, P. Gandara, & J. Koyama (Eds.), School connections: U.S. 
+Mexican youth, peers, and school achievement (pp. 39—62). New York: 
+Teachers College Press. 
+
+Geiser, S., & Santelices, V. (2004). The role of Advanced Placement and 
+honors courses in college admissions. Berkeley, CA: Center for Studies 
+in Higher Education. 
+
+Henderson, R. W. (1997). Educational and occupational aspirations 
+and expectations among parents of middle school students of 
+Mexican descent: Family resources for academic development 
+and mathematics learning. In R. D. Taylor &M. C. Wang (Eds.), 
+
+
+232 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+Social and emotional adjustment and family relations in ethnic minor- 
+ity families (pp. 99-131). Mahwah, NJ: Lawrence Erlbaum. 
+
+International Baccalaureate Organization. (2002). Schools’ guide to the 
+Diploma Programme. Geneva, Switzerland: Author. 
+
+International Baccalaureate Organization. (2004). Expanding access: 
+The IBO mission in North America. International Baccalaureate 
+Organization Strategic Plan. New York: Author. 
+
+International Baccalaureate Organization. (2006). From growth to 
+access: Developing an IBO access strategy. Geneva, Switzerland: 
+Author. 
+
+Kyburg, R., Hertberg-Davis, H., & Callahan, C. (2007) Advanced 
+Placement and International Baccalaureate programs: Optimal 
+learning environments for talented minorities? Journal of Advanced 
+Academics, 18, 172—215. 
+
+Loveless, T. (1999). The tracking wars. Washington, DC: The Brookings 
+Institution Press. 
+
+Mathews, J. (2003, June 2). The 100 Best High Schools in America: 
+The surge in the number of students taking AP tests is chang- 
+ing life inside America’s classrooms — and altering the rules of the 
+college-admissions game. Newsweek, 141, 48-54. 
+
+Mehan, H., Villanueva, I., Hubbard, L.,&Lintz, A. (1996). Constructing 
+school success. The consequences of untracking low-achieving students. 
+New York: Cambridge University Press. 
+
+Mayer, A. (2006) Interrupting social reproduction: The implementation of 
+an International Baccalaureate Diploma Program in an urban high 
+school. Unpublished doctoral dissertation, University of California, 
+Davis. 
+
+National Association for Gifted Children. (2005). State of the States: A 
+report by the National Association for Gifted Children and the Council 
+of State Directors of Programs for the Gifted 2004—2005. Washington, 
+DC: Author. 
+
+National Research Council. (2002). Learning and understanding: 
+Improving advanced study of mathematics and science in U.S. high 
+schools — Report of the Content Panel on Mathematics. Washington, 
+DC: National Academies Press. 
+
+No Child Left Behind Act of 2001 (NCLB), Pub. L. No. 107-110, § 
+115 Stat. 1425. 
+
+Ogbu, J. U. (1978). Minority education and caste. New York: Academic 
+Press. 
+
+Ogbu, J. U. (2003). Black American students in an affluent suburb: A study 
+of academic disengagement. London: Lawrence Erlbaum. 
+
+
+Volume 19 Number 2 Winter 2008 233 
+
+
+EXPANDING OPPORTUNITIES FOR HIGH ACADEMIC ACHIEVEMENT 
+
+
+Paul, F. (2002). Bridging paradigms: A profession in transition (Student 
+Affairs Research and Information Brief Vol. 2, Issue 2). Davis: 
+University of California, Davis. 
+
+Quint, J. (2006). Meeting five critical challenges of high school reform. 
+Oakland, CA: Manpower Demonstration Research Corporation 
+(MDRC). 
+
+Rossell, C. (1994). The progeny of Brown-. From the old freedom 
+of choice to the new freedom of choice in four decades. Urban 
+Geography, 15, 435-453. 
+
+Rossell, C., & Armor, D. (1996). The effectiveness of school desegre- 
+gation plans, 1968— 1991. American Politics Research, 2, 267—302. 
+
+Shettle, C., Roey, S., Mordica, J., Perkins, R., Nord, C., Teodorovic, 
+J., et al. (2007). America’s high school graduates: Results from the 
+2005 NAEP High School Transcript Study (NCES Publication No. 
+2007467). Washington DC: U.S. Government Printing Office. 
+
+Secada, W. G., Chavez- Chavez, R., Garcia, E. E., Munoz, C., Oakes, 
+J., Santiago-Santiago, I., et al. (1998). No more excuses: The final 
+report of the Hispanic Dropout Project. Retrieved March 6, 2008, 
+from http://www.ncela.gwu.edu/pubs/hdp/final.htm 
+
+Smutny, J. (2003). Underserved gifted populations: Responding to their 
+needs and abilities. Perspectives on creativity research. Cresskill, NJ: 
+Hampton Press. 
+
+Stanton-Salazar, R. (1997). A social capital framework for under- 
+standing the socialization of racial minority children and youths. 
+Harvard Educational Review, 67, 1—40. 
+
+Stanton-Salazar, R. D., & Dornbusch, S. M. (1995). Social capital 
+and the reproduction of inequality: Information networks among 
+Mexican-origin high school students. Sociology of Education, 68, 
+116-135. 
+
+Strong-Scott, M., & Delgado, C. (2005). Identifying cognitively 
+gifted minority students in preschool. Gifted Child Quarterly, 49, 
+199-210. 
+
+Texas Education Agency Information Analysis Division. (2004). 
+Standard reports and core products. Retrieved January 5, 2007, from 
+http :/ / tea. state, tx. us/ adhocrpt 
+
+U.S. Census Bureau. (2000). United States Census 2000. Retrieved 
+March 6, 2008, from http://www.census.gov/main/www/cen2000. 
+html 
+
+U.S. Census Bureau. (2005). American Community Survey. Retrieved 
+March 6, 2008, from http://www.census.gov/acs/www 
+
+
+234 Journal of Advanced Academics 
+
+
+Mayer 
+
+
+U.S. Department of Education, National Center for Education 
+Statistics (NCES). (1999). The condition of education 1998. 
+Washington, DC: U.S. Department of Education, Government 
+Printing Office. 
+
+U.S. Department of Education, National Center for Education 
+Statistics (NCES). (2007). High School Transcript Study (HSTS), 
+1990-2005. Washington, DC: U.S. Department of Education, 
+Government Printing Office. 
+
+Vanderslice, R. (1999, March). Rural Hispanic children and gifted- 
+ness: Why the difficulty in identification ? Paper presented at the 
+Rural Special Education for the New Millennium: Conference 
+of the American Council on Rural Special Education (ACRES), 
+Albuquerque, NM. (ERIC Document Reproduction Service No. 
+ED429752) 
+
+Vygotsky, L. S. (1978). Mind in society: The development of higher psycho- 
+logical processes. Cambridge, MA: Harvard University Press. 
+
+Watt, K., Powell, C., &Mendiola, I. (2004). Implications of one com- 
+prehensive school reform model for secondary school students 
+underrepresented in higher education. Journal of Education for 
+Students Placed at Risk, 9, 241—59. 
+
+
+End Notes 
+
+1 These risk factors include parents’ educational background, 
+income, rates of residential mobility, number of adults in the 
+household, and level of English proficiency. For a complete review 
+of this literature, see Kyburg, Hertberg-Davis, and Callahan, 
+2007. 
+
+2 Underrepresented minorities are defined as those whose 
+proportion of college enrollments are substantially below their 
+proportion of high school graduates. In California, these groups 
+include Chicano/Latino, African American, and American 
+Indian students. 
+
+
+Volume 19 Number 2 Winter 2008 235 
+
+

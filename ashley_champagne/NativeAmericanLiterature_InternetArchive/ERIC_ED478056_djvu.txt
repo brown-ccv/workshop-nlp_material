@@ -1,0 +1,1882 @@
+DOCUMENT RESUME 
+
+
+
+ED 478 056 
+
+
+
+RC 023 785 
+
+
+
+AUTHOR 
+
+TITLE 
+
+INSTITUTION 
+
+SPONS AGENCY 
+REPORT NO 
+PUB DATE 
+NOTE 
+
+CONTRACT 
+AVAILABLE FROM 
+
+PUB TYPE 
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+Nelson, Karma; Simonsen, Linda; Swanson, Elisabeth 
+Research Issues for Mathematics Education in Rural 
+Communities: Focus on Native Americans. Working Paper. 
+
+Ohio Univ. , Athens. Appalachian Collaborative Center for 
+Learning, Assessment, and Instruction in Mathematics. 
+
+National Science Foundation, Arlington, VA. 
+
+WP-13 
+
+2003-00-00 
+
+42p. 
+
+NSF-0119679 
+
+For full text: http://kant.citl.ohiou.edu/ACCLAIM/ 
+rc/rc_sub/pub/3_wp/Nelsonl3 . pdf. 
+
+Information Analyses (070) 
+
+EDRS Price MF01/PC02 Plus Postage. 
+
+Academic Standards; Alternative Assessment; American Indian 
+Culture; ^American Indian Education; ^Culturally Relevant 
+Education; Educational Change; ^Educational Needs; 
+
+Educational Practices ; Educational Research; Elementary 
+Secondary Education; ^Mathematics Education; ^Research Needs; 
+Reservation American Indians; Rural Education 
+^Montana 
+
+
+
+ABSTRACT 
+
+Low student achievement for Montana’s Native American 
+students has been a recognized fact since the beginning of the reservation 
+period. The current push for mathematics and science education reform, 
+coupled with federal and state accountability mandates, enhances 
+opportunities for learning but also challenges Native students’ culture and 
+priorities. Native student learning in mathematics is influenced by 
+contextual factors: federal, state, and local policy mandates; Native 
+culture, community, language, and ways of knowing; the culture of poverty; 
+isolation; and classroom practice. This paper reviews current research on 
+several contextual factors, making connections between the literature and 
+observations in schools on or near Montana’s reservations. The first section 
+looks at the history of the reservations and educational opportunities for 
+Native students; the impact of policy, poverty, and isolation on these 
+students and their schools; and the impact of Native American culture on the 
+educational lives of students. The second section examines issues of 
+standards and equity for mathematics education; it includes research and 
+discussion on culturally responsive teaching, curriculum, and assessment. The 
+third section discusses obstacles, challenges, and opportunities for 
+achieving equity within this system and proposes research topics to help 
+educators address them. Topics include local control; access and isolation; 
+student mobility; and the lack of adequate tracking systems for student 
+attendance, achievement, and district expectations. The conclusion describes 
+what is working in schools on two Montana reservations and the future 
+research needed to define a vision for closing the achievement gap for Native 
+students. (Contains 30 references) (SV) 
+
+
+
+
+Reproductions supplied by EDRS are the best that can be made 
+from the original document. 
+
+
+
+o:^37^5 
+
+
+
+Working Paper No.l3 
+
+
+
+VO 
+
+o 
+
+oo 
+
+
+
+Q 
+
+
+
+tt} 
+
+
+
+
+
+
+Working Paper Series 
+
+
+
+
+Appalachian Collaborative Center for Learning, Assessment and Instruction in Mathematics 
+
+
+
+Research Issues for Mathematics Education in Rural Communities: Focus on Native 
+Americans 
+
+
+
+Karma Nelson, Linda Simonsen and Elisabeth Swanson 
+CLT West, Montana State University 
+
+
+
+U.S. DEPARTMENT OF EDUCATION 
+Office of Educational Research and Improvement 
+EDUCATIONAL RESOURCES INFORMATION 
+y CENTER (ERIC) 
+
+liPThis document has been reproduced as 
+received from the person or organization 
+originating it. 
+
+□ Minor changes have been made to 
+improve reproduction quality. 
+
+
+
+* Points of view or opinions stated in this 
+document do not necessarily represent 
+official OERI position or policy. 
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL HAS 
+BEEN GRANTED BY 
+
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+ACCL^M’s mission is the cultivation of indigenous leadership capacity for the improvement of school 
+matbg^i^s in rural places. The project aims to (1) understand the rural context as it pertains to learning and 
+articulate in scholarly works, Including empirical research, the meaning and utility 
+and teaching among, for, and by rural people. 
+
+
+
+^ERiC 
+
+
+
+®1S§T COPY AYAIMBll 
+
+
+
+2 
+
+
+
+1 
+
+
+
+Copyright © 2003 by the Appalachian Collaborative Center for Learning, Assessment, 
+and Instruction in Mathematics (ACCLAIM). All rights reserved. The Working Paper 
+Series is published at Ohio University, Athens, Ohio by the ACCLAIM Research 
+Initiative. 
+
+
+
+
+OHIO 
+
+UNIVERSITY 
+
+
+
+ACCLAIM Research Initiative 
+All rights reserveci 
+
+
+
+Adciress: 21 OA McCracken Hall 
+Ohio University 
+Athens. OH 45701-2979 
+
+Office; 740-593-9869 
+
+Fax: 740-593-0477 
+
+E-mail; howleyc@ohio.edu 
+
+Web: http://kant.citl.ohiou.edu/ACCLAIM/index.htm 
+
+
+
+Funded by the National Science Foundation as a Center for Learning 
+and Teaching, ACCLAIM is a partnership of the University of Tennessee 
+(Knoxville), University of Kentucky (Lexington), Kentucky Science and 
+Technology Corporation (Lexington). Marshal! University (Huntington, 
+WV), University of Louisville, and Ohio University (Athens, OH). 
+
+
+
+
+This material is based upon the work supported by the National Science Foundation Under Grant No. 
+0119679. Any opinions, findings, and conclusions or recommendations expressed in this material are those 
+of the author(s) and do not necessarily reflect the views of the National Science Foundation. 
+
+
+
+
+3 
+
+
+
+RESEARCH ISSUES FOR MATHEMATICS EDUCATION IN RURAL COMMUNITIES: 
+
+
+
+FOCUS ON NATIVE AMERICANS 
+
+
+
+One of the most significant themes that emerged from researchers, educators and parents in 
+Indian country was an eagerness to see research translated into practice — research that focuses 
+on effective educational practices and ways to implement them. 
+
+Introduction 
+
+According to figures released by the Montana Office of Public Instruction in September 
+2002, 38 of the 43 schools placed on the state’s “schools in need of improvement” list are on or 
+near Montana’s seven Indian reservations that serve a majority of the states’ Native American 
+students. Indeed, “Indian children in Montana public schools are in a crisis situation” (Montana 
+Office of Public Instruction, 2001). This is not news. In 1991, 40 of 46 schools on the list were 
+reservations schools. The state only uses one criterion to place a school on the list: if scores of 
+students in two of the three tested levels (grades 4,8, and 12) fall below the 45"* percentile on the 
+Iowa Test of Basic Skills (ITBS) norm-referenced tests for two consecutive years, the school is 
+categorized as “in need of improvement” (R. Lukenbill, personal communication, September 3, 
+2002 ). 
+
+Another indication of the crisis situation includes dropout rates for students on these 
+reservations. During the 1 996 school year, the dropout rate on the Northern Cheyenne 
+reservation was about 50%. Although 144 Native American students from the reservation 
+attended high school in 1996, there were 788 Northern Cheyenne students of high school age 
+
+
+
+2 
+
+
+
+(Montana Advisory Committee to the U.S. Commission on Civil Rights, 2001) Where were the 
+remaining 644 students? It appears that in addition to those who dropped out, many students on 
+the reservation weren’t initially enrolled in the local high school. 
+
+As this paper will indicate, low student achievement for the majority of Native American 
+students in Montana has been a recognized and often accepted fact since the beginning of the 
+reservation period. According to the Montana Advisory Committee to the U.S. Commission on 
+Civil Rights (2001, p. 61), “Indian children in Montana public schools are not excited about 
+their own future or the future of their friends and relatives.” In light of this, there is an urgent 
+need to turn the trend around with the help of well-documented research on issues facing Native 
+American education. 
+
+The current push for mathematics and science education reform, coupled with federal and 
+state accountability mandates, enhance the opportunities for learning, yet at the same time 
+challenge the culture and priorities of these students. Native American student learning in 
+mathematics is influenced by several contextual factors: a) federal, state and local policy 
+decisions and mandates, b) Native American culture, community, language, and ways of 
+knowing, c) the culture of poverty, d) isolation, and e) classroom practice. The authors will 
+review the current research on several of these contextual factors, making connections between 
+research literature and situations observed in schools on or near Montana’s reservations. 
+
+This paper is divided into four sections. The first section looks at the history of the 
+reservations and the resulting educational opportunities for Native American students, as well as 
+the impact of policy, poverty and isolation on these students and schools. The section concludes 
+with a discussion of the impact of Native American culture on the educational lives of students. 
+The second section looks at issues of standards and equity for mathematics education; it includes 
+
+
+
+O 
+
+
+
+
+5 
+
+
+
+3 
+
+
+
+research and discussion on culturally responsive teaching, curriculum, and assessment. The third 
+section looks at the obstacles, challenges and opportunities for achieving equity within this 
+system and proposes research topics to help the educational community address them. The 
+section includes discussions of local control, access and isolation, student mobility and the lack 
+of adequate tracking systems for student attendance, achievement and district expectations. The 
+paper concludes with a conversation of what is working in schools on two adjacent Montana 
+reservations and the future research needed to define a vision to close the achievement gap for 
+Native American students. 
+
+Although research has increased our knowledge of teaching and learning practices in 
+mathematics that have proven successful for Native American students, “the interpretation of 
+what this research means in the ways teachers are trained, schools are organized, curriculum is 
+designed and instruction is delivered is still needed” (Deyhle & Swisher, 1997). Integrating 
+successful research-based practices into the complex educational systems that educate preservice 
+and inservice teachers, generate and implement policy, design curriculum, and provide 
+accountability for the various stakeholders is a challenge for all who take up the charge. This 
+challenge becomes more complex when set in Native American cultural contexts in rural and 
+poor communities. 
+
+
+
+
+4 
+
+
+
+The Impact of History, Culture, Isolation and Poverty on the Mathematics Achievement for 
+
+Montana’s Native American Students 
+
+History of Reservations in Montana 
+
+In 1990, two thirds of Montana’s American Indians resided on reservations, land bases 
+the tribes reserved through treaties with the United States government in exchange for other 
+lands (Montana Office of Public Instruction, 2001). Figure 1 depicts the approximate size of the 
+seven Montana reservations. These reservations were established through treaties from 1851 
+through 1916. Montana’s Native American students make up 10.5% of the state’s public school 
+population. The majority of these students attend schools on or near these seven reservations. 
+
+Figure 1 
+
+The reservations are located in sparsely populated areas of immense natural beauty. To 
+get an idea of the distances between these reservations, picture a map of the state of Montana 
+placed on the eastern third of the United States. If you placed the northwest comer of the state 
+on Chicago, the southeast comer would almost reach Washington, D.C. In addition to being 
+rural and isolated, these schools are in counties that consistently rank among the poorest in the 
+United States. 
+
+The schools on or near the reservations are considered small (less than 300 students for 
+elementary schools and 900 for the high school level) as defined by the Matthew Project, a study 
+designed to find the correlation between school size and socioeconomic status (Howley, Strange, 
+& Bickel, 2000). The majority of Native American students attend public schools on or near the 
+
+
+
+
+7 
+
+
+
+5 
+
+
+
+reservations. The remainder attend one of the state’s two Bureau of Indian Affairs (BIA) 
+schools, larger urban school districts, or parochial schools. Some of the districts are K-12 with 
+various elementary, middle school and high school configurations, while others are K-6 or K-8 
+schools with self-contained classrooms. On each of Montana’s seven reservations is is a two- 
+year tribal college, established to provide local, affordable post-secondary education to 
+reservation young people. 
+
+Throughout the hundreds of treaties negotiated between the various tribes and the US 
+government from the late 1700’s through 1871 (Juneau, 2001), American Indians have 
+theoretically always had a voice in the education of their youth. The state, however, only 
+recently acknowledged as much: Article X, Section 1(2) of Montana’s State Constitution (1972) 
+contains the following language: 
+
+The state recognizes the distinct and unique cultural heritage of American Indians and is 
+
+committed in its educational goals to the preservation of their cultural integrity. 
+
+Yet, “little has been done to fulfill this commitment and incorporate it into educational 
+agencies, including public schools” (Montana Office of Public Instruction, 1999, p.6). 
+Throughout the past 30 years several legislative “plans” and recommendations have been written 
+addressing the needs of the American Native students, but few concrete laws or policies have 
+backed these recommendations up with financial support. As of 1 997, the token effort the 
+Montana legislature gave to recognizing the richness of the Native American culture and the 
+need for addressing the educational issues of its students was to designate one day a year as 
+American Indian Heritage Day. 
+
+Recent efforts to address Indian education include the passage of House Bill (HB) 528 in 
+1999. The language in this bill encourages every Montanan to learn about the distinct and 
+
+
+
+O 
+
+
+
+
+8 
+
+
+
+6 
+
+
+
+unique heritage of American Indians in a culturally responsive manner, to work cooperatively 
+with Montana tribes or those tribes that are in close proximity, and to provide the means by 
+which school personnel will gain an understanding of and appreciation for the American Indian 
+people. In addition, districts may require that all of their certified personnel satisfy the 
+requirements for instruction in American Indian studies. School districts are encouraged to 
+satisfy the requirements for instruction of Native American culture (Montana HB 528). One 
+explanation for the lack of specific directives in the law is the state’s strong emphasis on local 
+control. The lack of specific directives contributes to the statement in the Indian Education For 
+All Act of 1999 that “Indian students still attend schools where they do not see themselves 
+present in classrooms, policies or curriculum. Non-Indian students still attend schools where 
+they do not learn about their Indian peers with whom they will continue to work and live.” 
+
+In 1996 and 1997, representatives throughout state involved with the education of Native 
+American youth addressed their concerns to the Montana Advisory Committee to the U.S. 
+Commission on Civil Rights. The speakers shared statistics, personal viewpoints, teaching 
+experiences and educational concerns from all levels. As a result of these hearings, the 
+committee found that in spite of a great deal of verbal acknowledgment of the problems, the 
+results were negligible. The committee addressed these issues by recommending “concrete, 
+numerical goals with specific timetables be established to move Indian education ahead in 
+Montana” (July, 2001). The nine specific recommendations outlined by the Advisory 
+Committee will be discussed within the context of various sections of this paper. 
+
+Rural Schools in Poor Communities 
+
+There are both opportunities and challenges for students living in the communities on or 
+
+
+
+
+9 
+
+
+
+7 
+
+
+
+near Montana’s reservations. Most of the schools on the reservations are located in 
+predominately Native American rural communities beset with poverty. The nearby off- 
+reservation schools are larger by Montana standards, and the student population includes a mix 
+of Native and non-Native students. 
+
+The Matthew Project first examined the impact of poverty on students in rural schools in 
+a multi-state study concluded in 1989. This study, which focused on the hypothesis that school 
+size mitigates the influence of poverty, was replicated in the late 1990’s with seven additional 
+states including Montana (Howley et al., 2000). For the purposes of the study, poverty was 
+measured by the number of students on free or reduced-priced lunch. In contrast to previous 
+research that indicated the strong negative influence of poverty on student achievement 
+(Campbell & Silver, 2000), The Matthew Project found that the influence of poverty was reduced 
+when schools enrolled fewer than 300 students at the elementary level or fewer than 900 at the 
+high school level (Howley et al., 2000). The study found that the less affluent the community, the 
+better students performed in smaller schools. In Montana, there “is startling evidence that 
+students in smaller schools and districts outperform larger ones, even though they serve poorer 
+communities”(Lewis, 2001). A question that needs to be answered is if this finding holds true 
+for students in reservation schools. 
+
+Students in poor, rural communities encounter numerous challenges. Those include the 
+limited number of out-of-school experiences to which they have access, which in turn limits the 
+amount and type of prior knowledge needed for building new knowledge. Parents often have 
+limited educational experience themselves and are therefore distrustful of schools or of new 
+educational methods used in the classroom. Often the community is not included in discussions 
+of the rationale for curricular changes the districts implement. Lastly, changes in administration 
+
+
+
+O 
+
+
+
+
+10 
+
+
+
+8 
+
+
+
+are frequent on the reservations; Campbell and Silver (2000) note that the high administrative 
+turnover that characterizes schools in poor communities has often resulted in numerous 
+curricular changes with little support or understanding of previously implemented initiatives. 
+
+Several districts with small schools have found the use of “place-based” education to be 
+successful. Place-based education draws on local history, environment, culture and economics as 
+a rich source of curriculum. The goal of place-based education is to groimd learning in local 
+phenomena and students’ learned experiences (Smith, 2002). This form of education is foimded 
+on John Dewey’s belief that many children have to put aside their life experiences in order to 
+adapt to the ideas and activities of the public school. In contrast, place-based education 
+encourages students to build on those life experiences. 
+
+The elements of place-based education are in alignment with successful research-based 
+educational models for educating Native American students. Local culture and community 
+values are used as the basis for the curriculum, helping blur the line between the school and the 
+community. Learning experiences emphasize students as the creators of knowledge rather than 
+the consumers of knowledge created by others. Teachers serve as guides and facilitators of 
+student learning, often serving as team members of a project. Student work is assessed on the 
+basis of its usefulness to the community and sustainability rather on the basis of sorting and 
+ranking schools and students (Smith, 2002). 
+
+Possible research topics regarding Native American students attending rural schools in poor 
+communities: 
+
+D Do the results of the Matthew Project, i.e. that school size mitigates the effects of 
+poverty on student achievement, hold true for rural reservation schools? 
+
+D What impact does the use of place-based education have on student achievement in 
+mathematics in schools with a majority of Native American students? 
+
+
+
+O 
+
+
+
+
+9 
+
+
+
+D Which types of pedagogy are most successful in raising student achievement for Native 
+American students in poor, rural schools? 
+
+
+
+Influence of Native American Culture 
+
+Many Native American students have been raised in a very rich culture quite different 
+from that of many of their teachers and administrators. A Native Alaskan teacher comments: 
+
+“In order to teach you, I must know you” (Delpit, 1995). Not only are the cultures of Native 
+American students different from that of their teachers, but the cultmes of various tribes can be 
+very different. Although there are cultural values common to members of the various Native 
+American tribes, each tribe has its own language, spiritual belief systems and traditions. In 
+general, the Native American culture is holistic, integrating the community, the individual, the 
+environment, and spirituality. In traditional Native American communities, what is good for an 
+individual is inextricably linked to the good of the entire community. Although there is a 
+differentiated role for each individual that abides by the social order, drawing attention to one’s 
+self creates ill will within the Native American community (Northwest Regional Laboratory, 
+2002 ). 
+
+In the classroom, no one traditional learning style fits all American Indian children, 
+either as individuals or as members of tribal groups (Montana Office of Public Instruction, 2000). 
+To improve student learning, however, it is critical to situate mathematics education within the 
+context of the culture in which it is being taught (Davison, 2002). In addition to culture, factors 
+like gender, linguistics and socioeconomics all play a role in students’ ability to learn 
+mathematics (Cooper & Dunne, 1998; Zevenbergen, 2000 as cited in Boaler, 2002). 
+
+
+
+
+12 
+
+
+
+10 
+
+
+
+A first step in addressing the needs of the American Indian students is to establish an 
+environment that conveys the value and strength of their cultural differences (Deyhle & Swisher, 
+1997). These cultural differences surface in areas of parental expectations, linguistics, 
+assessment, and the value placed on certain aspects of learning and student behavior. For 
+example, in the Native American culture, students are encouraged to learn by observing the 
+adults in their lives and waiting to try out a new skill until they are fairly certain they know how 
+to do it. Confusion can occur when the classroom teacher urges students to “guess and check” 
+or “try” a method of solving a problem before the students feel confident enough to attempt it. 
+
+The relationship between parents and children is more egalitarian in many Native 
+American communities than is found in middle class families in the Unites States. Native 
+American adults respect children as independent-thinking adults at a very early age. Children are 
+encouraged to be quietly independent and self-assured, often taking care of themselves at a very 
+young age in contrast to the expectations of the traditional classroom, in which children are 
+viewed as lacking the ability to take responsibility for themselves. As such. Native American 
+parents are less likely to intrude or interfere with the decisions their children make (Deyhle & 
+Swisher, 1997). Non-Indian teachers often view this behavior as a lack of parental discipline. 
+Juneau paraphrases Lone Wolf, a Blackfoot Indian, who remarked “that among his people, 
+children were never punished by striking them. That was no way to teach children; kind words 
+and good examples were much better” (Juneau, 2001). These differences in cultural and family 
+expectations of Native American homes certainly have the potential for affecting the teaching- 
+learning process in public school systems dominated by white middle-class values (Montana 
+Office of Public Instruction, 2001). 
+
+
+
+ERIC 
+
+
+
+
+11 
+
+
+
+The impact developing a firm cultural identity has on school success is apparent in Lin’s 
+study cited in Demmert (2001) of 87 American Indian students attending a Montana college. Lin 
+found that those students from more traditional Native families were more task- and 
+achievement-oriented, had higher grade point averages, and spent more time doing homework 
+than those from more modem families, who cared more about professors’ opinions, yet ironically 
+skipped more classes (p. 28). Although there has been a great deal of research that supports the 
+importance of family and community attitudes on Native students’ academic achievement, 
+Demmert, reviewing the literature on Native education, stated that more research is needed to 
+sort out under what circumstances parental and community involvement works most powerfully. 
+
+Cleary and Peacock (1998) make the following compelling challenge for all teachers of 
+Native American students. 
+
+The most important endeavor for teachers in Indian schools and in schools that 
+serve Indian children is to see themselves as learners, learners who are open to 
+understanding the reasons that children and communities are the way they are, 
+learners who are willing to discover and consider the cultures of the school and 
+the home of the child, and learners who are willing to change their ways of 
+teaching so that children have a better chance in school and a better chance to 
+have purpose and hope in their lives thereafter” (p. 6). 
+
+Strang & von Glatz (2001) and Demmert (2001) recommend the following research 
+topics on connections between cultural identity and student achievement : 
+
+D Is there a shared definition of culture between indigenous communities and the 
+dominant culture? (Strang & von Glatz, 200 1 ) 
+
+
+
+
+12 
+
+
+
+D Are there cultural values within American Indian/Alaska Native communities 
+that are lost when children attend school? If so, are there methods of teaching that will 
+help to revitalize certain aspects of that culture? (Strang & von Glatz, 2001) 
+
+D What are localized, culturally specific ways of knowing, teaching and doing that 
+can be translated into educational frameworks or models? (Strang & von Glatz, 2001) 
+
+D How is student achievement in mathematics affected when curriculum and 
+instruction are guided by locally authenticated and aligned content standards, and student 
+performance assessments incorporate high expectations based on tribal history and 
+culture? (Strang & von Glatz, 2001) 
+
+D How does the student’s “sense of self’ (reflected in his/her sense of competence 
+and sense of status) relate to motivation, academic achievement and retention in school? 
+(Demmert, 2001). 
+
+In addition to the questions above, we propose exploring the following topics: 
+
+D How do teachers from other Native or non-Native cultures serving in a 
+particular Native American currently learn about their students’ history, languages, and 
+cultural identity? 
+
+D To what degree do teachers currently integrate this knowledge in local 
+mathematics programs? 
+
+D What strategies can teachers, schools or communities apply to provide teachers 
+with the cultural knowledge necessary to support their students’ mathematics learning? 
+
+D What factors contribute to the effectiveness of programs that show a positive 
+association between academic performance and the presence of Native language and 
+culture? 
+
+
+
+Mathematics Standards and Equity 
+
+The recent national emphasis on content standards has included a focus on equity issues. The 
+need to ensure mathematical literacy for all children is critical because “a society in which only a 
+
+
+
+
+13 
+
+
+
+few have the mathematical knowledge needed to fill crucial economic, political, and scientific 
+roles is not consistent with the values of a just democratic system or its economic needs.” In the 
+future, “those who understand and can do mathematics will have significantly enhanced 
+opportunities and options for shaping their futures” (National Council of Teachers of 
+Mathematics, 2000, p.2). Mathematics standards are not confined simply to content, or what we 
+will teach, but also include how we will teach that content and what methods we will use to 
+determine student knowledge. This section will address culturally responsive practices in all 
+three areas - content knowledge, pedagogical knowledge, and assessment practices. 
+
+The rationale for establishing math and science standards for all students is based on research 
+that began in the 1950’s. This research consistently indicates that the United States system of 
+education is not providing an “equitable” education in math and science for all students - 
+particularly for students of color (Schoenfeld, 2002). Mathematics and access to mathematics 
+has long been recognized as a critical filter (Sells study as cited in Schoenfeld, 2002, p. 13) 
+preventing or enabling students’ access to technological literacy and higher education. 
+Mathematics not only filters students out of classes, but may lead some to drop out of school or 
+greatly restrict their career options (Hilberg, R.W., Salton, Youpa, & Tharp, 2002). 
+
+Equity is the first of six principles for school mathematics in NCTM’s Principles and 
+Standards for School Mathematics (2000). Equity does not mean that all students receive exactly 
+the same instruction; rather, it demands that all students have access to the same concepts 
+through appropriate accommodations and varied teaching and assessment practices. As 
+discussed in the section on culture, equity should focus on making the content accessible for the 
+student by setting it in a cultural context that has meaning for him or her. A quality education as 
+once defined “does not necessarily translate into a fair and equitable education” (Montana Office 
+
+
+
+O 
+
+
+
+
+16 
+
+
+
+14 
+
+
+
+of Public Instruction, 2001). To summarize, today’s mathematics standards may confront 
+strongly held beliefs and values about schooling - for example, beliefs about who can learn what 
+type of mathematics and how they come to know that mathematics. This outcome is as 
+significant as the documents, tools and other products created by the standards (Jamentz as cited 
+in Nelson-Barber, 1998). 
+
+Equitable solutions to the educational problems Native American students encounter are 
+important in order to guarantee economic security, the ability and freedom to make informed 
+choices, and the ability to fulfill their own particular life aims within their own communities and 
+beyond (Nelson-Barber & Estrin, 1995). We must not fail them for “to fail children in 
+mathematics, or to let mathematics fail them, is to close off an important means of access to 
+today’s society” (Schoenfeld, 2002, p.l3). 
+
+Standards-based reform holds potential promise for addressing issues of equity. One 
+reason for optimism is that the reforms promote a common vision of what students are expected 
+to know and be able to do. In general, standards-based curricula encourage a more holistic, real- 
+life, active learning sort of pedagogy, more consistent with the constructivist and sociocultural 
+perspectives of learning that have proved effective with Native American students. Reform 
+efforts typically include multiple forms of assessment rather than the singular use of norm 
+referenced tests, which are thought to be culturally biased and antithetical to the ways Native 
+American students perform (Fox, 2001). 
+
+Standards-based programs, however, also hold areas of concern for Native American 
+children if members of the Native American community are not given input into identifying the 
+content, selecting curriculum materials for classroom use, or designing appropriate methods for 
+assessing student learning. The Native American community, parents and grandparents have 
+
+
+
+O 
+
+
+
+
+15 
+
+
+
+waited for decades for legislation and educational initiatives to provide true equity for their 
+children (Montana Office of Public Instruction, 2001). As the educational and Native American 
+communities in various regions seek ways to grant access for all students to mathematical 
+knowledge validated by the students’ culture, it is important for the research community to 
+support their work by addressing questions like those below. 
+
+
+
+Recommended research topics on standards and equity: 
+
+D Are there classrooms in which American Indians/Alaska Natives are receiving 
+standards-based instruction? How does one document implementation of standards and 
+assessment systems? (Strang & von Glatz, 2001). 
+
+D What are the characteristics of schools serving American Indian/Alaska Native 
+students in which standards are implemented appropriately? (Strang & von Glatz, 2001) 
+
+D What are the barriers to implementation of new standards and assessment 
+systems in schools serving Native students? (Strang & von Glatz, 2001). 
+
+D What is the nature and longevity of the implementation of reform efforts in 
+classrooms serving poor communities, particularly in rural and reservation areas? What 
+are the implications of that reform on student achievement in mathematics? 
+
+D In states serving significant numbers of Native American students, are national 
+mathematics education standards (e.g. National Council of Teachers of Mathematics, 
+2000) supported by state-level content and performance standards, and by the state 
+assessment systems currently in place or under development? 
+
+D What differences exist between national and state level mathematics education 
+standards, and national standards and guidelines for Native American learning (e.g. 
+NWREL, 2002; NIEA, 1999; and AISES, 1994)? Given current researched-based 
+understandings of students’ mathematics learning, especially for Native Americans, what 
+are the implications for student learning of the differences between these two categories 
+of standards? 
+
+
+
+
+Culturally Responsive Pedagogy 
+
+
+
+Providing an equitable mathematics education for all students requires us to closely 
+examine our teaching, the curriculum materials we use, and our methods for determining what 
+students know and are able to do. This section focuses on the types of pedagogy that have 
+proven successful in meeting the needs of Native American students in mathematics . 
+
+It has long been assumed that good teaching in one culture or commimity is good 
+teaching in another. Research on culturally and linguistically diverse commimities indicates that 
+this is not always the case, as knowledge and ways of knowing are both culturally and 
+historically situated (Nelson-Barber & Estrin, 1995). Appropriate discourse in one community 
+does not look the same as discourse in another. Methods of questioning, probing, the role of the 
+teacher and asking for student input differ in various cultures. There is a need to study 
+“culturally responsive pedagogy” in order to better understand successful practices for teaching 
+mathematics to Native American students. In addition to structural and curricular remedies, we 
+need to focus on what teachers need to successfully teach Native American students. 
+
+Contributing to the development of guidelines to inform teachers of teaching and learning 
+approaches that are successful with Native American students is an important goal for 
+researchers. This will assist instructors as they attempt to “bridge cultures and situate learning in 
+meaningful contexts (Nelson-Barber & Estrin, 1995, p.7). The guidelines developed by the 
+Alaska Native Knowledge Network (1997) with the help of the Alaskan Rural Systemic Initiative 
+show what is possible. This extensive set of principles for preparing culturally responsive 
+teachers who could implement the Alaska Content and Performance standards was based on 
+research findings on successful teaching practices in culturally diverse classrooms. With 
+
+
+
+17 
+
+
+
+attention to the unique characteristics of each tribal culture, these could be adapted for use in 
+Native American settings outside of Alaska. 
+
+Current research suggests that certain instructional sequences are more successful than 
+others for teaching Native American students. A recommended instructional sequence builds on 
+Native American students’ intuitive and ethnomathematical knowledge. Ethnomathematical 
+knowledge, including forms of mathematics embedded in culturally linked activities in everyday 
+life and the workplace, can provide critical foundations for students. From this knowledge base 
+the students can move to an understanding of symbolic representation and procedural knowledge 
+that leads to understanding the underlying principles and theory. This sequence does not occur 
+in a linear fashion, as students often move back and forth between these various stages of 
+understanding (Trumbell, Nelson-Barber, & Mitchell, 2002). 
+
+The instructional sequence for Native American students should combine a constructivist 
+approach to learning complemented with a sociocultural perspective. The constructivist 
+approach “recognizes students as active meaning-makers,” building on their prior knowledge, 
+while the sociocultural perspective “recognizes the importance of social and cultural systems 
+and their associated values and expectations on students’ learning” (Trumbell et al., 2002). 
+Reform pedagogies reflect both approaches by encouraging instructors to teach concepts in 
+meaningful contexts through the processes of inquiry and exploration. These explorations can 
+make connections with, and reinforce the value of. Native American culture. Proponents of 
+culturally responsive pedagogy also recommend that several types of assessments be available so 
+that students can demonstrate what they know and are capable of instead of relying on one “test” 
+(Trumbell et al., 2002). The teacher’s mediation of the different curricular and assessment 
+approaches described above is central to promoting equity. The teacher’s task then centers on 
+
+
+
+O 
+
+
+
+
+20 
+
+
+
+18 
+
+
+
+helping students make connections between their personal meanings, culture-based systems, and 
+the systems of the school (Nelson-Barber & Estrin, 1995). 
+
+Conflicts between reform pedagogy and Native American students’ ways of learning can, 
+however, occur when the observational and contextual learning modes of Native American 
+students conflict with the traditional verbal interchange that occurs in many classrooms today. 
+
+As noted earlier. Native American students are more likely to observe behavior until they feel 
+competent to successfully attempt a problem in contrast with the trial-and-error method 
+encouraged by many teachers in today’s classrooms (Deyhle & Swisher, 1997; Trumbell et al., 
+2002 ). 
+
+Cormmmication between students and teachers from diverse cultures can be confusing, 
+and misunderstandings can occur as their communication styles interact. A dialogue between 
+teacher and students, in which the students’ prior knowledge and experience is woven into new 
+concepts and ideas, can be very different from the traditional Western form of teacher-dominated 
+classroom dialogue. When students are engaged in shared open-ended questioning and large and 
+small group discussions that center aroxmd Native students’ own culture and experiences, they 
+are quite eager to join in the discussion. This challenges the deficit notion that Native American 
+students are non-responsive to teacher questioning (Tharp & Yamauchi, 1994). 
+
+Some overall suggestions follow for teachers and schools that wish to encourage a more 
+culturally responsive classroom. 
+
+1) Respond to the strengths and differences of Native American children based on a deep 
+understanding of their culture (American Indian Science & Engineering Society, 
+
+1994; Hilberg et al., 2002; Nelson-Barber & Estrin, 1995; 2002; LAB at Brown 
+University, 2001). 
+
+
+
+O 
+
+
+
+
+21 
+
+
+
+19 
+
+2) Situate classroom practice in holistic contexts, including the recognition of the 
+importance of spirituality in the culture (American Indian Science & Engineering 
+Society, 1994; Nelson-Barber, 1999; 2002). 
+
+3) Align classroom experiences with assessed cultural needs and concerns of the 
+community. ( American Indian Science & Engineering Society, 1994; Hilberg et al., 
+2002; 2002) 
+
+4) Use research based instructional methods known to address the learning needs of 
+Native American students, such as the constructivist and sociocultural approaches 
+discussed above (Deyhle & Swisher, 1997; Hilberg et al., 2002; Nelson-Barber, 1999; 
+Nelson-Barber & Estrin, 1995; LAB at Brown University, 2001). 
+
+The preparation of non-Native teachers must include experiences leading to a deeper 
+understanding of Native American culture, its family and community structures and its history. 
+“A caring teacher with the belief that all students can learn and a deep understanding of their 
+culture are critical factors in Native American students’ success” (Deyhle & Swisher, 1997, 
+p.l22). 
+
+Research possibilities for establishing a culturally responsive classroom: 
+
+D What mentoring and professional development systems could be put in place for pre- 
+service, early career, and experienced teachers in schools serving a majority of Native American 
+students to ensure culturally responsive teaching? 
+
+D What are the characteristics of a high-achieving, culturally diverse mathematics 
+classroom in which family and community values are validated? (Strang & von Glatz, 2001). 
+How is the validation of family and community values measured? 
+
+
+
+
+22 
+
+
+
+20 
+
+
+
+D What instructional practices have been demonstrated to be effective in helping 
+American Indian and Alaska Native students achieve mathematically in reservation and off- 
+reservation schools? 
+
+D What effect does the use of computers as instructional tools have for Native American 
+students? 
+
+Curriculum 
+
+The approaches for establishing a culturally responsive classroom discussed in the 
+previous section share many characteristics with standards-based pedagogy that form the basis of 
+what are known as standards-based curricula. Soon after NCTM’s Curriculum and Evaluation 
+Standards (1989) was published, it became apparent that commercial curriculum materials were 
+not available to help teachers implement these standards. Furthermore, teachers did not have the 
+content or pedagogical knowledge necessary to implement the type of instruction the standards 
+envisioned. Since that time, several standards-based curricula (for example, the Connected 
+Math Project, Six through Eighth Grade Mathematics, Math in Context, Core-Plus) have been 
+produced that show promise in helping Native American students close the achievement gap in 
+mathematics (Fox, 2000; Boaler, 2002). The standards themselves, some researchers believe, 
+also hold promise for Native American students, especially if tribes and communities become 
+involved in setting their own culturally responsive standards (Demmert, 2001). 
+
+Although research indicates students in poor and rural communities learn best through 
+approaches that encourage a combination of constructivist and sociocultural pedalogical 
+approaches to teaching and conceptual understanding (Knapp, Marder, Zucker et al. 1995, as 
+cited inNCTM, 2000; Fox, 2000), many districts in poor and rural communities rely instead on 
+
+
+
+
+23 
+
+
+
+21 
+
+
+
+procedurally driven, also known as skills-driven, curriculum materials. There are many reasons 
+schools choose a skills-driven curriculum. They range from a high-stakes emphasis on norm- 
+referenced test performance, perceived university expectations, a teaching staff lacking the 
+necessary mathematics content or pedagogical knowledge, and a propensity to choose familiar 
+materials over less traditional ones. This traditional view may include not only what is taught 
+and how it is taught, but also who can succeed in learning mathematics. In her work in low- 
+income and culturally diverse communities, Gutierrez (1996, 1999, 2000, 2002) as cited in 
+Boaler, (2002), concluded that the greatest hope for providing equitable teaching environments is 
+to focus on practices of teachers using reform curricula. 
+
+To their credit, many of the schools serving Native American students on these 
+reservations are attempting to use standards-based curriculum materials that are based on the 
+learning and teaching philosophies described above. Research indicates, however, that most 
+teachers in the United States are not prepared to successfully implement these materials (TIMSS 
+USDOE, 1997; Ma, 1999). Mathematics education in the United States often consists of 
+teaching isolated skills or procedures without building on prior knowledge. This type of 
+teaching frequently occurs in low-income schools based on the “conventional wisdom” that 
+students are deficient and that the curriculum should follow a fixed sequence of lessons, 
+emphasizing practice and moving from basic to more advanced skills without ever addressing 
+problem-solving or reasoning (National Council of Teachers of Mathematics, 2000). This is a 
+belief reinforced by the use of norm-referenced tests as the only mandated assessment in many 
+states. 
+
+In her work with two middle school teachers implementing the Connected Math Project, one 
+of the NSF supported reform curricula, Boaler (2002) found that the ways in which the teacher 
+
+
+
+O 
+
+
+
+
+24 
+
+
+
+22 
+
+
+
+mediated the curriculum for the students had a greater impact on student learning than the 
+interaction between the student and the curriculum. For example, the teachers in these schools 
+introduced real-world mathematical activities by participating in the conversations with the 
+students regarding the task. Students were never left to interpret text-based problems alone. She 
+concluded that the teachers and their teaching are central to the promotion of equity (pp. 246- 
+249). 
+
+
+
+Research topics regarding reform based curriculum: 
+
+D What methods do teachers use to successfully enact reform curriculum for students in 
+Native American classrooms? (Boaler, 2002, p. 245). 
+
+
+
+Assessment 
+
+To design appropriate assessments for what students know and can do, it is essential to 
+take into account the ways in which Native American children have traditionally been assessed. 
+Relying on standardized testing alone is bad practice and bad policy (Elmore, 2002). It limits 
+students’ opportunity to demonstrate what they know and are able to do in ways that will be 
+discussed later in this section. 
+
+The No Child Left Behind Act, passed by the United States Congress in January 2002, 
+gives states twelve years to ensure that all students are proficient in math and science as defined 
+by individual states and determined by annual testing in grades 3-8. Although a criterion- 
+referenced test is being designed to reflect Montana’s content standards in mathematics, the state 
+currently requires all students to take the norm-referenced ITBS test to determine grade-level 
+
+
+
+
+25 
+
+
+
+23 
+
+
+
+proficiency. This practice occurs in spite of the fact that it conflicts with recommended standards 
+and guidelines for culturally responsive assessment of Native American students (Bordeaux, 
+1995; Elmore, 2002). Since the main purpose of standardized tests is to sort students, items that 
+most students can answer are not included, which makes the test of little use in assessing what 
+students can actually do relative to what they have been taught. The use of standardized tests 
+alone to measure performance has met with a great deal of criticism nationwide and could 
+shortchange Native American students (Bordeaux, 1995). 
+
+Indigenous peoples have traditionally used performance assessments to determine how 
+each individual could best contribute to the survival of the tribe, clan or village. These 
+“assessments” were designed to support the teaching and learning of students’ imderstanding of 
+the skills, cultural traditions and values as determined by parents and the commimity and to 
+inform local communities about the work its students can do. Success was seen as both a 
+personal achievement and a community asset. Recognizing individual achievement based on a 
+norm-referenced test works in opposition to the importance of place and tribal bonds the Native 
+American commimities encourage (Deyhle & Swisher, 1997; National Council of Teachers of 
+Mathematics, 2000). 
+
+A brilliant example of this type of performance assessment occurred during the summer 
+of 2002 on the Crow reservation in Southeast Montana. With the help of an architect from the 
+Seattle-based Red Feather Development group, three middle school Crow girls used money they 
+won in the national Bayer/National Science Foundation competition to build a straw-bale study 
+hall building for tribal members. “For the 1 1,000 members of the Crow tribe, such tangible 
+accomplishments are rare” (Nijhuis, 2002), but are a much greater validation for the individuals 
+
+
+
+
+26 
+
+
+
+24 
+
+
+
+and the community than the assessment the state uses to determine student knowledge and school 
+accoimtability. 
+
+Nowhere is the effect of standardized testing more harmful than when it separates the 
+school from the community, teachers from assessment, and relegates important decisions to 
+distant policymakers. In its draft policy statement on assessment and accountability in public 
+schools, the Rural School and Commimity Trust (2002) states that one of the greatest risks in 
+testing is the effect it has on teachers and how they teach. These policy decisions force teachers 
+and districts to focus curriculum materials and teaching on skills and procedures rather than 
+using a more holistic, constructivist conceptual approach known to be more effective in teaching 
+Native American students 
+
+The real challenge for schools on or near the reservations is that of providing a 
+worthwhile mathematics program while facing the limitations of standardized assessment 
+(National Coimcil of Teachers of Mathematics, 2000). As schools and communities collaborate 
+to establish a coherent set of norms and expectations, they must also determine how those 
+expectations will be assessed. The Rural Schools and Commimity Trust (2002, p. 2) is currently 
+designing an assessment system that could be adapted by local districts and schools. The essence 
+of these assessments will require students to apply what they know to real world problems. 
+Students will be required to not only demonstrate what they know but also that they know how to 
+use that knowledge. This assessment process will include designing a project, using authentic 
+rubrics and internal and external project reviews, involving a critical friends group or mentor, 
+and engaging in a portfolio review process. After these expectations and assessments have been 
+agreed upon, students and schools can be assessed for internal accountability. In this way 
+assessment is integrally connected with the goals of teaching and learning. Until there is an 
+
+
+
+
+
+
+
+27 
+
+
+
+25 
+
+
+
+investment in this type of assessment by the community and educators, low-performing schools 
+may get worse relative to high-performing schools (Elmore, 2002). In the meantime, we must 
+not use the current focus on limited assessments as an excuse for adhering to a skills-based, 
+rather than a standards-based, curriculum and instructional approach (Campbell & Silver, 2000). 
+
+
+
+Possible research topics regarding assessment: 
+
+D What combinations of assessments could be used to validate community values 
+for mathematics education, and also serve as evidence of proficiency for math content 
+and performance standards needed for state and federal accountability? 
+
+DHow do innovative assessment practices, such as the place-based assessment 
+system recently proposed by the Rural Trust, affect student achievement? 
+
+D Are there assessment instruments and procedures that penalize some students 
+more than others (e.g. according to gender, ethnic/linguistic background etc.)? What are 
+critical dimensions or features of tests or rubrics that facilitate more accurate portrayals of 
+students’ knowledge and skills? What methods of assessment have proved successful by 
+schools serving Native American students? (Strang & von Glatz, 2001). 
+
+D What processes could be used to validate mathematics assessments and tests for 
+Native American students? For example, how might cultural validity (as delineated in 
+Solano-Flores & Nelson-Barber, 2001) be determined? 
+
+D What policy factors influence Native American student achievement on various 
+types of assessments (student transfer policies, attendance policies, test factors, support 
+
+
+
+
+28 
+
+
+
+services, policies for developing curriculum and selecting curriculum materials etc.)? 
+(Strang &, von Glatz, 2001). 
+
+D To what extent are Native communities, tribes, villages etc. involved in 
+developing and implementing standards and assessments? What are the differences 
+between assessments and standards systems developed by and with input from Native 
+educators and those developed by non-Natives? (Strang & von Glatz, 2001) 
+
+D How does one determine the authentic assessment instruments and procedures 
+for assessing student learning; do these vary for different content areas of mathematics 
+and for diverse populations? 
+
+DHow can student assessments better take into account traits of the learner 
+(values, culturally defined “ways of knowing,” etc.) that might critically interact with 
+and distort or advantage the assessment of student learning? 
+
+DWhat are the levels of achievement on standardized assessments (e.g., NAEP) 
+for Native American students by grade level or age, state, type of school (public, tribal, 
+BIA), and tribe, and how have those levels changed over the last 10 years? 20 years? 
+(Strang & von Glatz, 2001). 
+
+
+
+Obstacles And Challenges For Montana’s Indian Reservations 
+
+This section will describe some of the obstacles and challenges that one of the authors. 
+Nelson, along with other faculty and graduate fellows associated with the NSF Center for 
+Learning and Teaching in the West, have identified in their work with mathematics and science 
+
+
+
+27 
+
+
+
+teachers and administrators of Native American students on and near Montana’s Indian 
+reservations. These observations occurred as Nelson and others conducted field work with the 
+schools on two Montana reservations during the past year and a half During this time, Nelson 
+and others met with superintendents and building principals at each school, followed by 
+individual and joint meetings with mathematics and science teachers in grades 5-12. The 
+obstacles and challenges identified by these schools and their students fall into three broad 
+categories: student mobility, access and communication, and local control. We will briefly 
+describe the issues in each category and make suggestions for further research. Details of this 
+work can be found in (Nelson, Simonsen, & Swanson, 2002). 
+
+Student Mobility 
+
+Students on or near the reservations in Montana have traditionally moved freely among 
+the local schools without regard to academic ramifications. The reasons for mobility include 
+academic needs, discipline and attendance problems, moving to live with other extended family 
+members, and playing on a winning athletic team. On these two reservations, the schools are 
+governed by nine separate school districts, including one parochial and one tribal school. Each 
+district has a separate curriculum, uses different teaching materials, and has separate attendance 
+and discipline policies. In testifying before the Montana Advisory Committee to the U.S. 
+Commission on Civil Rights, tribal education committee members found it was impossible to 
+determine the dropout rate because of the high-mobility of students. Counselors do not have 
+time to track these students. “Kids can move out and we can’t catch up with them. Many are lost 
+through the cracks” (2001). 
+
+
+
+
+30 
+
+
+
+28 
+
+
+
+The recent federal No Child Left Behind Law (2002) stipulates that students from failing 
+schools be given the opportunity to transfer to another school at the expense of the failing school 
+In the case of students in the reservation schools, transferring freely among schools has worked 
+to the detriment of student success. If all students were to transfer from the reservation schools 
+that are on the state’s “schools needing improvement” list to off-reservation schools, it could 
+indicate the demise of on reservation schools and the much-needed involvement of the local 
+community. 
+
+In order to follow the movement of students between schools, the Montana Advisory 
+Committee to the U.S. Commission on Civil Rights (2001, p. 62) recommended implementing 
+improved procedures to track and follow up on Native American students as they move between 
+schools and school districts. In addition to enrollment data, the tracking system could serve as a 
+database for varying curricula and materials used across the system schools. 
+
+
+
+Possible research issue addressing student mobility: 
+
+D How can several small districts work together as a system to benefit the needs of all 
+students including those who frequently move among the schools in the system? 
+
+D Do high student mobility rates have implications for achievement and assessment for 
+Native American students attending school on or near Montana’s reservations? If so, what can 
+be done? (Strang & von Glatz, 2001). 
+
+DWhat is the actual student mobility rate between schools? What percentage of the 
+students in a school transfer within a given year? How many times does a student move among 
+schools during a three-year period? 
+
+
+
+
+29 
+
+
+
+Access and Communication 
+
+Another challenge for educators and students in these reservation schools centers around 
+the issues of communication and access. The nine districts serving the two reservations’ students 
+are scattered over several thousand square miles. Driving from a school on one side of a 
+reservation to a school on another can take more than an hour. During this time cell phone 
+service is not available and other services such as food and fuel are scarce. Internet service is 
+sporadic and slow for most of the schools on these reservations. The servers are often down or 
+not working. 
+
+Establishing a learning community within a school or school system requires consistent 
+collaboration among teachers and administrators. On-line communication can be a useful tool 
+when distances are great and opportunities for face-to-face communication are limited. When 
+Internet service is not reliable, however, teachers will not depend on it or use it to its full 
+potential. This limited access and communication limits the ability of teachers to collaborate for 
+professional growth. 
+
+The lack of consistent on-line service also hurts student learning. If there are too few 
+students in a single school or too few qualified teachers for a particular class, on-line classes can 
+fill a void. If the technology to access these courses is either unavailable or inconsistent, the 
+ability of students to participate in on-line classes is compromised. The mathematics to which 
+students have access must not be contingent on where they live or the social conditions in which 
+they live. Students in poor, rural communities must have the same access as those in more 
+affluent communities, even though the delivery method may be different (Campbell & Silver, 
+2000 ). 
+
+
+
+
+
+
+
+32 
+
+
+
+30 
+
+
+
+Suggested topics of research on issues of access and communication: 
+
+D How do limitations in on-line access affect student performance? 
+
+DHow does the difficulty of on-line communication affect the types of 
+instructional practices carried out in the classroom? 
+
+D What on-line courses are available to students and what success do students 
+have who are enrolled in them? 
+
+DWhat are some barriers that limit collaboration between schools and community- 
+based organizations? What are some factors that enhance and strengthen collaboration? 
+(Strang & von Glatz, 2001). 
+
+DTo what extent and for what purposes are distance-learning methods used in 
+schools serving Native American students, by grade level, type of school, community 
+characteristics, and tribe? (Strang & von Glatz, 2001). 
+
+
+
+Local Control 
+
+A third obstacle schools encounter is that of local control. Local influences over what 
+students are required to know and how they demonstrate this knowledge has traditionally been 
+the cornerstone of public education in the United States. In Montana, school districts and 
+communities closely protect the right to exercise a wide latitude in executing their own priorities 
+and policies. While this practice may have advantages, it also has the effect of diffusing and 
+dividing accountability for all of its students. The Advisory Committee to the U. S. Commission 
+on Civil Rights (2001) strongly urged the creation of a central governing body with the authority 
+
+
+
+
+33 
+
+
+
+31 
+
+
+
+to require statewide compliance with the constitutional mandate to guarantee the equitable 
+education for all Montana’s students.. 
+
+On Montana’s reservations, several small rural districts may serve the same population of 
+students, but each district has locally developed curricula or belongs to different curriculum 
+consortia. The educational communities in these districts choose their own texts and materials to 
+implement that curriculum. These materials can vary widely in philosophy and structure. 
+
+Policies regarding the make up of the school day, the number and length of periods, and the 
+school calendar can vary widely. As students transfer between schools, this inconsistency limits 
+the access students have to a coherent curriculum. 
+
+In addition to determining the content taught and the materials used, local control also 
+determines who stays and who leaves administrative and teaching positions. Many local school 
+boards are comprised of Native Americans who are long time residents of the reservation 
+community, while the majority of the teachers are non-Native. As stated earlier, Indian ways of 
+knowing and learning can be at odds with the local educational community. When the 
+philosophies of what should be taught, how it should be taught, who should teach it, and how the 
+knowledge of students should be tested conflict, friction occurs. Clearly, a priority of researchers 
+and practitioners is to continue the efforts to encourage collaboration between teachers, 
+administrators, and community and tribal members to ensure that all students have equal access 
+to quality mathematics opportunities. 
+
+Suggested areas of research on the issue of local control: 
+
+
+
+
+34 
+
+
+
+32 
+
+
+
+D What are some cultural barriers that limit collaboration between schools and 
+tribal- and community- based organizations? What are some factors that enhance and 
+strengthen collaboration? (Strang & von Glatz, 2001). 
+
+D Under what circumstances can parental and community involvement have the 
+greatest effect on curriculum and classroom practices resulting in increased student 
+achievement? 
+
+D What type of accounting or tracking system could be used to encourage 
+consistency of policies, curricula and assessment expectations for students attending 
+school within these systems? 
+
+
+
+What’s Working on Montana’s Reservations 
+The previous list of challenges and obstacles to improving student achievement on 
+Montana’s reservations highlights the need to concentrate on the system of schools on or near the 
+reservations that serve the same population of students. This section will outline events that have 
+occurred and appear to have the potential for positive impact on closing the mathematical 
+achievement gap for students within these reservation systems. 
+
+Recently the new Center for Learning and Teaching in the West (CLTW) sponsored an 
+open forum for mathematics and science teachers on or near the two reservations. Teachers were 
+given the opportunity to share how they felt their students were doing, what was working to 
+ensure success in mathematics and science for these students, and what materials they were 
+using. In addition, they were given the opportunity to discuss identify changes they felt were 
+needed to help students succeed. Teachers were eager to share their thoughts; many commented 
+
+
+
+
+33 
+
+
+
+that this was the first opportunity they had had to openly address their successes, concerns, and 
+beliefs. Extending and building on this type of collaboration has great potential to lead to 
+changes that can help close the achievement gap for students in mathematics and science in 
+these schools. 
+
+Another example of what’s working is the outreach program of the local tribal colleges. 
+Rural Systemic Initiatives sponsored by the National Science Foundation and carried out by 
+tribal colleges have encouraged reservation teachers to use various NSF sponsored standards- 
+based curricula. Although research indicates these materials are very challenging for teachers to 
+implement and require a great deal of professional development and community support, 
+teachers are eager to try materials that might make a difference in their students’ mathematics 
+achievement. A multi-faceted program of standards-based curricula, multiple forms of 
+assessment, high-quality math and science preservice education and professional development, 
+administrative support for teachers, and parent and community involvement will improve 
+achievement rates and lower dropout rates (Demmert, 2001). Collaboration between all levels of 
+educational practitioners with the community appears to be having a positive effect in this 
+direction. 
+
+
+
+Summary of Suggested Research 
+
+Many of the research questions given in this paper came from the authors’ interpretations 
+of teacher and administrator interviews and classroom observations. Other suggestions came 
+from the American Indian and Alaska Native Education Research Agenda (Strang and von Glatz, 
+2001) - the result of an executive order signed by President Bill Clinton (Executive Order 
+No. 13096, 1998). Among the activities that stemmed from this order was a nationwide effort to 
+
+
+
+O 
+
+
+
+
+36 
+
+
+
+34 
+
+
+
+involve tribal leaders and Native education researchers and professors to develop a research 
+agenda. This effort is significant because it was guided by Native commitments to self- 
+determination, the perpetuation of Native languages and cultures, and a commitment to finding 
+effective ways of educating Native children and youth. Because of the commitment of members 
+of the Native American community, this research has the potential to significantly improve the 
+schooling ofNative American students (Demmert, 2001; Deyhle & Swisher, 1997). 
+
+Major underlying themes for approaching research on Native American education include 
+a focus on success, tribal sovereignty, and sensitivity to tribal differences (Strang & von Glatz, 
+2001). We need to better understand the pedagogy, standards, assessment, and curriculum 
+materials that have been successful in educating Native American students. 
+
+Researchers must work closely with members of the Native American community and 
+respect the tribal rights of that community during the research process. Native American 
+permission for the research design, methodology and instrumentation is critical, following 
+practices like those currently in place in the Navajo Nation. Ideally, Native Americans should be 
+members of the research teams. The inclusion ofNative Americans in the entire research effort 
+will ensure better collaboration and provide for higher quality research. 
+
+There is clearly a need for research that involves Indian teachers, students, parents, and 
+elders in both urban and rural schools, off and on the reservations, in discussions and policy 
+development impacting the education of their children. The timely emergence of empowerment 
+and community-based models for research and evaluation provide a path for inclusion of these 
+stakeholders in conducting research in Native American education. 
+
+The structure and purpose of schools, and the society in which these schools are situated, 
+must be carefully considered during the evaluation of the success or failure of American Indians 
+
+O 
+
+ERIC 
+
+
+
+37 
+
+
+
+35 
+
+
+
+in their K-12 and postsecondary experiences (Deyhle & Swisher, 1997). Throughout the paper, 
+the authors have suggested research questions that could help shed light on the influence of the 
+culture of the Native American student as it encourages or subverts their understanding and use 
+of mathematics. 
+
+
+
+Concluding Remarks 
+
+Somewhere after your third or fourth visit to the schools on the reservations, you find 
+yourself anxious to return. The land is beautiful and raw, the distances are vast, the children are 
+bright and the need for understanding and collaboration among all stakeholders is great. 
+
+Research has provided us with the characteristics for successful mathematics reform and the 
+successful education for Native Americans. Research has also given us an array of issues to be 
+addressed as we work with the systems in which these children live and in which their teachers 
+teach to increase student achievement. 
+
+Research has helped educators make a difference. We know more about how culturally 
+responsive teaching affects student learning. We know that teachers grounded in the culture of 
+the students they teach make a difference. We know that for those individuals who have strong 
+cultural identities and know their language, a culturally relevant curriculum is less important. 
+Conversely, for those who are less grounded, cultural integration of the curriculum is more 
+important. We know that when research is perceived as a partnership between the researcher and 
+the community and is sustained over time, the results benefit all parties concerned. Still needed, 
+however, is the “interpretation of what this research means in the way teachers are trained, 
+schools are organized, curriculum is designed and instruction is delivered” (Deyhle & Swisher, 
+1997, p. 182). 
+
+
+
+O 
+
+
+
+
+38 
+
+
+
+36 
+
+
+
+It is important to look beyond the performance of individual students to the systems in 
+which they are educated (Nelson-Barber & Estrin, 1995). Establishing a coherent curriculum 
+among the reservation schools and the development of teaching philosophies consistent with 
+research of best practices for Native American students needs to occur. A tracking system 
+should be developed for use across the system to ensure students do not fall through the cracks, 
+and that they encounter some form of consistency in their educational experiences as they move 
+between schools. Ongoing professional development and collaboration among teachers, schools 
+and districts needs to be established, giving them a forum to share methods they’ve found 
+successful as well as to discuss recent research on the many issues of education for Native 
+American children. Collaboration over these great distances needs to occur both on-site and on- 
+line. Finding ways and means to encourage this collaboration is key to providing support for 
+teachers, students, and the community. Research on the issues suggested in this paper will guide 
+us in this work. 
+
+There are many challenges for these systems. State and federal accountability policies 
+are having a tremendous effect on schools that are already struggling to integrate their rich 
+cultural values with the predominant educational culture. Montana’s tight economic situation, 
+like that currently faced it many states, makes it difficult for the state to provide financial support 
+for designing assessments to more equitably address what students know and are able to do. The 
+remoteness of this region’s reservations schools, combined with the relatively low teacher 
+salaries typical in a rural state like Montana, makes it difficult to find quality teachers to replace 
+those who leave. Technical support to provide consistent on-line communication and support for 
+ongoing professional development and collaboration is critical. 
+
+
+
+
+39 
+
+
+
+37 
+
+
+
+The problem is not whether we can make a difference for these children; the issue is how 
+to support and maintain these efforts in a complex system influenced by many factors. For too 
+long the needs and interests of our Native American children have been either ignored or glossed 
+over. Now is the time for Native and non-Native educators to come together with members of 
+the Native American community to establish clear research-based guidelines and expectations for 
+Native American children and to collaboratively work within the educational systems to ensure 
+that those guidelines and expectations become reality. 
+
+
+
+References 
+
+
+
+American Indian Science & Engineering Society. (1994, 1995). Education American 
+
+Indian/Alaska Native elementary and secondary students: Guidelines for mathematics, 
+science and technology programs. Paper presented at the Educational Needs of American 
+Indian/ Alaska Native Students in Science, Mathematics and Technology, Boulder, Co. 
+
+Boaler, J. (July, 2002). Learning from teaching: Exploring the relationship between reform 
+
+curriculum and equity. Journal for Research in Mathematics Education, 33(4), pp. 239- 
+258. 
+
+Bordeaux, R. (1995). Assessment for American Indian and Alaska Native learners. ERIC. 
+Retrieved August, 2002, from the World Wide Web: 
+vsrww.ed.gov/databases/ERIC Digests/ed3 85424.html 
+
+Campbell, P. F., & Silver, E. (2000). Task Force on Mathematics Teaching and Learning in 
+Poor Communities-. National Council of Teachers of Mathematics. 
+
+Cleary, L.M. & Peacock, T.D. (1998). Collected Wisdom. Needham heights, Ma. Llyn & 
+
+Bacon. 
+
+Davison, D. M. (2002). Teaching mathematics to American Indian students: A cultural approach. 
+In J. E. Hankes & G. R. Fast (Eds.), Changing the faces of mathematics: perspectives on 
+indigenous people of North America (pp. 19-24). Reston, Va.: National Council of 
+Teachers of Mathematics. 
+
+Delpit, L. (1995). Other people's children. New York: The New Press. 
+
+Demmert, W. G., Jr. (2001). Improving academic performance among Native American students: 
+A review of the research literature. Charleston, WV.: ERIC; Clearinghouse on Rural 
+Education and Small Schools. 
+
+Deyhle, D., & Swisher, K. (1997). Research in American Indian and Alaska Native education: 
+From assimilation to self-determination. In M. W. Apple (Ed.), Review of research in 
+education 22 (pp. 1 13-191). Washington, D.C.: American Educational Research 
+Association. 
+
+
+
+
+40 
+
+
+
+38 
+
+
+
+Elmore, R. F. (2002, September - October). Testing trap: The single largest - and possibly most 
+destructive - federal intrusion into America's public schools. The Harvard Magazine, 105, 
+
+
+
+Fox, S. J. (2001). American Indian/Alaska Native education and standards-based reform 
+
+[Internet]. ERIC Digest. Retrieved August 7, 2002, 2002, from the World Wide Web: 
+
+Hilberg, R. S., R.W., D., Salton, S. S., Youpa, D., & Tharp, R. G. (2002). Standards for effective 
+mathematics education for American Indian students. In J. Hankes & G. R. Fast (Eds.), 
+Changing the faces of mathematics: Perspectives on indigenous people of North America 
+(pp. 25-35). Reston, Va.: National Council of Teachers of Mathematics. 
+
+Howley, C., Strange, M., & Bickel, R. (2000). Reserach about school size and school 
+
+performance in impoverished communities. ERIC Clearinghouse on Rural Education and 
+Small Schools. Retrieved June 6, 2002, 2002, from the World Wide Web: 
+
+Juneau, S. (2001). A history and foundation of American Indian education policy. Helena, Mt.: 
+Montana Office of Public Instruction. 
+
+Lewis, A. (Ed.). (2001). Add it up: Using research to improve education for low-income and 
+minority students: Poverty and Race Research Action Council. 
+
+Ma, L. (1999). Knowing and teaching elementary mathematics. Mahwah, N.J.: Lawrence 
+Erlbaum Associates. 
+
+Montana Advisory Committee. (2001). Equal educational opportunity for Native American 
+
+students in Montana public schools. Helena, Mt.: Montana Advisory Committee to the 
+U.S. Commission on Civil Rights. 
+
+Montana Office for Public Instruction. (1999). Indian education for all. Office for Public 
+Instruction. Retrieved August 28, 2002, from the World Wide Web: 
+
+Montana Office for Public Instruction. (2001). Essential understandings about Montana indians: 
+Office of Public Instruction. 
+
+National Council of Teachers of Mathematics. (2000). Principles and standards for school 
+mathematics. Reston, Va.: NCTM. 
+
+National Indian Education Association (1999). Form for the century Indian education 
+
+blueprint. Retrieved February 10, 2003 from the World Wide Web: 
+http://www.niea.org/blueprintla.htm 
+
+Nelson, K., Simonsen, L., &Swanson, E. (2002). Fundamental components for developing 
+culturally rich mathematics education in Montana reservation schools. Manuscript in 
+preparation. 
+
+Nelson-Barber, S. (1999). A better education for every child: The dilemma for teachers of 
+culturally and linguistically diverse students: Mid-Continent Research for Education 
+Learning. 
+
+Nelson-Barber, S., & Estrin, E. T. (1995). Culturally responsive mathematics and science 
+
+education fro Native students. San Francisco, C.: Far West Laboratory for Educational 
+Research and Development. 
+
+Nijhuis, M. (2002, August 20). Crow girl's winning science project is not the last straw. 
+
+Christian Science Monitor. 
+
+Northwest Regional Laboratory. (2002). Learn-Ed Nations Inventory; A tool for improving 
+
+schools with American Indian and Alaska Native students. Portland, Oregon: Northwest 
+Regional Laboratory. 
+
+
+
+35. 
+
+
+
+ERIC 
+
+
+
+
+39 
+
+
+
+Rural Schools and Community Trust. (2002). An invitation to discuss assessment and 
+
+accountability in public schools: A draft policy statement of the Rural School and 
+Community Trust. Randolph, Vt.: Rural Schools and Community Trust. 
+
+Schoenfeld, A. H. (2002). Making mathematics work for all children; Issues of standards, testing 
+and equity. Educational Researcher, 31{\), 13-25. 
+
+Smith, G. A. (2002). Place-based education: learning to be where we are. Phi Delta Kappan, 
+55(8), 584-595. 
+
+Solano-Flores, G., & Nelson-Barber, S. (2001). On the cultural validity of science assessments. 
+Journal for Research in Science Teaching, 38, 5. 
+
+Strang, W., & von Glatz, A. (2001). American Indian and Alaska Native education ressearch 
+agenda: Working group. Washington, D.C.: U.S. Department of Education Office of 
+Educational Research and Improvement 
+
+Tharp, R. G., & Yamauchi, L. (1994). Instructional conversations in Native American 
+classrooms. ERIC. Retrieved August 26, 2002, from the World Wide Web: 
+www.ed.gov/databases/ERIC Digests/ed3 76733.html 
+
+Trumbell, E., Nelson-Barber, S., & Mitchell, J. (2002). Enhancing mathematics instruction for 
+
+indigenous American students. In J. E. Hankes & G. R. Fast (Eds.), Changing the faces of 
+mathematics: perspectives on indigenous people of North America (pp. 1-18). Reston, 
+
+Va.: National Council of Teachers of Mathematics. 
+
+Lab at Brown University, (2002). Culturally responsive teaching: Nine principles. Northeast and 
+Islands Regional Educational Lab at Brown University. Retrieved May 2, 2002, from the 
+World Wide Web: http://www.lab.brown.edu/tdl/ 
+
+
+
+
+42 
+
+
+
+
+U.S. Department of Education 
+Office of Educational Research and Improvement (OERI) 
+National Library of Education (NLE) 
+Educational Resources Information Center (ERIC) 
+
+
+
+ERIC 
+
+tticfilloul Reaorco totonailiM Cess 
+
+
+
+NOTICE 
+
+
+
+Reproduction Basis 
+
+
+
+X 
+
+
+
+This document is covered by a signed "Reproduction Release (Blanket)" 
+form (on file within the ERIC system), encompassing all or classes of 
+documents from its source organization and, therefore, does not require a 
+"Specific Document" Release form. 
+
+
+
+This document is Federally-funded, or carries its own permission to 
+reproduce, or is otherwise in the public domain and, therefore, may be 
+reproduced by ERIC without a signed Reproduction Release form (either 
+"Specific Document" or "Blanket"). 
+
+
+
+
+EFF-089 (1/2003) 
+
+
+

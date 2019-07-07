@@ -1,0 +1,1242 @@
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+When Social Support Fits into your 
+Luggage: Online Support Seeking and its 
+Effects on the Traditional Study Abroad 
+Experience 
+
+Jude P. Mikal 
+
+University of California, Santa Barbara 
+
+
+Introduction 
+
+The theories of intercultural adjustment that have dominated research 
+on acculturative stress and culture shock are based on notions of transition 
+that have failed to keep pace with changing media technology. Intercultural 
+adjustment theorists like Oberg, Lysgaard and Adler were operating in a time 
+when lengthy, cost prohibitive modes of communication were the norm, and 
+logistical considerations meant the severing of all but the most intimate of ties 
+while overseas. Forty years post hence, the information age has demolished 
+the communication barriers that were the cornerstone of early theories of 
+initial target culture contact. For modern students communication is free and 
+frequent as university students continuously maintain dual existences on-, 
+and off-line. Where physical whereabouts play an integral role in the first, the 
+second is maintained irrespective of physical boundaries. Thus where study 
+abroad represents a similar displacement for students today as it did forty 
+years ago; modern students maintain an online persona that likely changes 
+the degree to which physical displacement is appraised as a potential stressor. 
+
+Dubbed the Net Generation (Leung, 2007), modern university students 
+have grown up not only with advanced communication technologies at their 
+disposal, but using such technologies to both maintain and create social 
+networks of support. In a study abroad context, the maintenance of dual 
+on- and offline personas provides students with the opportunity to demolish 
+communication barriers with the home culture created by geographic distance. 
+Conversely, online communication may help bring down communication 
+barriers created by linguistic and cultural differences, providing students 
+with exciting opportunities for face-to-face social interaction with host 
+nationals. Yet, very little is known about how students are using the Internet 
+in the development or maintenance of social support networks during study 
+abroad. The goal of the present research project is to understand how Internet 
+
+
+17 
+
+
+
+Jude Mikal 
+
+
+mediated support complements, supplements or supplants traditional support 
+seeking and how online support seeking leads to changes in the traditional 
+study abroad experience. In the next section of this study I will present relevant 
+literature on the subjects of acculturative stress, social coping, and Internet 
+mediated social support in order to ground the research question and study 
+findings. 
+
+Relevant Literature 
+
+Normative models of acculturative stress generally rely on two common 
+assumptions: (1) that international migration is characterized by heightened 
+stress levels; and (2) that the key to coping with such stress is social interaction. 
+U-curve models, conceived in the mid-1950s suggested a painful initial 
+adjustment to a new culture that occurred in 3-5 steps, roughly introduction, 
+followed by crisis, and later, recovery. The catalyst for movement between the 
+stages was increased engagement with the target culture (Lysgaard, 1955; Oberg, 
+I960; Adler, 1975). While such prescriptive models have been debunked both 
+empirically and theoretically (e.g. Church, 1982; McKinlay, et al., 1996). still, 
+more modern intercultural adjustment theories like acculturation attitudes / 
+acculturation strategies conceived by Berry (1991), and developed by Ward 
+and Kennedy (1994) rely on similar assumptions. The model attempts to 
+predict differential stress levels abroad, by looking at attitudes towards home 
+culture maintenance vs. desire for integration - measured, at least in part, by 
+peer network composition. 
+
+Taking these two assumptions for granted, literature on social coping 
+offers insight into the mechanisms through social support can act to alleviate 
+stress. Literature on social coping suggests that support may take one of three 
+forms: (1) instrumental support refers to the provision of goods or services 
+used to cope with a stressor; (2) informational support refers to the transfer of 
+relevant information for dealing with a stressor; and finally (3) socio-emotional 
+support refers to the feelings of acceptance and togetherness that come from 
+social interaction (Cohen, S., & Wills, T.A., 1985). Other theorists have 
+noted that individuals may find support simply through their participation 
+in a broader social network - and research has shown that this degree of 
+“embedded support” also shows a positive correlation with psychological 
+wellbeing (Cohen, S., & Wills, T.A., 1985; Thoits, P.A., 1986). 
+
+Studies on computer-mediated communication (CMC) have shown the 
+Internet to be an effective tool in the communication of both socio-emotional 
+and informational support. Evidence in such studies has failed to demonstrate 
+a link between Internet communication and the transmission of instrumental 
+support, and to date, no study has examined the Internet as a possible social 
+
+
+18 
+
+
+
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+context through which to derive embedded support. Conversely, research on 
+CMC and Internet mediated social support demonstrates that the Internet 
+is not only a useful tool in facilitating communication over large distances 
+(Dimmick, et ah, 2000), but that there are a number of relative advantages 
+to social support received online. For example, research has shown the 
+Internet to be an effective tool for support seeking among individuals with 
+difficulties with face-to-face communication, or for those who find face-to-face 
+communication less rewarding. Thus far, such studies have been concerned 
+primarily with mental handicaps, such as Asberger’s Syndrome and Autism 
+(e.g. Burke, Kraut & Williams, 2010), and stigmatized conditions, such as 
+infertility (e.g. Malik & Coulsin, 2008); however, the present study extends 
+empirical analysis to include study abroad participants given their status as 
+marginalized linguistic and cultural minorities who experience language and 
+cultural barriers to communication. 
+
+Early studies on Internet communication have suggested that while the 
+Internet increases the quantity of social interactions, it does so at the expense 
+of quality (Kraut, et al., 1998; Baym, N.K., 2004), but notions of such quality 
+/ quantity tradeoffs are becoming increasingly antiquated. No longer is the 
+assumption that friendships are formed or maintained exclusively on- or off¬ 
+line (Subrahmanyam, K., 2008). Research on social networking sites like 
+Facebook which has exploded to over 550 million members worldwide (www. 
+facebook.com), has demonstrated that such sites facilitate the maintenance 
+of and reconnection with socially supportive peer networks, and recent work 
+(Raacke & Bonds-Raacke (2008)) has demonstrated that the site is a useful 
+tool in the construction of new friendships. Researchers are further suggesting 
+that relationships developed online may be more meaningful given that they 
+are generally based on common interests, and a common life-situation, rather 
+than simple geographic proximity. 
+
+Despite growing recognition of the advantages of Internet mediated social 
+support, concerns remain. While there is little agreement among researchers 
+as to the relationship between online and offline social interaction, early 
+empirical studies indicated that increased social interaction online is correlated 
+with decreased face-to-face interactions (Papacharissi, 2000; Putnam, 2000; 
+Kraut, et al., 1998), though more recent studies are finding the converse 
+to be true (Hampton, 2003; Robinson, et al., 2000, McKenna, 2002). 
+Researchers have found that increased convenience in online transactions 
+means that individuals are no longer required to leave their homes for minor 
+errands (such as shopping) leading to decreased daily social interaction, and 
+higher risk of depression (Kraut, et al., 1998). Further, while the Internet 
+allows for the construction of support communities across communication 
+
+
+19 
+
+
+
+Jude Mikal 
+
+
+boundaries, studies have found that in the absence of emotional or tonal cues, 
+misunderstandings are more likely to occur. In a comparative study of group 
+work conducted on and offline, researchers found that groups who conducted 
+their work primarily online were less cohesive and less satisfied with group 
+work outcomes (McKenna, 2002). Finally, studies have demonstrated that 
+increased online activity is associated with decreased academic performance, 
+less social involvement, and increased loneliness and depression (Shaw, L.H., 
+& Grant, L.M., 2002). 
+
+This present paper contributes to a more complete understanding of 
+the role of the Internet in the formation and maintenance of social support 
+networks during study abroad. Specifically this research represents a first look 
+at how the Internet serves to overcome communication barriers arising from 
+linguistic and cultural differences encountered abroad. During study abroad, 
+students may look to the Internet to help break down communication barriers 
+and form friendships with members of the target culture, or conversely, to 
+help them feel closer to socially supportive relationships back in the home 
+culture. The paper also examines how increased access to both types of social 
+support online changes the traditional study abroad experience, both in terms 
+of students’ intercultural adjustment, as well as in the proportion of students’ 
+social support networks made up of host nationals, co-nationals living abroad, 
+and co-nationals living in the home country. Finally, the paper represents the 
+beginning of a discussion of theoretical models of intercultural adjustment, 
+and how such models ought to be adjusted to account for dramatic increases 
+in communication technologies. 
+
+Methodology 
+
+Data was gathered in four two-hour focus groups held in Northern 
+Germany in 2009. Focus groups consisted of four topics: (1) the transition 
+abroad, (2) peer network composition, (3) advantages of maintianed Internet 
+use during study abroad, and (4) disadvantages of maintained Internet use. 
+The protocol was semi-structured, and students were allowed and encouraged 
+to deviate from prescribed topics, but a routine of approximately 30 minutes 
+per discussion topic was adhered to. Focus groups were scheduled every two 
+weeks, allowing time to transcribe each session by hand, code each session and 
+modify focus group protocol for the subsequent session. Once all four focus 
+groups were complete, a thorough coding was conducted using a combination 
+of bottom-up and top-down techniques. 
+
+Focus group participants were graduate and undergraduate students 
+studying abroad in Germany. Due to theoretical considerations, respondents 
+were required to be American, to be affiliated with a university and to be 
+
+
+20 
+
+
+
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+abroad for more than 3 weeks. In all, 21 students participated in the two-hour 
+focus groups. Programs represented ranged from traditional, full-immersion, 
+year long programs - to independent research in an English-speaking institute 
+under the guidance of a German professor. Participants ranged in age from 
+20 to 32. 18 participants were Euro-Caucasian, while 3 were East Asian. Of 
+the 21 participants, 10 were graduate students, 11 were undergraduates; 14 
+were social science majors, 5 were in physical sciences, 1 student was studying 
+architecture and 1 was studying Humanities. All 21 students had regular 
+Internet access through a laptop, university housing or place of employment. 
+
+Results 
+
+Results indicate that students are accessing socio-emotional, informational 
+and embedded support online, and will be organized into the following 
+three themes: (1) Internet as Transitional Device: Early normative models 
+of acculturative stress suggest an initial decline in psychological wellbeing, 
+due to disorientation. Students are smoothing the transition abroad by using 
+online technology to supplement socio-emotional support through home 
+support networks. (2) Internet as Cultural Inlet: Data suggests that students 
+are supplanting face-to-face Informational support with Internet mediated 
+support in order to create opportunities for interaction in the target culture, 
+and to facilitate rapid establishment of daily routines in the host culture. (3) 
+Internet as Placeholder in the Home Culture: Students abroad look at their 
+social support networks back home as “paused”. Students use the Internet 
+to provide socio-emotional support, thus reminding friends and family of 
+students’ secured place within those networks. Finally, results indicate that 
+despite increased access to support, students are still evidencing heightened 
+stress levels. These findings are discussed below. 
+
+Transitional device 
+
+A recurrent theme that emerged among focus group participants was the 
+use of Internet technology to provide continuity during the transition abroad. 
+Two respondents in two different focus groups reported that the Internet served 
+as a “lifeline” to social support networks in the home country. Evidence suggests 
+that the Internet serves two specific transitional functions: (1) it smoothes the 
+transition abroad by providing continuous access to social support networks 
+back in the country of origin, and (2) provides identity affirming embedded 
+support through participation in a broader social network. 
+
+Students of the Net Generation are accustomed to the spillover of personal 
+relationships into cyberspace, and conversely, of cyber relationships into real 
+space. According to one respondent, relationships can no longer be conceived 
+
+
+21 
+
+
+
+Jude Mikal 
+
+
+of as either maintained on or offline, since most relationships are maintained 
+through multiple media. 
+
+We’ve had technology growing up. Through high school and now 
+college, I’ve had a cell phone, a computer and the Internet, so most of 
+my friendships are still established around those forms of technology 
+(H4: Holly, graduate student, research assistant in an international 
+research institute, abroad for five months). 
+
+The Internet does not represent an abstracted, impersonal medium of 
+communication, or even an extension of personal relationships. Rather 
+friendships are formed and maintained through multiple media to the extent 
+that the online persona is symbiotic with the offline persona. 
+
+With friendships that straddle both real- and cyber-space, it is logical that 
+when face-to-face contact is no longer possible given large geographic distance, 
+students comfortably rely on computer-mediated communication in order to 
+maintain socially supportive relationships. According to one respondent, he is 
+used to maintaining relationships over the Internet, since he formed the habit 
+when he moved to New York from Colorado to attend university. 
+
+For me going abroad just so closely parallels university life. I live in 
+Colorado and go to school in New York, so I switch [between locations] 
+so often and for months at a time. This is just like being in New York 
+for a few months. The only difference is that I’m not with the people I 
+would normally interact with in New York (A3: Adam, undergraduate, 
+taking courses in a non-immersion program, abroad for one semester). 
+
+Study abroad simply represents a third place - neither home nor university. 
+Rather than maintaining a single group of friends exclusively online, students 
+must maintain two groups of friends online, while negotiating a bilateral (on 
+and offline) entry into a third culture. 
+
+All students reported maintaining regular contact with members of the 
+home culture with the primarily goal of obtaining socio-emotional support. 
+Two respondents from focus group four reported talking to their mothers daily, 
+I talked to my mom when I was in college almost every day, and I still 
+do it here. Even if it’s just for like two or three minutes so say, “Have a 
+great day.” It makes me feel better when I hear from her, and she feels 
+better when she hears from me. We’re just so close (H4: Holly). 
+
+Others were likely to maintain daily contact with the home culture, when 
+they were involved in significant romantic relationships. According to another 
+respondent the Internet smoothed the transition from daily contact with her 
+romantic partner, to intermittent contact complicated by a nine-hour time 
+difference. 
+
+
+22 
+
+
+
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+At the beginning, I was up until five o’clock in the morning every night 
+[talking online to my boyfriend]. If I didn’t talk to him everyday, I was 
+like, “Oh my God, what is he doing? He doesn’t love me anymore!” I 
+mean he felt the same way, but it was especially hard - especially while 
+I was transitioning here (K4: Karen, undergraduate, taking courses in a 
+non-immersion environment, abroad for one semester). 
+
+The respondent further reported staying online for several hours at a time, 
+hoping to be online when her partner logged on to the Internet in the United 
+States, so that the two could make contact. 
+
+Students were also likely to maintain contact with members of their peer 
+groups through multiple interfaces. All 21 respondents had accounts on social 
+networking sites through which they maintained regular contact with friends 
+and family, providing pictures and daily updates on everything from outings, 
+to mood, to dinner. According to a respondent in focus group one, her parents 
+continue to keep track of her through her daily “tweeting” of her meals. 
+
+I went out on Friday night and I did not [record my dinner on] Twitter. 
+So my dad checks my Twitter [account], and when he didn’t see my 
+dinner, he was very concerned. So my mom emails me, and then my 
+sister posts on my wall on Facebook saying, “Why haven’t you Tweeted 
+your dinner?” (Sal: Samantha, graduate student, taking courses in an 
+international research institute, abroad for one month) 
+
+Through social networking sites, students remain a virtual presence among 
+social support networks and are able to maintain a certain base-level support 
+while abroad. Before leaving for a 10-day trip another respondent reported 
+emailing friends, and updating her Facebook status to reflect that she would be 
+incommunicado in the days to come. Thus, the respondent indicates the need 
+to deactivate base-level support during her absence, for fear that her silence 
+might be interpreted as a need for support - as in the Samantha quote, above. 
+
+The concerns expressed by Samantha’s father, in the absence of a Twitter 
+“status update” reflect another continuity provided by the Internet through 
+the transition abroad. Students reported generally stable Internet use habits 
+from which they derived support. Most students reported that they had an 
+Internet routine for their day. While some students simply checked email in 
+the morning and at night, others had more detailed routines, 
+
+I eat my yogurt and muesli, and while I do it I look on the Internet, 
+check my Gmail, and check my university email. Then I check 
+Facebook and Twitter. I’ll potentially check two blogs of these girls I 
+sort of know, and maybe the New York Times. If there’s still something 
+to do, maybe I’ll follow some links on Twitter, but that’s sort of the 
+
+
+23 
+
+
+
+Jude Mikal 
+
+
+morning [portion of the routine]. When I get home [from work] I do 
+the Facebook / Twitter check again, and I’ll continue that throughout 
+the night because people are updating. At some point in the evening I’ll 
+talk to my boyfriend on Skype, and I’ll watch television online, like the 
+Daily Show, or listen to a podcast. Yeah - that’s my typical Internet day 
+(Sal: Samantha). 
+
+It was not uncommon for students to report such ritualized Internet use 
+patterns. Even several students without such detailed routines reported that 
+they were likely to keep their computers logged onto the Internet, with tabs 
+open to gaming sites, email and social networking sites depending on their 
+interests. 
+
+Cultural inlets and cultural consumerism 
+
+Along with Internet use providing continued access to online networks 
+of support, as discussed in the section on Transitional Objects above, the data 
+suggest that students are interested in a quick and efficient establishment 
+of daily routines once abroad - and are using the Internet as the means to 
+achieve this goal. From the moment students enter the new culture they are 
+demonstrating agency in their cultural and physical orientations. No longer 
+must students wander lost through a city armed with a map and a rudimentary 
+understanding of the target language. Students are locating products and 
+areas of interest from the safety of their residence as of the first day. “My 
+first morning I Googled where to find coffee. I Googled something like, 
+“coffee in [my city]” and found a place that was close to my apartment (Sal: 
+Samantha).” Once students locate the item or area of interest they are using 
+mapping programs such as Google Maps to plan their route. In fact, virtually 
+all students reported using a mapping program to orient themselves with 
+relation to their surroundings, with several reporting having used a mapping 
+program to obtain directions to the focus group location. 
+
+From orienting themselves during the initial transition abroad, to the 
+establishment of daily routine within the host culture, focus group data shows 
+that students are creating their lives abroad independently and without much 
+help from (or contact with) the target culture. Focus group three consisted of 
+four students participating in a study abroad program that required no prior 
+knowledge of German. For these students the prospect of setting up a bank 
+account without access to bank information online in English seemed nearly 
+impossible. 
+
+The idea [of setting up a bank account] terrifies me. If I wanted to set 
+up an account with a German bank I wouldn’t know what they were 
+saying to me. I would definitely take someone with me who knows 
+
+
+24 
+
+
+
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+better German (Me3: Melissa, undergraduate, taking courses in a non¬ 
+immersion program, abroad for one semester). 
+
+Melissa, like others of the Net Generation, believes that, “it’s better to have 
+more information than less.” As a result, Melissa and other Net Generation 
+students are opting out of cross-cultural encounters where access to information 
+may be slowed or limited due to communication difficulties. Results indicate 
+that students are using the Internet to bypass many potential cross-cultural 
+interactions in favor of a more rapid establishment of daily routine. No longer 
+are students forced to browse classified listings, phone for availability, and set 
+up viewings in order to find an apartment. Rather, students are able to browse 
+apartment listings with photos on the Internet, and initiate contact through 
+low risk media such as email. Public transit fares, tickets and special offers can 
+all be located online, often in English, or translated with the help of online 
+translation programs. Further, no longer are students sitting with travel agents 
+to book train and airline tickets, but rather booking, and often even checking 
+in, online. 
+
+To students, integration without exercising linguistic and cultural 
+competencies comes down to a question of efficiency. Students no longer 
+view themselves as cultural anthropologists exploring new and undiscovered 
+cultures, but simply following the path set by those before them. In the industry 
+of study abroad, the students have become cultural consumers. Melissa offers 
+the following illustrative anecdote, 
+
+We decided the other way to go to Victoria Park, but we’d never been 
+there before, so we just Google Mapped how we would ride our bikes 
+there. Now technically you could make the argument that if we hadn’t 
+done that, we may have discovered some undiscovered place along the 
+way and had this wonderful adventure but you know, we got there and 
+managed to find an amazing place to have lunch. Because we’re using 
+our time more efficiently in getting to places, we can know those places 
+and those areas better (Me3: Melissa). 
+
+Traveling with a destination in mind, students are no longer venturing off the 
+beaten path. “Knowing” a culture is less an exploration than the compilation 
+and completion of a checklist of cultural artifacts. For students spending a 
+limited time abroad, agency and determination are essential components of 
+effective and efficient consumption of German culture. 
+
+Cultural consumption should not imply that students are not learning, or 
+that the Internet is not an effective tool for the establishment of daily routines 
+and creation of cultural inlets. For while integration through exploration, 
+virtually by definition, involves a certain number of missteps; integration 
+
+
+25 
+
+
+
+Jude Mikal 
+
+
+through Internet allows students to circumvent those missteps which can 
+be not only embarrassing, but financially costly. One respondent gives the 
+following example, 
+
+The thing about the Internet is that it saves you a lot of embarrassment. 
+
+I wanted to go fishing while I was here, and I was looking up tackle 
+shops, and I found out in trying to do that that it takes forty or fifty 
+hours of fishing training to get a license here in Berlin. If I had gone 
+fishing and gotten caught by police they would have fined me for 
+poaching, for trespassing, for fishing without a license and it would 
+have cost me close to a thousand Euro. I mean I could have learned that 
+on my own, but I prefer to learn that from the Internet (G3: Grant). 
+
+It is important to note that while cultural misunderstandings are endemic in 
+cultural exploration, they are the “means” which have long been justified by 
+the “ends” of cultural and language learning. In many ways, the Internet allows 
+students to acquire and apply cultural lessons through less abrasive means. 
+
+Not only may the Internet prevent cultural missteps, but using the 
+Internet in the establishment of daily routines may reflect an understanding 
+of a worldwide “Internet culture.” While only a few years ago Americans 
+comprised 70% of all Internet users, that number plummeted to 30% in 2007 
+(Lievrouw, L.A., 2000 cited in Raacke and Bonds-Raacke, 2008). As a result, 
+avoiding face-to-face interactions in favor of online information seeking may 
+not be reflecting students’ ethnocentricity, so much as reflecting a global trend 
+toward modernity. A respondent from focus group four offers the following 
+justification of purchasing tickets online: 
+
+These exercises in talking with a ticket agent are antiquated. There are 
+machines now - like fast pass tolls in the U.S. - and those personal 
+interactions go away over time. They may be good practice and 
+exposure to the culture in a sense, but if it goes away and won’t be a part 
+of the culture anymore, what’s the point? (T4: Tom, graduate student, 
+research assistant at an international research institute, abroad for one 
+year) 
+
+Students recognize that like America, German society is moving toward 
+automation of certain services. Purchasing tickets online does not constitute 
+cultural avoidance - as young Germans are also prone to purchasing tickets 
+online. If anything, synthetic encounters with German culture of the past are 
+no longer sufficient exercises in language and cultural learning. 
+
+Rather than seeking out cultural and language learning opportunities 
+through everyday interactions such as ticket purchases and apartment searches, 
+students are seeking out more substantive interactions with the target culture 
+
+
+26 
+
+
+
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+based on more than simple casual contact. Data demonstrate that students are 
+using the Internet to make connections through cultural activities. All students 
+reported using the Internet to locate cultural events such as art exhibitions and 
+political speeches. Tom, quoted above, recommended using the Internet to 
+look for special theme nights at local dance clubs, while another respondent 
+from focus group one reported that, although she speaks no German, she was 
+likely to purchase symphony orchestra or ballet tickets from the local theatre 
+online. Nicholas, a former professional athlete reported that he was able to use 
+the Internet to connect with the target culture by finding a sports league in 
+which to participate. He reports, 
+
+Finding this soccer team was probably the best thing for my German, 
+probably the best thing for seeing other parts of the state, for meeting 
+other German people and for getting a little bit more entrenched in 
+the culture (Nl: Nicholas, graduate student, research assistant at an 
+international research institute, abroad for one year). 
+
+Finding a soccer league allowed Nicholas to create a network of friends who, 
+at the time of the interview, constituted a significant portion of his face-to- 
+face social support network. A few students also reported using the Internet 
+to extend party invitations to host nationals. Though these interactions often 
+did not result in the creation of new friendships, they generally resulted 
+in exposure to an element of the German culture - and the possibility for 
+interaction created by the Internet. Furthermore, the Internet allows for access 
+to logistical information such as clubs, events, and exhibitions that may be 
+prohibitively complicated in the target language, such that students can spend 
+more time creating possible engagements with the culture, and less time in 
+fruitless searches for ways to engage. 
+
+Focus group data also showed that social connections online can translate 
+into increased face-to-face interaction. Social networking sites, particularly 
+country-specific sites, provide opportunities to connect with others within the 
+community. Kimberly used Facebook to strengthen a friendship with another 
+American she had met several times at a party: 
+
+I was friends with this guy on Facebook because we just kept randomly 
+meeting at parties, but I didn’t really spent that much time talking to 
+him. Anyway, so he wrote something on his wall — I think it was his 
+‘top five favorite bands’ or whatever, and they happened to be exactly 
+what I like, so I was all, “Oh my God that’s so awesome!” Then he 
+ended up signing on right there and we just kept talking and talking 
+and now we’re going to meet somewhere next week - we were just like, 
+“Wow! We should hang out! We have so much in common!” (K2: 
+Kimberly, undergraduate student, taking courses in a full-immersion 
+
+
+27 
+
+
+
+Jude Mikal 
+
+
+program, abroad for one year) 
+
+Others reported feeling as though friendships had been strengthened over 
+the Internet. Adam reports meeting people at a party, and feeling as though 
+requesting a subsequent meeting might be overly forward. Facebook allows 
+him to take the first step, “I think it’s because they’re kind of afraid to initiate 
+another physical [face-to-face] contact or communication at first.” (A2: 
+Adam) And Kimberly continues,“And it’s easier to invite twenty people to 
+a barbecue and include someone you just met, than to call them up and be 
+like, “Hi! Remember me from last night?” (K2: Kimberly) The Internet 
+provides an effective method of communication for those for whom face-to- 
+face interaction might seem too forward. Students do not risk rejection, and 
+are able to expand social circles more easily. 
+
+Internet use and maintenance of ties back home 
+
+The idea of a life “on pause” back in the home culture became a theme in 
+each of the four focus groups. Data suggest that the Internet enables students 
+to continue attending to responsibilities within the home culture while living 
+abroad. This continued attention to social and professional obligations back in 
+the United States serves two functions. First, the ability to attend to obligations 
+makes study abroad available to many students whose impacted schedules may 
+have prevented them from studying abroad in the past. Second, continued 
+attention to social and professional obligations softens the transition back into 
+the United States by securing positions in important personal and professional 
+networks. 
+
+Data indicated that students are aware of the short-term nature of their 
+study abroad experiences and as a result were unlikely at the start of their 
+sojourn to give up coveted positions in university sports or clubs. Grant, from 
+focus group three, continued running a university club in the United States 
+during his semester abroad, and talked about how the Internet has allowed 
+him to maintain his role as an active member, 
+
+I run a club at NYU and it hasn’t been hard at all. I’ve actually 
+participated in meetings and stuff through the Internet and I’ve kept in 
+contact - at least with the active members - on a day-to-day basis to see 
+what they’re doing (G3: Grant). 
+
+
+Students, like Grant are likely to spend their time abroad living in two cultures 
+- simultaneously participating in clubs, maintaining friendships and fulfilling 
+professional obligations within the home country, while physically living 
+abroad. 
+
+
+28 
+
+
+
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+Professional obligations were central concerns for three focus group 
+respondents. Two respondents reported that fulfillment of their degree 
+requirements required the completion of a summer internship. Students were 
+required to submit the applications for these positions in late April, but they 
+wouldn’t be returning to the United States until late May. While some businesses 
+were reluctant, or refused to accept internship applications submitted online, 
+the two students were using the Internet to submit applications to other 
+technologically well-equipped firms. Similarly, Nicholas from focus group 
+one was applying to graduate school, while completing an internship with 
+a research institute in Germany. Applications were due in December, for the 
+coming fall semester. 
+
+Students also reported using the Internet to secure their position in social 
+support networks back home by both seeking and providing support online. 
+One respondent who had lived abroad in several countries reported that no 
+longer does moving necessitate the abandoning of one social support network 
+and the formation of another. Rather, social support network formation 
+becomes an additive process as friendship networks become more global. 
+Nevertheless, according to one respondent, maintenance of home culture ties 
+involves a certain effort. For Robyn increasing her “presence” on Facebook was 
+a way of asserting her position in social support networks, and not being left 
+behind. “I would say my Facebook use is more productive in the way that I’m 
+making myself a little more known. Like, ‘Fley, nice picture.’” It’s like saying, 
+‘Fley, I’m still here!”’ (Rl: Robyn, graduate student, taking courses in an 
+international research institute, abroad for two months) According to Robyn, 
+this represents a change from her past Facebook behavior due to her physical 
+absence. Erin clarified the need for this online presence, saying, 
+
+I couldn’t imagine being abroad without the Internet. If you think 
+about it even when I get back there’s going to be this ten-month gap 
+where I don’t connect with my friends because they’ve moved on. 
+
+They’re ten months ahead, and I’m coming back to a life that I’ve put 
+on hold. If I didn’t have the Internet I would be totally behind. It 
+would make reintegrating back into American culture so much harder 
+(El: Erin, undergraduate student, taking courses in a full immersion 
+program, abroad for one year). 
+
+Kimberly, from focus group two, also echoed the sentiment, saying that without 
+the Internet she would be required to abandon social support networks for a 
+full ten months causing her to be left behind. 
+
+Due to the temporary nature of study abroad programs, students are likely 
+to be stressed about obligations they have in their home country once their 
+
+
+29 
+
+
+
+Jude Mikal 
+
+
+time abroad is complete. As universities grapple with how to reconcile study 
+abroad, with demanding obligations in students’ home universities, students 
+appear to be taking matters into their own hands by attempting to fulfill 
+obligations with both countries at the same time. Students are maintaining 
+their presence in university clubs, fulfilling professional obligations, and 
+maintaining friendships to facilitate their reintegration into the home culture. 
+While critics may argue that this distracts from a total immersion experience, 
+changes in the nature of programs suggest that “total immersion” may no 
+longer the goal of study abroad. 
+
+Acculturative stress 
+
+With regard to changes to the overall study abroad experience, evidence 
+suggests that despite the introduction of Internet technology students still suffer 
+from acculturative stress. Despite the fact that many students report low stress, 
+feelings of hostility, and negative stereotyping of the target culture indicate 
+otherwise. For example, when asked directly about his transition into German 
+culture, Mark, a respondent from focus group three, reported, “it’s been a 
+really easy adjustment. I don’t think I’ve had any problems.” Nevertheless, 
+when conversations turned to issues with German culture, Mark contributed, 
+For me, the bureaucracy is baffling here, and incredibly frustrating - 
+especially at the beginning, when you have to register in several different 
+offices. You wait in line to get a number, then you finally get a number 
+after 45 minutes, and then you wait for another two hours, to speak 
+with someone who is usually quite rude (M3: Mark, undergraduate, 
+taking courses in a full immersion program, abroad for one year). 
+
+
+Mark’s quote regarding his heightened level of frustration in dealing with 
+German protocol for university registration belies a heightened stress, and a 
+rocky transition that he failed to report when asked directly about his level of 
+stress. Mark later continues that a month into his stay in Berlin, he returned 
+from shopping to find that the front wheel of his bike had been stolen. His 
+story continues, “I had just gotten here. This was maybe a month after I had 
+arrived and that just really sent me over the edge so I was on the U-bahn crying 
+with a one-wheeled bike “(M3: Mark). When another student comforts Mark, 
+saying that she, too, would have been likely to cry, Mark says in reference to his 
+uncharacteristically strong response to the theft, “Yeah, I had just gotten here 
+and I was kind of fragile.” Mark’s comments, that he had just arrived and was 
+feeling “fragile” and “on edge,” imply that he was dealing with his problems 
+under added stress of the transition abroad. 
+
+Discussions of difficulties encountered abroad covered a range of 
+
+
+30 
+
+
+
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+topics from adjustment or transition, to everyday cultural and linguistic 
+misunderstanding, to feelings of isolation. In complaining about German 
+culture, however, a pattern emerged in which students were able to attribute 
+minor cultural and linguistic misunderstandings to cultural differences, or to 
+their own misstep, while more egregious culture clashes were attributed to 
+Germans and German culture. Students told stories of the former with a mix 
+of good humor, and mild embarrassment at their own cultural ignorance. For 
+example, at the start of her sojourn abroad, Rebecca was surprised to find that 
+stores were generally closed on Sunday. She says, 
+
+I didn’t know everything was going to be closed on Sunday. I arrived 
+on a Friday, and we had been traveling for 24 hours, so all we did was 
+come [to the institute] pick up the key and go home. On Saturday, we 
+walked around and didn’t think to buy tons of food. I guess that if I 
+had made a better effort [to meet people at the institute] on Friday, we 
+could have eaten something other than crackers and pretzels on Sunday 
+(R3: Rebecca, graduate student, taking courses at an English-speaking 
+institute, abroad for 2 months). 
+
+
+In this instance, the threat from Rebecca’s misstep was relatively minor, and 
+the consequence was simply that Rebecca and her partner were not able to 
+eat anything other than snacks on Sunday. The result is that Rebecca does not 
+express frustration at store closures, but assigns responsibility to herself, saying, 
+“if I had made more of an effort,” the problem would likely not have arisen. 
+From discussions of traffic, bicycle and pedestrian laws, to discussions of grocery 
+store etiquette, in the event of minor, short-lived misunderstandings, students 
+were likely to assign responsibility either to themselves, or to the intersecting 
+of two different cultures. The result of assuming the role of “learner” was that 
+students did not stereotype the culture and demonstrated an ability to reflect 
+on the situation. 
+
+Yet small misunderstandings may begin to grate over time, particularly 
+in the event that students find themselves explicitly corrected by members of 
+the target culture. While host nationals are allowed, and encouraged, to be 
+brokers of linguistic knowledge, students find it threatening when members of 
+the host culture attempt to broker cultural knowledge in the form of behavior 
+correction. One respondent reports, 
+
+I’ve noticed that people will try to teach me German words. If I say 
+something wrong, they teach me the correct German way of saying it, 
+so it’s been a really easy adjustment. I don’t think I’ve had any problems 
+(Me3: Melissa). 
+
+
+31 
+
+
+
+Jude Mikal 
+
+
+Conversely, when the knowledge being brokered through correction is cultural, 
+students’ reactions ranged from cold and indifferent, to harsh and accusatory. 
+According to one respondent, 
+
+The other day, we were on the train, and a woman was calling us out for 
+putting our bikes in a compartment that was allowed to have two bikes 
+in it. Well there were exactly two bikes in the compartment so she was 
+just talking at us and we just ignored her, and sat there not moving (G3: 
+Grant). 
+
+Although it is unclear whether Grant was, in fact, breaking a rule - it should 
+be noted that there are often stipulations to rules for bike travel on public 
+transportation that Grant may not have been aware of. The cold reaction by 
+Grant and his companion do not offer the woman a chance to explain, and 
+demonstrate more frustration with the encounter than a willingness to learn 
+from it. 
+
+Other encounters brought about much harsher reactions and reflections 
+during complaint sessions. One respondent told the following story, 
+
+One of my friends came and she didn’t bring my guest mother a present 
+and [as a result, my host mother] was sort of like icy towards us all 
+week. I was just like whatever. I don’t really care. I’m like going home 
+and I’m probably not going to talk to these guys again. My host mother 
+confronted me after my friend left and was like, you know, ‘next time 
+you have a friend come they have to bring me a present. I expect it 
+because I make you all this food’ - she like toasts us bread - ‘I made all 
+this food, this is the least you could do.’ She even still mentions it to 
+me over and over and over again and I just find it to be so childish and 
+so stupid (T4: Tom). 
+
+
+Rather than Tom looking upon this as a learning experience, it is clear from 
+his reflections that he is externalizing the situation, assigning fault not to his 
+misunderstanding of cultural expectations or even personal expectations, but 
+to his host mother’s “childish” and “stupid” demands, for appreciation for 
+toasting bread. 
+
+The result is that student attitudes toward the larger culture can begin to 
+reflect these stereotypical notions of rigidity and aloofness allowing students to 
+save face by writing off the culture at large. Says one respondent, 
+
+I think it’s true people do not have a problem to call you out if you’re in 
+any way violating a rule. However, if you are within the law but being a 
+
+
+32 
+
+
+
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+complete asshole - breaking things, throwing up, just generally being a 
+problem, that’s fine. You’re not doing anything illegal. But if you want 
+to cross the street, or if you walk on the grass when you’re not allowed 
+to, that is actually against the rules and they will call you out on it (H3: 
+Haley, graduate student, research assistant at an international research 
+institute, abroad for two years). 
+
+When another student tells a story of being reprimanded for holding a 
+door open, while she waited for her friend to add sugar to her coffee, Tom 
+responds jokingly, “They were mad because in Germany you’re supposed to be 
+insensitive. I think you mixed up cultural sensitivity with cultural insensitivity 
+(T4: Tom).” 
+
+The harsh language and insults used above, demonstrate hostility towards 
+behavior correction and the brokering of cultural knowledge. Students assign 
+cultural stereotypes circumventing not only the learning of the particular 
+situation, but the openness to cultural difference required for future learning. 
+This assignment of cultural stereotypes may also result in part from students’ 
+feelings of isolation from the both home and host cultures. Despite the 
+advantage of cultural inlets through the Internet, students often reported 
+feeling isolated from the target culture. Many students reported difficulties in 
+adjustment, and making friends with Germans. Mark suggests that this may 
+be a result of getting older, 
+
+I think the older you get, the harder it becomes to be the foreigner. I 
+always compare this experience to the one I had in Argentina when 
+I was 17. There I went clubbing three times a week, and within the 
+first few months I had 80 numbers in my cell phone. Here at the 
+university level everyone is kind of slowed down. They have girlfriends, 
+even wives and husbands. So the older you get the more difficult it 
+gets to penetrate the society and feel like you actually have good solid 
+friendships (M3: Mark). 
+
+
+In fact, of the 21 students interviewed, only four reported significant 
+friendships with members of the target culture: three students were placed 
+with German roommates, and one student had a German girlfriend. Similarly, 
+though the Internet has brought students into more regular contact with the 
+home culture, Erin reports that the Internet does not make up for lack of a 
+physical presence, 
+
+It’s hard. I used to know my friends’ schedules just because we lived 
+together or because we were always so close. Now my best friend just 
+
+
+33 
+
+
+
+Jude Mikal 
+
+
+got a job so she’s never home before 11pm and by then it’s the middle 
+of the morning here and I’m not awake. Occasionally I try to call her 
+cell phone with Skype but she’s always in class so it’s always really 
+frustrating. I never know when we can actually talk (E3: Erin). 
+
+
+Many students expressed similar frustrations about leaving home during times 
+of transition in their families. 
+
+Each stressor mentioned above creates a need for each of the hypothesized 
+Internet uses. Transition difficulties lay the foundation for use of the Internet 
+as a transition device. In response to feelings of isolation from the host culture, 
+and feelings of cultural ineptitude students may find themselves searching for 
+informational support, as well as resources for gaining access to the target culture 
+through cultural events. Finally, fears of isolation from the home culture - and 
+of being left behind - may be calmed by access to online resources which help 
+students maintain personal and professional obligations in the home country, 
+though they are physically located abroad. 
+
+
+Discussion 
+
+The purpose of the present study was to examine changes to the traditional 
+study abroad experience given changing notions of transition brought about 
+by widespread use of advanced communication technologies. Using data 
+collected from in-depth focus group interviews with 21 American students 
+studying abroad in Germany over 200 pages of text were generated from which 
+three themes emerged. Data suggests that students are using the Internet to: 
+1) access emotional and embedded support to facilitate the transition into the 
+new culture; 2) quickly and efficiently establish daily routines in the target 
+culture; and 3) fulfill professional and social obligations back in the United 
+States while abroad. Nevertheless, the results indicate that students are still 
+suffering from acculturative stress, and suggest the possibility that the Internet 
+may risk transforming the traditional notion of cultural exploration, into one 
+of cultural consumerism. 
+
+Implications for students and short-term migrants in general are largely 
+positive. Focus group interview data demonstrated that the Internet is an 
+effective way of seeking out emotional support from the home country that can 
+help migrants to navigate a difficult transition abroad. The Internet provided 
+a medium through which to maintain important relationships in the home 
+culture, while also providing a continuity in behavior expectations, language 
+and identity through embedded social support networks which students 
+were able to carry abroad with them. Furthermore, students reported using 
+
+
+34 
+
+
+
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+the Internet to connect with co-nationals, providing a network of support 
+comprised of other foreigners likely to understand the difficulties of living 
+abroad. Often students were able to find important information online in their 
+native language, and where such information was not available in English, 
+students were able to find resources to help them interpret the target language 
+either completely such as with programs like Google Translate, or in part 
+through online dictionaries. 
+
+Support seeking online was not limited to providing a link to the home 
+culture and language, however. Through the Internet, students were able to 
+find inlets into the target culture, and form relationships with host nationals, 
+as well. Students reported using the Internet to find cultural activities based 
+on their interests, thereby expanding possibilities for social interaction and 
+the formation of cross-cultural friendships. Students are no longer required to 
+make do with everyday encounters in order to develop superficial linguistic and 
+cultural proficiency. Seeking out cultural events has the potential to provide a 
+solid foundation for stronger friendships based on a common interest and puts 
+students in touch with the realia which constitutes the experiential learning in 
+study abroad. Students are exhibiting this same agency in the establishment of 
+their daily lives abroad. Internet search and mapping programs are allowing 
+students to exercise independence in everything from locating apartments, to 
+locating corner grocery stores, fitness centers and shopping malls. Study abroad 
+is responsible for providing students a means to study at a foreign institution 
+through a pre-established network of support. Today, the Internet similarly 
+reduces the risks of living abroad by providing the same pre-established 
+network of support for everything outside of the university. 
+
+Nevertheless, the verdict on Internet use is complicated given the dual 
+goal of alleviating stress, while also creating an environment conducive to 
+learning. The result is a tale that is far more cautionary. The lengthening of 
+the initial transition period suggests less time actively engaged with the target 
+culture, while attending to responsibilities back in the home culture during 
+study abroad prevents full immersion and lengthens the transition out of the 
+host culture. Linda Stone, a blogger for the Huffington Post, comments on the 
+constant straddling of cyber and real space saying that students are engaging 
+in a “continuous partial attention.” According to Stone, continuous partial 
+attention refers to the desire to remain a constant active node. As a result, 
+engagement in any one activity is limited due to constant attending to several 
+other, potentially more interesting activities. Several programs have exacerbated 
+this problem by shortening the amount of time students are spending abroad 
+making for very superficial cultural engagement, and leaving students and 
+administrators equally dissatisfied with the results. 
+
+
+35 
+
+
+
+Jude Mikal 
+
+
+The Internet also risks changing the nature of study abroad from process 
+to product. When transactions could be conducted online, students were 
+likely to see the face-to-face counterpart transactions as pointless. In other 
+words, students asked why they would visit a ticket agent in a train station, 
+when the same transaction could be accomplished in a fraction of the time 
+online. The problem with such logic is that the goal is not the train ticket. 
+Rather, the goal is the cultural and language skill set exercised in the purchase 
+of the ticket. Data show that students’ interest in speed and efficiency have 
+changed the focus from long-term goals like cultural learning, to short-term 
+goals like ticket purchases. It is the shift toward more cultural than functional 
+goals that distinguishes study abroad from tourism. This switch in focus has 
+enabled students to rapidly and efficiently integrate into the target culture. 
+Unfortunately, where it may now take only several days to learn how to 
+physically navigate a city, students lack sufficient cultural knowledge to set up 
+a life that reflects the values of the culture in which they are living. Students 
+therefore set up the life abroad that they had envisioned back in the United 
+States and that reflect American values. 
+
+The establishment of a daily routine that fails to account for the values 
+of the host culture may be a symptom of a larger problem. It is possible that 
+the continuous engagement with the home culture through the Internet is 
+“normalizing” American behavior such that students’ frame of reference never 
+changes. Part of the study abroad experience is students’ shedding of their 
+ethnocentric worldview, in order to adopt a more international perspective. 
+If students continue to create an insular world in which America is the norm 
+and all other countries constitute a deviation, then students’ worldview is 
+unlikely to change. Evidence of this ethnocentrism can be seen in the results 
+section on acculturative stress where some students demonstrated an attitude 
+of entitlement and some exaggerated notions of cultural difference, both of 
+which stand in direct opposition to the goals of study abroad. 
+
+Where normative theories of intercultural adjustment are concerned, 
+the present study offers some new and exciting insights. Evidence suggests 
+that the Internet is smoothing out previous abrupt transitions into and out 
+of the target culture, indicating that it may no longer be relevant to refer to a 
+culture “shock.” Students are no longer affronted by the host culture, but able 
+to choose their degree of involvement, etreating to a more familiar identity 
+affirming embedded or socio-emotional support when cultural encounters 
+become too difficult. Berry’s model of acculturation strategies / acculturation 
+attitudes may also have to be reanalyzed given such ready access to members 
+of the home culture via the Internet. It may no longer be relevant to discuss 
+an “abandonment” of the home culture in any but the most exceptional of 
+
+
+36 
+
+
+
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+cases - as immigrants and sojourners have unrestricted access to co-nationals 
+online. Finally, acculturative stress in general may undergo a shift from entirely 
+undesirable, to occasionally desirable. If students are failing to encounter 
+stress, or are fleeing to the safety of online interaction when faced with stress, 
+it may indicate that students are seeking justification for culturally insensitive 
+behaviors. American behavior becomes the standard, and students fail to adapt 
+to behavioral expectations within the target culture, leading to a decrease in 
+cultural learning. Rather than buffering students from stressful encounters, the 
+next step for administrators may be to encourage students to confront stresses, 
+in order to adapt and learn. 
+
+
+Conclusion 
+
+Internet communication has changed the traditional study abroad 
+experience by providing students with additional options: students choose 
+where, when and through whom to seek support; but also where and when 
+to engage in the target culture. Further research on the topic of Internet 
+mediated social support during study abroad should aim to quantify the 
+trade-off between hours spent online and hours spent actively engaging with 
+members of the target culture. Future research should also consider the use of 
+quantitative data to examine the link between hours spent online and stress 
+level during study abroad by considering whether the Internet represents active 
+or avoidance coping (Roth, S., & Cohen, L.J., 1986). Finally, longitudinal 
+data would help uncover an Internet use trajectory to determine the extent to 
+which Internet use follows a regular pattern, and help administrators to spot 
+deviations that may indicate abnormal Internet dependence. 
+
+
+References 
+
+Adler, P. (1975). The Transitional Experience: An alternative view of Culture 
+Shock. Journal of Ffumanistic Psychology, 15(4), 13-23. 
+
+Baym, N.K., Zhang, Y.B., & Lin, M. (2004). Social interactions across media. 
+
+New Media & Society, 6, 299-318. 
+
+Berry, J. (1997). Immigration, Acculturation, and Adaptation. Applied 
+Psychology: An International Review, 46(1), 5-68. 
+
+Bolger, N., Zuckerman, A., & Kessier, R. (2000). Invisible support and 
+adjustment to stress. Journal of Personality and Social Psychology, 79, 
+953-961. 
+
+
+37 
+
+
+
+Jude Mikal 
+
+
+Burke, M., Kraut, R., and Williams, D. (2010). Social use of computer-mediated 
+communication by adults on the autism spectrum. ACM CSCW 2010: 
+Conference on Computer-Supported Cooperative Work, 425-434. 
+
+Church, A. (1982). Sojourner Adjustment. Psychological Bulletin, 91, 540-572. 
+
+Cobb, S. (1976). Social support as a moderator of life stress. Psychosomatic 
+Medicine, 38(5), 300-314. 
+
+Cohen, S. & Wills, T. (1985). Stress, Social Support, and the Buffering 
+Hypothesis. Psychological Bulletin, 98(2), 310-357. 
+
+Dimmick, J., Ramirez, J., Wang, T., & Lin, S. (2007). ‘Extending society’: 
+the role of personal networks and gratification-utilities in the use of 
+interactive communication media. New Media Society, 9, 795-810. 
+
+Gorka, B. & Niesenbaum, R. (2001). Beyond the Language Requrirement: 
+Interdisciplinary Short-Term Study-Abroad Programs in Spanish. 
+Hispania, 84 (1), 100-109. 
+
+Gullahorn, J. T„ & Gullahorn, J. E. (1963). An Extension of the U-Curve 
+Hypothesis. Journal of Social Issues, 19(3), 33-47. 
+
+Hammer, M. (1981). Social Supports, Social Networks, and Schizophrenia. 
+Schizophrenia Bulletin, 7(1), 45-57. 
+
+Hampton, K., & Wellman, B. (2003). Neighboring in Netville: How the 
+Internet Supports Community and Social Capital in a Wired Suburb. 
+City & Community, 2(4), 277-311. 
+
+Kraut, R., M. Patterson, V. Lundmark, S. Kiesler, T. Mukhopadhyay 
+and W. Scherlis (1998) ‘Internet Paradox: a Social Technology that 
+Reduces Social Involvement and Psychological Well-being?’, American 
+Psychologist 53(9): 1017-31. 
+
+Leung, L. (2007). Stressful Life Events, Motives for Internet Use, and Social 
+
+Support Among Digital Kids. Cyberpsychology and Behavior, 10, 204-214. 
+
+Lysgaard, S. (1955). Adjustment in a Foreign Society: Norwegian Fulbright 
+Grantees Visiting the United States. International Social Science 
+Bulletin, 7, 45-51. 
+
+Malik, S. & Coulson, N. (2008). Computer mediated infertility support- 
+groups: An exploratory study of online experiences. Patient Education 
+and Counseling, 105-113. 
+
+McKenna, K. Y., & Green, A. S. (2002). Virtual Group Dynamics. Group 
+Dynamics: Theory, Research, and Practice. Special Issue: Groups and 
+Internet, 6(1), 116-127. 
+
+McKenna, K. Y., Green, A. S., & Gleason, M. E. (2002). Relationship 
+formation on the Internet: What’s the big attraction? Journal of Social 
+Issues. Special Issue: Consequences of the Internet for self and society: 
+
+Is social life being transformed? 58(1), 9-31. 
+
+
+38 
+
+
+
+Frontiers: The Interdisciplinary Journal of Study Abroad 
+
+
+McKinlay, N. J., Pattison, M., & Gross, H. (1996). An Exploratory 
+
+Investigation of the Effects of a Cultural Orientation Programme on the 
+Psychological Well-Being of International University Students. Eligher 
+Education, 31(3), 379-395. 
+
+Oberg, K. (I960). Culture shock: adjustment to new cultural environments. 
+Practical Anthropology, 7, 177-182. 
+
+Papacharissi, Z., & Rubin, A. (2000). Predictors of Internet Use. Journal of 
+Broadcasting and Electronic Media, 44 (2), 175-196. 
+
+Putnam, D. E. (2000). Initiation and maintenance of online sexual 
+compulsivity: Implications for assessment and treatment. 
+CyberPsychology & Behavior, 3(4), 553-563. 
+
+Raake, J., & Bonds-Raake, J. (2008). MySpace and Facebook: Applying 
+the Uses and Gratifications Theory to Exploring Friend-Networking Sites. 
+CyberPsychology & Behavior, 11 (2), 169-174. 
+
+Robinson, J. P, Kestnbaum, M., Neustadtl, A., & Alvarez, A. (2000). Mass 
+media use and social life among Internet users. Social Science Computer 
+Review. Special Issue: Survey and statistical computing in new 
+millennium, 18(4), 490-501. 
+
+Roth, S., & Cohen, L.J. (1986). Approach, Avoidance, and Coping with Stress. 
+American Psychologist, 813-819. 
+
+Shaw, L.H., & Grant, L.M. (2002). In Defense of the Internet: The 
+relationship between Internet Communication and Depression, 
+Loneliness, Self-esteem and Perceived Social Support. Cyberpsychology, 
+5(2), 157-171. 
+
+Stone, L. (2009J. Continuous Partial Attention. Retrieved on February 21, 
+2010 from http://lindastone.net/qa/continuous-partial-attention/. 
+
+Subrahmanyam, K., Reich, S., Waechter, N. & Espinoza, G. (2008). Online 
+and offline social networks: use of social networking sites by emerging 
+adults. Journal of Applied Developmental Psychology, 29, 420-433. 
+
+Thoits, P.A. (1985). Social Support and Psychological Well-Being: Theoretical 
+Possibilities. In Sarason, I.G. & Sarason, B.R. (Eds.), Social Support: 
+Theory, Research, and Applications. Dordrecht, The Netherlands: 
+Martinus Nijhof. 
+
+Turner, R. J., Frankel, B.G., & Levin, D.M. (1983). Social support. 
+
+Conceptualization, measurement, and implications for mental health. 
+Research in Community and Mental Health, 3, 67-111. 
+
+Ward, C., & Kennedy, A. (1994). Acculturation strategies, psychological 
+adjustment, and sociocultural competence during cross-cultural 
+transitions. International Journal of Intercultural Relations, 18 (3), 
+329-343. 
+
+
+39 
+
+
+
+Jude Mikal 
+
+
+Wethington, E. & Kessler, R. (1986). Perceived Support, Received Support 
+and Adjustment to Stressful Life Events. Journal of Health and Social 
+Behavior, 27(1), 78-89. 
+
+
+40 
+
+
+

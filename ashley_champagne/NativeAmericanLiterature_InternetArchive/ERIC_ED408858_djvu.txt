@@ -1,0 +1,5873 @@
+DOCUMENT RESUME 
+
+
+
+ED 408 858 
+
+
+
+FL 024 626 
+
+
+
+AUTHOR 
+
+TITLE 
+
+INSTITUTION 
+
+SPONS AGENCY 
+
+PUB DATE 
+NOTE 
+
+CONTRACT 
+AVAILABLE FROM 
+
+PUB TYPE 
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+Crawford, James 
+
+Best Evidence: Research Foundations of the Bilingual 
+Education Act. NCBE Report. 
+
+National Clearinghouse for Bilingual Education, Washington, 
+DC. 
+
+Office of Bilingual Education and Minority Languages Affairs 
+(ED), Washington, DC. 
+
+Mar 9 7 
+7 8p . 
+
+T295005001 
+
+NCBE, 1118 22nd Street N.W., Washington, DC 20037; world 
+wide web: http://www.ncbe.gwu.edu 
+Information Analyses (070) 
+
+MF01/PC04 Plus Postage. 
+
+Academic Standards; Alaska Natives; American Indians; 
+*Bilingual Education; Bilingualism; Cultural Pluralism; Data 
+Collection; Educational Improvement; Educational Objectives; 
+Educational Resources; Educational Technology; Elementary 
+Secondary Education; Equal Education; *Federal Legislation; 
+Higher Education; ^Language Research; * Language Role; 
+^Limited English Speaking; Objectives; Parent Participation; 
+Poverty; Program Evaluation; Research Methodology; Teacher 
+Education 
+
+* Improving Americas Schools Act 1994 Title VII 
+
+
+
+ABSTRACT 
+
+
+
+Current research literature on the education' of language 
+minority students in the United States is reviewed as it relates to the 
+Bilingual Education Act of 1994 (Title VII of the Improving America's Schools 
+Act) . The review specifically examines these areas of concern: language 
+diversity in the United States; limited English skills, poverty, and 
+education; challenges for limited-English-prof icient (LEP) students; the 
+special status of Native Americans; teacher training and the role of higher 
+education institutions; Title VII instructional programs; promoting high 
+standards and bilingual skills; the national need for language resources; 
+educational technology and LEP students; parent involvement; improving 
+research, evaluation, and data collection; goals of the Title VII program; 
+Title VII and equal educational opportunity; and capacity-building for 
+language-minority education. Contains a glossary and 124 references. (MSE) 
+
+
+
+******************************************************************************** 
+
+* Reproductions supplied by EDRS are the best that can be made * 
+
+* from the original document. * 
+
+**★*★********★★★★★*★***★★★***★*★*★★★★★★★*★*★★★*******★★*★★********************** 
+
+
+
+o 
+
+ERIC 
+
+
+
+00 
+
+tn 
+
+00 
+
+00 
+
+o 
+
+§ 
+
+
+
+NCBE 
+
+REPORT 
+
+
+
+
+March 
+
+1997 
+
+
+
+
+BEST EVIDENCE: 
+
+Research Foundations of the 
+Bilingual Education Act 
+
+
+
+James Crawford 
+
+
+
+BEST COPY AVAILABLE 
+
+
+
+U.S DEPARTMENT OF EDUCATION 
+Office of Educational Research and Improvemeni 
+EDUCATIONAL RESOURCES INFORMATION 
+* CENTER (ERIC) 
+
+y This document has been reproduced as 
+9 received from the person or organization 
+originating it. 
+
+□ Minor changes have been made to 
+improve reproduction quality. 
+
+
+
+• Points of view or opinions stated in this 
+document do not necessarily represent 
+official OERI position or policy. 
+
+
+
+2 
+
+
+
+RMISSION TO REPRODUCE THIS 
+rERIAL HAS BEEN GRANTED BY 
+
+I A/Wi/'iO 
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC).” 
+
+
+
+The National Clearinghouse for Bilingual Education (NCBE) is 
+funded by the U.S. Department of Education’s Office of 
+Bilingual Education and Minority Languages Affairs 
+(OBEMLA) and is operated under Contract No. T295005001 by 
+the George Washington University, Graduate School of 
+Education and Human Development, Center for the Study of 
+Language and Education. This report was prepared under Task 
+Order D0002, Model 3. The opinions, conclusions, and 
+recommendations expressed herein do not necessarily reflect the 
+position or policy of the George Washington University or the 
+U.S. Department of Education and no official endorsement 
+should be inferred. The mention of trade names, commercial 
+products or organizations does not imply endorsement by the 
+U.S. government. Readers are free to duplicate and use these 
+materials in keeping with accepted publication standards. NCBE 
+requests that proper credit be given in the event of reproduction. 
+
+The full text of this publication is also available on NCBE’s 
+World Wide Web (WWW) Site at: 
+
+http://www.ncbe.gwu.edu 
+
+For more information on related topics, please contact us at one 
+of the following: 
+
+
+
+NCBE 
+
+1118 22 nd St. NW 
+Washington, DC 20037 
+
+E-mail: askncbe@ncbe.gwu.edu 
+
+Fax: (800) 532-9347 
+Voice: (202) 467-0867 
+
+
+
+
+-The 
+
+
+
+
+3 
+
+
+
+Best Evidence: 
+
+
+
+Research Foundations of the Bilingual Education Act 
+
+
+
+By James Crawford 
+
+
+
+March, 1997 
+
+
+
+ACKNOWLEDGMENTS 
+
+
+
+The author is indebted to Joel Gomez, Minerva Gorena, Maria P. 
+Jones and the staff of the National Clearinghouse for Bilingual 
+Education for helpful ideas, research support, and editorial 
+comments. He is also grateful to Wayne P. Thomas and Virginia P. 
+Collier for permission to reprint copyrighted material. 
+
+
+
+
+5 
+
+
+
+Contents 
+
+
+
+List of Figures v 
+
+Preface vii 
+
+Congressional Findings on the Bilingual Education Act ix 
+
+I. Introduction 1 
+
+II. Research on Language-Minority Education: The State of the Art 7 
+
+A. Language Diversity in the U.S.A 8 
+
+B. Limited English Skills, Poverty, and Education 15 
+
+C. Challenges for LEP Students 16 
+
+D. Special Status of Native Americans 22 
+
+E. Teacher Training and the Role of IHEs 23 
+
+F. Title VII Instructional Programs 25 
+
+G. Promoting High Standards and Bilingual Skills 32 
+
+H. National Need for Language Resources 37 
+
+I. Educational Technology and LEP students 39 
+
+J. Parent Involvement 40 
+
+K. Improving Research, Evaluation, and Data Collection . 42 
+
+L. Goals of the Title VII Program 45 
+
+M. Title VII and Equal Opportunity 47 
+
+N. Capacity-Building for Language-Minority Education . . . 48 
+
+III. Conclusion 51 
+
+Glossary 53 
+
+Notes 55 
+
+
+
+References 
+
+
+
+61 
+
+
+
+List of Figures 
+
+
+
+Tables 
+
+
+
+Table I. Language Spoken at Home and Ability to Speak English for Persons 
+
+5 Years and Over: United States, 1990 11 
+
+Table II. Estimates of Limited English Proficiency: 
+
+Census Data vs. State Education Agency Reports 12 
+
+Table III. LEP Students Receiving Instructional Services in California Public Schools, 
+1994-95 31 
+
+Table IV. Supplemental LEP Education Costs Per Pupil, by Model and Activity, in 
+Selected California Schools 31 
+
+Charts 
+
+I. Title VII Appropriations, 1980-1996, Adjusted for Inflation 30 
+
+
+
+II. General Pattern of K-12 Language Minority Student Achievement on 
+Standardized Tests in English Compared Across Five Program Models 
+
+
+
+35 
+
+
+
+Preface 
+
+
+
+"No other country is so well-positioned to move into the 21 s ' century, to 
+live in a global society that is more peaceful and more secure— no one. 
+
+But it all depends upon whether we develop the God-given capacity of 
+every boy and girl in this country, no matter where they live, no matter 
+what their racial or ethnic or religious background is. " 
+
+President Clinton, October 20, 1994 
+
+The Improving America’s Schools Act (IASA) (P.L. 103-382) enacted in 1994 and signed 
+into law by President Clinton is designed to work in tandem with the Goals 2000: Educate 
+America Act, the School-to-Work Opportunities Act and the Safe Schools Act ( Title IV of IASA) 
+to build the capacity of state (SEA) and local education agencies (LEAs) for addressing reform at 
+the local level. Using these legislative acts along with other elements of the education 
+system— LEAs, SEAs, the federal government, parents, teachers and the community— it is believed 
+that systemic (comprehensive) reform can be more effective. 
+
+In the writing and preparation of the Title VII portion of the IASA, the Congress included 
+broad-based statements within Part A, “Findings, Policy and Purpose” that establish a basis for 
+federally supported bilingual education program implementation. Although the statements included 
+within Part A may be considered as “givens” by many, investigative research was needed to 
+determine how current research supports the Congressional findings. 
+
+A review of current research literature on the education of language minority students in 
+the United States was conducted in light of the statements included in the IASA legislation. The 
+result of the review is the presentation of the “Best Evidence” as it relates to the research 
+foundations of the Bilingual Education Act (Title VII of IASA). The author, Jim Crawford, well 
+known for his extensive and incisive writings on bilingual education, has organized the document 
+according to the Congressional findings on the Bilingual Education Act. A discussion of federal 
+policy as it relates to Title VII and some of the issues that have been raised about various aspects 
+of language minority education is included in the Introduction. In providing research evidence for 
+the Congressional findings, related contradictory views are also cited. This document is designed 
+to serve as a resource and reference guide to current research findings about the education of 
+language minority students in this country and the basic premises upon which the Congress 
+formulated the foundations of the Bilingual Education Act of 1994. 
+
+
+
+Minerva Gorena, Ed.D. 
+NCBE Associate Director 
+
+
+
+Congressional Findings on the Bilingual Education Act 
+(P.L. 103-382, Oct. 30, 1994) 
+
+SEC. 7102. FINDINGS, POLICY, AND PURPOSE. 
+
+(a) Findings. —The Congress finds that— 
+
+(1) language-minority Americans speak virtually all world languages plus many 
+that are indigenous to the United States; 
+
+(2) there are large and growing numbers of children and youth of limited-English 
+proficiency, many of whom have a cultural heritage that differs from that of their 
+
+English-proficient peers; 
+
+(3) the presence of language-minority Americans is related in part to Federal 
+immigration policies; 
+
+(4) many language-minority Americans are limited in their English proficiency, and 
+many have limited education and income; 
+
+(5) limited English proficient children and youth face a number of challenges in 
+receiving an education that will enable such children and youth to participate fully in American 
+
+society, including— 
+
+(A) segregated education programs; 
+
+(B) disproportionate and improper placement in special education and 
+other special programs due to the use of inappropriate evaluation procedures; 
+
+(C) the limited-English proficiency of their own parents, which hinders 
+the parents' ability to fully participate in the education of their children; and 
+
+(D) a shortage of teachers and other staff who are professionally 
+trained and qualified to serve such children and youth; 
+
+(6) Native Americans and Native American languages (as such terms are defined 
+
+in section 103 of the Native American Languages Act); including native residents of the outlying 
+areas, have a unique status under Federal law that requires special policies within the broad 
+purposes of this Act to serve the education needs of language minority students in the United 
+States; 
+
+(7) institutions of higher education can assist in preparing teachers, administrators 
+and other school personnel to understand and build upon the educational strengths and needs of 
+language-minority and culturally diverse student enrollments; 
+
+(8) it is the purpose of this title to help ensure that limited English proficient 
+students master English and develop high levels of academic attainment in content areas; 
+
+(9) quality bilingual education programs enable children and youth to learn 
+English and meet high academic standards including proficiency in more than one language; 
+
+(10) as the world becomes increasingly interdependent and as international 
+communication becomes a daily occurrence in government, business, commerce, and family life, 
+
+multilingual skills constitute an important national resource which deserves protection and 
+development; 
+
+(11) educational technology has the potential for improving the education 
+
+of language-minority and limited English proficient students and their families, and the Federal 
+Government should foster this development; 
+
+
+
+(12) parent and community participation in bilingual education programs 
+contributes to program effectiveness; 
+
+(13) research, evaluation, and data-collection capabilities in the field of bilingual 
+education need to be strengthened so that educators and other staff can 
+
+better identify and promote those programs, program implementation strategies, 
+
+and instructional practices that result in effective education of limited English proficient children; 
+
+(14) the use of a child or youth’s native language and culture in classroom 
+instruction can— 
+
+(A) promote self-esteem and contribute to academic achievement 
+and learning English by limited English proficient children and youth; 
+
+(B) benefit English-proficient children and youth who also participate 
+in such programs; and 
+
+(C) develop our Nation's national language resources, thus promoting 
+our Nation's competitiveness in the global economy; 
+
+(15) the Federal Government, as exemplified by title VI of the Civil Rights 
+Act of 1964 and section 204(f) of the Equal Education Opportunities Act of 1974, 
+
+has a special and continuing obligation to ensure that States and local school districts 
+take appropriate action to provide equal educational opportunities to children and 
+youth of limited English proficiency; and 
+
+(16) the Federal Government also, as exemplified by the Federal 
+
+Government's efforts under this title, has a special and continuing obligation to assist States and 
+local school districts in developing the capacity to provide programs of instruction that offer limited 
+English proficient children and youth an equal educational opportunity . 
+
+(b) Policy. The Congress declares it to be the policy of the United States, in order to ensure equal 
+educational opportunity for all children and youth and to promote educational excellence, to assist 
+State and local educational agencies, institutions of higher education and community-based 
+organizations to build their capacity to establish, implement, and sustain programs of instruction 
+for children and youth of limited English proficiency . 
+
+(c) Purpose.— The purpose of this part is to educate limited English proficient children and youth 
+to meet the same rigorous standards for academic performance expected of all children and youth, 
+including meeting challenging State content standards and challenging State student performance 
+standards in academic areas by — 
+
+(1) developing systemic improvement and reform of educational programs 
+serving limited English proficient students through the development and implementation 
+of exemplary bilingual education programs and special alternative instruction programs; 
+
+(2) developing bilingual skills and multicultural understanding; 
+
+(3) developing the English of such children and youth and, to the extent possible, 
+the native language skills of such children and youth; 
+
+(4) providing similar assistance to Native Americans with certain modifications 
+relative to the unique status of Native American languages under Federal law; 
+
+(5) developing data collection and dissemination, research, materials development, 
+
+and technical assistance which is focused on school improvement for limited English proficient 
+students; and 
+
+(6) developing programs which strengthen and improve the professional training of 
+educational personnel who work with limited English proficient students. 
+
+
+
+x 
+
+
+
+
+
+A 
+
+
+
+I. Introduction 
+
+
+
+Congress charted a new policy direction for the Bilingual Education Act when it voted, in 
+1994, to reauthorize the law for the fifth time. The change came in response to developments in 
+educational research over the past three decades: insights about how children acquire languages 
+and how they excel in other subjects. Drawing on this body of knowledge, the new law 
+incorporates two important principles: 
+
+
+
+■ Given access to challenging curriculum, language-minority and limited-English- 
+Proficient (LEP) students can achieve to the same high standards as other 
+students . 
+
+■ Proficient bilingualism is a desirable goal, which can bring cognitive, academic, 
+cultural, and economic benefits to individuals and to the nation. 1 
+
+
+
+Known as Title VII, Part A, of the Improving America's Schools Act, the legislation 
+includes a section entitled "Findings, Policy, and Purpose." This comprehensive statement 
+explains the federal government's commitment to bilingual education: why the program is needed, 
+how it works, who benefits, and what goals are served. It articulates a policy: 
+
+to assist State and local educational agencies, institutions of higher education and 
+community-based organizations to build their capacity to establish, implement, and sustain 
+programs of instruction for children and youth of limited English proficiency [P.L. 
+
+103-382, Sec. 7102(b)], 
+
+Finally, it details among its purposes: 
+
+
+
+to educate limited English proficient children and youth to meet the same rigorous 
+standards for academic performance expected of all children and youth, including ... 
+developing the English of such children and youth and, to the extent possible, [their] native 
+language skills [Sec. 7102(c)], 
+
+
+
+
+* 
+
+
+
+
+
+
+1 
+
+
+
+Research on bilingual education was in its infancy in 1968, when the law was first enacted. 
+No one could say with certainty whether the pedagogy would be effective. Congress knew only 
+that LEP children faced "serious learning difficulties" in English-only classrooms and that this 
+created "a unique and perplexing educational situation" (P.L. 90-247, Sec. 701). The first 
+Bilingual Education Act was conceived as an experiment. It would offer financial assistance to 
+foster "new and imaginative elementary and secondary school programs to meet these special 
+educational needs" (Sec. 702). Educators would develop instructional approaches, researchers 
+would evaluate their effectiveness, and policy-makers would respond accordingly. 
+
+
+
+Since that time a great deal has been learned. While not all questions have been answered, 
+research has increasingly proven the effectiveness of well-designed bilingual programs. Of course, 
+language of instruction is just one among many variables that determine how students learn. 
+Teaching children in their native tongue is no guarantee of success. Yet, according to a broad 
+consensus of researchers, there is no basis for the concern that native-language instruction might 
+impede the acquisition of English. To the contrary, there is considerable evidence that skills and 
+knowledge learned in the first language "transfer" readily to the second. Thus time spent in a 
+quality bilingual classroom is time well spent in learning English and other subjects. 
+
+
+
+English proficiency has been and will remain a central goal of Title VII; but not the only 
+goal. A coequal priority has been achievement in academic content areas. In 1994, Congress added 
+yet another. It recognized the value of preserving, rather than replacing, a child's native language 
+— first, as a foundation for learning, and second, as a source of valuable skills. Again, this policy 
+is consistent with the latest research. Bilingualism is no longer considered a handicap to cognitive 
+growth, but probably an advantage (August & Hakuta 1997). In addition, it is seen as a job skill 
+of increasing importance, a tool of cross-cultural understanding, and a vital resource in the global 
+marketplace and international relations. 
+
+In reauthorizing Title VII, Congress also heeded recent studies that show the 
+ineffectiveness of programs stressing remedial instruction in low-level basic skills (e.g., 
+Commission on Chapter 1 1992). It placed a new emphasis on high standards for LEP students and 
+greater accountability for bilingual and English-as-a-second-language (ESL) programs, echoing 
+familiar themes in the movement for school reform. Toward that end, several changes in the 
+
+
+
+3 
+
+ERIC 
+
+iamaffamiaaa 
+
+
+
+2 
+
+
+
+Improving America's Schools Act are aimed at encouraging holistic approaches — that is, efforts 
+to address the unique needs of LEP students in the context of efforts to improve schooling for all 
+students. These include: 
+
+
+
+■ a reconfiguration of instructional grants to promote comprehensive schoolwide and 
+district wide programs; 
+
+■ an enhanced role for state education agencies (SEAs) to facilitate their obligation to 
+address LEP student concerns in systemic reform activities under the Goals 2000: 
+Educate America Act; 
+
+■ a long-term commitment to strengthening the infrastructure for language-minority 
+education by improving research, evaluation, and professional development; 
+
+■ an emphasis on serving more LEP students, and serving them more appropriately, 
+through the Title I program for disadvantaged children; 
+
+■ the consolidation of foreign language assistance, along with bilingual and immigrant 
+education programs, under the Office of Bilingual Education and Minority Languages 
+Affairs (OBEMLA); and 
+
+
+
+■ new provisions that require the coordination of services for LEP children among school 
+programs funded by Title I, Title VII, migrant education, immigrant education, Indian 
+education, and other sources. 
+
+
+
+These innovations also helped to frame the discussion of bilingual education in a larger 
+policy context. No longer were LEP students viewed as a special case, defined primarily by a 
+language "deficit" and a need for compensatory programs. Now they were seen as children who 
+share the same capabilities, face many of the same obstacles, and deserve all of the same 
+opportunities as other American children. No longer was the policy discussion focused narrowly 
+on language of instruction — whether to favor bilingual or English-only approaches. Now a broad 
+range of questions was considered, stressing the inclusion of language-minority students in every 
+step toward school reform. 
+
+
+
+
+3 
+
+13 
+
+
+
+In 1994, Congress maintained a balanced approach on the language-of-instruction issue. 
+Title VII continues to allocate up to 25 percent of its instructional-program budget to support all- 
+English methodologies. (P.L. 103-382, Sec. 71 16[i]). These grants are awarded largely to school 
+districts where bilingual instruction is now impractical. Furthermore, when conditions warrant — 
+for example, a local educational agency (LEA) enrolls LEP students from numerous language 
+groups, or is unable to recruit enough bilingual teachers — the Department of Education may 
+provide additional funding, over and above the 25 percent limit, to such "special alternative 
+instructional programs" (SAIPs; for detailed definitions of this and other program models, see 
+Glossary). 
+
+
+
+At the same time, Congress recognized the substantial benefits of programs that are fully 
+bilingual, especially those that aim to preserve and cultivate children's native-language skills. 
+Helping to build SEAs’ and LEAs’ capacity to provide such instruction remains the primary focus 
+of Title VII. In addition, the 1994 law states a new funding priority: to promote "the development 
+of bilingual proficiency both in English and another language for all participating students." 
+
+
+
+Nevertheless, shortly after the reauthorization of Title VII, the policy it embodies came 
+under fierce attack on Capitol Hill and in the press. The 104th Congress considered legislation to 
+repeal the law, to eliminate its funding, and — under a sweeping "English only" proposal — to 
+outlaw most federal government operations in other languages. So far none of these outcomes has 
+occurred. Still, the political climate for bilingual education has never been chillier. Title VII, Part 
+A, appropriations were reduced by 38 percent between 1994 and 1996, forcing deep cuts in grants 
+for instructional programs, terminating aid for teacher training, and reducing the budgets for 
+research, evaluation, and other support services. 
+
+Recent debates over Title VII have featured numerous fallacies — about the program itself, 
+about language-minority groups, about second language acquisition, and about educational 
+research. According to a widespread popular image, bilingual education means that most LEP 
+children are enrolled in foreign-language classrooms, where they receive little English instruction 
+and thus learn little English, remaining isolated from the mainstream for five or more years, 
+against the wishes of their parents and at enormous cost to the taxpayers — all because of a federal 
+mandate imposed on local schools. 
+
+
+
+O 
+
+ERIC 
+
+
+
+4 
+
+
+
+None of these assumptions is valid. Moreover, they are directly at odds with the findings 
+
+of Congress when it reauthorized Title VII in 1994. Yet such fallacies have exerted a growing 
+influence on discussions of language-minority education, and they have received wide circulation 
+in the news media. Indeed, as compared with the findings of educational research, press coverage 
+of bilingual education has been disproportionately hostile. A recent survey of publications 
+between 1984 and 1994 found that 82 percent of empirical studies and literature reviews were 
+favorable to bilingual education, as compared with only 45 percent of editorials in major 
+newspapers 1 (McQuillan & Tse, in press). Since public opinion exerts a strong influence on policy- 
+makers, it is important to sort out where the factual truth lies in this debate. 
+
+
+
+That is the purpose of this report. It will review the research literature that bears on each 
+of the Congressional findings, as well as on contradictory views like those cited above. On that 
+basis it will seek to determine which statements are supported by scientific evidence, which are 
+erroneous, and which cannot be proven or disproven on the basis of current knowledge. 
+
+
+
+To the extent possible, this review will rely on the latest research: studies published or 
+completed within the past five years. When necessary, it will consider studies that have appeared 
+within the past 12 years. In selecting research to include, the author has relied on database 
+searches of the National Clearinghouse for Bilingual Education, the Education Resources 
+Information Center (ERIC), and the Library of Congress, as well as studies commissioned by the 
+U.S. Department of Education, and suggestions by the staff of OBEMLA. 
+
+
+
+
+5 
+
+
+
+II. Research on Language-Minority Education: The State of the Art 
+
+
+
+Researchers have made striking advances since 1968 in the fields of psycholinguistics, 
+second-language acquisition, bilingual pedagogy, and multicultural education. Today we know a 
+great deal more about the challenges faced by language-minority children and about promising 
+strategies for overcoming them. 
+
+
+
+At the same time, these are evolving disciplines. Like all social science research, studies 
+in these areas are subject to limitations and must be examined critically. Unlike the physical 
+science laboratory, the terrain of educational research is the universe of human behavior, where 
+variables are numerous, unpredictable, and difficult to control. True experiments, featuring the 
+random assignment of students to various educational models being compared, are difficult to 
+design. In large-scale evaluations of bilingual education programs, with enough subjects to make 
+the results generalizable, they have thus far proved impossible. So complex statistical techniques 
+are frequently employed to compensate for pre-existing differences among students, and these are 
+inevitably open to criticism. 
+
+
+
+Language-minority programs pose their own unique problems for researchers. For 
+example, legal and ethical constraints rule out studies that compare bilingual methodologies with 
+"no treatment" — sink or swim instruction — which the U.S. Supreme Court has outlawed as a 
+violation of LEP children's civil rights (Lau v. Nichols 1974). Moreover, the instruments used to 
+gauge students' progress are imperfect, to say the least. Reliable assessments of content knowledge 
+in languages other than English are generally unavailable (Hakuta et al. 1993); so most testing 
+must be conducted in English. Yet English-language tests are considered unreliable, because LEP 
+children differ substantially from the norming population. Studies that compare language-minority 
+program models face several such obstacles. 
+
+
+
+One approach to reviewing the research literature is to disqualify as meaningless all studies 
+whose methodology fails to meet a predetermined set of standards and to base conclusions on those 
+that remain. While this may appear scientific, there is no consensus on such standards. Thus the 
+procedure is open to abuse, for example, when reviewers use arbitrary criteria to exclude, as 
+
+
+
+O 
+
+ERIC 
+
+
+
+7 
+
+
+
+"methodologically unacceptable," the bulk of research with which they disagree and to include 
+mainly those that confirm their biases (see Section II. G.). This approach also tends to discard large 
+amounts of evidence gathered by studies that, while imperfect in design, can be valuable when 
+considered in aggregate. 
+
+
+
+Another approach begins with the recognition that none of the research is without flaws. 
+Noting that studies vary considerably in methodological rigor, it takes their limitations into 
+account. At the same time, it considers the breadth and consistency of evidence across numerous 
+studies — the totality of research findings — rather than dismissing all those that fall short of 
+certain criteria. Krashen (1996) hypothesizes, for example, that failure to control for pre-existing 
+differences among students is a "flaw [but] not necessarily a fatal one": 
+
+If we look at many studies with nonrandom assignment, and have no reason to believe that 
+subjects in different treatments differ in relevant ways, it can be argued that randomization 
+of subject assignment has, in fact occurred, because of the large number of studies. In 
+other words, many slightly flawed studies can be combined to arrive at a valid analysis. 
+
+This report will take the latter approach. It will seek to present the research consensus, to 
+the extent that it exists, on each of the Congressional findings on Title VII. As much as possible, 
+it will rely on studies that meet high professional standards — such as publication in peer-reviewed 
+journals and anthologies — while noting their limitations where appropriate. 
+
+
+
+A. Language Diversity in the U.S.A. 
+
+The Congress finds that— 
+
+(1) language-minority Americans speak virtually all world languages plus many that are 
+indigenous to the United States; 
+
+(2) there are large and growing numbers of children and youth of limited English proficiency, 
+many of whom have a cultural heritage that differs from that of their English-proficient peers; 
+
+(3) the presence of language-minority Americans is related in part to Federal immigration policies; 
+
+
+
+Language diversity is the demographic reality that inspired the Bilingual Education Act of 
+1968. In the past 29 years it has increased substantially, as measured by the variety of languages 
+
+
+
+spoken in the United States, by the number of minority-language speakers, and most dramatically, 
+by the enrollment of LEP students. 
+
+The 1990 census counted 6.3 million youths, aged 5-17, who speak languages other than 
+English at home. This marked a 38 percent increase over the previous decade, a period in which 
+the overall school-age population declined by 4.5 percent. By a more expansive definition of 
+"language minority" — living in a home where a non-English language is spoken — there were 9.9 
+million language-minority children, 22 percent of the school-age population (Anstrom 1996). 
+
+More than 325 languages are now used at home by U.S. residents, including at least 137 
+Native American languages, according to the Census Bureau (1993a). Virtually all of the world's 
+100 most commonly spoken languages are represented here (Grimes, in press; see Table I). If 
+anything, these statistics understate the nation's diversity, owing to an acknowledged undercount 
+of minorities and other limitations of census data on language use. 2 For example, Krauss (1996) 
+has identified 175 Native American languages still spoken in the United States. 
+
+
+
+An estimated 31,844,979 U.S. residents — nearly one in seven — spoke home languages 
+other than English in 1990. They lived in 14 million households, 16 percent of the nation's total. 
+Of these minority-language speakers, 44 percent reported speaking English less than "very well" 
+(Census Bureau 1993a) — a response that some researchers regard as a proxy for limited English 
+proficiency 3 (MacArthur 1993). Approximately 38 percent of language-minority, school-age youth 
+were in this category in 1990; that is, they had "some difficulty" with English (Census Bureau 
+1993b). 
+
+
+
+In 1993-94, SEAs reported 2,804,556 LEP students enrolled in states and the District of 
+Columbia — 7 percent of the nation's elementary and secondary school population — with annual 
+increases averaging nearly 10 percent (Donly et al. 1995). This total is surely an under-count, 
+since three states declined to participate in the Title VII SEA grant program or to report their LEP 
+enrollments to OBEMLA. There are also significant discrepancies between census and SEA 
+estimates (see Table II). No doubt these differences reflect variations among states, districts, and 
+schools in the ways LEP students are identified, counted, and served, as well as census 
+
+
+
+undercounts. 4 The lack of uniform criteria and procedures 5 makes it impossible to place much 
+confidence in estimates of LEP enrollments nationwide (CCSSO 1990). In the past decade, 
+conservative estimates have ranged from 1.4 million to 3.7 million (Hopstock & Bucaro 1993). 
+
+
+
+Table I. Language Spoken at Home and Ability to Speak English for Persons 
+5 Years and Over: United States, 1990 
+
+
+
+HOME LANGUAGE 
+
+
+ENGLISH ABILITY 
+
+
+1990 RANK 
+
+
+TOTAL 
+
+
+VERY WELL 
+
+
+WELL 
+
+
+NOT WELL 
+
+
+NOT AT ALL 
+
+
+UNITED STATES 
+ENGLISH ONLY 
+TOTAL NON-ENGLISH 
+
+
+230,466,777 
+
+198,600,798 
+
+31,844,979 
+
+
+17,862,477 
+
+
+7,310,301 
+
+
+4,862,958 
+
+
+1\ 845,243 
+
+
+1 SPANISH 
+
+
+17,339,172 
+
+
+9,033,407 
+
+
+3,804,792 
+
+
+3,040,828 
+
+
+1„460U'4!5 
+
+
+2 FRENCH 
+
+
+1,702,176 
+
+
+1,226,043 
+
+
+318,409 
+
+
+149,505 
+
+
+8;, 2:1 9 
+
+
+3 GERMAN 
+
+
+1,547,099 
+
+
+1,161,127 
+
+
+284,809 
+
+
+96,804 
+
+
+4’, 35.9' 
+
+
+4 ITALIAN 
+
+
+1,308,648 
+
+
+874,032 
+
+
+283,354 
+
+
+134,114 
+
+
+n,i48 
+
+
+5 CHINESE 
+
+
+1,249,213 
+
+
+496,277 
+
+
+379,720 
+
+
+264,240 
+
+
+108,976 
+
+
+6 TAGALOG 
+
+
+843,251 
+
+
+556,252 
+
+
+223,971 
+
+
+58,320 
+
+
+4' „7 08 
+
+
+7 POLISH 
+
+
+723,483 
+
+
+455,551 
+
+
+169,548 
+
+
+85,298 
+
+
+113,086 
+
+
+8 KOREAN 
+
+
+626,478 
+
+
+242,939 
+
+
+195,120 
+
+
+154,617 
+
+
+33:802 
+
+
+9 VIETNAMESE 
+
+
+507,069 
+
+
+186,207 
+
+
+177,689 
+
+
+118,180 
+
+
+24,993 
+
+
+10 PORTUGUESE 
+
+
+429,860 
+
+
+235,283 
+
+
+96,243 
+
+
+71,305 
+
+
+27,029 
+
+
+11 JAPANESE 
+
+
+427,657 
+
+
+203,197 
+
+
+133,364 
+
+
+83,276 
+
+
+7,820 
+
+
+12 GREEK 
+
+
+388,260 
+
+
+266,072 
+
+
+78,153 
+
+
+38,799 
+
+
+5,236 
+
+
+13 ARABIC 
+
+
+355,150 
+
+
+235,509 
+
+
+82,149 
+
+
+31,596 
+
+
+5,896 
+
+
+14 HINDl(URDU) 
+
+
+331,484 
+
+
+234,705 
+
+
+67,276 
+
+
+24,365 
+
+
+5', 138 
+
+
+15 RUSSIAN 
+
+
+241,798 
+
+
+110,368 
+
+
+66,126 
+
+
+50,365 
+
+
+14,939 
+
+
+16 YIDDISH 
+
+
+213,064 
+
+
+151,377 
+
+
+44,213 
+
+
+15,431 
+
+
+2', 043 
+
+
+17 THAI(LAOTIAN) 
+
+
+206,266 
+
+
+78,246 
+
+
+70,177 
+
+
+47,374 
+
+
+10,469 
+
+
+18 PERSIAN 
+
+
+201,865 
+
+
+125,135 
+
+
+51,517 
+
+
+19,749 
+
+
+5,464 
+
+
+19 FRENCH CREOLE 
+
+
+187,658 
+
+
+89,056 
+
+
+56,730 
+
+
+35,710 
+
+
+6.162 
+
+
+20 ARMENIAN 
+
+
+149,694 
+
+
+74,586 
+
+
+36,408 
+
+
+25,401 
+
+
+13,299 
+
+
+21 NAVAHO 
+
+
+148,530 
+
+
+82,261 
+
+
+44,481 
+
+
+14,172 
+
+
+7,616 
+
+
+22 HUNGARIAN 
+
+
+147,902 
+
+
+96,200 
+
+
+37,875 
+
+
+12,691 
+
+
+1,136 
+
+
+23 HEBREW 
+
+
+144,292 
+
+
+110,440 
+
+
+26,685 
+
+
+6,471 
+
+
+696 
+
+
+24 DUTCH 
+
+
+142,684 
+
+
+108,936 
+
+
+27,888 
+
+
+5,470 
+
+
+390 
+
+
+25 CAMBODIAN 
+
+
+127,441 
+
+
+33,996 
+
+
+38,782 
+
+
+40,921 
+
+
+13,742 
+
+
+26 GUJARATHI 
+
+
+102,418 
+
+
+67,704 
+
+
+22,657 
+
+
+8,998 
+
+
+3,059 
+
+
+27 UKRAINIAN 
+
+
+96,568 
+
+
+60,949 
+
+
+22,515 
+
+
+11,870 
+
+
+1,234 
+
+
+28 CZECH 
+
+
+92,485 
+
+
+65,336 
+
+
+21,435 
+
+
+5,422 
+
+
+292 
+
+
+29 PENNSYLVANIA DUTCH 
+
+
+83,525 
+
+
+47,402 
+
+
+31,310 
+
+
+4,112 
+
+
+701 
+
+
+30 MIAO (HMONG) 
+
+
+81,877 
+
+
+18,328 
+
+
+25,645 
+
+
+26,505 
+
+
+11,399 
+
+
+31 NORWEGIAN 
+
+
+80,723 
+
+
+63,681 
+
+
+12,706 
+
+
+4,147 
+
+
+162 
+
+
+32 SLOVAK 
+
+
+80,388 
+
+
+58,311 
+
+
+16,322 
+
+
+5,503 
+
+
+252 
+
+
+33 SWEDISH 
+
+
+77,511 
+
+
+62,724 
+
+
+11,364 
+
+
+3,234 
+
+
+189 
+
+
+34 SERBO-CROATIOAN 
+
+
+70,964 
+
+
+43,303 
+
+
+18,149 
+
+
+8,365 
+
+
+1,147 
+
+
+35 KRU 
+
+
+65,848 
+
+
+53,563 
+
+
+10,630 
+
+
+• 1,511 
+
+
+144 
+
+
+36 RUMANIAN 
+
+
+65,265 
+
+
+33,552 
+
+
+20,332 
+
+
+8,922 
+
+
+2,459 
+
+
+37 LITHUANIAN 
+
+
+55,781 
+
+
+38,775 
+
+
+11,930 
+
+
+4,820 
+
+
+256 
+
+
+38 FINNISH 
+
+
+54,350 
+
+
+40,996 
+
+
+10,230 
+
+
+3,001 
+
+
+123 
+
+
+39 PANJABI 
+
+
+50,005 
+
+
+31,837 
+
+
+10,448 
+
+
+5,616 
+
+
+2,104. 
+
+
+40 FORMOSAN 
+
+
+46,044 
+
+
+20,791 
+
+
+15,562 
+
+
+7,712 
+
+
+1,979 
+
+
+41 CROATIAN 
+
+
+45,206 
+
+
+29,989 
+
+
+10,964 
+
+
+3,912 
+
+
+341 
+
+
+42 TURKISH 
+
+
+41,876 
+
+
+25,684 
+
+
+10,515 
+
+
+4,653 
+
+
+l',024 
+
+
+43 ILOCANO 
+
+
+41,131 
+
+
+18,197 
+
+
+14,770 
+
+
+7,354 
+
+
+810 
+
+
+44 BENGALI 
+
+
+38,101 
+
+
+25,417 
+
+
+9,808 
+
+
+2,578 
+
+
+298 
+
+
+45 DANISH 
+
+
+35,639 
+
+
+29,665 
+
+
+4,771 
+
+
+1,135 
+
+
+68 
+
+
+46 SYRIAC 
+
+
+35,146 
+
+
+20,636 
+
+
+9,106 
+
+
+3,956 
+
+
+1 ,44S 
+
+
+47 SAMOAN 
+
+
+34,914 
+
+
+23,660 
+
+
+7,712 
+
+
+3,129 
+
+
+413 
+
+
+48 MALAYALAM 
+
+
+33,949 
+
+
+21,131 
+
+
+10,093 
+
+
+2,006 
+
+
+719 
+
+
+49 CAJUN 
+
+
+33,670 
+
+
+23,834 
+
+
+7,577 
+
+
+2,073 
+
+
+186 
+
+
+50 AMHARIC 
+
+
+31.505 
+
+
+18,643 
+
+
+9.359 
+
+
+3.078 
+
+
+425 
+
+
+
+Source: Census Bureau 1993a. 
+
+
+
+
+11 20 
+
+
+
+Table II. Estimates of Limited English Proficiency 
+Census Data vs. State Education Agency Reports 
+
+
+
+1990 CENSUS. AGES 5-17 SEA REPORTS DIFFERENCE 
+
+Speaks Non- Difficulty with Identified LEP’s (SEA less Census estimate) 
+
+STATE English Language English 1990-91 Number Percentage 
+
+
+
+Alabama 
+
+
+23,122 
+
+
+8,117 
+
+
+1,052 
+
+
+-7,065 
+
+
+-87 
+
+
+Alaska 
+
+
+11,158 
+
+
+4,111 
+
+
+11,184 
+
+
++ 7.073 
+
+
++ 172 
+
+
+Arizona 
+
+
+156,782 
+
+
+61,069 
+
+
+65,727 
+
+
++ 4,658 
+
+
++ 8 
+
+
+Arkansas 
+
+
+13,587 
+
+
+4,304 
+
+
+2,000 
+
+
+-2,304 
+
+
+-54 
+
+
+California 
+
+
+1,878,957 
+
+
+796,905 
+
+
+986,462 
+
+
++ 64,626 
+
+
++ 8 
+
+
+Colorado 
+
+
+51,202 
+
+
+17,908 
+
+
+17,187 
+
+
+-721 
+
+
+-4 
+
+
+Connecticut 
+
+
+78,041 
+
+
+26,738 
+
+
+16,988 
+
+
+-9,750 
+
+
+-36 
+
+
+Delaware 
+
+
+7,403 
+
+
+2,765 
+
+
+1,969 
+
+
+-796 
+
+
+-29 
+
+
+D.C. 
+
+
+9,444 
+
+
+3,989 
+
+
+3,379 
+
+
+-610 
+
+
+-15 
+
+
+Florida 
+
+
+360,462 
+
+
+113,441 
+
+
+83,937 
+
+
+-29,504 
+
+
+-26 
+
+
+Georgia 
+
+
+55,976 
+
+
+19,834 
+
+
+6,487 
+
+
+-13,347 
+
+
+-67 
+
+
+Hawaii 
+
+
+29,600 
+
+
+11,253 
+
+
+9,730 
+
+
+-1,523 
+
+
+-14 
+
+
+Idaho 
+
+
+13,241 
+
+
+4,633 
+
+
+3,986 
+
+
+-677 
+
+
+-15 
+
+
+Illinois 
+
+
+302,087 
+
+
+102,031 
+
+
+79,281 
+
+
+-22,750 
+
+
+-22 
+
+
+Indiana 
+
+
+51,651 
+
+
+19,078 
+
+
+4,670 
+
+
+-14,408 
+
+
+-76 
+
+
+Iowa 
+
+
+20,740 
+
+
+7,375 
+
+
+3,705 
+
+
+-3,670 
+
+
+-50 
+
+
+Kansas 
+
+
+25,036 
+
+
+8,818 
+
+
+4,661 
+
+
+-4,157 
+
+
+-47 
+
+
+Kentucky 
+
+
+20,063 
+
+
+7,475 
+
+
+1,071 
+
+
+-6,404 
+
+
+-86 
+
+
+Louisiana 
+
+
+49,382 
+
+
+16,826 
+
+
+8,345 
+
+
+-8,481 
+
+
+-50 
+
+
+Maine 
+
+
+9,886 
+
+
+2,665 
+
+
+1,983 
+
+
+-682 
+
+
+-26 
+
+
+Maryland 
+
+
+67,904 
+
+
+21,879 
+
+
+12,701 
+
+
+-9,178 
+
+
+-42 
+
+
+Massachusetts 
+
+
+143,528 
+
+
+50,444 
+
+
+42,606 
+
+
+-7,838 
+
+
+-16 
+
+
+Michigan 
+
+
+95,963 
+
+
+27,815 
+
+
+37,112 
+
+
++9,297 
+
+
++ 33 
+
+
+Minnesota 
+
+
+42, 163 
+
+
+17,013 
+
+
+13,204 
+
+
+-3,809 
+
+
+-22 
+
+
+Mississippi 
+
+
+16,594 
+
+
+6,168 
+
+
+2,753 
+
+
+-3,415 
+
+
+-55 
+
+
+Missouri 
+
+
+33.731 
+
+
+12,230 
+
+
+3,815 
+
+
+-8,415 
+
+
+-69 
+
+
+Montana 
+
+
+6,382 
+
+
+2,102 
+
+
+6,635 
+
+
++ 4,533 
+
+
++ 216 
+
+
+Nebraska 
+
+
+11,256 
+
+
+3,323 
+
+
+1,257 
+
+
+-2,066 
+
+
+-62 
+
+
+Nevada 
+
+
+24,055 
+
+
+8,953 
+
+
+9,057 
+
+
++ 104 
+
+
++ 1 
+
+
+New Hampshire 
+
+
+8,561 
+
+
+2,587 
+
+
+1,146 
+
+
+-1,441 
+
+
+-56 
+
+
+New Jersey 
+
+
+245,795 
+
+
+76,273 
+
+
+47,560 
+
+
+-28.713 
+
+
+-38 
+
+
+New Mexico 
+
+
+94,719 
+
+
+33,779 
+
+
+73,505 
+
+
++ 39,726 
+
+
++ 118 
+
+
+New York 
+
+
+700,788 
+
+
+247,948 
+
+
+168,208 
+
+
+-79,740 
+
+
+-32 
+
+
+North Carolina 
+
+
+54,382 ' 
+
+
+21,784 
+
+
+6,030 
+
+
+-15.754 
+
+
+-72 
+
+
+North Dakota 
+
+
+3,456 
+
+
+894 
+
+
+7,187 
+
+
++ 6,293 
+
+
++ 704 
+
+
+Ohio 
+
+
+100,589 
+
+
+36,570 
+
+
+8.992 
+
+
+-27,578 
+
+
+-75 
+
+
+Oklahoma 
+
+
+28,351 
+
+
+9,473 
+
+
+15,860 
+
+
++6,387 
+
+
++67 
+
+
+Oregon 
+
+
+36,776 
+
+
+13,169 
+
+
+7,557 
+
+
+-5,612 
+
+
+-43 
+
+
+Pennsylvania 
+
+
+136,203 
+
+
+49,787 
+
+
+15,000* 
+
+
+-34,787 
+
+
+-70 
+
+
+Rhode Island 
+
+
+25,970 
+
+
+8,928 
+
+
+7,632 
+
+
+-1,296 
+
+
+-15 
+
+
+South Carolina 
+
+
+23,346 
+
+
+8,068 
+
+
+1.205 
+
+
+-6.863 
+
+
+-85 
+
+
+South Dakota 
+
+
+5,849 
+
+
+1,930 
+
+
+6,691 
+
+
++ 4,761 
+
+
++ 247 
+
+
+Tennessee 
+
+
+28,694 
+
+
+9,702 
+
+
+3,660 
+
+
+-6,042 
+
+
+-62 
+
+
+Texas 
+
+
+974,282 
+
+
+391,881 
+
+
+313,234 
+
+
+-78,647 
+
+
+-20 
+
+
+Utah 
+
+
+25,434 
+
+
+8,428 
+
+
+14,860 
+
+
++6,432 
+
+
++ 76 
+
+
+Vermont 
+
+
+3,212 
+
+
+774 
+
+
+500 
+
+
+-274 
+
+
+-35 
+
+
+Virginia 
+
+
+74,634 
+
+
+23,668 
+
+
+15,130* 
+
+
+-8.538 
+
+
+-36 
+
+
+Washington 
+
+
+78,287 
+
+
+30,077 
+
+
+28,646 
+
+
+-1.431 
+
+
+-5 
+
+
+West Virginia 
+
+
+9,129 
+
+
+2,815 
+
+
+231 
+
+
+-2,584 
+
+
+-92 
+
+
+Wisconsin 
+
+
+51,171 
+
+
+19,320 
+
+
+14.648 
+
+
+-4,672 
+
+
+-24 
+
+
+Wyoming 
+
+
+3,940 
+
+
+1.118 
+
+
+1.919 
+
+
++ 801 
+
+
++ 72 
+
+
+TOTAL 
+
+
+6,322,934 
+
+
+2.388,243 
+
+
+2.201.995 
+
+
+-1S6.24S 
+
+
+-8 
+
+
+
+♦Estimated by OBEMLA. SEAs in Pennsylvania and Virginia did not participate in Title VII and did not report LEP enrollments. 
+
+Sources: Census Bureau 1993b; OBEMLA 1992. 
+
+
+
+The growth of this population is especially rapid in a handful of immigrant-receiving states, 
+six of which enroll an estimated 72 percent of the nation's LEP students (GAO 1994). California, 
+the most heavily impacted state, saw its LEP enrollments nearly quadruple between 1980 and 
+1995, from 325,748 to 1,262,982 children in grades K-12 (CDE 1995). 
+
+At the same time, the 1990 census found that LEP students are distributed throughout the 
+nation. They numbered at least 500, or accounted for at least 5 percent of the school-age 
+population, in 533 counties in 47 states. In a third of those counties and in 24 of the 25 largest 
+metropolitan areas, there were at least 10 minority tongues represented (GAO 1994). 
+
+
+
+Spanish is by far the most prevalent minority language, spoken by about three out of four 
+LEP students (Fleischman & Hopstock 1993). Yet the LEP population is increasingly diverse. The 
+1990 census identified 33 home languages other than English with at least 100,000 speakers 
+(Waggoner 1995). New York, Chicago, Los Angeles, and Fairfax County, Virginia, are among 
+school districts with at least 20 students speaking each of more than 100 different languages 
+(McDonnell & Hill 1993). 
+
+
+
+Immigration is a major factor in the new diversity. The minority-language population grew 
+by 38 percent during the 1980s; those who have difficulty with English, by 37 percent; and the 
+number of foreign-born residents, by 40 percent. These statistics are causally related. Since- 1965, 
+federal immigration policy has increased both the volume and the diversity of newcomers, who 
+now come largely from non-English-speaking countries (Vialet 1991). The proportion of 
+foreign-born nearly doubled, from 4.8 percent of the U.S. population in 1970 to 8.7 percent in 
+1994 (Census Bureau 1995a). 
+
+
+
+Even more significant for American schools, immigrant children now represent a dazzling 
+array of cultures. To take an extreme example, in 1995-96 New York City enrolled recent arrivals 
+from 204 different countries. Largely because of immigration, U.S. residents of Hispanic origin 
+increased by 53 percent in the 1980s, while those of Asian and Pacific Islander backgrounds 
+increased by 108 percent, as compared with a 9.8 percent growth in the population as a whole. 
+
+
+
+
+r 
+
+
+
+13 
+
+
+
+
+Still, it is important to note that more than half of minority-language speakers and more 
+than a third of those who report some difficulty in English were born in the United States (Fix & 
+Passel 1994). An estimated 41 percent of LEP elementary-school students are native-born 
+(Fleischman & Hopstock 1993). These are the children of both recent immigrants and 
+long-established ethnic groups: Mexican Americans, Puerto Ricans, American Indians, Alaska 
+Natives, Chinese Americans, and others. These native-born language minorities are growing more 
+rapidly than the general population because of higher fertility rates. The 1990 census counted more 
+Hispanic women (50 percent) in their child-bearing years (ages 15-44) than non-Hispanic white 
+women (43 percent), and determined that, over her lifetime, the average Hispanic woman bears 
+1.3 times as many children (Waggoner 1993b). 
+
+There is no question that the growth of minority languages has had a significant impact on 
+American communities and, in particular, on American schools. Nevertheless, this demographic 
+trend is often misunderstood. 
+
+
+
+Fallacy: English is losing ground to other languages in the United States. 
+
+
+
+Linguistic diversity is hardly unprecedented in our history. At the time of the nation's first 
+census in 1790, French, Spanish, Irish, Dutch, Swedish, and Welsh were well represented, not 
+to mention more than 300 indigenous languages. Meanwhile, German Americans accounted for 
+8.6 percent of the population — a proportion comparable to that of Hispanic Americans, 9.0 
+percent, exactly two centuries later (Crawford 1995). 
+
+More world languages are spoken in the United States today than ever before. But this is 
+a quantitative, not a qualitative change from earlier periods. Concentrations of minority-language 
+speakers were common in the 19th century, as reflected by laws authorizing vernacular instruction 
+in a dozen states and territories. In big cities as well as rural areas, children attended bilingual and 
+non-English schools, learning in languages as diverse as French, Norwegian, Czech, and 
+Cherokee. In 1900, there were at least 600,000 elementary school children, public and parochial, 
+receiving part or all of their instruction in the German language — about 4 percent of the nation's 
+elementary school enrollment at the time — and this is probably a conservative estimate (Kloss 
+
+14 
+
+ERIC 
+
+
+
+23 
+
+
+
+1977). Yet English survived without any help from government, for example, in the form of 
+official-language legislation. 
+
+
+
+Fallacy: Newcomers to the United States are learning English more slowly now than in previous 
+generations. 
+
+To the contrary, today's immigrants appear to be acquiring English more rapidly than ever 
+before. While the number of minority-language speakers is projected to grow well into the next 
+century, the number of bilinguals is growing even faster. Between 1980 and 1990, the number of 
+immigrants who speak non-English languages at home increased by 59 percent, while the portion 
+of this population that speaks English "very well" rose by 93 percent (Waggoner 1995b). In 1990, 
+3 percent of U.S. residents reported speaking English less than "well" or "very well." Only eight- 
+tenths of one percent spoke no English at all — a proportion that was 4.5 times as large in the 1890 
+census. 
+
+
+
+About three in four Hispanic immigrants, after 15 years in this country, speak English on 
+a regular daily basis, while 70 percent of their children become dominant or monolingual in 
+English, often losing their Spanish skills (Veltman 1988). This does not necessarily mean, 
+however, that such children attain the academic proficiency in English needed for success in 
+school (see section II.F). Hence their need for special language assistance such as bilingual 
+education. 
+
+
+
+B. Limited English Skills, Poverty, and Education 
+
+The Congress finds that— 
+
+(4) many language-minority Americans are limited in their English proficiency, and many have 
+limited education and income; 
+
+The 1990 census counted nearly 14 million persons — 6 percent of the U.S. population — 
+who report some difficulty with English. This group was 12 times as likely to have completed less 
+than five years of schooling and half as likely to have graduated from high school, as compared 
+with native English speakers (Waggoner 1995c). In addition, children from such households were 
+50 percent more likely to live in poverty (Census Bureau 1995b). Prospects , a national study of 
+
+
+
+
+
+
+
+15 
+
+
+
+the Chapter 1 program, found that 54 percent of LEP children in grades 1 and 3 came from 
+families with incomes under $15,000 — twice the rate for all public school students (Moss & Puma 
+1995). At all grade levels, 77 percent of LEP students qualified for free or reduced-price lunches 
+in 1991 (Fleischman & Hopstock 1993). 
+
+
+
+Poverty is associated with numerous social ills that affect children's readiness to learn, 
+including health problems, crime-ridden neighborhoods, substandard housing, domestic violence, 
+substance abuse, and family mobility, as parents move frequently to find work. For LEP 
+immigrant and refugee children, these difficulties are often exacerbated by the stress of adjusting 
+to a new culture (CCSSO 1990). 
+
+
+
+C. Challenges for LEP Students 
+
+The Congress finds that— 
+
+(5) limited English proficient children and youth face a number of challenges in receiving 
+an education that will enable such children and youth to participate fully in American 
+society, including— 
+
+(A) segregated education programs; 
+
+(B) disproportionate and improper placement in special education and other special 
+programs due to the use of inappropriate evaluation procedures; 
+
+(C) the limited English proficiency of their own parents, which hinders the parents' 
+ability to fully participate in the education of their children; and 
+
+(D) a shortage of teachers and other staff who are professionally trained and qualified 
+to serve such children and youth; 
+
+
+
+Racial and Ethnic Segregation 
+
+
+
+Many of the educational problems of LEP children stem from their segregation in urban 
+schools, which are disproportionately poor, nonwhite, underfunded, and underachieving. Over the 
+past three decades, this trend has increased steadily for Hispanic students, who are now more 
+segregated than any other group, including African-American students. In 1991-92, 73 percent of 
+Hispanic children attended elementary and secondary schools with predominantly minority 
+enrollments, up from 55 percent in 1968-69. Meanwhile, 34 percent attended schools where more 
+than nine in ten students were minorities, up from 23 percent a generation earlier (Orfield et al. 
+1993). 
+
+
+
+
+16 
+
+
+
+25 
+
+
+
+LEP children, on average, are even more segregated. In 1991-92, 55 percent attended 
+schools with 91 to 100 percent minority enrollments, as compared with 19 percent of other 
+language minorities and 5 percent of native English speakers (Bennici & Strang 1995). 
+
+
+
+For such children, education remains both separate and unequal. LEP students are more 
+than twice as likely, as compared with their 1st and 3rd grade peers, to attend inner-city schools 
+with high concentrations of poor and minority students. Still, these patterns varied considerably 
+by ethnic group. In 1991-92, about half of LEP Hispanic 1st graders were in high-poverty schools, 
+versus 8 percent of LEP Asian 1st graders (Moss & Puma 1995). 
+
+
+
+Segregated schools are also characterized by fewer resources, older facilities, less 
+experienced teachers, fewer college preparatory courses, and higher dropout rates. Orfield et al. 
+(1993) conclude that "children in such schools are literally cut off from avenues to opportunity 
+commonly available in middle class schools." Other recent studies document a "stubborn relation 
+between school segregation of Chicanos and lowered academic achievement," reduced high school 
+graduation rates, and limited college attendance (Donato et al. 1993). 
+
+Fallacy: Bilingual education encourages the racial and ethnic segregation of language 
+minorities . 6 
+
+In the past, limited English proficiency has sometimes provided a pretext for segregating 
+minority children — Mexican American students in particular. Since the early 1970s, several states 
+have attempted to alleviate this problem by requiring the inclusion of English-proficient students 
+in bilingual classrooms (Donato et al. 1993). Nevertheless, there is sometimes a conflict — 
+encountered, for example, in court-ordered desegregation plans — between the goals of maximum 
+integration and a "meaningful education" for LEP students, another civil rights mandate (Lau v. 
+Nichols 1974). To provide appropriate language assistance, some grouping of children by 
+language ability is often necessary. Yet this need not prevent their integration with 
+English-proficient peers for certain classes or in "two-way" bilingual programs, which have 
+proven beneficial to both groups ( see section II.L). 
+
+
+
+
+17 
+
+
+
+26 
+
+
+
+The potential for isolating LEP students is real, especially as schools group them to make 
+efficient use of the limited supply of bilingual and ESL teachers. There is little merit, however, 
+in blaming bilingual education for racial segregation. For one thing, only a small percentage of 
+Latino students who attend predominantly minority schools are enrolled in bilingual classrooms. 
+Moreover, as one principal in East Los Angeles explains, bilingual education often has no impact 
+on racial balance: "We were 99.9 percent Hispanic. There was no one else to integrate with" 
+(quoted in Crawford 1995). Residential segregation and academic tracking are far more significant 
+factors in the isolation of LEP students (Donato et al. 1993). 
+
+
+
+Improper Assessment and Placement 
+
+Language-minority students have long been overrepresented in special education 
+classrooms. Teachers and administrators often confuse the consequences of limited English 
+proficiency, such as underachievement or inattention in class, with learning disabilities or speech 
+and language disorders. These mistakes are serious, since improper placements of LEP children 
+without real handicaps can be harmful to children's development. One recent study found that 
+Hispanic students labeled "learning disabled" lost ground on IQ tests and failed to improve on 
+achievement tests after three years in special education (Ortiz 1992). 
+
+
+
+At the same time, LEP children who truly are handicapped and do need special help are 
+frequently overlooked, again because of schools' failure to provide language-appropriate 
+assessments. In a 1987 survey, 28 of 34 responding SEAs said they provided no guidelines to 
+school districts on how to evaluate and place LEP students in special education (CCSSO 1990). 
+Some recent evidence suggests that Hispanic children are now being assigned to such programs 
+at rates more proportionate to their numbers. But "questions still persist as to whether the right 
+students are being identified and served." Research into these questions remains limited (Ortiz 
+1995). 
+
+
+
+Misclassification as educationally handicapped is symptomatic of a broader set of problems: 
+inadequate identification, language assessment, achievement testing, and classroom placement of 
+LEP students in general. While state guidelines vary considerably in these areas, most are too 
+
+18 
+
+
+
+
+27 
+
+
+
+broad to be of value to local districts. Only 12 of 34 eastern SEAs require specific procedures for 
+identification and placement of LEP children that would help to prevent mislabeling (O'Malley 
+& Pierce 1994). Faced with the language barrier, schools commonly exclude LEP students from 
+state-mandated tests and other assessments for accountability — creating a major obstacle to their 
+inclusion in school reform efforts (see section II.K). 
+
+
+
+Fallacy: Hispanic and Asian children are assigned to bilingual programs on the basis of 
+ethnicity, regardless of their English skills. 
+
+Notwithstanding the limitations of SEA oversight, virtually all states specify multiple 
+criteria for identifying children who need special language assistance. In 1993-94, half of SEAs 
+reported using at least 10 different standards in placing LEP students. These typically included a 
+home language survey and various measures of English proficiency — both objective and 
+subjective — such as teacher judgments, oral assessments, and achievement tests (Donly et al. 
+1995). The Prospects study could find no evidence that schools are violating such state policies 
+by arbitrarily assigning students to bilingual classrooms solely because of their family surnames 
+or language backgrounds (Moss & Puma 1995). 
+
+
+
+Parents' English Skills 
+
+
+
+The 1990 census determined that 28 percent of language-minority children, aged 5-17 are 
+"linguistically isolated"; that is, they live in households where no one over the age of 14 speaks 
+English "very well" (Census Bureau 1993b). Only one-quarter to one-third of the parents of LEP 
+students in grades 1 and 3 rate themselves as fully proficient in English, while 40 percent of them 
+never speak English, or speak it only rarely, in the home (Moss & Puma 1995). 
+
+
+
+Parents whose English is limited are often discouraged from full participation in their 
+children's education, because of the language barrier and because of their unfamiliarity with the 
+institutional culture of American schools. Yet these obstacles are not insuperable if educators take 
+conscious steps to empower parents. Most obvious, schools can translate parent meetings and 
+informational materials into prevalent community languages. Second, they can offer adult English 
+
+
+
+
+19 
+
+
+
+28 
+
+
+
+classes and family literacy programs. Third, they can make explicit the sociocultural knowledge 
+— the unstated rules and behavioral expectations — that parents need to participate in a range of 
+school activities. Fourth, they can invite parents to volunteer at the school, for example, as 
+instructional aides. Finally, they can enter into power-sharing relationships, encouraging parents 
+to form advocacy groups and enabling them to share in decision-making about school programs 
+and policies (Delgado-Gaitan 1991). 
+
+
+
+Certain pedagogical models, such as developmental bilingual education, also facilitate 
+parental involvement. In a national longitudinal study, Spanish-speaking children in "late-exit" 
+bilingual programs — which used the native language more extensively — were more likely to 
+receive a parent's help with homework than those in "early exit" bilingual and English immersion 
+programs (Ramirez et al. 1991). 
+
+
+
+Shortage of Bilingual and ESL Teachers 
+
+
+
+Enrollments of LEP children are increasing faster than staff can be trained to serve them. 
+The resulting shortage of qualified bilingual and ESL teachers has been called "the single greatest 
+barrier to the improvement of instructional programs for LEP students" (Gold 1992). It also 
+accounts for the continuing neglect of a substantial minority of these children, who receive no 
+special language assistance — in violation of a two-decade-old mandate (see section II. M). 
+
+While teacher certification requirements vary, they generally involve coursework beyond 
+a regular certificate and, for bilingual and sometimes for ESL teachers, proficiency in a second 
+language. Thirty-one states and the District of Columbia offer a certification or endorsement in 
+bilingual education and 41 do so in ESL, while eight credential teachers in neither field 
+(Fleischman et al. 1995). 
+
+
+
+According to the National Education Goals Panel (1995), 40 percent of U.S. teachers had 
+LEP students in their classrooms in 1994. But of these teachers, only 29 percent had received any 
+training - much less certification - in serving LEP students. A 1992 survey found that 93 percent 
+of such teachers were non-Hispanic whites; only 42 percent spoke a native tongue of their LEP 
+
+20 
+
+
+
+O 
+
+ERIC 
+
+
+
+29 
+
+
+
+students; and a mere 10 percent were certified in bilingual education, 8 percent in ESL 
+(Fleischman & Hopstock 1993). 
+
+
+
+National estimates of the shortage of qualified teachers for LEP students range as high as 
+175,000 (GAO 1994). But comprehensive and reliable figures are lacking because most SEAs do 
+not collect such data (Fleischman et al. 1995). The California Department of Education (CDE), 
+one of the few exceptions, reports a four-fold increase in the shortage of bilingual teachers 
+between 1985 and 1995 — to 20,692. The unmet demand is strong in all languages, including 
+Spanish; in some it is acute. For example, in 1994-95, the state had only seven certified bilingual 
+teachers to serve 30,345 Hmong-speaking LEP students. By comparison, California has made 
+somewhat more progress in certifying ESL teachers, but the CDE still estimates a shortage of 
+12,021 to meet current staffing needs (Gold 1995). These figures were calculated before the state's 
+1996 initiative to reduce class sizes. 
+
+
+
+The inadequate supply of bilingual teachers has forced many schools to rely on uncertified 
+aides, whose only qualification in many cases is the ability to speak a language other than English. 
+In 1991-92, nearly three out of five LEP children in high-poverty schools nationwide were taught 
+English reading by such paraprofessionals, most with no education beyond high school (Moss & 
+Puma 1995). 
+
+Growing LEP enrollments naturally pit school districts in competition with each other for 
+qualified staff. In a recent national survey, eight out of ten LEAs reported "some" to "a lot" of 
+difficulty in recruiting bilingual teachers and more than half in recruiting ESL teachers 
+(Fleischman & Hopstock 1993). The National Center for Education Statistics found that it is "very 
+difficult" or "impossible" to find qualified candidates for 38 percent of such positions (Leighton 
+et al. 1995). Nevertheless, according to the 1987-88 Schools and Staffing Survey, only 11 percent 
+of districts paid stipends to attract such teachers and only 26 percent offered free inservice training 
+(Pelavin Associates 1991). 
+
+
+
+
+21 
+
+
+
+30 
+
+
+
+D. Special Status of Native Americans 
+
+The Congress finds that— 
+
+(6) Native Americans and Native American languages (as such terms are defined in section 103 
+of the Native American Languages Act), including native residents of the outlying areas, have a 
+unique status under Federal law that requires special policies within the broad purposes of this 
+Act to serve the education needs of language-minority students in the United States; 
+
+
+
+Native Americans — that is, American Indians, Alaskan Natives, Native Hawaiians, and 
+Native Pacific Islanders — encounter special academic problems that flow from the erosion of their 
+traditional cultures. In particular, "a loss of Native language ability and the wisdom of older 
+generations" is associated with identity confusion and school failure among Native students (Indian 
+Nations at Risk 1991). This compounds the stress such children already feel from the conflicting 
+demands of indigenous and Western values — forcing them "to 'walk in two worlds' with only 
+one language" (Reyhner & Tennant 1995). 
+
+Native American languages have been declining for the past century owing to numerous 
+factors, notably encroachments by the dominant culture and policies of linguistic genocide 
+practiced by federal Indian schools until the 1960s (McCarty, in press). The threat of language 
+extinction appears to be increasing — even on isolated reservations, where tribal tongues survive 
+among elders but many children grow up speaking only English (Crawford 1996a). According to 
+the Alaska Native Language Center, only 20 Native American languages, 11 percent of those still 
+spoken, continue to be learned by the youngest generations (Krauss 1996). The remainder are 
+"moribund"; that is, unless current trends can be reversed, they will soon have no living speakers. 
+
+
+
+Congress sought to counter this threat with the Native American Language Acts of 1990 
+and 1992. The first of these laws states a new federal policy "to preserve, protect, and promote 
+the rights and freedom of Native Americans to use, practice, and develop Native American 
+languages" as a matter of "self-determination" (P.L. 101-477). The second authorizes a grant 
+program to assist Indian tribes and other Native organizations in preserving and revitalizing 
+endangered languages (P.L. 102-524). 
+
+
+
+
+22 
+
+
+
+31 
+
+
+
+While most Native American students are English-dominant today, many remain LEP due 
+to the influence of indigenous vernaculars and nonstandard English dialects 7 (Leap 1993). This 
+special situation was not fully recognized by Congress until 1978, when the Bilingual Education 
+Act's definition of limited English proficiency was expanded to address the unique needs of Native 
+Americans. Early Title VII programs for such students tended to stress a rapid transition to 
+English. On average, they featured significantly more English instruction and significantly less 
+native-language instruction than bilingual programs serving other ethnic groups (Rudes et al. 
+1988). 
+
+
+
+Nevertheless, programs that nurture rather than neglect the indigenous vernacular now 
+appear more promising as educational models for Native American students. These approaches, 
+such as two-way and developmental bilingual education and Native-language immersion, can 
+provide an antidote for children's cultural disorientation — a malady associated with the growing 
+incidence of language loss. Consequently, such "bilingual programs are [as] concerned with 
+reversing the shift toward English as with facilitating its acquisition" (McCarty, in press). 
+Bilingualism thus becomes both an educational goal and a pedagogical means. A growing number 
+of Native American schools have embraced the mission of revitalizing indigenous languages, often 
+with impressive academic results (for examples, see Ovando & Gourd 1996). 
+
+
+
+E. Teacher Training and the Role of IHEs 
+
+The Congress finds that— 
+
+(7) institutions of higher education can assist in preparing teachers, administrators and other 
+school personnel to understand and build upon the educational strengths and needs of 
+language-minority and culturally diverse student enrollments; 
+
+Institutions of higher education (IHEs) have played an essential role in developing bilingual 
+and ESL staff, thanks in large measure to Title VII support through its teacher-training and 
+graduate fellowship programs. Since there were few qualified bilingual administrators, resource 
+specialists, counselors, curriculum developers, or classroom teachers in 1968, the Bilingual 
+Education Act has historically put great emphasis on professional development. Current law 
+reserves at least 25 percent of the Title VII, Part A, budget for that purpose. 8 
+
+
+
+
+23 
+
+
+
+32 
+
+
+
+The Bilingual Education Fellowship Program, created in 1974 to support study at the 
+graduate level, has produced many of today’s leaders in the field of bilingual education. A 
+follow-up survey of former Title VII fellows determined that 82 percent were working, or had 
+worked, in bilingual-education related activities, such as teacher-training, program administration, 
+and educational research. It also found that 83 percent of Master's fellows, 72 percent of 
+post-Master’s students, and 46 percent of doctoral candidates had completed their degrees 9 
+(MayaTech 1991). 
+
+
+
+Meanwhile, the Bilingual Education Personnel Training Program has been important in 
+supplying teachers who are both certified in methodologies for instructing LEP children and 
+proficient in their native languages. A study of projects funded under this program at 81 IHEs in 
+27 states, determined that approximately half of the 3,403 teachers in training in 1991 could not 
+have continued without Title VII support. Virtually all of the remainder said that without these 
+scholarships it would take them considerably longer to complete their education. As measured by 
+its contribution to the bilingual teacher supply, this program has been remarkably effective. 
+Among recent graduates surveyed, 93 percent had found professional positions in education and 
+77 percent were working with LEP children (Riccobono 1992). 
+
+
+
+Federal funding has been critical in attracting minority teacher candidates, who generally 
+have fewer resources for higher education. But IHEs themselves could show more initiative in this 
+area. A review of 46 teacher-education programs in the Southwest found that attempts to recruit 
+Latinos to the teaching profession "are sporadic at best. Academic support, program counseling, 
+financial, and orientation programs in teacher education seldom target Latino students" (Cox 
+1993). IHEs could also do more to assist paraprofessionals — an important pool of potential 
+bilingual teachers — to overcome financial, academic, and bureaucratic obstacles to becoming 
+certified (Genzuk et al. 1994). 
+
+
+
+Still, there are some salient exceptions. A recent case study identified 12 exemplary IHE 
+programs for training the teachers of LEP students (Leighton et al. 1995). Among their common 
+characteristics are: 
+
+
+
+
+24 
+
+
+
+33 
+
+
+
+■ “high standards for professional performance," but with students allowed time and 
+flexibility to meet them; 
+
+■ "adequate, stable, and long-term financial support"; 
+
+■ a "systemic vision" that gives "high priority to programmatic coherence and 
+coordination of" services for LEP students; 
+
+■ "personnel stability, including employment incentives that take into account multiple 
+forms of productivity"; 
+
+■ close collaboration between school districts and IHEs; and 
+
+■ an orientation that stresses the "preservation of language resources" (Leighton et al. 
+1995). 
+
+Milk et al. (1992) report a growing consensus among IHEs that prospective bilingual and 
+ESL teachers need "to create challenging learning environments for language-minority students." 
+Thus teacher-training should emphasize "practice and assumptions underlying that practice, not 
+... discrete skills." This approach to teaching stresses active and cooperative learning 
+environments, higher-order thinking skills, and contextualized environments for language-learning 
+(Milket al. 1992). 
+
+
+
+F. Title VII Instructional Programs 
+
+The Congress finds that— 
+
+(8) it is the purpose of this title to help ensure that limited English proficient students master 
+English and develop high levels of academic attainment in content areas; 
+
+
+
+English-language instruction is a key component of all bilingual education programs in the 
+United States, whether funded by Title VII or state and local resources (Hopstock et al. 1993a). 
+Yet English acquisition is just one of several critical skills and areas of knowledge that LEP 
+students need to master. Research has shown that mainly stressing English proficiency, in hopes 
+of overcoming students' "language handicap" as quickly as possible, is a recipe for 
+underachievement. In classrooms guided by such thinking, there is frequently an inverse 
+
+
+
+
+25 
+
+
+
+34 
+
+
+
+relationship between the amount of English instruction and the academic progress of LEP students 
+(Cummins 1992; Ramirez 1991). For many years this deficit model of schooling confined minority 
+children to a prison of low expectations, while their English-speaking peers were learning critical 
+thinking skills (Hakuta et al. 1993). 
+
+Title VII's mission is to help schools make the curriculum accessible to LEP students, by 
+teaching English and by providing bilingual or "sheltered English" instruction to make subjects 
+comprehensible. Many researchers now recommend a combination of both approaches, not only 
+to provide access to academic content, but also to teach children a second language without 
+replacing their first (see, e.g., Ramirez 1991). Meanwhile, there is a growing body of evidence 
+that developing students' native language skills supports their acquisition of English. 
+
+While this may seem counterintuitive, the linguistic theory underlying bilingual education 
+is straightforward, if not widely understood. As Krashen (1996) explains: 
+
+We acquire language by understanding messages, by obtaining comprehensible input. 
+
+Similarly, we develop literacy from reading. ... When we give children quality education 
+
+in their primary language, we give them two things: 
+
+1. Knowledge, both general knowledge of the world and subject-matter knowledge, 
+
+[which] helps make the English they hear more comprehensible. This results in more 
+English acquisition. 
+
+2. Literacy, which transfers across languages. Here is a simple, three-step argument: ... 
+
+(1) We learn to read by reading, by making sense of what we see on the page. (2) If 
+we learn to read by reading, it will be much easier to learn to read in a language we 
+already understand. (3) Once you can read, you can read. The ability to read transfers 
+across languages [emphasis added]. 
+
+Empirical studies have documented the transferability of skills between a variety of 
+languages — several are summarized by Krashen (1996) and Cummins (1988) — as well as the 
+academic benefits of well-designed bilingual programs (see section II. G). Thus fears that 
+native-language instruction is a distraction from English appear to be groundless. 
+
+
+
+26 
+
+
+
+ERiC 
+
+
+
+35 
+
+
+
+Fallacy: The more children are exposed to English, the more English they will learn . 10 
+
+
+
+This idea sounds like nothing more than common sense. Wouldn't a full day's instruction 
+in any subject yield faster progress than a half day's instruction? Not when it comes to language. 
+There is no credible research to support the "time on task" theory of English acquisition — which 
+has recently been abandoned by some of its best-known proponents (Rossell & Baker 1996). As 
+noted above, second-language input must be comprehensible to lead to acquisition; otherwise it 
+amounts to meaningless noise. Research suggests that language acquisition is a natural process that 
+cannot be speeded up (Collier & Thomas 1989) — although no doubt it can be slowed down 
+through inappropriate schooling. 
+
+Some critics of bilingual education (e.g., Porter 1996) have cited as evidence for the time- 
+on-task notion a report by the New York City Board of Education (1994), in which LEP children 
+in ESL-only programs were reassigned to mainstream classrooms more rapidly than those in 
+bilingual programs. Yet this "study" falls short of minimal standards of educational research, 
+failing to control for ethnicity, family income, parental literacy, and other factors that can affect 
+student performance. In effect, the report compares Spanish-speaking students (largely enrolled 
+in bilingual classrooms) with Russian- , Chinese- , and Japanese-speaking students (largely 
+enrolled in ESL programs), without considering socioeconomic differences among these groups 
+(Krashen 1996). 
+
+Fallacy: LEP children are retained "too long" in bilingual classrooms, at the expense of English 
+acquisition . 11 
+
+Research over the past two decades has determined that, despite appearances, it takes 
+children a long time to attain proficiency in a second language — especially the kind of 
+decontextualized language needed to succeed in school. Often LEP students are quick to learn the 
+conversational English used on the playground. But they normally need four to seven years to 
+acquire academic English, if provided quality bilingual education, or seven to ten years, if 
+provided only ESL instruction (Collier & Thomas 1989). 
+
+
+
+
+27 
+
+
+
+c Vi 
+
+
+
+38 
+
+
+
+For Title VII policy the implications are clear. Developmental bilingual programs — which 
+emphasize a gradual transition to English and offer native-language instruction (in declining 
+amounts) through the 5th or 6th grade — provide continuity in children's cognitive growth and lay 
+a foundation for academic success in the second language. By contrast, English-only approaches 
+and quick-exit bilingual programs can interrupt that growth at a crucial stage, with negative effects 
+on achievement (Cummins 1992). 
+
+Fallacy: School districts provide bilingual instruction in scores of native languages n 
+
+Where LEP children are linguistically diverse, rarely are there sufficient numbers of each 
+language group to make bilingual instruction practical for everyone. But in any case, the shortage 
+of qualified teachers usually makes it impossible. For example, in 1994 California enrolled 
+recently arrived immigrants from 136 different countries, but bilingual teachers were certified in 
+only 17 languages — 96 percent of them in Spanish (CDE 1995). To the extent that LEP children 
+received help in other tongues, they received it almost entirely from paraprofessionals. 
+
+Fallacy: Bilingual education means instruction mainly in students' native language, with little 
+instruction in English . 13 
+
+
+
+Before 1994, the vast majority of U.S. bilingual education programs were transitional 
+(TBE). That is, they encouraged an early exit to mainstream, English-language classrooms. Over 
+the years, only a tiny fraction of bilingual educational programs were developmental (DBE) — 
+designed to maintain the native tongues of LEP students. In 1978, Congress eliminated Title VII 
+funding for such programs altogether. In 1984, it reopened the door to a small number of DBE 
+grants and also authorized grants for special alternative instructional programs (SAIPs) using only 
+English. From FY1985 through FY1992, 73.4 percent of Title VII, Part A, funding for 
+instructional programs supported TBE, 12.4 percent supported SAIPs, and 1.6 percent supported 
+DBE. 14 In 1994, Congress eliminated these grant categories in favor of holistic program models. 
+
+
+
+Today a majority of bilingual programs continue to deliver a substantial portion of the 
+curriculum in English. According to the Descriptive Study of Services, school districts reported 
+that 28 percent of LEP elementary school students receive no native-language instruction at all. 
+Among the remainder — those who receive some form of bilingual education — about a third are 
+
+28 
+
+
+
+
+37 
+
+
+
+taught in English more than 75 percent of the time; a third, from 40 to 75 percent in English; and 
+a third less than 40 percent in English. LEP secondary school students are considerably less likely 
+to be instructed in their native language (Hopstock et al. 1993a). 
+
+The Prospects study also noted a tendency for the amount of native-language instruction 
+to decline over the school year. In 3rd grade bilingual programs surveyed, teachers reported using 
+the native language 70 percent of the time in the beginning of the year and only 14 percent by the 
+end (Moss & Puma 1995). 
+
+Fallacy: Bilingual education is far more costly than English-language instruction. 
+
+By one widely circulated claim, the nation spends $12 billion a year on bilingual education 
+programs at the federal, state, and local levels. 15 This estimate was calculated by multiplying the 
+nation's average per pupil expenditure by the estimated number of LEP students in the United 
+States. It is erroneous and misleading, for three reasons. 
+
+First, there are no uniform or reliable figures on most state and local spending for bilingual 
+education. But we do know that the federal government's contribution has declined over the past 
+two decades, while the LEP student population was growing dramatically. The FY1996 budget 
+for Title VII, Part A, is $128 million, a reduction of more than 51 percent from the FY1980 level 
+of $262.4 million (adjusted for inflation; see Chart I). 
+
+Second, an unfortunate lack of data makes it impossible to estimate reliably the number of 
+LEP students enrolled in bilingual education, "structured immersion," ESL-only, or other 
+approaches in grades K-12 nationwide. 16 But we do know that only a minority participate in the 
+fully bilingual programs recommended by many researchers. In California, the one state that does 
+gather comprehensive enrollment data, fewer than 30 pecent of LEP students were taught 
+academic subjects in their native language, along with ESL, during the 1994-95 school year. And 
+of these students, only about half were in classrooms staffed by certified bilingual and ESL 
+teachers (CDE 1995; see Table III). The remaining 70 percent of LEP students received lesser 
+amounts of native-language assistance. 
+
+
+
+O 
+
+ERIC 
+
+
+
+29 
+
+
+
+38 
+
+
+
+Chart I 
+
+
+
+Title VII Appropriations 
+
+Adjusted for Inflation 
+
+
+
+
+1980 1982 1984 1986 1988 1990 1992 1994 1996 
+
+Fiscal Year 
+
+
+
+Third, the relevant issue here is marginal cost: the expense of bilingual approaches versus 
+that of other educational programs for LEP students. 17 Would it be cheaper, for example, to teach 
+these children exclusively in English, as some critics assume? School costs are difficult to 
+disaggregate, and research on this question has been limited. But a study commissioned by the 
+California state legislature used a sophisticated Resource Cost Model to focus some light on the 
+problem. In a select group of well-implemented programs, Chambers and Parrish (1992) found 
+no budgetary advantage for English-only approaches. To the contrary, it cost about the same ($175 
+to $214) to educate a LEP student in classrooms featuring bilingual or "sheltered English" 
+instruction and $1,198 to provide ESL-only "pullout" programs. 18 The reason for this differential 
+is simple: the pullout approach requires a corps of supplemental teachers, while in-class 
+approaches do not (see Table IV). Nevertheless, ESL pullout remains the method of choice for 
+
+30 
+
+
+
+
+33 
+
+
+
+
+
+many school districts (Hopstock et al. 1993a), especially where LEP students are diverse, owing 
+to shortages of bilingual teachers and a lack of expertise in bilingual methodologies. 
+
+
+
+Table III. LEP Students Receiving Instructional Services in California Public Schools, 
+1994-95. 
+
+
+
+LEP Instructional Services 
+
+
+Number 
+
+
+Percent of 
+Students 
+
+
+English Language Development (ELD) 
+Only 
+
+
+161,940 
+
+
+12.8 
+
+
+ELD and "sheltered English" 
+instruction 
+
+
+183,105 
+
+
+14.5 
+
+
+ELD, sheltered English, and primary 
+language support by paraprofessionals 
+
+
+250,172 
+
+
+19.8 
+
+
+ELD and academic subjects through 
+the primary language 
+
+
+376,633 
+
+
+29.8 
+
+
+Not receiving any special services 
+
+
+291,132 
+
+
+23.1 
+
+
+California totals 
+
+
+1,262,982 
+
+
+100.0 
+
+
+
+Source: CDE 1995. 
+
+
+
+Table IV. Supplemental LEP Education Costs Per Pupil, by Model and Activity, in Selected 
+California Schools. 
+
+
+
+Model Type 
+
+
+Late 
+
+Exit 
+
+Bilingual 
+
+
+Early 
+
+Exit 
+
+Bilingual 
+
+
+Sheltered 
+
+English 
+
+
+ESL 
+
+Pullout 
+
+
+2-Way 
+
+Bilingual 
+
+
+Overall 
+
+Average 
+
+
+Direct Instruction 
+
+
+$59 
+
+
+$20 
+
+
+$3 
+
+
+$1,042 
+
+
+$186 
+
+
+$123 
+
+
+LEP Administration and 
+Support 
+
+
+90 
+
+
+129 
+
+
+106 
+
+
+99 
+
+
+472 
+
+
+120 
+
+
+LEP Assessment 
+
+
+22 
+
+
+43 
+
+
+60 
+
+
+46 
+
+
+24 
+
+
+36 
+
+
+Consultation & Inservice 
+Training 
+
+
+9 
+
+
+22 
+
+
+6 
+
+
+11 
+
+
+194 
+
+
+19 
+
+
+Average Supplemental 
+Costs Per Student 
+
+
+$180 
+
+
+$214 
+
+
+$175 
+
+
+$1,198 
+
+
+$876 
+
+
+$298 
+
+
+
+Source: Chambers & Parrish 1992. 
+
+
+
+
+31 
+
+
+
+Fallacy: Disproportionate dropout rates for Hispanic students demonstrate the failure of 
+bilingual education . 19 
+
+
+
+Hispanic dropout rates remain unacceptably high. Thirty percent of Hispanic youths aged 
+16-24, had failed to complete high school in October 1994, compared with 13 percent of African- 
+Americans and 8 percent of non-Hispanic whites (Hispanic Dropout Project 1996). Research has 
+identified multiple factors associated with this problem, including recent arrival in the United 
+States, family poverty, limited English proficiency, low academic achievement, and being retained 
+in grade (GAO 1994b; Lockwood 1996). No credible studies, however, have identified bilingual 
+education among these risk factors because the program touches only a small minority of Hispanic 
+children. For example, in California, 49 percent of Hispanic students were LEP in 1995 and (as 
+noted in Table III) less than 30 percent of the state's LEP students were enrolled in fully 
+articulated bilingual programs (CDE 1995). 
+
+G. Promoting High Standards and Bilingual Skills 
+
+The Congress finds that— 
+
+(9) quality bilingual education programs enable children and youth to learn English and meet high 
+academic standards including proficiency in more than one language; 
+
+
+
+This finding aptly summarizes the results of a major longitudinal study (Ramirez et al. 
+1991) commissioned by the U.S. Department of Education to compare the effectiveness of 
+"early-exit" bilingual education (TBE), "late-exit" bilingual education (DBE), and English 
+"immersion strategy" (SAIP). Only well-implemented examples of each model were selected for 
+the study. 20 From 1984 to 1988, researchers charted the progress of 2,000 Spanish-speaking 
+students enrolled in these programs in California, Florida, New Jersey, New York, and Texas. 
+While the study's results are too numerous to review in their entirety, 21 they include the following: 
+
+
+
+■ Substantial amounts of native-language instruction do not slow down the acquisition 
+of English-language skills, including literacy. 
+
+■ Contrary to expectations, only 17 percent of children in early-exit programs and 26 
+percent of those in immersion programs had been "mainstreamed" after 4 years. 
+
+
+
+
+32 
+
+
+
+At the outset, early-exit students outperformed immersion students in English reading 
+and mathematics, but there was little difference between the two groups after the 3rd 
+grade. 
+
+
+
+■ Their rates of academic growth roughly paralleled those of English-proficient children 
+in regular classrooms, but their achievement remained below national norms. 
+
+
+
+■ In the late-exit model, growth curves became steeper the longer students remained in 
+the program; their achievement test scores in English reading, English language, and 
+mathematics approached (but did not quite reach) national norms by the 6th grade. 
+
+
+
+■ This pattern was further confirmed by variations among the late-exit programs 
+themselves. In one such program that lapsed into an early-exit model during the study, 
+scores fell off dramatically. 
+
+
+
+David Ramirez, the principal researcher, explains the policy implications: 
+
+If your instructional objective is to help kids stay where they are —around the 25th 
+percentile — then give them immersion or early exit [programs] and they’ll keep their 
+place in society. If your concern is to help kids catch up to the norming population, use 
+more primary language. In the late-exit programs, they’re growing faster in content areas 
+and in English, too. It’s really clear that you will not slow down a child’s acquisition of 
+English by providing large amounts of native-language instruction [quoted in Crawford 
+1992], 
+
+
+
+A review of the Ramirez study by the National Research Council (NRC) questioned the statistical 
+procedures used to compare the late-exit model with the other two approaches and concluded that 
+the research design failed to control for possible pre-existing differences among students and 
+schools. But the NRC endorsed some of the study's major findings, in particular "the importance 
+of primary-language instruction in second-language achievement in language arts and mathematics" 
+(Meyer & Fienberg 1992). 
+
+
+
+Evidence on these points has continued to accumulate. Analyzing the academic progress 
+of 42,000 language-minority students over periods of eight to twelve years, Thomas and Collier 
+(1996) have confirmed many of Ramirez et al.'s (1991) conclusions. This ongoing research 
+compares five well-implemented program types — two-way bilingual education, DBE with 
+
+
+
+ERIC 
+
+
+
+33 
+
+
+
+42 
+
+
+
+sheltered English (content-based ESL), TBE with sheltered English, TBE with traditional 
+(grammar-based) ESL, and traditional ESL pullout alone (see Glossary). The researchers have 
+identified a consistent pattern: students' long-term growth accelerates in proportion to the amount 
+of native language used. The most promising results are being achieved in the two-way bilingual 
+model; the least promising, in the ESL pullout approach (see Chart II). 
+
+
+
+
+34 
+
+
+
+43 
+
+
+
+Chart II 
+
+
+
+GENERAL PATTERN OF K-12 LANGUAGE MINORITY 
+STUDENT ACHIEVEMENT ON STANDARDIZED TESTS 
+IN ENGLISH COMPARED ACROSS FIVE PROGRAM MODELS 
+(Data aggregated from a series of 3-6 year longitudinal studies from 
+well-implemented,, mature programs in five school districts 
+and from the Ramirez 1991 dataset) 
+
+© Wayne P.Thomas & Virginia P. Collier, 1995 
+
+
+
+Program 1: Two-way developmental bilingual education (BE) 
+
+Program 2: Late-exit bilingual education + ESL taught through academic content 
+Program 3: Early-exit bilingual education + ESL taught through academic content 
+Program 4: Early-exit bilingual education + ESL taught traditionally 
+Program 5: ESL pullout - taught traditionally 
+
+
+
+70 
+
+
+
+
+GRADE 
+
+A 
+
+
+
+
+35 
+
+
+
+44 
+
+
+
+Fallacy: Research remains inconclusive on the benefits of bilingual education. 
+
+
+
+Some critics argue that the great majority of bilingual program evaluations are so 
+egregiously flawed that their findings are useless. After reviewing 300 such studies, Rossell and 
+Baker (1996) judged only 72 to be "methodologically acceptable." Of these, they determined that 
+a mere 22 percent supported the superiority of TBE over "regular instruction" (sink-or-swim) in 
+English reading, 9 percent in math, and 7 percent in language. Moreover, they concluded that 
+"TBE is never better than structured immersion" in English. In other words, they could find little 
+evidence that bilingual education "works." 
+
+
+
+Yet a close analysis of Rossell and Baker's claims reveals some serious flaws of their own. 
+Krashen (1996) questions the rigor of several studies the reviewers included as "methodologically 
+acceptable" — all unfavorable to bilingual education and many unpublished in the professional 
+literature. Moreover, Rossell and Baker relied heavily on program evaluations from the 1970s, 
+when bilingual pedagogies were considerably less developed than they are today. Compounding 
+these weaknesses is their narrative review technique, which simply "counts the votes" for or 
+against a program alternative — a method that leaves considerable room for subjectivity and 
+reviewer bias (Dunkel 1990). Meta-analysis, a more objective method that weighs numerous 
+variables in each study under review, has yielded more positive findings about bilingual education 
+(Willig 1985). 22 
+
+
+
+Most important, Krashen (1996) shows that Rossell and Baker are content to compare 
+programs by label, with little consideration of the actual pedagogies being applied. They treat as 
+equivalent all approaches called TBE, even though few program details are available in many of 
+the studies under review. Researchers who take the time to visit real classroom^ 3 understand how 
+dangerous such assumptions can be. According to Hopstock et al. (1993a), "When actual practices 
+... are examined, a 'bilingual education' program might provide more instruction in English than 
+...an 'English as a second language' program." Moreover, from a qualitative perspective, LEP 
+programs vary considerably in how (one or both) languages are integrated into the curriculum and 
+into the social context of the school. Finally, simplistic labels are misleading because "bilingual" 
+and "immersion" techniques are not mutually exclusive; several studies have shown that successful 
+programs make extensive use of both (see, e.g., Thomas & Collier 1996, Ramirez 1991). 
+
+36 
+
+
+
+O 
+
+ERIC 
+
+
+
+45 
+
+
+
+Even when program descriptions are available, Rossell and Baker sometimes ignore them. 
+For example, they cite a "bilingual immersion" program in El Paso as a superior English-only 
+("submersion") approach, although it included 90 minutes of Spanish instruction each day in 
+addition to sheltered English. The researchers also include in their review several studies of 
+French immersion in Canada, which they equate with all-English, structured immersion programs 
+in the United States. Yet, as the Canadian program designers have repeatedly stressed, these 
+models are bilingual in both methods and goals, and they serve language-majority students with 
+needs that are quite distinct from those of LEP students in this country . (Cummins 1989). 
+Nevertheless, lacking any credible research demonstrating the superiority of structured immersion 
+in the U.S.A., 24 Rossell and Baker rely heavily on the Canadian "evidence" in justifying their 
+preference for this approach. 
+
+
+
+Their study is worth noting, not because it enjoys credibility among other researchers in 
+language-minority education, but because this type of review has played a disproportionate role 
+in discussions of Title VII policy. While the field as a whole has moved beyond a narrow emphasis 
+on language of instruction, such critics continue to treat it as the only significant program variable. 
+Evaluation studies are categorized as "pro-bilingual" or "anti-bilingual" — as votes for or against 
+program labels — rather than analyzed for lessons about effective schooling. The result has been 
+to politicize and polarize the question of how best to serve LEP students. 25 
+
+H. National Need for Language Resources 
+
+The Congress finds that— 
+
+(10) as the world becomes increasingly interdependent and as international communication 
+becomes a daily occurrence in government, business, commerce, and family life, multilingual skills 
+constitute an important national resource which deserves protection and development; 
+
+Competence in multiple languages is an obvious necessity in diplomacy, national security, 
+and the global marketplace. Yet with its persistent rates of monolingualism, the United States 
+could be described as an underdeveloped country when it comes to language resources. Hence the 
+concern, articulated by a Presidential commission in 1979, that "Americans' gross inadequacy in 
+foreign-language skills is nothing short of scandalous, and it is getting worse" (Simon 1980). 
+Following this warning, U.S. colleges strengthened their language requirements and thereby 
+boosted enrollments in the study of non-English languages, from 23 percent of secondary school 
+
+
+
+
+37 
+
+
+
+students in 1982 to 38 percent in 1990 (Draper 1991). Nevertheless, traditional foreign-language 
+instruction is failing to produce enough graduates with the communicative skills needed by U.S. 
+businesses and government. 26 How extensive is the unmet demand? For the most part, research 
+on this question has been limited to case studies covering small samples of employers. Still, a few 
+conclusions can be stated with confidence: 
+
+
+
+■ "U.S. corporations are beginning to value second language proficiency more highly," 
+especially for its role in sensitizing employees to other cultures (Adelman 1994). 
+
+■ In their international operations, large businesses tend to meet their language needs by 
+hiring foreign nationals and providing American overseas managers with brief courses 
+in conversational skills, primarily for "goodwill" and "social adaptation" (Garcia & 
+Otheguy 1994). 
+
+■ Smaller U.S. concerns — the major source of domestic job growth in recent years — 
+must rely more heavily on multilingual employees to increase opportunities for trade 
+and foreign investment (Fixman 1989). 
+
+■ While English continues to expand as the dominant language of international business, 
+it is hardly the only language. Competitors of U.S. firms in Europe, Japan, and Latin 
+America increasingly demand that business be conducted in their national languages 
+for reasons of cultural identity and economic advantage (Garcia & Otheguy 1994). 
+
+
+
+■ The federal government has a broad range of positions requiring language competence, 
+especially in the State, Defense, Agriculture, and Commerce departments and in 
+various security and information agencies. Unable to rely on the U.S. educational 
+system, federal agencies provide their own language training, at considerable cost, but 
+proficient personnel remain scarce in numerous critical languages (Clifford & Fischer 
+1990). 
+
+
+
+Ironically, the unmet demand for foreign language competence comes at a time when these 
+very skills are being imported, gratis, by increasing numbers of immigrants to the United States. 
+Yet American business and government have largely failed to tap the language resources of 
+minority communities (Brecht & Walton 1994). 
+
+
+
+O 
+
+ERIC 
+
+
+
+38 
+
+
+
+I. Educational Technology and LEP students 
+
+The Congress finds that— 
+
+(1 1) educational technology has the potential for improving the education of language-minority’ 
+and limited English proficient students and their families, and the Federal Government should 
+foster this development; 
+
+New learning technologies are transforming many American schools, facilitated by the 
+increased availability of computers in the classroom. Yet there are considerable disparities in 
+access. A 1988 study by the Office of Technology Assessment found that minority students were 
+less likely to have the use of computers, while "LEP students have the lowest access of all" 
+(Dunkel 1990). So resource inequities cloud the bright predictions for these new tools. 
+
+
+
+Studies over the past two decades have documented real, albeit modest, benefits of 
+educational technologies among all students, although studies on their effectiveness among LEP 
+students have been limited. Researchers have nevertheless cited numerous ways in which 
+computer-based innovations — such as multimedia, word processing, desktop publishing, email, 
+and the World Wide Web — promise to enhance achievement for language-minority children 
+(Soska 1994). This potential is not intrinsic to the technologies themselves, but to the 
+school-improvement strategies in which they are deployed. These include: 
+
+
+
+H Multicultural literacy. Relatively inexpensive tools like email can link classrooms on 
+several continents. Cummins and Sayers (1995) describe several such partnerships that 
+enable students to interact with peers from other cultures. Some of these involve 
+parents in intergenerational literacy efforts. The researchers report that "global learning 
+networks" have helped children both to confront their prejudices about other groups 
+and to better appreciate their own cultures. 
+
+
+
+■ Interactive and cooperative learning. Creative uses of technology can address a 
+weakness of many LEP programs: teacher-centered approaches stressing rote 
+memorization, closed-ended activities, and a passive learning environment. Such 
+methods are especially inappropriate for LEP students, who need interactive 
+environments to foster second-language acquisition and higher-order thinking skills 
+(Ramirez et al. 1991; Dolson & Mayer 1992). Computer-assisted instruction can make 
+matters worse — for example, when used solely to drill students in "skill-building" 
+exercises. But it can also support alternative approaches. New technologies such as 
+hypermedia enable children "to link information together in multiple ways," creating 
+
+39 
+
+
+
+O 
+
+ERIC 
+
+
+
+48 
+
+
+
+open-ended learning opportunities that encourage critical thinking, student-directed 
+activities, and collaboration with peers. Hypermedia can also provide meaningful 
+contexts and whole-language environments for English acquisition (Bermudez & 
+Palumbo 1994). 
+
+■ Improved assessment. New technologies can help schools overcome difficulties in 
+language and academic assessments of LEP students. Telecommunications tools such 
+as modems, satellites, and computer networks now make expert help available on-line 
+and encourage long-distance collaboration among educators. Computer software can 
+also improve alternative assessments. Using multimedia, LEP students can assemble 
+oral, visual, and written portfolios demonstrating their conversational skills, problem- 
+solving abilities, and other work products that display their linguistic and academic 
+competencies (Zehler 1995). 
+
+
+
+Expense can pose a significant obstacle to realizing the potential of such technologies 
+(Dunkel 1990). This problem is most acute in urban schools, where LEP and language-minority 
+youth are concentrated. Moreover, the novelty of these tools should not divert attention and 
+funding from "low tech" approaches of proven effectiveness — in particular, encouraging children 
+to read books on their own. Krashen (1993) cites numerous studies that found a strong correlation 
+between free voluntary reading and literacy development, an effect that is especially strong for 
+second-language learners. Yet LEP children often have limited access to print. In the Ramirez 
+study (1991), language-minority students came from low-income homes with an average of just 
+22 books for all family members. Meanwhile, school libraries — for many students, the main 
+source of free reading material — are chronically underfunded. One Southern California study 
+found that most school libraries serving large Hispanic enrollments had only 2.2 to 5.5 books per 
+child and an average of 0.1 to 1 in Spanish (Pucci 1994, cited in Krashen 1996). Improving that 
+ratio would not only encourage students to read more; it could also prove a cost-effective 
+alternative to computer-assisted reading instruction. 
+
+J. Parent Involvement 
+
+The Congress finds that— 
+
+(12) parent and community participation in bilingual education programs contributes to program 
+effectiveness; 
+
+
+
+ERIC 
+
+iamaffamiaaa 
+
+
+
+40 
+
+
+
+When parents participate in their children's education — for example, by helping with 
+homework, attending school events, conferring with teachers, serving as volunteers, or 
+participating in school governance — low-income, language-minority students are considerably 
+more likely to succeed. Parent involvement is associated with numerous benefits: sustained gains 
+in academic achievement, enhanced English-language skills, increased cognitive growth, improved 
+behavior in school, better home-school relationships, more favorable attitudes toward school, and 
+higher self-concept, among others (Bermudez & Marquez 1996; Tse 1996). 
+
+
+
+Nevertheless, there are numerous barriers to language-minority parent participation. These 
+include not only limited English skills and unfamiliarity with the culture of American schools ( see 
+section II. C), but also family mobility, work schedules, lack of self-confidence, negative personal 
+experiences with education, and insensitivity of school personnel (Delgado-Gaitan 1991; Bermudez 
+& Marquez 1996). So special efforts are needed to involve such parents; these are a component 
+of most successful programs for LEP children, as testified by a host of recent of case studies (e.g., 
+Kang et al. 1996; Navarette 1996). 27 
+
+
+
+One promising approach, supported by Title VII grants since 1984, is the Family English 
+Literacy Program. An alternative to traditional ESL classes, such projects target the needs of LEP 
+parents with children in Title VII classrooms. Family literacy efforts encourage parent 
+participation in various ways, such as stressing parent-child reading activities, teaching second 
+languages through practical activities, and offering opportunities to develop literacy skills in the 
+native language. In a study of 54 Family English Literacy projects, a majority of parents reported 
+that their English had improved in various practical domains. They also cited increased abilities 
+to help with children's homework, better communication within the family, more involvement with 
+the school, and — as a result — enhanced student achievement (Atlantic Research Corp. 1991). 
+
+
+
+A salient feature of exemplary parent-involvement programs has been respect for cultural 
+diversity and active efforts to strengthen the native language in the home (McCollum & Russo 
+1993). This represents a departure from deficit-model approaches that stress English above all else 
+and encourage language-minority parents to use the second language at home with their children. 
+Recent research has shown that, when parents' English is limited, they serve as poor models for 
+children acquiring the language. More important, LEP students already feel social pressures to 
+
+
+
+
+41 
+
+
+
+50 
+
+
+
+relinquish their home language — sometimes intensified by English-only preschools — which can 
+retard their cognitive and linguistic development. Home language loss can also have "serious 
+[negative] consequences for parent-child relationships" (Wong Fillmore 1991). 
+
+Fallacy: Language-minority parents do not support bilingual education because they feel it is 
+more important for their children to learn English than to maintain the native language. 
+
+Naturally, when pollsters place these goals in opposition (e.g., LaVelle 1996), immigrant 
+parents will opt for English by wide margins. Who knows better the imperative of second- 
+language acquisition than those who struggle with language barriers on a daily basis? 28 But the 
+premise of such surveys is false. Truly bilingual programs seek to cultivate proficiency in both 
+tongues, and research has shown that students' native language can be maintained and developed 
+at no cost to English. When polled on the principles underlying bilingual education — e.g., 
+"developing literacy in the first language facilitates literacy development in English" or 
+"bilingualism offers cognitive and career-related advantages" — a majority of parents are strongly 
+in favor of such approaches (see Krashen 1996 for a review of several studies). 
+
+
+
+K. Improving Research, Evaluation, and Data Collection 
+
+The Congress finds that— 
+
+(13) research, evaluation, and data-collection capabilities in the field of bilingual education need 
+to be strengthened so that educators and other staff can better identify and promote those 
+programs, program implementation strategies, and instructional practices that result in effective 
+education of limited English proficient children; 
+
+Research 
+
+
+
+Federally funded research on the education of LEP students has historically stressed 
+massive, time-consuming, and costly attempts to answer a narrow policy question: Which program 
+alternative "works" best — bilingual or English-only instruction — and thus deserves the lion's 
+share of Title VII funding (August & Hakuta 1997). Yet, as described above, program-evaluation 
+research is prone to inherent difficulties in design and execution — not least the diversity of 
+language-minority communities, students, and the schools that serve them. Large-scale 
+comparisons are problematic when the same program model often yields different results in 
+
+
+
+
+
+42 
+
+
+
+different social contexts (Meyer & Fienberg 1992). More important, the theoretical framework 
+of such research is too constricted to explore a range of questions about learning. It tends to 
+neglect the complex interactions between linguistic and cognitive growth and between language 
+usage and social inequality, which help to shape LEP children's educational experience. Finally, 
+by focusing heavily on language of instruction, it tends to reduce other program components to 
+insignificance, including effective practices developed through classroom experience. 
+
+After investigating the history of bilingual education research over the past 25 years, the 
+National Research Council concluded that: 
+
+
+
+There is little value in conducting evaluations to determine which type of program is best. 
+The key issue is not finding a program that works for all children and all localities, but 
+rather finding a set of program components that works for the children in the community 
+of interest, given that community's goals, demographics, and resources [August & Hakuta 
+1997], 
+
+
+
+The NRC seconded the recommendation of the Stanford Working Group, a panel of researchers 
+and policy analysts in language-minority education, which called for studies that are coordinated 
+more closely with the needs of practitioners, such as "the development of theoretically sound, 
+appropriate assessments to measure the mastery of LEP students in meeting . . . national content 
+standards" (Hakuta et al. 1993). 
+
+
+
+Evaluation 
+
+
+
+Title VII's evaluation component has long been identified as a weak link in the program. 
+A majority of project evaluations conducted before the mid-1980s were of such poor quality that 
+they offered little guidance to educators or policy-makers (Talmadge et al. 1987). Congress 
+responded in 1984 by authorizing two Evaluation Assistance Centers to assist local school 
+districts, and in 1986 the Department of Education issued detailed requirements for evaluating 
+Title VII projects. Nevertheless, significant problems persist. A recent study concluded that most 
+evaluations focus primarily on outcomes — information such as test scores that can be valuable for 
+accountability purposes. Meanwhile, they neglect process — information about staffing, 
+
+
+
+
+
+43 
+
+
+
+52 
+
+
+
+curriculum, facilities, and other factors that can be valuable for program improvement. In other 
+words, Title VII evaluations tend to favor the needs of the grantor over those of the grantee. Yet 
+limited use is made of the end-product, either in reviewing grant applications or in analyzing 
+policy issues of interest to the field. Moreover, the amount of resources available — an average 
+of $3,000 to $4,000 and four to five days of a professional evaluator's time — are insufficient to 
+yield meaningful findings, especially in process evaluation (Hopstock et al. 1993b). 
+
+Data Collection 
+
+Data collection on language-minority education, another problematic area, is handicapped 
+by such factors as difficulties in appropriate assessment, inadequate record-keeping, and uneven 
+reporting by SEAs. Most LEP children have been excluded from the National Assessment of 
+Educational Progress (NAEP) for lack of accommodations, such as native-language instruments, 
+to make the tests meaningful. 29 NAEP has recently begun to address these problems (Olson & 
+Goldstein 1996). 
+
+
+
+The annual SEA Survey, required for Title VII state grantees, currently yields a limited 
+range of information about LEP students — numbers identified in public and private schools; 
+enrollments in federal, state or local programs; achievement test scores; grade retention rates; and 
+identification techniques. Unfortunately, a lack of uniform definitions and reporting procedures 
+renders much of these data questionable (Donly et al. 1995). Certain states take a more rigorous 
+approach — notably California, which requires LEAs to conduct a thorough language census each 
+year (CDE 1995). Following this example, an SEA Survey with enhanced reporting requirements 
+could gather better-quality national data in additional areas of interest to policy-makers — for 
+example, teacher supply and demand, enrollment in various instructional models, and costs of 
+program alternatives. 
+
+
+
+
+44 
+
+53 
+
+
+
+L. Goals of the Title VII Program 
+
+The Congress finds that— 
+
+(14) the use of a child or youth's native language and culture in classroom instruction can — 
+
+(A) promote self-esteem and contribute to academic achievement and learning English by 
+limited English proficient children and youth; 
+
+(B) benefit English-proficient children and youth who also participate in such programs; 
+
+and 
+
+(C) develop our Nation’s national language resources, thus promoting our Nation's 
+competitiveness in the global economy; 
+
+
+
+Promoting Self-Esteem and Academic Achievement 
+
+
+
+School programs that strive for additive bilingualism — supporting LEP children's native 
+language while they learn English — have proven superior to subtractive approaches not only in 
+cognitive-academic benefits (Ramirez et al. 1991; Lambert 1984) but in sociocultural advantages 
+as well. Such pedagogies do not treat children as "culturally deprived," or "linguistically 
+deficient." Instead, they recognize and build upon the skills, knowledge, and resources that 
+students bring from their homes and communities. Thus additive approaches, if well designed and 
+executed, can have a strong impact on student attitudes toward school and toward themselves. 
+Rather than feeling devalued by their "minority" status, children are encouraged to take pride in 
+their backgrounds, expect to succeed academically, and set high career goals. These are among 
+the potential effects of bilingual programs — summed up as improved self-esteem — and they are 
+correlated with improved achievement, according to a variety of case studies (see, e.g., Garcia 
+1992). 
+
+
+
+Recently some critics have ridiculed concerns about self-esteem as a symptom of indulgent, 
+“feel good” schooling that makes excuses for limited achievers rather than spurring them on to 
+success. Such complaints miss the point. Low self-esteem is a social phenomenon, affecting a 
+sizable percentage of minority children, not just a handful of laggards. It is a syndrome of 
+disempowerment and alienation, exacerbated — if not entirely created — by school experiences 
+such as insensitivity toward minority cultures, low expectations by teachers, and deficit models 
+of education; in short, by institutional racism (Cummins 1989). On the other hand, schools can 
+help to counteract low self-esteem — for example, by incorporating minority languages into the 
+curriculum, encouraging parent and community participation, promoting student-directed learning. 
+
+
+
+ERIC 
+
+
+
+
+54 
+
+
+
+and offering assessments that consider cultural factors, such as students' "disabling" interactions 
+with the school (Cummins 1989). Developmental bilingual approaches are consistent with this 
+orientation; nevertheless, such interventions must be conscious in order to succeed. 
+
+
+
+Fostering Bilingualism and Multicultural Understanding 
+
+
+
+Bilingual education is far more than a remedy for limited English proficiency or a stopgap 
+to keep LEP students from falling behind in other subjects while acquiring a second language. It 
+has great potential, only beginning to be realized, to develop critical language skills that are now 
+in short supply (see section II. H). One promising approach — described variously as two-way 
+bilingual education, dual-language instruction, and bilingual immersion — enrolls both native- 
+English-speaking and LEP students, to the mutual benefit of both groups. Children serve as peer 
+tutors, learning each others' languages more effectively than in traditional foreign-language or 
+ESL instruction. Two-way approaches draw on research in immersion education, which shows that 
+second languages are best acquired naturally, through their use in meaningful communication — 
+for example, through sheltered content instruction in academic subjects, which makes input 
+comprehensible. They also rely on developmental bilingual strategies for cultivating — rather than 
+replacing — the native-language skills of minority students (Christian & Mahrer 1992). 
+
+
+
+These programs can foster fluent bilingualism, at no cost to progress in other subjects, as 
+documented by longitudinal studies in which both LEP and non-LEP students achieved at or above 
+national norms. Indeed, the higher the bilingual proficiency, the higher the academic achievement 
+(Lindholm & Aclan 1991). Minority children appear to benefit in particular from social 
+interactions in the two-way bilingual classroom — not only by mixing with native-English 
+speakers, but also by sharing a valuable resource: their native tongue. Defined by what they know 
+rather than by what they lack, these students tend to develop more positive feelings toward school 
+and toward their own capabilities than their counterparts in traditional LEP programs. Meanwhile, 
+this model stimulates in both groups a greater interest in other cultures and provides a practical 
+key — language — for unlocking them (Merrill 1993). 
+
+Two-way bilingual education is growing rapidly in popularity. From only 30 documented 
+programs in 1987, by 1994-95 it had expanded to 182 schools in 10 states. Spanish is by far the 
+
+
+
+O 
+
+me 
+
+
+
+46 
+
+
+
+55 
+
+
+
+predominant minority language used for instruction, followed by Korean, French, Navajo, 
+Chinese, Arabic, Japanese, Russian, and Portuguese (Christian & Whitcher 1995). 
+
+
+
+M. Title VII and Equal Opportunity 
+
+The Congress finds that— 
+
+(15) the Federal Government, as exemplified by title VI of the Civil Rights Act of 1964 and section 
+204(f) of the Equal Education Opportunities Act of 1974, has a special and continuing obligation 
+to ensure that States and local school districts take appropriate action to provide equal educational 
+opportunities to children and youth of limited English proficiency; 
+
+
+
+A substantial minority of LEP children — estimates range from 22 to 30 percent (Moss & 
+Puma 1995; CDE 1995; Donly et al. 1995; CCSSO 1990) — receive no language assistance 
+whatsoever. That is, as many as 1.1 million children, depending on which estimate of the LEP 
+population one uses, may be receiving neither bilingual nor immersion nor ESL instruction. 30 The 
+Supreme Court has ruled, in Lau v. Nichols (1974), that denial of special help to any LEP child 
+is a violation of that child's civil rights. Schools must take "affirmative steps" to help students 
+overcome language barriers impeding their access to the curriculum. This principle, codified in 
+the Equal Educational Opportunity Act (EEOA) of 1974, has led courts to order numerous school 
+districts to improve their services for LEP children (Jimenez 1992). 
+
+
+
+Nevertheless, there remains considerable unevenness among states, districts, and schools 
+in their commitment to meet this obligation. Some SEAs enforce state mandates to provide 
+bilingual or ESL instruction to LEP students under varying conditions. Still, the major 
+responsibility in civil rights enforcement rests with the U.S. Government. During the 1970s the 
+federal Office for Civil Rights (OCR) aggressively monitored districts for compliance with the Lau 
+decision and required nearly 500 to adopt "Lau Plans" — remedies for their past neglect of LEP 
+students. During the 1980s OCR sharply reduced its Lau enforcement. 31 During the 1990s, as 
+school reform presents new opportunities — and new dangers — for language-minority students 
+(Crawford 1996b), vigorous efforts are still needed to safeguard their civil rights. 
+
+
+
+
+47 
+
+
+
+56 
+
+
+
+Fallacy: Bilingual education is a federal mandate imposed on states and localities , 32 
+
+
+
+Under the Lau decision and the EEOA, a school district is free to adopt any approach in 
+teaching LEP children, provided that it takes "appropriate action" to ensure their access to the 
+curriculum. That is, the program must be (1) based on "a sound educational theory"; (2) 
+"implemented effectively," with adequate staff and resources; and (3) evaluated, after a trial 
+period, as effective in overcoming language barriers ( Castaneda v. Pickard 1981). 33 
+
+
+
+To compete for federal grants under Title VII, local programs were once required to use 
+some form of native-language instruction. But since 1984, a portion of such funding — currently 
+25 percent — may go to support alternative, all-English approaches (P.L. 103-382, Sec. 7116). 
+
+
+
+N. Capacity-Building for Language-Minority Education 
+
+The Congress finds that— 
+
+(16) the Federal Government also, as exemplified by the Federal Government's efforts under this 
+title, has a special and continuing obligation to assist States and local school districts in 
+developing the capacity to provide programs of instruction that offer limited English proficient 
+children and youth an equal educational opportunity. 
+
+Since 1968, the Bilingual Education Act has enabled thousands of schools to create, 
+improve, and sustain instructional programs for LEP students. It has authorized grants to LEAs, 
+not' as permanent subsidies, but as "seed money" to encourage innovative approaches that would 
+become self-supporting. This capacity-building function has been one of Title VII's greatest 
+successes. According to a recent national study, "A great majority of districts surveyed had been 
+able to institutionalize many features of programs initiated with Title VII funding." These included 
+the continuation of bilingual services after federal grants ran out, such as assessment procedures, 
+instructional aides, and materials purchases; sustained support from parents, communities, 
+administrators, and school boards; and permanent inservice training programs (Kim & Lucas 
+1992). 
+
+
+
+Title VII has also helped to disseminate exemplary models and practices through the 
+Academic Excellence Grant Program. These include, for example, effective approaches to using 
+educational technology, involving language-minority parents and communities, and integrating 
+
+48 
+
+O 
+
+ERIC 
+
+
+
+57 
+
+
+
+Native American cultures into the curriculum. Since 1987, such program models have been 
+adopted in an estimated 150 schools, 70 percent of which have reported positive impacts on 
+student achievement (Wilson et al. 1994). 
+
+
+
+The Improving America's Schools Act of 1994 maintains federal support for local capacity- 
+building, but with a new emphasis. Congress recognized that, while Title VII is needed to foster 
+innovative approaches in bilingual education, it cannot do the job alone. SEAs and LEAs must do 
+more to coordinate services for LEP students throughout the full range of federal and state 
+programs, including immigrant education, Indian education, special education, vocational 
+education, migrant education, and — most important in financial terms — Title I. By and large, 
+such programs have poorly addressed the needs of LEP students in the past. Although one-third 
+of these children are "served" by Title I, this has often meant the same remedial instruction that 
+was provided to underachieving, English-speaking children, according to a survey of SEA officials 
+(CCSSO 1990). As for the language barrier, state and local administrators have tended to assume 
+it was a "special problem" that the bilingual program was "taking care of." So they have rarely 
+included LEP children in broader reform initiatives or coordinated efforts between Title I and Title 
+VII (Strang & Carlson 1991). 
+
+
+
+Language-minority students' lack of inclusion in educational planning has frequently 
+resulted in a denial of equal opportunity. In a study of 27 secondary schools in California, for 
+example, Minicucci and Olsen (1992) found that less than 25 percent offered "full [academic] 
+programs for students learning English," while 13 provided "few or no content area classes" for 
+LEP students. 
+
+
+
+Under Title VII, as reauthorized in 1994, capacity-building means enabling school districts 
+to serve LEP students — no longer in isolation, but in the context of efforts to ensure educational 
+equity. Consistent with Goals 2000, the new law requires SEAs and LEAs to strive for the 
+inclusion of language-minority concerns at all levels of school reform. While such efforts "hold 
+promise for improving instruction and learning for all students," attention must be paid to the 
+special situation of LEP students in such areas as standards, assessment, accountability, and 
+educational research. Otherwise, "well-intentioned reforms could jeopardize a generation of 
+progress" for these children (August et al. 1994). 
+
+
+
+
+
+49 
+
+
+
+58 
+
+
+
+III. Conclusion 
+
+
+
+Federal policies on bilingual education, as articulated by the Congressional findings on 
+Title VII, are well supported by scientific research. Such evidence becomes stronger each year. 
+Certainly, much remains to be learned — for example, about how children acquire second 
+languages, how social and cognitive variables affect the process, and how bilingualism interacts 
+with literacy development and academic achievement. More basic research in these areas is 
+necessary to improve the schooling of LEP children. At the same time, studies over the past three 
+decades have laid a solid foundation for bilingual pedagogies. We know that native-language 
+instruction supports — rather than retards — English acquisition, and that quality bilingual 
+programs can help students meet high standards and cultivate valuable language skills. 
+
+Nevertheless, Title VII continues to excite controversy. Bilingual education evokes a nexus 
+of issues — civil rights, immigration policy, ethnic diversity, cultural pluralism, and national 
+identity — that are among the most sensitive of our times. Though far removed from classroom 
+realities, these political conflicts have too often shaped the discussion of language-minority 
+education. Myths and misinformation tend to dominate this debate. Partisan condemnations are 
+issued. Ideologues, not experts, command center stage. 
+
+Porter (1996) describes bilingual education as "a panacea that failed." To the contrary, it 
+is the quest for panaceas that has failed to produce consensus. Not all children learn in the same 
+way, their needs are strikingly diverse. Limited English proficiency is but one among numerous 
+factors - including poverty, family illiteracy, cultural barriers, and institutional racism - that 
+account for underachievement. Thus doctrinaire cure-alls are ineffectual. Worse, they become a 
+prescription for educational neglect, as LEP students long experienced in English-only schools. 
+
+Since 1968, researchers have identified a variety of bilingual program models that have 
+proven successful when adapted to diverse communities. They have also documented a range of 
+effective practices in the bilingual classroom. Pedagogical experimentation is healthy, as Title VII 
+has always recognized. Federal policy must be flexible enough to respect local preferences and 
+to support innovation, while promoting the approaches that seem most promising — according to 
+the best evidence available. Judged by this standard, the Congressional findings on the Bilingual 
+Education Act signify an important advance. 
+
+
+
+
+51 
+
+
+
+59 
+
+
+
+Glossary 
+
+
+
+Language-minority students — children in grades K-12 from homes where a language other than 
+English is spoken. 
+
+Limited-English-proficient (LEP) students — also known as English language learners; 
+language-minority children who have difficulties in speaking, comprehending, reading, or writing 
+English that affect their school performance (see Note 6). 
+
+
+
+Teaching Methods 
+
+Native-language instruction — use of a child's home language (generally by a classroom teacher) 
+to provide lessons in academic subjects or to teach reading and other language arts. 
+
+Native-language support — use of a child's home language (generally by a teacher's aide) to 
+translate unfamiliar terms or otherwise clarify lessons taught in English. 
+
+English as a second language (ESL) — also known as English language development (ELD); 
+various approaches to teaching English, adapted to the needs of minority-language speakers, 
+including: 
+
+Grammar-based ESL — instruction in English that teaches about the language: its structure 
+and vocabulary, typically stressing drills, translation, and conversational exercises. 
+
+Communication-based ESL — teaching English by using the language in meaningful contexts; 
+for example, the Natural Approach, which stresses simplified conversation and visual or 
+physical cues to make English input comprehensible. 
+
+Sheltered English — also known as content-based ESL or immersion; English-language 
+instruction in content areas, adjusted to learners' level of second-language proficiency, 
+enabling them to acquire academic English naturally as they learn academic content. 
+
+
+
+Program Models 
+
+Bilingual education — various models that use both English and native-language instruction to 
+teach school subjects and that feature some form of ESL, including: 
+
+
+
+Transitional bilingual education (TBE) — also known as early-exit bilingual education; a 
+
+model whose primary goal is to "mainstream" students to all-English classrooms; uses native- 
+language instruction to help students keep up in other subjects, but phases in English 
+instruction as quickly as possible (see Note 21 ) . 
+
+Developmental bilingual education (DBE) — also known as maintenance bilingual 
+education; a model whose goals include fluent bilingualism as well as academic excellence; 
+typically phases in English more gradually than TBE and continues to develop students' skills 
+in the native language (through language arts or content-area instruction) after they have 
+become fully English-proficient (see Note 21). 
+
+Two-way bilingual education — also known as dual-language instruction or bilingual 
+immersion; a model that combines DBE for language-minority students and foreign-language 
+immersion for English-proficient students, with the added benefit of peer tutoring; seeks to 
+enable each group to learn the other's vernacular while also meeting high academic standards 
+(see Section U.J.). 
+
+Immersion education — various models that use communication- and content-based approaches 
+to teaching second languages, with little or no use of students' first language, including: 
+
+Special alternative instructional program (SAIP) — also known as structured immersion 
+or immersion strategy; a model in which language-minority, LEP children are taught 
+primarily through sheltered English techniques, with the native language used — if at all — 
+only for purposes of clarification (see Note 21); a subtractive approach that does not promote 
+the development of bilingual skills. 
+
+Foreign-language immersion — a model in which language-majority students are instructed 
+primarily or exclusively through sheltered instruction in a second language, later combined 
+with native-language classes; an additive approach whose goal is functional bilingualism at no 
+cost to academic achievement (e.g., French immersion in Canada; see Section II. G.). 
+
+Native-language immersion — a model in which Native American (or other indigenous) 
+students are taught through sheltered instruction in an endangered language; promotes the 
+goals of revitalizing a community's vernacular and strengthening students' cultural identity, 
+while fostering academic achievement (see Section II. D). 
+
+Submersion — also known as sink or swim; teaching LEP students in mainstream, English- 
+language classrooms that offer no special language assistance; violates civil rights guarantees 
+under the Supreme Court's Lau v. Nichols (1974) decision. 
+
+ESL pullout — supplemental instruction for LEP children removed from submersion classrooms, 
+typically for 30 to 45 minutes each day; usually provided by teachers who do not speak the native 
+language of their students. 
+
+
+
+
+54 
+
+
+
+Notes 
+
+
+
+1. The disparity is significant since, as other studies have determined, a majority of decision-makers rely 
+on newspaper accounts for information on social science research (Weiss & Singer 1987, cited in 
+McQuillan & Tse, in press). 
+
+2. The census questions on language were part of the "long form" sent to a 12 percent sample of the U.S. 
+population in 1980 and 1990. Respondents were asked: "Does this person speak a language other than 
+English at home?" If so, "What language?" and "How well does this person speak English? — Very 
+well? Well? Not well? or Not at all?" 
+
+Unfortunately, these questions are open to various interpretations not intended by the Census 
+Bureau, such as: "Can this person speak, at any level of proficiency, a language other than English?" 
+or "Does this person ever speak another language at home?" Misunderstandings like these may tend 
+to overstate the population of language minorities (e.g., a substantial minority of those who report 
+speaking Spanish at home are of non-Hispanic background; perhaps they have studied the language in 
+school). 
+
+On the other hand, immigrants who marry monolingual English speakers often have no opportunity 
+to speak their first language at home; if so, their native languages go uncounted. In addition, the home 
+language questions require a degree of English literacy to answer, since the written form is mailed and 
+no interviewer is present to explain the purpose of the questions. This may yield an undercount of 
+limited-English speakers — e.g., among American Indians on reservations, where census forms tend 
+to pile up, unanswered, at remote trading posts. 
+
+Finally, self-reports of proficiency in both English and minority languages have been shown to be 
+unreliable when compared with objective measures. For example, they may be "contaminated" by 
+various feelings about ethnicity, such as pride in the native tongue or identification with the dominant 
+culture (Hakuta & D'Andrea 1992). 
+
+Since identical language questions were asked in 1980 and 1990, the responses can still be useful 
+in plotting general trends. Unfortunately, no data about current usage of non-English languages were 
+gathered in censuses from 1930 to 1970 (to the extent they were asked, questions focused on home 
+languages spoken in childhood). Even English proficiency questions were sporadic during this period. 
+
+3. In the 1982 English Language Proficiency Survey, conducted by the Census Bureau for the U.S. 
+Department of Education, there was a strong correlation between persons whose English proficiency 
+was limited and those who rated their English-speaking abilities in the three lowest categories: "well," 
+"not well,” or "not at all" (Kominski 1989, cited in MacArthur 1993). 
+
+4. One obvious pattern is that SEAs with substantial Native American enrollments (e.g., Montana) 
+identify significantly more LEP children than the census. On the other hand, SEAs with small, 
+primarily immigrant populations of language minorities (e.g., South Carolina) identify significantly 
+fewer LEP children than the census (see Table III). 
+
+It is also important to bear in mind that the census asks only about English-speflU/tg ability — not 
+about reading, writing, or listening. Thus the LEP student population is likely to be larger than the 
+number of language-minority youth who report difficulty with English. Taking into account the 
+percentages of this population that scored at the 20th and 40th percentile in reading, Waggoner (1993a) 
+estimates a national LEP enrollment of 5 million to 7.5 million. 
+
+
+
+
+55 
+
+
+
+62 
+
+
+
+5. The Department of Education has never developed detailed standards on how schools should assess 
+children's language proficiency. The statutory definition is as follows: 
+
+The terms 'limited English proficiency' and 'limited English proficient’, when used with reference 
+to an individual, mean an individual— 
+
+(A) who— 
+
+(I) was not born in the United States or whose native language is a language other than English 
+and comes from an environment where a language other than English is dominant; or 
+
+(ii) is a Native American or Alaska Native or who is a native resident of the outlying areas and 
+comes from an environment where a language other than English has had a significant impact on 
+such individual's level of English language proficiency; or 
+
+(iii) is migratory and whose native language is other than English and comes from an 
+environment where a language other than English is dominant; and 
+(B) who has sufficient difficulty speaking, reading, writing, or understanding the English 
+language and whose difficulties may deny such individual the opportunity to learn successfully in 
+classrooms where the language of instruction is English or to participate fully in our society [P.L. 
+103-382, Sec. 7501], 
+
+6. See, e.g., Chavez (1991): "The purpose [of bilingual education] is not to assimilate Hispanic children, 
+however, but to maintain and strengthen their ethnic identity by teaching them in their native language 
+and by inculcating in them their native culture. In the process, these children have become the most 
+segregated students in American public schools, kept apart from their English-speaking peers even after 
+they have acquired basic English skills, sometimes for years." 
+
+7. E.g., these include Hawaiian Creole English, or "Pidgin," as well as varieties of American Indian 
+English. 
+
+8. For FY1996 and FY1997, however, Congress declined to appropriate any funds for professional 
+development. 
+
+9. One explanation for the low rate of graduation among doctoral candidates is that Title VII fellowships 
+are awarded for a maximum of three years, while the average doctoral degree in education takes 8.3 
+years to complete (MayaTech 1991). 
+
+10. See, e.g., Rep. Christopher Cox (R-Calif.): "Under these doctrinaire and disruptive bilingual policies, 
+in too many U.S. schools children who wish to learn English are given only a few minutes of English 
+instruction each day. Ignoring the time-tested wisdom that practice makes perfect, children are taught 
+all day long in the foreign language they already speak, rather than in English" {Congressional Record, 
+Aug. 1, 1996, p. H9751). 
+
+11. See, e.g., Rep. Bill Emerson (R-Mo.): "The goal of bilingual education was and is to help children 
+become fluent in English as quickly as possible. For example, while I recognize that there is a 
+transition period whereby children need time to learn English, I do not agree with some educators and 
+policymakers about the length of the transition period — which some believe should last as long as 8 
+years. Bilingual education was enacted because Congress wants limited English proficient students to 
+quickly learn English and move on" {Congressional Record, March 21, 1994, p. H 171 1). 
+
+
+
+
+56 
+
+63 
+
+
+
+12. See, e.g.. House Speaker Newt Gingrich (R-Ga.): "[A]sk yourself, in an America where their are over 
+80 languages taught in the California schools as the primary language, not as the secondary language 
+but as the primary language, in a country where in Seattle there are 75 languages being taught, in 
+Chicago there are 100; this is not bilingualism, this is a level of confusion which if it were allowed to 
+develop for another 20 or 30 years would literally lead, I think, to the decay of the core parts of our 
+civilization" {Congressional Record, Aug. 1, 1996, p. H9768). 
+
+13. See, e.g., Rep. Joe Knollenberg (R-Mich.): "By teaching young people in their native languages, we 
+are handicapping their performance in a highly competitive arena. Bilingual education may make the 
+school day easier for children speaking English as a second language. However, it creates another class 
+of student unable to read, speak, and write English in an English-speaking society" {Congressional 
+Record, March 21, 1994, p. H1716). 
+
+14. The remaining 12.6 percent supported various other Part A programs, including Family English 
+Literacy, Academic Excellence, and Special Populations grants. Figures are drawn from information 
+provided by OBEMLA to the House Appropriations Committee for FY1985 through FY1992. 
+
+
+
+15. See, e.g., Rep. Toby Roth (R-Wisc.): "Mr. Speaker, much has been said this morning about education 
+and wasting of money. We spend some $12 billion a year in this country, $12 billion a year on 
+bilingual education, which means we teach kids in other than the English language" {Congressional 
+Record, March 13, 1996, p. H2127). 
+
+16. Reliable estimates are available for the number of LEP children enrolled in Title VII, Part A, 
+classrooms — e.g., 349,500 in 1993 (Planning and Evaluation Service 1995). But these federally 
+funded programs, both bilingual and alternative, serve only 10-15 percent of LEP students nationwide. 
+
+17. If the nation did indeed spend $12 billion a year on these students — an amount equivalent to average 
+per pupil expenditures — the marginal cost of special language programs would be zero. That is, they 
+would cost no more than placing children in mainstream classrooms. 
+
+18. Because this was not a random sample, the results are not "generalizable" to all programs for LEP 
+students. Nevertheless, the cost differentials are instructive. 
+
+
+
+19. See, e.g., U.S. News & World Report: "What all these problems [with bilingual programs] add up to 
+is impossible to say precisely, but one statistic is hard to ignore. The high-school dropout rate for 
+Hispanic students is nearly 30 percent. It remains by far the highest of any ethnic group — four times 
+that of whites, three times that of blacks — and it has not budged since bilingual education began" 
+(Sept. 25, 1995, p. 46). 
+
+20. The early-exit programs used English two-thirds of the time in kindergarten, three-fourths of the time 
+in 1st grade, and virtually all the time by 4th grade. The late-exit programs used English less than 10 
+percent of the time in kindergarten, 33 percent in 2nd grade, and 60 percent in grades 4 through 6. 
+Finally, the immersion programs used English 94 to 98 percent of the time, with Spanish used only for 
+purposes of clarification (Ramirez et al. 1991). 
+
+21. For a helpful summary of the Ramirez study and its implications, see Dolson & Mayer 1992. 
+
+
+
+Kj 
+
+
+
+o 
+
+
+
+57 
+
+
+
+22. This study applied meta-analysis to an earlier narrative review by Baker and de Kanter (1981), which 
+— after disqualifying most studies — yielded negative findings about the effectiveness of bilingual 
+instruction. Willig (1985) re-analyzed the same body of research, while statistically controlling for 
+numerous variables that Baker and de Kanter had failed to consider. This meta-analysis found mean 
+"effect sizes" favoring bilingual education over submersion. Perhaps more important, Willig 
+determined that the better the quality of the study, the better the outcome for bilingual programs. 
+
+23. Testifying in a civil-rights lawsuit, Rossell described her 1988 study of LEP student performance in 
+the Berkeley, Calif., schools, which judged the district's ESL program superior to its bilingual 
+education program (Rossell 1990). But she could provide few pedagogical details. Rossell conceded 
+that her conclusions were based on (1) three minutes of classroom observation, (2) brief conversations 
+with teachers, and (3) a partial comparison of test results for about 20 percent of the district’s LEP 
+students ( Teresa P. v. Berkeley Unified School District, Case No. C-87-2396-DU [N.D. Calif. 1989], 
+trial transcript, pp. 12-2074, 2075). 
+
+24. The review cites only one such reference in the published literature — Gersten (1985) — a study 
+involving only 28 immersion students and 16 bilingual students that has drawn sharp criticism from 
+several quarters (see, e.g., Krashen 1996; Cummins 1988). 
+
+25. Rossell and Baker (1996) portray themselves as victims of a politicized "atmosphere in which it is 
+difficult for anyone to criticize current policy in this field" without being regarded as racist. Guilt over 
+the historic abuse of language minority students, they speculate, has encouraged many bilingual 
+education researchers and practitioners to view "any policy which maintains the mother tongue, 
+however inadequately, fas] equitable" (pp. 9-10). Yet they provide no evidence of such ideological bias 
+among those with whom they disagree. Nor do they acknowledge the conservative agenda of the 
+organization that has supported their own work, the Pioneer Institute for Public Policy Research. 
+
+26. One problem is that 94 percent of college students and 98 percent of high school students study just 
+three modern languages: French, Spanish, and German (Brecht & Walton 1994). 
+
+27. These are among several studies in volume 16 of The Journal of Educational Issues of Language 
+Minority Students, a special issue on parent involvement (Summer 1996). 
+
+28. E.g., in a 1985 survey, 98 percent of Hispanics in Dade County, Florida, said that it was essential for 
+their children to "speak and write English perfectly," compared with only 94 percent of Anglo parents 
+(cited in Crawford 1992). 
+
+29. In 1992, only 25 percent of LEP students were assessed in grade 4, 33 percent in grade 8, and 50 
+percent in grade 12. In 1994, these proportions increased to 50 percent, 50 percent, and 66 percent, 
+respectively. Since 1995, NAEP has been working on ways to increase the percentage of LEP students 
+assessed, developing new inclusion criteria and test adaptations that can gauge children’s progress in 
+valid and reliable ways. But field tests indicate that results for LEP students assessed with nonstandard 
+procedures in 1996 will not be comparable to results for other students (Olson & Goldstein 1996). 
+
+30. When LEAs and schools were surveyed directly, they reported that only about 3 percent of LEP 
+students went unserved; for an additional 9 percent, no information about instructional treatment was 
+provided (Fleischman & Hopstock 1993). But SEAs tell a different story. In a survey by the Council 
+
+
+
+
+58 
+
+G5 
+
+
+
+of Chief State School Officers, an average of 29 percent of LEP children received no language 
+assistance in 32 responding states. In four states, more than 60 percent went unserved, and in one, 100 
+percent (CCSSO 1990). 
+
+31. Between 1981 and 1985, school districts were nine times less likely to be monitored for Lau 
+compliance than between 1975 and 1980. OCR's Lau enforcement continued to decline until 1993, 
+although precise figures are unavailable (Crawford 1995). 
+
+32. See, e.g., Rep. Dana Rohrabacher (R-Calif.): "[W]hat laws we have passed, what regulations we have 
+passed in this body, end up mandating, end up forcing, local schools to adopt bilingual education 
+programs whether they want it or not, and it costs them a lot of money" ( Congressional Record, March 
+21, 1994, p. H1717). 
+
+33. OCR has adopted the Castaneda standard, from a 1981 ruling by the 5th U.S. Circuit Court of 
+Appeals, as part of its Lau enforcement policy. 
+
+
+
+
+59 
+
+
+
+66 
+
+
+
+References 
+
+
+
+Adelman, Clifford. 1994. What Employers Expect of College Graduates: International Knowledge 
+and Second Language Skills. Washington, D.C.: U.S. Department of Education, Office of 
+Educational Research and Improvement. 
+
+Anstrom, Kris. 1996. Defining the Limited-English-Proficient Student Population. Directions in 
+Language and Education 1, no. 9 (Summer). Washington, D.C.: National Clearinghouse for 
+Bilingual Education. 
+
+Atlantic Resources Corp. 1991. Final Report: Descriptive Study of the Family English Literacy 
+Program. Reston, Va.: Atlantic Resources Corp. 
+
+August, Diane, & Hakuta, Kenji. 1997. Improving Schooling for Language-Minority Children: 
+A Research Agenda. Washington, D.C.: National Academy Press. 
+
+August, Diane; Hakuta, Kenji; & Pompa, Delia. 1994. For All Students: Limited English 
+Proficient Students and Goals 2000. NCBE Focus, Occasional Papers in Bilingual Education, no. 
+10. Washington, D.C.: National Clearinghouse for Bilingual Education. 
+
+Baker, Keith A., & de Kanter, Adriana A. 1981. Effectiveness of Bilingual Education: A Review 
+of the Literature. Washington, D.C.: U.S. Department of Education. 
+
+Bennici, Frank J., & Strang, William E. 1995. An Analysis of Language Minority and Limited 
+English Proficient Students from NELS:88. Arlington, Va.: Development Associates. 
+
+Bermudez, Andrea B., & Marquez, Judith A. 1996. An Examination of a Four-Way Collaborative 
+to Increase Parental Involvement in the Schools. Journal of Educational Issues of Language 
+Minority Students 16 (Summer): 1-16. 
+
+Bermudez, Andrea B., & Palumbo, David. 1994. Bridging the Gap Between Literacy and 
+Technology: Hypermedia as a Learning Tool for Limited English Proficient Students. Journal of 
+Educational Issues of Language Minority Students 14 (Winter): 165-84. 
+
+Brecht, Richard D., & Walton, A. Ronald. 1994. National Strategic Planning in the Less 
+Commonly Taught Languages. Annals of the American Association of Political and Social Science 
+532 (March): 190-212. 
+
+California Department of Education (CDE), Educational Demographics Unit. 1995. Language 
+Census Report for California Public Schools: 1995. Sacramento: Author. 
+
+Castaneda v. Pickard. 1981. 648 F.2d 989 (5th Cir.). 
+
+
+
+
+61 
+
+
+
+67 
+
+
+
+Census Bureau, U.S. 1995a. The Foreign-Born Population: 1994. Current Population Reports, 
+P20-486. Washington, D.C.: Government Printing Office. 
+
+Census Bureau, U.S. 1995b. Social and Economic Characteristics of Selected Language Groups 
+for U.S. and States: 1990. CPH-L-159. Washington, D.C.: Author. 
+
+Census Bureau, U.S. 1993a. Language Spoken at Home and Ability to Speak English for United 
+States, Regions and States: 1990. CPH-L-133. Washington, D.C.: Author. 
+
+Census Bureau, U.S. 1993b. 1990 Census of Population. CPH-L-96. Washington, D.C.: Author. 
+
+Chambers, Jay, & Parrish, Tom. 1992. Meeting the Challenge of Diversity: An Evaluation of 
+Programs for Pupils with Limited Proficiency in English. Vol. IV, Cost of Programs and Services 
+for LEP Students. Berkeley, Calif.: BW Associates. 
+
+Chavez, Linda. 1991. Out of the Barrio: Toward a New Politics of Hispanic Assimilation. New 
+York: Basic Books. 
+
+Christian, Donna, & Whitcher, Anna. 1995. Directory of Two-Way Bilingual Programs in the 
+United States, rev. ed. Santa Cruz, Calif., and Washington, D.C.: National Center for Research 
+on Cultural Diversity and Second Language Learning. 
+
+Christian, Donna, & Mahrer, Cindy. 1992. Two-Way Bilingual Programs in the United States, 
+1991-1992. Santa Cruz, Calif., and Washington, D.C.: National Center for Research on Cultural 
+Diversity and Second Language Learning. 
+
+Clifford, Ray T., & Fischer, Donald C., Jr. 1990. Foreign Language Needs in the U.S. 
+Government. Annals of the American Association of Political and Social Science 511 (Sept.): 
+109-21. 
+
+Collier, Virginia P., & Thomas, Wayne P. 1989. How Quickly Can Immigrants Become 
+Proficient in School English? Journal of Educational Issues of Language Minority Students 5 
+(Fall): 26-39. 
+
+Commission on Chapter 1. 1992. Making Schools Work for Children in Poverty: A New 
+Framework Prepared by the Commission on Chapter 1. Washington, D.C.: Author. 
+
+Council of Chief State School Officers (CCSSO). 1990. School Success for Limited English 
+Proficient Students. Washington, D.C.: Author. 
+
+Cox, Barbara, ed. 1993. Resolving a Crisis in Education: Latino Teachers for Tomorrow's 
+Classrooms. Claremont, Calif.: Tomas Rivera Center. 
+
+
+
+
+62 
+
+
+
+Crawford, James. 1996a. Seven Hypotheses on Language Loss: Causes and Cures. Stabilizing 
+Indigenous Languages, ed. Gina Cantoni. Flagstaff, Ariz.: Northern Arizona University, Center 
+for Excellence in Education. 
+
+Crawford, James. 1996b. Summing up the Lau Decision: Justice is Never Simple. Revisiting the 
+Lau Decision: 20 Years After. Oakland, Calif.: ARC Associates. 
+
+Crawford, James. 1995. Bilingual Education: History, Politics, Theory, and Practice, 3rd ed. Los 
+Angeles: Bilingual Educational Services. 
+
+Crawford, James. 1992. Hold Your Tongue: Bilingualism and the Politics of "English Only. " 
+Reading, MA: Addison-Wesley. 
+
+Cummins, Jim, & Sayers, Dennis. 1995. Brave New Schools: Challenging Cultural Illiteracy 
+through Global Learning Networks. New York: St. Martin's Press. 
+
+Cummins, Jim. 1992. Bilingual Education and English Immersion: The Ramirez Report in 
+Theoretical Perspective. Bilingual Research Journal 16, nos. 1-2 (Winter/Spring): 91-104. 
+
+Cummins, Jim. 1989. Empowering Minority Students. Sacramento: California Association for 
+Bilingual Education. 
+
+Delgado-Gaitan, Concha. 1991. Involving Parents in the Schools: A Process of Empowerment. 
+American Journal of Education 100, no. 1 (Nov.): 20-46. 
+
+Donato, Ruben et al. 1993. Segregation, Desegregation, and Integration of Chicano Students: 
+Problems and Prospects. Chicano School Failure and Success: Research and Policy Agendas for 
+the 1990s, ed. Richard R. Valencia. New York: Falmer Press. 
+
+Donly, Brenda; Henderson, Allison; & Strang, William. 1995. Summary of Bilingual Education 
+State Education Agency Program Survey of States ' Limited English Proficient Persons and 
+Available Educational Services, 1993-1994. Arlington, Va.: Development Associates. 
+
+Draper, Jamie B. 1991. Foreign Language Enrollments in Public Secondary Schools, Fall 1989 
+and Fall 1990. Yonkers, N.Y.: American Council on the Teaching of Foreign Languages. 
+
+Dunkel, Patricia. 1990. Implications of the CAI Effectiveness Research for Limited English 
+Proficient Learners. Computers in the Schools 7, nos. 1-2: 31-52. 
+
+Fix, Michael, & Passel, Jeffrey S. 1994. Immigration and Immigrants: Setting the Record 
+Straight. Washington, D.C.: Urban Institute. 
+
+Fixman, Carol S. The Foreign Language Needs of U.S. -Based Corporations. Annals of the 
+American Association of Political and Social Science 511 (Sept.): 25-46. 
+
+
+
+Fleischman, Howard L.; Arterburn, Stephen; & Wiens, Elena M. 1995. State Certification 
+Requirements for Teachers of Limited English Proficient Students. Arlington, Va.: Development 
+Associates. 
+
+Fleischman, Howard L., & Hopstock, Paul J. 1993. Descriptive Study of Services to Limited 
+English Proficient Students. Vol. 1 , Executive Summary. Arlington, Va.: Development Associates. 
+
+Garcia, Eugene. 1992. Project THEME: Collaboration for School Improvement at the Middle 
+School for Language Minority Students. Third Research Symposium on Limited English Proficient 
+Student Issues: Focus on Middle and High School Issues. Washington, D.C.: Office of Bilingual 
+Education and Minority Languages Affairs. 
+
+Garcia, Ofelia, & Otheguy, Ricardo. 1994. The Value of Speaking a [Language Other Than 
+English] in U.S. Business. Annals of the American Academy of Political and Social Science 532 
+(March): 99-122. 
+
+General Accounting Office (GAO), U.S. 1994a. Limited English Proficiency: A Growing and 
+Costly Educational Challenge Facing Many School Districts. GAO/HEHS-94-38. Washington, 
+D.C.: Government Printing Office. 
+
+General Accounting Office (GAO), U.S. 1994b. Hispanics' Schooling: Risk Factors for Dropping 
+Out and Barriers to Resuming Education. GAO/PEMD-94-24. Washington, D.C.: Government 
+Printing Office. 
+
+General Accounting Office (GAO), U.S. 1987. Bilingual Education: A New Look at the Research 
+Evidence , GAO/PEMD-87-12BR. Washington, D.C.: Government Printing Office. 
+
+Genzuk, Michael; Ladavenz, Magaly; & Krashen, Stephen. 1994. Para-Educators: A Source for 
+Remedying the Shortage of Teachers for Limited-English-Proficient Students. Journal of 
+Educational Issues of Language Minority Students 14 (Winter): 211-22. 
+
+Gersten, Russell. 1985. Structured Immersion for Language Minority Students: Results of a 
+Longitudinal Evaluation. Educational Evaluation and Policy Analysis 7: 187-97. 
+
+Gold, Norman C. 1995. Bilingual and English Language Development Teachers: Demand, Supply, 
+and Shortage. Sacramento: California Department of Education, Complaints Management and 
+Bilingual Compliance Unit. 
+
+Gold, Norman C. 1992. Solving the Shortage of Bilingual Teachers: Policy Implications of 
+California's Staffing Initiative for LEP Students. Third Research Symposium on Limited English 
+Proficient Student Issues: Focus on Middle and High School Issues. Washington, D.C.: U.S. 
+Department of Education, OBEMLA. 
+
+
+
+
+64 
+
+
+
+70 
+
+
+
+Grimes, Barbara F., ed. In press. Ethnologue: Languages of the World, 13th ed. Dallas: Summer 
+Institute of Linguistics. 
+
+Hakuta, Kenji, et al. 1993. Federal Education Programs for Limited-English-Proficient Students: 
+A Blueprint for the Second Generation. Stanford, Calif.: Stanford Working Group. 
+
+Hakuta, Kenji, & D'Andrea, Daniel. 1992. Some Properties of Bilingual Maintenance and Loss 
+in Mexican Background High-School Students. Applied Linguistics 13, no. 1: 72-99. 
+
+Hispanic Dropout Project. 1996. Data Book. Washington, D.C.: U.S. Department of Education. 
+
+Hopstock, Paul, & Bucaro, Bonnie. 1995. A Review and Analysis of Estimates ofLEP Student 
+Population. Arlington, Va.: Development Associates. 
+
+Hopstock, Paul; Bucaro, Bonnie; Fleischman, Howard L; Zehler, Annette M.; & Eu, Hongsook. 
+1993a. Descriptive Study of Services to Limited English Proficient Students. Vol. 2, Survey 
+Results. Arlington, Va.: Development Associates. 
+
+Hopstock, Paul; Young, Malcolm B.; & Zehler, Annette M. 1993b. Serving Different Masters: 
+Title VII Evaluation Practice and Policy. Vol. 1, Final Report. Arlington, Va.: Development 
+Associates. 
+
+
+
+Indian Nations at Risk Task Force. 1991. Indian Nations at Risk: An Educational Strategy for 
+Action; Final Report. Washington, D.C.: U.S. Department of Education. 
+
+Jimenez, Martha. 1992. The Educational Rights of Language-Minority Children. Language 
+Loyalties: A Source Book on the Official English Controversy, ed. James Crawford. Chicago: 
+University of Chicago Press. 
+
+Kang, Hee-Won; Keuhn, Phyllis; & Herrell, Adrienne. The Hmong Literacy Project: Parents 
+Working to Preserve the Past and Ensure the Future. Journal of Educational Issues of Language 
+Minority Students 16 (Summer): 17-32. 
+
+
+
+Kim, Yungho, & Lucas, Tamara. 1992. Final Report: Descriptive Analysis of Bilingual 
+Instructional Service Capacity Building among Title VII Grantees. Oakland, Calif.: ARC 
+Associates. 
+
+Kominski, Robert. 1989. How Good Is "How Well"? An Examination of the Census 
+English-Speaking Ability Question. Paper presented at the annual meetings of the American 
+Statistical Association, Washington, D.C. 
+
+Kloss, Heinz. 1977. The American Bilingual Tradition. Rowley, Mass.: Newbury House. 
+
+
+
+
+65 
+
+
+
+Krashen, Stephen D. 1996. Under Attack: The Case Against Bilingual Education. Culver City, 
+Calif.: Language Education Associates. 
+
+Krashen, Stephen. 1993. The Power of Reading: Insights from the Research. Englewood, Colo.: 
+Libraries Unlimited. 
+
+Krauss, Michael. 1996. Status of Native American Language Endangerment. Stabilizing 
+Indigenous Languages, ed. Gina Cantoni. Flagstaff: Northern Arizona University. 
+
+Lambert, Wallace D. 1984. An Overview of Issues in Immersion Education. Studies on Immersion 
+Education: A Collection for United States Educators. Sacramento: California State Department of 
+Education, Office of Bilingual Bicultural Education. 
+
+Lau v. Nichols. 1974. 414 U.S. 563. 
+
+LaVelle, Michael. 1996. The Importance of Learning English: A National Survey of Hispanic 
+Parents. Washington, D.C.: Center for Equal Opportunity. 
+
+Leap, William. 1993. American Indian English. Albuquerque: University of New Mexico Press. 
+
+Leighton, Mary S.; Hightower, Amy M.; & Wrigley, Pamela. 1995. Model Strategies in Bilingual 
+Education: Professional Development. Washington, D.C.: Policy Studies Associates. 
+
+Lindholm, Kathryn J., & Aclan, Zierlein. 1991. Bilingual Proficiency as a Bridge to Academic 
+Achievement: Results from Bilingual/Immersion Programs. Journal of Education 173, no. 2: 99- 
+113. 
+
+Lockwood, Anne Turnbaugh. 1996. Caring, Community, and Personalization: Strategies to 
+Combat the Hispanic Dropout Problem. Advances in Hispanic Education, no. 1 (Summer). 
+Washington, D.C.: U.S. Department of Education. 
+
+MacArthur, Edith K. 1993. Language Characteristics and Schooling in the United States, a 
+Changing Picture: 1979 and 1989, NCES 93-699. Washington, D.C.: National Center for 
+Education Statistics. 
+
+McCarty, Teresa L. In press. American Indian, Alaska Native, and Native Hawaiian Bilingual 
+Education. Encyclopedia of Language and Education. Vol. 5, Bilingual Education, ed. Jim 
+Cummins. Dordrecht, The Netherlands: Kluwer. 
+
+McCollum, Heather, & Russo, Alexander. 1993. Model Strategies in Bilingual Education: Family 
+Literacy and Parent Involvement. Washington, D.C.: U.S. Department of Education, Office of 
+the Under Secretary. 
+
+
+
+
+72 
+
+
+
+66 
+
+
+
+McDonnell, Lorraine M., & Hill, Paul T. 1993. Newcomers in American Schools: Meeting the 
+Educational Needs of Immigrant Youth. Santa Monica, Calif.: Rand Corp. 
+
+McQuillan, Jeff, & Tse, Lucy. In press. Does Research Matter? An Analysis of Media Opinion 
+on Bilingual Education, 1984-1994. Bilingual Research Journal. 
+
+MayaTech Corp. 1991. Report to Congress on the Title VII Bilingual Education Fellowship 
+Program, FY 1979 to FY 1987. Silver Spring, Md.: MayaTech Corp. 
+
+Merrill, Craig. 1993. Korean-English Two-Way Bilingual Program Begins in Los Angeles Unified 
+School District. BEOutreach (March): 18-22. 
+
+Meyer, Michael M., & Fienberg, Stephen E., eds. 1992. Assessing Evaluation Studies: The Case 
+of Bilingual Education Strategies. Washington, D.C.: National Academy Press. 
+
+Milk, Robert; Mercado, Carmen; & Sapiens, Alexander. 1992. Re-Thinking the Education of 
+Teachers of Language Minority Children: Developing Reflective Teachers for Changing Schools. 
+NCBE Focus, Occasional Papers in Bilingual Education, no. 6. Washington, D.C.: National 
+Clearinghouse for Bilingual Education. 
+
+Minicucci, Catherine, & Olsen, Laurie. 1992. Meeting the Challenge of Diversity: An Evaluation 
+of Programs for Pupils with Limited Proficiency in English. Vol. V, An Exploratory’ Study of 
+Secondary LEP Programs. Berkeley, Calif.: BW Associates. 
+
+Moss, Marc, & Puma, Michael. 1995. Prospects: The Congressionally Mandated Study of 
+Educational Growth and Opportunity. First Year Report on Language Minority and Limited 
+English Proficient Students. Cambridge, MA: Abt Associates. 
+
+Navarette, Yolanda Gomez. Family Involvement in a Bilingual School. Journal of Educational 
+Issues of Language Minority Students 16 (Summer): 77-83. 
+
+New York City Board of Education. 1994. Educational Progress of Students in Bilingual and ESL 
+Programs: A Longitudinal Study, 1990-1994. New York: Author. 
+
+Office of Bilingual Education and Minority Languages Affairs (OBEMLA), U.S. 1992. The 
+Condition of Bilingual Education in the Nation: A Report to Congress and the President. 
+Washington, D.C.: Author. 
+
+Office of Educational Research and Improvement (OERI), U.S. 1994. What Employers Expect of 
+College Graduates: International Knowledge and Second Language Skills. Education Research 
+Report. Washington, D.C.: Author. 
+
+Olson, John F., & Goldstein, Arnold A. 1996. Increasing the Inclusion of Students with 
+Disabilities and Limited English Proficient Students in NAEP. Focus on NAEP 2, no. 1 (July). 
+
+
+
+O’Malley, J. Michael, & Pierce, Lorraine Valdez. 1994. State Assessment Policies, Practices, and 
+Language Minority Students. Educational Assessment 2, no. 3: 213-55. 
+
+Orfield, Gary; Schley, Sara; Glass, Diane; & Reardon, Sean. 1993. The Growth of Segregation 
+in American Schools: Changing Patterns of Separation and Poverty since 1968. Alexandria, Va.: 
+National School Boards Association. 
+
+Ortiz, Alba A., & Garcia, Shernaz B. 1995. Serving Hispanic Students with Learning Disabilities: 
+Recommended Policies and Practices. Urban Education 29 (Jan.): 471-81. 
+
+Ortiz, Alba A. 1992. Assessing Appropriate and Inappropriate Referral Systems for LEP Special 
+Education Students. Proceedings of the National Research Symposium on Limited English 
+Proficient Student Issues. Vol. 1, Focus on Evaluation and Measurement. Washington, D.C.: 
+Office of Bilingual Education and Minority Languages Affairs. 
+
+Ovando, Carlos J., & Gourd, Karen. 1996. Knowledge Construction, Language Maintenance, 
+Revitalization, and Empowerment. Multicultural Education, Transformative Knowledge, and 
+Action: Historical and Contemporary Perspectives, ed. James A. Banks. New York: Teachers 
+College Press. 
+
+Pelavin Associates. 1991. A Revised Analysis of the Supply of Bilingual and ESL Teachers: An 
+Analysis of Schools and Staffing Survey Data. Washington, D.C.: Pelavin Associates. 
+
+Planning and Evaluation Service, U.S. Department of Education. 1995. Biennial Evaluation 
+Report, Fiscal Years 1993-1994. Washington, D.C.: Government Printing Office. 
+
+Porter, Rosalie. 1996. The Politics of Bilingual Education Revisited. The Failure of Bilingual 
+Education, ed. Jorge Amselle. Washington, D.C.: Center for Equal Opportunity. 
+
+Pucci, Sandra L. 1994. Supporting Spanish Language Literacy: Latino Children and Free Reading 
+Resources in Schools. Bilingual Research Journal 18, nos. 1-2: 67-82. 
+
+Puma, Michael J.; Jones, Calvin C.; Rock, Donald; & Fernandez, Roberto. 1993. Prospects: The 
+Congressionally Mandated Study of Educational Growth and Opportunity, Interim Report. 
+Bethesda, Md.: Abt Associates. 
+
+Ramirez, J. David; Yuen, Sandra D.; Ramey, Dena R.; Pasta, David J.; & Billings, David K. 
+1991. Final Report: Longitudinal Study of Structured Immersion Strategy, Early-Exit, and 
+Late-Exit Transitional Bilingual Education Programs for Language-Minority Children. Executive 
+Summary. San Mateo, Calif.: Aguirre International. 
+
+Reyhner, Jon, & Tennant, Edward. 1995. Maintaining and Renewing Native Languages. Bilingual 
+Research Journal 19: 279-304. 
+
+
+
+
+68 
+
+
+
+74 
+
+
+
+Riccobono, John A.; Holley, Judy A.; Thorne, Judy M.; & Silvia, E. Suyapa. 1992. A National 
+Study of the ESEA Title VII Bilingual Education Personnel Training Program. Final Report. 
+Research Triangle Park, N.C.: Research Triangle Institute. 
+
+Rossell, Christine, & Baker, Keith. 1996. The Educational Effectiveness of Bilingual Education. 
+Research in the Teaching of English 30: 7-74. 
+
+Rossell, Christine. 1990. The Effectiveness of Educational Alternatives for 
+
+Limited-English-Proficient Children. Learning in Two Languages, ed. Gary Imhoff. New 
+Brunswick, N.J.: Transaction Publishers. 
+
+Rudes, Blair A.; Young, Malcolm B.; Shaycoft, Marion F.; Zehler, Annette M.; Day, Harry R.; 
+& Kaplan, Leesa. 1988. Instructional Services for Native American Students with 
+Limited-English-Proficiency . Year One Report of the National Evaluation of Services for 
+Limited-English-Proficient-Native American Students. Arlington, Va.: Development Associates. 
+
+Simon, Paul. 1980. The Tongue-Tied American: Confronting the Foreign Language Crisis. New 
+York: Continuum. 
+
+Soska, Matthew. 1994. An Introduction to Educational Technology. Directions in Language and 
+Education 1, no. 1 (Winter). Washington, D.C.: National Clearinghouse for Bilingual Education. 
+
+Strang, E. William, & Carlson, Elaine. 1991. Providing Chapter 1 Services to Limited-English- 
+Proficient Students: Final Report. Rockville, Md.: Westat, Inc. 
+
+Talmadge, G. K.; Lam, T. C. M., & Gamel, N. N. 1987. The Evaluation of Bilingual Education 
+Programs for Language-Minority, Limited-English Proficient Students: A Status Report with 
+Recommendations for Future Development. Mountain View, Calif.: RMC Research Corp. 
+
+Thomas, Wayne P., & Collier, Virginia P. 1996. Language Minority Student Achievement and 
+Program Effectiveness. Fairfax, Va.: Center for Bilingual/Multicultural/ESL Education, George 
+Mason University. 
+
+Tse, Lucy. Who Decides? The Effect of Language Brokering on Home-School Communication. 
+Journal of Educational Issues of Language Minority Students 16 (Summer): 1-16. 
+
+Veltman, Calvin. The Future of the Spanish Language in the United States. Washington, D.C.: 
+Hispanic Policy Development Project, 1988. 
+
+Vialet, Joyce C. 1991. A Brief History of U.S. Immigration Policy. Washington, D.C.: 
+Congressional Research Service. 
+
+Waggoner, Dorothy. 1996. Educational Attainment of Non-English-Speakers Varies. Numbers and 
+Needs 6, no. 4 (July). 
+
+
+
+
+69 
+
+
+
+75 , 
+
+
+
+Waggoner, Dorothy. 1995a. Language Minority Population Increased by More Than a Third 
+Between 1980 and 1990. Numbers and Needs 5, no. 5 (Sept.). 
+
+Waggoner, Dorothy. 1995b. Are Current Home Speakers of Non-English Languages Learning 
+English? Numbers and Needs 5, no. 6 (Nov.). 
+
+Waggoner, Dorothy. 1995c. New Language Information Reveals Differences by English-Speaking 
+Ability. Numbers and Needs 5, no. 4 (July). 
+
+Waggoner, Dorothy. 1993a. Numbers of School-Agers with Spoken English Difficulty Increase 
+By 83%. Numbers and Needs 3, no. 2 (July). 
+
+Waggoner, Dorothy. 1993b. Fertility Rates Reveal Dramatic Natural Growth of U.S. Minorities. 
+Numbers and Needs 3, no. 6 (Nov.). 
+
+Weiss, C., & Singer, E. 1987. Reporting of Social Science in the National Media. New York: 
+Russell Sage Foundation. 
+
+Willig, Ann C. 1985. A Meta-Analysis of Selected Studies on the Effectiveness of Bilingual 
+Education. Review of Educational Research 55, no. 3 (Fall): 269-317. 
+
+Wilson, Choya L.; Shields, Patrick M.; & Marder, Camille. 1994. The Title VII Academic 
+Excellence Program: Disseminating Effective Programs and Practices in Bilingual Education. 
+Washington, D.C.: Policy Studies Associates, SRI International. 
+
+Wong Fillmore, Lily. 1991. When Learning a Second Language Means Losing the First. Early 
+Childhood Research Quarterly 6: 323-46. 
+
+Zehler, Annette M. 1995. The Uses of Communications Technology for Language Proficiency 
+Assessment and Academic Assessment. Arlington, Va.: Development Associates. 
+
+
+
+ERIC 
+
+iamaffamiaaa 
+
+
+
+70 
+
+
+
+76 
+
+
+
+About the Author 
+
+
+
+James Crawford is a Washington-based writer specializing in language and 
+education policy. He is author of Bilingual Education: History, Politics, 
+Theory, and Practice (3rd ed., Bilingual Educational Services, 1995) and 
+Hold Your Tongue: Bilingualism and the Politics of "English Only" 
+(Addison-Wesley, 1992), and editor of Language Loyalties: A Source Book 
+on the Official English Controversy (University of Chicago Press, 1992). 
+In 1993, he served as writer-consultant to the Stanford Working Group on 
+Federal Programs for Limited-English-Proficient Students. Previously, he 
+worked as Washington editor of Education Week and Congressional editor 
+of Federal Times. 
+
+
+
+
+77 
+
+
+
+NC3E 
+
+
+
+National Clearinghouse for Bilingual Education 
+1118 22nd Street NW Washington DC 20037 
+
+
+
+as. DEPARTMENT OF EDUCATION 
+
+Office of Educational Research and Improvement (OERI) 
+Educational Resources Information Center (ERIC) 
+
+
+
+9 
+
+
+
+L -6 > ‘/ (e > G 
+
+
+
+
+NOTICE 
+
+REPRODUCTION BASIS 
+
+
+
+This docuir.cn: is covered by a signed “Reproduction Release 
+(Blanket)” form (on file within the ERIC system), encompassing all 
+or classes of documents from its source organization and, therefore, 
+does not require a “Specific Document 1 * Release form. 
+
+
+
+This document is Federally-funded, or carries its own permission to 
+reproduce, or is otherwise in the public domain and, therefore, may 
+be reproduced by ERIC without a signed Reproduction Release 
+form (either “Specific Document** or “Blanket’^. 
+
+
+
+

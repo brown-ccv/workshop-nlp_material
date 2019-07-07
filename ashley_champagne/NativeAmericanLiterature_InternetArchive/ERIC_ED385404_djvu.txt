@@ -1,0 +1,2481 @@
+DOCUMENT RESUME 
+
+ED 385 404 RC 020 123 
+
+
+
+TITLE 
+
+
+
+INSTITUTION 
+
+SPONS AGENCY 
+PUB DATE 
+NOTE 
+
+AVAILABLE FROM 
+PUB TYPE 
+
+
+
+Educating American Indian/Alaska Native Elementary 
+and Secondary Students: Guidelines for Mathematics, 
+Science and Technology Programs. Proceedings of a 
+Conference on the Educational Needs of American 
+Indian/Alaska Native Students in Science, Mathematics 
+and Technology (Boulder, Colorado, May 19-22, 
+1994) . 
+
+American Indian Science and Engineering Society, 
+Boulder, CO. 
+
+National Science Foundation, Washington, D.C. 
+95 
+
+43p. 
+
+American Indian Science and Engineering Society, 1630 
+30th Street, Suite 301, Boulder, CO 80301-1014. 
+Collected Works - Conference Proceedings (021) 
+
+
+
+FDRS PRICE MF01/PC02 Plus Postage. 
+
+DESCRIPTORS Alaska Natives; '-'American Indian Education; American 
+
+Indians; ''Cul tura 1 1 y Relevant Education; Curriculum 
+Development; ^Educational Strategies; Elementary 
+Secondary Education; "Mathematics Education; School 
+Ccmmunity Relationship; "Science Education; Teacher 
+Education; "Technology Education 
+
+
+
+ABSTRACT 
+
+A 3-day conference developed guidelines ensuring that 
+cultural needs and issues are addressed in mathematics, science, and 
+technology educational programs for American Indian and Alaska Native 
+precollege students. Major barriers affecting these students in 
+mathematics, science, and technology were summarized for three areas 
+(student programs, curriculum development, and teacher programs), and 
+guidelines were developed to address them. Guidelines for student 
+programs include recognizing students for their participation, 
+providing the opportunity to develop as whole persons, establishing 
+mentoring within local communities, and facilitating parental 
+involvement. For curriculum development, guidelines include aligning 
+curricula with the community's needs and goals, including: cultural 
+needs, holistic and spiritual approaches, local knowledge, language, 
+elders, and mentors; using hands-on, cooperative group activities; 
+and ongoing evaluation. Teacher program guidelines include 
+understanding the students' culture; integrating traditional American 
+Indian science, mathematics, and technological knowledge in classroom 
+teaching; employing hands-on, inquiry-based learning, cooperative 
+learning, and problem-solving activities; and making science, 
+mathematics, and technology relevant by including community members 
+and resources in teaching and learning. Three appendices describe the 
+conference: review the literature on barriers to mathematics, 
+science, and technology education for American Indian and Alaska 
+Native students; and list additional resources, (Contains 20 
+references.) (TD) 
+
+
+
+UUuulnuj Aincru (in induin \lu\ku \ul 
+I kmentury und Secondary Students 
+
+
+
+
+U S OCMRTMINT Of f DUCATtON 
+
+Oflc* ol EKucalionw Rma'cn and lmo>o»«mrnl 
+
+EDUCATlOHAl RE SOURCES INFORMATION 
+CENTER (ERIC) 
+
+
+
+coroduced at 
+)' cxganualion 
+
+
+
+BEST COPY AVAILABLE 
+
+
+
+Qnh»i docunom hai o*«n 
+
+ofiginaiing ii 
+CJ Minot changes ha«* t>e*n matje lo >m|yo<« 
+'•production qimMv 
+
+• Pomti of vi«w o>* ot*n>oni it«itd in ihitdocu 
+00 nol n*c*»Mniy <#or»*#ni oJltc*l 
+OCR( potrf«n o' pohev 
+
+
+
+© 1995 
+
+American Indian Science fir Engineering Society 
+
+Permission is hereby granted to reproduce the contents of this book for 
+educationa jnd training purposes. 
+
+
+
+The work described in this document was supported 
+I by National Science Foundation Grant. Opinions, 
+| findings, conclusions or recommendations expressed 
+or implied herein are those of the project partici- 
+pants and do r.ot necessarily reflect the view of the 
+^""ithnal Science Foundation. 
+
+ERIC 3 
+
+
+
+
+CONTENTS 
+
+
+
+Conference Summary 3 
+
+Introduction 5 
+
+Preconference Preparation 7 
+
+Conference Outcomes 8 
+
+Student Programs 8 
+
+Curriculum Development 12 
+
+Teacher Preparation 18 
+
+Conclusions 23 
+References 24 
+
+
+
+Appendix A: Conference Design, Agenda, and 
+Participant Affiliations 
+
+Appendix B: Review of the Literature on Barriers to 
+Mathematics, Science, and Technology 
+Education for American Indian/ Alaska 
+Native Students 
+
+Appendix C: Suggested Additional Resou r ces 
+
+
+
+User Feedback Form 
+
+
+
+39 
+
+
+
+Participants Involved in Development 
+
+
+
+The following individuals participated in the conference and development 
+of this document: 
+
+
+
+)oe Aragon (Pueblo of Acoma) 
+Sandra Begay-Campbell (Navajo),. 
+
+Conference Co-Facilitator 
+Ardel Boes 
+
+Leland Bordeaux (Rosebud Sioux) 
+Clarissa Bowman (Navajo) 
+Ruth Bradford (Turtle Mountain 
+
+Chippewa) 
+Karen Buller (Comanche) 
+)ean Flannagan Carlo 
+)effrey Craig 
+)ohn Fix 
+
+Kirby Cchachu (Zuni) 
+
+W. Sakiestewa Gilbert (Hopi) 
+
+Theresa Halsey (Hunkpapa Lakota) 
+
+Helen Herlocker 
+
+Don )ones 
+
+Manert Kennedy 
+
+Paige Kuni 
+
+Clenda Lindley (Aleut) 
+
+Mike Lovejoy (Dakota Santee) 
+
+Ramona Montoya (Isleta/San 
+
+Felipe Pueblo) 
+Sherry Neswood (Navajo) 
+Martin Old Crow (Crow) 
+Elizabeth Parent (Athabascan) 
+
+
+
+Victor Pedro (Laguna Pueblo), 
+
+Conference Co-Facilitator 
+Yvette Peguero (Menominee) 
+Freda Porter-Locklear (Lumbee) 
+Alvin Rafelito (Navajo) 
+Cordelia Romero (San Felipe) 
+Sara Selfe 
+Walter Smith 
+Ed Walton 
+
+Bob Whitman (Navajo) 
+
+National Science 
+Foundation 
+
+Donald E. jones, Conference 
+Grant Program Officer 
+
+AISES Staff 
+
+Abbie Willetto (Navajo), Confer- 
+ence Co-Facilitator 
+
+John Hoover, Director of Research 
+and Evak Jtion 
+
+Cathy Abeita, Director of 
+
+PreCollege Student Programs 
+
+Cecelia jacobs, Teacher Programs 
+
+Debbie Rabideau, Research 
+
+
+
+Associate 
+
+
+
+
+0 
+
+uc 
+
+
+
+Guidelines Document 
+
+
+
+CONFERENCE SUMMARY 
+
+
+
+Thirteen guidelinesdesignedfor use by educators, administrators, project 
+and grant developers, grant reviewers, funding agencies and others con- 
+cerned with the mathematics, science and technology education of elemen- 
+tary and secondary American Indian/Alaska Native students were developtd 
+from the conference. The Guideline Te: 
+
+■ Recognize students for their participation and progress in science, 
+mathematics, and technology as well as their general participation in 
+the schooling process. 
+
+■ Provide students with the opportunity to develop themselves as whole 
+persons: emotionally, spiritually, physically, and mentally. Include a 
+needs analysis ol student learning styles and cultures. 
+
+~» » » » » 5~ » ❖ 
+
+The primary goal of this project was to develop 
+a set of recommended guidelines for ensuring 
+that cultural needs and issues are addressed. 
+
+4 <• * » » » jjj j 
+
+
+
+■ Establish meaningful partnerships and mentoring in all schools within 
+their local or neighboring communities and with national organiza- 
+tions. 
+
+■ Facilitate and effectively implement parental involvement for students 
+to receive maximum educational benefits. 
+
+■ Assess the current science, mathematics, and technology curricula in 
+terms of the community's needs and goals. 
+
+■ Align the science, mathematics and technology curriculum with the 
+assessed cultural needs and concerns of the community, 
+
+■ Include the following (based on the community's needs assessment) in 
+designing a science, mathematics, and technology curriculum: holistic 
+and spiritual approaches; relevant local American Indian 'Alaska Native 
+cultural knowledge, materials, methodology, and language utilization; 
+leadership training; and community elders, role models, and mentors. 
+
+6 
+
+
+
+
+Cuidelmci Document 
+
+
+
+\ 
+
+
+
+Use the following methods or sources to meet the cultural needs of 
+students and communities: hands-on, inquiry- based learning; prob- 
+lem-solving; cooperative group activities; and community resources; 
+and current technology. 
+
+Evaluate the curriculum in various ongoing ways including: perfor- 
+mance-based evaluation; comparison of the curriculum to the commu- 
+nity goals; and tracking the implementation, impact, and outcomes of 
+the curriculum. 
+
+
+
+Ax content and culture are blended both are 
+strengthened and provide equal status in teach- 
+ing and learning. 
+
+
+
+i 'nderstand the culture of American Indian/Alaska Native students you 
+are teaching. 
+
+Emphasize and integrate American Indian traditional science, math- 
+ematics, and technological knowledge in classroom teaching. 
+
+Become skilled in a variety of teaching/learning styles appropriate to 
+American Indian/Alaska Native students, such as hands-on, inquiry- 
+based learning; cooperative learning; use of technology in teaching and 
+learning; and problem-solving activities. 
+
+Make science, mathematics, and technology education relevant to 
+American Indicn/Alaika Native students by including community mem- 
+bers and resources in leaching and learnmq. 
+
+
+
+ERIC 
+
+
+
+Guidelines Document 
+
+
+
+INTRODUCTION 
+
+
+
+"Indian people want their children to value their 
+culture and traditions, but they also want their 
+children to have basic academic competencies 
+and subject-matter knowledge. Among the criti- 
+cal issues for American Indians is how to reconcile 
+Indian spiritual values and formal education. " 
+
+The College Board/AISES, 1989 
+
+
+
+This document was developed from a three-day conference held in May 
+1 994 in Boulder, Colorado, sponsored by the American Indian Science and 
+Engineering Society's Research and Evaluation Department under a grant 
+from the National Science Foundation. 
+
+The primary goal of this project was to develop a set of recommended 
+guidelines for ensuring that cultural needs and issues are addressed in 
+mathematics, science, and technology educational programs for American 
+Indian/Alaska Native precollege students. Specifically, conference partici- 
+pants focused their discussions on the following two questions: 
+
+1 . What are the major barriers, concern, and issues that should be 
+addressed in any student, curriculum and teacher preparation 
+project for American Indian/Alaska Native students? 
+
+2. What strategies or methods should be employed to ensure that 
+the cultutal issues identified are addressed in student, curriculum 
+and teacher preparation projects for American Indian/Alaska 
+Native precollege students? 
+
+
+
+ERIC 
+
+
+
+utdelmes Document 
+
+
+
+These guidelines complement other relevant guidelines and documents 
+that shape programs and projects in science, mathematics, and technology 
+education for American Indian/Alaska Native precoliege students. The 
+intended purposes of this document are to provide the following: 
+
+- Guidance to those who are designing, implementing, and evaluating 
+science, mathematics, and technology programs for American Indian/ 
+Alaska Native precoliege students 
+
+- Guidance to those who are working in science, mathematics, and 
+technology areas for American Indian/Alaska Native students 
+
+- Guidance to funding agencies and project and proposal reviewers 
+covering mathematics, science, and technology education for American 
+Indian/Alaska Native precoliege students 
+
+
+
+Teachers must evaluate themselves ami their 
+understanding oft heir oun culture as an initial 
+j'trst step in understanding 'mother culture, 
+and in incorporating that culture in their teach- 
+ing and learning. 
+
+
+
+Although specific content in mathematics, science, and technology was 
+not discussed directly, its importance in teaching and learning was recog- 
+nized throughout the conference proceedings. As content and culture are 
+blended, both are strengthened and provide equal status in 
+teaching and learning. 
+
+The structure of this conference modeled 
+strategies and procedures considered ef 
+fective in working with American Indian,' 
+Alaska Native students and their teach- 
+ers, including cooperative work gioups, 
+concept webbing, problem- solving 
+activities, and a cultural awareness of 
+American Indian/Alaska Native values. 
+For a discussion of the conference de- 
+sign', procedures, and agenda, see Ap- 
+pendix. 
+
+
+
+
+Guidelines Document 
+
+
+
+PRECONFERENCE 
+PREPARATION 
+
+
+
+Preconference preparation included readings to help participants focus 
+on the conference goals. The first, Our Voices. Our Vision: American India ns 
+Speak Out for Educational Excellence (College Board/American Indian 
+Science and Engineering Society, 1 989), focused on the National Dialogue 
+Project on American Indian Education. Participants voiced their wants and 
+needs through a series of regional dialogues. 
+
+
+
+»»»»»»»» 
+
+Spirituality is an important aspect of American 
+Indian/Alaska Xative learning and lifestyle. 
+Ii\ including this aspect in curriculum develop- 
+ment, it recognizes the vtdne of A nerican In- 
+dian/Alaska Xatu e spirituality, 
+
+* * * * * ■» » 
+
+
+
+The second reading, "Toward a Redefinition of American Indian/Alaska 
+Native Education" (Hampton, 1 992), provided a summary of views toward 
+education for American Indian/Alaska Natives. It discusses the current state 
+of Indian education and addresses five different ways Indian education has 
+been viewed, reflecting both Indian and non-Indian perspectives. 
+
+
+
+The third reading, which came from the grant proposal for the confer- 
+ence, focused on the barriers that American Indian/ 
+Alaska Native elementary and secondary stu- 
+dents encounter in mathematics and sci- 
+ence education. This review of the 
+literature highlighted issues such as 
+Western versus Native views, cul- 
+tural relevant e, learning styles, 
+institutional barriers, lack of role 
+models, psychological dynam- 
+ics, langiMije, and cultural insen- 
+sitivities, see Appendix B. 
+
+
+
+
+ERIC 
+
+
+
+Cutdclinei Docurtwnt 
+
+
+
+CONFERENCE OUTCOMES 
+
+
+
+Each of the conference's three topical areas (student programs, curricu- 
+lum development, teacher programs) generated two major outcomes: 
+
+1 , A summary of major issues or barriers affecting American Indian/Alaska 
+Natives in mathematics, science, and technology 
+
+2. Guidelines to meet these issues and to provide effective education to 
+elementary -id secondary American Indian/Alaska Native students and to 
+their educaturs 
+
+Some of the issues within the topical areas overlap, highlighting the 
+important interrelationship among student, curriculum, and teacher pro- 
+grams. In developing or implementing any one of these program areas, one 
+should considerguidelinesfrom all three because much interconnectedness 
+occurs. Also, these guidelines are not necessarily specific only to science, 
+mathematics, and technology; rather, they encompass many educational 
+aspects within precollege teaching and learning for American Indian/Alaska 
+Native students. 
+
+Student Programs 
+
+The barriers, issues, and concerns affecting Native American/Alaska 
+Native preccllege students can be summarized as follows: 
+
+■ American Indian students suffer from a disproportionately high dropout 
+rate when compared to the general population, resulting in an insuffi- 
+cient numbei of American Indian/Alaska Native role models in math- 
+ematics and science teaching positions, decision-makers within the 
+educational system. 
+
+■ Parental involvement is not adequately pursued or developed. 
+
+■ Social issues relevant to the student's hves are not taken into consider- 
+ation in their schooling. 
+
+■ A lack of effective counseling services exist to encourage enrollment in 
+the science, mathematics and technology fields 
+
+■ The language used within science and mathematics is often foreign for 
+many American Indian; Alaska Native precollege students. 
+
+■ Many students must cope with discrimination in school, highlighting 
+the lack of acknowledgment for their c ulture r ommunities. 
+
+
+
+
+Guidelines Document 
+
+
+
+■ As girls are often overlooked in science and mathematics, they are not 
+adequately encouraged to pursue careers in these areas. 
+
+■ Students are exposed infrequently to relevant American Indian Alaska 
+Native issues in the science, mathematics, and technology experiences 
+they have in school. 
+
+■ Science, mathematics, and technology education frequently is 
+culturally irrelevant to students and their communities. This leaves 
+gaps in the development of a meaningful and relevant education. 
+
+■ The community and the school often are not connected in their views 
+cf students' educational goals, causing conflict among all groups 
+involved with the educational process. 
+
+
+
+Incorporating a holistic teaching npprmtch in 
+tlw classroom promotes mental, emotional . 
+ptivsicul and spiritual icell-heing in an indi- 
+vidual student . This is the foundation on u huh 
+American Indian Alaska Satire people have 
+based their societies for centuries. 
+
+Issues such as inadequate secondary school counseling, insufficient 
+access to American Indian Alaska Native role models, lack of cultural 
+relevance, and the ick of school-commun.tv partnerships all c ontribute to 
+inadequate and in- ective studen' programs n elementary and stcordarv 
+e lucation. These issues served as a ■ eferenc e n the generation of important 
+factors to consider to ensure cuiUrallv relevant educ ation. 
+
+Figure 1 illustrates the conference participants' concept >".eb .d« ntitviny 
+the critical factors to consider when designing and implementing educa- 
+tional mathematics, science, and technology programs tor America" In- 
+dian Alaska Native P'ecolleqe students. 
+
+The participants also generated 'our qu'delmes retlec'ine] 'tvse critic a 1 
+factors for effect \e precolleqe Mulent programs 
+
+Guideline 1.1 - Recognize students for their participation and 
+progress in science, mathematics, and technology, as well as for their 
+general participation in the schooling process 
+
+
+
+Q 
+
+
+
+
+Figure 1 : Critical factors in student programs 
+
+
+
+Students need to be recognized in their schools and communities as 
+important contributing members. One way to achieve this is through their 
+school accomplishments. Recognition should be cu'turally compatible 
+within the community; valuing and honoring of the common person is very 
+important. For example, student work such as science and mathematics 
+projects should be displayed throughout the school and in suitable commu- 
+nis buildings. 
+
+Special program administrators should use the local and/or regional 
+media to inform the community of events that feature mathematics, 
+science, or technology, such as science fairs or invention conventions. When 
+students attend a summer program, a press release should be sent to 
+community media services. 
+
+
+
+13 
+
+Guideline! Document 
+
+
+
+9 
+
+ERIC 
+
+
+
+Guideline 1 .2 - Provide students with the opportunity to develop 
+themselves as whole persons: emotionally, spiritually, physically, and 
+mentally. Include a needs analysis of student learning styles and 
+cultures. 
+
+
+
+Educators and administrators should offer students a variety of avenues 
+for setting and achieving their educational goals. A needs analysis should 
+reflect the emotional, spiritual, physical, and mental needs of students jnd 
+their community. To best develop the whole person and meet individual 
+learning styles, schools should establish programs, classes, and projects that 
+accurately reflect the needs analysis. Extensive counseling services and 
+tutorial programs must be given top priority and careercounseling must be 
+in place for each student. Extracurricular activities should be accessible to all 
+students, and transportation issues should not obstruct student participa- 
+tion. Field trips to museums, science centers, urban areas, universities, or 
+tribal colleges need to be incorporated into the curriculum of the total 
+school projram. 
+
+
+
+Guideline 1.3 -Establish meaningful partnerships and mentoring 
+in all schools within local or neighboring communities and with 
+national organizations. 
+
+
+
+Mentoring within the school that involves students, teachers, staff, an 
+administrators must be established. Several models for such programs are 
+in use across the country. (See the appendix for names of places and 
+organizations that provide services in mathematics, science, and technol- 
+ogy.) In addition to in-house programs, partnerships with community 
+organizations and businesses should be set up. Schools should be able to 
+combine, modify and establish programs that accurately reflect the needs 
+of the community and local culture. Contacts with national corporations 
+and organizations for establishing summer corporate mentorship programs 
+can be made and developed. Two-way communication is critical and must 
+be built into any partnership. 
+
+Guideline 1 .4 - Facilitate and effectively implement parental 
+involvement for students to receive maximum educational benefits. 
+
+
+
+Parents are the primary educators of their children and must have the 
+opportunity for meaningful input into children's education. The nation's 
+schooling system has disenfranchised American Indian/Alaska Native par- 
+ents into thinking that they have no such rights. Schools must include 
+parents as vital partners in the educational process. Traditional parent- 
+teacher organizations need to be modified and enhanced to encompass all 
+family situations. Parent-toacher conferences must be modified to mei't the 
+
+© jiiidelmes Document 11 
+
+ERIC 
+
+an 
+
+
+
+schedules of both parents and students. Further, it is important to remember 
+that the best location for parent-teacher interactions may not always be at 
+the school, but instead at some other community location. 
+
+Curriculum Development 
+
+The barriers, issues, and concerns affecting curricula for precollege 
+American Indian/Alaska Native students can be summarized as follows: 
+
+■ Community needs and concerns are neither adequately identified nor 
+integrated into the educational process, resulting in unnecessary and 
+unresolved conflict between the school and community. 
+
+■ Current curricula are not inclusive of American Indian/Alaska Native 
+views. Research has shown that this constant neglect negatively affects 
+minority students and how they view themselves as learners in the 
+dominant society. 
+
+■ Elders and olher American Indian/Alaska Native experts are not con- 
+sulted to ensure that their knowledge is incorporated into the develop- 
+ment process of science, mathematics, and technology curricula 
+
+■ Current curricula are not holistic in scope. The American Indian/Alaska 
+Native lifestyle of balance and holism is not supported in the hierarchical 
+style of modern science and mathematics. 
+
+■ Curriculum evaluation practices do not reflect cultural relevancy. Ad- 
+ditional or adapted evaluation instruments are necessary to evaluate 
+student progress, as current test-taking practices do not accurately 
+reflect American Indian/Alaska Native students' understanding of sci- 
+ence, mathematics, and technology. 
+
+■ Spirituality comprises an important aspect of American Indian/Alaska 
+Native learning and lifestyle, and current c urricula do not foster the 
+spiritual relationship among people and their environment. Ignoring 
+this aspect devalues the important relationship that American Indians/ 
+Alaska Natives have with the Earth. 
+
+■ Financial support for programs is insufficient for sustainability. When 
+such resources become available to help facilitate growth, they often 
+disappear before a program is firmly established and integrated into the 
+school and community. 
+
+■ Good academic proqrams cio not always get support from the 
+school and community. Communication amonq school and commu- 
+nity groups is not adequately in place, causing confusion, apathy, and 
+mistrust 
+
+
+
+Cuutrhnn Dotur >vit 
+
+
+
+
+Issues such as lack of cultural relevance, little or no reference to American 
+Indian/Alaska Native contributions to society and the sciences, lack of 
+reference to community and spirituality, and the isolated study of topics all 
+contribute to inadequate and ineffective curricula for elementary and 
+secondary American Indian/Alaska Native students. These issues served as 
+a reference in the generation of the important factors to consider to ensure 
+culturally relevant education. 
+
+Figure 2 illustrates the conference participants' concept web identifying 
+the critical factors to consider when designing and implementing math- 
+ematics, science, and technology curricula for American Indian/Alaska 
+Native precollege students and their educators. 
+
+The participants also generated five guidelines reflecting these critical 
+factors for effective curriculum development projects: 
+
+
+
+
+figure 2 C ritual itiLtais in uinn uhim dv>ektpmetit 
+
+
+
+© udetmei Document 
+
+
+
+16 
+
+
+
+Guideline 2.1 - Assess the current science, mathematics, and 
+technology curricula in terms of the community's needs and goals. 
+
+
+
+These community needs should be identified from the stakeholders' 
+input. Stakeholders in the American Indian/Alaska Native community need 
+to be identified and recognized, keeping in mind that the curriculum 
+impacts beyond the classroom; some of them are the parents, students, 
+teachers/facilitators, elders, school board members, tribal and other local 
+government representatives, and additional interested community mem- 
+bers. Existing as well as new mechanisms and networks should be used to 
+engage all interested parties in the curriculum. An example of this would be 
+to hold a community meeting at the village or chapter house to discuss the 
+roles, rules, and responsibilities for the science, mathematics, and technol- 
+ogy program that will operate within the community. Additionally, social 
+interactions are important to engage stakeholders' participation. To be 
+most effective, some type of professional compensation f or these resources 
+should also be considered. Planners should base mathematics, science, and 
+technology curricula on local community needs. 
+
+Guideline 2.2 - Align the science, mathematics, and technol- 
+ogy curricula with the assessed cultural needs and concerns of the 
+community. 
+
+
+
+Once the needs assessment has been completed (Guideline 2.1 ) and vital 
+information has been gathered, the curricula in science, mathematics, and 
+technology should be aligned accordingly. Credibility from and account- 
+ability to the local community is vital. The existing tribal, national, and state 
+science and mathematics goals also should be recognized, including 
+identifying the strengths and deficiencies in the current curriculum. The 
+missing and/or needed curriculum elements then must be addressed. The 
+existing administrative support of the curriculum should be identified and 
+expanded, as this is necessary for curricula continuity, resources, and 
+materials. If the curriculum is to function as a shared creation between the 
+developers and the community, it is essential to keep everyone's needs and 
+goals in mind. 
+
+
+
+Guideline 2.3 - Include the tollowing (based on the community's 
+needs assessment) in designing a science, mathematics, and technol- 
+ogy curriculum: hol'stic and spiritual approaches; relevant local Ameri- 
+can Indian/Alaska Native cultural knowledge, materials, methodology, 
+and language utilization; leadership training; and community elders, 
+role models, and mentors. 
+
+
+
+Q 14 
+
+
+
+Guidelines Document 
+
+
+
+/ 
+
+
+
+Spirituality is an important aspect of American Indian/Alaska Native 
+learning and lifestyle. By including it in curriculum development, planners 
+acknowledge its value of American Indian/Alaska Native students. Text- 
+books in science and mathematics do not emphasize this approach and 
+should be augmented wkh Native American/Alaska Native stories or ex- 
+amples to ensure cultural relevance. 
+
+Holistic approaches include learning that organizes the curriculum 
+around the students life, culture, and environment. Broad-theme subjects 
+should be used, such as pollution or weather. American Indian/Alaska Native 
+stories and legends, life experiences, and observations should be included 
+in holistic curricula. Mathematics and science programs should draw 
+existing knowledge and experiences within the community and culture to 
+enhance the students' curricular experiences. 
+
+
+
+Research regarding the attributes of effective 
+instruction with \tnerican Indian/Alaska Na- 
+tive students indicates that hands-on. inquiry 
+based, cooperative learning and holistic learn- 
+ing practices are appropriate approaches to 
+effective classroom learning. 
+
+■» ■»■»■» ■»■»■» 
+
+All communities have different needs, and thus recognizing the diversity 
+among American Indian/Alaska Native communities is necessary. Planners 
+should use the community needs assessment as a guide for relevant local 
+American Indian/Alaska Native cultural subjects, materials, methodology, 
+and language utilization. Community guidance can help discard American 
+Indian/Alaska Native stereotypes and misconceptions, as can inter-cultural 
+sharing and exchanges with other communities. Accurate and factual 
+information only should be used. By making students aware of their 
+communities' needs and global perspectives, these are passed then onto the 
+next generation. 
+
+Although some of these above approaches differ significantly from 
+current practices, they reflect the current reform movement. Because some 
+of these approaches or areas of emphasis may be new in curriculum 
+development, they also may be new to the students' experience. Conse- 
+quently, leadership training is necessary in the implementation of curricula 
+that adhere to these guidelines. Through this type of relevant curriculum 
+American Indian/Alaska Native students may become future leaders in their 
+
+i.8 15 
+
+
+
+O Cwdelina Document 
+
+ERIC 
+
+
+
+communities, especially as they apply their science, mathematical, and 
+technological abilities. 
+
+
+
+In identifying role models and mentors, all community members who 
+wish to share life experiences should be considered. Parents and family 
+members are a part of students' education both in and out of the school 
+setting. American Indian/Alaska Native individuals recognize the education 
+of a whole person as one who is academically "smart" while also mentally, 
+physically, and spiritually balanced, and in harmony with self and the 
+environment. 
+
+Guideline 2.4 - Use the following methods and sources to meet 
+the cultural needs of students and communities: hands-on, inquiry- 
+based learning; problem solving; cooperative group activities; commu- 
+nity resources; and current technology. 
+
+
+
+Applicable and current community needs can be used as hands-on, 
+problem-solving exercises. Students should be made aware of these issues 
+so they can work toward practical solutions to their communities' needs. A 
+culturally appropriate example would be students researching and gather- 
+ing water samples from a nearby river because their community needs to 
+monitor and be aware of its water quality. By using the community itself as 
+a teaching tool, practical, useful, and positive methods enhance the 
+student's learning. 
+
+
+
+■fr ■» ■> ±_ ~ <■_ *_ 
+
+Students need to he recognized in their schools 
+and cotiunitnities as important cantrihutitifi 
+inend>ers. 
+
+<■ ■» ~"» ■ » » « 
+
+A holistic approach as mentioned previously is fundamental to effective 
+curriculum for American Indian/Alaska Native students. Linear thought 
+processing is only one way to learn or teach. Learning and teaching also can 
+be accomplished through observation, experience, and exploration. For 
+example, teachers can present complex issues and problems that do not 
+have predetermined answers or solutions. 
+
+Co-learning methods should also be used when possible. This allows for 
+coaching and guiding, and deemphasi/es the teac her in a highly directive 
+role. Croups of students should have a chance to participate through 
+cooperative, nurturing, and communicable activities. Variety in the activi- 
+
+
+
+16 
+
+
+
+i J 
+
+
+
+Cwdt'lii'ri Document 
+
+
+
+ties also accommodates different learning styles and develop', 'espect for 
+different styles. Planners also must keep in mind the students' maturity level. 
+Developing self-awareness and personal confidence facilitates effective 
+learning ind should become central to the curricular experences. 
+
+Technology should be researched and evaluated before its implementa- 
+tion. Cultural integrity must be maintained where current and emerging 
+technology are used in the curriculum and community. Technology can be 
+a very valuable tool in improving curricular experiences; however, if not 
+used within the proper cultural context, it also can deter learning. Planners 
+should conduct a community technological needs assessment prior to 
+implementing technology in the community and school. 
+
+
+
+Guideline 2.5 - Evaluate the curriculum in various ongoing ways 
+including performance-based evaluation; comparison of the curricu- 
+lum to the community goals; and tracking the implementation, impact, 
+and outcomes of *he curriculum. 
+
+A process of evaluation needs to be established as the curriculum is being 
+developed and field tested. Procedures should include an: Implementation 
+Evaluation (assessment of the project timelines), a Progress Evaluation 
+(assessment of project objectives), and a Sunmative Evaluation (assessment 
+of the impact of the project). Both qualitative and quantitative information 
+should be gathered on all aspects of the project. 
+
+The current level and status of the curriculum's accreditation needs must 
+be recognized. However, in addition to the community and school's 
+accreditation criteria and national or state accreditation demands, tribal 
+and/or cultural standards must be met. 
+
+Broad-based views in evaluating curricula look beyond grades and 
+memorization to a more complete understanding of the sub- 
+jects presented. Another aspect of appropriate evaluation 
+is to ensure that students share or apply the information 
+learned with their parents, community, or peers. Evalua- 
+tion of curriculum should attempt to answer questions 
+such as, did the curriculum meet the community's 
+goals? did the curriculum qo beyond the classroom? ~ 
+was the curriculum connected to the community? 
+
+If the evaluation evolves naturally tium the community 
+needs assessment in the curriculum development, American 
+Indian, Alaska Native students have the best chance of learn- 
+ing mathematics, science, and technology content and skills 
+in a culturally relevant, inquiry-based, and c ooperative way. 
+
+
+
+
+O Aiidclmfi Dou/rnrrt 
+
+
+
+17 
+
+
+
+Teacher Preparation 
+and Enhancement 
+
+The barriers, issues and concerns affecting teacher preparation and 
+enhancement can be summarized as follows: 
+
+■ Training is not always available or provided to help teachers make their 
+science, mathematics, and technology instruction culturally compat- 
+ible with students' backgrounds and community needs. 
+
+■ There is insufficient support for teacher enhancement programs that 
+can help close the gap between teachers, students, and the Native 
+American/Alaska Native community. 
+
+■ Teacher preparation/enhancement programs do not use curricula 
+relevant to students' background, culture, and experiences to improve 
+their science, mathematics, and technology skills and knowledge. 
+
+■ Teachers do not possess the skills and/or support necessary to create 
+balance between native and modern scientific thought processes. 
+
+■ Many teachers lack the knowledge or training necessary to prepare 
+students for science, mathematics, and technology outside of the 
+classroom. 
+
+■ Teachers do not use a variety of inquiry-based, problem-solving teach- 
+ing techniques in order to reach all students. 
+
+■ Many teachers lack sufficient training to help students acquire informa- 
+tion through methods most compatible with their preferred learning 
+styles. 
+
+■ Teachers are not provided sufficient opportunities to communicate 
+their goals and strategies for facilitating science, mathematics, and 
+technology education of American Indian/Alaska Native precolleg? 
+students with their colleagues, parents, and the students themselves. 
+
+■ Opportunities and financing for field trips supportive of the science and 
+mathematics curricula are inadequate, and thus do not provide the 
+experiences necessary to promote these areas, particularly for rural and 
+reservation schools. 
+
+■ Teachers are often uncomfortable teaching science, mathematics, and 
+technology content because of their limited formal education and 
+hands-on experiences in these areas. 
+
+■ Teachers are not provided sufficient opportunities and follow-up in 
+science, mathematics, and technology to remain current in these fields. 
+
+
+
+O 8 
+
+ERIC 
+
+
+
+21 
+
+
+
+Guidelines Document 
+
+
+
+Figure 3: Critical factor* in teacher programs 
+
+Issues such as lack of adequate preservice and inservice education, 
+insufficient opportunities to remain current in mathematics, science, and 
+technology, lack of school-community communication, and little use of 
+hands-on, inquiry-based, cooperative learning all contribute to inadequate 
+teaching skills and knowledge, and subsequent ineffective implementation 
+of instruction in elementary and secondaryclassroomsfor American Indian/ 
+Alaska Native students. These issues served is a reference in the generation 
+of important factors to consider to ensure culturally relevant education. 
+
+Figure 3 illustrates the conference partic ipants' concept web identifying 
+the critical factors to consider when designing and implementing math- 
+ematics, science, and technology programs for American Indian/Alaska 
+Native precollege students and their educators. 
+
+
+
+
+The participants also generated four guidelines reflecting these critical 
+factors for effective teacher preparation and enhancement programs: 
+
+
+
+Guideline 5.1 - Understand the culture of the American Indian/ 
+Alaska Native students being educated. 
+
+American Indian/Alaska Natives are divided into many cultures, clans, 
+and societies. They practice many customs and lifestyles, maintain an 
+enormous variety of values and beliefs, and speak numerous languages. 
+Programs cannot categorize the diversity of cultures into a single entity or 
+overlook the social and cultural diversity of American Indian/Alaska Natives 
+for the sake of convenience or simplification. American Indian/Alaska 
+Natives make up 1 % of the United States population and account for 50% 
+of the country's diversity (Hodgkinson, 1990). Respect for and sensitivity 
+to the local American Indian/Alaska Native population and community can 
+be achieved through the development and implementation of cultural 
+models and courses that are based on collaborative and meaningful input 
+
+» « » <■ » ~» » » 
+
+Once the needs-assessment has been completed 
+and vital information has been ftuthereil, the 
+curricula in science, mathematics and technol- 
+ogy should be aliened to meet the community's 
+needs. 
+
+5 * * ■> ■> * * » 
+
+
+
+of the local population. Ongoing dialogue with tribal members, orientation 
+sessions that include discussion with tribal historians and elders, invitations 
+to attend tribal social gatherings, and commitment to include community 
+involvement are essential to an understanding from the local community. 
+It is also important to bear in mind that for individuals to understand another 
+culture, they must first understand their own and its relationship to the 
+other. Teachers must evaluate themselves and their understanding of their 
+own culture as a first step toward nderstanding another culture, and in 
+incorporating that culture into their teaching and learning. 
+
+Parental involvement in classrooms, on advisory boards and school 
+boards, and as program role models, mentors, and consultants is essential. 
+Program designs must be based on the needs of the local population, as 
+schools make up only one part of the total edut ational prot ess for American 
+Indian/AUuka Native precolleqe students. 
+
+
+
+Q 20 
+
+
+
+Cuu/t'/ini's Oou/ment 
+
+
+
+Gutdeline 3.2 - Emphasize and integrate American Indian tradi- 
+tional science, mathematics, and technological knowledge in class- 
+room teaching. 
+
+Once an understanding of culture occurs, traditional knowledge of science, 
+mathematics, and technology can be further developed through community- 
+based interactions among teachers, students, administrators, parents, and 
+community members. Through this interaction American Indian// .aska Na- 
+tive tribal language and culture can be incorporated into the curricula with 
+proper support from appropriate adult Native Americans/Alaska Natives. 
+
+As teachers strive to ensure cultural relevancy in their teaching, American 
+Indian/Alaska Native lifestyles and their relationship with nature and prob- 
+lem-solving techniques should serve as the foundations for effective study 
+of science, mathematics, and technology. The historical and contemporary 
+perspectives of science, mathematics, and technology as they relate to 
+communities comprise an integral part of the education process. Through 
+this interrelationship, education in these content areas becomes relevant to 
+American Indian/Alaska Native precollege students. 
+
+
+
+Guideline 3.3 - Become skilled in a variety of teaching/learning 
+styles appropriate to American Indian/Alaska Native students, such as 
+hands-on, inquiry- based learning; cooperative learning; use of tech- 
+nology in teaching and learning; and problem-solving activities. 
+
+Research regarding the attributes of effective instruction with American 
+Indian/Alaska Native students indicates that hands-on, inquiry-based, coopera- 
+tive learning and holistic learning practices are appropriate approaches to 
+effective classroom learning (Cilliland, 1988). Incorporating a holistic teaching 
+approach in the classroom promotes mental, emotional, physical, and spiritual 
+well-being in an individual student. This is the foundation on which American 
+Indian/Alaska Native people have based their societies for centuries. When used 
+appropriately, these and similar methods help prepare students for both 
+individual and cooperative group tasks. Further, the National Science Education 
+Standards and the National Council of Teachers of Mathematics Standards 
+emphasize these and similar approaches. However, such techniques must be 
+coordinated with the local cultural and community needs to be most effective. 
+
+To best use these approaches and implement the science and mathematics 
+standards, teachers must he encouraged to identify and use resources outside 
+the school environment (e.g., Internet), nurture a collaborative approach to 
+work with the community (e g., school-community alliances), and also plan 
+and implement professional growth and development strategies for them- 
+selves and the community population. 
+
+
+
+Q awdclmes Document 
+
+ERIC 
+
+
+
+21 
+
+
+
+Guideline 3.4 - Make science, mathematics, and technology j 
+education relevant to American Indian/Alaska Native students by 
+including community members and resources in teaching and learning. 
+
+A primary barrier to American Indian/Alaska Native participation in 
+science and mathematics is the lack of relevance to Indian lives and to their 
+survival as a culture/community. Defining educational outcomes begins 
+with parents, students, school personnel, and other stakeholders commu- 
+nicating their needs and ideas with one another. Students must be prepared 
+for success in two worlds: their specific society and the dominant society. As 
+discussed previously, science and mathematics content must be consistent 
+with the national standards. However, applications of science, mathemat- 
+ics, and technology must incorporate both national standards curricula as 
+well as local community knowledge and issues. Teachers must engage in 
+continuous assessment methods that prepare students for standardized 
+evaluations as well as classroom evaluations that are appropriate to their 
+community's culture. To ensure appropriateness within one's culture and 
+community, teachers should: 
+
+■fr ■» ■» ■» ■» » » » 
+
+In actual practice in developing or implement- 
+ing any one of these three program areas, one 
+should consider guidelines from all three ureas 
+since there is mu< h interconnectedness. 
+
+~» <■ » » * » £ 
+
+■ Integrate the backgrounds and experiences of students into lessons 
+
+■ Utilize existing American Indian/Alaska Native curricula to enhance 
+learning 
+
+■ Use portfolio assessment to accurately reflect a student's science, 
+mathematics, and technology understandings 
+
+■ Inc jase science, mathematics, and technology relevancy to American 
+Indians/Alaska Natives through experiences that foster a connection 
+between classroom learning and actual application of that learning in 
+the ( ommumty 
+
+Community resources (including people) must be viewed as one of the 
+best assets accessible to teachers of Americ an Indian/Alaska Native students. 
+It is through these local resources that community-school alliances are 
+formed, and the most relevant science, mathematic and technology 
+education and use will occur. 
+
+CO 
+
+Q Gu". 'eimes Document 
+
+
+
+CONCLUSION 
+
+
+
+The foregoing guidelines and strategies address the various needs, issues, 
+and barriers facing American Indian/Alaska Native precollege students in 
+mathematics, science, and technology education. They are designed for 
+educators and communities committed to providing exemplary and rel- 
+evant student, curriculum, and teacher programs. These guidelines are 
+adaptable to the needs of individual communities and schools and should 
+be used with this in mind. 
+
+The strategies identified represent only a sampling of those in practice. 
+They do, however, represent a variety of programs known to be successful 
+with American Indian/Alaska Native precollege students. 
+
+These guidelines may also serve as a means to assess individual teaching 
+practices and pedagogy. The "Suggested Resources" presented in Appen- 
+dix C provide information on both practice and theory and will increase the 
+knowledge base of educators concerned with science, mathematics and 
+technology education for American Indian Alaska Native precollege stu- 
+dents. 
+
+Communities (students, parents, schools, businesses, etc.) may use these 
+guidelines to serve as one means to view their own science, mathematics, 
+and technology programs. The strategies may enhance existing programs 
+or serve as a foundation to explore and build new ones, along with 
+community-school partnerships. On a larger scale, funding agencies may 
+use these guidelines to aid in their review of proposals in science, mathemat- 
+ics, and technology, that purport to se^e American Indian Alaska Native 
+precollege students. 
+
+Ideally, this document, along with input from stakeholders at every level, 
+will prove useful in the ongoing development and restructuring ot relevant 
+and exemplary mathematics, science, and technology programs for Ameri- 
+can Indian/Alaska Native precollege students, their teachers, and associated 
+curriculum development. Further, it is the developers' hope that these 
+guidelines will be used to ensure equity and excellence in science, math- 
+ematics, and technology programs for American Indian Alaska Native 
+elementary and secondary students and their educators, 
+
+
+
+n r 
+CO 
+
+© Gwdelirwt Docn't'CH 2? 
+
+
+
+REFERENCES 
+
+
+
+American Association for the Advancement of Science, Native Americans in 
+Science, Washington, DC: American Association for the Advancement of 
+Science, 1977. 
+
+Brendtro, Larry, and Martin Brokenleg. "Beyond the Curiculum of Control.: 
+The lournal of Emotional and Behavioral Problems. 
+
+Cajete, C. (1986). Ethnoscience: A Native American Perspective . Phoenix, 
+AZ: Native 
+
+College Board'American Indian Science and Engineering Society (1989). 
+Our voices, our vision: American Indians speak out for educational excel- 
+lence . Boulder, CO: AISES. 
+
+Davison, D. M. (1992). "Mathematics" in Teachin g American Indian 
+Students, Jon Reyhner (ed.). Norman, OK: University of Oklahoma Press. 
+
+Davison, D. A. (1 992). "f lathematics for the Native Student, "Teaching the 
+Native American by Hap Cilliland. DuDuque, IA: Kendall/Hunt Publishing 
+Co. 
+
+DeAvila, E. (1985). "Motivation, Intelligence, and Access: A Theoretical 
+Framework for the Education of Minority Language Students." In Issues in 
+English Language Development, National Clearinghouse for Bilingual Edu- 
+cation . Rosslyn, VA: InterAmerica Research Associates. 
+
+Deloria, V., |r. (1 991 ). Indian Education in America . Boulder, CO: American 
+Indian Science and Engineering Society. 
+
+Cilliland, H. (1988). Teaching the Ame ri can Indian. Kendall/Hunt. Publish- 
+ing Co., Dubuque, IA. 
+
+Hampton, E. (1992). "Toward a Redefinition of American Indian/Alaska 
+Native Education." Canadian lour nal of Na tive Education. Vol. 20, No. 2. 
+
+Hoogkinson, H. (1990). The Demographics of Amer i can In dians: One 
+Percent of the P e ople: Fifty P e rcent of the Diversity. Washington, DC: 
+Institute for Educational Leadership Publications. 
+
+Levy, Dawn, "Bridging Tribal, Tec hnoloqical Worlds." Science, Vol. 258. 
+
+
+
+O 24 
+
+
+
+Guidelines Document 
+
+
+
+Maier, C. (1 985). Math and the Mind's Eye. Project funded by the National 
+Science Foundation. 
+
+
+
+Mathematics Sciences Education Board (MSEB), Making Mathematics Work 
+for Minorities: Framework for a National Action P lan 1990-2000: Report of 
+a Convocation . 
+
+Pepper, F. and Steven Nelson. (1 985) A Monograph of Effectiv e Administra- 
+tive Practices in Indian Education . Portland, Oregon: Northwest Regional 
+Educational Laboratory. 
+
+Rhodes, R. (1990). "Measurements of Navajo and Hopi Brain Dominance 
+and Learning Styles." l ournal of American Indian Education . 
+
+Sawyer, D. (1991). "Native Learning Styles: Shorthand does Instructional 
+Adaptations 1 " Canadian Innrnal of Native Education . 
+
+Saxe, C. (1982). "Culture and the Development of Numerical Cognition: 
+Studies Among the Okaspmin of Papua New Guinea." In Children's Logical 
+and Mathematical Cognition, edited by Charles |, Brainers. New York: 
+Springer-Verlag. 
+
+Schindler, D. (1985). "Language, Culture, and the Mathematics Concepts 
+of American Indian Learners." |o urnal of American Indian Education . 
+
+Taylor, C. (1988). Hands-On Science . EDRS. 
+
+
+
+CO 
+
+Gwdelina Document 25 
+
+
+
+APPENDIX A: 
+
+CONFERENCE DESIGN, AGENDA, AND 
+PARTICIPANT AFFILIATIONS 
+
+This conference addressed three interrelated areas: teacher preparation, 
+student programs, and curricula as they relate to community/cultural needs 
+and issues in science, mathematics, and technology education for precollege 
+American Indian/Alaska Native students. 
+
+Input from American Indian/Alaska Native people is rarely sought when 
+programs and projects are put into place. Often the needs of the American 
+Indian/Alaska Native populations to be served are not adequately assessed, 
+resulting in ineffective programs and frustration among stakeholders. This 
+conference served as a channel to address the needs facing American 
+Indian/Alaska Native precollege students in science, mathematics, and 
+technology education, as expressed by American Indian/Alaska Native 
+educators and community members from across the country as well as 
+selected others involved in Indian education, 
+
+Conference Design 
+
+Conference participants included: a) principal investigators and/or their 
+designees on existing National Science Foundation grants that were geared 
+toward American Indian/Alaska Native precollege student progr ms, teacher 
+programs, or curriculum development; b) other invited participants; c) a 
+National Science Foundation representative; and d) American Indian Sci- 
+ence and Engineering Society staff. 
+
+» » » » » » 5 
+
+/ sitlfi ctunmunity resmtrct's ami petiple mast he 
+I ivitetl as one ttfthe Iwst assets accessible to teach - 
+eis tif [merit tin Italian' \hiskti \atite stutlents. 
+
+Conference participants elected to separate into three groups according 
+to their expertise/project representation: teacher programs, student pro- 
+grams, or curriculum development. This breakdown was determined nec- 
+essary to ensure that cultural needs related to each area were discussed even 
+though overlap exists. The groups were assigned a co-facilitator; however, 
+participants were also assigned to 1 mailer ciisc ussion groups as well as mixed 
+larger groups throughout the conference work sessic is. Whole-group 
+
+(mi k) Ca:tlc,.r.f \ Document 
+
+ERIC 
+
+
+
+discussions occurred periodically throughout the day, and this is when ideas 
+were shared and clarification was explored. 
+
+As a result of this conference structure, guidelines were developed 
+through collaborative discussions and group work sessions. Initial discus- 
+sions centered on individual concerns and experiences with Native Ameri- 
+can science, mathematics, and technology education. Issues were docu- 
+mented using a concept-webbing procedure that involved identifying 
+major areas related to each of the three topics: student programs, curricu- 
+lum projects and teacher programs. The concept webs established the 
+foundation for 'inking similar concerns and issues within topic groups. 
+Periodic discussions with all conference participants ensured consensus on 
+major issues and concerns as well as continued focus on the two conference 
+goals. 
+
+Conference Agenda 
+
+Conference on the Educational Needs of American Indian/Alaska Native 
+Students in Science, Mathematics and Technology 
+
+May 19-22, 1994 
+College Inn 
+Boulder, Colorado 
+
+
+
+Thursday, May 19 
+
+
+
+2:00 
+2:30 
+3:00 
+
+3:30-4:00 
+
+
+
+4:00 
+
+5:30-6:30 
+7:15 8:30 
+
+
+
+Check In @ College Inn 
+
+Poster Session set up 
+
+Introduction:* and Blessing 
+
+Keynote Speaker, Dave Warren (Santa Clara-Tewa) 
+Issues, Problems, Needs in Mathematics, Science and 
+Technology Education for American 
+Indian Elementary and Secondary 
+Students 
+
+Velcoming Remarks, Don |ones 
+Participant Introductions 
+formation of three main groups 
+
+Dinner 
+
+Poster Session and Dessert 
+
+
+
+
+Q utdehtm Document 
+
+
+
+27 
+
+
+
+Friday, 
+
+7:0O 
+8:00 
+
+
+
+10:30 
+
+
+
+12:00 
+1:30 
+
+5:30 
+
+
+
+May 20 
+
+Breakfast @ College Inn 
+
+Participants begin to share thoughts identified on their 
+concept web regarding the community/cultural needs and 
+issues in the area of curricula, teacher preparation programs 
+and student programs. 
+
+Small groups reassemble into their main groups and list the 
+needs and issues on large paper to be displayed and 
+discussed with all conference participants. 
+
+Lunch @ AISES headquarters office. 
+
+Whole group sharing 
+
+Discussion is lead by co-facilitators 
+
+BBQ @ NCAR 
+
+
+
+Saturday, May 21 
+
+7:00 Breakfast @ College Inn 
+
+9:00 Three main groups respond to the following question: What 
+
+strategies or methods should be employed to ensure that the 
+needs/issues identified on Friday are addressed in teacher, 
+student, and curriculum development projects for American 
+Indian/Alcska Native elementary and secondary students? 
+
+12:00 Lunch @ College Inn 
+
+1 :00 Continue working in three main groups and discuss strategies. 
+
+10 Report to whole group. Discuss/combine/clarify strategies. 
+
+5:30 Dinner @ College Inn 
+
+
+
+Sunday, May 22 
+
+
+
+7:00 
+8:30 
+
+10:30 
+
+11:00 
+11:30 
+12:00 
+
+
+
+O 28 
+
+:RIC 
+
+
+
+Breakfast 
+
+Three main groups describe hew strategies can be used to 
+address the needs and issues that have been identified. 
+
+Three main groups discuss possible formats for the final 
+document. 
+
+Whole group sharing 
+
+Closing Ceremony 
+
+Lunch @> College Inn 
+
+Guidelines Document 
+
+
+
+Participant Affiliations 
+
+
+
+Joe Aragon (Pueblo of Acona) 
+
+Grants High School 
+500 Mountain Road 
+Grants, NM 87020 
+
+Sandra Begay-Campbell (Navajo) 
+
+Sandia National Labs 
+Organiza ; ion 7906 
+Albuquerque, NM 87185-5800 
+
+Ardel Boes 
+
+Department of Mathematical 
+
+and Computer Science 
+Colorado School of Mines 
+Golden, CO 80401 
+oscar@isabella.mines.color.ido.edu 
+
+Leiand Bordeaux (Rosebud Sioux) 
+
+Sinte Gleska University 
+P.O. Box 490 
+Rosebud, SD 67570 
+
+Clarissa Bowman (Navajo) 
+
+Math/Science Department 
+Navajo Community College 
+P.O. Box 580 
+Shiprock, NM 87420 
+
+Ruth Bradford 
+
+(Turtle Mountain Chippewa) 
+
+Chapter 1 Director 
+Pine Ridge Schools 
+P. O. Box 123 
+Porcupine, SD 57772 
+
+Karen Buller (Comanche) 
+
+1205 Calle Luna 
+Santa Fe, NM 87501 
+sr.hlkaren@technet .nm.org 
+
+lean Flannagan Carlo 
+
+2365 King Road 
+Fairbanks! AK 99709 
+
+Jeffrey Craig 
+
+Discovery Center of Idaho 
+1 31 Myrtle Street 
+Boise, ID 83702 
+
+
+
+Guideline! Uoiunwnt 
+
+
+
+John Fix 
+
+Museum of Science and Technology 
+Franklin at West Jefferson 
+Syracuse, NY 1 3202 
+
+Kirby Cchachu (Zuni) 
+
+SIMSE NW Regional Field Specialist 
+San Juan College 
+4601 College Blvd. 
+Farmington, NM 87402 
+simkirby@technet.nm.org 
+
+W. Sakiestewa Gilbert (Hopi) 
+
+Northern Arizona University 
+Center for Excellence in Education 
+Box 5774 
+
+Flagstaff, AZ 86011 
+
+Theresa Halsey (Hunkpapa Lakota) 
+
+Boulder Valley School District 
+Title V Indian Education 
+P.O. Box 901 1 
+Boulder, CO 80301 
+
+Helen Herlocker 
+
+Hands-On Elementary Science 
+P.O. Box 661 
+Hapstead, MD 21074 
+HelenH8332@aol.com 
+
+John Hoover 
+
+Director of Research and Evaluation 
+AISES 
+
+1630 30th St. #301 
+Boulder, CO 80301 
+aises@spot.Colorado.EDU 
+
+Don Jones 
+
+Elementary, Secondary, and 
+
+Informal Lducation 
+
+National Science Foundation 
+
+Room 885 
+
+4201 Wilson Blvd. 
+
+Arlington, VA 222 50 
+
+d|ones@nsf.qov 
+
+
+
+Manert Kennedy 
+
+Colorado Alliance for Science 
+University of Colorado 
+Campus Box 456 
+Boulder, CO 80309-0456 
+kennedymh@cubldr.Colorado.EDU 
+
+Paige Kuni 
+
+6335 SW Seymour Street 
+Portland, OR 97221 
+pkuni@admin.ogi.edu 
+
+Clenda Lindley (Aleut) 
+441 1 Portage Blvd. 
+Juneau, AL 99809 
+
+Mike Lovejoy (Dakota Santee) 
+
+3M Center 251-A3-05 
+St. Paul, MN 55144 
+
+Ramona Montoya 
+
+(Isleta/San Felipe Pueblo) 
+
+St. Norbert College 
+100 Grant Street" 
+De Pere, Wl 541 15 
+montrrn@sncac.snc.edu 
+
+Sherry Neswood (Navajo) 
+
+ASU Department of Mathematics 
+
+Box 8/1804 
+
+Tempe, AZ 85287-1804 
+
+Martin Old Crow (Crow) 
+Little Big Horn College 
+P.O. Box 370 
+Crow Agency, MT 59022 
+
+Elizabeth Parent (Athabascan) 
+
+San Francisco State University 
+P.O. Box 2809.54 
+1600 Holloway Ave. 
+San Francisco, CA 941 32 
+
+Victor Pedro (Laguna Pueblo) 
+
+Sandia National Laboratories 
+Organization 3020 
+P.O. Box 5800 
+
+Albuquerque, NM 87185-1 351 
+
+Yvette Pueguero (Menominee) 
+
+100 S. Buchanan St. 
+Green Bay, Wl 4303 
+
+
+
+Freda Porter-Locklear (Lumbee) 
+
+Pembroke State Un'versity 
+Math/Science Department 
+P.O Box 5079 
+Pembroke, NC 28372-1510 
+fpl@pembvax1 .pembroke.edu 
+
+Debra K. Rabideau 
+
+AISES 
+
+1630 30th Si. #301 
+Boulder, CO 80301 
+aises@spot.Colorado.EDU 
+
+Alvin Rafelito (Navajo) 
+
+Ramah Navajo School Board 
+
+P.O. Box 190 
+
+Pine Hill, NM 87357 
+
+Cordelia Romero (San Felipe) 
+P.O. Box 363 
+Algodones, NM 87001 
+
+Sara Selfe 
+
+Dept. of Chemistry BG-10 
+University of Washington 
+Seattle, WA 98195 
+selfe@chem.WASHINGTON.edu 
+
+Walter Smith 
+
+University of Akron 
+Zook Hall 
+
+Akron, OH 44325-4202 
+wsmith@uakron.edu 
+
+Ed Walton 
+
+Cal Poly Kellogg Foundation 
+3801 West Temple 
+Pomona, CA 91 768 
+
+Bob Whitman (Navajo) 
+
+Dept. of Eire. & Comp. Engineering 
+University ol Colorado 
+Campus Box 425 
+Boulder, CO 80309-0425 
+
+Abbie Willetto (Navajo) 
+McREL 
+
+2550 South Parker Rd 
+Suite 500 
+Aurora, CO 8001 * 
+awillet@mcr;l.org 
+
+:),) 
+
+
+
+Gaidelmei Document 
+
+
+
+APPENDIX B: 
+
+REVIEW OF THE LITERATURE 
+
+ON BARRIERS TO MATHEMATICS, 
+
+SCIENCE AND TECHNOLOGY EDUCATION FOR 
+
+AFRICAN INDIAN/ ALASKA NATIVE STUDENTS 
+
+Recent reports document that high dropout rates and low academic 
+achievement by American Indian students stem in part from a pervasive 
+disregard for cultural relevancy in the education of American Indian stu- 
+dents. In particular, positive early and middle school experiences in science 
+and mathematics are essential to preparing young Indian people for science 
+and engineering careers (Task Force, 1989) yet a review of the literature 
+reveals barriers to such early positive experiences. 
+
+Western versus Native View 
+
+In contrast to the predominately mechanistic approach of Western 
+science, the Indian view is "holistic in that it tries to present a comprehensive 
+picture in which the parts and their value are less significant than the larger 
+picture and its meaning." American Indian cultures do not accept the 
+separation of science from other aspects of life, yet Indian students are 
+presented with a curriculum in which "knowledge of theworid is divided up 
+into separate categories that seem to be completely isolated from each 
+other" (Deloria, 1991 p. 64). 
+
+Expressions of a science thought process abound throughout traditional 
+American Indian agriculture, astronomy, ecology, and medical practices. In 
+addition, processes of science that include rational observation of natural 
+events, classification, and problem solving are woven into all aspects of 
+American Indian culture (Cajete, 1 986). Despite this intricate knowledge of 
+the natural world, American Indian culture and traditions are often not 
+included in curricula (Deloria, 1991). While mathematics was used in 
+sophisticated ways by many ancient tribal cultures, only Western math- 
+ematics history is treated in the classroom (Davison, 1992). 
+
+Relevance 
+
+Although most scientific knowledge today is passed on via textbooks and 
+rote memorization, traditionally "Indian science was practical, involved a 
+working knowledge of the environment, and was passed on to new 
+generations via stories, games, and the experiences of daily life" (Taylor, 
+1 988). An American Association for the Advancement of Sciences (1977) 
+
+
+
+34 
+
+Q 'tuidelines Document 31 
+
+
+
+report stated :hat the primary barrier to American Indian participation in 
+science was its lack of relevance to Indian lives and their survival as a culture. 
+Yet even today it is still the rare case where one sees the integration of science 
+and local culture in curricula. Even with this information there has been little 
+movement to change over the last 20 years. 
+
+~» ■» 4- ■» ■» ■» ■» 
+
+Technology should he researched and evalu- 
+ated before its implementation . Cultural integ- 
+rity must he maintained where current and 
+emerging technology are used in the curricu- 
+lum and community. 
+
+<■ ■» -fr ■» ■» 
+
+
+
+In regards to mathematics, textbooks typically are written for white, 
+middle-class American students and present mathematics as an essentially 
+abstract subject (Davison, 1 992); teachers also typically present it as such. 
+Mathematics is often not presented in a culturally relevant manner, using 
+situations the students find interesting and familiar (Saxe, 1 982). Students 
+see little or no use for the textbook-dominated mathematics they learn in 
+school (Schindler & Davison, 1985), viewing the subject as devoid of 
+meaning, just jargon and symbol manipulation. The result is mathematics 
+underachievement, anxiety, and aversion (Maier, 1985). 
+
+Learning Style 
+
+The typical approach to classroom teaching has been based largely on a 
+model of education that is teacher directed, employs indirect experience, 
+verbal expression, and a linear approach to learning and thinking, and 
+emphasizes the individual and competition (Pepper in Nelson, 1985). 
+Research regarding the attributes of effective instruction with American 
+Indian students indicates that hands-on, inquiry-based, and cooperative 
+learning are most appropriate (Brendtro & Brokenleg, 1 993; Sawyer, 1 991 ). 
+There is dissonance between the "watch me and do as I do" procedures used 
+in most schools and the traditional Indian educational process of "watch me 
+and try it when you feel comfortable with it" (Rhodes, 1990). 
+
+Evidence from research and observation indicates that American Indian/ 
+Alaska Native students usually do not respond to a verbal, abstract style of 
+mathematics learning and prefer instead familiar tactile and visual stimuli 
+(Davison, 1992). A verbal/abstract mode is often used when a visual/spatial/ 
+perceptual mode would be more appropriate. The elementary mathemat- 
+
+3 J 
+
+? Cuidehnei Docjment 
+
+
+
+ics curriculum normally deemphasizes geometry in favor of emphasis on 
+numbers and related operations. Success in geometry is related to a 
+kinesthetic processing of the environment, which is more attuned to the 
+American Indian learning style (Davison, 1992). 
+
+Institutional Barriers 
+
+In reservation schools, turnover is high (Task Force, 1989). Teachers 
+often lack adequate preparation, support, and delivery mechanisms (MSEB, 
+1 990) and must use outdated materials and poor equipment. Many schools 
+rely on tracking, a system that sorts students into achievers and under- 
+achieves and erodes desire to excel in mathematics as well as science 
+(MSEB, 1990). 
+
+Lack of Role Models 
+
+There are few positive American Indian role models in schools. Only six 
+states have a minority student enrollment greater than 1 5% in their teacher 
+education schools, colleges, and education departments. Out of every 400 
+students enrolled in teacher education programs nationally, only two are 
+American Indian (MSEB, 1990), and only a small percentage of these 
+students goes on to teach mathematics and/or science. 
+
+Psychological Dynamics 
+
+The expectations from parents, teachers, and students themselves are 
+low regarding mathematics and science. Lack of self-esteem and lack of self- 
+confidence erode student interest and inadequate early preparation pre- 
+vents students in high school and college from taking science and math- 
+ematics courses (MSEB, 1990). 
+
+
+
+Language 
+
+When English is spoken in the 
+home, or when an Indian-English 
+dialect is spoken, classroom 
+English is not reinforced out 
+side the school. Even In- 
+dian students who speak 
+English may not under- 
+stand the nuances of En- 
+glish-language thinking 
+(Davison, 1 992). Academic 
+performance relates 
+
+
+
+
+O Guidelines Document 
+
+
+
+ERIC 
+
+
+
+3 b 
+
+
+
+33 
+
+
+
+heavily to language proficiency. Students must possess "deep structure" 
+rather than "surface structure" language development in their first lan- 
+guage to best learn a second language. 
+
+Because of the differences in categorization and abstraction in American 
+Indian languages, learning science becomes a problem of learning an 
+entirely new specialized language (Schindler & Davison, 1 985). Students 
+have difficulty extracting information from science texts due to the highly 
+complex nature of the vocabulary, the organization of the text, the 
+language structu-e, their literacy skills, and the study required for mastery 
+
+
+
+Parental involvement in classrooms, an advi- 
+sory boards and school boards, and on pro 
+pram role models, mentors, and consultants is 
+essential. 
+
+Z»_ » ■» <■ ■» ~H±ZHjt — _ 
+
+of the concepts. Students often cannot comprehend the material because 
+of the terminology used and there may be many words unfamiliar to them. 
+Often students recognize all the words and think they know meanings; 
+however, a word may Save a dozen meanings and the students may know 
+only one (Cilliland, 1 992). 
+
+Often students are not given enough appropriate instruction in math- 
+ematics vocabulary, For example, confusion occurs when such terms as 
+"factor" and "product' have specialized meanings in the mathematics 
+classroom different from their regular English language meaning. Students 
+whose predominant language is not English have difficulty solving story 
+problems in mathematics (Davison, 1992). 
+
+In addition, many of the programs that target language-minority stu- 
+dents suffer from the compensatory education stigma. Because students in 
+compensatory education programs have low test scores in the "basics," 
+including reading skills and language improvement, almost all attentions 
+focused on impioving achievement in these areas. Other subjects, such as 
+science, tend to be addressed incidentally and hapfwardly after the other 
+work of the schoolday is done (DeAvila, 1985). 
+
+
+
+O 34 Guidelines Document 
+
+
+
+Cultural and Personal Sensitivities 
+
+Particularly in the study of biology, cultural beliefs may make certain 
+activities offensive to students. The killing of any animal or plant simply to 
+be studied may be considered a sacrilege. Dissection is often explicitly 
+forbidden due to the prohibition against touching the dead. Certain 
+animals are considered to have special powers and to discuss them may be 
+considered to bring harmful consequences (Cilliland, 1992; Levy, 1992). 
+
+As shewn in the discussion above, a clear need exists for educators to 
+identify guidelines for the development and use of culturally relevant 
+strategies and materials for American Indian/Alaska Native precollege 
+students in mathematics, science, and technology. Hodgkinson et al. 
+(1990) wrote that American Indians "should be more in control of their 
+future by having more control over their children's education" (p. 21). 
+Effective education for American Indians must have a holistic approach that 
+includes all those involved in the educational process— students, educators, 
+and the communities themselves. 
+
+This conference continued the process of identifying cultural concerns 
+and issues within teacher enhancement, student, and curriculum develop- 
+ment programs. It also provided educators the opportunity to develop a 
+recommended set of guidelines that reflect cultural and community needs 
+associated with mathematics, science, and technology education for 
+precollege American Indian students. 
+
+
+
+
+APPENDIX C: 
+
+SUGGESTED ADDITIONAL RESOURCES 
+
+
+
+Books/Documents 
+
+American Association for the Advancement of Science. (1 990). Sourcebook 
+for science, mathematics & technology education . Washington, DC: 
+
+American Council on Education. (1 989). Mi norities on campus: A handbook 
+for enhancing diversity . Washington, DC: 
+
+Burns, M. (1992). About teaching mathematics . White Plains, NY: Math 
+Solutions Publication. 
+
+Cahape, P., & Howley, C. (1992). Indian Nations at risk: Listening to the 
+people (Summaries of Papers Commissioned by the Indian Nations At Risk 
+Task Force of the US. Department of Education). Charleston, WV: 
+
+Cajete, C. (1994). Look to the mountain . Durango, CO: Kivaki Press. 
+
+
+
+Davidson, N. (1990). 
+CA: Addison-Wesley. 
+
+
+
+Menlo Park, 
+
+
+
+Drake, S. (1993). Planning integrated curriculum . Alexandria, VA: Associa- 
+tion for Supervision and Curriculum Development. 
+
+ERIC Clearinghouse for Rural Education and Small School;.. (1993). Rural 
+education directory: Organizations and resources . 
+Charleston, WV: Appalachia Educational 
+Laboratory. 
+
+Freedman, R. (1994). Open-ended 
+questioning: A handbook for educa- 
+tors . Menlo Park, CA: Addison- 
+Wesley Publishing. 
+
+Cibbs, ). (1994). Tribes: A new 
+way of l ea rning together . Santa 
+Rosa, CA: Center Source Publica- 
+tions. 
+
+Cilliland, H. (1988). Teaching the 
+Native American . Dubuque, IA.: 
+Kendall/Hunt Publishing Co. 
+
+
+
+
+O >6 
+
+IERIC 
+
+
+
+3;i 
+
+
+
+Guidelines Document 
+
+
+
+Johnson D, & Johnson R ( . (1 994). The New Circles of Learning . Alexandria, 
+VA: Association for Supervision and Curriculum Development. 
+
+Kagan, S. (1991). Co operative learning. San Juan Capistrano, CA: t Re- 
+sources for Teachers, Inc. 
+
+Kagan, M & Kagan, S. (1 992). Advanced cooperative learning : Playing with 
+t he elements, San Juan Capistrano, CA: Kagan Cooperative Learning 
+
+Math and Science Teachers for Reservation Schools. (1993). Earth's caretak- 
+ers. Native American lessons . Lawrence, KS: University of Kansas. 
+
+Math and Science Teachers for Reservation Schools. (1994). Signs of 
+tradition . Lawrence, KS: University of Kansas. 
+
+Native Education Initiative of the Regional Education il Laboratories. (1 993). 
+Native education di rectory: Organizations and resources for educators of 
+native people s of the Un ited States and territories . Charleston, WV: 
+
+Northwest Indian Child Welfare Institute. (1987). Cros s-cultural s kills in 
+Indian child welfare . Portland, OR: Parry Center for Children. 
+
+Oden, S., Kelly, M., Ma, /.., Weikart, D. (1 992). Challenging the potential . 
+Ypsilanti, Ml: High/Scope Educational Research Foundation. 
+
+Reyhner, J. (1992). Teaching American Indian students . Norman, OK: 
+University of OK Press. 
+
+Reyhner, J. (1 994). American Indian/Alaskan Native education . Bloomington, 
+IN: Phi Delta Kappa Edu' ational Foundation. 
+
+Stake, R., Raths, j., St. John, M., Trumbull, D., Jenness, D., Foster, M., 
+Sullivan, S., Denny, T., Easley, J. (1 993). T eacher preparation archives: Case 
+studies of NSF-lunded middle school science and mathematics Teacher 
+preparation projec ts. Urbana, IL: University of Illinois, CIRCE. 
+
+Taylor, C. (1993). Guide to multicultural resources . Atkinson, Wl: 
+Praxis Publications. 
+
+U.S. Department of Energy. (1 993). Guidebook to excellence: Adirectory o f 
+federal facilities and other re so urces for mathematics and science educatio n 
+improvement . Oak Ridqe, TN: Directorate for education and human re- 
+sources, NSF. 
+
+
+
+Q udelinei Document 
+
+
+
+t u 
+
+
+
+37 
+
+
+
+V 
+
+\ 
+
+
+
+Wilke, R. (1993). Environmental education: Teacher resource handbook. 
+Millwood, New York: Kraus International. 
+
+Journals 
+
+American Indian and Alaska Native Mental Health Research 
+
+Arithmetic Teacher 
+
+Canadian lournal of Native Education 
+
+Cooperative Learning 
+
+lournal of American Indian Edu c ation 
+
+lournal of Navajo Education 
+
+Sc ience 
+
+Standards 
+
+Curriculum and Evaluation Standards for School Mathematics Addenda 
+Series, National Council of Teachers of Mathematics (1992) 
+
+Curriculum and Evaluation Standards for Scnooi Mathematics, National 
+Council of Teachers of Mathematics (1989) 
+
+National Science Education Standards. Nation,!! Academy Press (1 994) 
+Evaluation 
+
+Stevens, F., F. Lawrenz & Sharp, L. (1994). User-Friendly Handbook for 
+Project Evaluation: Science. Mathematics, Engineering and Techno logy 
+Education . National Science Foundation, Arlington, VA. 
+
+Worthen, B., & [. Sanders. (1987). Educationa l e valuatio n. White Plains, NY: 
+Longman. 
+
+
+
+
+Luidelines Document 
+
+
+
+USER FEEDBACK FORM 
+
+
+
+Instructions: Please complete this form after you have reviewed and/or used 
+this Guidelines document. 
+
+Your primary interest in this document is as a (check one) 
+
+1. K-4 Teacher ~1 5. Program Grant Reviewer ~1 
+
+2. 5-8 Teacher ~1 6. Program Evaluator ~1 
+
+3. 9-12 Teacher ~1 7. Funding Agency ~1 
+
+4. Curriculum Developer ~1 8. Other 
+
+Briefly describe how you hav? or will make use ot this Guidelines doc un lent as related 
+to your primary interest area? (Include type of program or prefer t you ate involved 
+in, if applicable.) 
+
+
+
+Rate the following items 1 -S. Not Very NA 
+
+Use *6 lot not applicable Helpful Helpful 
+
+How effective was this document in increasing your understanding and application 
+of the cultural need', ol American Indian/Alaska Native students in teat hint] anil 
+learning? 1 2 3 4 S 6 
+
+How helpful was this document in planning your science, mathematits, and 
+technology educational instruction/program tor American Indian- Alaska Native 
+students? I 2 3 4 S 6 
+
+How helpful was this document in implementing your science, mathematics, and 
+technology educational instruction/program for American Indian 'Alaska Native 
+students? 1 2 i -1 S (, 
+
+How helpful was this document in evaluating vour science, mathematics, and 
+technology educaJonal instruction/program for American Indian/Alaska Native 
+students? 12 S 4 r > 6 
+
+How effec tive was this document in generating positive t hangr in your instruction/ 
+program climate and interactions with Americ an Indian/Alaska Native students? 
+
+1 2 3 4 S 6 
+
+Additional Comments: 
+
+
+
+Please return this form to; 
+
+John Hoover • Guide'ines Evaluation • 1630 30th St. #301 • Boulder, CO 80301 
+
+
+
+I 
+
+
+
+ERIC 
+
+
+
+uidelines Document 
+
+
+
+39 
+
+
+
+NOTES 
+
+
+
+o 
+
+ERIC 
+
+
+

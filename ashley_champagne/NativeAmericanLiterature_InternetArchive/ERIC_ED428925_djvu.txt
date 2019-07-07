@@ -1,0 +1,1402 @@
+DOCUMENT RESUME 
+
+
+
+ED 428 925 
+
+
+
+RC 021 958 
+
+
+
+AUTHOR 
+TITLE 
+PUB DATE 
+NOTE 
+
+
+
+AVAILABLE FROM 
+PUB TYPE 
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+Rubin, Daniel S. 
+
+Sm'algyax Language Renewal: Prospects and Options. 
+
+1999-00-00 
+
+17p . ; Chapter 3 in: "Revitalizing Indigenous Languages. 
+Papers presented at the Annual Stabilizing Indigenous 
+Languages Symposium (5th, Louisville, KY, May 15-16, 1998)"; 
+see RC 021 955. 
+
+Web site : http : // j an .ucc . nau . edu/~ j ar/RIL_Contents .html 
+Reports - Evaluative (142) -- Speeches/Meeting Papers (150) 
+
+MF01/PC01 Plus Postage. 
+
+♦American Indian Education; American Indian Languages; 
+
+Canada Natives; Educational Needs,* Educational Practices; 
+Elementary Secondary Education; Foreign Countries; *Language 
+Maintenance; *Native Language Instruction; *Second Language 
+Instruction; Teaching Methods 
+British Columbia; *Tsimshian 
+
+
+
+ABSTRACT 
+
+
+
+School District 52 (Prince Rupert, British Columbia) is 
+committed to providing support for the renewal of Sm'algyax, the language of 
+the Tsimshian Nation. However, the Tsimshian Nation must provide guidance and 
+establish a positive direction for Sm'algyax language programs. This paper 
+examines language renewal issues and options as a basis for decision making 
+by the Tsimshian Nation about language teaching and usage. Sections of 
+background information cover: (1) the current state of Sm'algyax (precarious, 
+
+with mostly elderly speakers) ; (2) differentiation between processes of 
+
+language learning and language acquisition; (3) five possible levels of 
+language fluency; (4) the need for a family and community component of 
+language learning,* (5) the need to incorporate traditional oral literature 
+that embodies the Tsimshian world view into language programs; and (6) the 
+need to create a Sm'algyax Language Authority to make language policy and 
+provide ongoing support for language renewal . An Internet search and 
+communication with other educators yielded examples of effective language 
+learning programs in indigenous communities in North America, Australia, and 
+Pacific Islands. Practices in these programs included use of print-based 
+materials, teacher-centered instruction, media-based instruction, 
+computer-assisted instruction, Internet resources and hypertext, 
+learner-controlled instruction, experiential approaches, cultural immersion, 
+linguistic immersion, and mentorship or master-apprentice models. 
+Recommendations and recent Tsimshian program developments are discussed. (SV) 
+
+
+
+***************************************************************************** 
+
+* Reproductions supplied by EDRS are the best that can be made 
+
+* from the original document. 
+
+
+
+Sm’algyax Language Renewal: Prospects and Options 
+
+Daniel S. Rubin 
+
+
+
+Z iTIONAL RESOURCES INFORMATION 
+„ ' CENTER (ERIC) 
+
+ha s been reproduced as 
+received from the person or organization 
+originating it. 
+
+□ Minor changes have been made to 
+improve reproduction quality. 
+
+
+
+Points of view or opinions stated in this 
+document do not necessarily represent 
+official OERI position or policy. 
+
+
+
+This paper describes the Sm ’ algyax language program being imple- 
+mented in School District 52 in Prince Rupert , British Columbia. It 
+examines ways to support language renewal ranging from traditional 
+forms of instruction and print-based materials to computer interaction 
+and internet resources. 
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL HAS 
+BEEN GRANTED BY 
+
+
+
+Jon Allan 
+
+
+
+Reyhner 
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+School District 52, located in Prince Rupert, British Columbia, Canada, has 
+made a major commitment to First Nations' language and culture programs. To 
+follow through on the commitment to provide support for the renewal of 
+Sm’algyax, the language of the Tsimshian Nation, followed by the Nisga’a and 
+Haida languages, a well-informed and strongly supported approach to language 
+programs is needed. The development of programs in the three traditional First 
+Nations languages in District 52 is not a simple matter. Finding and training 
+instructors, defining the approaches to be taken, and developing appropriate 
+materials requires new partnerships and new ways of looking at language learn- 
+ing. Nor does the responsibility for language renewal rest entirely with the schools. 
+It is widely recognized and affirmed, by local and non-local, native and nonna- 
+tive individuals, that responsibility for the renewal and spread of traditional lan- 
+guages and cultural practices rests inherently with First Nations communities. 
+
+Over the past decade, support for First Nations language learning within 
+Brkish Columbia schools has created a range of language programs, but these 
+programs have not produced a significant resurgence in fluency. It may be that 
+no school-based program alone can have this effect (Cantoni, 1997; Fishman, 
+1996). However, with the foundational work that has now been completed and 
+support from new communications technologies, unprecedented possibilities are 
+emerging, just as the hope for language continuity fades with the aging of those 
+who still speak traditional languages. 
+
+There was an immediate need for the Tsimshian Nation to provide guidance 
+and to establish a positive direction for Sm’algyax language programs. At an- 
+nual meetings in 1994 and 1995 the Tsimshian Tribal Council affirmed the im- 
+portance of cultural and language continuity in its resolutions and supported the 
+establishment of a Sm’algyax Language Authority. 
+
+The urgency of the situation calls for teamwork and a commitment between 
+the Tsimshian Nation and District 52 to find new contexts in which the language 
+will be used on a daily and/or occasional basis. To be effective and legitimate, 
+key decisions regarding the preservation and teaching of Sm’algyax must be 
+made by the Tsimshian community. These decisions are needed quickly and 
+
+
+
+'“First Nations” is a term currently used to describe indigenous (American In- 
+dian) groups in Canada. 
+
+
+
+2 
+
+
+
+1 
+
+
+
+Revitalizing Indigenous Languages 
+
+should be informed by the best information available regarding the state of the 
+language, language program options, and the urgency of the situation. 
+
+
+
+State of the language T . . K - f - . 
+
+The current state of Sm’ algyax, like other First Nations languages in British 
+
+Columbia and across North America, is precarious after 100 years of interac- 
+tions that have systematically undermined and discouraged language use and 
+cultural continuity. At this time however, a resurgence of cultural pnde and au- 
+tonomy is taking place. Since Sm’ algyax and Tsimshian cultural traditions have 
+persisted in spite of the forces of assimilation, there is cause for optimism. With 
+the active support of schools and other institutions, programs to support an- 
+guage renewal have been established. Yet, even with this support, the continuity 
+of Sm’ algyax is in jeopardy. District 52, like others in British Columbia has had 
+language programs in place for two decades, and some evidence should exist of 
+a basic increase in language use and fluency among the young if these programs 
+have been effective. In fact, there is little evidence that a transfer of linguistic 
+
+skills or usage to the younger generation has taken place. 
+
+While it is inspiring and reassuring to see the public use of Sm algyax within 
+the formal affairs of the Tsimshian Nation, and while many individuals have 
+called for improved instruction in the language, there are few existing settings in 
+which the use of Sm’ algyax is required. According to one knowledgeable local 
+educator who has worked with the language over the past two decades only a 
+few hundred fluent speakers remain, and almost all of these are over years 
+old. The lack of young people speaking Sm’algyax threatens the survival of 
+Tsimshian culture. According to Nisga’a linguists and educators Alvin and Bert 
+McKay, “A people’s own language is a symbol of their ethnic identity as well as 
+a repository of much of their cultural heritage; its loss threatens the life and 
+vitality of the culture” (1987, p. 66). This is especially true because the language 
+is more than a symbol. It embodies a way of seeing, which is expressed in its 
+syntax and structure even more than in the particular words that make it up. 
+
+It is understandable, with the complex issues facing First Nations commu- 
+nities land claims, health issues, educational funding and academic parity, is - 
+
+eries, forestry, and devolution toward self-government— that language renewa 
+has not received more attention until now. However, language renewal may e 
+one key to cultural integrity and effectiveness. For First Nations individuals 
+who are becoming well established economically and socially within the larger 
+society, maintaining a connection with the worldview and traditions of their 
+people has become very important. For many First Nations students, their deeply 
+felt interest in learning about and maintaining their cultural connections may be 
+a source of motivation for language learning. But how can this motivation best 
+
+be supported and extended? 
+
+
+
+Learning vs. acquiring a language 
+
+Language learning is a complex process, even though we recognize that 
+young children accomplish it readily. Infants have the ability to make the full 
+
+
+
+
+18 
+
+3 
+
+
+
+Sm’algyax Language Renewal: Prospects and Options 
+
+
+
+range of sounds found in all the languages of the world, but this ability lessens 
+as we grow older. Acquisition of a second language is more problematic for 
+older people, and language learning in adult education is fundamentally differ- 
+ent from language learning for children. 
+
+Traditional instructional approaches based on rote instruction and repeti- 
+tive practice have been used in District 52, as in other districts, but they have not 
+been particularly successful in developing fluency. There is a crucial difference 
+between accumulating words and phrases and knowing how to use them in a 
+real life situation. As some educators and linguists have pointed out, this is the 
+difference between “learning” a language and truly “acquiring” that language 
+for daily use. 
+
+T.L. McCarty (1988) notes that, “The distinction between acquiring and 
+learning a language is... essentially a distinction between meaning and surface 
+form.” (p. 74). Teacher-centered instruction has not helped learners acquire a 
+deeper understanding of meaning, because (a) the approach to learning has been 
+passive rather than communicative, (b) support for language use outside the 
+school has been largely missing, and (c) students have limited opportunities to 
+use the language communicatively in school. Again, McCarty writes. 
+
+Classroom-based language development activities. . .frequently ignore 
+what is known about the structure and acquisition of language, separat- 
+ing out discrete linguistic tasks to be ‘taught’ as isolated tasks. Such 
+approaches disembody language, depriving Indian children of the op- 
+portunity to use their language... in real communication, (p. 81) 
+
+As Steve Greymoming (1997 & this volume) attests from his experience 
+with the teaching of Arapaho, the focus on learning vocabulary and a lack of 
+opportunity for the daily practice of speaking that is found in much classroom 
+language instruction limits children’s natural abilities to learn and use language. 
+McCarty (1988) maintains that, “Language acquisition. . . is a much more com- 
+plex and subconscious process than repeating, imitating, and practicing” (p. 71). 
+There is a need to recognize the elusive, subtle, emotional, and personal aspects 
+of language use. McCarty concludes that “the subconscious processes of mak- 
+ing sense of language input, in purposeful communication, most influence oral 
+language development in both first and second language situations. Conscious 
+learning, on the other hand, has a more limited role” (pp. 74-75). On the struc- 
+tural level, language is made up of units called phonemes (sound units), mor- 
+phemes (units of meaning), syntax (word order), usage rules (how words are to 
+be used), and interpretive rules (how to tell what words mean). However, in 
+terms of actual language use, language is the vehicle for feeling, imagery, po- 
+etry, story, and metaphor. To understand the essence, the life within the lan- 
+guage, is the point of language learning. 
+
+The most effective situations for language learning are communicative, natu- 
+ral, interactive, creative, subtle, powerful, and metaphoric. Sylvia Ashton-Wamer 
+(1963) built on this understanding of language in the programs she developed 
+
+
+
+
+19 
+
+
+
+Revitalizing Indigenous Languages 
+
+
+
+while working with Maori students in New Zealand. She used a questioning 
+technique she called “Key Vocabulary” to draw out words of great personal 
+significance from students, then built her language program around using these 
+personally potent words in sentences and stories. When I worked with Sylvia in 
+the mid- 1 970s I saw that it was difficult for her to pass on her understanding to 
+teachers. The traditions of the education system, based on rational deductive 
+thinking and rote learning, break everything up into little bits, so we easily miss 
+the point: what does this mean to the child? Without a personally meaningful 
+reason for children to learn and use their language, why would we expect them 
+to learn it? Thus, an effective language program design depends on defining 
+meaningful outcomes for the program. 
+
+Five levels of fluency 
+
+Five possible levels of fluency can be identified as possible outcomes for 
+language instruction. The same level may not be appropriate as a goal for all 
+learners. 
+
+• passive: able to understand common words or phrases, with or with- 
+out deeper comprehension of their meaning 
+
+• symbolic: able to use common phrases and sentences in formal set- 
+tings, as symbols of language participation and cultural ownership 
+
+• functional: able to speak the language, with basic understanding of 
+its syntax, grammar, and rules of usage and a minimal vocabulary 
+
+• fluent: able to understand and speak the language with confidence 
+and skill, with understanding of normal syntax, grammar and rules 
+of form, and an extensive and growing vocabulary 
+
+• creative: able to understand and speak the language fluently in ways 
+that create new word usage and structures, showing a deeper under- 
+standing of the language and its potential new uses 
+
+People who speak a language obviously operate at different levels at different 
+times. But it should be possible to define general or minimum goals for school 
+programs in Sm’algyax at different grade levels. Until we define the goals of the 
+program, it will be extremely difficult to develop curricular scope and sequence 
+or implement effective language programs. 
+
+Need for a community dimension 
+
+It is widely recognized that the main responsibility for traditional language 
+learning must centre in the home. It is not appropriate for the school to take this 
+responsibility away from families and communities who ultimately own the lan- 
+guage. Schools can play a role by organizing and presenting opportunities for 
+children to learn and use Sm’algyax, but any attempt to teach the language solely 
+within the school will fail (Cantoni, 1997). This caveat has serious and immedi- 
+ate implications for language programs in this district. 
+
+
+
+
+20 
+
+
+
+5 
+
+
+
+Sm ’ algyax Language Renewal: Prospects and Options 
+
+How will the community component be organized? Who will organize and 
+present it? How will the language find its way into the homes of parents who do 
+not presently speak Sm’algyax? How will embarrassment and the initial diffi- 
+culty of learning the sounds and syntax of Sm’algyax be overcome? First Na- 
+tions educators are aware that dialect differences and other issues can fragment 
+the community, making the process of language renewal very difficult. Across 
+three generations there can be elders with a traditional orientation, parents look- 
+ing both forward and back, and youth caught up in MTV and being kids. All 
+three generations must get together if First Nations cultures are to be saved. 
+
+The community dimension of language programs has yet to be defined for 
+the Tsimshian Nation. Until the village communities and urban groups, with the 
+active and visible support of the Tsimshian Tribal Council, stand together to 
+support language renewal, it is unlikely that any program School District 52 
+implements will have a significant impact. 
+
+Oral literature as curriculum 
+
+Another reason it is difficult to teach the language in the schools is that 
+Sm’algyax belongs to a real world setting that is natural, traditional, and imbued 
+with its own set of meanings and ways of seeing. It embodies a different 
+worldview from the Western scientific one around which schools are organized. 
+Some attempts to record, document, and transmit the Tsimshian worldview have 
+been made. These have ranged from anthropological and linguistic studies to 
+illustrated books for children. Throughout British Columbia, First Nations groups 
+have been authoring their own locally appropriate expressions of culture and 
+traditions. 
+
+District 52’s major project, undertaken in collaboration with Tsimshian com- 
+munities, resulted in the completion of the Tsimshian Series, seven books based 
+on traditional adawx (historical narratives) that help define the Tsimshian Na- 
+tion. Although the stories presented within the Series were taken from oral lit- 
+erature, they are certainly as valid a basis for curriculum as the teachings of 
+math, biology, or eurocentric geography. As First Nations educators and leaders 
+are increasingly pointing out, traditional ways of knowing do not necessarily 
+have to be referenced to the European traditions to be valid. It will be important 
+to actively support and validate the use of oral literature in the schools. 
+
+There is also a deeper way of seeing the role and importance of these sto- 
+ries, beyond their use in curriculum. The traditions of the Tsimshian, as ex- 
+pressed in adawx, in stories recorded by William Beynon, Franz Boas, and oth- 
+ers who have studied these traditional tellings, present a creative theme of re- 
+birth and regeneration. 
+
+We can look at the present desire to reaffirm and renew culture and lan- 
+guage as an opportunity for creating new cultural forms. Within the feasting 
+tradition that is so important to the Tsimshian people are models of how culture 
+and language are to be passed on. The Tsimshian community can certainly draw 
+on its own traditions to ensure its continuity, define who will pass on the lan- 
+
+
+
+6 
+
+
+
+21 
+
+
+
+I 
+
+I 
+
+Revitalizing Indigenous Languages 
+
+guage, and determine how this will be accomplished. To defer this responsibil- 
+ity to the education system will likely lead to language loss. 
+
+The development of well-organized, highly visible initiatives that capture 
+the imagination and support of the community will be very important. This pro- 
+cess may become easier once a Sm’algyax Language Authority is established. 
+
+Establishing a Sm’algyax Language Authority 
+
+The creation of a Sm’algyax Language Authority is an essential step toward 
+language renewal. With a language authority in place, decisions regarding train- 
+ing and certification of language teachers, maintenance of traditional patterns of 
+grammar and syntax, and a screening process for new words and word forms 
+can be made with input from representatives of the principal groups within the 
+Tsimshian Nation. More fundamentally, this body can serve to unify and focus 
+the cultural aspirations of the Tsimshian people at a time when unity and com- 
+mitment are needed to keep the language from disappearing. As a body with the 
+authority to review and develop language policy, the Sm’algyax Language Au- 
+thority can move in a positive direction to elicit enthusiasm and support from 
+village Band Councils and other Tsimshian community groups. It can also pro- 
+vide guidance for the planning, development, implementation, and evaluation 
+of new programs. 
+
+
+
+Options for Language Learning 
+
+I have found the Internet to be an invaluable tool for researching examples 
+of effective language learning in indigenous communities in North America and 
+elsewhere, and communication with educators in Australia, Vanuatu, Hawai i, 
+California, South Dakota, Ontario, and throughout British Columbia revealed a 
+range of programs and approaches from which to choose. Depending on the 
+goals established for a language program, using one or more of the ways of 
+supporting learning discussed below may be appropriate. 
+
+Print-based materials 
+
+Over the past decade, the major focus in District 52 and throughout First 
+Nations education has been on developing print-based materials: books, 
+worksheets, pamphlets, posters, and games. The quality of these materials has 
+improved over the years, from hastily assembled scrapbook-like collections of 
+stories, visual images, and word lists to published narratives and texts written in 
+the traditional language, with or without English translations. 
+
+Some print materials have been developed to a level that is high quality and 
+effective. In a few instances, actual textbooks for traditional languages have 
+been compiled. Daisy Sewid-Smith developed a Liq’wala/Kwak’wala instruc- 
+tional grammar, which is being used in a secondary program in the Campbell 
+River School District. When I visited the Campbell River program, I was im- 
+pressed by its effectiveness. Its strength was its organization around the func- 
+
+
+
+22 
+
+ERIC 
+
+
+
+7 
+
+
+
+Sm ’algyax Language Renewal: Prospects and Options 
+
+
+
+tional structure of the language, which helps new speakers respect and use the 
+language in its traditional form, rather than modifying it into pseudo-English 
+forms. 
+
+Our own Tsimshian Series is the local result of an ambitious publishing 
+venture. The Series is richly illustrated and presents a range of traditional adawx 
+that embody and pass on the traditions and pride of the Tsimshian people. While 
+the general reaction to the Series, both within and outside the district, has been 
+quite positive, there have also been some issues raised, including concerns about 
+the small sans-serif type, difficulty for non-speakers in pronouncing the 
+Sm’ algyax text, and the fact that the text, although written at a lower intermedi- 
+ate level in terms of word length, is actually more appropriate for use at the 
+lower secondary level because of the complexity of the concepts that are pre- 
+sented. 
+
+Current projects of First Nations Education Services Department of School 
+District 52 include development of a new series of illustrated books that include 
+an intermediate level seaweed book and a carefully selected collection of pri- 
+mary level Txamsm stories. Work is underway to develop a series of phrase 
+books for basic conversation, as well as a “Seasonal Rounds” poster series that 
+will bring 400 Sm’algyax words into classrooms and homes. 
+
+Print materials are essential to develop literacy (reading and writing) in 
+Sm’algyax. But even the best texts and storybooks do not ensure language con- 
+tinuity. Future development of print materials should be guided by the goals of 
+the entire program. The dictionary and grammar developed by linguist Dr. John 
+Dunn represent first steps toward a comprehensive reference work on the 
+Sm’algyax language that is urgently needed as the main reference for language 
+learning. Consideration should be given to expanding these references and trans- 
+ferring them to a computer data file, so they can be continuously expanded and 
+improved. This work must be done while it is still possible to find living fluent 
+speakers of Sm’algyax, individuals who are now of advancing age. 
+
+Dr. Dunn has made available course materials from his UNBC course based 
+on the adawx “Adaoga gan Sit’aataksa wil Baasaxga Gyemk.” This material has 
+been reproduced and spiral bound and is now being used in the village schools. 
+
+Teacher-centered instruction 
+
+Based on visits to village schools, meetings, and discussions with the lan- 
+guage teachers, it is clear that teacher-centered instruction is having limited ef- 
+fectiveness in developing fluency in Sm’algyax. The teachers have pointed out 
+the following issues and problems: 
+
+• it is difficult to teach Sm’algyax effectively in short, intermittent 
+half-hour sessions 
+
+• issues of respect and focus arise while working with students 
+
+• students are having difficulty retaining basic vocabulary 
+
+• students do not use their language after they leave the classroom 
+
+• there is little support from the home for language learning 
+
+
+
+
+23 
+
+
+
+Revitalizing Indigenous Languages 
+
+• there is a need for more effective and vivid learning materials 
+the traditional cultural context for learning the language is missing 
+from schools 
+
+None of these issues is the result of lack of training or commitment on the part of 
+the language teachers. The teachers have been the backbone of this program for 
+years and are doing a good job with their students. These frustrations are inher- 
+ent to the general situation of language loss, and the difficulties are characteris- 
+tic of all second language programs. 
+
+The key reasons for limited success have been: (1) language and culture are 
+not at the center of the curriculum, (2) instruction is repetitive and does not 
+require students to actively develop and use their language, (3) approaches based 
+on passive learning generate lower levels of commitment and interest than ac- 
+tive student-centered learning, and (4) the quality of locally developed materials 
+for language learning in Sm’algyax has been limited by the time and resources 
+available in the past. 
+
+The tendency to develop programs in which the teacher is the main or only 
+source of the language should be seriously examined. This approach restricts 
+the ways students learn the language and tends to limit interactions to passive 
+listening, repetition, and imitation. This teacher-centered instructional approach 
+may develop the lower levels of language use (passive and symbolic) but will 
+certainly not encourage higher levels (functional, fluent, and creative). 
+
+Additional inservice sessions for language teachers and training of new lan- 
+guage teachers could address some of these issues and encourage the use of 
+more learner-centered approaches, including games, interactive strategies, cul- 
+tural immersion activities, new materials for use in the home, and the develop- 
+ment of community-based programs to supplement and support school programs. 
+New policies regarding the place of traditional culture and the Sm’algyax lan- 
+guage in schools may be needed if traditional learning is to occupy a place of 
+greater prominence within the school. 
+
+While comfortable and familiar, the teacher-centered approach (especially 
+with the present intermittent scheduling of language instruction) offers little hope 
+of developing any higher level of fluency. 
+
+Media-based instruction 
+
+Other school districts and sites in other jurisdictions have begun to use elec- 
+tronic media as a focus for language learning. Computer-interactive and com- 
+puter-aided instruction are considered separately below, with the focus here be- 
+ing audiotapes, videotapes, slide programs, and interactive language machines, 
+such as those that play flashcards with audiotape affixed. 
+
+These materials have been used mainly to supplement and support teacher- 
+focused instruction. Media-based materials allow students to learn more inde- 
+pendently, but scheduling constraints still impose severe limits on students’ ability 
+to spend time with the materials, unless they are available for them to take home. 
+
+
+
+24 
+
+
+
+9 
+
+
+
+Sm’algyax Language Renewal: Prospects and Options 
+
+Taking these materials home can make them expensive, since a certain amount 
+of loss or damage is inevitable. 
+
+Videotapes, because of the protective design of the case and the familiarity 
+of video, could readily bring language experiences into the home for both the 
+students and parents. Videos in the home would also expose preschool children 
+to spoken and written Sm’algyax. However, development of high quality video 
+programming can be time-consuming and expensive. Through partnerships with 
+other districts and tribes or with independent filmmakers, inexpensive, effective 
+programming could be created. One possible format for such materials would 
+be a children’s show, hosted by an elder, with segments to include a traditional 
+story, some focus on basic vocabulary used in conversation, a segment high- 
+lighting contemporary life in the villages (fishing, seaweed gathering, feasting, 
+band council operations), and so forth. District 52 already has on hand two ex- 
+amples of stories told in English by Ernie Hill, taped in Hartley Bay, that pro- 
+vide simple but effective examples of videos for use in presenting traditional 
+content through storytelling. A video series is one option to be further explored. 
+
+Computer-interactive and computer-assisted instruction 
+
+Computer learning programs are becoming common. They are being used 
+at home, in schools, and in the workplace. The positive qualities of such pro- 
+grams are that they are inexpensive, can be reproduced in large numbers, are 
+predictable, often have self-evaluation built in, are (in a limited sense) interac- 
+tive, and most schools have access to some computer hardware. However, few 
+schools have enough computers at this time to give every student access to one 
+on a daily basis. 
+
+Computer-assisted instruction (sometimes the term is used to mean any in- 
+teractive learning program on a computer) is probably more effective if the com- 
+puter is used as a reference or supplementary source of linguistic information. 
+For example, an interactive dictionary can help students look up word mean- 
+ings, practice pronunciation, or check spelling. A computer-based language pro- 
+gram can be used by a small group of students working as a team to solve a 
+puzzle or play a game. 
+
+First Nations Education Services has begun assembling the hardware and 
+software required for CD-ROM production. Thus School District 52 will soon 
+be able to develop and manufacture their own interactive CDs that play on a 
+computer. This format offers several interesting possibilities: 1) Stories can be 
+linked with a dictionary in the computer’s memory that would pronounce the 
+story in Sm’algyax, translate words, phrases or the whole story into English, and 
+provide visual images to accompany the story. 2) Games and puzzles can be 
+developed that require language skills for their use or solution. This would pro- 
+vide an added incentive for language learning by students. 3) Reference materi- 
+als can be developed, such as a list of all recorded Sm’algyax texts, giving older 
+students opportunities to become researchers, studying and developing new uses 
+for Tsimshian narratives. 
+
+
+
+25 
+
+
+
+10 
+
+
+
+Revitalizing Indigenous Languages 
+
+Contact with other sites (such as the Carrier-Sekani and the Yinka Dene 
+Institute) indicates that while they have been making use of this format, it was 
+expensive to produce and is only one tool for language learning. Based on evalu- 
+ation of a CD-ROM program for English language learning that I helped carry 
+out for the Saanich School District, I would offer the same conclusion: a CD- 
+ROM disk is a tool, not a complete program. As such, it may be worthwhile to 
+develop the capacity for CD-ROM production, but the chief limitation is that 
+once transferred to disk, materials are static and unchanging, at least until you 
+revise and issue new versions. 
+
+The Hawaiian language program, supporting immersion schools based on 
+the Maori language nest model, has now moved into production of computer 
+programs. The staff of the Hawaiian Language Center, based at the University 
+of Hawai’i at Hilo, have produced a number of interactive programs written 
+entirely in Hawaiian (no English ever appears onscreen). They are currently 
+translating the Macintosh operating system into Hawaiian. This ambitious pro- 
+gram can be accessed via the Internet as well (see hypertext section, below). 
+
+A number of other computer programs for language learning and linguistic 
+research have been developed, including a directory of aboriginal languages in 
+Australia stored on a computer and accessible worldwide via the Internet. The 
+resources at the Australian languages site include a manual for language work- 
+ers, laying out a step-by-step procedure for recording and accessing linguistic 
+information on computer. These resources suggest new computer-based possi- 
+bilities that are made even more interesting with the introduction of the World 
+Wide Web and html as a text format. 
+
+Internet resources and hypertext 
+
+Research has increasingly made use of the Internet, and specifically that 
+aspect of the Net referred to as the World Wide Web. On the Web, text is written 
+in hypertext markup language (html, for short). HTML allows the reader to jump 
+from a word or phrase to another point on the Web automatically, just by click- 
+ing on the highlighted text. So text written in html generates a nonlinear web of 
+information. As First Nations education sites have begun to appear on the Web, 
+they are being linked together into a constantly changing network of new possi- 
+bilities that educators can access. 
+
+Text written in html also has some special applications for language learn- 
+ing. The wide range of possibilities includes a new type of dictionary, with words 
+linked in a variety of ways (see e. g., Miyashita & Moll, this volume), including 
+some that are more natural than alphabetic and are actively linked to texts such 
+as stories. For language learners and researchers, the resulting hypertext docu- 
+ment can begin to reflect the realities of the original culture, rather than a Euro- 
+pean interpretation. One example of this is a program called “The Red Road,” 
+which appears on the Web as a series of webpages complete with vivid First 
+Nations imagery and links to a large amount of cultural information. 
+
+We do need to find ways to embody the worldview and structure of the 
+language visually. This is also important because Sm’algyax, like some other 
+
+
+
+Sm’algyax Language Renewal: Prospects and Options 
+
+First Nations languages, emphasizes relationship and action, rather than focus- 
+ing on nouns as label words. A standard dictionary should still be developed, but 
+the hypertext version could be much more flexible and responsive to the needs 
+and interests of learners. 
+
+Various types of sites exist on the Internet, including mail servers that de- 
+liver personal e-mail, web homepages that represent companies, government 
+offices, and educational sites, and listservers that “publish” discussions by send- 
+ing comments out to a mailing list of subscribers and chatlines that provide for 
+real-time discussion among several persons at once. A new and innovative type 
+of site is called “Pow-Wow.” Pow-Wow allows up to seven people at once to 
+link together and talk to each other, while moving through the Net as a group. 
+This offers some exciting new possibilities for linking learners from different 
+sites (say, two village schools and two schools in town) and allow them to use 
+the Internet as a learning tool while sharing what they learn. 
+
+A school district or even First Nations Education Services could establish 
+its own homepage on the Web, allowing students, speakers, teachers, and lin- 
+guists to continuously access and add information to it. In this way, the Internet 
+would offer twenty-first century technology to the revival of an ancient lan- 
+guage while helping learners acquire valuable contemporary job skills. 
+
+The Silent Way: Letting learners learn 
+
+Jim Green, a linguist and teacher who works with the Lakota language in 
+South Dakota, has developed a method of language learning called the Silent 
+Way after the work of Caleb Gattegno (1972). It is called this because the teacher 
+does a minimum of talking, always speaks in the native language, and encour- 
+ages learners to do the talking and the learning. Green describes this approach as 
+“subordinating teaching to learning” and explains that this strategy is based on a 
+deep respect for learners, a respect not always found in education. 
+
+The Silent Way has been widely used in math teaching, where manipulable 
+materials like attribute blocks and Cuisenaire rods allow learners to learn di- 
+rectly. The approach is based on the ideas of Gattegno, a professor of mathemat- 
+ics. Jim Green, who worked with Gattegno, uses these same colored wooden 
+blocks to teach concepts like number, color, and simple language forms in Lakota. 
+His internet site (http://www.geocities.com/Paris/9463/method.html) explains 
+this method. The site includes color-coded phonics charts that help students learn 
+the sounds of Lakota without a teacher having to model them. 
+
+Although this approach sounds exotic, it is fairly simple and suggests that 
+there are ways to create and use materials that encourage students to move at 
+their own pace, building language skills in a nonthreatening environment. How- 
+ever, ultimately they will need to begin using language interactively, so any 
+approach based on materials, whether print, media-based, or computer-based, 
+will benefit from an active, experiential component. 
+
+
+
+I 
+
+
+
+Revitalizing Indigenous Languages 
+
+Experiential approaches to language learning 
+
+During November and December of 1 995 a plan was completed for an inte- 
+grated language and culture curriculum for Grades 8 and 9 in Lax Kw’alaams. 
+Inspired by the idea that language and culture need each other to be meaningful, 
+the program is an integrated Sm’algyax Language/Tsimshian Culture course with 
+units focused on traditional seasonal activities. Copies of the outline of this course 
+are available from First Nations Education Services (825 Conrad Street, Prince 
+Rupert, BC VAJ 3B8 Canada). 
+
+Experiential learning focuses on doing, rather than on passive listening and 
+reading. There are many examples of successful experiential education in physi- 
+cal education, outdoor education, cultural exchange, and apprenticeship pro- 
+grams. For Sm’algyax to have meaning and relevance to learners, it may help to 
+combine its use with traditional hands-on activities, such as berry picking, fish- 
+ing, food preparation, smoking fish, hunting, drum making, dancing, carving, 
+weaving, and feasting. These experiences provide opportunities for language 
+use and place demands on students that are holistic and natural: to have respect 
+for those with traditional knowledge and skills, to pay attention, to practice manual 
+skills, and to remember important details. 
+
+Experiential approaches, according to input from the members of the 
+Sm’algyax Committee, the First Nations Role Models and the students them- 
+selves, would be a preferred way to learn the traditions of the Tsimshian people 
+and to begin to speak Sm’algyax. An initial, informal survey indicated Grade 8 
+students in Lax Kw’alaams also support this option. 
+
+Experiential programs generally take a good deal of preparation, resources, 
+and scheduling to be successful. If strongly supported by the community and the 
+school, they can provide memorable experiences for children, experiences they 
+will carry with them for many years. The use of writing, reading, and speaking 
+in the Sm’algyax language can be woven through such programs. Experiential 
+programs may involve field trips, hands-on activities, and require a more flex- 
+ible attitude toward scheduling on the part of school staff. 
+
+Cultural immersion 
+
+Cultural immersion carries the experiential approach to its logical conclu- 
+sion: living and working in a traditional setting for a period of time. This ap- 
+proach has been the basis for Rediscovery Programs, Culture Camps, and other 
+immersion programs. By combining language and culture in an outdoor setting, 
+students are given a chance to absorb and learn from their elders in natural sur- 
+roundings. This is a powerful option, but one that will require an even stronger 
+commitment from the local community and careful preparation to ensure the 
+safety of participants, the availability of necessary resources, and positive expe- 
+riences for participants. 
+
+A great deal of expertise now exists regionally and locally, so there is no 
+need to “reinvent the wheel” when it comes to organizing and setting up such a 
+program. It would be up to each local community to provide space and resources 
+
+
+
+28 
+
+o 
+
+ERIC 
+
+
+
+13 
+
+
+
+Sm’algygx Language Renewal: Prospects and Options 
+
+for such a program, which probably would operate best during the summer 
+months. 
+
+Another variation on cultural immersion is a setting such as a fishing camp, 
+traditional smokehouse, or carving shed in which language use and cultural learn- 
+ing become natural parts of participation in a traditional activity. This type of 
+approach should be encouraged because it is so motivating for learners and pro- 
+vides a natural, rather than an artificial, academic setting to support learning 
+about the traditions of the Tsimshian people. 
+
+Linguistic immersion 
+
+The best known, and probably most successful, immersion program for lan- 
+guage learning among First Nations would probably be the Maori language nests, 
+originally established over 20 years ago in New Zealand. Now extending into 
+the university level, these immersion schools offer instruction in Maori in all 
+subjects. Canada’s French immersion schools are based on the same premise: 
+that to learn a language one must live and work in it on a full-time basis. 
+
+Not everyone thrives in such a setting, but for some learners, with the en- 
+thusiastic support of their parents, the language immersion setting has been very 
+effective. However, any approach to schooling that separates and isolates a group 
+of students will have some disadvantages as well as advantages. 
+
+A complete immersion environment requires that teachers be fully fluent 
+and supplied with materials that allow them to work in the language of choice. 
+This is quite a challenge when the language is not a modem one in use within a 
+large population. A careful look at the availability and cost of creating new ma- 
+terials would be advisable before any commitment to an indigenous language 
+immersion school is made. 
+
+English as a Second Language (ESL) teachers, who deal with mixed groups 
+of immigrant children in Canada and the United States, have become frustrated 
+with standard learning materials and have led the way in creating some of the 
+most exciting and effective materials for language learning. They focus on inter- 
+actional strategies and games that allow learners to become more independent 
+and to play while learning. This approach can be highly effective if students are 
+encouraged to accept independence and responsibility. Many examples, mod- 
+els, and strategies could be borrowed from the ESL field to create new materials 
+for indigenous language learning. 
+
+Mentorship and language continuity 
+
+Presently, there is an immediate need for younger fluent speakers of 
+Sm’algyax to act as linguists and teachers. Training these individuals through 
+intensive mentorship may be one of the best investments that can be made at this 
+time. The master-apprentice model developed in California is an excellent way 
+to provide this training (Hinton, 1994). It has been suggested by Margaret Ander- 
+son, a scholar who works with Tsimshian languages, that if the thousands of 
+dollars previously spent on researching and writing dictionaries and grammars 
+were allocated to such mentorships (through honoraria for mentors and students) 
+
+29 
+
+O 
+
+ERJC 
+
+
+
+14 
+
+
+
+I 
+
+
+
+Revitalizing Indigenous Languages 
+
+the language would already have been passed on to a core group of younger new 
+speakers. The work of language teachers and teachers who have included tradi- 
+tional cultural elements in our schools has been invaluable. However, while hon- 
+oring the work that has been done, it is now urgent that new approaches be 
+considered. The development of mentorship programs to help create a core group 
+of younger speakers should be seriously considered as an option for language 
+renewal. 
+
+Recommendations 
+
+It is recommended that a high priority be placed on developing policy to 
+support new approaches to language learning for Sm’algyax in School District 
+52. A combination of approaches may provide the best solution and offer the 
+best opportunity to develop and field-test new materials and instructional strat- 
+egies. The key issues to be considered at this time are: 
+
+1 . What level of fluency will be the goal for First Nations language 
+programs? 
+
+2. Who will provide instruction in Sm’algyax in the future and how 
+will they be trained? 
+
+3. When and where will spoken and written Sm’algyax be valued and 
+used? 
+
+4. What role will local communities and the home play in language 
+renewal? 
+
+An update: Two years later 
+
+As of May 1998 we are much further down the road toward language re- 
+newal in Tsimshian territory than we were in 1996. Some of the steps that have 
+been taken are: 
+
+1 . A regional language renewal conference Dm Sa Gatgyedm Algyaga 
+Ts’msyeen (Strengthening the Tsimshian Language) was held in June 
+1997 under the sponsorship of the Tsimshian Tribal Council. At that 
+conference a strong endorsement for language renewal was received 
+from those present, including chiefs, matriarchs, and elders. 
+
+2. The Sm’algyax Year One Program was established in Prince Rupert 
+schools, effectively doubling the number of children learning the lan- 
+guage within School District 52. Sm’algyax is now an alternative 
+option to French as a second language for all students in Grades 5, 6, 
+
+7 and 8 in the town schools. There are four fluent speakers and four 
+support teachers working in this program. Currently, more than 500 
+students are enrolled in Sm’algyax, including enrollment in the vil- 
+lage schools. 
+
+3. Evening programs for adults are now being offered in two venues in 
+Prince Rupert and also in the village communities of Metlakatla, 
+Kitkatla, and Lax Kw’alaams. 
+
+
+
+30 
+
+o 
+
+ERIC 
+
+
+
+15 
+
+
+
+Sm’algyax Language Renewal: Prospects and Options 
+
+4. Development of a detailed curriculum plan and learning resources 
+for Year One is well underway by a committee of fluent speakers and 
+teachers collaborating with the Sm’algyax Language Curriculum 
+Developer. 
+
+5. Planning for the next three years of instruction within the Grade 5-8 
+Program is proceeding. 
+
+6. Drama programs utilizing English and Sm’algyax have resulted in 
+the production of three original plays, which were supported by fund- 
+ing from the provincial teachers’ association. 
+
+7. The Ts’msyeen Sm’algyax Authority has been established and has 
+incorporated with an earlier existing language authority for the lan- 
+guage to provide guidance and authority as an arm of the Tsimshian 
+Tribal Council. 
+
+8. Tonya Stebbins, a doctoral student based at the University of 
+Melbourne, working with a committee of elders and speakers, has 
+completed a draft of a revised and updated set of dictionaries for 
+Sm’algyax. The resulting document is also stored as a database, which 
+may be updated on an ongoing basis into the future with the guid- 
+ance of the language authority. 
+
+9. The local Role Model Program continues to provide exposure and 
+involvement in the language and the culture to all students in our 
+district. 
+
+10. Four storybooks about Txamsm, the Tsimshian trickster/transformer, 
+were published with color illustrations by prominent Tsimshian art- 
+ists and text in Sm’algyax. 
+
+1 1 . A new curriculum guide Respecting the Salmon is currently under 
+development with the support of the provincial Ministry of Educa- 
+tion. This guide incorporates original stories in English and 
+Sm’algyax and information, both traditional and contemporary, about 
+the six species of salmon that are so important to the local culture. 
+
+
+
+Note: This paper is based on a discussion paper submitted to the First Nations 
+Education Council, School District 52, on January 10, 1996, and revised May 
+10, 1998. 
+
+
+
+References 
+
+Ashton-Wamer, Sylvia. (1963). Teacher. New York: Simon & Schuster. 
+
+Cantoni, Gina. (1997). Keeping minority languages alive: The school’s re- 
+sponsibility. In Jon Reyhner (Ed.), Teaching indigenous languages. Flagstaff, 
+AZ: Northern Arizona University. 
+
+Fishman, Joshua. (1996). Maintaining languages: What works and what 
+doesn’t. In Gina Cantoni (Ed.), Stabilizing indigenous languages. Flagstaff, AZ: 
+Northern Arizona University. 
+
+
+
+31 
+
+
+
+16 
+
+
+
+Revitalizing Indigenous Languages 
+
+
+
+Gattegno, Caleb. (1972). Teaching foreign languages in schools the silent 
+way (2nd ed.) New York: Educational Solutions. 
+
+Greymoming, Steve. (1997). Going beyond words: The Arapaho immer- 
+sion program. In Jon Reyhner (Ed.), Teaching indigenous languages. Flagstaff, 
+AZ: Northern Arizona University. 
+
+Hinton, Leanne. (1994). Flutes of fire: Essays on California Indian lan- 
+I guages. Berkeley, CA: Heyday. 
+
+Leavitt, Robert M. (1991). Language and cultural content in Native educa- 
+tion. Canadian Modern Language Review, 47(2), 266-79. 
+
+Marsden, Susan. (Ed.). (1992). Suwilaay’msga Na Ga’niiyatgm, Teachings 
+
+of our grandfathers. Prince Rupert: First Nations Education Services, School 
+! District 52. 
+
+• McCarty, T.L. (1988). Oral language development for Indian students. In 
+
+; Jon Reyhner (Ed.), Teaching the Indian child, A bilingual/multicultural approach. 
+
+' Billings: Eastern Montana College. 
+
+McKay, Alvin, & McKay, Bert. ( 1 987). Education as a total way of life: the 
+Nisga’a experience. In Jean Barman, Yvonne Hebert, & Don McCaskill (Eds.), 
+Indian education in Canada: The challenge (Vol. 2, pp. 64-85). Vancouver, BC: 
+University of British Columbia. 
+
+Sewid-Smith, Daisy. (1992). Liq’wala/Kwak’wala, Book I. Campbell River: 
+Education Center, School District 72. 
+
+Upper, Mary. (1993). Lessons from language acquisition: Reports on a study 
+of Oji-Cree first language learning in the home. In Selected papers from the 
+1988 and 1990 Mokakit conferences. Vancouver, BC: Mokakit Education Re- 
+search Center. 
+
+
+
+
+32 
+
+17 
+
+
+
+
+U.S. Department of Education 
+
+Office of Educational Research and Improvement (OERI) 
+Educational Resources Information Center (ERIC) 
+
+
+
+s 
+
+
+
+
+REPRODUCTION RELEASE 
+
+(Specific Document) 
+
+
+
+I. DOCUMENT IDENTIFICATION: 
+
+
+
+Title: 
+
+
+
+i/ / "/ ^ ^ ^ 
+
+
+
+'5 
+
+
+
+•<? .-i ^ i-t $ 
+
+
+
+
+
+
+CL 
+
+
+
+^ CA, ^ ^ ^ y 
+
+
+
+Author(s): ^ 6,^ « £ ^ v , / /& /U / /V 3r <f A I vK *4 /■< 
+
+T } y j '"y° 
+
+Corporate Source: j Publication Date: 
+
+/l/ ^ ^ fU * /) s- 1 -& 0*^ <k. CA ^ .■ u'-e ^ > i~t~y j / *) *) °7 
+
+
+
+II. REPRODUCTION RELEASE: 
+
+
+
+In order to disseminate as widely as possible timely and significant materials of interest to the educational community, documents announced 
+in the monthly abstract journal of the ERIC system, Resources in Education (RIE), are usually made available to users in microfiche, re proceed 
+paper copy, and electronic/optical media, and sold through the ERIC Document Reproduction Service (EDRS) or other ERIC vendors. Credit is 
+given to the source of each document, and, if reproduction release is granted, one of the following notices is affixed to the document 
+
+
+
+If permission is granted to reproduce and disseminate the identified document please CHECK ONE of the following two options and sign at 
+the bottom of the page. 
+
+
+
+■pa 
+
+t 
+
+Check here 
+For Level 1 Release: 
+
+Permitting reproduction in 
+microfiche (4* x 6" film) or 
+other ERIC archival media 
+(e.g., electronic or optical) 
+end paper copy. 
+
+
+
+The sample sticker shown below will be The sample sticker shown below will be 
+affixed to all Level 1 documents affixed to ail Level 2 documents 
+
+
+
+PERMISSION TO REPRODUCE AND 
+
+
+
+
+PERMISSION TO REPRODUCE AND 
+
+
+DISSEMINATE THIS MATERIAL 
+
+
+
+
+DISSEMINATE THIS 
+
+
+HAS BEEN GRANTED BY 
+
+
+
+
+MATERIAL IN OTHER THAN PAPER 
+
+
+
+
+
+
+COPY HAS BEEN GRANTED BY 
+
+
+A0 
+
+
+
+
+N0 
+
+
+c$ 
+
+
+
+
+J* 
+
+
+J 
+
+TO THE EDUCATIONAL RESOURCES 
+
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+
+
+INFORMATION CENTER (ERIC) 
+
+
+
+
+INFORMATION CENTER (ERIC) 
+
+
+
+□ 
+
+t 
+
+Check here 
+For Level 2 Release: 
+
+Permitting reproduction in 
+microfiche (4* x 6* film) or 
+other ERIC archival media 
+(e.g., electronic or optical), 
+but not in paper copy. 
+
+
+
+Level 1 
+
+
+
+Level 2 
+
+
+
+Documents will be processed as indicated provided reproduction quality permits. If permission 
+to reproduce is granted, but neither box is checked, documents will be processed at Level 1. 
+
+
+
+Sign 
+
+here-* 
+
+please 
+
+
+
+
+•/ hereby grant to the EducationaJ Resources Information Center (ERIC) nonexclusive permission to reproduce and disseminate 
+this document as indicated above. Reproduction from the ERIC microfiche or electronic/optical media by persons other than 
+ERIC employees and its system contractors requires permission from the copyright holder. Exception is made for non-profit 
+reproduction by libraries and other service agencies to satisfy information needs of educators in response to discrete inquiries. m 
+
+
+Signature: 
+
+JL 
+
+
+Printed Name/Position/Title: 
+
+/f] 5 5(7 i. / c*v / C o i'- 
+
+
+^anization/A&ress: y .. U .V. 
+
+/3c / f77V 
+
+/"/ •) •; hi\ r v f ~ /) 2 tf <3 / / 
+
+J J 
+
+
+Telephone: 
+
+f 1 c- f L 3 4? f if 0 
+
+
+FAX: 
+
+rz 3 ij z _ c ; 
+
+
+E-Mail Address: 
+
+U <.r~ 
+
+
+Date: 
+
+y / 2-r / 9 *7 
+
+
+
+f) Li , edf 4-x 
+
+
+
+( over ) 
+
+
+
+

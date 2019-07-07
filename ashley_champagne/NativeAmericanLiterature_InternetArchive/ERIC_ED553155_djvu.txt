@@ -1,0 +1,591 @@
+International Journal of Language Studies 
+
+Volume 8, Number 3, July 2014, pp. 107-116; DOI: 10.13140/2.1.2463.8086 
+
+
+The bilingual self or selves? 1 
+
+Mohammad Ali Salmani Nodoushan, IECF, Iran 
+Jesus Garcia Laborda, Universidad de Alcala, Spain 
+
+A concise but strong review of the literature on bilinguals’ perception of 
+'self' led to the question of whether bilinguals perceive themselves as 
+different or the same people when they function in different languages. 
+183 participants (N =183] randomly assigned to two half-groups took 
+both the English and Persian versions of the Self Concept Scale (SCS] in 
+two counter-balanced administration sessions with a time interval of 3 
+weeks. Results, after data analysis using descriptive and inferential 
+statistics, indicated that Iranian-Americans have a more realistic self 
+concept when they function in English than when they function in 
+Persian. Their average self concepts in English and Persian do not 
+match. Moreover, the female Iranian-American shows a larger 
+discrepancy in her English and Persian self concepts than her male 
+counterpart. This indicates that females are more open to alienation 
+than males. The results of this study lend empirical support to claims 
+made by previous researchers that bilinguals have a kind of split 
+personality. After the filed study, it was concluded that a bilingual is not 
+a unique person who assumes different identities when he functions in 
+the different languages he knows, but that a bilingual possess two 
+different 'guises' or ‘selves' which are language-specific and are used in 
+accordance with the language the bilingual speaks at any given point in 
+time. 
+
+Keywords: Bilingualism; Mercenary Relativism; Split Personality; Linguistic 
+Schizophrenia; Multilingualism 
+
+1. Introduction 
+
+Man has not always been monolingual. Nowadays, it is quite easy to find many 
+people who know more than one language. In some places, there are people 
+who can speak several languages just like native speakers. This has resulted in 
+many psycholinguists wondering whether bilinguals and multilinguals feel 
+
+
+1 Reprinted from Salmani Nodoushan, M. A. [2013], The bilingual self or selves? 
+Annals of"l Decembrie 1918" University of Alba Iulia - Philology, 14{ 2], 503-510. 
+
+
+ISSN: 2157-4898; EISSN: 2157-4901 
+
+©2014 IJLS; Printed in the USA by Lulu Press Inc. 
+
+
+
+
+
+108 
+
+
+M. A. Salmani Nodoushan & J. Garcia Laborda 
+
+
+like different people when speaking different languages (Pavlenko, 2006], It is 
+not known whether bilinguals and multilinguals are perceived as different 
+people or the same individual by their interlocutors. Nor is it known if they 
+behave differently when they speak different languages, and if so, what causes 
+these differences. 
+
+These questions are quite often asked in debates about bilingualism and 
+multilingualism, but they have rarely been raised in the literature in the field 
+(Grosjean, 1982; Heinz, 2001; Pavlenko, 2006], Although these questions may 
+look naive and simplistic, some people have taken them as far as to claim that 
+even when an individual functions in the same language, they perform as 
+different identities. Doctors in a hospital, for example, do not function in their 
+native language as they would do when they engage in casual conversation in 
+supermarkets. Changing registers, contexts, interlocutors, or interactional 
+aims will definitely leave a great impact on the language forms people choose 
+to use. If anything, monolingualism is in essence a dynamic phenomenon 
+(Pavlenko, 2006], Even within the limits of his native language, the individual 
+continuously acquires novel linguistic repertoires and behaves and feels 
+differently (moves between the selves] when he talks to his parents versus his 
+children. 
+
+The important question to be asked is, therefore, whether 
+bilinguals/multilinguals see themselves as different people when using 
+different languages. This paper will try to shed some light on this issue, and 
+will seek to answer the question. In the rest of this paper, the term 
+bilingualism is used as a cover term for both bilingualism as well as 
+multilingualism. By the same token, the term bilingual will also include 
+multilinguals. 
+
+2. Background 
+
+It may be relieving to some people to assume that the study of bilingual and 
+multilingual selves is not worth the time and energy scholars would like to 
+invest in them. On the contrary, there may be some other people who might 
+want to claim that the notion of the existence of bilingual/multilingual selves 
+is short-sighted, and to argue that the bilingual/multilingual is at best a 
+unique self who assumes bilingual/multilingual identities. 
+
+Pavlenko (2006] argues that this is misleading and reductionist for at least 
+two reasons. On the one hand, taking such a position is in effect claiming that 
+‘self-perception' is equal to ‘performance’, or that 'self' is equal to 'identity' 
+which even the layman knows is not. The arguer who takes these terms to be 
+tantamount is, as Pavlenko (2006] puts it, deeply discomforted with focusing 
+on something as intangible as 'feeling like a different person' and prefers 
+'objective' identity performance data (conversations, texts, task performance] 
+
+
+International Journal of Language Studies, 8(3], 107-116 
+
+
+109 
+
+
+over ‘subjective' self perception data’ (p. 1], On the other hand, mistaking 
+'identity' for 'self' is problematic in that it frames bilingualism or 
+multilingualism as an extended version of monolingualism instead of taking it 
+as a phenomenon in its own right — a unique psycholinguistic phenomenon 
+(Pavlenko, 2006], 
+
+This claim as to the distinction between bilingual/multilingual ‘selves' versus 
+'identities' receives further support and credence if one notices what lies 
+behind the acquisition of a new register in a first language. The child has 
+already acquired the phonological, lexical, and morphosyntactic components 
+of the language. As such, acquiring a new register is not tantamount to 
+acquiring a new phonological, lexical, and morphosyntactic system. Rather, 
+the acquisition of the register is facilitated by the phonological, lexical, and 
+morphosyntactic overlaps (Pavlenko, 2002], 
+
+The learning of a new language, however, means the learning of a new 
+linguistic system altogether, especially when the language being learnt is 
+'typologically' different from the native language of the learner. It may even 
+require that the learner face new and unfamiliar surroundings (Pavlenko, 
+2002], When the learner is well beyond the age of puberty (i.e., in late 
+bilingualism or multilingualism], these differences become even more 
+pronounced. Perhaps this is because of the fact that in late bilingualism or 
+multilingualism, the "speakers are socialized into their respective languages 
+at distinct points in their lives, childhood versus adulthood, and in distinct 
+sociocultural environments" (Pavlenko, 2006, p. 2], 
+
+Perhaps one of the pioneers in the field of bilingual studies is Auer (1998] 
+who noticed that, in bilingual communities, changes in behavior, be it verbal 
+and nonverbal, are tolerated and are readily taken for granted provided that 
+they are accompanied by a change in language. When using two dialects of the 
+same language, the language boundaries are often blurred. Auer (1988] 
+further noticed that in monolingual communities with a strict localized 
+culture, people who know more than one language are at times perceived as 
+people with two conflicting characters by their clan members. In the 1930s, 
+Nazi scholars in Germany took it for granted that a person was, no doubt, 
+Jewish if he spoke two languages or more (Henss, 1931], Henss also noticed 
+that Nazis wrongly labeled bilinguals as inferior since their pathological inner 
+split, in their struggle for becoming one, resulted in the deterioration of their 
+intellects and morality. Bilingualism was a demerit. A bilingual was 
+considered as a person who had some sort of bilinguality of feelings, and was 
+expected to switch social values and moral principles as he switched 
+languages (Sander, 1934], This was taken too far to even claim that the 
+bilingual was like a soldier of fortune or a mercenary who accomplishes his 
+missions without being emotionally involved in the action being performed, a 
+
+
+110 
+
+
+M. A. Salmani Nodoushan & J. Garcia Laborda 
+
+
+person who drops social values, principle, and ethics as he switches the 
+language. Early on, in North America such apparently less racist but clearly as 
+hurting professional terms as 'anomie', 'alienation', ‘social isolation', ‘nervous 
+strain', 'cognitive dissonance’, and 'acculturation' were coined to ease the overt 
+sarcasm in the term inferior (Bossard, 1945; Child, 1943; Schumann, 1978; 
+Spoerl, 1943], 
+
+The upsurge of migration between countries in the second half of the 20 th 
+century resulted in the revival of ethnic consciousness and brought about a 
+greater degree of social tolerance and understanding. The benefits of 
+bilingualism found some room to show up. Nevertheless, bilingualism, in 
+many countries and especially in those with local static cultures, is still 
+considered as a problem of two incompatible identities — one that can be 
+termed 'linguistic schizophrenia’ (Pavlenko, 2006], 
+
+Alder [1977], in an exposition that can be considered as the treaties on 
+bilingualism, warned that "bilingualism can lead to split personality and, at 
+worst, to schizophrenia" (p. 40], Along the same lines, Clarke [1976] likened 
+overseas students in the USA to schizophrenic patients who find themselves 
+in a state of limbo and between the familiar traditional world of their origin 
+and the modern world of the USA, to which he referred as the 'clash of 
+consciousness'. Even in the 1990s, some scholars persisted in using the term 
+'schizophrenia' as the metaphor for bilingualism in their discussion of the 
+problems brought on by cognitive, linguistic, cultural dissonance, and culture 
+shock (Amati-Mehler, Argentieri & Canestri, 1993], In political discourse, too, 
+the same metaphor is occasionally used. The British Home Secretary in 2002, 
+for instance, remarked that the use of English — rather than the native 
+language of the target community — in Asian British households would help 
+'overcome the schizophrenia which bedevils generational relationships' in 
+immigrant families. 
+
+The use of the term schizophrenia with positive overtones is sometimes seen 
+in bilinguals' own reflections (Kellman, 2000; Todorov; 1985; Todorov, 1994], 
+Translingual writers often notice that the same story written in different 
+languages may sound differently. For instance, Pavlenko [2006] recounts the 
+story of a childhood French-English bilingual named Julian Green [1941], who 
+recalled that his memoir took a whole different shape when he decided to 
+write about his early years in English rather than French. Green (1941] 
+argued that the pattern of disclosures and omissions, the rhythm, the choice 
+of words and details, and his stance in his memoir varied between the two 
+languages even when the subject remained the same: 
+
+New trains of thought were started in my mind, new associations of 
+ideas were formed. There was so little resemblance between what 1 
+wrote in English and what I had already written in French that it might 
+
+
+International Journal of Language Studies, 8(3], 107-116 
+
+
+111 
+
+
+almost be doubted that the same person was the author of these two 
+pieces of work (Green, 1941, p. 62, cited in Pavlenko, 2006, P. 4], 
+
+Todorov (1985, 1994] narrated a similar experience. He lived in France for 18 
+years and then went back to Bulgaria to lecture for a group of intellectuals 
+who could not understand him. He had to choose between denying his 
+Bulgarian origin and go on lecturing as a French intellectual or denying his 18 
+years of thinking as a French intellectual and recourse to his Bulgarian habits. 
+Finding himself paralyzed in describing this situation, Todorov appealed to 
+Bakhtin's (1981] notions of 'dialogism' and 'polyphony' that refer to the 
+"presence of several independent and often conflicting voices within a single 
+text" (Pavlenko, 2006, P. 4], Other scholar who noticed the duality embedded 
+in bilingualism were Beaujour (1989], Besemeres (2002], De Courtivron 
+(2003], Kellman (2003], Pavlenko (2001, 2004], Perez Firmat (2003], 
+Stroinska (2003], Valenta (1991], and Hoffman (1989], They used a wealth of 
+terms to refer to this dual feeling; they include "tongue snatching, border 
+crossing, borrowing, bigamy, betrayal, bifurcation, fragmentation, multiplicity, 
+split, gap, alienation, dislocation, and double vision" (Pavlenko, 2006, P. 5], 
+These are metaphors that convey 
+
+... an array of emotions: guilt over linguistic and ethnic disloyalties, 
+insecurity over the legitimacy of a newly learned language, anxiety 
+about the lack of wholesome oneness, angst over the inability to bring 
+together one's incommensurable worlds, and sadness and confusion 
+caused by seeing oneself as divided, a self-in-between, a self in need of 
+translation (Pavlenko, 2006, P. 5], 
+
+The literature reviewed up to here leads to the question of whether the scope 
+of inquiry in bilingualism can be expanded from the qualitative introspections 
+of translingual writers, immigrants, and expatriates on their own experiences 
+to data-driven quantitative findings of empirical research. As such, the 
+present study was conducted with the aim of providing empirical support for 
+introspective claims made by the cited bilingual writers in relation to the dual 
+inner self of bilinguals. 
+
+3. Method 
+3.1. Participants 
+
+183 Iranian American (IV=183] participated in this study. They all belonged in 
+the upper-middle socio-economic class. Their age range was between 21 and 
+56. They had all spent almost the first half of their lives in Iran followed by the 
+second half in the USA. 96 of them were male (n=96] and 87 were female 
+(n= 87], 
+
+
+112 
+
+
+M. A. Salmani Nodoushan & J. Garcia Laborda 
+
+
+3.2. Instrumentation 
+
+To gauge the participants' self concept, both the English and the Persian 
+versions of the Self Concept Scale (SCS] developed by Rogers (1961] were 
+used. This scale consists of 25 Likert-type items. The respondents were 
+expected to respond to the two forms of the questionnaire in each of the 
+English and Persian versions. Form A asks the respondents to rate their own 
+25 attributes on a Likert scale of 1 to 7. Form B asks the respondents to rate 
+the same 25 characteristics on the same Likert scale of 1 to 7 for the kind of 
+person they would like to be. Items 4, 12, 15, 16, 19, 21, 22, and 23 on the 
+scale require reverse scoring. Item 25 has been reproduced here as an 
+example: 
+
+Item 25: Selfish 1 2 3 4 5 6 7 Humble 
+
+To see whether each respondent's self-concept is normal, the scores of that 
+participant on both forms should be subtracted from each other so that the 
+distance for each item is calculated. The resulting distance values should then 
+be squared and summed. The square root of the sum should then be 
+calculated. If the result is between 0 and 7, the self concept of the participant 
+is normal. However, if the result is 7+, the self concept is not normal; the 
+higher the score, the greater the discrepancy between actual self concept and 
+ideal self concept. 
+
+3.3. Procedure 
+
+The participants were randomly assigned into two half-groups. A counter- 
+balanced design was used for the administration of the Persian and English 
+versions of the questionnaire. The first half group received the English version 
+followed by the Persian version. The second half group received the Persian 
+version followed by the English version. There was a three week interval 
+between the two administrations. The design has been schematically 
+represented in figure 1. 
+
+
+
+Figure 1. Schematic representation of the counter-balanced design of scale 
+administration. 
+
+
+4. Results and discussion 
+
+The first step in data analysis was to identify the self-concept scores for the 
+
+
+
+
+
+
+International Journal of Language Studies, 8(3], 107-116 
+
+
+113 
+
+
+participants. The distances between item scores on forms A and B of the 
+questionnaire in both the English and the Persian versions were computed, 
+squared and summed. The square root of the sum was then calculated and 
+divided by N. This afforded in the self-concept ‘reference’ scores that are 
+displayed in table 1. 
+
+Table 1 
+
+
+Self-Concept Scores for Male and Female Iranian-Americans in English and 
+Persian 
+
+
+
+
+Self Concept Score 
+
+N 
+
+Persian Version 
+
+English Version 
+
+Female Iranian-Americans 
+
+87 
+
+62.0053 
+
+3.2120 
+
+Male Iranian-Americans 
+
+96 
+
+74.5764 
+
+3.1735 
+
+All Iranian-Americans 
+
+183 
+
+68.6000 
+
+3.1918 
+
+
+As Table 1 shows, there is a huge discrepancy between the real and the ideal 
+self-concepts of all Iranian-Americans in the Persian version of SCS (x = 68.6], 
+The self-concept score for the same people in the English version (x = 3.19] 
+indicates that Iranian-Americans have a more realistic understanding of 
+themselves. When it comes to the male participants, the same result is 
+observed again. Taking the two forms in the Persian version, Iranian- 
+American males revealed a great discrepancy between their real and ideals 
+selves (x = 74.57], However, when taking the two forms in the English version, 
+there was no discrepancy; the real and the ideal selves matched (x = 3.17], 
+The same was observed for females taking the Persian version (x = 62] and 
+the English version (x = 3.21], 
+
+To see if the real self concept of Iranian-Americans in Persian matches theirs 
+in English, the same procedure was followed. The distances between their self 
+concept scores on forms A from both the English and the Persian versions 
+(i.e., the forms which measured real self concepts] were computed, squared 
+and summed, and then the square root of the result was divided by N. Table 2 
+displays the results of this analysis. 
+
+Table 2 
+
+Real Self-Concept Scores for Male and Female Iranian-Americans in English and 
+
+
+Persian 
+
+
+All 
+
+Male 
+
+Female 
+
+Self-Concept Match Score 
+
+73.7070 
+
+49.51 
+
+100.4009 
+
+
+As table 2 indicates, there is a statistically significant difference between the 
+real self concepts of Iranian-Americans when they function in two languages 
+(x = 73.70], This indicates that performing in a second language is similar to 
+
+
+
+
+
+
+
+114 
+
+
+M. A. Salmani Nodoushan & J. Garcia Laborda 
+
+
+assuming a new self. As for the males, the self concept score is 49.51; the self 
+concept score for females is 100.40. This shows that males are more resistant 
+to personality change than female. This is perhaps due to the stronger 
+emotional stability of men which blocks acculturation more than it does in 
+relation to females. 
+
+5. Conclusion 
+
+All in all, the results of this study lend empirical support to claims made by 
+Beaujour (1989], Besemeres [2002], De Courtivron [2003], Hoffman [1989], 
+Kellman (2003], Pavlenko (1998, 2001, 2004], Perez Firmat (2003], Stroinska 
+(2003], and Valenta (1991] that bilinguals have a kind of split personality. It 
+seems, based on the empirical evidence from this study, that a bilingual is not 
+a unique person who assumes different identities when he functions in the 
+different languages he knows. Rather, the bilingual possess two different 
+guises or selves which are language-specific and are used in accordance to the 
+language the bilingual speaks at any given point in time. 
+
+
+The Authors 
+
+Mohammad Ali Salmani-Nodoushan (Email: dr.nodoushan@gmail.com l is an 
+assistant professor of TEFL and researcher at the Iran Encyclopedia Compiling 
+Foundation, Iran. His research interests include language testing in general, and 
+testing English for Specific Purposes, Computer Adaptive Testing, and 
+Performance Assessment in particular. He is currently a member of the 
+editorial board of The Asian EFL Journal, The Linguistics Journal and i-manager's 
+Journal of Educational Technology. He also edits The International Journal of 
+Language Studies ( 1JLS) . 
+
+Jesus Garcia Laborda (Email: iesus.garcialaborda@uah.es ] is an associate 
+professor at Universidad de Alcala (Madrid, Spain], Dr Garcia Laborda has a 
+PhD in English Philology and an EdD in Language Education. His current 
+research covers many areas of computer implementations for language 
+learning and testing along with ESP and teacher training: (i] especial 
+applications of low stakes online testing, especially focused to the Spanish 
+University Entrance Examination for concepts such as washback, test design, 
+beliefs, emotions, etc. This also includes the study of interface and computer 
+architecture in other languages and their evaluation and assessment; (ii] The 
+development of Socio constructivism approaches to computer assisted 
+language learning, which applies ideas of Vygotsky to the development of 
+speaking and listening skills in computer based scenarios; iii] it includes 
+practical applications of mobile learning for commercial purposes to help to 
+introduce a computer based test in high stakes exams as DELE (Spanish] or the 
+
+
+International Journal of Language Studies, 8(3], 107-116 
+
+
+115 
+
+
+Spanish University Entrance Examination (English, French, German; (iv] the 
+implications of implementing such test in teacher training along with more 
+traditional approaches to teacher education and their development of both 
+cognitive and computer skills. 
+
+
+References 
+
+Adler, K. (1977], Collective and individual bilingualism: A sociolinguistic study. 
+Hamburg: Helmut Buske Verlag. 
+
+Auer, P. (ed.]. (1998], Code-switching in conversation: Language, interaction, 
+and identity. New York: Routledge. 
+
+Bakhtin, M. (1981], The dialogic imagination: Four essays by M. Bakhtin. 
+Austin, TX: University of Texas Press. 
+
+Besemeres, M. (2002], Translating one’s self: Language and selfhood in cross- 
+cultural autobiography. Bern: Peter Lang. 
+
+Bossard, J. (1945], The bilingual as a person-linguistic identification with 
+status. American Sociological Review, 10[ 6], 699-709. 
+
+Child, I. (1943], Italian or American? The second generation in conflict. New 
+Haven: Yale University Press. 
+
+De Courtivron, I. (2003], Introduction. In I. De Courtivron (Ed.], Lives in 
+translation: Bilingual writers on identity and Creativity, (pp. 1-9], New 
+York: Palgrave Macmillan. 
+
+Green, J. (1993], An experiment in English. In J. Green (Ed.], The apprentice 
+writer, (pp. 47-62], New York: Marion Boyars. 
+
+Grosjean, F. (1982], Life with two languages: An introduction to bilingualism. 
+Cambridge, MA: Harvard University Press. 
+
+Heinz, B. (2001], 'Fish in the river': Experiences of bilingual bicultural 
+speakers. Multilingua, 20(1], 85-108. 
+
+Henss, W. (1931], Zweisprachigkeit als padagogisches problem. 
+Ethnopolitischer Almanach, 2, 47-55. 
+
+Hoffman, E. (1989], Lost in translation. A life in a new language. New York: 
+Penguin Books. 
+
+Kellman, S. (2000], Preface. In S. Kellman (Ed.], Switching languages: 
+Translingual writers reflect on their craft, (pp. ix-xix]. Lincoln/London: 
+University of Nebraska Press. 
+
+Kellman, S. (ed.]. (2003], Switching languages: Translingual writers reflect on 
+
+
+116 
+
+
+M. A. Salmani Nodoushan & J. Garcia Laborda 
+
+
+their craft. Lincoln/London: University of Nebraska Press. 
+
+Pavlenko, A. (2001] 'In the world of the tradition, I was unimagined': 
+Negotiation of identities in cross-cultural autobiographies. The 
+International Journal of Bilingualism, 5(3], 317-44. 
+
+Pavlenko, A. (2004], 'The making of an American': Negotiation of identities at 
+the turn of the twentieth century. In A. Pavlenko & A. Blackledge (Eds.], 
+Negotiation of identities in multilingual contexts, (pp. 34-67], Clevedon, 
+UK: Multilingual Matters. 
+
+Pavlenko, A. (ed.]. (2006], Bilingual minds: Emotional experience, expression 
+and representation. Toronto: Multilingual Matters Ltd. 
+
+Perez Firmat, G. (2003], Tongue ties: Logo-eroticism in Anglo-Hispanic 
+literature. New York: Palgrave Macmillan. 
+
+Rogers, C. (1961). On becoming a person. Boston: Houghton Mifflin Company. 
+
+Ross, M., Xun, W.Q.E., & Wilson, A. (2002], Language and the bicultural self. 
+Personality and Social Psychology Bulletin, 28(8], 1040-150. 
+
+Sander, F. (1934], Seelische struktur und sprache: Strukturpsychologisches 
+zum zweitsprachenproblem. Neue Psychologische Studien, 12, 59-76. 
+
+Schumann, J. H. (1978], The acculturation model for second language 
+acquisition. In R. C. Gingras (Ed.], Second language acquisition and 
+foreign language learning, (pp. 27-50], Washington, D.C.: Center for 
+Applied Linguistics. 
+
+Spoerl, D. (1943], Bilinguality and emotional adjustment. Journal of Abnormal 
+and Social Psychology, 38, 35-57. 
+
+Stroinska, M. (2003], The role of language in the re-construction of identity in 
+exile. In M. Stroinska & V. Cecchetto (Eds.], Exile, language, and identity 
+(pp. 95-109], Frankfurt am Main: Peter Lang. 
+
+Todorov, T. (1985], Bilinguisme, dialogisme, et schizophre'nie. In A. Bennani, 
+A. Bounfour, F. Cheng, E., Formentelli, J. Hassoun, A. Khatibi, A. Kilito, A. 
+Meddeb & T. Todorov (Eds.], Du bilinguisme, (pp. 11-26], Paris: Denoel. 
+
+Todorov, T. (1994], Dialogism and schizophrenia. In A. Arteaga (Ed.], An other 
+tongue: Nation and ethnicity in the linguistic borderlands, (pp. 203-214], 
+Durham & London: Duke University Press. 
+
+Valenta, E. (1991], Doubled selves and fractured childhoods: A study of the recit 
+d'enfance in Nathalie Sarraute, Agota Kristof and Claude Esteban. 
+Unpublished doctoral dissertation, Cornell University, Ithaca, New York. 
+
+

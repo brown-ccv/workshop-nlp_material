@@ -1,0 +1,933 @@
+DOCUMENT RESUME 
+
+
+
+ED 399 990 
+
+
+
+JC 960 582 
+
+
+
+AUTHOR 
+
+TITLE 
+
+PUB DATE 
+NOTE 
+
+
+
+PUB TYPE 
+
+
+
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+Susskind, Tamar Y. 
+
+Opportunities and Challenges: Bridging the Two-Year 
+Four-Year College Gap. 
+
+Aug 96 
+
+14p.; Paper presented at ’’Articulation from 2- to 
+4-Year Colleges: Is It an Allowed or Forbidden 
+Transition?” a symposium sponsored by Oakland 
+Community College (Auburn Hills, MI, August 4-8, 
+1996) . 
+
+Viewpoints (Opinion/Position Papers, Essays, etc.) 
+(120) — Speeches /Conference Papers (150) 
+
+MFOl/PCOl Plus Postage. 
+
+^Articulation (Education) ; College Planning; College 
+School Cooperation; ’‘'College Transfer Students; 
+Community Colleges; ’’^Educational Cooperation; 
+Educational Mobility; Higher Education; 
+Intercollegiate Cooperation; Program Improvement; 
+’’^Transfer Policy; ’’^Transfer Programs; Two Year 
+Coll eges 
+
+
+
+ABSTRACT 
+
+Community colleges have been criticized with respect 
+to both the low numbers of students who transfer to four-year 
+institutions and the inadequate preparation of the students who do 
+transfer. However, there is no uniform method for calculating 
+transfer students and the data that do exist on their performance 
+indicate that they do as well as native students. Clearly, 
+articulation between two- an four-year colleges is about more than 
+the numbers of students transferring; it involves admission, 
+exclusion, readmission, counseling, curriculum planning, and course 
+and credit evaluation. Differences in academic cultures and attitudes 
+between two” and four-year institutions and their faculty do create 
+barriers for two-year college transfer students, while establishing 
+transfer criteria and the authority for transfer decisions are also 
+problems. Three styles of articulation agreements currently operate: 
+formal and legal policies, state-system policies, and voluntary 
+agreements among institutions. As part of an effort to examine 
+articulation practices and problems and investigate the feasibility 
+of an approval service for two-year college chemistry transfer 
+programs, the American Chemical Society's Committee on Education 
+sponsored a conference on two-year college programs in November 1995. 
+While the 15 participants decided that such a service would be too 
+expensive, they did develop recommendations for improving 
+articulation related to developing a literature base, promoting a 
+consensus on articulation among all concerned parties, and 
+establishing mechanisms to promote collegiality and trust. A chart of 
+proposed data elements for improving the articulation of chemistry 
+programs is appended. (TGl) 
+
+
+
+Vc * Vc Vc Vc * * * * y? * * * * * * * * Vc * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * Vc * * * * * * * * * * * * * * 
+
+Reproductions supplied by EDRS are the best that can be made 
+
+* f rom the or iginal document . 
+
+* * * * * ?V * * ?V Vf Vc * ?V * * * * * * * * * Vc 'k k k k k k k k k k k k k k k k k k k k kkkk k k k k k k k k k k k k k k k k k k k k kk 
+
+
+
+Opportunities and Chaiienges: Bridging the Two-Year 
+
+Four-Year Coiiege Gap 
+
+
+
+Written By 
+
+Tamar Y. Susskind 
+Oakland Community College 
+
+
+
+BEST COPY AVAILABLE 
+
+
+
+Paper presented at “Articulation from 2- to 4- Year Colleges; Is It an Allowed or 
+Forbidden Transition?” a symposium sponsored by Oakland Community College 
+
+(Auburn Hills, Ml, August 4-8, 1996). 
+
+
+
+
+
+
+U.S. DEPARTMENT OF EDUCATION 
+
+Ottice o» Educational Research and improvement 
+
+EDUCATIONAL RESOURCES INFORMATION 
+CENTER (ERIC) 
+
+This document has been reproduced as 
+recetved from the person or organization 
+Originating it. 
+
+□ Minor changes have been made to improve 
+reproduction quality 
+
+
+
+e Points of view or opinions stated m this docu- 
+ment do not necessarily represent official 
+OERI position or policy 
+
+
+
+‘ PERMISSION TO REPRODUCE THIS 
+MATERIAL HAS BEEN GRANTED BY 
+
+T.Y, Sus skind 
+
+
+
+TO THE educational RESOURCES 
+INFORMATION CENTER (ERIC)." 
+
+
+
+“Articulation from Two- to Four- Year Colleges: Is It an Allowed or Forbidden 
+Transition?” (Symposium Title) 
+
+*>■ 
+
+Opportunities and Chaiienges: Bridging the T\fvo-Year Four-Year Coiiege 
+Gap 
+
+Tamar Y Susskind, Oakland Community College, 2900 Featherstone Road 
+Auburn Hills, Ml 48326-2854 
+
+At Bucknell’s ‘94 BCCE, Margot Schumm and Dudley Herron organized a symposium 
+entitled, “Is an Associate Degree Detrimental to an Academic Future?” The 
+symposium was stimulated by an editorial that appeared in the January ‘93 issue of 
+the Journal of Chemical Education, which contained these remarks; 
+
+“There is a real concern, which has been strongly voiced by many four-year 
+college science faculty, that bachelor’s students who start at community colleges may 
+experience a lesser quality of education, in terms of instruction, expectation levels and 
+facilities, than that generally provided in four-year institutions. If there are deficits in 
+the community college students’ experience, these must be made up in four-year 
+institutions.” 
+
+The editor of the Journal based his comments on the results of a Ford Foundation 
+study, which claimed that among the states reviewed (California, Florida, Illinois, 
+Indiana, and Wisconsin) those that had the least reliance on community colleges 
+appeared to have had better success in students earning the baccalaureate degree. 
+The conclusion drawn was that if a baccalaureate degree is important for students, 
+they should begin their studies at a four-year campus. 
+
+
+
+
+1 
+
+
+
+Community colleges have been suspected, if not accused, of doing an inadequate job 
+with their transfer students. They are constantly having to defend their transfer 
+effectiveness when there are no reliable data. There appears to be no consistent way 
+of counting transfers. Patterns of student flow have never been linear; they swirl. 
+Students drop in and out of community colleges and universities; they take courses 
+concurrently at both types of institutions, and they transfer frequently from one to 
+another. Some start as freshmen at the university, drop out to attend a community 
+college and subsequently return; some take summer courses at community colleges; 
+some attend a community college and do not enroll in the university until several years 
+later; some transfer from the community college to the university in midyear; and some 
+who have advanced degrees start a new career with courses at the community 
+college. All these permutations affect the data sets. In some reports none of these 
+students would be considered community college transfers; in others all of them 
+would. Why are the data so incomplete? There are no incentives to collect them. In 
+addition to their being difficult to collect, state funds are allocated on the basis of 
+student enrollment independent of when they leave and where they go. 
+
+Transfer rates vary dramatically from state to state. In Florida, which has a well- 
+articulated system, 42% of all the undergraduates in public universities have 
+previously attended community colleges; In Kansas only 17% of the undergraduates in 
+state universities are transfers. Significant variations among institutions in the same 
+state exist; for example, the campuses of California State University receive ten times 
+the number of transfers as the campuses of the Univ. of California. 
+
+Can one estimate the number of community college transfer students nationwide? An 
+educated guess would be that out of the approximately 350,000 two-yr. college 
+
+
+
+
+2 
+
+
+
+graduates nationwide who are awarded AA and AS degrees annually, approximately 
+
+275.000 transfer directly to a university. There are probably another 300,000 to 
+
+400.000 transfers who do not complete a two-year associate degree program. This 
+would give us around 625,000 transfers per year out of a total community college 
+student population of 5 million (12-13 %). If these figures appear low; consider the 
+number of community college students enrolled in current interest courses, 
+occupational programs, remedial courses, non-credit educational activities, and the 
+number of returning students who have advanced degrees. If we subtract these 
+populations from the 5 million, we are left with 1.7 million students whose primary 
+reason for attending the community college is to transfer to a baccalaureate-granting 
+institution. The transfer rate then increases dramatically to 36%. 
+
+Although the absolute number of transferring students has increased in recent years 
+because of expanding populations, the percentage of students who transfer to senior 
+institutions has declined when compared with the increased percentage of students 
+who enroll in courses that lead to immediate employment, job-enhancement skills, or 
+who take courses for personal interest. The mission of the community college is not 
+designed primarily for transfer to the baccalaureate granting institution. If it were, then 
+the community college is a disaster by design. It draws many poorly prepared 
+students and encourages part-time commuters. Its students view the institution as 
+being readily accessible for dropping in and out without penalty. This pattern of ad hoc 
+attendance seems to fit their needs and purposes. For many community college 
+students, especially those who work, those who come from lower socio economic 
+classes and those who are minorities, the choice is not between the community 
+college and a senior institution; it is between the community college and nothing. It is 
+reasonable to expect that on the whole, students who begin their collegiate studies in 
+
+
+
+community colleges are more likely to drop out or, if they go on to the baccalaureate, to 
+take longer in achieving it. However, the conclusions that critics draw are simply not 
+true with respect to the transferring students’ preparation for higher learning. 
+
+The story of transfer is a happy one. Data indicate that most community college 
+students who go on to the four-year colleges and universities do quite well. There is 
+an initial transfer shock, with the students’ grade point average generally dropping 
+slightly in their first term after transfer. Most of them persist on to the baccalaureate, 
+and by the time they achieve it, their records are not much different from those who 
+began at 4-year institutions. Recent studies show that students who transfer to 
+universities with a large number of credits or with an associate degree tend to do 
+better than those who transfer with only a few credits; furthermore, they perform as well 
+as native students. A Spring ‘95 study by a team of researchers at the University of 
+Illinois at Chicago .and at Pennsylvania State University concluded that “at least 
+during the first year of attendance, the cognitive impacts of two-year colleges may be 
+indistinguishable from those of four-year institutions that enroll similar students." The 
+study investigated cognitive impacts of five 2-year (280 students) and six 4-year 
+colleges (531 students) drawn from all sections of the United States. Controlling for 
+individual precollege ability, there was general parity between 2-yr. and 4-yr. college 
+students on end-of -freshman year reading comprehension, mathematics, critical 
+thinking, and composite achievement. 
+
+Clearly, articulation is not only about the numbers who transfer or how long it takes a 
+student to obtain the baccalaureate degree. It is about the movement of students - and 
+their academic credits - from one institution to another: from H.S. to college; from two- 
+year colleges to universities and vice versa. Articulation involves admission. 
+
+
+
+
+4 
+
+
+
+exclusion, readmission, counseling, curriculum planning, and course and credit 
+evaluation. Ideally, articulation should provide the transfer student an academic fit with 
+minimal duplication of studies and with no “loss of credits”. The process presumes that 
+the transfer student from the 2-yr. college is prepared for upper-division studies. 
+
+Ideally, the transfer function also serves to establish the academic validity and 
+credibility of the transferring institution as a legitimate partner in providing education 
+for the transfer student. But, in reality, it hasn’t worked that way. Barriers exist, which 
+have more to do with differences (real or perceived) in academic cultures and attitudes 
+between two-and four-year colleges and faculty than anything else, including: 
+
+- Division-based 2-yr. colleges vs. discipline-based 4-yr colleges. 
+
+-Teaching emphasis in 2-yr. colleges vs. research emphasis in 4-yr. colleges. 
+
+- Accessibility and low-cost tuition at 2-yr. colleges vs. standards and higher cost 
+tuition at 4-yr. colleges. 
+
+- A broad a mission at 2-yr. colleges vs. a focussed mission at 4-yr. colleges. 
+
+-Non traditional, working, commuting students at 2-yr colleges vs. full-time, 
+
+residential traditional student at 4-yr. colleges. 
+
+-Realistic & practical emphases at a 2-yr. college vs. learning for its own sake at 
+4-yr. colleges. 
+
+These cultural differences often lead to non communication, competition, and 
+suspicion. Establishing the criteria for transfer and who shall have the ultimate 
+authority to make decisions on transfer are problems to begin with. Until recently 
+articulation with 4-year institutions has been largely one-way; a series of policies and 
+procedures, called articulation agreements, prescribed by senior institutions. These 
+agreements provided the structural framework for the process. 
+
+
+
+
+5 
+
+
+
+Today, there are three styles of articulation agreements that operate in our fifty states; 
+formal and legal policies; state-system policies, in which the state tends to be the 
+coiTtrolling agency; and voluntary agreements among institutions, whose main 
+features are cooperation and negotiation rather than unilateral declaration or 
+legislative fiat. 
+
+Most states have some type of articulation policy, many of which are merely guidelines 
+(e.g., Missouri, Iowa, Michigan); others act 9 s state mandates (e.g., Nevada, Florida). 
+Florida, for example, has a state legislated system of common course numbers and 
+common transcripts for all public community colleges and universities. Other states 
+including California, have central offices to reinforce articulation agreements among 
+institutions. However their statewide agreements are so weak that the only useful 
+transfer arrangements are those negotiated among sets of institutions. The statewide 
+agreements negotiated in New York’s CUNY(City University of New York) provides for 
+64 credits toward a baccalaureate program upon transfer. However, the mandated 
+acceptance of these credits is not intended to prevent senior colleges from 
+establishing requirements and prerequisites for discipline majors. Even with t|^e best- 
+mandated agreements, there are loopholes. Students may be guaranteed admission 
+to the university in general, but not to specific programs. Maryland's system is quite 
+progressive. It accepts all students who have successfully completed the AA degree 
+or 56 hours of credit with at least an overall 2.0 average. In oversubscribed programs, 
+they provide equal treatment for native and transfer students, with the possibility of 
+appeal when there are differences in interpretation. 
+
+Regardless of the presence or absence of state mandates, numerous colleges 
+develop articulation agreements with nearby universities. However, more than half the 
+
+
+
+
+6 
+
+
+
+institutions (both 2-yr. and 4-yr.) have reported no such agreements in force. More 
+than two-thirds of the senior colleges indicate that they would not accept the associate 
+degree as evidence that a student has had appropriate lower-division preparation. 
+Instead, they review students’ prior course work and grades individually, awarding 
+credit toward the baccalaureate only for courses that meet certain unspecified 
+specifications. 
+
+On November 3-5, 1995 the American Chemical Society’s Committee on Education 
+(SOCED) sponsored an Invitational Conference on two-year college transfer 
+programs. It was the latest step in a progression of SOCED activities initiated a 
+decade ago focusing on two-year colleges. This invitational was to examine 
+articulation practices and problems and investigate the feasibility of an ACS approval 
+service for two-year college chemistry transfer programs. The approval service could 
+be modeled on the approval service for two-year college chemical technology 
+programs, which began as a pilot project in 1990. It was clear to all the 15 invited 
+participants, who represented two- and four-year colleges, research universities, 
+predominantly minority institutions, SOCED, the Chemical Technology Program 
+Approval Service (CTPAS), the College Chemistry Consultants (C 3 S), the ACS 
+Committee on Professional Training (CPT), and experts in articulation, that 
+implementing such a service would be too expensive, too intricate an operation, and 
+would not be the most effective action taken at this time. With this established, the 
+focus of the invitational conference became articulation. 
+
+The conferees discussed the many aspects of articulation from the both two- and four- 
+year college perspectives and developed the following recommendations to heighten 
+articulation effectiveness. Recommendations ranged from increasing the awareness 
+
+
+
+
+7 
+
+
+
+in the chemistry community and elsewhere about the articulation issues to developing 
+shareholders in the articulation process within the college communities. 
+
+
+
+RECOMMENDATIONS: 
+
+1. That ACS catalyze thinking about articulation and develop a literature 
+base to reach the pertinent sectors by: 
+
+* publicizing these recommendations in the ACS Education Division web 
+site and in various ACS publications (e.g., 2YCq Newsletter, CHED Newsletter, 
+Chemunity News, Journal of Chemical Education, ACSESS, Chemical & Engineering 
+News, and local section newsletters.) 
+
+* extending the news of ACS actions in articulation to a broader educational 
+community through such publications as The Chronicle of Higher Education. 
+
+* publishing a monograph on articulation issues and problem-solving 
+strategies, which the AACC (American Assoc of Community Colleges) may undertake. 
+
+• developing an appropriate statement about articulation that the ACS 
+government relations department can use for policy makers on both state and 
+federal levels. 
+
+2. That ACS build shareholders in articulation and develop a dialogue 
+among all parties whose central concern is for the student by 
+
+• organizing series of forums and panels that involve leaders in articulation to 
+identify case studies and model articulation programs, obtain innovative 
+ideas about productive practices, build regional support, and emphasize the 
+significance of articulation. 
+
+• holding forums at ACS national and regional meetings, e.g., Two-Year College 
+
+
+
+
+8 
+
+
+
+Chemistry Conferences and DivCHED’s Chemical Education biennial conferences. 
+
+
+
+• expanding the forums to other regional and national organizations (e.g., 
+American Association of Community Colleges). 
+
+* identifying people who could be added to the local sections speakers bureau 
+to validate the importance of articulation. 
+
+
+
+3. That ACS develop a consensus on articulation and establish 
+mechanisms to promote coiiegiaiity, mutual respect and trust by 
+
+* encouraging allocation of institutional and government resources (e.g., time 
+and monies) for collaborative activities between two- and four-year institutions 
+including joint research, seminars, course development, teaching and meetings 
+
+on articulation. 
+
+At such meetings curriculum, academic standards and other requirements for 
+transfer students could be discussed. 
+
+At some colleges, community college faculty and deans sat at accreditation 
+teams for four-year campuses, and vice-versa, in order to insure courses compatibility. 
+
+Shared academic advising can be worked out with nearby state universities 
+where most transfers go. 
+
+There needs to be an ongoing process of consultation, monitoring, and review 
+of agreements. 
+
+It is known that wherever a university and the community colleges in its region 
+work together closely, transfer flourishes. In some cases the university’s upper division 
+may have more transfers than native freshmen. Arizona State Univ. and the Univ. of 
+MA at Boston serve as examples to this pattern. 
+
+• identifying model faculty exchange programs between four- and two-year 
+institutions. 
+
+
+
+• recognizing and rewarding those involved in faculty-facujty interactions. 
+
+
+
+collaborations and articulation. 
+
+
+
+• developing articulation expertise among the ACS College Chemistry 
+Consultants and publicizing to administrators and chemistry faculty that ACS can 
+provide a service that will assist them in improving articulation and developing 
+articulation agreements. 
+
+• examining the feasibility of developing a guideline for those schools approved 
+by the ACS Committee on Professional Training that focuses on their interactions with 
+two-year colleges. (For example, when a four-year college’s enrollment depends on 
+20% transfer students, accountability for the baccalaureate-granting institution to have 
+formalized relationships with its feeder schools could be established via a guideline). 
+
+• conducting a comprehensive survey of chemical education in two-year 
+colleges and establishing a data base of information to facilitate articulation and to 
+develop mutual learning goals among two- and four-year colleges and universities. 
+
+This recommendation is very important in terms of establishing the facts. Community 
+colleges have relied far too much on the anecdotal. If there is a two-year college story 
+to be told, it needs to be told effectively with hard data. 
+
+
+
+10 
+
+
+
+
+12 
+
+
+
+Proposed Data Elements to Facilitate Articulation 
+for a Baseline Study of Chemistry Education 
+
+in Two-Year Colleges 
+
+
+
+A. Course Equivalency 
+
+
+
+B. Resources 
+
+
+
+• course objective 
+
+• topics covered (sequence) 
+
+• structure 
+
+- hours 
+
+- credit 
+-lab 
+
+• prerequisites 
+
+• evaluation 
+
+- grade distribution 
+
+• research component 
+
+• legal limits/restrictions 
+
+C. Faculty 
+
+
+
+• department size 
+
+• technical support 
+
+• secretarial support 
+
+• facilities 
+
+- Instruments 
+
+- multimedia 
+
+- cyberspace - student, 
+
+faculty, internet/www 
+
+• distance learning 
+
+• funding 
+
+
+
+D. Students 
+
+
+
+credentials 
+
+teaching load 
+
+part-time/full-time 
+
+temporary/permanent 
+
+professional development opportunity 
+
+professional scholarship 
+
+expectations/rewards 
+
+
+
+• part-time/full-time 
+
+• demographics 
+
+• time/hours to graduation 
+
+• retention 
+
+• class size 
+
+• performance - native & 
+
+transfer 
+
+• status of transfer student 
+
+- simple transfer 
+
+- co-enroll 
+
+- swirling 
+
+- when transfer 
+
+• requirements for transfer 
+
+• % transfer students 
+
+• long-term effects on 
+
+transfer & native 
+
+
+
+
+11 
+
+
+
+13 
+
+
+
+In conclusion, I see the problems dealing with effective articulation as having to do 
+more with prejudice than with any other factor... and prejudice must be broken down. 
+A self-selected, intrepid student who has already run the gamut of a two-year college 
+chemistry education should be allowed to make his/her transition toward a 
+baccalaureate degree in chemistry with fewer barriers than a woman making her way 
+into the Citadel in South Carolina. 
+
+
+
+References: 
+
+1. Cohen, A.M., and Brawer, F.B. The American Community College, second edition. 
+San Francisco: Jossey-Bass, 1989. 
+
+2. Cohen, A.M., and Brawer, F.B. The Collegiate Function of Community Colleges. 
+San Francisco: Jossey-Bass, 1987. 
+
+3. Berman, R, Curry, J., Nelson, B., Weiler, D. Enhancing Transfer Effectiveness: A 
+Model for the 1990’s. Washington, DC: AACJC, 1990. 
+
+4. Eaton, J.S., Colleges of Choice: The Enabling Impact of the Community College. 
+New York, American Council on Education . Macmillan Publishing Company. 
+
+5. Cohen, A.M. Relating Curriculum and Transfer, New Directions for Community 
+Colleges, no. 86. San Francisco: Jossey-Bass, 1984. 
+
+6. Pascarella, E., Bohr, L, Amaury, N., &Terenzini, R. Cognitive Effects of 2- Year and 
+4- Year Colleges: New Evidence, Education Evaluation and Policy Analysis, Spring 
+1995, Vol. 17, No. 1, pp. 83-96. 
+
+
+
+
+12 
+
+14 
+
+
+
+U.S. Department of Education 
+
+Office of Educational Research and Improvement (OERI) 
+Educational Resources Information Center (ERIC) 
+
+REPRODUCTION RELEASE 
+
+(Specific Document) 
+
+
+
+I. DOCUMENT IDENTIFICATION: 
+
+
+
+Title: 
+
+
+f / 
+
+
+Author(s): 
+
+
+
+
+V 
+
+
+Corporate Source: 
+
+
+1 Publication Date: 
+
+i 
+
+! 
+
+
+
+II. REPRODUCTION RELEASE: 
+
+
+
+In order to dsseminate as widely as possible timely and significant materials of interest to the educational community, documents announced 
+in the monthly abstract journal of the ERIC system, Resources in Education (RIE). are usually made available to users in microfiche, reproduced 
+paper copy, and etectronic/optical media, and sold through the ERIC Document Reproduction Service (EDRS) or other ERIC vendors. Credit is 
+given to the source of each document, and, if reproduction release is granted, one of the following notices is affixed to the document 
+
+If permission is granted to reproduce and disseminate the identified document please CHECK ONE of the following two options and sign at 
+the bottom of the page. 
+
+The sample sticker shown below will be The sample sticker shown below will be 
+affixed to all Level 1 documents affixed to all Level 2 documents 
+
+□ 
+
+t 
+
+Check here 
+For Level 2 Release: 
+
+Permitting reproduction in 
+microfiche (4* x 6* film) or 
+other ERIC archival media 
+(e.g.. electronic or optical), 
+but not in paper copy. 
+
+
+
+0 
+
+
+
+Check here 
+For Level 1 Release: 
+
+Permitting reproduction in 
+microfiche (4* x 6* film) or 
+other ERIC archival media 
+(e.g., electronic or optical) 
+and paper copy. 
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL 
+HAS BEEN GRANTED BY 
+
+
+
+
+
+
+
+
+
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS 
+MATERIAL IN OTHER THAN PAPER 
+COPY HAS BEEN GRANTED BY 
+
+
+
+
+
+
+
+
+
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+
+St s%%- 
+
+
+
+
+Level 1 
+
+
+
+Level 2 
+
+
+
+Documents will be processed as indicated provided reproduction quality permits. If permission 
+to reproduce is granted, but neither box is checked, documents will be processed at Level 1. 
+
+
+
+Sign 
+
+here-* 
+
+please 
+
+
+
+
+
+
+
+*i hereby grant to the Educational Resources Information Center (ERIC) nonexclusive permission to reproduce and dissemir^ate 
+this document as indicated above. Reproduction from the ERIC microfiche or electronic/optical media by persons other than 
+ERIC employees and its system contractors requires permission from the copyright holder. Exception is made for non-profit 
+reproduction by libraries and other service agencies to satisfy information needs of educators in response to discrete inquiries. * 
+
+
+Signature: 
+
+
+: Printed Name/Position/Title: 
+
+1 Y. dP / PRof. 
+
+
+O'rg^izatioivAdHr^^^^ V 
+
+Atcburn bh-lli M.£. 
+
+
+s Telephone: i PAX: 
+
+1 l'S^|0■'5‘iO'6^RQ i (etSls 
+
+
+I P* fi^il Addire S8 : | Date : 
+
+\TY$U6SKiQ^,ec.Mu\ 
+
+
+
+
+III. DOCUMENT AVAILABILITY INFORMATION (FROM NON-ERIC SOURCE): 
+
+TER"n,°'or “■>»>“ -'»• 
+
+publicly available, and a dependable source can ha cno^-ifiaH ^ u ' ^ announce a document unless it is 
+
+significantly more stringent for documents that cannot be m^e aSSSle1hrou?h°EDR&)* 
+
+
+
+Address: 
+
+
+
+Price: 
+
+
+
+IV. REFERRAL OF ERIC TO COPYRIGHT/REPRODUCTION RIGHTS HOLDER: 
+
+
+
+
+Send this form to the following ERIC Clearinghouse: 
+
+Rika Nakazawa 
+
+Acquisitions Coordinator 
+
+ERIC Clearinghouse for Community Colleges 
+
+3051 Moore Hall 
+
+Box 951521 
+
+Los Angeles, CA 90095-1521 
+
+
+
+<5 
+
+ERJC 3/96/96) 
+
+
+
+
+"Articulation From 2-to-4 Yr Colls: 
+Is it Allowed/Forbidden Transition" 
+Aug 4-8, 1996 Oakland CC, MI 
+
+
+

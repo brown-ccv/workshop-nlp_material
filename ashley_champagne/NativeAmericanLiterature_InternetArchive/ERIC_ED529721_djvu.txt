@@ -1,0 +1,653 @@
+2011 6 th Annual International Conference on Foreign Literature Teaching 
+Title: Literature as an organic language learning tool 
+
+
+
+Abstract 
+
+This is a conceptual paper, based on several semesters of collaboration in which 
+the American author interacted with students in the Taiwanese author’s EFL classes in 
+Taiwan. The best native language users are typically those who read extensively, 
+especially reading for pleasure in their youth. This gives them a large vocabulary and 
+an intuitive feel for how words and ideas should connect together that they then 
+naturally apply to future reading comprehension and writing tasks. Literature can, 
+similarly, be a vehicle for foreign language learning, but how can the natural learning 
+stemming from reading for pleasure be replicated in the more structured classroom? 
+The authors explore approaches that employ student-centered methodologies and 
+foster positive motivation. The metaphor “organic” language learning refers to learning 
+that is natural, without being forced or contrived, and without artificial characteristics. 
+This approach parallels other foreign language learning subjects in which authentic 
+source materials are valued by students. However, use of literature for language 
+learning comes with pitfalls. Culture as portrayed in literature may not be accurate, in 
+order to make literary points, leaving students with serious misunderstandings about the 
+target culture, which teachers must be able to address and explain. The authors 
+present a framework of best practices for teachers of foreign language literature that 
+attempt to mirror the process of learning language via reading for pleasure, and also 
+draw on techniques used in native language literature courses when the text is 
+challenging. 
+
+
+
+Keywords: distance technology, culture, foreign literature, authentic experiences, 
+motivation 
+
+
+
+Authors: 
+
+1 . Michael Marek (corresponding) 
+
+Associate Professor, Communication Arts Department 
+Wayne State College, USA 
+mimarekl @wsc.edu 
+
+2. Pin-hsiang Natalie Wu (^bp?W) 
+
+Assistant professor, Department of Applied Foreign Languages 
+Chien-kuo Technology University, Taiwan 
+natalie@ctu.edu. tw 
+
+
+
+Literature as an organic language learning tool 
+
+
+
+Problem Statement 
+
+The best native users of English are typically those who read extensively, especially 
+reading for pleasure in their youth (Lerkkanen, Rasku-Puttonen, Aunola & Nurmi, 2004; 
+Nippold, 1999; Sinatra, 2008). This gives the reader a large vocabulary and an intuitive 
+feel for how words and ideas should connect together which they then naturally apply to 
+future reading comprehension and writing tasks. Literature can also be a vehicle for 
+foreign language learning, but how can the natural learning stemming from reading for 
+pleasure be replicated in the more structured environment of the classroom? 
+
+This conceptual paper draws on several semesters of collaboration in which the 
+American author interacted via the Internet with students in the Taiwanese author’s EFL 
+classes in Taiwan. The interaction included live videoconferences, YouTube-type 
+videos prepared specifically for the class, and blog entries and comments. Over several 
+semesters, the techniques used by the authors were shown to strengthen the motivation 
+of students to study English as a Foreign Language (EFL) (Wu, Marek & Wu, 2009a; 
+Wu, Marek & Wu, 2009b; Wu & Marek, 2009; Wu, Marek & Wu, 2009c). 
+
+Purpose of inquiry and inquiry questions 
+
+In this paper, the authors draw on their own experiences and the EFL literature to 
+suggest answers to the following questions: 
+
+1 . What are the goals that motivate students to study EFL, and what are the 
+motivations that should be encouraged? 
+
+2. How can cutting-edge educational theory inform the complex problems of EFL 
+literature instruction and learning? 
+
+
+
+
+3. How can instructors help students learn EFL literature in a way that is as 
+natural and easy as possible? 
+
+In this analysis, the authors use the metaphor “organic” language learning to 
+describe learning that is natural, without being forced or contrived, and without artificial 
+characteristics (Beckett, & Hager, 2000; Moss, 2000). The benefits of organic language 
+learning parallel other foreign language learning research in which authentic source 
+materials have been shown to be valued by students and therefore contribute to 
+motivation. 
+
+Significance of inquiry 
+
+This exploration of organic learning, and how the concept intersects with research 
+about motivation and teacher-centered versus student-centered instruction, is highly 
+relevant for EFL programs in the second decade of the 21 st Century. In countries where 
+there is no surrounding population of English speakers, EFL students often struggle with 
+grammar, vocabulary, and with cultural references in source materials that are 
+unfamiliar to them. Therefore, the more natural and painless English learning can be 
+made, the more likely students are to engage themselves and actually acquire 
+advanced skills. 
+
+Summary of Theoretical Framework 
+
+The following theoretical framework informs this consideration of the inquiry 
+questions: 
+
+English Environment in Taiwan 
+
+The lack of a surrounding community of English speakers means that, for 
+Taiwanese students, there is little practical opportunity to use English for actual 
+
+
+
+
+communication (Lan, 2005). The Taiwanese educational system, therefore, treats 
+English as a classroom subject, similar to math or geography (Wu, 2006). 
+
+English is often taught in Taiwan using traditional pedagological principals, in 
+which learning is conceptualized as being for future application. In traditional pedagogy, 
+the classroom is teacher-centered and the teacher has full responsibility for making all 
+decisions about what is to be learned, how it will be learned, when it is to be learned, 
+and whether it has been learned (Knowles, Holton & Swanson, 2005). Many EFL 
+teachers in Taiwan, therefore, use lecture/memorization methodologies and students 
+rarely have meaningful interaction with native speakers or authentic materials relating to 
+English-speaking cultures (Su, 2008; You, 2003). English in Taiwan, therefore, has not 
+historically been taught using andragological (adult learner) principals in which learning 
+is conceptualized as being for immediate application, the classroom is student centered, 
+and students hold significant power to determine what and how they will learn (Knowles, 
+Holton & Swanson, 2005). The result is that students are often not highly motivated to 
+pursue their study of English, resulting in lower proficiency and, therefore, less desirable 
+student outcomes. 
+
+Motivation and Confidence in EFL Learning 
+
+Motivation, confidence, and ability interact with each other (Butler & Lumpe, 2008; 
+Phillips & Lindsay, 2006). The cumulative experiences of the student, both in and out of 
+the classroom, drive the three learning variables. They strengthen and weaken as a 
+result of the student’s experiences in the use of English, both positive and negative 
+(Sakai & Kikuchi, 2009). Learners may have instrumental motivation, integrative 
+motivation, or both and it has long been accepted that learners who possess integrative 
+
+
+
+
+motivation are most successful because their learning goal is to achieve personal 
+satisfaction and enjoyment (Gardner, 2001 ; Wang, F. X., 2008). Learners who are only 
+instrumentally motivated generally make the minimum effort required to avoid 
+punishment or to gain rewards. 
+
+While the integrative/instrumental motivation framework has been widely cited, 
+Dornyei’s (2005) more complex model of motivation is growing in popularity. Dornyei 
+said the EFL learner imagines an idealized future English-speaking self, based in part 
+on real-life encounters (or lack thereof) with other English speakers and in part on the 
+desire to function in international society. Dornyei’s framework is based on the 21 st 
+Century reality that students may need to use their English skills not only with native 
+speakers, but with a wide range of people who speak English as a first or second 
+language. 
+
+Authentic materials and interaction 
+
+Research has shown that even a fairly small amount of authentic interaction in the 
+target language changed the perception of students about how well they were able to 
+apply their skills, made students more comfortable with information they had already 
+learned, and inspired them to make global, cross-cultural connections (Wu & Marek, 
+2010). The challenge for EFL professionals and students in Taiwan, the site of this 
+study, is the lack of a consistently available authentic language-learning environment to 
+supplement in-classroom learning (You, 2003). Therefore, innovative instructors 
+constantly look for new instructional techniques and source material that students will 
+perceive as authentic in order to create a learning environment as integrated with the 
+target culture as possible. 
+
+
+
+
+Authentic Experiences 
+
+This has led to a growing body of literature about use of the Internet and 
+technology to provide authentic enrichment of EFL instruction (Liu & Chen, 2007; Payne 
+& Ross, 2005; Tudini, 2003). The literature contains the general theme that such 
+channels of communication provide authentic, interactive experiences that are much- 
+desired by students. 
+
+Previous research using the Internet to provide authentic source materials has 
+shown clearly that when the instructional methodology stresses authentic and 
+interactive engagement, it builds confidence and, in turn, produces increases in student 
+knowledge on the target culture; and also that student centered, active learning, 
+including use of technology and Internet-based cross-cultural interactions, contributes to 
+improvement in learners’ English proficiency level (Wu & Marek, 2010). 
+
+As shown by the data, even a relatively small amount of authentic interaction in the 
+target language made students more comfortable with information they had already 
+learned, changed their perception of how well they were able to apply their skills, and 
+inspired them to make global, cross-cultural connections (Wu & Marek, 2010). 
+
+Natural and organic language learning 
+
+The concept of organic learning, if not the actual terminology, goes back to 
+Aristotle in Nichomachean Ethics (Aristotle, 1941), who writes extensively about how 
+practical knowledge is constructed, holding that practical wisdom is the “true and 
+reasoned state of capacity to act with regard to the things that are good or bad for man” 
+(p. 1026). Modern ideas about experiential learning are centered in Constructivism, an 
+
+
+
+
+application of Cognitive Psychology (Bruning, Schraw & Ronning, 1999), and have the 
+following characteristics (Beckett, 2001): 
+
+• A focus on the capacity for critical thinking in individuals in order to judge new 
+information and fit it together with what is already known, 
+
+• A belief that self-direction will motivate learners, and, 
+
+• A philosophy that teachers and trainers serve as facilitators of learning, not 
+unquestionable experts. 
+
+Cognitive Psychology and Constructivism were developed as an alternative to the 
+older Behaviorism model, which holds that we are the product of our external 
+conditioning. Behaviorists reject ideas of internal factors and discount the possibility 
+that different people may perceive reality differently (Malott, 2011). Thus, Behaviorism 
+is associated with Realism (Ozman & Craver, 2007) and operates under the 
+assumption that once students are told something, such as via lecture, they should 
+internalize and remember it without further effort. 
+
+Many studies have shown that in young children learning English as a primary 
+language, reading is an independent variable affecting vocabulary, writing proficiency, 
+spelling, and conversational ability (Lerkkanen, Rasku-Puttonen, Aunola & Nurmi, 2004; 
+Miller and Gildea, 1987; Nippold, 1999; Sinatra, 2008). Sinatra, for example, 
+recommended that the rich vocabulary found in children’s books be used to teach 
+vocabulary. He said (p. 178) that “early reading acquisition of high-frequency and 
+function words are critically important for both conceptual understanding and early 
+reading success” and are particularly good at teaching grammatical relationships. 
+
+
+
+
+Using authentic texts is a growing trend in L2 instruction because they are true 
+representations of the L2 culture, however O’Donnell (2009) noted that others argue 
+that authentic materials can be too difficult for students with limited language 
+proficiency, and should be presented modified reading texts. O’Donnell found that use 
+of authentic texts that have been created or modified to support student pedagogical 
+needs appear to be better understood by intermediate level L2 readers, however text 
+difficulty played a pivotal role he found. 
+
+Analysis and Discussion 
+
+The theoretical framework provides a context for the discussion and analysis of the 
+inquiry questions. 
+
+Question 1 : What are the goals that motivate students to study EFL, and what are 
+the motivations that should be encouraged? 
+
+Students clearly have multiple motivations for studying English as a Foreign 
+Language; some are internal and some are external. External factors, generally 
+associated with instrumental motivation, include degree program or course 
+requirements, hopes about future job quality and income, and family pressure. Internal 
+factors, generally associated with integrative motivation, include enjoyment of the 
+subject; a perception that English is a worthwhile topic to study; past success at using 
+English for practical purposes; and the goal, ah la Dornyei, of functioning in the multi- 
+cultural international society, which uses English as a common language. 
+
+However it is a mistake to consider that internal-versus-external factors, and 
+integrative-versus-instrumental motivation operate as either-or aspects of motivation. 
+None of these types of motivation functions to the exclusion of the others. Some 
+
+
+
+
+instrumental motivation is valuable, so the student understands learning objectives set 
+by the teacher, keeps deadlines, focuses on tasks to be accomplished, and other 
+elements of the learning environment. Integrative motivation has long been held to 
+have value, because it causes the students to want to study, i.e. to select improving 
+English ability over other things that compete for the attention of the students. 
+
+
+
+Instrumental Motivation: 
+
+- Degree program or course 
+requirements 
+
+
+
+Best 
+Students: 
+
+
+
+Integrative Motivation: 
+
+- Enjoys subject 
+• English is worthwhile to study 
+
+
+
+- Hopes about future job quality 
+and income, 
+
+
+Motivations 
+
+
+- Strengthened by past success 
+
+
+- Famity pressure 
+
+
+reinforce 
+
+
+- Anticipates role in international 
+
+
+
+Reduces procrastination 
+Focuses on tasks 
+
+
+
+each other / society 
+
+- Forward looking 
+
+- Wants to study 
+
+
+
+Synergy Zone 
+
+Figure 1 : Conceptual model of reinforcing motivations. 
+
+
+
+Figure 1 presents a conceptual model of how these alternative motivations work. 
+When healthy instrumental motivation is reinforced by integrative motivation, the result 
+is, that is, the combined action of the two forms of motivation becomes greater than 
+their effects individually. The authors believe that it is this “Synergy Zone” in which 
+students are most open to the perspective Dornyei described in which students want to 
+
+
+
+
+reside in a cosmopolitan international culture in which proficiency in English is a 
+fundamental requirement. 
+
+Motivation, therefore, must be seen as a multidimensional construct, including 
+internal and external dimensions, as well as temporal considerations that reflect past 
+positive or negative experiences in use of English and future expectations. The teacher 
+plays a central role in determining where the student resides in these multiple 
+dimensions. The teacher ideally sets and explains instrumental requirements to which 
+students logically agree, demonstrates integrative benefits appealing to the enjoyment 
+of students, and presents a role model of functioning in international society in a way 
+that has strong emotional appeal to students. 
+
+Question 2: How can cutting-edge educational theory inform the complex 
+problems of EFL literature instruction and learning? 
+
+Contemporary learning theory is rooted in Constructivism, however many EFL 
+instructional methodologies remain rooted in Behaviorism, typified by a lecture- 
+memorization classroom structure and little discretion on the part of the learner about 
+what and how to learn. Constructivism, on the other hand, emphasizes the practical 
+application of skills to fit new information in to that which is already known. Therefore 
+constructivism dovetails perfectly with research that shows that students benefit from 
+methodologies that stress active versus passive learning, student centered learning 
+environments, and critical thinking. For many EFL teachers in Taiwan, however, this 
+means a dramatic change in direction and loss of some control, as the students take 
+more control over elements of their learning. 
+
+Methodologies built on the foundation of Constructivism solve many of the 
+problems of EFL learning and teaching by allowing students to exercise judgment about 
+
+
+
+
+what and how they learn under the guidance of the teacher, using authentic materials to 
+
+replicate natural communicative interaction as much as possible, and emphasizing 
+
+active learning via critical thinking. In particular, students in this environment are less 
+
+likely to be bored and to find source material to be too difficult. They are more likely to 
+
+be engaged in the learning process because they much more often are called upon to 
+
+apply what they are learning and to improve their skills thereby. 
+
+Question 3: How can instructors help students learn EFL literature in a way that is 
+as natural and easy as possible? 
+
+EFL students frequently cite the need for more authentic instructional materials, 
+however source materials prepared for native speakers are often far too difficult for EFL 
+learners. The literature has shown, therefore, that literature written for younger readers 
+can be adapted for use in the EFL literature classroom. 
+
+This clearly replicates the natural elementary school or kindergarten learning 
+environment of a native speaker in the United States who first learns a handful of words, 
+and then reads them in short sentences derived from the very limited vocabulary at the 
+command of the students. As the students continue to read, over time, new vocabulary 
+is incorporated carefully into the texts allowing the students to learn word meaning from 
+the context of the sentence and paragraph, from illustrations accompanying the text, 
+from “sounding out” the words (applying the sounds of the individual letters to determine 
+the pronunciation of the entire word), and from external definitions. When they still do 
+not understand a word, young children usually ask an adult for help, thus providing a 
+respected external definition. The authors note that young children in the United States 
+also learn to read as a side product of educational television programs such as Sesame 
+
+
+
+
+Street (Sesame Street, 2011) in which instruction is strategically included in 
+entertainment content. 
+
+Steen Krashen (1988) drew on this natural learning process when he 
+recommended the Comprehensible Input Plus One strategy for second language 
+acquisition, “i+1”, in which the students are always pressed to interact slightly above 
+their current ability, or “one level higher.” This continually encourages the students to 
+improve their ability while not overwhelming them with unfamiliar content that could 
+reduce their confidence and cause an undesirable drop in motivation. In reading, this 
+means always reading at a level in which there is a carefully managed number of 
+unfamiliar words which students will come to understand from the content and from 
+external definition checks. 
+
+However, use of authentic literature for EFL learning comes with pitfalls. Culture 
+as portrayed in literature may not be accurate, because of literary points the author 
+intended to make, leaving students with serious misunderstandings about the target 
+culture, which teachers must be able to understand and explain. The authors 
+encountered such serious misunderstandings in teaching the classic short story “The 
+Lottery” by Shirley Jackson to Taiwanese college students. Almost every student in the 
+class concluded that the New England villagers in the story were unfair and immoral 
+because they chose to stone a fellow citizen to death to ensure good crops. This 
+judgment was certainly the intent of the author, however, many of the students also 
+tended to assume that such stoning events actually happen today in New England, until 
+both the Taiwanese and the American instructors stressed the differences between the 
+fictional text and reality. The students were confused because the author advanced her 
+
+
+
+
+artistic purposes through metaphors that did not mirror reality, requiring a more nuanced 
+understanding than the Taiwanese students possessed. If the teachers had not 
+possessed full understanding of the reality of the American culture, lasting 
+misunderstanding might have resulted. 
+
+Conclusions & Recommendations 
+
+The discussion of the practical applications of the theoretical framework leads to 
+several key conclusions: 
+
+1 . Constructivist classrooms, employing student-centered methodologies, active 
+learning and authentic source material, are the clear choice for effective EFL instruction. 
+
+2. Carefully chosen literature can benefit Constructivist language learning by 
+providing authentic source materials valued by students. 
+
+3. The authors concur with O’Donnell (2009) that modified “children’s versions” of 
+notable texts, or texts created by native-speaking authors with EFL students in mind, 
+can often be beneficial because they allow the instructors to manage the level of 
+difficulty of the class. If unaltered texts are used, they must be very carefully selected to 
+meet the learning needs of the students. 
+
+4. Such texts for EFL learners should reflect relatively recent cultural elements. 
+American children are often provided simplified versions of historical literature, such as 
+Robinson Crusoe, Swiss Family Robinson, Dracula, Treasure Island, Gulliver’s Travels, 
+The Jungle Book, and The Prince and the Pauper, however EFL learners will likely 
+consider these works to be outdated stories and would be more interested in stories 
+
+
+
+reflecting culture today. 
+
+
+
+
+5. Even when simplified versions of literature are used, enrichment of the texts is 
+necessary to check cultural understanding and to provide a basis for Constructivist 
+activities stemming from the text. 
+
+6. Just as the i+1 concept is applied to the degree of linguistic difficulty of a text, 
+i+1 should also be applied to the degree of cultural difficulty of the text, or how 
+challenging the cultural elements of the story will be for EFL learners to compare and 
+contrast to their own culture. 
+
+7. Multimedia support materials have been shown to be more engaging for 
+students, therefore there is a market for creation of such materials, once a new 
+standard reading list is developed that meet the recommendations of this paper. 
+
+These conclusions represent a challenge for the EFL community in Taiwan. In 
+many cases, the required literary texts may not be available “off the shelf” and 
+enrichment source materials may also not be easy to find for teachers who are not 
+highly experienced in Western culture. The authors believe that textbook publishing 
+companies must be cognizant of the modern requirements of the EFL environment and 
+work with international partners to develop texts that are authentic for students, yet 
+address the i+1 needs of vocabulary and cultural content. 
+
+EFL research is clear that the more authentic the learning environment is, the 
+better students will learn and improve their ability, confidence, and motivation, and the 
+more they will enjoy their learning. This approach to the use of literature for EFL 
+language learning has the potential to provide a true organic means of learning that 
+bypasses the challenges of the traditional lecture-memorization educational context. 
+
+
+
+
+References 
+
+
+
+Aristotle (1941). Basic Works. (A. McKeon, ed.) New York: Random House. 
+
+Beckett, D., (2001). Hot action at work: A different understanding of “Understanding.” 
+New Directions for Adult and Continuing Education, 92, 73-84. 
+
+Beckett, D. & Hager, P. (2000). Making judgments as the basis for workplace learning: 
+towards an epistemology of practice. International Journal of Lifelong Education, 
+19(4), 300-311. 
+
+Bruning, R. H., Schraw, G. J., & Ronning, R. R. (1999). Cognitive psychology and 
+instruction (3rd ed.). Upper Saddle River, NJ: Prentice-Hall. 
+
+Butler, K., & Lumpe, A. (2008). Student Use of Scaffolding Software: Relationships with 
+Motivation and Conceptual Understanding. Journal of Science Education & 
+Technology, 77(5), 427-436. doi:1 0.1 007/si 0956-008-91 1 1-9 
+
+Dornyei, Z. (2005). The psychology of the language learner: Individual differences in 
+second language acquisition. Mahwah, NJ: Lawrence Erlbaum. 
+
+Gardner R. C. (2001). Integrative motivation: Past, present and future. Retrieved 
+
+February 05, 2006, from http://publish.uwo.ca/~gardner/GardnerPublicLecture1.pdf 
+
+Knowles, M. S., Holton, E. F. Ill, & Swanson, R. A. (2005). The Adult Learner (6 th Ed.). 
+Elsevier: London. 
+
+Krashen, S. D. (1988). Second Language Acquisition and Second Language Learning. 
+Prentice-Hall International: Upper Saddle River, NJ. 
+
+Lan, R. L. (2005). Language Learning Strategies Profiles of EFL Elementary School 
+Students in Taiwan. University of Maryland, College Park. 
+
+
+
+
+Lerkkanen, M., Rasku-Puttonen, H., Aunola, K., & Nurmi, J., 2004). The developmental 
+dynamics of literacy skills during the First Grade. Educational Psychology, 24(6), 
+793-810. 
+
+Liu, G., & Chen, A. S. (2007). A taxonomy of Internet-based technologies integrated in 
+language curricula. British Journal of Educational Technology, 38(5), 934-938. doi 
+1 0.1 1 1 1/j.l 467-8535.2007.00728.X 
+
+Malott, C. S. (201 1 ). Critical Pedagogy and Cognition: An Introduction to a Postformal 
+Educational. Springer Dordrecht Heidelberg, London. 
+
+Miller, G.A. & Gildea, P.M. (1987). How children learn words. Scientific American 257 , 
+94-99. 
+
+Moss, C. M. (2000). Professional learning on the cyber sea: What is the point of 
+contact? Cyberpsychology & Behavoir, 3(1), 41-50. 
+
+Nippold, M., (1999). Word definition in adolescents as a function of reading proficiency: 
+A research note. Child Language Teaching and Therapy, 15(2), 171-176. 
+doi: 10.1177/026565909901500205 
+
+O’Donnell, M. E., (2009). Finding middle ground in second language reading: 
+Pedagogic modifications that increase comprehensibility and vocabulary 
+acquisition while preserving authentic text features. The Modern Language 
+Journal, 93(4), 512-533. doi: 10.1 1 1 1/j.l 540-4781 ,2009.00928.x 
+
+Ozman, H. A. & Craver, S. M. (2007). Philosophical Foundations of Education (8th 
+Ed.). Prentice Hall: Upper Saddle River, NJ. 
+
+Payne, J. S., & Ross, B. M. (2005). Synchronous CMC, working memory, and L2 oral 
+proficiency development. Language Learning and Technology, 19(3), 35-54. 
+
+
+
+
+Phillips, N., & Lindsay, G. (2006). Motivation in gifted students. High Ability Studies, 
+77(1), 57-73. doi:1 0.1 080/1 35981 306009471 19 
+
+Sakai, H. & Kikuchi, K. (2009). An analysis of demotivators in the EFL classroom. 
+System, 37, 57-69. 
+
+Sesame Street (2011). Why our site works. Retrieved March 5, 201 1 from 
+http://www.sesamestreet.org/parents/howtouse/why_our_site_works 
+
+Sinatra, R. (2008). Creating a culture of vocabulary acquisition for children living in 
+poverty. Journal of Children and Poverty, 14{ 2), 173-192. doi: 
+
+1 0.1 080/1 07961 20802336001 
+
+Su, Y.C. (2008). Promoting cross-cultural awareness and understanding: incorporating 
+ethnographic interviews in college EFL classes in Taiwan. Educational Studies, 
+34(4), 337-398. doi: 10.1080/03055690802257150 
+
+Tudini, V. (2003). Using native speakers in chat. Language Learning and Technology, 
+7(3), 141-159. 
+
+Wang, F. X. (2008). Motivation and English achievement: An exploratory and 
+
+confirmatory factor analysis of a new measure for Chinese students of English 
+learning. North American Journal of Psychology, 70(3), 633-646. 
+
+Wu, W. V. (2006). EFL optimal learning environment: perspectives of faculty and 
+students in a Taiwanese technical university, USA, Vermillion: The University of 
+South Dakota. 
+
+Wu, W. V., & Marek, M. W. (2010). Making English a “habit”: Increasing confidence, 
+motivation, and ability of EFL students through cross-cultural, computer-assisted 
+interaction. Turkish Online Journal of Educational Technology, 0(4), 1 00-1 1 2. 
+
+
+
+
+Wu, W. V., Marek, M. W., & Wu, N. P. (2009a, June). Lessons Learned from Three 
+Years of Videoconferencing between EFL Classrooms and a Native English 
+Speaker. Presented at the meeting of ED-MEDIA 2009 -- World Conference on 
+Educational Multimedia, Hypermedia & Telecommunications, Association for the 
+Advancement of Computing in Education, Honolulu, Hawaii, June. 
+
+Wu, P. N., Marek, M. W., & Wu, W. V. (2009b, June). Enriching the EFL literature 
+
+classroom in Taiwan with videos and blogs from a native speaker. Presented at the 
+meeting of ED-MEDIA 2009 - World Conference on Educational Multimedia, 
+Hypermedia & Telecommunications, Association for the Advancement of 
+Computing in Education, Honolulu, Hawaii. 
+
+Wu, P. N. & Marek, M. W. (2009). Using distance technology to provide cultural 
+
+information from a native speaker to EFL Literature students. Paper presented at 
+the 4 th Annual International Conference on Foreign Literature Teaching, May 22, 
+2009, Department of Foreign Languages and Literature, Asia University, Taiwan. 
+
+Wu, P. N., Marek, M. W., & Wu, W. V. (2009c). The role of the teacher using a web-blog 
+as a cultural teaching resource in an EFL literature course. Paper presented at the 
+Asian EFL Journal International Conference, April 10-11, 2009, Pusan, South 
+Korea. 
+
+You, Y. H. (2003). A study on motivation to learn English among the freshmen in the 
+four-year program. Project Report on Improvements on Faculty Members of St. 
+John's Institute of Technology. 
+
+
+
+

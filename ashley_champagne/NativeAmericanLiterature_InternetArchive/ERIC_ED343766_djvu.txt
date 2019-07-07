@@ -1,0 +1,5018 @@
+DOCUMENT RESUME 
+
+
+
+ED 343 766 
+
+
+
+RC 018 625 
+
+
+
+AUTHOR 
+TITLE 
+
+
+
+SPONS AGENCY 
+
+PUB DATE 
+NOTE 
+
+PUB TYPE 
+
+
+
+Brown, Gerald L. 
+
+Reading and Language Arts Curricula in Elementary and 
+Secondary Education for American Indians and Alaska 
+Natives. 
+
+Department of Education, Washington, DC. Indian 
+Nations At RisK Taslc Force. 
+91 
+
+36p.; In: Indian Nations At Risk Task Force 
+Commissioned Papers. See RC 018 612. 
+Information Analyses (070) 
+
+
+
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+MF01/PC02 Plus Postage. 
+
+Alaska Natives; * American Indian Education; American 
+Indians; ^Bilingual Education; Educational 
+Strategies; Elementary Secondary Education; English 
+(Second Language); Language Acquisition; ^^Language 
+Arts; ^Reading Instruction; ^Second Language 
+Instruction; Second Language Learning; ^Teaching 
+Methods 
+
+
+
+ABSTRACT 
+
+Native students rank far below norms in reading, 
+language arts, and language arts related subjects. This paper reviews 
+the literature to address strategic plans for reading and language 
+arts curricula for Native students. An overview is presented of 
+theories of first and second language acquisition and learning, 
+stages of language development, and the influence of the learning 
+environment. Second language instruction framed in current theory 
+includes the comprehension, communicative, holistic or integrated, 
+anr; natural approaches. Instruction and student evaluation are 
+described for the total physical response method. Content-based 
+instructional approaches and thR relationship between academic 
+competency and second language (English) competency are discussed, 
+including: the academic needs of Native students; the importance of 
+the nature of the text, the nature of the reader, and the interaction 
+between text and reader in reading instruction for Native students; 
+major impediments facing Native students as they learn to read in 
+English; and methods of overcoming these impediments. Also discussed 
+are the language experience approach and its effectiveness with 
+Native students, adapting the basal reader, integrating the language 
+arts, and the whole language approach. Specific instructional 
+strategies that have proven effective for Native students are 
+offered: analyzing the language complexity of the learning task; 
+providing contextual cues; peer interaction and cooperative learning 
+experiences; modifying lessons or providing alternative activities 
+for limited English proficient students; incorporating comprehension 
+checks; * ing preview and review techniques; making the text 
+compreh^i.wible; and adapting content. This paper contains 44 
+references. (SV) 
+
+
+
+* Reproductions supplied by EDRS are the best that can be made 
+^ from the original document. 
+
+
+
+CO 
+
+
+
+r 
+
+
+
+ERIC 
+
+
+
+Reading and Language Arts Curricula in 
+Elementary and Secondary Education for 
+American Indians and Alaska Natives 
+
+
+
+Gerald "Jerry^' Brown 
+Interface Network, Inc, 
+
+
+
+Introduction 
+
+American Indians and Alaska Natives are the 
+most educationally disadvantaged of all 
+Americans, with the highest dropout rate among 
+all minorities. Little progress has been made 
+toward meeting the educational needs of this 
+group. The shortage of information about 
+American Indian and Alaska Native students 
+presents problems in determining what types of 
+educational practices work best among these 
+groups. 
+
+A cursory review of the literature regarding 
+Native stud' *t achievement indicates that this 
+population ranks far below the norm in reading, 
+language arts, and language arts related 
+categories (e.g., science, mathematics, social 
+studies, etc.) (Brown, 1986). Basic to this problem 
+is the reality that many Native students are not 
+successfully accessing the language so essential for 
+being successful in American academia. In other 
+words, they have not been successful in developing 
+an rdequate cognitive aca'^emic language 
+proficiency (CALPs). Since traditional American 
+education is textbook driven and requires high 
+levels of cognitive academic language proficiency, 
+the educational establishment does not appear to 
+be very effective in providing Native students with 
+the necessary cognitive academic language 
+proficiency (Fox 1987, 1988, 1990). 
+
+It appears necessary to start at a very basic 
+level in addressing strategic plans for reading and 
+language arts curricula in elementary and secon- 
+dary education for Native students. It has been 
+well established that not only are many teachers 
+of Native students not prepared to adequately 
+teach such students, but there is very little oppor- 
+tunity for them to find the necessary training and 
+education. With this in mind, this paper will follow 
+an evolutionary approach of starting with lan- 
+guage acquisition and work its way to content area 
+language arts — leading to the development of 
+cognitive academic language proficiency (CALPs). 
+
+
+
+u s OCMRTMf NT OF EDUCATION 
+
+Ofticf 61 Educ<tion«i (^iiMtch ind improvtmant 
+
+EOUCATlONAi. RESOURCES iNFORMArON 
+. CFNTeR(ERlQ 
+
+j/vyi% tfocumt. Ml b«rn t«ptoduced tt 
+r roc«iv*d trom the d«< on or oro«nt|tt(On 
+
+oriQintttng i| 
+C Minor chtngf s htve be«n mid« 10 imorovf 
+
+reproOucKon quiiily 
+
+• Potnll 0( vt«« Of ODinioni itited m Ihit dOCu- 
+mani do not necemriiy reprtteni oKtcttl 
+OEPi pOKliOn Of poitcy 
+
+
+
+At appropriate points, current efforts in Native 
+education will be used as examples of what can 
+been done to implement effective practices at 
+various stages of language development (INAR 
+Task Force hearingSi 1990). The process and the 
+approaches recommended are applicable to the 
+maintenance and development of the Native Ian* 
+guage as well as the English language. Alsoi spe- 
+cial attention needs to be given in using these tools 
+to transition Native students from their home Ian* 
+guage (whether it be a Native language or '^Reser- 
+vation" or "tillage English") to achieve English in 
+a dignified and a psychologically and educationally 
+sound manner. 
+
+This paper is the result of an ongoing effort to 
+keep current with the literature and research on 
+reading and language arts and special efforts to 
+identify exemplary American Indian and Alaska 
+Native educational programs that are meeting the 
+needs of Native students in reaching educational 
+parity. As requested in the initial charge by the 
+INAR Task Force, the research and literature will 
+be presented in solution form rather than a state- 
+ment of a problem. 
+
+Language Acquisition 
+
+Three questions will be given primary con- 
+sideration under the topic of language acquisition: 
+
+How do Children Acquire Their 
+First Language? 
+
+It is useful to examine briefly some of the 
+theories that seek to explain the language acquisi- 
+tion process of children. These theories have 
+helped to provide a framework on which current 
+theories of second language acqxxisition are based. 
+This discussion is divided into the following com- 
+ponents: 
+
+Language Acquisition Theory 
+
+Using language to communicate is a natural 
+consequence of being human. Almost all children 
+
+
+
+iEsi m mum 
+
+
+
+India .IS Nations At Risk: Solutions for the 1990s 
+
+
+
+who speak are oxposed to language regardless of 
+the environment in which they are raised. When 
+children acquire thoir language, they produce the 
+grammar of thai lantnuage, which is a finite system 
+of rules: phonological (tine sounds of a language), 
+morphological (the structure of words), syntactic 
+(the relationship among words in an utterance), 
+and semantic (the meaning of words). No one 
+teaches them these rules; no one tells them to form 
+a sentence by adding a verb phrase to a noun 
+phrase. The rules are learned unconsciously as 
+children acquire their language. A number of 
+theories have evolved to explain how children ac- 
+quire language. 
+
+The behaviorist view supports that a child is 
+reinforced positively or negatively in response to 
+various stimuli. For example, a mother will most 
+likely provide a positive reinforcement in response 
+to her infant saying •'ma-ma." On the other hand, 
+a i^ositive response to ''ma-ma'' is less likely when 
+the child is three or four, as reinforcement becomes 
+progressively more dependent on how closely the 
+child's language matches adult speech. Thus, the 
+reinforcement theory hypothesizes that children 
+are conditioned to speak correctly by being nega* 
+tively reinforced for "errors" and positively rein- 
+forced for "correct" usage. In this context, language 
+acquisition is viewed as a result of an innate 
+general learning capacity plus an environment 
+that shapes the child's behavior. The behaviorist 
+view, however, does not explain how children are 
+able to manipulate language to make unique and 
+novel utterances. 
+
+The innatist view that emerged during the 
+1960s offers a theory that attempts such an ex- 
+planation: Noam Chomsky presents the strong 
+version of the innatist's point of view that main- 
+tains that every child is bom with universals of 
+linguistic structure "wired in." According to 
+Chomsky, children pick up the rules of their lan- 
+guage in such an efficient way as to suggost that 
+theirbrains are programmedfor language learning 
+or that they have some kind of innate lan^niage 
+that allows them to know what a possible language 
+looks like. The child then makes guesses or 
+hypotheses as to the rules that underlie the pat* 
+terns. Chomsky suggests that this innate language 
+acquisition device allows children to make increas- 
+ingly complex theories about the rules of their 
+language (Chomsky, 1965). 
+
+This strong position was modified in the 1970s. 
+While still giving recognition to the substantial 
+role of innate contribution to language acquisition, 
+many innatists now define the innate component 
+not as a body of unconscious "Icnowledge" about the 
+structure of human language, but rather as a "sub* 
+
+
+
+stantial innate cognitive potential for processing 
+human language, so as to derive its structure'' 
+(Lindfors, 1980). Rather than possessing advance 
+information, children are bom with processing 
+abilities that enable them to find out about lan- 
+guage and to analyze data(Derwing, 1971; Slobin, 
+1973). The grammatical system is not given as 
+innate knowledge, but when these processing 
+capacities are applied to the speech Uiey hear, 
+diildren have the innate means to construct a 
+grammar of their native language (Slobin, 1973). 
+
+Whether or not a child is programmed with a 
+full set of linguistic universals, as Chomsky sug- 
+gests, or if (s)he comes equipped with special in- 
+nate abilities for processing linguistic data, the 
+child is likely to end up with the same set of 
+linguistic universals that allows for progressive 
+language development. 
+
+Stages of Language Development 
+
+It is clear that a child does not leam a language 
+'^all-at-once.'' Language is acquired in stages of 
+increasing complexity with each stage more closely 
+approximating the grammar of the adult language. 
+Observations of children in different language 
+areas of the world reveal that the stages are very 
+similar and possibly universal. 
+
+Children demonstrate comprehension of the 
+language long before their first utterance. A child 
+responds correctly to such commands as ^Pick up 
+the bair or "Toint to your nose" or "Get the book" 
+without being able to produce these uttenmces. 
+Sometime after their first year children begin to 
+produce single words. At this point, they have 
+learned that sounds are related to meaning These 
+first words are usually linked with the child's own 
+action or desire for action. For example, ^p** for 
+Tick me up** or ''Carry me,** and single words such 
+as ''dog" or "juice" convey desires or basic needs. 
+Because children at this stage can comprehend 
+much more than they cf^n produce themselves, it is 
+not possible to determine the extent of the 
+knowledge of the grammar that the child possesses 
+merely by observing or noting speech production. 
+
+Around the end of the second year, children 
+begin to produce two-word utterances such as 
+"Mommy book." When a child starts stringing 
+more than two words together, the nv ^ber of 
+words can vary. Words used are usually th^je that 
+carry the main messagOi or the "content" words. 
+Because it often sounds like a Western Union mes- 
+sage, these utterances are called telegraphic 
+speech: "No sit there" or "Cat stand up table" 
+(Brown, 1973). 
+
+Table 1 summarizes the development of Ian* 
+guage in children from four months to six years of 
+age. 
+
+
+
+ERLC 
+
+
+
+2 3 
+
+
+
+Reading and .Language Arts 
+
+
+
+Influence of the Environment 
+
+If human communication is innate, what dif- 
+ference does environment make? Children must 
+be exposed to speech in order for speech to develop. 
+A child will not learn unleso there are models 
+around from which (s)he can learn. Children must 
+receive language input from their caretakers and 
+other speakfirs of the language. Caretakers adapt 
+their language in order to accomplish meaningful 
+communication with the child. They use shorter, 
+simpler sentences than in adult communication. 
+They rely heavily on concrete, contextual support; 
+they often repeat and exaggerate intonation. The 
+content of caretaker speech to young children tends 
+to focus heavily on the here and now, and on 
+activities presented in the environment as they 
+interact. For example: 
+
+Child: Mommy eat juice. 
+
+Caretaker: Yes, Mommy is drink* 
+ing juice. 
+
+Child: Billy juice. 
+
+Caretaker: You want some juice? 
+
+• Child: Yeah, Billy firsty. 
+
+Caretaker: You're thirsty, hmmm? 
+Well, here's sowe juice for you. 
+
+The caretaker responds to the meaning and not. 
+the form of the child's communication. The child is 
+not corrected in his or her efforts to r^ommunicate. 
+There is no explicit instruction of language rules. 
+Even if we could teach grammar to children, there 
+is no evidence that it would significantly improve 
+the rate of their acquisition or their communication 
+skills. A child's language acquisition is an uncon- 
+scious process; the child is not aware of the rules 
+(s)he possesses. 
+
+Children are active participants in the process 
+of acquiring language. Their cognitive and lan- 
+guage development is a strongly interactive 
+process that depends not only on specific linguistic 
+and cognitive mechanisms, but also on their par- 
+ticipation in a rich linguistic environment that is 
+attuned to their communicative needs. In con- 
+clusion, current first language acquisition theory 
+supports the following beliefs about children's lan- 
+guage learning. 
+
+• The whole of language is greater than the 
+sum of its parts. 
+
+• Language learning in not the result of 
+having mastered tiny, discrete "skills'* or 
+"habits." 
+
+• Language use begins with a function and 
+then involves experimenting with the lan- 
+
+
+
+guage forms necessaiy to fulfill that func- 
+tion. 
+
+^ Willingness to accept approximations (er* 
+rors) is essential to the processes which 
+accompany language learning. Given time 
+and opportunity, the child's immature 
+forms will drop out and be replaced by 
+conventional ones. 
+
+• The language to which young language 
+learners are exposed is always meaningful 
+and in a context which makes some kind of 
+sense. 
+
+Program Example 
+
+Current trends in early childhood education 
+programs are to nurture the language experiences 
+between child and caretaker by giving caretakers 
+education, encouragement, and support to 
+facilitate the natural evaluation of the child's lan- 
+guage in a wholesome environment. Headstart and 
+Early Childhood Home Visitor Programs are doing 
+a lot in oral language development in Native and 
+second languages. 
+
+What is the Relationship Between 
+First (Li) and Second (L2) 
+Language Acquisition? 
+
+Second language acquisition theorists have 
+gained important insight and direction for re- 
+search from studies in first language acquisition. 
+Current perspectives on second language teaching 
+have evolved from theories that have integrated 
+models of how a child learns his or her first lan- 
+guage. Specifically, three topics will be explored in 
+response to the above question: 
+
+Second Language Acquisition 
+Theory ' 
+
+Research conducted during the last 20 years 
+supports that there are many similarities between 
+first and second language acquisition. For ex* 
+ample, children and second language speakers use 
+shorter utterances composed of heavy content 
+items first, and slowly progress to longer and more 
+syntactically complex utterances. Second language 
+learners frequently overgeneralize as do first lan- 
+guage learners, regularizing the exception forms in 
+the language, e.g., *'goed,'"1aked.'' In addition, the 
+same characteristics of a successful first language 
+learning environment have been identified as 
+present in the language learning environment of 
+those students who have successfully mastered the 
+second language. Language in a meaningful con- 
+
+
+
+Indians Nations At Rirk: Solutions for the 19908 
+
+
+
+text, focusses on meaning and a low-anxiety learn- 
+ing environment 
+
+Krashen ( 1982) has developed a model of second 
+language acquisition that has greatly influenced 
+second language teaching methodologies in recent 
+years. In support of the similarities between first 
+and second language acquisition, he theorizes that 
+acquisition is a subconscious process by which one 
+develops linguistic ability through exposure and 
+interaction with the language. Krashen makes a 
+distinction between acquisition and learning. 
+Learning a language, on the other hand, is the 
+result of conscious attention given to the rules and 
+forms of the language. He suggests that conscious 
+learning has a very limited function in language 
+performance, that is to say, our formal knowledge 
+of a second langu age, the rules we have learned in 
+class and from texts, is not responsible for fluency. 
+What is responsible for ultimate fluency is receiv- 
+ing messages (input) that are comprehensible or in 
+a comprehensible context in an environment which 
+promotes low anxiety levels, low -risk and non-cor- 
+rective participation, similar to that in which 
+children acquire their first language. 
+
+Krashen hypothesizes that language is ac- 
+quired by understanding input (i) that is a little 
+beyond a person's current level of acquired com- 
+petence (-f 1). This accounts for what Krashen calls 
+the silent period in informal second language ac- 
+quisition. This is a period of time when the acquirer 
+may say very little but is building up competence 
+by active listening via comprehensible input (i^-l), 
+a prerequisite^ that tri^ers the whole process of 
+second language acquisition: the message must be 
+understood before acquisition can take place. 
+When the message is understood, then structures 
+that are a little beyond the current level of com- 
+petence of the learner are ready to be acquired. 
+
+Socio-Affective Factors in L2 
+Development 
+
+Second language learners are greatly in- 
+fluenced by attitudes they have developed toward 
+the second language and its speakers. If the 
+learner is highly motivated to learn the second 
+language and actively seeks interaction with na- 
+tive speakers, (s)he is likely to experience greater 
+success in acquiring the second language. 
+Krashen's Affective Filter Hypothesis states that 
+there are affective variables related to second lan- 
+guage acquisition. A low filter means that the 
+learner is more "open" to the input, allowing the 
+input to be more easily internalized. A high filter 
+suggests attitudes lhat will inhibit the acquisition 
+process. Learners who are motivated to learn the 
+second language and who have a high self-ima^e 
+
+
+
+have been identified as more successful acquirers 
+of the second language. In addition, this hypothesis 
+supports the notion that the best environment, for 
+second language acquisition is one which promotes 
+low-anxiety levels in a non-corrective, low-risk 
+climate, similar to that in which children acquire 
+their first language. 
+
+The Second Langrua^e Environment 
+
+The language that learners hear and see 
+around them is very important to the acquisition 
+process (Krashen, 1982). Four qualifying features 
+are identified: 
+
+• Naturalness of the environment. This is 
+the degree to which the focus of com- 
+munication is on content and not form. 
+
+• The learner's role in communication. 
+Studies support that one-way (learner lis- 
+tens but does not respond verbally) and 
+restricted two-way communication 
+(learner listens and responds, but the 
+response is usually nonverbal or in the 
+native language) benefit the acquisition 
+process. Also, delaying oral practice or ob- 
+serving a "silent period" until learners are 
+ready to speak in the new language is 
+considered to be more productive to the 
+acquisition process. 
+
+• Availability of concrete referents. These 
+are subjects, events, or activities thvi can 
+be seen, heard, or felt while they are being 
+talked about. 
+
+• Target language models. The acquisition of 
+the second language is affected by the 
+learner's choice of model. Research sup- 
+ports that learners would prefer to speak 
+with peers over teachers, peers over 
+parents, and members of one's own ethnic 
+group over nonmembers. 
+
+Program Example 
+
+Bilingual programs and Indian education 
+programs throughout the country are utilizing* 
+second language acquisition techniques that ad- 
+dress socio-affective factors and the qualifying fea- 
+tures of a second language environment. 
+
+What is the Distinction Between 
+Language Learning and Language 
+Acquisition? 
+
+As a result of current directions in second lan- 
+guage acquisition theory, consideration has been 
+given to the distinction between the two modes of 
+gaining competence in a second language: Ian- 
+
+
+
+4 5 
+
+
+
+Reading and Language Arts 
+
+guage learning and language acquisition. As dis- 
+cussed above, Krashen suggests that these are two 
+independent systems for developing competence in 
+a second language. The differences between these 
+two modes will now be defined along with a brief 
+discussion of the role of fonnal language instruc- 
+tion in an academic setting. 
+
+Language Learning 
+
+Language learning is formal knowledge about 
+a language; explicit knowled^r^ of rules and struc- 
+ture that is taught in English classes. In a lan- 
+guage learning environment, there is a conscious 
+effort on the part of the learner to know the lan- 
+guage, to be able to describe the rules governing its 
+use, to commit these rules to memory, and finally, 
+to apply them in order to generate grammatically 
+correct utterances. An example of this is thb con- 
+scious learning of the parts of speech such as noim, 
+verb, pronoun, and the conscious analysis of the 
+rules that control their order in a sentence (subject, 
+verb, adjective: He is tall). The learner is 
+presented with the linguistic features (the gram* 
+mar) of the target language. Control of each of 
+these features is considered important and iewed 
+as fundamental to the learner's language 
+capability. Language components are often iso- 
+lated as a skill for deliberate study and practice in 
+a language lesson. Error correction, deliberate at- 
+tention to the structure of the language, and 
+repeated practice of common language forms are 
+all consistent \^ith the instructional focus of a 
+•learning^ environment 
+
+Language Acquisition 
+
+An acquisition-oriented language environment 
+supports the belief that language evolves slowly 
+throufrh a series of proficiency stages very similar 
+to how children learn their first language. At each 
+stage, the learner/acquirer interacts with com- 
+prehensible language-use situations. The result is 
+that language forms are internalized unconscious- 
+
+ly. 
+
+Children... are not necessarily aware that 
+they are acquiring language, they are only 
+aware that they are communicating. The 
+results of language acquisition, acquired lin- 
+guistic competence, an? also unconscious. 
+(Krashen. Tenrell. 1983) 
+
+Krashen suggests that language acquisition is 
+the **naturar way to develop linguistic ability. In 
+an acquisition environment, language develop- 
+ment resembles natural language progression and 
+results from actual meaningful use in an environ* 
+ment that is low-anxiety and comfortable to the 
+learner. At all times, the emphaais of instruction 
+is on communication and meaning. 
+
+ERLC 
+
+
+
+• The Acquisition-Learning Distinc- 
+tion 
+
+• Acquisition 
+
+- Similar to children's first language 
+
+""Picking up** a language 
+
+Subconscious 
+
+Implicit knowledge 
+
+^ Learning 
+
+Formal knowledge of a language 
+acquisition 
+
+""Knowing about" a language 
+Conscious 
+
+Explicit knowledge (Krashen, 
+1981) 
+
+Acquisition, therefore, is the unconscious foi- 
+mulation of grammatical principles, while learning 
+is the conscious, cognitive-based study of gram- 
+mar. In the past, most language classrooms were 
+focused on grammar-based approaches that em- 
+phasized explanation rather than acquisition. Ex* 
+amples of such approaches included the 
+grammar-translation method and the audio-lin- 
+gual approach. In recent times, however, the trend 
+has changed more toward the use of approaches 
+that facilitate acquisition of the second language 
+such as the Natural Approach and Total Physical 
+Response (TPR), both of which will be discussed 
+later. 
+
+The Role of Formal Language 
+Instruction 
+
+It is important to note that the most current 
+research in second language development supports 
+the view that acquisition and learning are both 
+important to the process of gaining competence in 
+a second language. As Native children become 
+more involved in the educational system and en- 
+vironment, they must be prepared to undertake 
+academic tasks, the success of which is largely 
+dependent upon formal instruction in the English 
+language. Instruction must be given in developing 
+competence in reading and writing, for example. In 
+addition, attention musc be given to vocabulary 
+development because research has shown that it 
+has a direct relationship to students' academic 
+achievement in reading and in content areas 
+(Saville-Troike, 1984). 
+
+Many current studies (Long, 1983) have .shown 
+that formal language instruction often benefits 
+older English as a second language (ESL) learners 
+because of their advanced cognitive development. 
+There are many researchers in the field who 
+
+
+
+
+Indians Nations At Risk: Solutions for the 1990s 
+
+
+
+strongly feel that learning about the grammar of a 
+second language can enhance the acquisition 
+process. Perhaps, as McLaughhn (1987) suggests, 
+"Mt may be more fruitful to admit that correction 
+and grammar teaching can help stimulate change 
+and can lead to a different state in the acquisition 
+process. Rather than looking on grammar teaching 
+merely as a way of improving the monitoring 
+abilities of the learner, it seems reasonable to see 
+correction and grammar teaching as providing a 
+short cut for learners. This is not to subscribe to 
+language teaching methods that rely heavily on 
+grammar teaching. But it does suggest that there 
+is a role for correction and grammar teaching in 
+language instruction.** 
+
+While activities may be more limited in their 
+use with beginning students and in the develop- 
+ment of communicative competence, many in the 
+field feel that learning and acquisition are trans- 
+ferable systems that can work together to reinforce 
+one another (Higgs, 1985; Bailystok, 1978). 
+
+Program Example 
+
+In an effort to increase self-esteem and foster a 
+positive self-image many schools with Native stu- 
+dents have ascribed to a non-corrective/acquisi- 
+tion approach to language arts. Transitioning from 
+a'lhome'' language to academic English is difficult 
+enough without the constant stress of being cor- 
+rected in pronunciation or grammatical usage. 
+
+Current Perspective on 
+Second Language Instruction 
+
+Some of the instructional perspectives that 
+have evolved out of consideration given to current 
+second language acquisition theory are as follows. 
+
+What is the Comprehension 
+Approach? 
+
+Recent investigation in theoretical linguistics 
+and child language acquisition, as well as ex- 
+perimentation in second language instruction indi- 
+cate the primary role of comprehension in the 
+acquisition of language. Teaching rules to lan- 
+guage students has been a standard teaching prac* 
+tice. In recent times, however, the belief that 
+students can acquire a second language in essen- 
+tially the same way as they acquired their first 
+lanp^age has motivated language researchers to 
+develop instructional formats that model this first 
+language acquisition process. Great emphasis is 
+placed on initial listening activities. The students 
+hear sentences in the second language for which 
+the meaning is clearly indicated through actions or 
+
+
+
+pictures. The umbrella term for this instnictional 
+system is the Comprehension Approach. This ap- 
+proach is based upon the beUef that conversational 
+fluency will develop as a result of first learning to 
+understand the second language. 
+
+Defimtion of the Comprehension 
+Approach 
+
+There is a common set of beliefs that defines the 
+Comprehension Approach: 
+
+^ Language rules are most easily and ac- 
+curately acquired by inference. 
+
+• Language acquisition is primarily an im- 
+plicit process. 
+
+• Language acquisition is viewed as non- 
+linear. 
+
+• Speaking will develop given sufficient com- 
+prehension training. 
+
+• The instructional focus is on teaching 
+meaning through comprehension ac- 
+tivities in a relaxed, stress-free environ- 
+ment. 
+
+• Comprehension is a teaching routine 
+through which students are sys!;ematically 
+exposed to the sentences in the second lan- 
+guage. 
+
+• Language production is not taught directly 
+through drills, forced imitation, or model- 
+ing. 
+
+• Language use is encouraged by providing 
+interesting andmotivatingcommunicative 
+interactions. 
+
+• Understanding a language is the primary 
+channel through which language is ac- 
+quired. (Winitz, 1981) 
+
+Importance of Meaning in the 
+Comprehension Approach 
+
+This approach places highest priority on the 
+students experiencing the meaningfulness of the 
+linguistic input presented in the classroom. Com- 
+prehension and production are viewed as active 
+piocesses thatguide the students to an internaliza- 
+tion of the phonological, syntact7c, and semantic 
+systems of the second language. Language learn- 
+ing is seen as a problem-solving process through 
+which the learners figure out how the language 
+works on the basis of meaningful utterances that 
+they hear or see. 
+
+
+
+7 
+
+6 
+
+
+
+Reading and Language Arts 
+
+Example of Comprehension 
+Methodology 
+
+Total Physical Responsi^ (TPR) is a methodol- 
+ogy that has incorporated many of the tenets of the 
+Comprehension Approach. TPR provides meaning- 
+ful input via commands that the student performs 
+with his or her body (e.g., "Walk to the board**) 
+during which time the student is not expected to 
+produce utterances in the second language. 
+
+What is Communicative Language 
+Teaching? 
+
+The Communicative Approach incorporates 
+many of ^.he tenets of the Comprehension Approach 
+but is more extensive. It supports an interactive, 
+communicative view of language development. 
+
+The Communicative Approach stresses ac- 
+tivities that place emphasis on learning language 
+appropriate to a given social situation. It main- 
+tains that in order to be communicatively com- 
+petent, the student needs to have knowledge of the 
+linguistic forms, meanings, and functions of lan- 
+guage. Students mustbf' guided to choose the most 
+appropriate forms of communication given the so- 
+cial context. It is the social context of the com- 
+municative event that gives meaning to the 
+utterance. Some assumptions of this approach are: 
+
+• Children learn language as a medium of 
+communication rather than as a cur- 
+riculum subject with sets of isolated topics, 
+facts, or skills. Language proficiency is 
+defined as a speaker's successful ac- 
+complishment of his or her communicative 
+intentions across a wide variety of social 
+settings. 
+
+• Becoming a successful communicator in 
+the second language is synonymous with 
+becoming "niterate" in that language. Lis- 
+tening, speaking, reading, and writing are 
+best developed simultaneously. 
+
+• Children learn how to communicate suc- 
+cessfully through purposeful interaction in 
+the second language environment and in a 
+wide variety of contexts. 
+
+• Children's second language development 
+is a holistic process. Children use all their 
+available resources: linguistic, non-lin- 
+guistic, internal (cognitive affective), and 
+external (social, environmental) to become 
+successful second language com- 
+municators. 
+
+• Children's second language development 
+is facilitated by a comfortable classroom 
+
+
+
+atmosphere in which the focus is on the 
+meaning of the utterances rather than on 
+the form used to say tbem. Errors are 
+viewed as a normal part of the acquisition 
+process. 
+
+^ Communicative abilities depend not so 
+much on the time spent in rehearsing 
+grammatical patterns, but rather on the 
+opportunities given to interpret, express, 
+and negotiate meaning real-life situa- 
+tions. (Savignon, 1983) 
+
+The Communicative Approach defines "com* 
+petence" as the ability to flmction in an authentic 
+communicative situation setting. It supports the 
+belief that an analysis of the leamer^s needs and 
+interests provides the most effective basis for 
+materials development. True communication is a 
+purposeful use of authentic materials. 
+
+What is the Holistic or Integrated 
+Perspective on Language Learning? 
+
+The Holistic Approach to language learning is 
+based on specific convictions about how and when 
+students learn best. Many of the ideas discussed 
+above are very similar to the holistic perspective. 
+This perspective can perhaps be more appropriate- 
+ly identified as a philosophy of learning in general. 
+While it has been discussed specifically in the 
+literature in the context of language and literacy 
+development, many educators feel it can apply to 
+any learning. This philosophy incorporates the fol- 
+lowing key theoretical assumptions: 
+
+Individuals learn best when: 
+
+• They are supported by other learners. 
+
+• They are invited to take risks. 
+
+• Their learning environment provides 
+safety nets to sustain them through failure 
+as well as success. 
+
+• They are personally involved in decisions 
+about their own leaining. 
+
+• They are encouraged tx) take an active role 
+in the leaniing process. 
+
+• What they learn is meaningful to them. 
+
+• They want to Itam. 
+
+• They enjoy learning. 
+
+Instructional Implications 
+
+These assumptions provide the foundation 
+around which much current second language in- 
+struction is being designed. This instruction in* 
+eludes activities that: 
+
+• Present language as a whole believing that 
+the whole of language is greater than the 
+
+
+
+Indians Nations At Risk: Solutions for tiie 1990s 
+
+
+
+sum of its parts. Language is never ap- 
+proached as something to be broken down 
+and taught as tinyi discrete '^skills" or 
+habits'* to be developed. 
+
+* Generate comprehensible, interesting, and 
+useful classroom language, i.e., "real" Ian- 
+guage, recognizing that this kind of lan- 
+guage is most helpful to students in their 
+language development. 
+
+* Develop language as part of a broader 
+process of meaning-making development. 
+This is accomplished by integrating the 
+processes of listening, speaking, reading 
+and writing, and believing that the 
+development of one process supports the 
+development of the others. 
+
+* Recognize that the new language learner 
+brings a variety of resources to use in their 
+second language development, including a 
+diversity of prior native language and cul- 
+tural experiences. 
+
+* Use the second language in many different 
+settings, with a wide variety of people and 
+for a wide variety of purposes. 
+
+* Facilitate a comfortable environment: one 
+that values, encourages, and celebrates ef 
+forts to use the language; that focuses 
+primarily on the meaning and intention of 
+the utterances and mes:;age5 rather than 
+on their form; and that treats errors as a 
+normal part of becoming an increasingly 
+more proficient language user. (Enright, 
+McCloskey, 1988) 
+
+Program Example 
+
+It is important to focus at this point on why it 
+is necessary to understand second language ac- 
+quisition for Native students. In those instances 
+where students only speak a Native language and 
+do not speak English, it is obvious why. However, 
+it is not so obvious if it appears that students are 
+speaking "sub-standard" English. In reality, it is 
+possible that these students are not speaking '"sub- 
+standard" English, but are speaking ''Indian- 
+English" (Leap, 1982). In other words, the words 
+may be English, but the grammar may be from the 
+tribal language used in the home or community. 
+The tendency in dealing with a "sub-standard" 
+version of English is to "correct" it. As stated above, 
+it is recommended that correcting be k( pt to a 
+minimum. 
+
+There are many schools that use the Com- 
+prehension and Com.munitive Approaches for all 
+students, but in those cases where there are non- 
+
+
+
+Enghsh speaking or Indian-English speaking, it is 
+neces&ary to use these approaches. 
+
+The Natural Approach to 
+Second Language Teaching 
+
+The Natural Approach is a teaching methodol- 
+ogy that has come to receive enthusiastic support 
+by ESL instructors in recent years. 
+
+What is the Natural Approach? 
+
+The chief aim of the Natural Approach is to 
+focus on the meanings of genuine communications 
+in an atmosphere that brings anxiety down to a 
+minimum. It is an instructional strategy used with 
+beginning langiiage students and has the goal of 
+helping them to become intermediate students 
+(Krashen and Terrell, 1983). The Natural Ap- 
+proach believes that: 
+
+• Comprehension precedes production. 
+
+* Students can internalize language struc- 
+tures without producing them. 
+
+• Oral responses will occur when the student 
+is ready to make them. 
+
+* Students will display greater development 
+in comprehension skills, as well as in 
+speaking activities, if an atmosphere exists 
+in the classroom that allows and en- 
+courages a wide "threshold of error" at al 
+times. Correction, where it occurs, is ir - 
+direct through expansion or reiteration. 
+
+Example: Student: "Bey play dog." 
+
+Teacher: '^es, the boy is playing 
+with the dog." 
+
+Natural Approach instructors believe that the 
+purpose of the classroom is for acquisition ac* 
+tivities that allow for the development of com* 
+municative abilities through natural acquisition 
+processes. Acquisition does not happen through 
+traditional grammar exercises or drills because 
+these actiidties provide no opportunity for mean- 
+ingful communication. This is why the curriculum 
+of a Natural Approach classroom consists of com- 
+munication goals. Fur example, a goal might be to 
+talk about what the students did over the weekend. 
+In the activities that are used to achieve a par- 
+ticular goal, the necessary tools (vocabulary and 
+structure) are supplied. However, the ''focus of the 
+students during the activity must be maintained 
+on the semantic content (in this case, the 'veekcnd 
+activities), not the grammatical form (here, past 
+tense)" (Krashen and Terrell, 1983). 
+
+
+
+ERIC 
+
+
+
+8 9 
+
+
+
+Reading and Language Arts 
+
+
+
+What are the Stages of the Natural 
+Approach? 
+
+The Natural Approach identifies three stages of 
+development in language acquisition* 
+
+Comprehension 
+
+This is the period of time when students ''tune 
+in" to the new language, getting a sense of the way 
+it sounds and fits together. It corresponds to what 
+Krashen has labeled "the silent period." During 
+this time, the student is learning how to make 
+intelligent guesses* 
+
+Early Speech Production 
+
+The transition to this stage occurs afler stu- 
+dents have developed a passive vocabulary of about 
+500 words. Typical responses will be yes/no in reply 
+to a simple question: ''Is this a pineapple?* or 
+identification of items that have been introduced 
+several times: ''What is this? What color are the 
+grapes?" 
+
+Speech Emergence 
+
+At this stage, the sentences that the students 
+produce become longer, more complex, and include 
+a wider range of vocabulary. Students are able to 
+speak in complete sentences and engage in 
+dialogue and discussion. 
+
+What are Teaching Strategies and 
+Activities Appropriate to Each 
+Stage? 
+
+Comprehension 
+
+Using Total Physical Response (TPR) 
+TPR is an instructional approach that has been 
+identified as very effective at the comprehension 
+stage of the Natural Approach. TPR requires active 
+physical involvement on the part of the learner in 
+response to commands, such as ''Stand up," "^alk 
+to the desk," and "Turn on the light." Commands 
+are used to manipulate the orientation, location, 
+and locomotion of the learner's entire body, and 
+become increasingly more complex and novel as 
+the learner is able to demonstrate physical com- 
+prehension of the command. An example is: ""Hop 
+to the board and draw a picture of a monster." It 
+is believed that this active involvement of the body 
+with the langiiage provides immediate ""com- 
+prehensible input" of the message. 
+
+TPR presents ar approach to second language 
+learning that is based on a model of how children 
+learn their first language: The child spends many 
+months listening and interacting with the environ* 
+
+
+
+ment, trying to make sense out of the sounds going 
+on around him or her. No one tells the baby when 
+it must speak. The child chooses to speak when 
+(8)he is ready* Accordingly, TPR theorizes that 
+speech cannot be directly taught to students, just 
+as a parent (caretaker) cannot directly teach the 
+infant to talk. In addition Just as the child learned 
+his or her first language in a stress-free environ* 
+ment, the environment in the second language 
+classroom must also be stress-free. TPR activities 
+should be enjoyable so that the learners feel at ease 
+at all times. 
+
+Steps in a TPR Lesson: 
+
+• Teacher prepares "script" of TPR com- 
+mands that may focus on a particular ob- 
+jective, such as students becoming familiar 
+with the items in the classroom. 
+
+- Example ''Stand up." 
+
+• "Go to the board." 
+
+- "Touch the chalkboard." 
+
+• "Pick up the chalk." 
+
+• The teacher provides the auditory 
+stimulus, giving the command and simul- 
+taneously modeling the action so that the 
+input is immediately comprehensible. 
+
+Example: Teacher says: "Stand up 
+and pick up the chalk." 
+
+- Teacher models standing up. 
+
+Students stand up and pick up the 
+chalk with the teacher. 
+
+• The students demonstrate comprehension 
+by carrying out the command. 
+
+Example: Teacher says: "Stand up 
+and pick up the chalk." 
+
+Teacher does not model the action. 
+
+The students stand up and pick up 
+the chalk. 
+
+Initially, the teacher, as "caretaker," directs all 
+student behavior. At some point, usually after 10 - 
+20 hours of instruction (Asher, 1982), students will 
+be "ready to speak." Then there will be a role 
+reversal with individual students directing the 
+teacher and other students. 
+
+Using Context, Gestures and Other 
+Body Language. 
+
+At the comprehension stage, directing atten- 
+tion to the physical characteristics of the students 
+can provide for immediate con'.jrehensible input. 
+Students need only respond with names at this 
+point: 
+
+
+
+9io 
+
+
+
+Indians Nations At Risk: Solutions for the 1990s 
+
+
+
+• Example: Teacher: "What is your 
+name?" 
+
+- Student: ^'Susan." 
+
+- Teacher: ^'Everyone look at Susan. 
+Susan has short, curly hair." 
+(Teacher uses context and ges- 
+tures to clarify meaning of short, 
+curly hair.) 
+
+Teacher: **What is the name of the 
+student with short, curly hair?" 
+
+- Class: "Susan." 
+
+- Teacher: "What is your name?" 
+(Teacher chooses anotlier stu- 
+dent.) 
+
+- Student: "Judy." 
+
+- Teacher: "Look at Judy. Does 
+Judy have short, curly hair?" 
+
+Using Pictures 
+
+Pictures can be very effectively used at the 
+comprehension stage. The instructor describes the 
+picture, emphasizing only the key lexical items. 
+Each student is given a different picture. The 
+teacher asks questions about the picture that can 
+he answered by giving the name of the student 
+holding the picture. 
+
+To summarize, the following student responses 
+can be expected at the comprehension stage: 
+
+• Physical action 
+
+^ Gesturing or nodding 
+
+• Saying "Yes" or "No" 
+
+^ Saying the names of other students 
+
+Early Speech Production 
+
+Speech opportimities at this stage, can consi.'^t 
+of questions that require single word answers. 
+These can evolve into either/or questions, e.g., ''Is 
+Susan's hair brown or blonde?" "Is Judy tall or 
+short?" "What color is Susan's hair?" In addition, 
+open-ended sentences can be presented, such as, 
+"Susan's hair is and " or "I like 
+
+
+
+At this stage, then, students can respond with: 
+
+• Yes/no answers 
+
+• One-word answers from either/or ques- 
+tions 
+
+• One- word answers from general questions 
+or completion of open-ended sentences 
+
+• Two^word strings 
+
+
+
+Speech Emergence 
+
+Effective acquisition activities during this 
+period are: 
+
+^ Games and recreation activities because 
+they focus on language as a tool for reach- 
+ing a goal rather than as a goal itself 
+
+^ Content-area activities that are interest- 
+ing to the students such as science experi- 
+ments. 
+
+• Humanistic-affective activities which ap- 
+peal to the students on a personal level and 
+explore students' ideas and feelings, in ad- 
+dition to their experiences. Again, the focus 
+is on the message being conveyed and not 
+on the form of the language used to convey 
+it. 
+
+• Information problem-solving using charts, 
+tables, graphs, and maps. 
+
+Students at the speech emergence stage can be 
+expected to respond in the following ways: 
+
+Three words and/or short phrases 
+
+Longer phrases 
+
+• Complete sentences 
+
+• Dialogue 
+
+• Extended conversation 
+
+As with children learning their first language, 
+the stages of the Natural Approach overlap: some 
+utterances are more complex while others continue 
+to be expressed simply. 
+
+Those using the Natural Approach believe that 
+the function of the second language classroom is to 
+promote the acquisition of the second language. 
+The focus of all activities in the Natural Approach 
+is on the content of the message being conveyed 
+and not on the form. This approach seeks to 
+facilitate an environment that is relaxed and inter- 
+esting at all times and to provide activities that 
+allow for immediate comprehensible input. 
+
+How are Students Assessed in the 
+Natural Approach ? 
+
+Evaluating students' progress is a necessity in 
+academic situations. Two kinds of language 
+proficiency tests are recognized in second language 
+assessment: tests of linguistic competence and 
+tests of communicative competence in pronuncia- 
+tion, morphology, and syntax. Tests that measure 
+Communit^ativc^ competence assess the ability to 
+use lang'iage to achieve a particular purpose. 
+
+The goal for students is to eventually achieve 
+both communicative and linguistic competence. 
+The main thrust of the Natural Approach is com- 
+
+
+
+ERIC 
+
+
+
+10 
+
+
+
+u 
+
+
+
+Reading and Language Arts 
+
+municative competence. In the beginning stages, 
+therefore, preference is given to tests that evaluate 
+the student's ability to understand and communi- 
+cate ideas in specific situations. 
+
+Speech Comprehension 
+
+In the Natural Approach, testing for the abihty 
+to comprehend speech is seen as particularly im- 
+portant since it reveals to what extent the ""input" 
+has been comprehensible. What is tesU^d at the 
+beginning levels is the developing ability to recog- 
+nize key lexical items and to use context as a means 
+for guessing meaning. One easy way to measure 
+this ability is to present students with various 
+pictures and then describe one of the pictures, 
+asking the students to identify the one being 
+described. Another technique is to make state- 
+ments about pictures, items, or actions and to ask 
+the students to judge whether they are true or 
+false. Ab students develop into the single-word 
+stage, simple questions can be asked: ''What color 
+is the little girVs hair?" or "How many people are 
+in the picture?" 
+
+Speech Production 
+
+Speech production is evaluated in beginning 
+students only in terms of their ability to communi- 
+cate ideas. The best way to prepare for such a test 
+would be to participate in conversation. This is a 
+difficult area to assess because it is almost impos* 
+sible to set up real conversational situations in the 
+classroom. The most widely used of oral exams is 
+the oral interview in which the instructor asks 
+open*ended questions in a relaxed, informal con* 
+text but limited to the topics and situations with 
+which the students have been dealing. 
+
+Reading and Writing 
+
+Tests of reading and writing are given in 
+Natural Approach classes if they relate to the goals 
+and needs of the students. Areading testis one that 
+tests readers on whether they have understood the 
+main point or idea ofthe text and provides a variety 
+of interesting topics. A writing test is appropriate 
+if writing tasks are part of the goal of the class. 
+Examples of such tasks include filling out forms, 
+writing letters, writing personal narratives, and 
+writing fiction or poetry. 
+
+Writing samples can be evaluated in several 
+ways: they can be regarded holistically as an in- 
+dication of what the student has acquired, that is, 
+in terms of content and not in terms of the correct- 
+ness of the linguistic features. Or they can be 
+evaluated in terms of grammatical accuracy. In the 
+latter situation, the writer should know ahead of 
+time that (s)he will be writing, and that (s)he will 
+be graded specifically on grammatical accuracy for 
+
+
+
+rules that have been studied (Krashen and Terrell, 
+1983). Those using the Natural Approach recom- 
+mend that testing using written exams should not 
+be used at beginning levels because its emphasis 
+on grammatical features may inhibit the natural 
+and more important development of language ac- 
+quisition. 
+
+The Relationship Between 
+Academic Competency and 
+Lan^age Competency 
+
+What are the Academic Needs of 
+Native Students? 
+
+Native students need to develop the academic 
+competence to compete successfully in the 
+mainstream curriculum. Cognitive Academic Lan- 
+guage Proficiency (CALP) and Basic Interpersonal 
+Communication Skills (BIOS), constructs formu- 
+lated by Cummins (1984) are both important to the 
+second language student if (s}he is to succeed in an 
+academic environment. The student must even- 
+tually have a command of the new language as it 
+pertains to abstract thinking and problem solving. 
+Schools require that the student has'e academic 
+skills in addition to being able to cope with situa- 
+tions that are unique to the school environment. 
+Research has shown that it takes as long as 5 to 7 
+years for a student to develop academic com- 
+petence. Thus, even though a student may have a 
+high ^^vel of communicative competence and inter- 
+act w ways that suggest good second language 
+comprehension, (s)he may be ill-prepared for the 
+demands of the academic environment. The lan- 
+guage demands made on second language learners 
+in schools are diverse and varied in complexity. 
+Students must learn to follow schedules, use 
+textbooks, solve math problems, spell words, do 
+grammar exercises, and define vocabulary words, 
+to name but a few. Because schools require literacy 
+skills and the ability to deal with decontextualized 
+information, academic competency may be more 
+difficult to specify than communicative competen- 
+cy. In recent years, however, instructional 
+strategies have emerged that foster the develop- 
+ment of second language akills through teaching 
+modified subject matter content. It is felt that this 
+content approach helps students to achieve 
+academic competence, or ^ihe ability to learn 
+through English, rather than the ability to merely 
+communicate in English** (Chamot, 1985) . dis- 
+cussion of content-based second language instruc- 
+tional approaches and relationship between 
+academic competency and second language com- 
+petency follows. 
+
+
+
+11 12 
+
+
+
+»l» W.I I JK ««• ■ ». •■ l« 
+
+
+
+Indians Nations At Risk: Solutions for the 1990s 
+
+
+
+What is the Instructional 
+Approach? 
+
+Goal 
+
+Content-based second language Instmctional 
+Approaches are viewed as most effective in 
+developing a student's conceptual knowledge and 
+academic competence. These approaches to second 
+language development have the goal of developing 
+both second language skills and academic concepts 
+appropriate to the student's grade level. Both con- 
+tent and language teaching are formally incor- 
+porated into the Instructional Approach. Basic 
+academic content can be taught using many of the 
+approaches already discussed. For example, Total 
+Physical Response could be used to teach math 
+skills (Draw a hexagon; divide it in half with a 
+vertical line). The Natural Approach and its exten- 
+sions can be used to demonstrate how to make a 
+specific mea! or how to blend paints for an art 
+project The activities must make greater and 
+greater demands on the students' cognitive 
+abilities in order that they gain academic com- 
+petence. 
+
+Focus of Instruction 
+
+A content area that is intrinsically interesting 
+will more successfully motivate students than 
+studying language for its own sake. Specifically, 
+vocabulary and technical terms associated wi^h 
+the subject (math, science, social studies, etc.) need 
+to be taught. In addition, language functions re- 
+quired for academic communication such as in- 
+forming, explaining, classifying, and evaluating, 
+need to be presented to the student. Other lan- 
+guage skills that should be stressed in the class- 
+room are those used for different academic 
+functions; for example, listening comprehension 
+for academic explanations, reading for informa- 
+tion, speaking for oral presentations, and writing 
+for reports (Chamot, 1985). Teaching English 
+through the content uses primarily a cognitive 
+approach blended with a content-based language 
+development curriculum. The focus is on the com- 
+munication of meaning through a second language 
+rather than on drill and practice of grammatical 
+forms. This approach places emphasis on small 
+group activities where students can participate in 
+cooperative problem-solving learning situationr. 
+
+Teaching English through the content is con- 
+sidered a more cognitive than communicative ap- 
+proach to second language learning because the 
+focus is more on the functions underlying academic 
+and linguistic competence as opposed to the func- 
+tions underlying socio-linguistic competence. The 
+Communicative Approach emphasizes the 
+
+
+
+development of listening and speaking that will 
+allow the second language learner to interact in a 
+socially appropriate way in a variety of contexts in 
+the second language. The Cognitive or Content 
+Approach stresses the development of academic 
+language skills in order to allow the second Ian* 
+guage learner to access the mainstream cur* 
+riculum of the school. 
+
+Reading and the Native 
+Student 
+
+Three questions are important as we address 
+the teaching of reading to Native students: 
+
+What is the Reading Process? 
+
+In order to understand what happens when a 
+student picks up a text and attempts to ^ead," it 
+is helpful to examine three factors: 
+
+Nature of the Text 
+
+Texts carry a message from authors to readers 
+by means of written language. The message 
+reflects the author's schema or prior knowledge 
+and experience with a particular topic. The sophis- 
+tication of the language chosen by the author will 
+determine the readability of the text 
+
+Language 
+
+An author selects language with which to com- 
+municate the intended message. Once the message 
+is determined by an author, the thoughts that 
+communicate these meanings are recorded in the 
+words (lexicon) and the order of words (syntax) that 
+the author chooses to communicate these mean- 
+ings. Thi s lexicon and syntax may vary in difficulty 
+from thut which is common and simple to that 
+which is abstract and complex. For example, in A 
+Christmas Carol by Charles Dickens, the state- 
+ment '^Scrooge gave no Christmas presents," has 
+vocabulary that is concrete and the sentence struc- 
+ture is simple. However, in the sentence, ''His 
+inability to recognize Christmas with gifls was 
+indicative of Scrooge's selfishness," the vocabulary 
+(lexicon) and the sentence structure (syntax) are 
+more abstract and complex. The text is a direct 
+reflection of the author's language, including the 
+author's skill in communicating via the written 
+form of the English language. 
+
+Schema 
+
+In order to define schema as it relates to the 
+text, it will be helpful first to define schema as it 
+relates to people. Schema can be defined as the 
+thoughts that come to mind when you hear or read 
+language. These thoughts form pictures that we 
+
+
+
+o 
+
+ERLC 
+
+
+
+12 13 
+
+
+
+Reading and Language Arts 
+
+
+
+' dSociate with particular words or concepts. We 
+have a schema for objects such as paper and books, 
+for places such as schools and gardens, for abstract 
+ideas such as love and hate, for actions such as 
+running and dancings and for events such as par- 
+ties and garage sales. Schema is an accumulation 
+of the reader's knowledge about a given topic. It is 
+the reader^s prior knowledge, organized and inter- 
+related to everything the reader knows about a 
+specific word or concept. 
+
+For examplei when the reader sees the word 
+'library," thoughts or images may come to mind 
+that reflect what the reader knows about libraries 
+from personal experience. These images may in- 
+clude the library building where the reader can go 
+to read books or the reader^s favorite place to read 
+while at the library. The reader may also know that 
+when books are checked out they must be returned 
+by the due date if a fine is to be avoided. The 
+reader's knowledge about libraries can be called 
+his or her ''content schema" for libraries. The word 
+"library" may also bring to mind a particular role 
+or behavior the reader performs while at the 
+library. The reader^s ability to follow the sequence 
+of steps necessary to locate a book and check it out 
+are part of the reader's "script schema" for 
+libraries. Another image that may come to the 
+reader's mind may reflect the way a library is 
+organized. This knowledge and experience with 
+the Dewey decimal system is part of the reader's 
+"structure schema" for libraries. 
+
+Just as readers have schema based on their 
+prior experiences, so do authors. The author's 
+schema becomes an integral part of the text and 
+helps communicate his or her message. Text 
+schema can also be divided into the categories of 
+content, script, and structure. 
+
+• Content Schema. The information in the 
+author's message (m£gor ideas, important 
+concepts, main information, central im- 
+ages, and crucial topics) aH constitute the 
+content schema of a reading selection. The 
+explanations and interpretations of con- 
+tent schema can range from the concrete to 
+the more abstract. 
+
+For example, A Christmas Carol can be said to 
+be "a story about a miserly, stingy, and cruel old 
+man who refused to celebrate Christmas." Thh 
+would be a more concrete example of content 
+schema, or the content schema can be said to be the 
+moral statements: "Stingy people are lonely 
+people" or "There is more to life than money." 
+These are examples of more abstract content 
+schema. 
+
+• Script Schema. Every person has specific 
+roles or scripts that they perform daily at 
+
+O 
+
+ERIC 
+
+
+
+an unconscious level. These roles or scriptn 
+have been learned as a result of repeated 
+experiences within the culture. One com- 
+mon script is shopping for clothes. Actions 
+are organized around looking at clothing 
+displays, asking to use a dressing room, 
+trying on merchandisei and purchasing 
+selected items. As children, we learn 
+numerous scripts by modeling adults and 
+peers. Scripts in communication allow us 
+to leave out boring details as we are talking 
+or writing, and insert them as we are lis- 
+tening or reading. A script can be defined 
+as ''a predetermined, stereotyped sequence 
+of actions that defines a well-known situa- 
+tion." The author assigns scripts to the 
+characters in a story. The characters be- 
+have in certain prescribed ways. The 
+scripts the author includes in his or her 
+message will be scripts from the author's 
+experiences or knowledge. 
+
+* Structure Schema. The particular or- 
+ganizational pattern of the message is 
+termed structure schema (sometimes 
+"story grammar"). A Christmas Carol has 
+a beginning, middle, and end section: (1) 
+Scrooge is portrayed as a cruel, miserly 
+person unwilling to celebrate Christmas; 
+(2) Scrooge sees himself as he appears to 
+others; (3) Scrooge changes and becomes a 
+pleasant, caring anH sharing individual. 
+This is a typical English language struc- 
+ture schema. Schema is an important con- 
+cept to consider when looking at a par- 
+ticular text. The text schema reflects the 
+author's prior knowledge and experience, 
+including the "content" of the message, the 
+"scripts" performed by the characters, and 
+the "structure" of the author's message. 
+
+Readability 
+
+Directly related to the language of the text is 
+the text readability. Does the text require the 
+reader to have sophisticated reading skills in order 
+to unlock meaning? The following sentences, for 
+example, may well be understood by an "average" 
+English speaking six-year-old, if they were read to 
+the child in the context of a story: 
+
+* This dog can run fast. 
+
+* The greyhound is an animal used for 
+racing because of its quick speed. 
+
+However, if these sentences occur in the context 
+of a story the child is expected to read without 
+assistance, the latter will cause greater difficulty. 
+The youngreader may not have been introduced to 
+
+14 
+
+
+
+Indians 
+
+the reading skills necessary to decipher the text. 
+When selecting reading material for students, it is 
+important to consider the readability of the 
+material 
+
+Nature of the Reader 
+
+The reader also brings language and schema to 
+the reading situation. In addition, the reader 
+
+^ngs reading skills that allow him or her to 
+decipher the written symbols used to record lan- 
+guage. The reader's language, schema, and reading 
+skills interact and influence each other as the 
+reader actively searches for meaning. 
+
+Language 
+
+Native students enter our schools with lan- 
+guage that has been an integral part of their per- 
+sonal identity; language that has been a vehicle for 
+helping them interact with loved ones, peers, and 
+community members. The language of the student 
+maybe other than English, or include EngHsh and 
+another of the many languages spoken by the 
+diverse Nutive populations of the United States. 
+
+Native students bring varying degrees of 
+English language development to the reading 
+situation. The English language skills of listening, 
+speaking, reading, and writing have been in- 
+fluenced by a variety of factors including: 
+
+Age of the student 
+
+Time exposed to the English Ian* 
+guage 
+
+Home, school, and community en- 
+vironment 
+
+First language of the home 
+
+Educational levels of the student 
+and the parents 
+
+Influence of family and peers 
+
+Although the student may demonstrate the 
+English oral language skills necessary to com- 
+municate in the day-to-day interactions at home 
+and on the playground, the child may not have 
+acquired the academic language found in our 
+schools. This academic language oflen appears in 
+the reading selections assigned to the student and 
+may be very different from the English language 
+brought by the student into the classroom environ- 
+ment. The student does not enter school devoid of 
+language. The student's language, at whatever 
+level of development, provides a bridge from the 
+known to the unknown. By respecting and valuing 
+this language, and therefore incorporating it into 
+reading instruction, the reading teacher increases 
+the opportunities for success. 
+
+
+
+ERLC 
+
+
+
+Nations At Risk: Solutions for the 1990s 
+
+
+
+Schema 
+
+The student also brings all his or her current 
+knowledge and experience to the reading situation. 
+The reader has schema for ''content,'' "^scripts," and 
+"structure." 
+
+^ Content Schema. A student's content 
+schema includes all of his or her current 
+knowledge and information. It is the 
+student's understanding of the world. In 
+reading A Christmas Carols a student's 
+content schema may include his or her 
+awareness of the expected sharing that 
+occurs during the Christmas season. It 
+may not include an understanding of 
+Christmas as celebrated in England in 
+Dicken's time or at the present. The his- 
+torical perspective, the relationship be- 
+tween employers and employees, the role 
+of conscience in Hterature, etc., all con- 
+stitute the content schema activated in a 
+student as A Christmas Carol is read. 
+Likewise, if the celebration of Christmas is 
+not a part of the student's experience, the 
+student may have difficulty under stand- 
+ing the story's message unless (s)he has a 
+similar schema for giving and receiving 
+that can be activated and used to provide 
+meaning. 
+
+• Script Schema. The reader has numerous 
+scripts that (s)he has learned. These 
+scripts are dependent upon the roles the 
+child has been given or has observed others 
+performing in the home, school, and com- 
+munity; i.e., the script for ""getting dressed 
+in the morning," "eating meals," and "get- 
+ting ready for bed " Without a script, some 
+new experiences are totally incompre- 
+hensible. Scripts vary from culture to cul- 
+ture and depend upon the socio-economic 
+status, lifestyle, and age of the reader. 
+
+* Structure Schema. In addition, students 
+bring with them a manner of organizing 
+their world, a structure schema. Prior 
+storytelling or other reading experiences 
+may have provided them with a pattern for 
+organizing reading material that is cul- 
+turally influenced. They use this structure 
+schema for anticipating the type of infor- 
+mation to expect in various parts of a story. 
+In approaching the reading of A Christmas 
+Carols the students may have an under- 
+standing of an expected story line. When 
+the students have heard or read this story 
+previously, following the plot development 
+can be relatively easy. The more often the 
+
+15 
+
+
+
+Reading and Language Arts 
+
+
+
+students have read or heard stories similar 
+in structure to A Christmas Carol, the 
+easier it will be for them to comprehend the 
+narrative. 
+
+Reading Skills 
+
+The student*s ability to decode written symbols 
+also influences the search for meaning. The reader 
+uses many strategies to decipher the text, includ- 
+ing phonics, structural analysis, and context clues. 
+When the decoding requirements of the text exceed 
+the skills possessed by the reader, (s)he faces an 
+undecipherable language from which no meaning 
+can be obtained. 
+
+Interaction between Reader and 
+Text 
+
+When a reader and a text interact, the en- 
+counter may produce a variety of results. A positive 
+encounter may produce feelings of joy, excitement, 
+interest, insight, and success; a negative encounter 
+may evoke feelings of boredom, confusion, uncer- 
+tainty, frustration, and failure. The positive 
+results we desire for our students are dependent 
+upon an important function of reading-comprehen- 
+sion. In order for comprehension to take place, the 
+reader must make sense out of the author's mes- 
+sage. Understanding occurs when there is a posi- 
+tive interaction between the language, schema and 
+readability of the text, and the language, schema, 
+and reading skills of the reader. 
+
+Readers approach print with a degree of uncer- 
+tainty about the author's message. As they begin 
+reading, they make predictions about the author's 
+message based on their own language and schema. 
+Authors are incapable of writing without omitting 
+some information, description, or content. Readers 
+fill in the gaps from ; Keir own experiences, check 
+to see if their predictions make sense, and then 
+integrate the message into their own concept of 
+reality. 
+
+Reading is an interactive problem-solving 
+process in which the reader predicts, confirms, and 
+integrates meaning gleaned from the text into his 
+or her world. When the language, schema, and 
+readability of the text is very different from the 
+language, schema, and reading skills of the reader, 
+comprehension is limited at best. 
+
+The match between the text and the reader 
+need never be a perfect one. Reading situations, by 
+their nature, result in changes in the student's 
+language, schema, and reading skills as the reader 
+is exposed to new information. Reading activates 
+language development, broadens schema, and 
+provides an opportunity to practice and improve 
+reading skills. However, when the differences be- 
+
+
+
+tween the text and the experience of the student 
+are too great, comprehension is lost and reading 
+does not take place. 
+
+What is Unique About the Native 
+Student Reader? 
+
+The Native student may face three migor im- 
+pediments which can slow learning to read in 
+English. 
+
+Limited English Proficiency (LEP) 
+
+Limited English proficient or ''LEP" is a term 
+used to describe a person from a langxiage minority 
+population with less than native proficiency in 
+English. A ''LEP student" is a language minority 
+student who enters the school system at a level of 
+English proficienQT less than that acquired by his 
+or her native English speaking peers, which means 
+that this student usually has limited skills in lis- 
+tening, speaking, reading, and/or writing in 
+English. Those students most often come from 
+homes where the primary language is not English 
+but is an American Indian and Alaska Native lan- 
+guage. On the other hand, however, these students 
+may come from a home where a language that is a 
+combination of English and an American Indian 
+and Alaska Native language are being spoken. 
+Often times the words may seem to be English but 
+the structure or grammar are derived from the 
+Native language (Leap, 1979). This phenomenon 
+has been characterized as "Reservation English" or 
+''Village English" depending upon whether it is 
+used in the "Lower 48" or in ^aska. This group 
+does not usually include bilingual students who are 
+fluent in English and their native tongue, or stu- 
+dents who are English dominant (Ovando and Col- 
+lier, 1985). 
+
+The English proficiency of the Native student 
+may range from minimal or nonexistent com- 
+petence, to near fluency. The language (s)he is 
+capable of understanding and using in English 
+may establish an upper limit to comprehension of 
+the text. Likewise, the LEP student may possess a 
+vocabulary and language that varies from that 
+encountered in the text. When a selection contains 
+language including vocabulary, grammatical 
+forms, and syntax beyond the experience of the 
+student, the text will contain little or no meaning 
+for the reader. For example, when a student's char- 
+acteristic productive oral language is similar to the 
+following: "Scrooge went home after work"; and 
+the text primarily contains structures like: "When 
+the Ghost of Christmas Past appeared, Scrooge 
+was struck by fear of this strange apparition," the 
+discrepancy may be so great as to impede com- 
+prehension of the language of the text. Students 
+
+
+
+15 
+
+
+
+Indians Nations At Risk: Solutions for the 1990s 
+
+
+
+cannot be expected to read and understand text 
+that is written in a language that is too different 
+from their own. When this difference is substan* 
+tial, students often cope with the lesson by con- 
+centrating their efforts on decoding words while 
+limiting their attention to the comprehension of 
+the author's meaning. 
+
+While language is a mauor concern in helping 
+the language minority students learn to read, it is 
+by no means the only factor that needs to be ad- 
+dressed. 
+
+Lack of Experiences with Text 
+Schema 
+
+We know that as students read, they impose 
+meanings from prior learning and experiences in 
+an attempt to understand what the author has 
+written. While language minority students are not 
+devoid of experiences , they can be expected to have 
+difficulty comprehending text written about con- 
+tent for Wiiich they lack familiarity. A language 
+minority student's experiences and knowledge 
+may or may not be different from the experiences 
+written about in the text. If a student lacks an 
+understanding of 19th century England (the set- 
+ting of a particular historical fiction story), (s)he 
+may anticipate and impose meaning which is quite 
+different from the message the author intended to 
+convey. 
+
+If the characters in the stories have roles or 
+scripts unfamiliar to the reader, (s)he will have 
+difficulty getting meaning from the story. For ex- 
+ample, if a story portrays a humorous interaction 
+between the main character and a waiter in a 
+restaurant, the reader will need to understand the 
+script for eating in a restaurant or the meaning will 
+be lost. Likewise, a student's familiarity with text 
+structure may be divergent from that followed by 
+the author in organizing the written discourse. 
+
+American Indian and Alaska Native languages 
+possess structures quite different from English. 
+These structures influence the thought patterns of 
+the Native speakers of these languages. Coupled 
+with the oral traditions of the culture, these 
+thought patterns determine the text structure of 
+discourse or stories. Native students are familiar 
+with the structure schema of the stories they have 
+heard in their homes since birth. In analyzing A 
+Christmas Carol, we found that the story has a 
+beginning, a middle, and an end. It is common that 
+many Native stories have four parts: a beginning; 
+middle A: middle B; and an end. Furthermore, it is 
+possible that each part has subparts determined 
+by cultural values and traditions. 
+
+Kaplan (1966) has identified five thought pat- 
+terns employed by writers as they construct dis- 
+
+
+
+course. Each of these patterns reflects a cultural 
+tradition that imposes differentiated expectations 
+for the organization or development of logic in a 
+written piece. When the student's expectations of 
+text structure vary from that which they en- 
+counter, comprehension will be less than that ex- 
+pected. On the other hand, when there is a 
+consistency between the logical development of 
+structure foxmd in a text and that anticipated by 
+the reader, comprehension increases. 
+
+• In the Western European and American 
+pattern of discourse, a linear straightfor- 
+ward manner of writing occurs with ele- 
+ments of text structure sequentially ar- 
+ranged and built upon in a cumulative 
+manner from beginning to end. The reader 
+is led logically and directly to a conclusion 
+through the discourse. 
+
+• In contrast, an Asian pattern of discourse 
+would be circular, with the m^or thesis 
+never stated directly. In this type of 
+development, content is arranged so as to 
+hint at the major point intended by the 
+author, without it ever being developed 
+directly. 
+
+• In romance culture writing, thought 
+processes indirectly through a digression 
+before it finally works its way around to 
+developing its major point. 
+
+• Semitic writing is characterized by digres- 
+sions, seeming contradictions, reversals in 
+development, all eventually worked 
+toward an ultimate conclusion. 
+
+• Russian discourse contains many subor- 
+dinate ideas that digress from the central 
+idea of a paragraph. 
+
+Students coming from a cultural tradition 
+where thought progresses through a logic unlike 
+that developed in Western prose may have difficul- 
+ty predicting the sequence of meaning as arranged 
+by the author. 
+
+Limited Reading Skills 
+
+Language minority students may face a third 
+impediment to success with English reading, 
+namely an inability to decipher written English. 
+This problem manifests itself differently if the stu- 
+dent is a non reader, than when the reader is a 
+reader of another language but not skilled in 
+English reading. 
+
+Nonreaders may lack the awareness needed for 
+initial reading instruction. Involved in this aware- 
+ness is a conscious ability to reflect on and talk 
+about language. Understanding concepts such as 
+words," "phrases," "sentences,'* "sounds,'* and 
+
+
+
+ERLC 
+
+
+
+16 
+
+
+
+17 
+
+
+
+Reading and Language Arts 
+
+others have been found related to initial reading 
+success. 
+
+A related problem is inexperience with print. 
+Beginning students need understand that print 
+used in reading materials symbohzes language. 
+Moreover, printed language is generally more com- 
+plex. Limited Enghsh proficient students, like all 
+others learning to read English, need to develop 
+''print awareness." 
+
+Even those students who have print awareness 
+may have no understanding of the decoding 
+process. This process constitutes an important, 
+beginning step in developing independence in early 
+reading. Students need word recognition 
+strategics that they can apply in deciphering new 
+or unknown words encountered in reading. This is 
+formally called ''decoding." 
+
+While inabihty to decode can be an impediment 
+to success in Enghsh reading, it should be under- 
+stood that identification of isolated sounds orfluen- 
+cy in pronunciation of words, do not by themselves 
+fulfill the intent of reading instruction. While 
+limited Enghsh proficient students will need 
+decoding practice, it should not occur at the ex- 
+pense of reading for comprehension. 
+
+Readers of other languages who are unable to 
+read in Enghsh, will need to become famihar with 
+the English alphabet Initially, students may at* 
+tempt to attach the sound system from tlieir Native 
+language to the English alphabet. As they acquire 
+Enghsh reading skills, they also need to be made 
+aware of the many inconsistencies in the Enghsh 
+sound-symbol relationships. Some students come 
+from language backgrounds with relatively consis- 
+tent sound-symbol relationships. 
+
+LEP students who read in their first language 
+already have print awareness and many reading 
+skills that are transferable to English such as use 
+of context clues, reading for the main idea, se- 
+quencing events, making predictions, and some 
+decoding skills, depending on the first language of 
+the student. LEP students who are taught to read 
+in their first language before being introduced to 
+English reading, have an advantage over LEP stu- 
+dents whose first encounter with reading is in 
+English » a language that they are still struggling 
+to acquire. 
+
+How Can We Facilitate Growth in 
+Reading? 
+
+Three factors influence growth in reading: 
+
+English Language Development 
+
+Reading experiences are rich in their potential 
+for fostering language growth. Students have op- 
+portunities in a reading lesson to create language 
+
+ERLC 
+
+
+
+to help them communicate their imderstanding to 
+others, experience the language transmitted by an 
+author, and listen to tiie language employed by 
+teachers and peers. In the lesson, the LEP 
+student's attention should be focused on the mean* 
+ing communicated by the text, teachers, and peers. 
+Likewise, teachers and peers need to focus on the 
+meaning the student tries to convey rather than 
+the accuracy (form) of his or her language. 
+
+Language can be used to receive new informa- 
+tion, generate new thoughts, clarify new under- 
+standing, mediate misunderstandings or 
+disagreements, articulate new ways of thinking, 
+and relate new learning to students' Uves. In other 
+words, reading lessons can provide situations for 
+language to be practiced with the focus on the 
+meaning (fimction) of the language. In this way, 
+development of the language capabihties so needed 
+by th3 limited English proficient student can occur. 
+
+To provide reading lessons with a language 
+focus, teachers must plan prereading activities 
+that motivate students to talk. The teacher must 
+find out what the student already knows about the 
+key concepts or events central to the meaning of 
+the story. An introductory language activity gives 
+the teacher insight into the student's abihty to 
+understand and use the language that the student 
+will s )on encounter in printed form. Speaking can 
+be stimulated through the introduction of concrete 
+objects or visuals, the involvement of students in 
+roleplajdng situations, or through the interaction 
+of a problem-solving game. The teacher introduces 
+key words and concepts while the communicating 
+activity allows the students the opportunity to 
+practice using the language in a meaningful con- 
+text. 
+
+Activation of Student Schema 
+
+Research demonstrates that the ceihng on 
+reading comprehension imposed by language 
+hmitations can be raised when LEP students are 
+famiharized with the content, the script, and struc- 
+ture of the reading selection. Students can read 
+and comprehend text written at a level higher than 
+would be suggested by their hmited language 
+capabihties, when they are adequately prepared 
+for it through activation of their content, script, 
+and structure schema. 
+
+The students' content schema can be activated 
+through prereading preparation. The students can 
+be reminded of the knowledge or prior experiences 
+related to the reading selection, or, a prereading 
+experience can be planned to expose the students 
+to thn content of the reading they will be assigned. 
+When the students' content schema is similar to 
+that which they encounter in the text, comprehen- 
+sion is enhanced. For example, if the story content 
+
+IS 
+
+
+
+Indians NaUons At Risk: Solutions for the 1990s 
+
+
+
+is about a young girl trying to find good homes for 
+her dog's puppies, it is essential that the LEP 
+student understand the concept of ''pet." In some 
+cultures, animals are never '^ets''; in fact, there 
+may be no word for the concept of ""pet** in the 
+student's first language. However, if the class has 
+a pet hamster that the LEP student has helped to 
+feed and nurture, this relationship can be used to 
+help the student understand the relationship be- 
+tween the girl in the story and her pet puppies. 
+
+It will also be helpful to prepare the LEP stu- 
+dents for the scripts found in the story, by explain- 
+ing certain roles or by acting out scripts in class. 
+Reading teachers need to expand the script schema 
+of LEP students to include scripts commonly en- 
+countered in the reading text. For example, a story 
+about a boy who gets lost while trick-or-treating on 
+Halloween may assume that the reader knows the 
+role children and adults perform at Halloween. If 
+the LEP reader is not familiar with this custom, a 
+helpful prereading activity can include role-play- 
+ing the scripts for ''trick-or-treating " What do 
+children do and what is the expected behavior of 
+adults? 
+
+The scripts the characters enact in a story often 
+reflect socio-economic class, culture, and lifestyle. 
+For example, the father in the story may get up in 
+the morning, put on a suit, and drive to the office. 
+This script may be very different from the one the 
+reader's father would repeat daily if he is a farmer, 
+fisherman, or truck driver. The teacher can 
+broaden the student's knowledge of script schema 
+by involving the class in a discussion of the variety 
+of script possibilities for ''going to work." Helping 
+students to value their own scripts and that of 
+others is an important part of teaching script 
+schema. A character in a story may behave in a 
+certain way because the author gave her a par- 
+ticular script. Students can retell or rewrite the 
+story by assigning familiar scripts to the charac* 
+ters from their own prior experiences. 
+
+Likewise, when the students are forewarned as 
+to the structure or organization of the text they are 
+to read, comprehension can improve. Introductions 
+to a readingassignment that indicate the structure 
+of the selection students are to read, have been 
+shown to be an affective practice in improving the 
+reading performance of LEP students. 
+
+For example, if the reading assignment invoK 
+ves an adventure story, the LEP student will 
+benefit if the structure of the story is explained 
+prior to reading, and/or while the story is being 
+read in sections. Students can make predictions 
+about the story as the organizational pattern is 
+explored: 
+
+• Encounter: Who and what is involved? 
+
+
+
+• Conflict; What is the conflict and why? 
+
+^ Escape: WIio escapes and how will it hap- 
+pen? 
+
+• Chase: How will the story end? 
+
+Introduce Meaningful Reading 
+Skills 
+
+If reading lessons consist only of decoding or 
+word recognition practice with little relationfihip to 
+comprehension, students will believe that simply 
+pronouncing words accurately is all that con- 
+stitutes success in reading. While decoding in- 
+struction and practice are believed to facilitate 
+comprehension during the first years of reading, 
+they have limited usefulness once the student is 
+capable of reading text written at the 3rd or 4th 
+grade level of difficulty and beyond. At all times, 
+decoding assistance should be provided with the 
+intent of helping students achieve comprehension. 
+
+Decoding skills are easily learned by limited 
+English proficient students. At times the student's 
+apparent fluency in applying decoding abilities in 
+the oral reading of English may give the ap- 
+pearance that(s)heis also comprehending the text. 
+This may not be so. Decoding without under- 
+standing is not reading. Decoding practice without 
+application to real reading is useless. 
+
+The more time spent on activities related to 
+decoding, the less time is available for students to 
+experience activities designed to enrich language 
+development and activate the student's schema. 
+While decoding skills should be practiced by LEP 
+students, a balance must exist. 
+
+Reading skills certainly include decoding prac- 
+tice but decoding skills are not the only skills that 
+will help students find meaning from tn: printed 
+message. Comprehension can be uulunced 
+through literary skills such as describing the plot, 
+understanding regional jargon, recognizing pans, 
+and identifying the author's point of view. Lan- 
+guage skills also help students by exploring the 
+grammatical, lexical, and syntactic features of the 
+written English language. Meaning can be high- 
+lighted as students recognize compound words, 
+suffixes, and prefixes. Looking for context clues 
+and recognizing the multiple meaning of words are 
+additional examples ot language skills that build 
+comprehension. Study skills can also be useful. 
+Developing an outline of the story will help stu- 
+dents understand the story structure* 
+
+Knowing how to use reference materials, how 
+and when to skim a selection or when to read for 
+details, are study skills that will increase the LEP 
+student's ability to read for meaning. When plan- 
+ning skills instruction for LEP students, the follow- 
+ing guidelines will be useful: 
+
+
+
+18 
+
+
+
+Reading and Language Arts 
+
+* Introduce skills in the context of a reading 
+selection. 
+
+* Select the skills the student will need to 
+unlock the author's message. 
+
+* Dg not spend a disproportionate amount of 
+time on skills instruction at the expense of 
+developing the student's language and 
+schema* 
+
+* When possible, incorporate skill instruc- 
+tion into the development of language and 
+schema* 
+
+The Lan^age Experience 
+Approach 
+
+There are three aspects of the Language Ex* 
+perience Approach that will be discussed. 
+
+What is the Language Experience 
+Approach? 
+
+Definition: The Language Experience Ap- 
+proach is a process that transcribes students' 
+words into reading material 
+
+With this approach, the students' skills of lis- 
+tening and speech are used as the bridge to reading 
+and writing. The experiences of the student are an 
+integral part of initial reading and writing as these 
+experiences become the basis for the content of the 
+materials used in instruction. 
+
+Process: With the Language Experience Ap- 
+proach, the teacher provides a stimulus and the 
+students generate an oral composition or story 
+which is then written down. The students are then 
+guided by the teacher through a reading lesson 
+using these student-dictated materials. The steps 
+most common to this approach are: 
+
+1. Stimulate with a Catalyst 
+
+a. The teacher plans an experience for 
+the class. 
+
+b. Students directly get involved in the 
+experience. 
+
+2. Create the Story 
+
+a. A student or several students orally 
+respond to the experience. 
+
+b. The experience is discussed and dic- 
+tated. 
+
+c. This dictation is written by the teacher 
+or student. 
+
+d. The writing is read. 
+
+3. Develop Reading Skills 
+
+a. Students are involved in n -..iied com- 
+prehension and language extension ac- 
+tivities. 
+
+
+
+b. Decoding instruction and practice is 
+provided. 
+
+c. Follow-up activities are integrated 
+into arty social studies, science, health, 
+physical education, math, etc. (The 
+catalyst may originate from a content 
+area.) 
+
+Why is the Language Experience 
+Approach Effective With Native 
+Students? 
+
+The Language Experience Approach removes 
+two mcgor impediments which can block students 
+from experiencing successful interaction with the 
+text, language, and schema. 
+
+Language 
+
+Because the language employed in creating 
+reading stories is that of the student, it can never 
+run ahead of the student's current English lan- 
+guage proficiency level in sentence structure (syn- 
+tactic complexity) or vocabulary (lexical 
+abstractness). The particular sentences (syntax) 
+and vocabulary (lexicon) recorded by the teacher or 
+scribe, are the student's own and become the lan- 
+guage in the materials used in teaching reading. 
+Thus, one important impediment is removed from 
+the task of teaching EngHsh reading to Native 
+students. The language of the reading material is 
+at the lexical and syntactical level of the language 
+of the student. 
+
+Schema 
+
+The catalyst provides a common experience 
+from which the story content is drawn. By involv- 
+ing the student directly with the catalyst, teachers 
+can ensure that the subject matter of the student's 
+dictation is familiar and well-incorporated into the 
+student's content schema. The student is never 
+asked to talk about an action, event, object, sensa- 
+tion, feeling, etc., that (s)he has not experienced. 
+Thus, a second important impediment potentially 
+faced by the student is removed. The content 
+schema of the story is a part of the schema of the 
+student. 
+
+Sometimes a student writes personal experien- 
+ces about people in his or her world. Therefore, the 
+script schema in his or her story will be a familiar 
+one that is part of the student's world. Characters 
+will not be behaving in ways unknown to the stu- 
+dent. The roles of family, friends, or members of 
+the student's community will be reflected in his or 
+her dictation. 
+
+The student is responsible for the writing or 
+organization of the sentences that are recorded in 
+
+
+
+20 
+
+19 
+
+
+
+Indians Nations At Risk: Solutions for the 1990s 
+
+
+
+a language experience lesson. The teacher is asked 
+not to alter the student's expression or arrange- 
+ment. In this v.ay, v ? a students are called upon 
+to reread the ^tor;^, thoy can accurately predict the 
+sequence of ; ^nt in the composition. Thus, the 
+impediment ' /ifeiences in structure schema 
+that sometimes limits comprehension for a stu- 
+dent, is removed. The structure schema of the 
+reading material reflects the structure schema of 
+its author, the student. 
+
+The Language Experience Approach is useful 
+in meeting the reading needs of the Native student, 
+in that it removes mcgor impediments that can 
+present stumbling blocks for the reader; namely 
+the author's language and text schema. 
+
+How is a Language Experience 
+Lesson Presented? 
+
+There are three recommended parts to a lan- 
+guage experience lesson. 
+
+Catalyst 
+
+A stimulus or common experience is used to 
+spark student interest, create an atmosphere for 
+oral language production, focus student attention 
+on the lesson at hand, and generally prepare stu- 
+dents for the creation of a written story. The 
+catalyst should stimulate the students so that lan- 
+guage flows naturally because of the high level of 
+interest, content familiarity, low anxiety, and prior 
+experiences. The catalyst provides an excellent 
+means to activate schema. Suggested catalysts are: 
+
+• Simple objects 
+
+• Social studies dramatization 
+
+• Animals 
+
+• Music 
+
+• Snort events 
+
+• Art prints 
+
+• Reaction to visuals 
+
+• Rhymes 
+
+• Stories read or retold 
+
+• Assemblies 
+
+• Hypothetical conjecture 
+
+• Discussions and prior experiences 
+
+• Field trips 
+
+• Art experiences 
+
+• Problem-solving situations 
+
+• Films or filmstrips 
+
+• Science experiments 
+
+• Wordless books 
+
+
+
+* Guest speakers 
+
+Students actively experience the catalyst, and 
+learn vocabulary appropriate for the concrete ac- 
+tions and objects presented. They ask or answer 
+questions and generate oral language as ap* 
+propriate for their level of protici^ency. For very 
+limited English proficient students, Uttle English 
+language generation can be expected. This ap* 
+proach i s appropriate for developing literacy in any 
+language, therefore using a student's Native lan- 
+guage may be appropriate. With these students, 
+the teacher may find himself or herself as the most 
+significant source of language heard during the 
+lesson. More proficient students can and should be 
+involved directly in using language appropriate to 
+the situation. 
+
+Story Creation 
+
+Following the experience, the students are 
+asked to talk about the catalyst. This may include 
+what they remembered, what it looked like, what 
+they did, what they liked or disliked, how it can be 
+used, how it compares with another object or ex- 
+perience, etc. Or the discussion can involve 
+storytelling or oral dramatization, with the 
+catalyst serving as the stimulus for this creativity. 
+This language is written down by the classroom 
+teacher, peer tutor, volunteer, or the students 
+themselves. 
+
+The oral language prompted by the teacher and 
+generated in response to the catalyst is recorded by 
+the teacher or scribe. The teacher may decide to 
+record the language exactly as dictated by the 
+student or (s)he may elect to correct any error in 
+syntax (grammar and sentence structure) that the 
+student may make. Many supporters believe that 
+it is important to record the story exactly as the 
+student gives it, without making any corrections in 
+usage or idea organization, and that the student 
+should read the material the way (s)he originally 
+stated it. On the other hand, there are those who 
+strongly feel that language development will be 
+impaired by not correcting the grammar errors in 
+the dictated story. Before deciding whether to cor- 
+rect or not to correct, the teacher may wish to 
+confer with other staff whose input and experience 
+may be helpful. Words should be spelled correctly 
+and not reflect the phonological variation of the 
+student's speech. 
+
+For minimally proficient students, all that may 
+be expected is a one- word or two-word response to 
+the object, action, or catalyst. With more proficient 
+students, short phrases may be forthcoming. With 
+still more proficiency, students may use simple 
+sentences in discussing the catalyst. Procedures 
+for creating stories vary sHghtly depending on 
+
+
+
+^ 1 
+
+20 '-^ 
+
+
+
+Reading and Language .^rts 
+
+
+
+group size. The teacher may work with the total 
+class, small groups, individuals, or the students 
+may work in pairs. 
+
+Group Story 
+
+• Teacher asks students to name objects, 
+actions, etc. 
+
+* Teacher initiates student discussion 
+regarding the catalyst. This discussion 
+depends upon the level of language of the 
+students and may be stimulated with: 
+
+Who or what occurred? 
+
+What did you see? 
+
+What do you do? (requesting fac- 
+tual information) 
+
+What do we call what happened? 
+Saw? Did? (asking for main topic 
+ideas) 
+
+How or why did... happen? (inter- 
+pretation) 
+
+How would you feel if...? (conjec- 
+ture) 
+
+If., then... (hypothesis) 
+
+• Student responses to teacher's questions 
+are written on chalkboard using the 
+student's language as closely as possible. 
+
+• Optional: after several sentences have 
+been recorded, students are asked to se- 
+quence the story. (Sentences can also be 
+written in the order they are dictated.) 
+
+* Teacher asks the students to select a title 
+for the story. 
+
+* Teacher reads the composition. 
+
+^ Each sentence is read again, this time with 
+the class repeating after the teacher. 
+
+• Individual students read the composition. 
+
+* Students copy the language experience 
+story from the chalkboard onto their own 
+paper. 
+
+Individual Story 
+
+With slight modification, the above procedure 
+can be followed when the studen - writes or dictates 
+an individual story. In creating the story, the 
+teacher can work with the individual to record the 
+oral response to the catalyst, or the student can 
+write his own story. The student*s unique ex- 
+perience with the catalyst becomes the content of 
+the reading material. 
+
+
+
+ERiC 
+
+
+
+21 
+
+
+
+Team Stories 
+
+Peers working together may follow the se- 
+quence suggested below: 
+
+• Catalyst activity is experienced by the 
+total group and includes group discussion. 
+
+Teacher pairs or groups students. 
+
+Students duo* or team-brainstorm: words, 
+phrases, and sentences related to their 
+catalyst experience. 
+
+Students duo- or team- write their list on a 
+sheet of paper. 
+
+Lists are shared with the entire class and 
+expanded after class discussion. 
+
+Students make decisions regarding which 
+items to keep. 
+
+Students rewrite list of words into senten- 
+ces. 
+
+Students duo- or team-decide on sequence 
+of sentences and rewrite sentences in this 
+order. 
+
+Student groups select a title for their story. 
+Student groups read the story to others. 
+Student groups illustrate the story. 
+
+Reading Skills Development 
+
+The student's writing can be used to develop 
+any of the reading skills taught at his or her level. 
+Included among these reading skills are: 
+
+Summarizing a story 
+
+Word recognition strategies 
+
+Retelling a stoiy (decoding) 
+
+Selecting a title and main idea 
+
+Learning correct syntax 
+
+Sequencing sentences 
+
+Categorizing 
+
+Recognizing sight vocabulary 
+
+Looking for content 
+
+Alphabetizing 
+
+The teacher may use the skills scope and se- 
+quences from a basal reading series as a guide for 
+introducing skills. Student- authored reading 
+material provides the context for presenting these 
+skills. 
+
+Students can measure the growth in their read- 
+ing skills as they develop word banks, language 
+experience dictionaries, or a library of student- 
+authored stories. The student's stories provide 
+reading materials for the entire class to share and 
+enjoy while they practice the skills introduced by 
+the teacher. 
+
+
+
+22 
+
+
+
+Indians Nations At Risk: Solutions for the 1990s 
+
+
+
+Adapting the Basal Reader 
+
+Three questions will be given attention in dis- 
+cussing the process of adapting the basal reader: 
+
+What is ""Adapting the Basal?'' 
+
+Traditional besal readers are written for an 
+average native English speaking population that 
+has demonstrated language development expected 
+for their age, has acquired reading skills ap- 
+propriate for their age and number of years in 
+school, and has schema somewhat similar to that 
+which they encounter in the text. Each of these 
+areas, however, may pose problems for the Native 
+reader. In order to provide useful instruction for 
+the student, the lesson in the basal reader may 
+need to be taught diflferently than the lesson 
+described in the teacher^s guide. In this process of 
+adaptation, the teacher analyzes the basal reader 
+for potential language concerns, content schema 
+deficiencies, structure schema differences, and the 
+presenj;&.of reading demands that exceed the skills 
+oj^tKe student. Once these problem areas have been 
+identified, the teacher adjusts the lesson bo meet 
+the needs of the Native student. 
+
+V/hy Must Basals be Adapted for 
+Native Students? 
+
+For the student to benefit from reading instruc- 
+tion in a basal reading series, (s)he must be able to 
+find meaning in the author's message. A reading 
+lesson that is planned to accommodate the special 
+nature of the student helps remove the barriers to 
+understanding. 
+
+The language of the text may be beyond the 
+student's productive or receptive level. The 
+vocabulary, grammar, syntax, and idioms used by 
+the author may be unfamiliar to the student The 
+cultural experiences and backgroxmd of the child 
+may be different from the schema of the text. The 
+student may not be able to comprehend the text 
+because of limited reading skills. All of these bar- 
+riers interact to block comprehension for the 
+reader. 
+
+How Can Reading Teachers Adapt 
+the Basal? 
+
+The following steps are recommended in order 
+to accommodate the special needs of the reader: 
+
+Step I: Introducing the Story 
+
+The purpose of the story introduction is to min- 
+imize any barriers between the student and com* 
+prehension. This is done by activating schema, 
+developing language, and introducing reading 
+
+
+
+skills the student will need to obtain meaning fVom 
+the story. 
+
+Activate Schema 
+
+The reading teacher needs to find out what the 
+student already knows about the content of the 
+story. Is it unfamiliar to the student, or does (s)he 
+have content schema that can be related to the 
+story to help provide meaning? The teacher can 
+discover the student's prior knowledge by asking 
+questions such as: 
+
+What do you remember about . .? 
+
+Have you ever seen a...? 
+
+What do you know about. . .? 
+
+Recall when we did... 
+
+What do you think about when. ..is 
+mentioned? 
+
+Another technique is to have students cluster a 
+topic. This is done by asking all the students to tell 
+you what they know about a subject and organizing 
+their information in a web. If the student's 
+knowledge of the topic is limited, the teacher can 
+provide concrete experiences to familiarize the stu- 
+dent with the content they will be reading. For 
+example, if the story is about makingpancakes and 
+this food is unknown to the student, then an ap- 
+propriate introduction of the story will be cooking 
+pancakes in class, or visually describing the 
+process and demonstrating the end product for the 
+student to sample. The cooking experience 
+broadens the student's content schema and helps 
+give meaning to the story. 
+
+Are there scripts in the story that are unknown 
+to the student? For example, if the routine of 
+riding the subway to work every day is a central 
+event in the story, and the child has no reference 
+for this experience, it may be necessary to act out 
+the routine in class: walking to the stop, climbing 
+down the stairs, purchasing a ticket, waiting for 
+the train, finding a seat, reading the paper, etc. 
+Acting out unfamiliar roles that people in the story 
+are performing will help activate the student's 
+script schema. 
+
+The introductory period can also be used to 
+prepare the student for the structure of the story, 
+oflen referred to as "story grammar." An advance 
+organizer will help the student predict the events 
+of the story and enhance meaning. The student will 
+encounter a variety of organizational patterns in 
+the basal reader. Several are described below: 
+
+• Simple Narrative (Found in Primary 
+Basals) 
+
+Setting and character 
+
+Beginning/problem 
+
+
+
+23 
+
+22 
+
+
+
+Reading and Language Arts 
+
+
+
+Reaction/feeling 
+
+Attempt/solution 
+
+Outcome/ending 
+
+• Expository Writing (Found in Content 
+Area Readers) 
+
+Topic area 
+
+Subtopic 1 
+
+— Elaboration 
+
+— Examples 
+Subtopic 2 
+
+— Elaboration 
+
+— Examples 
+Subtopic 3 
+
+— Elaboration 
+
+— Examples 
+Conclusions 
+
+• Adventure Stories 
+
+Encounter 
+Conflict 
+Escape 
+Chase 
+
+• Science Reports 
+
+Problem statement 
+Hypotheses 
+Materials/procedures 
+Data collection/observation 
+Conclusions 
+
+• Persuasive Writing 
+
+Problem statement 
+
+Solution proposal 
+
+Arguments and counter-argu- 
+ments 
+
+Effectiveness of solution 
+
+Implementation 
+
+Conclusions 
+
+Develop Language 
+
+If vocabulary, idioms, syntax, etc., in the story 
+will block meaning, it is worth the time to review 
+them with the student. Concrete objects and 
+'nsuals should be used as often as possible to con* 
+vey meaning. 
+
+Introduce Reading Skills 
+
+The only purpose for teaching a reading skill 
+duringthe introduction to the story is if the student 
+will need the skill to get meaningfrom the text. For 
+
+
+
+examplOi if a root word is used repeatedly in the 
+story, but in a variety of foms (i»e., help, helpful, 
+helpless), it might be necessary to introduce struc- 
+tural analysis as a means of decoding words. Time 
+should be allowed for reading skills — only if 
+meaning would be lost without the skill. Key 
+vocabulaiy words that the student understands 
+but cannot decode can be introduced as sight words 
+accompanied by visuals when possible. 
+
+The introductory period should encourage free 
+language use, while the student shares his or her 
+background knowledge and responds to questions 
+from the teacher. The student may oflen use lan- 
+guage (particularly vocabulary) which may not be 
+standard. That is, the student may overgeneralize 
+a term but use it in a context in which the intent 
+of his or her communication may still be clean For 
+example, the term ''ice cream" may be used when 
+"^opsicle" is clearly the intent. Or the student may 
+utter sentences that are ungrammatical such as 
+•We goed to the Christmas party." 
+
+It is recommended that the teacher respond to 
+the ^truth value** of the student's utterance and not 
+to the structure, form, or accuracy of the language. 
+In this way, the student is encouraged to create 
+language to communicate his or her background 
+knowledge related to the content of the reading 
+selection. This experience affords language prac- 
+tice and is consistent with the suggested conditions 
+for language development. 
+
+Step II: Building Comprehension 
+Through Storytelling 
+
+Step II is an extension of Step I in that the 
+teacher is still preparing the reader for his or her 
+encounter with the text. This step reduces the 
+uncertainty faced by the student, and ensures no 
+"'surprises." During Step II, the teacher tells the 
+story to the student. The following procedures are 
+suggested: 
+
+• Tell the story using visuals, gestures, and 
+facial expressions to help convey meaning. 
+The stoiy pictures from the text may be 
+used 
+
+• Stress key vocabulary by writing the words 
+as they are being used. 
+
+* Retell the story leaving out key words for 
+the student to insert. Underline them on 
+the board as the student says them. 
+
+^ Encourage the student to retell the story in 
+his or her own words. 
+
+* Review key words by introducing ap- 
+propriate reading skills that will aid word 
+recognition. 
+
+
+
+2324 
+
+
+
+Indians Nations At Risk: Solutions for the 1990s 
+
+
+
+• Ask the student questions using story 
+grammar as an organizer: 
+
+Setting: Where and when did the 
+events in the story take place? 
+Who was involved in them? 
+
+Beginning: What started the 
+chain of events in the story? 
+
+Reaction: What was the main 
+character's reaction to this event? 
+
+Attempt: What did the main char- 
+acter do about it? 
+
+Outcome: What happened as a 
+result of what the main character 
+did? 
+
+Step III: Reading the Story 
+
+To facilitate comprehension, it is recommended 
+that the teacher guide the student through the 
+reading selection. Suggestions are given below: 
+
+• Assign short sections to read, one at a time. 
+
+• Establish purpose-setting questions for 
+each section. 
+
+• Ask the student to read a section and retell 
+it to a peer. 
+
+• Discuss idiomatic expressions. 
+
+• Ask the student to predict what will hap- 
+pen next. 
+
+When the student has completed the story, 
+check comprehension by asking him or her to par- 
+ticipate in a variety of activities: 
+
+• Sequence the story by drawing illustra- 
+tions. 
+
+• Act out the story. 
+
+• Describe a character in the story. 
+
+• Retell or rewrite the story by making 
+oneself the main character. 
+
+• End the story in a different way. 
+
+• Compare the story to another one. 
+^ Outline the selection. 
+
+• Write a story using the same organization- 
+al structure as the story just completed. 
+
+Step IV: Applying Reading Skills 
+
+The teacher's guide to any basal series will 
+contain numerous reading skills. In selecting skills 
+appropriate for the LEP student, it is important to 
+remember that the focus should be comprehension. 
+Skills isolated from any meaningful context will 
+not be useful. Examples of appropriate skills might 
+be: 
+
+
+
+• Putting together sentence puzzles^ using 
+the story to practice syntax. 
+
+• Alphabetizing words from the story. 
+
+• Finding words from the story that have the 
+same phonetic elements (i.e., vowel 
+sounds, rhyming words, etc.). 
+
+• Identifying the main idea. 
+
+• Making predictions about outcomes. 
+
+• Using words from the story to associate 
+consonant in initial, medial, or final posi- 
+tion. 
+
+• Developing word meaning through context 
+clues. 
+
+• Developing synonyms or antonyms for 
+words in the story. 
+
+Current Trends and Directions 
+in Reading 
+
+Any discussion of reading instruction cannot be 
+considered complete without attention given to 
+some current trends in language arts instruction. 
+In recent years, a great deal of interest has 
+emerged in instructional models that integrate 
+listening, speaking, reading, and writing. The 
+strongest manifestation of this direction is the 
+whole language movement that is currently gain- 
+ing increasing recognition and support in the 
+United Stales. This section will explore what is 
+meant by 'integrating the language arts." In addi- 
+tion, the imderlying principles of whole language 
+will be discussed. 
+
+What is Meant by 'Integrating the 
+Language Arts 
+
+Many classroom teachers no longer view speak- 
+ing, listening, reading, writing, literature, spell- 
+ing, handwriting, and grammar as separate 
+subjects to be taught with separate texts. Instead, 
+they integrate these areas in their instruction in 
+support of the following philosophical perspective: 
+
+• Language, both oral and written, is the 
+primary means of creating new knowledge 
+as well as the means for communicating 
+that knowledge to others. Language is ver- 
+bal thinking. 
+
+• Language is balanced between the two 
+receptive processes of listening and read- 
+ing and the two productive processes of 
+speaking and writing. The four language 
+processes are interrelated and interdepen- 
+dent. Deficiency or growth in one may 
+cause deficiency or growth in another. 
+
+
+
+25 
+
+24 
+
+
+
+Reading and Language Arts 
+
+
+
+• Literatiire provides the best models of lan- 
+guage. Students learn language in a way 
+superior to direct instruction by internaliz- 
+ing literary models through listening, 
+reading, retelling, discussing, dramatiz- 
+ing, and writing. 
+
+• The purpose of language is to make mean- 
+ing. Skills are important in that they aid 
+meaning. Skills are part of, and never 
+separate from, purposeful communication. 
+
+This philosophical perspective translates into 
+the following instructional guidelines: 
+
+• The basal reading system can be the core 
+of the integrated curriculum if teachers are 
+uncertain about how to teach reading 
+through literature. 
+
+• Students, working in groups, talk through 
+their learning in all subjects, talk out their 
+compositions before they write, and engage 
+in activities that promote oral expression: 
+storytelling, choral reading, reade/s 
+theater, creative dramatics, etc. 
+
+• Students write daily as a follow-up to read- 
+ing, instead of using workbooks or ditto 
+sheets. 
+
+• The students' difficulties in oral and wt*it- 
+ten discourse determine what they need to 
+study in grammar and usage. 
+
+• Spelling lists will be made from the 
+students' errors in writing. 
+
+• Similar guidelines are used in content 
+areas to effect integrated language-across- 
+the-curriculum. (Buckley, 1986) 
+
+What the '"Whole Language'' 
+Approach? 
+
+A greater understanding and appreciation of 
+children's processing abilities has emerged during 
+the last 20 years supporting the notion that 
+children can learn to read quite naturally if in- 
+structional procedures are in keeping with their 
+natural linguistic competencies and abilities. The 
+term ''whole language** describes readingprograms 
+that are built on this body of knowledge which has 
+come out of the work of educators, cognitive 
+psychologists, and psycholinguists. Their studies 
+suggest that reading is not simply a compilation of 
+skills to be ''poured" into learners' minds for their 
+conscious learning, but rather a ''skiir of process- 
+ing whole language that allows learning to read to 
+occur implicitly. Whole language proponents 
+believe t^at reading and writing are learned by 
+reading and writing. Furthermore, practice in 
+
+
+
+these areas cannot be artificial or contrived. It 
+must be bonded to what the students bring with 
+them into the classroom and directed at what mat- 
+ters to them beyond the school walls. 
+
+In the whole language instructional model, 
+reading is viewed as a developmental process: 
+learners grow through similar stages, but not at 
+the same rate and not in the same way. As they 
+grow, it is important that students be immersed in 
+a language-rich environment, rich in exposure to 
+written as well as oral language so that they are 
+introduced to both the forms and functions of writ- 
+ten language. 
+
+Classroom practices in a whole language class- 
+room are based on the belief that language should 
+not be fragmented. Whole language rejects: 
+
+• Isolating skill sequences. 
+
+• Slicing up reading and writing into grade 
+slices, each slice neatly following and de- 
+pendent on prior ones. 
+
+• Simphfying texts by controlling their sen- 
+tence structures and vocabulary, or or- 
+ganizing them aroimd phonic patterns. 
+
+• Isolating reading and writing instruction 
+from its use in learning, or in actual read- 
+ing and writing. 
+
+• Believing there are substantial numbers of 
+learners who have difficulty learning to 
+read or write for any physical or intellec- 
+tual reason (Goodman, 1986). 
+
+Whole I^anguage Instructional 
+Practices 
+
+• Reading strategy instruction is a major 
+component of a whole language program. 
+Readers are guided to predict and confirm 
+their predictions and to constantly ask 
+themselves as they read: ''Does this make 
+sense?" and ''What do I think will happen 
+nextr 
+
+• Whole language programs accept the 
+reality of learning through risk-taking, er- 
+rors, reversed letters, invented spellings, 
+creative punctuation, and reading and 
+writing miscues. These are viewed as in- 
+dications of growth toward control of the 
+language process. 
+
+• The teacher motivates, arranges the en- 
+vironment, monitors development, 
+provides relevant and appropriate 
+materials, and invites the learner to par- 
+ticipate in the activities. 
+
+• Language teachers do not use basals at all, 
+but build their programs around children's 
+
+
+
+Indians Nations At Risk: Solutions for the 1990s 
+
+
+
+literature. In a whole language classroom, 
+there are books, magazines, newspapers, 
+directories, posters, and many other forms 
+of print all around. What is considered 
+appropriate to read is anything the reader 
+needs or wants to read. 
+
+• The focus of all activities is on meaning and 
+not on language itself, but language as it 
+naturally happens in authentic speech and 
+literacy events. Comprehension of mean- 
+ing is always the goal of readers. (Good- 
+man, 1986) 
+
+Whole Lan^age and the Native 
+Student Reader 
+
+A growing number of English as a second lan- 
+guage (ESL) instructors have become increasingly 
+interested in the whole language movement hap- 
+pening in the United States. Many have come to 
+support the learning theory on which whole lan- 
+guage is based, believing that language is in- 
+clusive, and that it is indivisible. They have come 
+to view the controlled vocabulary, phonic prin- 
+ciples, or short, choppy sentences frequently found 
+in ESL readers or basals as presenting an artificial 
+idea of what the purposes of language are and thus, 
+serving only to make language learning hard, ir- 
+relevant, and uninteresting. 
+
+Reading programs for the student often provide 
+language that is isolated from real speech and 
+literacy contexts. This may be particularly true at 
+the secondary level vhere programmed ESL texts 
+often dictate the direction of reading instruction. A 
+reading program based on student-selected 
+material, on the other hand, might provide greater 
+motivation for the student to become a ''self- 
+directed agent seeking meaning," especially if 
+reading texts were available that were relevant to 
+the student's own experiences. Because readers 
+tend to be interested in reading texts that have 
+some relationship to their own background, the 
+student who chooses his or her own texts is, in 
+effect, also providing his or her own appropriate 
+background knowledge for understanding the text 
+(Carroll and Eisterhold, 1983). 
+
+Addressing the Content Area 
+
+Curriculum Needs of the 
+American Indian and Alaska 
+Native Student 
+
+It has been well established that many Native 
+students have diffu ulty with content area classes 
+if they do not possess adequate cognitive academic 
+language proficiency at the same level as the texts 
+being used. When this occurs in a content area 
+
+
+
+class, the students are oftentimes ^pulled out" of 
+the regular class and provided with remedial work. 
+The problem with this approach is that while the 
+student in need is out of the classroom, the level of 
+instruction continues on and (8)he falls behind the 
+content and skills level that the whole class is 
+addressing. This section will examine approaches 
+whereby students with skills' needs may stay in 
+the classroom and the teacher will use varying 
+methods that will address all of the needs of all of 
+the students, thus avoiding the phenomenon of 
+some students falling behind in content when they 
+lack adequate skills to access the content area 
+materials. 
+
+What are the Needs of the Native 
+Students? 
+
+There are, despite the differences among Na- 
+tive students, some uniform needs that should be 
+recognized by content area curriculum classroom 
+teachers: 
+
+* The cultural heritage of the Native student 
+needs to be recognized as an asset to the 
+class. The various ethnic and cultural 
+groups represented in the classroom pro- 
+vide numerous resources which can be 
+used to enhance classroom learning for all 
+students. 
+
+* The Native student needs a warm, accept- 
+ing environment that allows him or her to 
+become a risk-taker in learning a new skill 
+or content area. 
+
+* The student may need to have a ''silent 
+period" or a period during which he or she 
+listens to a great deal of language in order 
+to get a feel for the new sounds and 
+vocabulary that have meaning for that par- 
+ticular content area. 
+
+* Some Native students may need ap- 
+propriate ESL instruction, depending on 
+their level of English language proficiency. 
+Such instruction should include both inter- 
+personal communicative language skills 
+and cognitive academic language skills. It 
+should be noted that while second lan- 
+guage learners (including ''Reservation 
+English" and 'tillage English" speakers) 
+can attain proficiency in interpersonal 
+communication within two years, attain- 
+ing proficiency in cognitive academic lan- 
+guage skills requires from five to seven 
+years (Cummins, 1981). 
+
+* The Native student needs content material 
+that will provide him or her with concepts 
+
+
+
+26 ^ 
+
+
+
+Reading and Language Arts 
+
+that are appropriate for his or her grade 
+level and achievement level. 
+
+• The student needs to have abstract content 
+information and concepts made com- 
+prehensible. (Krashen, 1981) 
+
+• The Native student needs an instructional 
+program in the content areas which incor- 
+porates the use of concrete materials, 
+shared experiences, and prior knowledge. 
+
+• The Native LEP student may need special 
+consideration in regard to daily assign- 
+ments and testing. The language demands 
+in such situations may pose barriers to 
+success and may require modification. Be- 
+cause Native LEP students may have dif- 
+ficulty using English as a complete thought 
+medium, they may need more time to com- 
+plete assignments and tests. It is impor- 
+tant to determine whether assignments 
+and tests assess the understanding of the 
+content or knowledge of the language as- 
+sociated with the content. 
+
+Identifying Instructional 
+Strategies 
+
+The following questions should be addressed 
+before the teacher plans instruction for the Native 
+student: 
+
+How Can the Teacher Plan for 
+Native Student Needs? 
+
+Creating a Positive, Welcoming 
+Classroom Enviromnent 
+
+Groing into a new or cross-cultural situation 
+oflen provokes feelings of stress and anxiety. This 
+is especially true of school age children when faced 
+with the first day of school in a new environment. 
+Add to this the factor of not knowing the language 
+of the new environment and one can easily imagine 
+how these feelings might be even more intense. In 
+recognition of these feelings, it becomes the 
+teacher's responsibility to ensure that the Native 
+student be made to feel as comfortable as possible 
+that first day in order that the foundation be paved 
+for a positive school experience in the future. 
+
+Immediate Needs 
+
+When developing a plan to meet the needs of 
+the Native student in the content area classroom, 
+the teacher needs to consider both immediate and 
+long-term needs. The immediate needs focus on 
+helping the Native student feel as comfortable as 
+possible in the new learning situation. 
+
+
+
+Long-Term Needs 
+
+The long«tenn needs involve taking into ac- 
+count the background characteristics of the Native 
+student, identifying resources available for serving 
+that student, and giving consideration to ap- 
+propriate instructional approaches. Before 
+developing a plan for the student's long'-term 
+needs, the teacher should consider the following 
+questions: 
+
+• What are the students' background, cul- 
+ture, previous educational experience, 
+home situation, general abilities, and in- 
+terests? 
+
+• What resources and materials for serving 
+the Native student are available within the 
+building, the district, and the state? 
+
+• What teaching approaches are effective 
+with Native students? 
+
+After addressing the above questions, a plan 
+can be developed that includes: daily schedule, 
+instructional strategies, alternative instruction, 
+and evaluation process. A meeting with all staff 
+who will be working with the student will provide 
+an opportunity for everyone to make suggestions 
+and to approve the plan. When possible, meet with 
+parents to review the plan and to solicit their input. 
+
+What Instructional Strategies are 
+Effective for Native Students? 
+
+In developi' g and carrying out a long-term plan 
+for the Native student, the teacher needs to con- 
+sider certain instructional approaches. The follow- 
+ing approaches helo to provide the Native student, 
+as well as all students, with an instructional pro- 
+gram that will enhance learning. 
+
+Analyze Language Complexity of 
+the Learning Task 
+
+The language demands that the Native student 
+faces in the classroom can be reduced when the 
+teacher considers the complexity of the language 
+involved in classroom communication activities. 
+The level of complexity is influenced by two mcgor 
+factors: the number of contextual clues that are 
+present to assist comprehension, and the cognitive 
+complexity of the task. 
+
+Cummins (1981) suggests that all tasks requir- 
+ing language skills may be placed on a grid formed 
+by the intersection of two continua depicting two 
+mcyor dimensions of language proflciency — com- 
+municative language skills and academic language 
+skills. The horizontal continuum describes the 
+amount of contextual support present in a task. At 
+
+
+
+2t8 
+
+
+
+Indians Nations At Risk: Solutions for the ISSOs 
+
+
+
+one extreme, meaning is actively negotiated be- 
+tween speaker and listeneri and the communica- 
+tion is supported by a wide range of contextual 
+clues. An example of this kind of communication 
+would be determining whose turn is next during a 
+game at recess time. At the other end of the con- 
+tinuum, context is reduced; very few clues to mean- 
+ing are provided. An example of context-reduced 
+communication might be the reading of a chapter 
+in a history text. 
+
+The vertical continuum represents the cogni- 
+tive demands of the commimication task. An ex- 
+ample of a cognitively undemanding task might be 
+the experienced driver reading and interpreting 
+traffic signs, an activity that has become so auto- 
+matic as to be almost subconscious k typical cog- 
+nitively undemanding classroom task with many 
+context clues might be having the student match a 
+quantity of concrete olitjects to written numerals. A 
+cognitively imdemanding task with few context 
+clues might be requiring the student to copy writ- 
+ten materials. 
+
+An example of a cognitively demanding task, on 
+the other hand, with many clues might be giving 
+the student math word problems with concrete 
+referents or pictures to assist in problem-solving. 
+Finally, a cognitively demanding task, with few 
+clues, might be listening to a lecture on the 
+American Revolution. 
+
+The language demands that the student faces 
+in the classroom increase in difRculty as the con- 
+textual clues become fewer and the cognitive task 
+becomes more complex. The cognitive task often 
+will demand the kind of academic language skill 
+required for literacy skills such as decoding, read- 
+ing comprehension, deriving meaning from con- 
+text, study skills, and writing proficiency. This 
+kind of language proficiency, therefore, is more 
+challenging in its comprehension requirements, in 
+contrast to language surrounded by context clues 
+where meaning is more easily clarified through 
+concrete referents. 
+
+Providing Contextual Clues 
+
+The following strategies will help to place lan- 
+guage in a more meaningful context for the stu- 
+dents: 
+
+• Use Visuals 
+
+When a spoken word can be further represented 
+by a visual, it diminishes the complexity of a task. 
+The visual allows the listener one more clue to 
+comprehension. The teacher talks about a country 
+while using a map of the country. The teacher 
+demonstrates the process of subtraction by using 
+blocks or pieces of candy to show what happens 
+when something is subtracted. 
+
+
+
+• Provide Hands-On Activities 
+
+Students needs the opportunity to explore 
+and discover things. Language proficiency can be 
+developed along with content through activities 
+such as drawing and constructing maps, making 
+dioramas, role-playing historical events, conduct- 
+ing experiments, and using manipulatives. 
+
+• Using a Model or Sample of a Finished 
+Product 
+
+A model or sample of a finished product gives 
+students a guide of what is expected. Each student 
+can use the model to visualize and compare his or 
+her own work. It provides a visual guide when the 
+teacher is not able to give further directions. The 
+model provides the student with a constant self- 
+monitoring process. The teacher might post a 
+model ofhow to head a paper or display thefinished 
+product of student-made books. 
+
+• Give a Visual Representation of Verbal 
+Directions 
+
+The steps that a student follows to complete a 
+task should be presented in the oral mode and 
+reinforced with visual clue. The steps to complete 
+a craft project or a math process should be repre- 
+sented visually as well as verbally. The steps can 
+be placed on the chalkboard or on a chart for quick 
+reference. The teacher needs to spend time relating 
+the visual to the verbal directions. The teacher can, 
+for example, present seatwork directions verbally 
+and relate them to picture clues on the chalkboard 
+to help increase the student's understanding and 
+memory. If the teacher wants the students to cut 
+out pictures, the words "cut out the pictures" are 
+printed on the board with a picture of scissors. 
+Pictures with verbal directions provide com- 
+prehensible input for the students. 
+
+• Provide Demonstrations or Modeling 
+
+Modeling is the demonstration and explanation 
+of a process or product by the teacher. For example, 
+the teacher, in introducing how to use a micro- 
+scope, carefully demonstrates its use and points 
+out the most important features. Or, the teacher 
+demonstrates ways to put correct shadowing in a 
+picture, or how to do a certain math procedure 
+before allowing the class to try the problem. 
+
+The modeling by the teacher provides the stu- 
+dents with an example they can draw from when 
+they attempt the new skill. The model should have 
+two characteristics: 
+
+The model should be perfect, which 
+means it should be clearly imder- 
+stood without room for 
+misinterpretation. 
+
+
+
+29 
+
+28 
+
+
+
+Reading and Language Arts 
+
+
+
+• The teacher should point out the 
+key ideas that make the model per- 
+fect, 
+
+Modeling helps to identity and to visualize a 
+process or product that a teacher wants to teach. 
+Modeling helps to reinforce skills being taught, 
+clarifies a skill, meets the needs of various learning 
+styles, and will provide a concrete rather than an 
+abstract experience. 
+
+^ Nonverbal Embellishment 
+
+When the teacher points and uses hand ges- 
+tures, the students are provided with additional 
+clues to the teacher's message. The teacher can 
+simply point to the place where finished 
+worksheets should be returned. With a hand ges- 
+ture, the teacher can show or approximate an inch 
+in a measurement lesson. The gestures and refer- 
+ences to concrete examples helps to narrow the 
+scope for the listener. 
+
+• Activate and Expand the Prior Experien- 
+ces of Students 
+
+A person's background experiences have a 
+direct influence on what (s)he comprehends. If the 
+learner is able to relate new information to past 
+experiences, learning is enhanced (Pearson and 
+Spiro, 1982). Students can share their prior 
+knowledge as a preliminary stage to any lesson. As 
+required, the teacher provides additional experien- 
+ces to extend the student's range of experience. It 
+is important that the teacher use the student's 
+prior experiences as a bridge to introduce new 
+information. The student who is very knowledge- 
+able about animals can easily relate to a lesson on 
+food chains if the teacher builds on this previous 
+knowledge. The prior experiences that a student 
+brings to learning can be termed the students 
+''schema.'' It is the responsibility of the teacher to 
+acknowledge the student's existing schema and 
+provide opportxmities to expand on what is already 
+known. 
+
+Placing language in a meaningful context is one 
+of the key strategies for teaching the Native stu- 
+dent in the content area classroom. Not only does 
+it increase the likelihood of academic success for 
+the student as key concepts are explored in content 
+areas, but it also simultaneously facilitates the 
+development of language and communication 
+skills. 
+
+Provide for Peer Interaction and 
+Cooperative Learning Etiperiences 
+
+Acquisition of language and oral communica- 
+tion skills is further facilitated by the use of 
+cooperative small group work. Students working 
+together in small groups obtain natural active 
+
+
+
+practice in all language areas. Johnson, Johnson, 
+Johnson, and Roy (1984) states that ^cooperative 
+learning ezperienceSi where students work 
+together to maximize each other's achievement, 
+tend to promote positive relationships and a 
+process of acceptance among students." He iden* 
+tifies four basic elements that must be included in 
+small group learning for it to be considered 
+cooperative learning. The first element is that the 
+group develops positive interdependence. This can 
+be structured to occur by having mutual goals for 
+a group, division of task work, and materials. The 
+teacher can enhance the positive interdependence 
+by joint rewards for a group showing positive inter- 
+dependence. The second element is face-to-face 
+interaction amongthe students. The third element 
+is individual accountability for mastery of material 
+covered. And finally, the fourth element requires 
+students to use interpersonal and small group 
+skills. The students need to be taught the social 
+skills of working within a group and also how to 
+assess how their group is functioning. Keeping the 
+four elements of cooperative learning in mind, the 
+teacher assumes the following roles to implement 
+cooperative learning in the classroom: 
+
+* States and clarifies the objectives of the 
+lesson for the students. This would include 
+the academic objectives as well as the ob- 
+jectives for the group work. 
+
+* Makes decisions about which groups, and 
+the size of the groups, that the students 
+will work in before the lesson begins. The 
+decision is based on the task to be ac- 
+complished, number of students, and 
+materials or resources that are available. 
+Heterogeneous grouping is recommended, 
+at least one high-achieving student, one 
+low-achieving student and a mixture by 
+gender and ethnicity of middle level- 
+achieving students. 
+
+* Clarifies the task and structures the learn- 
+ing activity for the students. 
+
+* Monitors the effectiveness of the groups 
+and is available to provide assistance when 
+a group needs direction. 
+
+* Evaluates the students' achievement and 
+leads discussions with students about how 
+their group worked effectively. 
+
+The following are some activities that use 
+cooperative learning: 
+List-Group Label 
+
+The teacher begins by choosing a topic the class 
+is familiar with. Using the chalkboard or overhead, 
+the teacher leads the class in a brainstorming 
+activity to come up with 20 to 30 words or concepts 
+
+
+
+29 
+
+
+
+Indians Nations At Risk: Solutions for the 1990s 
+
+
+
+related to the topic* The teacher writes down every 
+word suggested. Discuss with the class whether 
+any words are inappropriate and should be 
+eliminated. The class is divided into the coopera- 
+tive learning groups. The students are told that 
+within their groups they are to select h^om the 
+brainstormed list of words or concepts that seem to 
+relate to each other. They are to write these words 
+in clusters on their paper; then label each cluster 
+with a descriptive term. The teacher brings the 
+class together for the groups to share their work. 
+There are no right or wrong answers; all 
+reasonable answers are accepted. This activity can 
+be a prereading activity or it can be a follow-up 
+activity to help reinforce and review (Maring, Fur* 
+man, and Blum-Anderson, 1985). 
+
+The teacher in this strategy selects the most 
+important topics to be covered. The teacher then 
+develops directed study questions. The cooperative 
+learning groups are each assigned a specific study 
+question to research as a group. When the groups 
+have their questions answered, they disband and 
+each member joins a new group; each student in 
+turn teaches his or her new group the information 
+that his or her former group researched. The 
+teacher needs to monitor this carefully and to 
+check the research group's work before they dis- 
+band. This activity allows all students to take an 
+active part and to have something to share. 
+Surveyi Predicti Readi Revise 
+The teacher has all the students list the head- 
+ings and subheadings for an assigned reading on 
+paper, or the teacher can provide the handouts 
+with this information. The teacher then has the 
+total class brainstorm what kinds of information 
+might be contained xmder each heading. They will 
+also perform the same activity in their small 
+groups. 
+
+The students continue the brainstorming in 
+their small groups, but they record their predic- 
+tions on their paper. Each student should be re- 
+quired to make at least one prediction within their 
+group for each heading, but the group members 
+should only record the items for which they reach 
+a consensus. Following the brainstorming, the 
+group does the assigned reading to confirm, reject, 
+or modify their predictions. The group then makes 
+decisions about their predictions, making revisions 
+and additions where they are needed. The teacher 
+can bring the total group together to share what 
+information was confirmed. This will help to sum- 
+marize the content material (Maring, Furman, and 
+Blum -Anderson, 1985). 
+
+Cooperative learning can provide the students 
+with positive peer interaction. It can help to foster 
+
+o 
+
+ERIC 
+
+
+
+an independence in learning that does not focus 
+just around the teacher. It can tree the teacher to 
+work with children who are having difficulties. 
+Cooperative learning is an efficient way to meet the 
+variety of needs of all students. 
+
+Marilyn Bums (1981) describes her ''groups of 
+four" as a system of cooperative learning that re- 
+quires reorganizing the classroom physically, 
+redefining the students' responsibilities, and care* 
+fully structuring the teacher's role. Her groups 
+operate under three rules: 
+
+• You are responsible for your own work and 
+behavior. 
+
+^ You must be willing to help any group 
+member who asks. 
+
+• You may ask for help from the teacher only 
+when everyone in your group has the same 
+question. 
+
+First, the teacher introduces mi activity to the 
+groups that is designed to accomplish the lesson 
+objective. The teacher circulates to observe inter- 
+action and to help when an entire group has a 
+question or when a group reaches an impasse. The 
+teacher's goal is to get the groups working produc- 
+tively and independently. When groups have 
+finished exploring a problem, it is the teacher's 
+responsibility to summarize the results for the 
+entire class and to lead a discussion about the 
+process. '^Groups of four" provide a usefUl manage- 
+ment technique for meeting the varied needs of the 
+students. It also provides a learning environment 
+that maximizes interaction among students. Stu- 
+dents have opportunities to exchange thoughts and 
+to validate and rethink their ideas. 
+
+The Native student can benefit greatly by work- 
+ing in cooperative peer interaction situations. The 
+teacher structures tasks that encourage the stu- 
+dents to discuss and actively work on a problem. 
+For example, a teacher might use peer groups in 
+science by placing the Native student with one or 
+more students. The teacher can direct the groups 
+to carry out a series of experiments and to record 
+the results. The teacher leads a total class discus- 
+sion and helps summarize the results with the 
+class. 
+
+Social studies peer groups can be assigned 
+tasks to obtain information through a research 
+project, such as finding names of key American 
+Indian and Alaska Native and their achievements. 
+Or the students can plan and build a model of a 
+city, or develop a timeline for useful inventions in 
+the 21st century. The teacher can ask students to 
+act out key vocabulary words following or preced- 
+ing a lesson. The important thing is that all group 
+
+
+
+Reading and Language Arts 
+
+
+
+tasks be designed to facilitate interaction among 
+the students. 
+
+Peer tutoring can also promote the acquisition 
+of language and oral commimication skills, and can 
+be beneficial to the tutor as well as to the tutored 
+student. An English proficient student can be 
+paired with the LEP student or an older student 
+with a younger student. Or, a student that has a 
+basic competenQf in the target skill can serve as a 
+model and tutor for the other. The tutor gains 
+self-esteem while also reinforcing his or her own 
+concepts within a content area. The LEP student 
+is presented with an informal situation in which to 
+interact verbally with only one person, in addition 
+to being given one»on*one attention in a specific 
+content area. 
+
+Modify the Lesson 
+
+Modifying the lesson means that the content 
+area teacher adapts the same content and concept 
+to two different populations. First, the most essen- 
+tial or appropriate objectives for a lesson or unit 
+are identified. The content is then modified to 
+provide a better match with the language limita- 
+tions of the LEP students. Thus, while the lesson 
+demands of the English proficient students and the 
+LEP student are different, the same information 
+can be prepared for and presented to both. 
+
+For example, an objective for a social studies 
+lesson on famous American inventors might re* 
+quire students to write an essay stating how the 
+work of one famous inventor has influenced our 
+modem world. The same lesson for the LEP stu- 
+dent can require the student to tell the teacher or 
+a peer the names of three famous inventors and 
+what they invented, or to draw a picture to il* 
+lustrate how the work of a particular inventor has 
+influenced our lives. The teacher needs to be aware 
+of, and to continually challenge, the LEP student's 
+skills. The l^EP student's limited English skills 
+should not be confused with a lack of cognitive 
+knowledge. 
+
+Incorporate Comprehension Checks 
+Kvto Lessons 
+
+Madeline Hunter's (1982) work supports learn- 
+ing theories that stress the need to check for un- 
+derstanding during teaching, as well as for 
+monitoring and for adjusting instruction 
+throughout a lesson. The following teacher ac- 
+tivities will help to ensure that learning is occur- 
+ring: 
+
+^ Check to see if students understand the 
+key elements by asking questions 
+throughout the lesson. 
+
+
+
+• Rephrase the main points in simple lan- 
+guage at the end of the lesson. Focus on the 
+main idea of the lesson. Have students 
+restate in their own words their under- 
+standing of the information, or have them 
+tell one another one or two new ideas they 
+learned during the lesson. 
+
+• Emphasize key content words used in con- 
+text by writing them on the chalkboard as 
+they were used in context. The teacher can 
+focus attention on written words by cir- 
+cling or underlining them as the students 
+or the teacher uses them. Have the stu* 
+dents guess what the words mean; then 
+have them revise their guesses after they 
+become familiar with the definitions of 
+words. 
+
+Use Individual Preview and Review 
+Techniques to Augment Instruction 
+
+Ovando and Collier (1985) propose a model 
+which outlines a strategy for lesson preview and 
+review: 
+
+• The lesson is introduced by one instructor 
+in the student's first language. 
+
+• The lesson is then presented in the second 
+language by another instructor. 
+
+• Finally, the lesson is reviewed in the first 
+language. 
+
+The regular classroom teacher can use a varia- 
+tion of this model by using an instructional assis- 
+tant or trained volunteer to present material 
+before a class presentation or lesson. The preview 
+is in English unless resources can provide a Native 
+speaker. The preview stresses the language that 
+will be used in the lesson by introducing the main 
+points covered by the text pages. Time should be 
+spent talking about pictures that are within the 
+lesson. Resource material such as filmstripSi pic- 
+tures, and books can be used to help build the 
+background information for the student. Following 
+the lesson, a review or summary is presented that 
+allows a teacher to check for understanding* The 
+review can be done on an individual basis by the 
+teacher, instructional assistant, or trained volun- 
+teer, or the student can take part in a total class 
+review. 
+
+Provide Alternative Instruction 
+
+There are times when a particular lesson will 
+not be comprehensible to the Native student* It is 
+during these times that the teacher can provide 
+alternative activities for the Native student. The 
+following list offers some possibilities for alterna- 
+tive instruction: 
+
+
+
+o 
+
+ERIC 
+
+
+
+31 32 
+
+
+
+Indians Nations At Risk: Solutions for the 19905 
+
+
+
+• Independent projects such as picture die* 
+tionaries, language experience bookSi 
+story tapes, filmstrips, and art projects; 
+ESL lessons with an ESL instructor, in* 
+structional assistant, volunteer, or peer 
+tutor. 
+
+• Preview and review lessons with an in- 
+structional assistant, volunteer, or peer 
+tutor. 
+
+^ Media projects such as making a slide 
+show or an animated movie under the su- 
+pervision of a media instructor. 
+
+Making the Text 
+Comprehensible 
+
+The teaching of content subjects and their em- 
+phasis or reliance on textbook information 
+provides a special challenge for the Native student 
+and the classroom teacher. The following four-step 
+plan for using a text gives procedures that will 
+benefit all students by providing the support re- 
+quired to comprehend the content of the text 
+(Cooper, 1986). 
+
+Step I: Preparation 
+
+The first step requires the teacher to examine 
+the material with three questions in mind. The 
+first question is, ''What do I want or expect the 
+students to learn from the textr This step re- 
+quires the teacher to identify the objectives for the 
+lesson. The teacher makes a decision based on his 
+or her knowledge of the students' language skills 
+and cognitive knowledge. The objective for Native 
+LEP students may be different from the objective 
+for English proficient students. If the teacher 
+determines that the text makes it necessary to 
+''teach to two objectives," then text adaptation may 
+be desirable prior to presentation to the students. 
+
+The second question the teacher asks is, ''What 
+vocabulary will cause students the most diflficul- 
+ty?** Some words, even though they are not directly 
+related to the key concepts, may still impede text 
+comprehension. Therefore, as the teacher iden* 
+tifies key vocabulary to introduce to the class, other 
+vocabulary should be noted that may be 
+problematic to LEP students. 
+
+The third question to consider is, ''What back- 
+ground will the students need in order to com- 
+prehend the text?" Is there information or a 
+concept that must be explained before the students 
+can understand what they will be reading? Extra 
+resources may be required to help provide this 
+background. The resources need to be as visual and 
+as concrete as possible so that meaning can be 
+grasped. 
+
+o 
+
+ERIC 
+
+
+
+Step II: Developing Vocabulary 
+and Background 
+
+The teacher must decide what vocabulary and 
+background information need to be developed 
+before the students encounter the text. Activating 
+the student's prior knowledge or schema will help 
+the teacher discover what the student already 
+knows and disclose what new information the stu* 
+dent will need to be able to comprehend the text. 
+Planning activities that give students credit for 
+what they already know will help bridge the gap 
+between new learning and previously acquired 
+knowledge. The teacher's awareness of the 
+knowledge base the students bring with them will 
+help to determine appropriate resources to expand 
+prior knowledge. Such resources might include the 
+viewing of a film, a field trip, some concrete items 
+brought to class (such as pioneer tools or clothing, 
+to help build background for a unit on the Western 
+movement), or the use of role-playing. Another way 
+to activate prior knowledge is the use of a graphic 
+organizer. Graphic organizers are a visual way of 
+showing the relationship between concepts and 
+ideas. Examples of graphic organizers include 
+semantic maps, clustering, webbing, and linear 
+outlines. 
+
+Step III: Guided Reading 
+
+Students usually need more information 
+than that contained within the assigned pages of 
+the textbook in order to comprehend the informa- 
+tion. Guided reading is a step to building com- 
+prehension. The following procedures suggest 
+ways to guide the student through the text: 
+
+• Introduce organization of the text. Many 
+texts accent the mcgor points in bold type. 
+The bold type can provide an outline for the 
+student. The special content vocabulary is 
+often in bold type and a definition may 
+appear in an outside column or right with 
+the bold-typed new vocabulary word. The 
+glossaries are also an important aid to the 
+student because they may help to clarify a 
+word, give correct pronunciation, or pro- 
+vide a visual of the word. 
+
+• Focus the student's attention on the pic- 
+tures. The pictures within a text can pro- 
+vide a wealth of information. One useful 
+strategy is for a teacher to assign groups of 
+students a picture in a text and have them 
+answer the following questions: Who, 
+What, Where, Why, When, and How? 
+Once the activity has been done within a 
+group setting, it can give the student a 
+format for looking at other content pictures 
+
+
+
+32 
+
+
+
+Reading and Language Arts 
+
+
+
+as (8)he comes across them in a text. The 
+charts, graphs, and maps within the text 
+also provide visuals for the student and 
+should also be approached with some 
+guided questions. 
+
+• Introduce a note-taking technique. The 
+graphic organizer in use with a text can 
+also provide a format for note-taking. The 
+student starts with a single word or con- 
+cept, for example ^atom." While reading 
+the paper, the student writes the word 
+''atom" at the top of his or her paper and 
+answers tho questions: Who, What, 
+Where, When, and How. 
+
+• Ask students to predict what questions will 
+be answered by the text. Afler making 
+their predictions, students read for specific 
+answers, thus learning to focus their atten- 
+tion and improving their comprehension 
+skills (Cooper, 1986). 
+
+• Pose purpose-setting questions. The pur- 
+pose for reading a text can directly in- 
+fluence what students comprehend. By as- 
+king students questions that relate to the 
+key concepts in the text, the teacher helps 
+students to zero in on the main points. For 
+example, ''Why do you think the pioneers 
+wanted to go West?" might be a question 
+posed to students before reading a chapter 
+on the western movement. 
+
+• Pair students with reading partners. The 
+use of partners in a study approach can 
+allow a more capable reader to be paired 
+with a less capable reader. One partner 
+reads the text orally with the other student 
+and helps explain the material. The other 
+partner asks questions and points are 
+clarifled. The tutor's imderstanding of the 
+concept is reinforced by attempting to ex- 
+plain it to his or her partner while the 
+tutored student benefits by having his or 
+her comprehension enhanced. 
+
+• Rephrase and summarize text afler stu- 
+dents have finished reading. The teacher 
+needs to stop at certain points and sum- 
+marize what has been read. The key con- 
+cepts can be visually represented through 
+outlines, pictures, and graphic organizers. 
+The ultimate goal is to prepare students to 
+summarize material on their own, but the 
+teacher can help teach this skill by first 
+modeling it for the students. 
+
+
+
+Step IV: FolloW'Up 
+
+The follow-up activities are an extension, rein- 
+forcement, or application of concepts and skills. 
+The follow-up provides a framework for the stu- 
+dent to use the newly-learned or acquired skill in 
+a different way. This application provides the stu- 
+dent with needed practice and reinforcement. In 
+addition, the follow-up can provide the instructor 
+with the knowledge of how well the student has 
+grasped the new skill. As much as possible, follow- 
+up activities should build on the student's inter- 
+ests, skills and talents. For example, the student 
+who likes to act should be given the opportunity to 
+use role-playing. An artistic student might choose 
+to interpret the new concept through drawing a 
+picture or constructing a model. The activities 
+should be varied and include written, oral, and 
+visual expression. The follow-up, therefore, ex- 
+tends content beyond the text and helps to bring 
+closure on the overall concepts that were presented 
+in the text and content lesson. 
+
+Adapting the Content Lesson 
+
+The content lesson for the student should be 
+designed to present new information using con- 
+crete objects and visuals whenever they can help 
+to make the oral or written information com- 
+prehensible. The following is a checklist to consider 
+when adapting a content area lesson. 
+
+Lesson Objectives 
+
+• Are the objectives appropriate? 
+
+• Do they need to be modified? 
+
+• Does an alternative lesson need to be 
+provided? 
+
+Vocabulary and Key Concepts 
+
+• What are the vocabulary nnd key concepts 
+that need to be presented? 
+
+• How can these concepts be presented in a 
+meaningful context? 
+
+Prior Knowledge 
+
+• What lesson activities will bring out the 
+students' prior knowledge? 
+
+• How can the lesson be related to past ex- 
+periences? 
+
+Text 
+
+• Have the students been prepared to com- 
+prehend the text? 
+
+• Do preview and review activities for some 
+students need to be provided? 
+
+
+
+ERIC 
+
+
+
+33'} 4 
+
+
+
+Indians Nations At Risk: Solutions for tlie 1990s 
+
+
+
+Lesson Activities 
+
+* Are the lessons designed to include peer 
+interaction? 
+
+* Do^elessonsplacethe language in mean- 
+ingful context? 
+
+* Have activities been included that will 
+check for understanding? 
+
+FoUow-up 
+
+* Do the follow-up activities help to apply, 
+reinforce, practice, or extend what has 
+been taught? 
+
+* Do the activities address the students' 
+skills, interests, and talents? 
+
+By addressing the questions outlined above, the 
+teacher will be able to meet the needs of students 
+while simultaneously providing a rich learning 
+environment. 
+
+References 
+
+A<iher, J. (1982). Learning another language 
+through actions: The complete teacher's 
+guidebook. Los Gatos, CA: Sky Oaks Produc- 
+tions, Inc. 
+
+Bailystok, E. B. CSTS). A theoretical model of 
+second language learning. Language Learning, 
+28, 69-83. 
+
+Brown, G. (1986). Cross cultural self concept: The 
+best of both worlds. Selected papers from the 
+1986 MOKAKIT Conference. Vancouver, B.C.: 
+MOKAiaT Indian Education Research As- 
+sociation. 
+
+Brown, R. D. (If. 73). A first language: The early 
+stages. Cambridge, MA: Harvard University 
+Press. 
+
+Buckley, M. H. (1986, April). When teachers decide 
+to integrate the language arts. Language Arts, 
+63. 
+
+Bums, M. (1981, September). Groups of four: Solv- 
+ing t)ie management problem. Learning, 46-51. 
+
+Carroll, P. L., and Eisterhold, J. (1983, December). 
+Schema theory and ESL reading pedagogy. 
+TESOL Quarterly. 
+
+Chamot, A. U. (1985). English language develop- 
+ment through a content-based approach. Issues 
+in English Language Development. Rosslyn, 
+VA: National Clearinghouse for Bilingual 
+Education. 
+
+Chamot, A. U. et al. (1985, April). School Science 
+for Limited English Proficient Children. 
+FOCUS: National Clearinghouse for Bilingual 
+Education. 
+
+
+
+Chomsky, N. (1965). Aspecto of the theory of syntax. 
+Cambridge, MA: The MIT Press. 
+
+Cooper, J. D. (1986). Improving reading com- 
+prehension. Boston: Houghton Mifflin Com- 
+pany. 
+
+Cummins, J. (1981). The role of primaiy language 
+development in promoting educational success 
+for language minority students. Schooling and 
+Language Minority Students: A Theoretical 
+Framework. Los Angeles: Evaluation, Dissemi- 
+nation, and Assessment Center, California 
+State University. 
+
+Derwing, B. L. (1971). Transformational grammar 
+as a theory of language acquisition. Cambridge, 
+MA: Cambridge University Press. 
+
+Enright, D. S., and MsCloskey, M. L. (1988). In- 
+tegrating English. Reading, MA: Addison-Wes- 
+ley. 
+
+Fox, S. (1988). A whole language approach to the 
+communication skills. Teaching the Native 
+American. Hap Gilliland (Ed.). Billings, MT: 
+Council for Indian Education. 
+
+Fox, S. (1990). Literacy for the American Indian: A 
+case study in the intergenerational transfer of 
+cognitive skills. Applied Behavior and Cogni- 
+tive Sciences, Inc. Thomas Sticht (Ed.). 
+
+Fox, S. (1986). The whole language approach to 
+language arts for the Indian student. Teaching 
+the Indian Child: A Bilingual Multicultural 
+Approach. Jon Reyhner (Ed.). Eastern Mon- 
+tana College, Billings, MT. 
+
+Hunter, M. (1982). Mastery teaching. Tip Publica- 
+tions. 
+
+Groodman, K (1986). What's whole in whole lan- 
+guage! Portsmouth, NH: Heinemann Educa- 
+tional Books. 
+
+Higgs, T. V. (1985). Language acquisition and lan- 
+guage learning: A plea for syncretism. Modern 
+Language Journal, 3. 
+
+Indian Nations At Risk: Eastern Regional Public 
+Hearing. (1990, October 2). (Unpublished raw 
+data). Cherokee, NC. 
+
+Indian Nations At Risk: Great Lakes Regional 
+Hearing. (1990, September 20). (Unpublished 
+raw data). St. Paul, MN. 
+
+Indian Nations At Risk: High Plains Regional 
+Public Hearing. (1990, August 20). (Un- 
+published raw data). Billings, MT. 
+
+Indian Nations At Risk: Northwest Regional Hear- 
+ing. (1990, September 5). (Unpublished raw 
+data). Seattle, WA 
+
+Indian Nations At Risk: Plains Regional Public 
+Hearing. (1990, September 17-18). (Un- 
+published raw data). Oklahoma City, OK. 
+
+
+
+34 
+
+
+
+Reading and Language ArU 
+
+
+
+Indian Nations At Risk: Southwest Region. (1990, 
+September 12). (Unpublished raw data). 
+Phoenix, AZ. 
+
+Indian Nations At Risk: Summaries of 18 issues 
+sessions. (1990, October). NIEA 22nd Annual 
+Conference, INAR/NACljS joint issues sessions. 
+San Diego, CA. 
+
+Indian Nations At Risk: Si\mmary of issues and 
+recommendations from regional hearings. 
+(1990). (Unpublished raw data). 
+
+Indian Nations At Risk Task Force: Alaskan Hear- 
+ing. ( 1990, July 16- 18). (Unpublished raw data). 
+Juneau, AK. 
+
+Johnson, D. W., Johnson, R. T., Johnson, E., and 
+Roy, P. (1984). Circles of learning cooperation 
+in the classroom. Association for Supervision 
+and Curriculum Development: Washington, 
+D.C. 
+
+Kaplan, R. B. (1966). Cultural thought patterns in 
+intercultural education. Language Learning, 
+16, 1-20. 
+
+Krashen, S. D. and Terrell, Trapy D. (1983). Lan- 
+guage acquisition in the classroom. San Fran- 
+cisco: Pergamon/Alemany Press. 
+
+Krashen, S. D. (1981). Bilingual education and 
+second language acquisition theory. Schooling 
+and Language Minority Students: A Theoretical 
+Framework. Los Angeles: Evaluation, Dissemi- 
+nation, and Assessment Center, California 
+State University. 
+
+Krashen, S. D. (1982). Principles and practice in 
+second language acquisition. New York: Ox- 
+ford/Pergamon. 
+
+Krashen, S. (1981). Second language acquisition 
+and second language learning. Oxford: Per- 
+gamon Press. 
+
+Leap, W. (1979). American Indian English and its 
+implications for bilingual education. In Interna- 
+tional Dimensions of Bilingual Education. 
+Alatis, J., (Ed). Washington, D. C: Georgetown 
+University Press. 
+
+Lindfors, J. W. (1980). Children's language and 
+learning. Englewood Cliffs, N.J. : Prentice Hall, 
+Inc. 
+
+Maring, G. H., Furman, G. C, and Blum-Ander- 
+son, J. (1985, December). Five cooperative 
+learning strategies for mainstreamed 
+youngsters in content area classrooms. The 
+Reading Teacher, 39, 310-313. 
+
+
+
+Ovando, C. J. and ColUer. V. P. (1985) BUingual 
+and ESL claasrooma: Teaching in muUicul' 
+iural contextt. New York: McGraw Hill. 
+
+Pearson and Spiro. (1982, May). The new buzz 
+word in reading is schema. Instructor. 
+
+Savignon, S. J. ( 1983). Communicative competence: 
+Theory and classroom practice. Reading, MA: 
+Addison-Wesley Publishing Go. 
+
+Saville-Troike, M. (1984, June). What really mat- 
+ters in second language learning for academic 
+achievement? TESOL Quarterly. 
+
+Slobin, D.L (1973). Ptycholinguistics. Glenview, 
+IL: Scott, Foresman. 
+
+Winitz, H. (Ed.). (1981). The comprehension ap- 
+proach to foreign language instruction. Rowley, 
+MA: Newbury House Publi^ers. 
+
+About the Author 
+
+Gerald L. "Jerry* Brown (Salish-Kootenai- 
+Siouz) works as an education specialist with Inter- 
+face Network) Inc. in Beaverton, Oregon. 
+Interface, the contractor for this commissioned 
+paper, is a private consulting firm which provides 
+educational and management s^drvices to clients in 
+private and public sector oiganizations at the na- 
+tional, state, and local levels. Corporate head- 
+quarters for Interface is located at 4800 S.W. 
+Griffith Drive, Suite 202, Beaverton, Oregon 97005 
+with an office in Andiorage, Alaska. Interface has 
+been a leader in developing materials and training 
+capability for school districts with linguistically 
+and culturally diverse populations. Its teacher 
+training series, Xlassrooms Without Borders," 
+was used as a basis for this paper. 
+
+Jerry Brown's focus on reading and languages 
+arts skills of American Indian and Alaskan natives 
+began with his employment with the Bureau of 
+Indian Affairs Torreon Boarding Sdiool in New 
+Mexico in the early 1960*8. He has developed 
+materials designed to bridge the gap between the 
+academic language of the K-12 curriculum found 
+in most schools and the culture, language, and 
+discourse patterns of Native students. Since 1982, 
+Jerry has provided inservice training to teachers, 
+administrators, parents, and others in bilingual 
+education and equity education with emphasis on 
+assisting students to access the educational oppor- 
+tunities available to them. 
+
+
+
+35 
+
+
+
+END 
+
+U.S. Dept. of Education 
+
+Office of Educational 
+Research and Improvement (OERI) 
+
+
+
+ERIC 
+
+Date Filmed 
+August 8, 1992 
+
+ERIC 
+
+
+

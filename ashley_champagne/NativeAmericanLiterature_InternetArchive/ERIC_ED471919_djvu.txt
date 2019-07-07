@@ -1,0 +1,1299 @@
+DOCUMENT RESUME 
+
+
+
+ED 471 919 
+
+
+
+RC 023 774 
+
+
+
+AUTHOR 
+
+TITLE 
+
+INSTITUTION 
+SPONS AGENCY 
+REPORT NO 
+PUB DATE 
+NOTE 
+
+CONTRACT 
+AVAILABLE FROM 
+
+PUB TYPE 
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+Bush, William S. 
+
+Culture and Mathematics: An Overview of the Literature with a 
+View to Rural Contexts. Working Paper. 
+
+Ohio Univ., Athens. 
+
+National Science Foundation, Arlington, VA. 
+
+WP-2 
+
+2002 - 10-00 
+
+23p.; Produced by the Appalachian Collaborative Center for 
+Learning, Assessment and Instruction in Mathematics. 
+NSF-0119679 
+
+For full text: http://kant.citl.ohiou.edu/ACCLAIM/ 
+rc/rc_sub/pub/3_wp/BB_WPl .pdf. 
+
+Information Analyses (070) 
+
+EDRS Price MFOl/PCOl Plus Postage. 
+
+Cognitive Style; Comparative Education; Cultural Context; 
+*Cultural Differences; ^Cultural Influences; Culturally 
+Relevant Education; Elementary Secondary Education; Ethnic 
+Groups; *Ethnomathematics ; Mass Media Effects; ^Mathematics 
+Achievement; ^Mathematics Education; Parent Attitudes; Parent 
+Influence; Rural Education; Social Influences; Student 
+Attitudes; Teacher Attitudes 
+Situated Learning 
+
+
+
+ABSTRACT 
+
+This paper summarizes the literature and research on the 
+relationships between culture and mathematics. Ethnomathematics examines the 
+ways that different cultural groups use mathematics. Various definitions of 
+ethnomathematics are presented, along with a framework covering areas of 
+mathematics and mathematics education included in the term. Summaries and 
+sample writings are offered for each of these areas: the cultural nature of 
+mathematics, mathematical thought in different cultures, cultural history of 
+mathematics, politics of mathematics, mathematics learning in different 
+cultures, situated cognition including language and bilingualism, societal 
+effects of mathematics education, and relationships between ethnomathematics 
+and mathematics education. In addition, research is cited on the effects of 
+culture on mathematics achievement, focusing on the transmission of cultural 
+influences via popular media, parents, teachers, and students* own beliefs 
+and attitudes. Examples of cultural influences on mathematics achievement are 
+offered for Asian American, African American, Native American, and Hispanic 
+students, as well as students from some foreign cultures. A research agenda 
+for culture and mathematics is outlined that is relevant to understanding how 
+mathematics is situated in a rural setting. (Contains 119 references.) (SV) 
+
+
+
+
+Reproductions supplied by EDRS are the best that can be made 
+from the original document. 
+
+
+
+B 237 7 I ED 471 919 
+
+
+
+Working Paper No. 2 
+
+
+
+
+Appalachian Collaborative Center for Learning, Assessment and Instruction in Mathematics 
+
+Culture and Mathematics: An Overview of the Literature with a View to Rural Contexts 
+William S. Bush 
+University of Louisville 
+October 2002 
+
+
+
+U.S. DEPARTMENT OF EDUCATION 
+Office of Educational Research and Improvement 
+EDUCATIONAL RESOURCES INFORMATION 
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL HAS 
+BEEN GRANTED BY 
+
+
+
+O/fhit 
+
+
+
+/ CENTER (ERIC) 
+
+Q/ihis document has been reproduced as 
+received from the person or organization 
+originating it. 
+
+
+
+
+□ Minor changes have been made to 
+improve reproduction quality. 
+
+
+
+• Points of view or opinions stated in this 
+document do not necessarily represent 
+official OERI position or policy. 
+
+
+
+1 
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+t 
+
+
+
+acclaim’s mission is the cultivation of indigenous leadership capac/fy for the improvement of school 
+mathematics in rural places. The project aims to (1) understand the rural context as it pertains to learning 
+and teaching mathematics and (2) articulate in scholarly works, including empirical research, the meaning 
+and utility of that learning and teaching among, for, and by rural people. 
+
+
+
+
+1 
+
+
+
+2 
+
+
+
+Copyright ® 2002 by the Appalachian Collaborative Center for Learning, 
+Assessment, and Instruction in Mathematics (ACCLAIM). All rights reserved. The 
+Working Paper Series is published at Ohio University, Athens, Ohio by the ACCLAIM 
+Research Initiative. 
+
+
+
+
+OHIO 
+
+UNIVEKSITY 
+
+
+
+ACCLAIM Research Initiative 
+All rights reserved 
+
+
+
+Address; 
+
+
+21 OA McCracken Hall 
+
+
+
+
+Ohio University 
+Athens, OH 45701-2979 
+
+
+Office: 
+
+
+740-593-9869 
+
+
+Fax: 
+
+
+740-593-0477 
+
+
+E-mail: 
+
+
+howleyc@ohio.edu 
+
+
+Web: 
+
+
+http://kant.citl.ohiou.edu/ACCLAIM/index.htm 
+
+
+
+Funded by the National Science Foundation as a Center for Learning 
+and Teaching, ACCLAIM is a partnership of the University of Tennessee 
+(Knoxville), University of Kentucky (Lexington), Kentucky Science and 
+Technology Corporation (Lexington). Marshall University (Huntington, 
+WV), University of Louisville, and Ohio University (Athens, OH). 
+
+
+
+This material is based upon the work supported by the National Science Foundation Under Grant No. 
+0119679. Any opinions, findings, and conclusions or recommendations expressed in this material are 
+those of the author(s) and do not necessarily reflect the views of the National Science Foundation. 
+
+
+
+/A\ 
+
+/RCClfllM 
+
+
+
+
+
+BEST COPY AMIIASU 
+
+
+
+3 
+
+
+
+Culture and Mathematics: An Overview of the Literature with a View to Rural Contexts 
+
+
+
+Much has been written about relationships between culture and mathematics. The writings span a range of 
+topics that include the cultural bases for mathematics, mathematics development in different cultures, the historical 
+culture of mathematics, the effects of culture on mathematics learning and dispositions toward mathematics, and the 
+political effects of mathematics and mathematics education on societies. This paper summarizes the literature and 
+research by discussing major concepts, writers, and tenets; it concludes by offering a research framework for further 
+study of mathematics and culture. 
+
+Ethnomathematics 
+
+Writings about culture and mathematics emerged in the early and late eighties around the concept of 
+ethnomathematics. Ubiratan D’ Ambrosio, a Brazilian mathematician, coined the term and offered one of its earliest 
+definitions: “Ethnomathematics is the way different cultural groups mathematise (count, measure, relate, classify, 
+and infer)” (D’ Ambrosio, 1984). According to D’ Ambrosio, the prefix ethno describes “all of the ingredients that 
+make up the cultural identity of a group — language, codes, values, jargon, beliefs, food and dress, habits, and 
+physical traits.” The term mathematics describes “a broad view of mathematics which includes ciphering, arithmetic, 
+classifying, ordering, inferring, and modeling” (pp. 2-3). Thus, ethnomathematics examines the ways different 
+cultural groups use mathematics (D ’Ambrosio, 1984). 
+
+At about the same time, other writers, including Paulus Gerdes of Mozambique, Marcia Ascher of the 
+United States, and Alan Bishop of England, were conducting cultural research in mathematics and writing about 
+ethnomathematics (Barton, 1996). Much of their work was published primarily in two international mathematics 
+education journals. For the Learning of Mathematics and Educational Studies in Mathematics, with the latter 
+publishing a monograph that Bishop edited. These writers laid important foundations for further writing about 
+culture and mathematics and stimulated a variety of research studies. 
+
+A Problem with Definition 
+
+Since D’ Ambrosio coined the term ethnomathematics, writers, including D’ Ambrosio himself, have 
+struggled with its meaning. A consensus was not evident in these early writings (Barton, 1996; Presmeg, 1998; Vital 
+
+
+
+4 
+
+
+
+1 
+
+
+
+and Skovsmove, 1997). To illustrate, the following definitions of ethnomathematics were offered from 1984 to 
+1996: 
+
+
+
+“The mathematics which is practiced among identifiable cultural groups such as national-tribal societies, 
+labour groups, children of certain age brackets, and professional classes.” (D’Ambrosio, 1985, p. 45) 
+
+“The mathematics implicit in each practice.” (Gerdes, 1 986, p. 10) 
+
+“The study of mathematical ideas of a non-literate culture.” (Ascher and Ascher, 1 986, cited in Barton, 
+1996, p. 209) 
+
+“The codification which allows a cultural group to describe, manage, and understand reality.” 
+(D’Ambrosio, 1987, p. 3) 
+
+“Mathematics ...is conceived as a cultural product which has developed as a result of various activities” 
+(Bishop, 1988, p. 182). 
+
+“The art of explaining, understanding and coping with the socio-cultural and natural environment... The 
+dynamic of this interaction [between the individual and the environment], mediated by communication 
+and the resulting codification and symbol isation, produces structured knowledge which eventually 
+becomes disciplines” (D’Ambrosio, 1990, p. 22, cited in Barton, 1996, p. 208). 
+
+“The study and presentation of mathematical ideas of traditional peoples” (Ascher, 1991, p. 188, cited in 
+Presmeg, 1998, p. 328). 
+
+“The arts or techniques developed by different cultures to explain, to understand, to cope with their 
+environment” (p. 1 1 84, D’Ambrosio, 1992). 
+
+“Any form of cultural knowledge or social activity characteristic of a social group and/or cultural group, 
+that can be recognized by other groups such as ‘Western’ anthropologists, but not necessarily by the 
+group of origin, as mathematical knowledge or mathematical activity” (Pompeu, 1994, p. 3, cited in 
+Presmeg, 1998, p. 328). 
+
+“The mathematics of cultural practice.” (Presmeg, 1 996, p. 3, cited in Presmeg, 1 998, p. 328). 
+
+
+
+As Barton (1996) noted earlier, these definitions pose contrasting views of ethnomathematics — from very 
+
+specific views like those from Ascher, Pompeu, and early D’Ambrosio to very broad views like those of Bishop, 
+
+Gerdes, and late D’Ambrosio. The definitions also show evolution over time, especially with D’Ambrosio, Gerdes, 
+
+and Ascher (Barton, 1 996). Vithal and Skovsmose (1997) and Barton (1 996) both noted that the definitions of 
+
+ethnomathematics offered by D’Ambrosio and Gerdes seemed to broaden over time. 
+
+Vithal and Skovsmose (1997), after an analysis of writings about ethnomathematics, offered a definition 
+
+that attempts to capture the varied dimensions of the concept: 
+
+“Ethnomathematics refers to a cluster of ideas concerning the history of mathematics, the cultural roots of 
+mathematics, the implicit mathematics in everyday settings, and mathematics education” (p. 133). 
+
+
+
+Barton (1996), after reflective analyses of the writings of D’Ambrosio, Gerdes, Ascher, and others, noted 
+that discussions about ethnomathematics were about either mathematics or mathematics education. Within each 
+category, he identified four areas of writing. 
+
+
+
+Writings about Ethnomathematics 
+
+
+Mathematics 
+
+
+Mathematics Education 
+
+
+Cultural Nature of Mathematics 
+
+
+Mathematics Learning in Other Cultures 
+
+
+Mathematics Thought in Other Cultures 
+
+
+Situated Cognition including Language and 
+Bilingualism 
+
+
+Cultural History of Mathematics 
+
+
+Societal Effects of Mathematics Education 
+
+
+Politics of Mathematics 
+
+
+Relationships between Mathematics and 
+Mathematics Education 
+
+
+
+Proceeding from this analysis, he offered an alternative definition of ethnomathematics that attempts to 
+capture these categories and areas: 
+
+“Ethnomathematics is a research programme of the way in which cultural groups understand, 
+articulate and use the concepts and practices which we describe as mathematical, whether or 
+not the cultural group has a concept of mathematics” (p. 214). 
+
+According to Barton, this definition implies that “(a) ethnomathematics is not a mathematical study, it is more like 
+
+anthropology or history; (b) the definition itself depends on who is stating it, and it is culturally specific; (c) the 
+
+practice which it describes is also culturally specific; and (d) ethnomathematics implies some form of relativism for 
+
+mathematics” (p. 215). Barton also provided a framework for research on culture and mathematics, which will be 
+
+shared later in the paper. 
+
+Culture, Mathematics, and Mathematics Education 
+
+Using Barton’s (1996) areas of ethnomathematics as a framework, we will offer a brief summary and 
+sample writings within each area. Barton identified many of these writings; we have included other and more recent 
+work. 
+
+Culture and Mathematics 
+
+The cultural nature of mathematics. At the heart of the cultural nature of mathematics is the nature of 
+mathematics itself. According to Dossey (1992), mathematicians do not agree on the nature of mathematics. One of 
+
+
+
+
+ILl 
+
+
+
+the primary issues is whether mathematics is “external” or “internal” to the person. The debate can be traced back to 
+the days of Plato, an externalist, and Aristotle, an internalist (Dossey, 1992). This argument is pertinent to the 
+relationship of culture and mathematics in that internalists see connections between mathematics and culture while 
+externalists see mathematics as culture free. Alan Bishop (1976, 1983, 1986, 1988), one of the early writers about 
+culture and mathematics, believes that mathematics is “a cultural product which has developed as a result of various 
+activities.” This “cultural product” includes counting, locating, measuring, designing, playing, and explaining. 
+Stigler and Baranes (1988) also view mathematics as “an assemblage of culturally constructed representations and 
+procedures for manipulating these procedures” (p. 258). These viewpoints certainly suggest an internal view of the 
+nature of mathematics because culture is inherent in persons. Critics of ethnomathematics, like Barrow (1992), 
+Chevallard (1990), and Penrose (1989) tend to be externalists. 
+
+Mathematical thought in other cultures. This research includes extensive anthropological work on the 
+mathematical thought of different peoples throughout the world. The focus here is on the intuitive mathematics 
+thinking that has developed in largely undereducated cultures. According to Barton (1994), these studies include 
+work by Harris (1991) with aborigines in Australia, by Gay and Cole (1967) with the indigenous people of Liberia, 
+by Pixten (1987) and Ascher (1991) with Native Americans in North America, by Kyselka (1981) with Pacific 
+Islanders, Carraher (1986) with Brazilian construction foremen, and by Zaslavsky (1973) and Gerdes (1991a, 1991b, 
+1991c) with tribes in Africa. Collectively, this work shows that mathematical thought is developed intuitively and in 
+lieu of formal schooling. 
+
+Cultural history of mathematics. This work attempts to identify the historical mathematical contributions 
+of different cultures across the world. These writers attempt to demonstrate a cultural evolution of mathematics 
+within other cultures. They also address the common belief that most worthwhile mathematics known and used 
+today was developed primarily in the Western world (Europe and North America). D’Ambrosio’s (1980) review of 
+the evolution of mathematics and his call for incorporating ethnomathematics into the history of mathematics 
+(D’Ambrosio, 1985) provide excellent early examples of this work. Other examples include Anderson’s (1990) 
+concept of world mathematics and Frankenstein’s and Powell’s (1989) attempt to redefine mathematics. According 
+to Barton (1996), major works also include Gerdes (1992), Fang and Takayama (1975), Kline (1953), Swetz (1987), 
+and Restivo et al(\ 993). 
+
+
+
+
+4 
+
+
+
+Politics of mathematics. This work attempts to show how mathematics has affected non-academic areas of 
+society. According to Barton (1996), primary works include Bishop’s (1990) essay on the powerful influence of 
+Western mathematics and D’Ambrosio’s (1990) discussion of the role of mathematics in building democratic and 
+just societies. Knijnik’s (1993) research on the political and economic power of mathematics for Brazilian sugar 
+cane farmers offers an interesting addition to this work. Finally, Osmond’s (2000) analysis of employers’ perceived 
+value of mathematics contributes to this area. 
+
+Culture and Mathematics Education 
+
+Culture and mathematics education also have strong relationships. Cultural values affect teaching, 
+learning and curriculum. Formal mathematics teachine. learning, and curriculum can provide a reflection of 
+culture. Clearly, mathematics education can affect the political and social dynamics of a culture. 
+
+Mathematics Learning in Other Cultures. These writings focus on the importance of using a culturally 
+specific context in teaching and learning mathematics. The literature might include (a) using relevant cultural 
+examples from students’ culture or (b) exposing students to a variety of cultural contexts (multicultural ism). 
+Examples of the first category include Nelson-Barber and Estrin (1995) and Bradley (1984), who provide insights 
+into revising mathematics teaching and curricula to capture the traditions and culture of Native Americans; Gerdes 
+(1988b, 2001), who offers suggestions for using African art and games in elementary classrooms; Malloy (1997), 
+who provides suggestions for improving mathematics instruction for African American students; and Flores (1997), 
+who provides suggestions for instructional strategies and materials for Hispanic students. Examples of the second 
+category include articles by Becker and Jacobs (1997), Thomas (1997) and Davidson and Kramer (1997) in the 1997 
+NCTM Yearbook (Trentacosta and Kenney, 1997). Other examples include Zaslavsky’s (1991, 1998) suggestions 
+for integrating eth nomathematics in middle school and elementary classrooms, Karp’s (1994) use of multicultural 
+children’s literature for teaching mathematics, Dolinko’s (1997) use of flags in instruction, and Yao’s (1984) 
+suggestions for multicultural teaching. 
+
+Situated cognition including language and bilingualism. Research in this area focuses on culture’s 
+influence in learning mathematics. In situated cognition, the mathematics that is learned is generally not the 
+formalized, codified mathematics learned in school, but the intuitive mathematics needed for specific tasks. Barton 
+(1996) offers several examples of this type of research: Saxe’s (1988) study of Brazilian candy vendors, Carraher’s 
+
+
+
+
+5 
+
+
+
+(1985, 1989) work with illiterate Brazilians, Lancy’s (1983) work with the Kewa of Papua New Guinea, Schribner’s 
+(1984) work with dairy farmers in the United States, Lave’s (1988) study of American shoppers, and Masingila’s 
+(1992) study of carpet layers provide a variety of examples of this research. The analysis of children’s different 
+written and oral uses of arithmetic by Reed and Lave (1981) also fits into this category. 
+
+Another area in this category is the effect of bilingualism on mathematics learning. Significant research and 
+discussions can be found in Austin and Howson (1979), Clarkson and Galbreath (1992), Cuevas (1984), Cathcart 
+(1980, 1982), and Khisty (1997). In related studies, Moore (1994) points to differences in the mathematical language 
+of Native Americans and the English language of mathematics. The work of Geary et al (1996) examining the 
+advantages of the Chinese language for learning early number concepts also fits in this category. 
+
+Societal effects of mathematics education. Barton (1996) uses Gerdes’s analyses of the societal effects of 
+the mathematics education reformation in Mozambique (Gerdes, 1981, 1985) as examples in this category. Vithal 
+and Skovsmose (1997) provide a similar analysis of the role of mathematics education in social changes within 
+South Africa. Frankenstein (1997) suggests a critical mathematics pedagogy and curriculum, based on the critical 
+education theory of Frerior (1978), to help students understand how mathematics can serve as a mechanism to create 
+and reveal power and oppression. The Mathematics and Society curriculum that includes the social institution of 
+mathematics offered by Abraham and Bibby (1988) provides an excellent example of the writing in this area. 
+Stanic’s (1989) call for the elimination of cultural discontinuity and social inequality in classrooms also addresses 
+this issue directly. 
+
+Relationships between mathematics and mathematics education. According to Barton (1996), Borba’s 
+(1990), D’Ambrosio’s (1999), and Vithal’s (1992) theoretical discussions about ethnomathematics and curriculum 
+fit this category. Presmeg’s (1998) strategy for bringing ethnomathematics into teacher preparation programs clearly 
+fits into this category. Walker’s and McCoy’s (1997) study of the relationships between African Americans’ 
+perception of mathematics and their motivation to learn mathematics is a recent example of this work. 
+
+Effects of Culture on Mathematics Achievement 
+
+Over the past twenty years, researchers in mathematics education have sought to understand how cultural 
+differences affect students’ performance in mathematics and their dispositions toward the subject. The research 
+methodologies for these studies have been generally comparative; researchers attempted to identify cultural factors 
+
+
+
+6 
+
+
+
+9 
+
+
+
+
+that might explain differences in mathematics achievement and attitudes. These studies investigated cultural 
+differences across three general groups: (a) students from different countries (usually Asian nations and the United 
+States); (b) students from different racial or ethnic groups (Asian American, African Americans, Native Americans, 
+Hispanic American, and Caucasian Americans); and (c) males and females. This body of research has revealed four 
+general cultural factors that seem to affect mathematics performance and dispositions: (a) parent attitudes, values, 
+and beliefs; (b) teacher attitudes, values, and beliefs; (c) student perceptions and beliefs; and (d) language. These 
+factors will serve as the organizing structure to review the research in the area. 
+
+Influence of the Popular Media 
+
+Leder (1992) suggests that societal influences on beliefs about gender differences in mathematics can be 
+assessed through an analysis of media. She comments, “The important role played by the media in shaping ideas and 
+attitudes, as well as reflecting and reinforcing popular beliefs, is widely recognized” (p. 612). She reports that Jacobs 
+and Eccles (1985) found parents* beliefs about gender differences in mathematics could be shaped by the media. In 
+an analysis of media reports, she found that the media promoted a stereotypical view of male roles in mathematical 
+careers and tasks (Leder, 1984, 1986). Similarly, Malloy (1997) suggested that the media’s emphasis on 
+achievement gaps leads to stereotyping among African American parents, teachers, and students about students* 
+ability to do mathematics. 
+
+Influence of Parents 
+
+Across all types of comparative studies — international, race/ethnic, and gender — parent expectations 
+have strong effects on student performance and attitudes. As Leder (1992) has reported, Armstrong and Price (1982) 
+and Lantz and Smith (1981) found that students* attitudes and aspirations toward mathematics were linked to their 
+parents* educational goals with regard to school mathematics. In comparing Chinese and American parents, 
+Stevenson (1987) noted that Asian parents generally believed that any child is capable of learning, but American 
+parents placed more emphasis on innate ability. He also noted that American parents believed reading to be more 
+important than mathematics, while Asian parents believe that mathematics and reading were equally important. In 
+addition, a large body of research indicated that Asian parents emphasized effort as the key to success in school 
+
+
+
+7 
+
+
+
+X 
+
+
+
+more than parents from other ethnic or racial groups (Holloway, 1988; Mizokawa & Ryckman, 1990; Hess, Chang, 
+and McDevitt (1987); Lee, Ichikawa and Stevenson, 1987; Tuss, Zimmer, and Ho, 1995). 
+
+Studies comparing Asian American students with Caucasian American students identified similar parental 
+effects, although enculturation in the United States seemed to have lessened the cultural effects slightly. Chen and 
+Stevenson (1995) found that parents of Asian American students held higher standards of achievement, believed 
+effort was critical to success, and had more positive attitudes about achievement and studying diligently than their 
+Caucasian American counterparts. Sue and Okazaki (1990) found that Asian American parents were more likely to 
+insist on unquestioned obedience. Kao (1995) found that Asian American parents invested more in educational 
+resources than their American counterparts. Hutsinger and Jose (1995) explored relationships among mothers, 
+fathers, and daughters in Chinese American and Caucasian American families as they solved spatial tasks together. 
+They also found that Chinese Americans were more respectful, more serious, and more orderly, and Caucasian 
+Americans were more sociable, more talkative, and used more humor in solving the tasks. Furthermore, Chinese 
+American parents talked less to themselves and more to their daughters, whereas Caucasian American parents talked 
+more to each other. 
+
+In comparing parents of African American, Caucasian American, Hispanic American, and Asian American 
+students, researchers have noted that mothers in all groups had equally high expectations for their children 
+(Alexander and Entwisle, 1988; Stevenson, Chen, & Uttal, 1990; Galper, Wigfield, & Seefeldt, 1997). African 
+American parents, however, reflected ambivalent and often contradictory values about education to their children 
+(Alsalam, 1991). Hispanic American parents were less confident that their children would get a good education or 
+job after formal schooling (Galper et al., 1997). 
+
+As noted by Nelson-Barber and Estrin (1995), the parenting practices of Native American students tended 
+to contradict traditional schooling practices. Traditional tribal learning emphasizes “watch-then do” or “listen-then 
+do” rather than “trial and error,” which is often emphasized in schools (Swisher and Deyhle, 1989). Brod (1976) also 
+noted the high mobility of Native American families and their limited access to schools as factors in poor 
+mathematics performance. 
+
+
+
+Influence of Teachers 
+
+Higher expectations of student performance is clearly reflected in the differences between middle school 
+mathematics curricula in China and in the United States (Zhonghong and Eggleton, 1995). Mathematics curricula in 
+the United States revealed low expectations for performance, while Chinese mathematics curricula challenged its 
+students. Stigler and Hiebert (1999) also found different teaching routines among Japanese, German, and American 
+teachers. They noted that Japanese teachers challenged students more, introduced more advanced content, and spent 
+more time analyzing and preparing lessons than their German and American counterparts. For Hispanic students, 
+Valverde (1984) noted that school curricula did not reflect the intrinsic, cultural learning of Hispanic students and 
+
+
+
+
+8 
+
+
+
+11 
+
+
+
+that teachers were not prepared to address the cultural differences of Hispanic Americans. Bradley (1984) observed 
+that many Native American students had extensive knowledge of mathematics deeply rooted in their culture and 
+traditions; however, few teachers tapped into this reservoir of traditional knowledge (Kawagley, 1 990; Pomeroy, 
+1988). 
+
+Leder (1992), in an analysis of research on teacher interactions with male and female students in 
+mathematics classrooms, noted some subtle differences in the interactions. She noted that, in general, males received 
+more criticism and praise, were monitored more frequently, and had more contacts with teachers. She also noted 
+studies that suggested teachers generally supported the notion that mathematics is a male domain (Fennema, 1 990; 
+Leder, 1986). In general, she concluded that the cumulative effects of these interactions and beliefs could have 
+substantial impact on the ways females view their potential in mathematics. 
+
+Influence of Students’ Own Beliefs and Attitudes 
+
+Students* beliefs and attitudes can be viewed as a product of their cultural heritage and, to a large extent, an 
+extension of parental beliefs and attitudes. It is not surprising, then, that research reveals similar differences across 
+types of students. Despite poorer performance on most measures of mathematics achievement, American children 
+were more optimistic about their performance and future in mathematics (Stevenson, 1987) and Hispanic students 
+had high aspirations for rewarding careers than Asian students (Anderson and Johnson, 1971 ; Espinoza, Fernandez, 
+and Dombusch, 1977; Juarez and Kuvlesky, 1968). Ramirez and Castaneda (1974) found that Hispanic American 
+students tend to be more field dependent than Caucasian American students. Similarly, Malloy (1997, p. 24) 
+concluded, “African American students generally learn in ways characterized by social and affective emphases, 
+harmony with the community, holistic perspectives, field dependence, expressive creativity, and non-verbal 
+communication** (see also Stiff, 1990; Willis, 1992). Malloy (1997) also suggested that school knowledge and 
+cultural knowledge of African Americans sometimes oppose each other. Therefore, African Americans often did not 
+value school knowledge. Through interviews of African American high school students. Walker and McCoy (1997) 
+found that students* perceptions of mathematics were related to familiar surroundings in home, school, and 
+community and that their motivation to learn mathematics was diminished by a variety of factors, such as lack of 
+teacher support and relevance, as well as increased involvement in extracurricular activities. 
+
+
+
+
+5T COPY AVAILABO 
+
+
+
+12 
+
+
+
+Influence of Language 
+
+
+
+Language also seems to affect mathematics performance. For example, Geary and colleagues (1997) found 
+that the language structure of Asian number names assisted Chinese children in developing meaningful early number 
+concepts. Valverde (1984) noted that differences in English and Spanish contributed to Hispanic Americans’ poor 
+performance and involvement in mathematics. Moore (1994) noted that Native American language did not align 
+well with traditional mathematics vocabulary and terms, thereby causing learning problems for Native American 
+students. 
+
+A Research Agenda for Culture and Mathematics 
+
+In keeping with his definition of ethnomathematics as a research program. Barton (1996) outlined a scheme 
+for classifying, analyzing, designing, and reviewing research that focuses on relationships between culture and 
+mathematics. Besides establishing a system for classifying studies of ethnomathematics^ Barton’s scheme also is 
+extremely useful in our attempt to understand how mathematics is situated in a rural setting. 
+
+Barton classifies research in ethnomathematics in three dimensions: time, culture, and mathematics. “On 
+the time dimension, ethnomathematics may be concerned with conceptions of an ancient or a contemporary cultural 
+group” (p. 220). It also may be concerned with historical or contemporary practices of a cultural group. Examples 
+might include research on how early Appalachian settlers used mathematics or on modern-day Appalachian 
+entrepreneurs’ use of mathematics. “The cultural dimension of the definition extends from a distinct ethnic group, 
+to a purely social or vocational group” (p.20). Research on this dimension may focus on African Americans in 
+Appalachia, male teens in Appalachia, or teachers in Appalachia. “The mathematical dimension of 
+ethnomathematics is determined by the relationship of the mathematical ideas to mathematics itself, i.e., 
+ethnomathematics is a study which may be internal to mathematics, or conceptually removed from existing 
+mathematical conventions.” (p. 220). Examples of this dimension might include the varied formal conceptions of 
+mathematics held by Appalachian teachers or the mathematics used by craftsman in Appalachia. The graph in Figure 
+1 (taken from Barton) below describes how these three dimensions might interact. 
+
+
+
+10 
+
+
+
+
+ERIC 
+
+
+
+MAKING SENSE OF ETHNOMATHBMATICS 
+
+
+
+
+In shaping an agenda for research on culture and mathematics in Appalachia, one might consider this 
+structure to define and delineate the parameters for our research. 
+
+
+
+
+11 
+
+
+
+References 
+
+
+
+Abraham, J., & Bibby, N. (1988). Mathematics and society; Ethnomathematics and a public 
+educator curriculum. For the Learning of Mathematics — An International Journal of 
+Mathematics Education, 8,2-11. 
+
+Alexander, K.L., & Entwisle, D.R. (1988) Achievement in the first two years of school: 
+
+Patterns and processes. Monographs of the Society for Research in Child Development, 
+53,2. 
+
+Alsalam, N. (1991). The condition of education 1991: Elementary and Secondary Education, 
+volume 1. Washington, D. C.: National Center for Educational Statistics. 
+
+Anderson, S. E. (1990). Worldmath curriculum: Fighting eurocentrism in mathematics. Journal 
+of Negro Education, 59, 348-59. 
+
+Anderson, J., & Johnson, W. (1971). Stability and change among three generations of Mexican 
+Americans; Factors affecting achievement. American Educational Research Journal, 8, 
+285-309. 
+
+Armstrong, J. M., & Price, R. A. (1982). Correlates and predictors of women’s mathematics 
+participation. Journal for Research in Mathematics Education, 13, 99-109. 
+
+Ascher, M. (1991). Enthnomathematics: A multicultural view of mathematical ideas ^ Pacific 
+Grove, CA: Brooks/Cole Publishing. 
+
+Ascher, M., & Ascher, R. (1986). Ethnomathematics: ’A multicultural view of mathematical 
+ideas. New York: Brooks/Cole. 
+
+Austin, J.L. & Howson, A.G. (1979). Language and mathematical education. Educational 
+studies in Mathematics, 10, 161-97. 
+
+Barton, B. (1996). Making sense of ethnomathematics: Ethnomathematics is making sense. 
+Educational Studies in Mathematics, 31, 201-33. 
+
+Bishop, A. J. (1976). Decision-making the intervening variable. Educational Studies in 
+Mathematics, 7, 41-7. 
+
+Bishop, A. J. (1983). Research on the social context of mathematics education. Wlough, U.K.: 
+NFER-Nelson. 
+
+Bishop, A. J. (1986, October). Mathematics education as cultural induction. Nieuwe Wiskrant, 
+27-32. 
+
+
+
+
+
+
+
+Bishop, A. J. (1988). Mathematics education in its cultural context. Educational Studies in 
+Mathematics, 19, 179-91. 
+
+Bishop, A. J. (1990). The role of mathematics education in building a democratic and just 
+society. For the Learning of Mathematics, 10, 20-3. 
+
+Borba, M. C. (1990). Ethnomathematics in education. For the Learning of Mathematics, \Q, 
+39-43. 
+
+
+
+Bradley, C. (1984). Issues in mathematics education for Native Americans and directions for 
+research. Journal for Research in Mathematics Education, 15, 96-106. 
+
+Brod, R. L. (1976). Major sources of Native American academic underachievement: Evidence 
+against current sociological assessments [paper presented at the meeting of American 
+Association for the Advancement of Science]. Missoula, MT. 
+
+Carraher,T. N., Carraher, D., & Schliemann, A.D. (1985). Mathematics in the streets and in 
+schools. British Journal of Developmental Psychology, 3, 21-29. 
+
+Carraher, T. N. (1986). From drawings to buildings; working with mathematical sacles. 
+International Journal of Behavioral Development, 9, 527-44. 
+
+Carraher, T. N. (1989). Negotiating the results of mathematical computations. International 
+Journal of Educational Research, 13, 637-46. 
+
+Cathcart, W. G. (1980). Comment on Willig’s “A meta-analysis of selected studies in the 
+effectiveness of bilingual education.” Review of Educational Research, 57, 351-62. 
+
+Cathcart, W. G. (1982). Effects of bilingual instructional program on conceptual development 
+in primary school children. Alberta Journal of Educational Research, 28, 31-43. 
+
+Chen, C., & Stevenson, H. W. (1995). Motivation and mathematics achievement: A 
+
+comparative study of Asian-American, Caucasian-American and East Asian high school 
+students. Child Development, 66, 1215-34. 
+
+Chevallard, Y. (1990). On mathematics education and culture: Critical afterthoughts. 
+Educational Studies in Mathematics, v21, 3-27. 
+
+Clarkson, P. & Galbraith, P. (1992). Bilingualism and mathematics learning: Another 
+perspective. Journal for Research in Mathematics Education, 23, 34-44^ 
+
+Cuevas, G. J. (1984). Mathematics learning in English as a second language. Journal for 
+Research in Mathematics Education, 15(2), 134-44. 
+
+
+
+
+13 
+
+
+
+D’Ambrosio, U. (1980). Mathematics and society: some historical considerations and 
+
+pedagogical implications. International Journal of Mathematical Education in Science 
+and Technology, 11, 479-88. 
+
+D’Ambrosio, U. (1984). The intercultural transmission of mathematical knowledge: effects on 
+mathematical education. UNICAMP, Campinas. 
+
+D’Ambrosio. (1985). Ethnomathematics and its place in the history and pedagogy of 
+mathematics. For the Learning of Mathematics, 5, 44-8. 
+
+D’Ambrosio, U. (1987, September). Reflections on ethnomathematics [newletter]. 3. 
+
+D’Ambrosio. U. (1989). A research program and a course in the history of mathematics: 
+ethnomathematics. Historia Mathematica, 16, 285-88. 
+
+D’Ambrosio, U. (1990). The history of mathematics and ethnomathematics. How a native 
+
+culture intervenes in the process of learning science. Impact of Science on Society, 40, 
+369-78. 
+
+D’Ambrosio, U. (1992). Ethnomathematics: A research programme on the history and 
+
+philosophy of mathematics with pedagogical implications. Notices of the American 
+Mathematics Society, 39, 1183-85. 
+
+D’ Ambrosio, U. (1999). In focus... mathematics, history, ethnomathematics and education: A 
+comprehensive program. Mathematics Educator, 9, 34-6. 
+
+Davidson, E., & Kramer, L. (1997). Integrating with integrity: Curriculum, instruction, and 
+culture in the mathematics classroom. In Trentacosta, J., and M. Kenney (eds.). 
+Multicultural and gender equity in the mathematics classroom: The gift of diversity (pp. 
+131-141). Reston, VA: The National Council of Teachers of Mathematics. 
+
+Dolinko, L. (1997). Investigating Flags: A multicultiu-al approach. Teaching Children 
+Mathematics 3, 186-90. 
+
+Dossey, J. A. (1992). The nature of mathematics: Its role and its influence. In D. A. Grouws 
+(ed.). Handbook of Research on Mathematics Teaching and Learning (pp. 39-48). New 
+York, NY: MacMillan. 
+
+Espinoza, R. W., Fernandez, C., & Dombusch, S. M. (1977). Chicano perception of high school 
+and Chicano performance. Aztlan: An international Journal of Chicano Studies 
+[Research] 8, 133-133. 
+
+Fang, J., & Takayama, K. (1975). Sociology of mathematicians and mathematics 
+[prolegomenon]. Hauppauge, NY: Paideia Press. 
+
+
+
+14 17 
+
+o 
+
+
+
+
+Fennema, Elizabeth, et. al. (1990). Using children’s mathematical knowledge in instruction. 
+American Educational Research Journal, 30, 555-83. 
+
+Flores, A. (1997). Si se Puede, “It can be done”; Quality mathematics in more than one 
+
+language. In Trentacosta, J., and M. Kenney (eds.). Multicultural and gender equity in 
+the mathematics classroom: The gift of diversity Reston, VA; The National 
+
+Council of Teachers of Mathematics. 
+
+Frankenstein, M. (1997). In addition to the mathematics: Including equity issues in the 
+
+curriculum. In Trentacosta, J., and M. Kenney (eds.). Multicultural and gender equity in 
+the mathematics classroom: The gift of diversity (pp. 10-22). Reston, VA: The National 
+Council of Teachers of Mathematics. 
+
+Frankenstein, M., & Powell, A. B. (1989). Empowering non-traditional college students: On 
+social ideology and mathematics education. Science & Nature, 100-12. 
+
+Galper, A., Wigfield, A., & Seefeldt, C. (1997). Head start parents’ beliefs about their 
+children’s abilities, task values and performances on different activities. Child 
+Development, 68, 897-907. 
+
+Gay, J., & M, Cole. (1967). The new mathematics in an old culture: A study of learning among 
+the Kpelle of Liberia. New York, NY; Holt, Rinehart and Winston. 
+
+Geary, D. C., Bow-Thomas, C. C., Liu, F., & Stigler, R. S. (1996). Development of arithmetic 
+computation in Chinese and American children: Influence of age, language, and 
+schooling. Child Development, 67, 2022-2044. 
+
+Gerdes, P. (1981). Changing mathematics education in Mozambique. Educational Studies in 
+Mathematics, 12, 455-77. 
+
+Gerdes, P. (1985). Conditions and strategies for emancipatory mathematics education in 
+underdeveloped countries. For the Learning of Mathematics, 15-20. 
+
+Gerdes, P. (1986). How to recognize hidden geometrical thinking; A contribution to the 
+
+development of anthropological mathematics. For the Learning of Mathematics, 10-2, 
+17. 
+
+Gerdes, P. (1988a). On culture, geometrical thinking, and mathematics education. Educational 
+Studies in Mathematics, 1, 33-53. 
+
+Gerdes, P. (1988b). A widespread decorative motif and the Pythagorean theorem. For the 
+Learning of Mathematics, 8, 35-9. 
+
+Gerdes, P. (1988c). On possible uses of traditional Angolan sand drawings in the mathematics 
+classroom. Educational Studies in Mathematics, 19, 3-22^ 
+
+
+
+
+15 
+
+
+
+1 
+
+
+
+Gerdes, P. (1991a). Lusona: Geometrical recreations of Africa^ African Mathematical Union 
+and Higher Pedagogical Institute’s Faculty of Sciences. Maputo, Mozambique. 
+
+Gerdes, P. (1991b). Lusona: Geometrical Recreations of Africa. Maputo: Eduardo Mondlane 
+University Press. 
+
+Gerdes, P. (1991c). Exploration of the mathematical potential of SON A: An example of 
+
+stimulating cultural awareness in mathematics teacher education [proceedings eighth 
+symposium of the Southern Africa Mathematics Science Association]. Maputo 
+
+Gerdes, P. (1992). On the history of mathematics in Africa South of the Sahara [AMUCHMA 
+newsletter]. Higher Pedagogical Institue, 9, 3-32. 
+
+Gerdes, P. (2001). Exploring the game of “Julirde”: A mathematical educational game played 
+by Fulbe Children in Cameroon. Teaching Children Mathematics, 7, 321-27. 
+
+Harris, P. (1991). Mathematics in a cultural context. Australia: Deakin University. 
+
+Hess, R.D., Chang, C. & McDevitt, T.M. (1987). Cultural variations in family beliefs about 
+children’s performance in mathematics: Comparisons among People’s Republic of 
+China, Chinese-American & Caucasian-American families. Journal of Educational 
+Pyschology, 79, 179-88. 
+
+Holloway, S. (1988). Concepts of ability of effort in Japan and the United States. Review of 
+Eductional Research, 58, 327-45. 
+
+Hutsinger, C. S. & Jose, P. E. (1995). Chinese American and Caucasian American Family 
+
+Interaction Patterns in Spatial Rotation Puzzles Solutions. Merrill-Palmer Quarterly, 41, 
+471-96. 
+
+Jacobs, J. E., & Becker, J. R (1997). Creating a gender-equitable multicultural classroom using 
+feminist pedagogy. In Trentacosta, J., and M. Kenney (eds.). Multicultural and gender 
+equity in the mathematics classroom: The gift of diversity (pp. 107-14). Reston, VA: 
+
+The National Council of Teachers of Mathematics. 
+
+Jacobs, J.E., & Eccles, J.S. (1985). Gender differences in math ability: The impact of media 
+reports on parents. Educational Researcher, 14,20-24. 
+
+Juarez, R. Z., & Kuzlevsky, W. P. (1968). Ethnic group identity and orientations toward 
+
+educational attainment: A comparison of Mexican American and Anglo boys [paper 
+presented at the meeting of the Southwestern Sociological Association, Dallas]. 
+
+Kao, G. (1995). Asian Americans as model minorities? A look at their academic performance. 
+American Journal of Education, 103, 121-59. 
+
+
+
+16 19 
+
+er|c 
+
+
+
+Karp, K. (1994). Telling tales: Creating graphs using multicultural literature. Teaching 
+Children Mathematicsl, 87-91. 
+
+Kawagley, O. (1990). Yup’ ik ways of knowing. Canadian Journal of Native Education, 17, 5- 
+17. 
+
+Khisty, L. L. (1997). Making mathematics accessible to Latino students: Rethinking 
+
+instructional practice. In Trentacosta, J., and M. Kenney (eds.). Multicultural and gender 
+equity in the mathematics classroom: The gift of diversity (pp. 92-101). Reston, VA: 
+
+The National Council of Teachers of Mathematics, Inc. 
+
+Kline, M. (1953). Mathematics in western culture. Oxford, England: Oxford University Press. 
+
+Knijnik, G. (1993). An ethnomathematical approach in mathematical education: a matter of 
+
+political power. For the Learning of Mathematics, 13,2. Vancouver, British Columbia, 
+Canada: FLM Publishing Association. 
+
+Kyselka. {1991). An ocean in mind. Honolulu, Hawaii: University of Hawaii Press. 
+
+Lancy, D. (1983). Cross-cultural studies in cognition and mathematics. New York: Academic 
+Press. 
+
+Lantz, A. E., & Smith, G.P. (1981). Factors influencing the choice of non required mathematics 
+courses. Journal of Educational Psychology, 73, 825-37. 
+
+Lave, J. 1988). Cognition in practice: Mind, mathematics, culture in everyday life. Cambridge: 
+Cambridge University Press. 
+
+Leder, G. C., & Clarkson, P. (1984). Casual attributions for success and failure in mathematics: 
+A cross cultural perspective. Educational Studies in Mathematics, 15,413-22. 
+
+Leder, G. C. (1986). Gender linked differences in mathematics learning: Further exploration 
+Paper presented to the NCTM 64* annual meeting. Washington, D. C. 
+
+Leder, G. C. (1992). Mathematics and gender: Changing perspectives. In D. A. Grouws (ed.). 
+Handbook of Research on Mathematics Teaching and Learning (pp.39-48). New York, 
+NY: MacMillan. 
+
+Lee, S., Ichikawa, V. & Stevenson, H.W. (1987). Beliefs and achievement in mathematics and 
+reading: A cross-national study of Chinese, Japanese and American children and their 
+mothers. Advances in Motivation and Achievement: Enhancing Motivation, 5, 149-179. 
+
+Malloy, C. E. (1997). Including African American students in the mathematics community. In 
+Trentacosta, J., and M. Kenney (eds.). Multicultural and gender equity in the 
+mathematics classroom: The gift of diversity (pp. 23-33). Reston, VA: The National 
+Council of Teachers of Mathematics, Inc. 
+
+
+
+
+17 
+
+
+
+20 
+
+
+
+Masingila, J. O. (1992). Mathematics practice and apprenticeship in carpet laying; Suggestions 
+for mathematics education [Doctoral dissertation, Indiana University]. Dissertation 
+Abstracts International, 53, 1833A. 
+
+Mizokawa, D. T., & Ryckman, D. B. (1990). Attributions of academic success and failure: A 
+comparison of six Asian-American ethnic groups. Journal of Cross-Cultural 
+Psychology, 21, 434-51. 
+
+Moore, Charles G. (1994). Research in Native American mathematics education. For the 
+Learning of Mathematics, 14, 9-14. 
+
+Nelson-Barber, S., & Estrin, E. (1995). Culturally responsive mathematics and science 
+education for native students. San Francisco, CA; Far West Laboratory 
+
+Osmond, R. (2000). The importance of mathematics to employers. TeachingJAathematics and 
+Its Applications, 19, 50-5. 
+
+Penrose, R. (1989). The emperor ’s new mind: Concerning computers, minds and the laws of 
+physics. Oxford, England; Oxford University Press. 
+
+Pixten, R. (1987). Navajo Indian geometry. Belgium: Communications and Cognition. 
+
+Pomeroy, D. (1988). A comparative analysis ofYup ’ik and western ways of acquiring 
+knowledge in the sciences paper]. Fairbanks: University of Alaska. 
+
+Pompeu. (1994). Newsletter of the international study group on ethnomathematics, 9(2), 3. 
+
+Presmeg, N.C. (1996a. July). Ethnomathematics and academic mathematics: The didactic 
+interface [paper presented in working group 21]. The Teaching of Mathematics in 
+Different Cultures, Eighth International Congress on Mathematical Education. Seville, 
+Spain. 
+
+Presmeg, N.C. (1998). Ethnomathematics in teacher education. Journal of Mathematics 
+Teacher Education, 1, 317-39. 
+
+Ramirez, M., & Castaneda, A. (1974). Cultural democracy, bicognitive development, and 
+education. New Y ork, NY : Academic Press. 
+
+Reed, H. J., & Lave, J. (1981). Arithmetic as a tool for investating relations between culture and 
+cognition. Language, Culture and Cognition: Anthropological Perspectives [R.W. 
+Casson edition], 437-455. 
+
+Restivo, S. A., Van Bendegem, J. P., & Fischer, R. (1993). Math worlds: philosophical and 
+social studies of mathematics and mathematics education. Albany, NY; State 
+University of New York Press. 
+
+
+
+
+18 
+
+
+
+21 
+
+
+
+Saxe, G. B. (1988). The mathematics of child street vendors. , 59, 415-25. Child Development 
+
+Schribner, S. (1984). ‘Studying work intelligence’. Everyday cognition: Its development I 
+
+social context. In B. Rogoff and J. Lave (eds.), London, England: Harvard University 
+Press.). 
+
+
+
+Skovsmose, V. (1997). Toward a philosophy of critical mathematical education. Dordrecht: 
+Kluwer Academic Publishers. 
+
+Stanic, G. M.A. (1989). Social inequality, cultural discontinuity and equity in school 
+mathematics. Peabody Journal of Education, 66, 57-71. 
+
+Stanley, S. & Okazaki, S. (1990). Asian- American educational achievements: A phenomenon 
+in search of an explanation. American Psychologist, 45, 913-20. 
+
+Stevenson, H. (1987). America’s math problems. Educational Leadership, 45, 4-10. 
+
+Stevenson, H. W., Chen, C. & Uttal, D.H. (1990). Beliefs and achievement: A study of Black, 
+White and Hispanic children. Child Development, 61, 508-523. 
+
+Stigler, J. W. & Baranes, R. (1988). Culture and mathematics learning. Review of Research in 
+Education, 15, 253-306. 
+
+Stigler, J. W. & Hiebert, J. (1999). The teaching gap: Best ideas from the world’s teachers for 
+improving education in the classroom. New York: Free Press. 
+
+Swetz, F. J. (1987). Capitalism and arithmetic: The new math of the 15* century. LaSalle, 
+Illinois: Open Court. 
+
+Swisher, K., & Deyhle, D (1989). The styles of learning are different, but the learning is just the 
+same: Suggestions for teachers of American Indian youth [special issue]. Journal of 
+American Indian Education, 28, 1-13. 
+
+Thomas,!. (1997). Teaching mathematics in a multicultural classroom: Lessons from 
+
+Australia. In Trentacosta, J., and M. Kenney (eds.). Multicultural and gender equity in 
+the mathematics classroom: The gift of diversity (pp. 34-45). Reston, VA: The National 
+Council of Teachers of Mathematics, Inc. 
+
+Trentacosta, J., & Kenney, M. (1997). Multicultural and gender equity in the mathematics 
+classroom: The gift of diversity]. Reston, Va: National Council of Teachers 
+Mathematics. 
+
+Tuss, P., Zimmer, & Ho .(1995). Casual attributions of underachieving fourth grade students in 
+China, Japan and the United States. Journal of Cross-cultural Psychology, 26, 408-25. 
+
+
+
+
+19 
+
+
+
+22 
+
+
+
+Valverde, L. A. (1984). Underachievement and underrepresentation of Hispanics in 
+
+mathematics and mathematics related careers. Journal for Research in Mathematics 
+Education, 15, 123-33. 
+
+Vithal, R., & Skovsmose, O. (1997). The end of innocence: A critique of ethnomathematics. 
+Educational Studies in Mathematics, 34, 131-57. 
+
+Vithal, R. (1992). The construct of ethnomathematics and implications for curriculum thinking 
+in South Africa [thesis]. Oxford, England: University of Cambridge. 
+
+Walker, E. N., & McCoy, L. P. (1997). Students’ voices: African Americans and Mathematics. 
+In Trentacosta, J., and M. Kenney (eds.). Multicultural and gender equity in the 
+mathematics classroom: The gift of diversity Reston, VA: The National 
+
+Council of Teachers of Mathematics, Inc. 
+
+Willis, D. B. (1992). Transnational culture and the role of language: An international school 
+and its community. Journal of General Education, 41, 73-95. 
+
+Yao, E. (1984). The infusion of multicultural teaching in the classroom. Action in teacher 
+education, (5(3), 11-15.\ 
+
+Zaslavsky, C. (1973). Africa Counts: Number and Pattern in African Culture. Boston, MA: 
+Prindle, Weber & Schmidt 
+
+Zaslavsky, C. (1991). World cultures in mathematics class. For The Learning of Mathematics, 
+11,32-6. 
+
+
+
+Zaslavsky, C. (1991). Multicultural mathematics education for the middle grades. Airthmetic 
+Teacher, 38, 8-13. 
+
+Zaslavsky, C. (1998). Ethnomathematics and multicultural mathematics education. Teaching 
+Children Mathematics, 4(9), 502-03. 
+
+Zhonghong, J. & Eggleton, P. (1995). A brief comparison of the U.S. and Chinese middle 
+school mathematics programs. School Science and Mathematics, 95, 187-94. 
+
+
+
+
+20 
+
+
+
+
+U.S. Department of Education 
+
+Office of Educational Research and Improvement (OERI) 
+National Library of Education (NLE) 
+Educational Resources Information Center (ERIC) 
+
+
+
+
+NOTICE 
+
+Reproduction Basis 
+
+
+
+
+This document is covered by a signed "Reproduction Release (Blanket)" 
+form (on file within the ERIC system), encompassing all or classes of 
+documents from its source organization and, therefore, does not require a 
+"Specific Document" Release form. 
+
+
+
+This document is Federally-funded, or carries its own permission to 
+reproduce, or is otherwise in the public domain and, therefore, may be 
+reproduced by ERIC without a signed Reproduction Release form (either 
+"Specific Document" or "Blanket"). 
+
+
+
+EFF-089 (1/2003) 
+
+
+

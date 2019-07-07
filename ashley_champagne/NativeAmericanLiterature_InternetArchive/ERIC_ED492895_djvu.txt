@@ -1,0 +1,1484 @@
+Reading, Writing, and Reading-Writing in the Second Language Classroom: 
+
+
+
+A Balanced Curriculum 
+
+Jeng-yih (Tim) Hsu 
+Department of English 
+
+National Kaohsiung First University of Science and Technology 
+
+
+
+Abstract 
+
+The notion of integrating reading and writing in LI and L2 literacy education is not new; 
+however, only until recently has the reading-writing connection received enough attention and 
+been implemented in the teaching of LI and L2. This paper aims to search for the most current, 
+up-to-dated, approach that best incorporates the idea of reading- writing connection. It first reviews 
+literature and former studies that support that reading and writing mutually reinforce each other in 
+both LI and L2 literacy development. Furthermore, it discusses the interface where writer meets 
+reader as well as writing meets reading. Next, a survey of the 223 TESOL graduate programs in 
+North America attempts to examine how professional ESL/EFL teacher education institutes are 
+practicing the latest theory of reading and writing, followed by a questionnaire answered by 14 
+teachers -in-preparation (both native and non-native speakers of American English) who shared 
+their general concept regarding the teaching of reading and writing. Based on the findings, this 
+paper calls for a balanced curriculum in which reading, writing, and reading- writing integration are 
+dealt in three separated, independent courses with individually specific focuses as each of them has 
+a strong impact on the overall proficiency of L2 students’ acquisition of English. 
+
+
+
+Key words: reading and writing integration, TESOE programs, curriculum design 
+
+
+
+1. Introduction 
+
+In Taiwan, children always learn to write first. Managing to write with picture-like, 
+square-shaped, and logographic Chinese characters is the routine drilled each day at school, for 
+more than a hundred times, by every pupil long before he/she starts reading any short texts. It is a 
+presumed concept that Chinese speakers ought to learn written words by writing them so that they 
+
+
+
+1 
+
+
+
+
+can recognize and comprehend the same characters when encountering them later in the reading 
+task. Bits of writing practice gradually build one’s vocabulary capacity that results in the 
+development of sentences, paragraphs, and, finally, the maturity of Chinese competence. 
+Presumably, writing comes before reading, at least, in the case of Taiwanese educational system. 
+However, the same idea does not seem to be applied in the case of Taiwanese students’ second 
+language learning (i. e., English). Students, starting form junior high school, learn to read in 
+English first along with an extraordinary amount of grammatical rules. Upon entering senior high 
+school, they will have their first English writing class. To be more specific, most Taiwanese 
+students will have only two-year English composition writing experience at their 11* and 12* 
+grades unless they choose to become English majors next in colleges. Most Taiwanese will agree 
+and accept the idea that, when learning English, reading precedes writing. Two contradictory kinds 
+of learning experiences lead me to a very curious position at which I am not quite certain about 
+which skill should come first. As an ESE learner as well as an ESE teacher, I have a particular 
+interest in finding out how reading and writing relate to each other, how learners can benefit form 
+the interaction between reading and writing, and how classroom teachers can better adjust to 
+incorporate the uniqueness of reading- writing connection to facilitate students’ acquisition of 
+English. 
+
+This paper will first look at the current trend of both El (i.e., English education in the U. S.) 
+and E2 (i.e., TESOE) teaching to see what has been the latest approach of the teaching of reading 
+and of writing. Paralleled reviews of theories and empirical studies concerning El and E2 reading 
+and writing will be discussed next, followed by the section in which the interaction between 
+reading and writing, as well as reader and writer, will be elaborated in terms of both theories and 
+classroom practices. 
+
+An additional survey of current TESOE graduate programs in North America, which comes 
+next, may reveal how teacher preparation institutes are dealing with the dynamics aroused from the 
+reading-writing interactions. Moreover, interviews with TESOE program professors and the ESE 
+
+
+
+2 
+
+
+
+
+program director, together with a collection of questionnaires answered by American English 
+teachers and international ESL teachers currently enrolled in the TESOE master and Rhetoric and 
+Einguistics Ph.D. programs in a small-scale university in Pennsylvania, will provide valuable 
+insights that ultimately contribute to the most up-to-dated ESE literacy curriculum. 
+
+2. Does reading precede writing or writing precede reading in LI and L2 acquisition? 
+
+2.1 The Debate 
+
+Traditionally, reading has been considered as an early- acquired skill and ought to have the 
+priority to be taught in children’s early schooling. Most researchers in North America had 
+sustained such a viewpoint in the past three decades. Julie Jensen (1999), however, argued that 
+“writing during the early years is a natural ‘gateway to literacy”’(p. 26). Her compiling of 
+responses from twenty-four prominent scholars cited most frequently in Anne Dyson and Sarah 
+Freeman’s (1991) chapter, “Writing,” from The Handbook of Research on Teaching the English 
+Eanguage Arts showed that researchers now believe that very young children can learn to write 
+before they can read and that writing, because it is more easily, quickly learned, “naturally” 
+precedes reading. That writing is the gateway to literacy seems to be the most current view shared 
+by most literacy scholars. 
+
+As for the ESE teaching and learning, a linear acquisition order of four skills (i.e., listening 
+speaking reading-^ writing) seems to have dominated this field long enough and have directed 
+most pedagogists and teachers to introduce these four skills with such a presumed order in that 
+reading comes before writing (Celce-Murica, 1991). 
+
+However, either in first language or in second language acquisition, the acquired order of 
+reading and writing is always debatable and, perhaps, yields less meaningful results. What ought to 
+be emphasized is the reciprocal reading- writing relationships in which reading and writing actively 
+interact with each other and both construct meanings for language learning. 
+
+
+
+3 
+
+
+
+
+2.2 A Brief Historical Review on the Reading-Writing Connection 
+
+In fact, although the discussion centering on the reading-writing connection is a fairly new 
+idea, literacy education that advocated the integration of reading and writing has taken place as 
+early as the late 1800’s (Quinn, 1995). In 1894, the National Education Association issued a report 
+that expressed development of reading and writing skills were equally important (Applebee, 1974). 
+Later, MIT, in 1905, offered courses that highly emphasized the communicative uses of language 
+and teaching of reading and writing for learning (Quinn, 1995). 
+
+Moreover, psycholinguistic -based models, such as Goodman’s (1967) “Whole Language 
+Approach,” had actually, in the 70’s and 80’s, promoted the reading-writing connection to a 
+significant level. The Whole Language Approach proposed that active involvement of reading and 
+writing leads to ultimate literacy (Goodman, Smith, Meredith & Goodman, 1987). The concept of 
+reading-writing integration had also led the literacy researchers of the 80 ’s to further examine 
+reading-writing relationships, and to construct process models of reading and writing. 
+
+A famous researcher, L. Llower (1989), indicated that the concept of reading and writing as 
+modes of learning in the college context led the researchers and teachers to develop a newer 
+concept of “critical literacy.” His theory assumed that reading and writing can be used in ways that 
+surpass the functional and minimal literacy demands and that enables students to develop and use 
+skills for analysis, synthesis, and creative expression. Coincidentally, the idea of critical literacy 
+has just appeared in the ESL field (Hammond & Macken-Horarik, 1999), thus showing that it is 
+until recently have these two skills, reading and writing, been taught together in the ESL setting. A 
+more in-depth discussion of theoretical arguments and empirical studies focusing on the 
+reading-writing interaction in both LI and L2, in the following section, should provide a better 
+picture, capturing such dynamics. 
+
+
+
+4 
+
+
+
+
+3. How will reading and writing benefit from each other in LI and L2? 
+
+3.1 Reading and Writing in LI Acquisition 
+
+Approaching from a theoretical perspective, Frank Smith (1994) makes a strong point about 
+how reading actually enhances writing. He sees reading as a collaborative learning during which 
+the reader is not reading alone but “reading like a writer”(p. 196), meaning that the reading is 
+being performed while the reader consistently walk through the text with the writer’s path of 
+organization of words, sentences, and meanings. He also used evidence from empirical studies 
+conducted with the English-speaking children to support his belief. Dean Simonton (1988), cited 
+by Smith (1994), found that intensive reading in childhood tends to make one a prolific writer 
+throughout one’s life. Diane DeFord (1981) (in Smith, 1994) also reported that children’s reading 
+is actually reflected in their writing; the more they read, the better they will write. 
+
+In fact, researchers interested in children’s LI literacy development had conducted a large 
+number of experiments before Smith (1988, 1994). For example, Lucy Calkins (1980) in her 
+studies of very young writers observed that children learn more about punctuation from their 
+reading than any particular formal instruction. Barbara Eckhoff (1983), as a doctoral student at 
+Harvard Graduate School of Education, also suggested that children’s reading has a great impact 
+on their writing and warned teachers that some poor writers’ writing in elementary school result 
+from inappropriate imitation of their basal readers. Besides, based on her synthesis of 
+reading/writing research, Sandra Stotsky (1983), indicated that using reading exercises in place of 
+grammar drill or additional writing practice proves to be as beneficial as and, somehow even more 
+beneficia,! than grammar or extra writing practice in improving students’ writing. She further noted 
+that “reading experience seems to be a consistent correlate of, or influence on, writing ability” (p. 
+637). 
+
+Similarly, El writing ability strengthens El reading ability. Stotsky (1983), in the same article 
+summarized above, recognized the counter benefit deriving from writing to reading once again and 
+said that the use of writing activities particularly improves reading comprehension and retention of 
+
+
+
+5 
+
+
+
+
+information in instructional material. Moreover, Anthony Petrosky (1982), at the University of 
+Pittsburgh, claimed that literary responding and writing are both acts of meaning making, which 
+allows one to better understand a text. He further argued that our comprehension of any texts, 
+whether literary or not, is mainly a behavior of composing, i.e., our understanding of printed texts 
+always begins with certain kinds of composition. In other words, reading is similar to writing. By 
+noting down composing process during reading, we actually vocalizing our understanding of the 
+written texts. He encouraged that language teachers ought to ask students to write about the texts 
+they read in order to help them understand the newly read texts and the responses they wrote for 
+the texts. Furthermore, Petrosky, adapting David Bleich’s (1978) idea, concluded that: 
+
+the only way to demonstrate comprehension is through extended discourse where 
+readers become writers who articulate their understanding of and connections to 
+the text in their responses.... Comprehension means using writing to explicate the 
+connections between our models of reality — our prior knowledge — and the texts 
+we create in light of them (Petrosky, 1982, p. 24-25). 
+
+To Petrosky, writing means connecting our prior knowledge with the new information we just now 
+comprehend by read a text. 
+
+Overall, in the case of LI acquisition, reading and writing are believed to profit each other. 
+Angela Jagg, Donna Carrara, & Sara Weiss’s (1986) observation, appearing in Language Arts , on 
+the trend of children’s literacy development serves as the best conclusion for the LI 
+reading-writing correlation in that they stated: 
+
+1. Reading plays an important role in learning to write. 
+
+2. Writing practice is necessary for mastery of different modes of discourse. Reading 
+alone is not enough. 
+
+3. The classroom context is critical in the children’s learning process as well as in our 
+own as researchers of that process (p. 298-299). 
+
+
+
+6 
+
+
+
+
+In terms of LI reading and writing, it is a widely accepted notion that reading and writing can not 
+be dealt with separately in learning or in teaching (Smith, 1985). 
+
+One worthy point to consider, drawn upon the studies presented above, is that, although 
+reading and writing gain a lot from each other, the implementation of either skill does not 
+necessarily replace the other. At the current stage, reading needs to be taught with the incorporation 
+of writing and vice versa. However, it is a consensus that reading and writing should also be taught 
+for the purpose of each individual skill (Stosky, 1983). In the instance of American literacy 
+education, other than the recognition and application of the reading-writing connection, a new 
+curriculum that paralleledly includes reading, writing, and reading- writing correlation is becoming 
+seemingly visible. 
+
+3.2 Reading and Writing in L2 Acquisition 
+
+3.2.1 Interlingual transfer vs. Intralingual transfer 
+
+One obvious difference between LI literacy skills and L2 literacy development is that L2 
+learners have had certain maturity of reading and writing skills which may or may not affect their 
+acquisition of L2 literacy. Factors, including overall L2 proficiency, LI and L2 educational 
+training, and cultural literacy practices, could be all involved in the learning process. Therefore, L2 
+literacy development seems to be a lot more complex phenomenon than the case of LI (Eisterhold 
+et ah, 1990). Studies aimed to examine the effect of transfer fall into two categories: interlingual 
+transfer (i.e., influence from the LI) and intralingual transfer (i.e., input from the L2) (Eisterhold et 
+ah, 1990). Researchers, in the early 1980’s, tended to particularly focus on the effect of LI whereas 
+in the late 1980’s and 1990’s the emphasis was placed much more on the literacy development 
+within the process of L2 acquisition itself. 
+
+J. Cummins (1981), among others, probably expressed the strongest feeling for interlingual 
+transfer of literacy skills. His “Interdependence Hypothesis” assumes that there is a 
+cognitive/academic proficiency that is available to both languages and that such a common 
+
+
+
+7 
+
+
+
+
+proficiency allows the transfer of literacy-related skills to take place across languages. According 
+to his Interdependence Hypothesis: 
+
+Instruction in Lx [Language One] is effective in promoting [academic] proficiency 
+in Lx, transfer of this proficiency to Ly [Language Two] will occur provided there 
+is adequate exposure to Ly (either in school or environment) and adequate 
+motivation to learn Ly”(p. 29). 
+
+Supporters of Cummin’s hypothesis have found certain evidence in their empirical studies. For 
+example, in TESOL Quarterly , Carole Edelsky’s (1982) observation of elementary school 
+Spanish-English bilingual children found that the El literacy transfer is incredibly evident in 
+children’s writing. Moreover, B. Mace-Matluck and colleagues (1983), in their study of English 
+literacy among Cantonese speaking students, revealed that Cantonese students’ prior literacy levels 
+have a strong correlation with their later success in English. Nevertheless, not all the former 
+studies yielded positive result in supporting the interlingual transfer theory. Cummins (1981) also 
+noted that transfer emerges only after learners attain a threshold level of E2 proficiency to permit 
+cognitively demanding language use. M. Clarke’s (1978) case study of two students also showed 
+that some threshold level of E2 proficiency is necessary for good El readers to maintain their good 
+reading skills in the E2. 
+
+Joan Carson Eisterhold and colleagues’ study (1990) of Japanese and Chinese ESE subjects 
+where they examined the subjects’ literacy in both LI and L2, perhaps, olFered the best answers in 
+responding to questions like: 
+
+(1) What is the relationship between LI and L2 literacy abilities? 
+
+(2) Dose second language proficiency affect interlingual or intralingual language transfer? 
+
+They concluded that (1) LI literacy skills do help learners to perform better in the L2 reading and 
+writing tasks, yet there is no guarantee on an automatic transfer of LI literacy skills to L2 literacy; 
+(2) interlingual transfer occur at lower proficiency levels whereas intralingual input could be the 
+more significant source for developing L2 literacy skills at the advanced level. The focus, after the 
+
+
+
+
+report of Eisterhold et al., shifted from the L1-L2 difference to the L2 literacy development within 
+which reading-writing correlation was a main concern. 
+
+3.2.2 The interaction between reading and writing in L2 
+
+From a pedagogical perspective, William Grabe and Robert Kaplan (1996) suggested that L2 
+reading would help improve L2 writing at the beginning level and the advanced level. They 
+encouraged the use of extensive reading for beginners’ writing class as they noted that “the 
+outcome of a reading activity can serve as input for writing, and writing can lead a student to 
+further reading resources” (p. 297). Through two efficient techniques, Sustained Silent Reading 
+(SSR) and high-interest class sets of readers, extensive reading, which lead to many writing 
+activities, can be promoted. In the advanced level, they indicated that there is a need for students to 
+read “critically” because the ability of critical reading plays a major in analyzing texts logically 
+which is also a key component in academic writing. Practices of critical reading give students an 
+authority an voice in their writing and later significantly shaped their writing as well. 
+
+Timothy Bell (1998) acknowledged Grabe and Kaplan’s idea of “extensive reading” because 
+he believed that extensive reading olfer teachers worldwide “to encourage learners to engage in a 
+focused and motivating reading program with the potential to lead students along a path to 
+independence and resourcefulness in their reading and language learning”(1998, paragraph 1). Bell 
+furthermore summarized that extensive reading in L2 (1) leads to improvement in writing; (2) 
+energizes and motivates learners to read (if materials are selected according to students’ interests); 
+(3) leads to the shaping of the reader’s thought, which naturally leads many learners to respond in 
+writing with varying degrees of fluency. 
+
+Dana Ferris and John Hedgcock (1998) also suggested that “voluntary/pleasure reading” and 
+“assigned reading” have both proved to bring about positive effect on developing composing skills. 
+Regardless of group ages, empirical evidence confirmed that written texts actually emanate partly 
+from long-term, self-initiated reading. Such ability can develop unconsciously among learners. 
+
+
+
+9 
+
+
+
+
+Besides, assigned reading during the limited time of a composition classroom, according to Ferris 
+and Hedgcock, may serve as an effective and useful substitute for conventional writing practice 
+especially when reading is, once again, self-motivated or self-selected. In addition, Ciaran 
+McCarthy (1999), who argued with the extreme elevation of reading, even placed the role of 
+reading above all the other three skills, claiming that reading theory can serve as a microcosm of 
+the four skills (i.e., L, S, R, and W). 
+
+Relatively, writing in L2 is also a good way for ESL students to progress their L2 reading. 
+Ruth Spack (1985) from Tufts University and Boston University in her article in TESOL Quarterly , 
+stated that writing is not just a record of understanding but an act of understanding; hence, the 
+writing process can aid the reading process. She furthermore recommended the 
+“write-before-you-read” technique based on her workshop experience. The technique asks students 
+to write from their own experience about an idea or event contained in the work that they are about 
+to read. It may help make students better readers because they relate the texts with personal 
+knowledge first, thus facilitating their comprehension of the reading. Spack later noted that the 
+“write-before-you-read” technique very often works best if the writing practice consists of an issue 
+with which the students can easily connect in spite of the complexity of the assigned reading. 
+
+Vivian Zambel (1992), also in TESOE Quarterly , challenging the notion that views writing as 
+a typical waste of time activity in the reading classroom, argued that writing assist reading and that 
+“reading journals” are the best classroom example. She asserted that the reading journal is the 
+place where student reactions to texts are first recorded and reflected upon; where students’ 
+in-progress associations, questions, and thoughts are written; and with which students make 
+immediate connections between reading and writing. Zambel concluded that “the teaching of 
+reading and writing cannot be separated nor can they be sequenced in linear fashion so that reading 
+necessarily precedes writing” (p. 480). 
+
+
+
+10 
+
+
+
+
+3.2.3 Synthesis of reading-writing relation in LI and L2 acquisition 
+
+Judging upon all the theoretical arguments and experimental findings drawn from studies 
+mentioned above which all carefully examined the reading-writing link in both LI and L2 
+acquisition, an overview can be presented by using both Eisterhold’s (1990) and William Grabe’s 
+(1991) predictions, published in the years during which literacy education in LI and L2 were 
+moving toward a new direction. With regard to LI literacy, Listerhold (1990) indicated three 
+models of reading- writing relation mainly represent the collective viewpoints in the past two 
+decades. (1) “The directional model” hypothesizes that reading and writing share structural 
+similarities so that the structure of whatever is acquired in one skill can then be applied in the other 
+(i.e., the transfer process moves one-way only either in reading-to- writing or writing-to-reading 
+mode). (2) “The non- directional model” assumes that reading and writing derive from a single 
+underlying cognitive proficiency and that improvement in one domain will cause improvement in 
+the other (i.e., both skills can transfer in either direction as in an interactive model). (3) “The 
+bi-directional model” claims that reading and writing are not only interactive but also 
+interdependent. In this model, what is learned at a certain stage of development can be 
+qualitatively different from what is learned later. The existence of multiple relations as well as the 
+possibility that the nature of reading-writing relationship might change as the development 
+proceeds. Lormer studies concerning the LI reading- writing connection fall into these three 
+categories in which focuses are “input” in the directional model, “meaning constructing” in the 
+non-directional model, and “multiple relations and interrelated processes” in the bi-directional 
+model respectively, Listerhold encouraged teachers, instead of arguing for which model explained 
+best, to take an eclectic approach and take advantage of all these three models while dealing with 
+LI literacy courses. 
+
+As for L2 literacy, Listerhold (1990) seemed to hold on to the reserved notion that there is 
+always a language threshold barrier before any positive transfer can take place and before LSL 
+learners can achieve any promising level of reading-writing fluency in the target language. She 
+
+
+
+11 
+
+
+
+
+contended that “teaehing is important [for L2] to facilitate transfer, whether learners are 
+reconstructing or synthesizing skills” (p. 100). Her later study with others (Eisterhold et al, 1990), 
+as discussed above, clearly suggested that reading and writing be taught together in advanced level 
+at which ESL students benefit most from mutually reinforcing cognitive skills. Cross-language 
+literacy transfer is to be dealt at the lower levels. It is a position that Grabe (1991) is taking as well. 
+To conclude the discussion of L2 reading-writing relation and offer best recommendations to all 
+ESE teaehers, Eerris and Hedgcock’s (1998) article, perhaps, provided the best instructional tips: 
+
+1. ESL teachers should adjust the relative weight given to reading and writing 
+assignments based on their students’ L2 proficiency levels, needs, and 
+expectation. 
+
+2. L2 writing skills cannot be acquired successfully by practice alone. Some 
+aspects of composing are difficult to teach and must be acquired through 
+sustained exposure to multiple varieties of texts. 
+
+3. ESL learners need instruction to become successful writer of English. Neither 
+extensive exposure to reading materials nor large quantities of writing practice 
+alone is sufficient — both are necessary. 
+
+4. Just as reading facilitates the development of writing skills, so writing can help 
+build proficiency in reading. Therefore, teachers should therefore consider writing 
+activities that help students prepare for, respond to, and comprehend reading 
+selections more effectively 
+
+(Eerris and Hedgcock, 1998, p. 43). 
+
+
+
+12 
+
+
+
+
+4. Where exactly does writer/reader interact with reader/writer? And, where does 
+writing/reading meet reading/writing? 
+
+4.1 Writer/Reader as ReaderAVriter: A Philosophical Notion 
+
+In order to capture the very core of writer-reader interaction as well as writing-reading 
+dynamics, an illustration of the occasions where writer/reader meets reader/writer and 
+writing/reading interplays with reading/writing at both the philosophical and practical levels 
+should further support the significance of the implementation of reading- writing connection in the 
+literacy education. Robert Tierney & David Pearson (1983), ahead of others, viewed “reading and 
+writing as essentially similar process of meaning construction. Both are acts of composing” (p. 
+568). And pinpointed that, during the composing process, writers compose meaning and so do 
+readers, and they meet at each of the five stages of such an effective meaning composing process: 
+(1) planning, (2) drafting, (3) aligning, (4) revision, and (5) monitoring. 
+
+At the earliest stage, while a writer plans his/her writing, a reader is planning his/her reading 
+as well. Planning, according to Tierney & Pearson, involves two sub-processes: goal-setting and 
+knowledge mobilization, both of which reflect some common behaviors observable in readers and 
+writers, such as setting purposes, evaluating one’s current state of knowledge regarding a topic, 
+and self-questioning, etc. Next, drafting, defined as “the refinement of meaning which occurs as 
+readers and writers deal directly with the print on the page”(p. 571) is where writers and readers 
+encounter again. When starting reading a passage, readers typically will search for the right “lead” 
+(i.e., “the beginning of the beginning, those few lines the reader may glance at in deciding to read 
+or pass on” (p. 571)). Readers’ search- for period resembles precisely writers’ drafting period 
+through which both thrive. Moreover, it is believed, at the following stage, that the “alignment” a 
+writer and reader adopts will have an overriding influence on a composer’s ability to achieve 
+coherence. Tierney & Pearson claimed that, while approaching a text, readers and writers vary in 
+the nature of their stance and collaboration with the author/writer (if they are a reader) or 
+audience/reader (if they are a writer) and optimally align with this collaboration, immersing 
+
+
+
+13 
+
+
+
+
+themselves in different roles. Both adapting and alignment were considered akin to achieving 
+foothold from which meaning can be more thoroughly negotiated. Furthermore, “revising,” a 
+widely accepted notion in the writing process, is re-integrated into the path of reading. It is argued 
+that if readers ought to develop certain control over and a sense of discovery with the models of 
+meaning they build, they must approach text with the same deliberation, time, and reflection (at 
+rereading, annotating, and questioning the text) that a writer employs so often as he/she revises a 
+text. The last moment, monitoring, is identified as the time readers and writers come to evaluate 
+what they have developed after hand-in-hand planning, aligning, drafting, and revising. In fact, 
+Tierney & Pearson's “composing model of reading” offers a vivid instance in which 
+readers/writers contract implicitly with writers/readers. 
+
+Smith’s (1994) “Writer- reader Contract” chapter, in addition, illustrated the writer-reader 
+relationship more explicitly by suggesting that writers and readers engage with each other in 
+specifically two aspects of language usage, “comprehension” and “convention.” To Smith, writing 
+and reading are both acts of putting meanings into words. Comprehension is where writers and 
+readers first meet. Initially, composition (i.e., what writers typically do) interacts with 
+comprehension (i.e., what readers mostly do). Writers, while composing, need to grasp what the 
+reader will comprehend; therefore, are performing comprehending tasks. In contrast, readers, when 
+attempting to comprehend a text, must understand what writers are composing, are actually 
+composing their own meanings based on the print. The text, according to Smith is the two-sided 
+mirror, the link, and the joint where reading meets writing, writers connect with readers as he 
+simply put “neither writers nor readers can exist without a text” (Smith, 1994, p. 87). 
+
+Meanwhile, convention, as Smith proclaimed, is crucial in the writer-reader connection. 
+“Writers and readers must both share the conventions they employ and encounter; they cannot 
+work out what a convention is likely to be” (Smith, 1994, p. 61). In other words, writers and 
+readers will be unable to perform either “composition” or “comprehension” without understanding 
+the conventions embedded. Smith further explained that writers, by means of “intentions” and 
+
+
+
+14 
+
+
+
+
+“conventions,” are allowed to express themselves in writing; readers read with “expectations” 
+and ’’conventions” are permitted to understand ideas in reading. Conventions work elosely with 
+intentions for writers in that intentions determine what writers want to say, and conventions enable 
+it to be said. Layers of intention, ranging from focal to global level (i.e., word, sentence, paragraph, 
+chapter, and book intentions), walk with writers when writing a book. Likewise, conventions 
+collaborate with expectations for readers as they read with expectations, moving in a non-linear 
+fashion around levels of expectations, (including those of word, sentence, paragraph, chapter, and 
+book expectations,) readers look for conventions to comprehend. “Perfeet eomprehension would 
+oecur when the writer’s intentions and the reader’s expeetations eoineided eompletely, when every 
+intention of the author was correctly anticipated by the reader, and when every expectation of the 
+reader was fulfilled” (Smith, 1994, p. 96). Nevertheless, it is under the umbrella of conventions 
+that writers know what to intend, readers know what to expect, and comprehension of any written 
+materials become possible. 
+
+Darrell Like (2000) also discussed how writers meet readers in the interpretation of poetry. 
+His theories of analyzing poetry offer conventional interpretations normally associated whenever a 
+poem is created or read. Four elements of a poem, including the language (from which the poem is 
+made), the subject (the poem contains), the writer (the poem belongs to), and the reader (the poem 
+includes) will be normally taken into eonsideration. In his highlight of the “expressive theory of 
+writing and reading,” Fike explained that the writer/poet whose soul is emerged within the poem is 
+valued highest and find, nearly by magic, ways to put expressions in words on the paper. Non-poet 
+readers, though treated seeondary to and less important than the writer, may share the poet’s 
+passion and emotions conveyed by the poem. Here a poet and non-poet distinction seems to be 
+made. However, it can be inferred that the poet (writer) him-/her-self is still considered a qualified 
+reader with unique sense in reading and interpreting his/her own poem. 
+
+
+
+15 
+
+
+
+
+To summarize form the philosophieal arguments above, it is then reasonable to considered 
+writer/reader and reader/writer as inseparable individuals and is also worthwhile to have examined 
+the reading- writing connection as an important component of the literacy development. 
+
+4.2 Writing Meets Reading: A Practical Idea 
+
+Pedagogists and in-class professionals have observed the significance of reading-writing 
+correlation and have advocated language teachers to make the best use of such uniqueness derived 
+from the interface of these two skills. Spack (1985) introduced the idea of literary journal, an 
+activity that is considered as an effective reading/writing-and-writing/reading reinforcing exercise. 
+Students, after reading literary works, are directed to write plot summaries, or brief character 
+analyses, or to explicate an idea or a passage from the story and further expand their thoughts by 
+writing in the literary journal, which serve as directive or reflective guidelines, leading students to 
+read and write more. The practice of students’ keeping of a journal entry has been widely adopted 
+in many undergraduate, graduate and ESL courses in the United States and has been proved to be 
+very efficient in helping students’ learning (Williamson, personal communication, August 15, 1999; 
+Bencich, personal communication, July 17, 2000). 
+
+Elsewhere, Julia Gousseva (1998) suggested that “peer reviews” is a very popular technique 
+in a composition class that reflects the whole language view of reading and writing as interrelated 
+activities and of readers and writers as inseparable entities. Peer reviews, according to Gousseva, is 
+a powerful learning tool incorporating reading and writing practice in many ways. Eor example, 
+the activity provide students an authentic audience, increase students’ motivation for writing, 
+enables students to receive different viewpoints on their own writing, thus helping students learn to 
+read critically their own writing and to gain confidence in writing. Besides, A. Gilliam (1990) also 
+noted that peer reviews benefit both the respondent and the writer in that students, as reading and 
+responding to peers’ papers, develop critical reading skills as well as exercise “different order 
+
+
+
+16 
+
+
+
+
+reading skills” (p. 98) than those employed by the students when reading professionally written 
+texts, which are assumed to be flawless. 
+
+In short, readers and writers benefit from each other; reading students and writing students 
+gain mutually from both of the paralleled learning experiences as well. As Timothy Shanahan 
+(1990) sincerely encouraged in his book, Reading and Writing Together: New Perspectives for the 
+Classroom , reading and teaching should be taught together because it will improve student 
+achievement and teacher instructional efficiency, foster a communications stance in literacy, help 
+learners use combined reading-writing skill as a tool to learn, and provide more energetic 
+classroom atmosphere. 
+
+5. How are professional TESOL programs designed in practicing theories and preparing ESL 
+teachers? 
+
+Since the idea of integration of reading and writing in literacy education is fairly new, it is 
+worthy investigating to see if, in particular, TESOL teacher education programs have 
+acknowledged such notion and adjusted along with the new trend. Besides, interviews with 
+professional teacher educators currently, actively, involved with ESL teacher training and an 
+intensive ESL program director will further provide in-depth perspectives regarding the issue of 
+reading-writing integration. A questionnaire that containing valuable opinions collected from both 
+experienced native and nonnative teachers-in-preparation currently enrolled in the TESOL and 
+Rhetoric and Linguistics program here at a small university in Pennsylvania comes next. It gives 
+an overview which sketches how first language and second language teachers are going to handle 
+this new change and how their ideas will influence their later practice. Hopefully, all of the data 
+will eventually contribute to the embryo of the most up-to-dated curriculum in LI and L2 literacy 
+development for classroom practitioners as well as for first language and, in particular, second 
+language students. 
+
+
+
+17 
+
+
+
+
+5.1 Descriptive Survey of TESOL Programs in the U. S. 
+
+Two hundred and twenty-three graduate programs (i.e., 194 master and 29 Ph.D. programs, 
+excluding Canadian ones) are listed in Garshick’s (1998) Directory of Professional Preparation 
+programs in TESOL in the United States and Canada, 1999-2001 . Though arbitrarily, a glance at 
+all of the courses offered in preparing future ESL practitioners to teach literacy skills among these 
+programs yields certain interesting results. Courses that target at the teaching of reading and 
+writing vary to a great extend but still disclose certain underlying assumptions shared by the initial 
+establishers of these TESOL programs in American settings. 
+
+While 21 programs offer only “teaching of reading” kinds of courses, 16 others afford only 
+“teaching of writing.” Besides, other 14 programs provide both “teaching of writing” and 
+“teaching of reading” courses yet separate them as two independent ones. Still, 22 additional 
+programs have obtained “teaching reading and writing” type of courses within which two skills are 
+dealt together. If added with other 10 programs that title courses under “literacy” (without 
+explicitly listing “reading” and “writing”), 32 graduate TESOL programs have recognized the 
+significance of the interaction between reading and writing and have implemented such integration 
+in their curricula (see Eigure 1 in Appendix B). 
+
+However, this brief comparison among programs also shows some extreme cases, both of 
+conventional and bright new designs. On one hand, reading and writing are somehow separated 
+and being considered strongly connected with grammar, linguistic mechanism. Eor instance. 
+Linguistics Ph.D. program in the University of Delaware offers course, titled “Linguistics and 
+Writing” (Garshick’s, 1998, p. 65). 
+
+MA TESL/intercultural studies program in the Columbia International University separates 
+reading from writing and treats these two skills in “Techniques of TEFL: Listening, Speaking, and 
+Reading,” and “Techniques of TEFL: Structure and Writing”(Garshick’s, 1998, p. 61). Somehow, it 
+seems odd to combine reading with listening and speaking as traditionally and theoretically the 
+latter ones are considered as ‘oracy.’ The most unusual program, MA in TESOL, Eastern Michigan 
+
+
+
+18 
+
+
+
+
+University, includes reading, writing, and grammar in one course which presumably treats 
+grammar as the core of both skills, reflecting the conventional notion that sees grammar as an 
+important component in both reading and writing. On the other hand, groundbreaking institutes, 
+found in the directory, are sending new practical message which suggests that reading, writing, and 
+reading and writing ought to be taught in three different courses, within each of which different 
+concentrations lies. Examples are MA TESOL in the Eresno Pacific University (p. 82), MA ESE in 
+the University of Texas at San Antonio (p. 235), and MSEd ESE in the University of Southern 
+Maine (p. 222). 
+
+5.2 Interviews with Teacher Educators and the Intensive ESL Program Director 
+
+Based on her profound observation and life-long experience with El and E2 teacher education, 
+Bencich (personal communication, July 17, 2000) suggested that “reading and writing should 
+combined together and taught in the same course in two consecutive semesters.” No other 
+researchers, pedagogists or teachers have ever offered this latest view concerning the 
+reading-writing correlation in teacher training program. Meanwhile, such view is echoed by 
+another TESOE teacher educator who is formerly an intensive ESE program director. Aghbar 
+(2000) stated that “When I started [as an administrator], all the skills were separated. Then we 
+started thinking that there should be more integration. So we combined reading and writing. We 
+also combined listening and speaking.” Aghbar’s integration position at which he sees the 
+advantage of teaching both reading and writing skills altogether as he expressed that teachers 
+should not focus on just one skill and forget about the other one. Practical mistake often seen in the 
+ESE classroom, according to Aghbar, is that teachers find it easy to focus on writing and use 
+reading as a springboard to generating ideas for writing without focusing much on developing 
+reading strategies. 
+
+
+
+19 
+
+
+
+
+5.3 Voice from Teachers-in-preparation: A Mini Questionnaire 
+
+5.3.1 Foreword of the questionnaire 
+
+Fourteen graduate students participated in this survey (see Appendix A), including 5 native 
+speakers of English, 4 Taiwanese, 3 Thai, 1 Japanese and 1 Korean speakers who are currently 
+enrolled in the MA TESOL and Ph.D. Rhetoric & Einguistics programs in a small scale university 
+in Pennsylvania. Before starting analyzing any data, a few notes need to be made to solidify these 
+questionnaires. Among all puzzles that occurred, the trickiest one resulted from the lack of a 
+specific definition on “reading” and “writing.” All non-natives have the same doubt, i.e., ’’What 
+exactly is considered as an act of writing or reading?” Non-native participants who have had an E2 
+learning experience have a wider sense in recognizing what counts as an act of writing. It could 
+range from the very first experience of drawing, sketching, and producing fragments of sentences, 
+to the writing of formal compositions. In contrast, natives have no difficulty in answering most of 
+the questions as they somehow associate “writing” with “the act of composition writing;” 
+“reading” with “the act of comprehending written materials.” Moreover, anonymity becomes 
+invalid as all participants can be identified by the personal information they provide in the first 
+question. A more appropriate question should just ask them to identify whether they are native or 
+non-native speakers at the beginning since one focus of the questionnaire is looking for the 
+contrast between El and E2 language teachers. Besides, their wiliness to declare their identities 
+add some more interesting points to the data also. Anonymity is actually not necessary after all. 
+
+5.3.2 Discussion of the questionnaire: Question by question 
+
+In this section, the original layout of the questionnaire is provided. Each question from 
+the questionnaire is analyzed based on the participants’ responses. 
+
+
+
+20 
+
+
+
+
+SECTION I— PERSONAL ACADEMIC BACKGROUND: 
+
+
+
+(Please answer your questions based on your learning experience in your “academic schooling 
+before graduate level. ”) 
+
+
+
+1 . Personal information 
+
+a. Please provide the names of the institutions of your teaching setting 
+currently or formerly (El or L2 or both) and how many years you have 
+involved in that setting. 
+
+b. Your position(s) 
+
+c. Courses title(s) taught 
+
+
+
+This question serves to retrieve subjects’ teaching experience, such as years of teaching, 
+courses in which they taught reading or/and writing. Two native speakers are now actively 
+involved with the teaching of composition while the other three used to have experience of 
+teaching conversation courses. Non-natives, though vary in the years of teaching, have never 
+taught any courses that particularly target at either reading or writing skill. 
+
+
+
+2. In your own opinion, does reading come before writing or writing come 
+After reading in your El experience? (Recall the very beginning when you 
+Eirst sensed these 2 skills.) 
+
+All native subjects report that reading always comes before writing in their El whereas all 
+non-natives felt that writing precedes reading if drawing and sketching are considered a form of 
+writing. Interestingly, all four Taiwanese subjects recall that their initial experiences of El reading 
+and writing were concurrent as they remember reading-aloud words they had just managed to 
+write (see Eigure 1, Appendix B). To these Taiwanese subjects, the literacy development starts 
+from picture drawing, to logographic word imitating, reading the short passage, and finally to 
+formal composition writing. In fact, it is a recursive reinforcing process during writing and 
+reading mutually shape each other. 
+
+
+
+21 
+
+
+
+
+
+
+3. How is the same process taking place while you are learning an L2? 
+
+Only two natives have L2 learning experience. And one of them believed that reading in L2 
+arrives earlier than writing in L2. As both native speakers feel that L2 proficiency is a vital factor 
+in determining their readiness to read and, then, write, all non-natives share the same feeling. Thai, 
+Japanese, and Korean subjects are taking the same position as that of natives. On the contrast, all 
+Taiwanese noted that their English learning experience is actually a “write-before-read” one (see 
+Table 1). L2 proficiency, to Taiwanese subjects, narrowly refers to vocabulary proficiency only. 
+
+
+
+
+
+US 
+
+
+Taiwan 
+
+
+Korea 
+
+
+Japan 
+
+
+Thai ^ TOTAL 
+
+
+reading > writing 
+
+
+5 
+
+
+
+
+
+
+
+
+5 
+
+
+reading + writing 
+
+
+
+
+4 
+
+
+
+
+
+
+I 4 
+
+1 
+
+
+writing > reading 
+
+
+
+
+
+
+1 
+
+
+1 
+
+
+3 i 5 
+
+
+
+Table 1. Reading and writing in LI (The mark “>” indicates one skill precedes the other.) 
+
+
+
+Unless they learn a large numbers of new English words by practicing writing or memorizing, 
+they never feel ready to read. It seems that Taiwanese learners carry over their LI learning 
+experience and strategies, and implement them again with L2 (English) learning. In fact, it is a 
+presumable and widely accepted L2 curriculum (imposed by the Taiwanese Ministry of 
+Education,) that any L2 acquisition has to start from writing (the words) and then reading (texts), 
+followed by listening and speaking that comes last. Such language teaching and learning policy 
+has been practiced for more than five decades. 
+
+
+
+22 
+
+
+
+
+
+
+4. In LI (and L2) learning, what did you normally do if encountering 
+difficulty in reading a text? 
+
+5. In LI (and L2) learning, how was the same problem handled when writing a 
+text? 
+
+LI reading strategies, as for native speakers, include re-reading, guessing from contexts, and 
+using dictionary. Non-natives employ almost the same strategies except that one Thai subject 
+often turns to her parents for help (a case in which home literacy may affect LI literacy 
+development). Regarding LI writing habits, natives tend to use revising, reviewing, and editing 
+skills but can hardly recall their memory of L2 writing, as their experience of first writing are 
+merely too temporary. Non-natives mostly find themselves very confident in writing in mother 
+tongue but all report that their biggest trouble in English writing is the problems of grammar and 
+mechanism that sometimes make them unable to polish or/and edit their own writing. While 
+dictionary is found to be very limited in helping their writing, non-native subjects often turn to 
+others for extra help, including American friends, writing tutors, and professors. 
+
+
+
+6. In your LI schooling (k-12, college), were writing and reading taught 
+separately or altogether? 
+
+Nationality (as for non-natives) and age (as for natives) play a vital role that affects all 
+participants’ answering of this question. Taiwanese, Thai, and Korean subjects all respond that 
+writing and reading are taught together in their LI education. Surprisingly, Japanese subject says 
+that he had many Japanese reading courses and never any academic LI writing training. What is 
+even more interesting is that American subjects’ LI educational experience fall into three groups 
+according to their periods of schooling: (1) ages of 40 and above — writing is based on reading 
+literature, (2) ages between 30 and 40 — writing and reading are separated (though one native says 
+she was never taught writing), (3) ages below 30 — writing and reading are dealt within the same 
+course (see Table 1 below). 
+
+
+
+23 
+
+
+
+
+
+
+
+
+
+Literature-based 
+
+Reading 
+
+
+Reading; Writing 
+Separated 
+
+
+Reading only 
+
+
+Reading & Writing together 
+
+
+Ages above 40 
+
+
+1 native 
+
+
+
+
+
+
+
+
+Ages between 30 and 40 
+
+
+
+
+2 natives 
+
+
+
+
+
+
+Ages below 30 
+
+
+
+
+
+
+1 non-native 
+
+
+11 (1 native; 9 non-natives) 
+
+
+
+Table 2. Responses to Question 6 (Were reading and writing taught separately or together in 
+K-college?) in the survey 
+
+
+
+7. How was L2 writing and reading dealt in your academic training? Were 
+they treated separately as that of your LI learning? 
+
+An overwhelming phenomenon is found that reading and writing are always separated in all 
+subjects’ L2 learning. Of these two Americans who had L2 experience, one consistently states that 
+reading actually helps writing a lot regardless of his LI, L2, or even L3 acquisition. The youngest 
+American subject even shares her bitter experience in senior high school where second language 
+courses were only offered to academically distinguished students (see Table 3). 
+
+
+
+
+
+US 
+
+
+Taiwan 
+
+
+Korea 
+
+
+Japan 
+
+
+Thai TOTAL 
+
+
+reading > writing 
+
+
+2 
+
+
+
+
+1 
+
+
+1 
+
+
+3 7 
+
+f 
+
+
+reading -i- writing 
+
+
+
+
+
+
+
+
+
+
+I 0 
+
+'f 
+
+
+writing > reading 
+
+
+
+
+4 
+
+
+
+
+
+
+t A 
+
+t 4 
+
+i 
+
+
+
+Table 3. Reading and writing in L2 (The mark “>” indicates one skill precedes the other.) 
+
+
+
+SECTION II— TEACHER PREPARATION: 
+
+(Please answer your questions based on your learning experience in your ^‘‘Teacher Preparation 
+Process. ”) 
+
+8. Were (Are) you required to take any courses, such as “Teaching reading,” 
+
+“Teaching writing,” or “Teaching literacy,” related to the teaching of these two 
+skills (R & W)? (Please list course title, and all related courses you took or are 
+taking dealing with these 2 skills in you Master program or Ph.D. program.) 
+
+This question should be completely omitted since most subjects provide either no or less 
+meaningful information. All non-native doctoral students do not give any information about 
+
+
+
+24 
+
+
+
+
+
+
+
+
+courses they have taken before entering this university. Moreover, non-native master students 
+currently enrolled in the TESOL program have not reported if they have taken any “teaching 
+reading” or “teaching writing” course at the graduate level since this is their first teacher 
+education program. Two native doctoral subjects, however, share some of their experience prior to 
+this graduate program. Both are English professors with more than 10-year experience and are 
+teaching courses in literature, compositions, and linguistics at American colleges meanwhile. One 
+said that she had a teaching reading course and has taken 4 teaching composition courses 
+altogether up to now whereas the other one has had neither the reading theory nor teaching writing 
+courses. 
+
+
+
+9. As an LI or L2 teacher, what position will you take while teaching reading and writing: 
+
+A. Reading and writing should be taught separately in two separate courses. 
+
+B. Reading and writing should be taught together within one course. 
+
+C. Reading, writing, and reading & writing, should be all dealt in 3 different 
+courses. 
+
+D. Others. (Please state your choice and explain why you think so.) 
+
+Amazingly enough, some cross-linguistic agreement can be reached among speakers of 
+different languages. Seven subjects (including two of the 5 natives) choose position (A) while 5 
+other (including the other 3 natives) subjects prefer position (B). The Japanese and Korean 
+subjects pick position (C). People who speak from position (A), overall, believe that reading and 
+writing may interrelate to each other yet find it still necessary to teach them independently. If 
+taught separately, reading and writing can be dealt with more specific emphasis in their own 
+domains. Teachers may use one skill as an activating technique to solidify the acquisition of the 
+other skill without completely ignoring the other. Nevertheless, subjects of position (B) draw from 
+their own learning and teaching experience during which they never feel that reading and writing 
+can be, at any moment, being separated. Einally, the two supporters of position (C) state that it is a 
+new trend to include all reading, writing, and reading and writing in a well-prepared curriculum as 
+
+
+
+25 
+
+
+
+
+
+students, other than benefit from each individual skill, can benefit from the reading-writing 
+correlation also. 
+
+
+
+lO.As an LI or L2 teacher, based on the position you just chose, what are the 
+advantages and disadvantages of your position? 
+
+Supporters of position (A) think that the separation of reading and writing will give students 
+less burden (especially if they happen to be just beginners). Yet, defenders of position (B) 
+approach thi s issue of integration from both teacher’s and learner’s perspectives. They all 
+recognize that both reading and writing reinforce each other so that students will gain pretty much 
+from such a process. On the other hand, it will also, at the same time, give teacher a lot of work, 
+as additional effort id needed to incorporate another language skill. The Japanese participant, 
+however, speaks from position (C), saying that his inclusion of all three courses will not only 
+require teacher to invest extra energy but also demand students to work harder. He suggests that 
+students have certain options when choosing to read, write, or read and write according to 
+personal interests, needs, and motivations. 
+
+
+
+1 l.In your LI or/and L2, what makes you a better reader? 
+
+12. In your LI or/and L2, what makes you a better reader? 
+
+It is interesting to conclude that all subjects, regardless of their positions discussed above, 
+express that reading more will help them read better. Though other minor factors, such as prior 
+knowledge, personal interests, extensive and intensive reading, and motivations, may be involved, 
+none of them includes writing as a significant contributor in making them become a better reader. 
+Along with other components, including teacher feedback, grammar and mechanism, reading, on 
+the contrary, is an important skill recognized by all participants in the survey that actually helps 
+them write better. 
+
+
+
+26 
+
+
+
+
+
+
+
+5.3.3 Synthesis of the questionnaire 
+
+Though it is arguable that the choice of the subjects participating in this survey are too limited 
+as they have been pre-selected from the graduate programs in the small scale university, their 
+personal opinions have significant meanings that add to the understanding of the process of L1/L2 
+reading and writing development: 
+
+1. LI literacy education at earlier stage has a strong impact on students’ later literacy 
+development, and may also influence similar process in L2 literacy acquisition. (This is so 
+true in the case of Taiwanese subjects.) 
+
+2. Level of proficiency in L2 plays a key role in learners’ determining their success in L2 
+reading and writing. 
+
+3. Learners (LI & L2) believe that reading can help writing but have a tendency not to 
+consider writing as an equally important contributor to their reading. 
+
+6. Concluding Remarks and Recommendations 
+
+Researchers have all shed lights on the issue of reading-writing correlation. For instance, 
+Grabe (1991) concluded, “In short, students learn to read by reading” (p. 396). In addition, Zambel 
+(1992) advocated that the teaching of reading and writing cannot be tom apart nor can they be 
+arranged in linear order so that one necessarily precedes the other” (p. 480). Likewise, Eisterhold 
+(1990) and Eisterhold et al (1990) also recognized that the reading- writing relation changes during 
+the literacy development and that ESE learners must break the proficiency barrier to fully develop 
+their E2 literacy competence while Grabe and Kaplan (1996) believed that the integration of 
+writing and reading is applicable at all proficiency levels. Data collected from teacher educators 
+currently involved with reading and writing theory, along with the responses from 
+teachers-in-preparation, have also contributed significantly to the blueprint for the best teaching of 
+reading and writing. Eour kinds of positions are being taken here: 
+
+
+
+27 
+
+
+
+
+1. (L1/L2 ) Reading and writing should be taught separately. 
+
+2. (L1/L2) Reading and writing should be always taught together and never be detached 
+from each other. 
+
+3. (L1/L2) Reading-writing relation is considered very important and the nature of the 
+reading-writing relationship varies at different stages of acquisition. 
+
+4. Level of L2 proficiency could be a factor that determines learners’ L2 literacy success 
+yet should not prohibit L2 teachers from bringing in the reading-writing integration 
+technique. 
+
+In order to arrive an ultimately thorough position, I am calling for a combined L2 curriculum in 
+which “reading, writing, and the reading-writing interaction” are taught independently while 
+emphases are also placed on different levels of literacy developments, students’ needs, and course 
+goals. It should be the best position at which teachers can most efficiently teach and help L2 
+learners to best learn from each of the three skills, i.e., reading, writing, and reading-writing 
+integration. 
+
+
+
+28 
+
+
+
+
+References 
+
+
+
+Applebee, A. N. (1974). Tradition and reform in the teaching of English: A history. Urbana, 
+IL: NCTE. 
+
+Bell, T. (1998). Extensive reading: Why? And how? Internet TEST Journal, [On-line], 4(12), 
+25 paragraphs. Available: http://www.aitech.ac.jp/~itesl/Articles/Bell-Reading.html [2000, July 
+12 ]. 
+
+Bleich, D. (1978). Subjective criticism. Baltimore, MD: John Hopkins University Press. 
+
+Calkins, E. (1980). When children want to punctuate: basic skills belong in context. Language 
+Arts, 57(5), 567-573. 
+
+Celce-Murcia, M. (1991). (Ed.), Teaching English as a second or foreign language. Boston, 
+MA: Heinle & Heinle Publishers. 
+
+Clarke, M. (1978). Reading in Spanish and English: Evidence from adult ESE students. 
+Language Learning, 29(1), 121-150. 
+
+Cummins, J. (1981). The role of primary language development in promoting educational 
+success for language minority students. In Schooling and language minority students: A theoretical 
+framework (pp. 3-49). Eos Angeles: Evaluation, Dissemination and Assessment Center, California 
+State University. 
+
+DeEord, D. (1981). Eiteracy: Reading, writing and other essentials. Language Arts, 58(6), 
+652-658. 
+
+Dyson, A. H. and Ereeman, S. W. (1991). Writing. In J. Elood, J. M. Jensen, D. Eapp and J. R. 
+Squire (Eds.), Handbook of research on teaching the English language arts (pp. 754-774). New 
+York, NY: Macmillan. 
+
+Eckhoff, B. (1983). How reading affects children’s writing. Language Arts, 60(5), 607-616. 
+
+Edelsky, C. (1982). Writing in a bilingual program: The relation of El and E2 texts. TESOL 
+Quarterly, 16(2), 211-228. 
+
+Eisterhold, C. (1990). Reading-writing connections: Toward a description for a second 
+language learners. In B. Kroll (Ed.), Second language writing (pp. 88-101). New York: NY: 
+Cambridge University Press. 
+
+Eisterhold, C., Carrell, P, Silberstein, S., Kroll, B., and Kuehn, P. (1990). Reading- Writing 
+relationships in first and second language. TESOL Quarterly, 24(2), 245-266. 
+
+Perris, D. and Hedgcock, J. S. (1998). Teaching ESL composition: Purpose, process, and 
+practice. Mahwah, NJ: Eawrence Erlbaum Associates, Inc. 
+
+Pike, D. (2000). Interpreting poetry: A Song of reading. In W. Bishop (Ed.), The subject is 
+reading: Essays by teachers and students (pp. 79-91). Portsmouth, NH: Heinemann. 
+
+Plower, E. (1989). Cognition, context, and theory building. College Composition and 
+Communication, 40, 282-311. 
+
+
+
+29 
+
+
+
+
+Garshick, E. (1998). (Ed.), Directory of professional preparation programs in TESOL in the 
+United States and Canada, 1999-2000. Alexandria, VA: TESOE, Inc. 
+
+Gillam, A. (1990). Eearning through response. English Journal, 1, 98-99. 
+
+Goodman, K. (1967). Reading: A psycholinguistic guessing game. Journal of the Reading 
+Specialist, 4, 126-135. 
+
+Goodman, K., Smith, E., Meredith, R. and Goodman, Y. (1987). Language and thinking in 
+school: A whole-language curriculum. New York, NY: Richard C. Owen Publishers, Inc. 
+
+Gousseva, J. (1998). Eiteracy development through peer reviews in a freshman composition 
+classroom. Internet TESL Journal, [On-line], 4(12), 36 paragraphs. Available: 
+
+http://www.aitech.ac.jp/~itesl/Articles/Gousseva-Eiteracy.html [2000, July 12]. 
+
+Grabe, W. (1991). Current development in second language reading research. TESOL 
+Quarterly, 25(30), 375-406. 
+
+Grabe, W. and Kaplan, R. (1996). Theory and practice of writing. New York, NY: Eongman. 
+
+Hammond, J. and Macken-Horarik, M. (1999). Critical literacy: Challenges and questions for 
+ESE classrooms. TESOL Quarterly, 33(3), 528-544. 
+
+Jaggar, A., Carrara, D., and Weiss, S. (1986). Research currents: the influence of reading on 
+children’s narrative writing (and vice versa). Language Arts, 63(3), 292-300. 
+
+Jensen, J. (1999). What do we know about the writing of elementary school children? In R. 
+Graves (Ed.), Writing, teaching, learning: A sourcebook (pp. 25-32). Portsmouth, NH: Heinemann 
+
+Mace-Matluck, B. J., Dominguez, D., Holtzman, W, and Hoover, W. (1983). Language and 
+literacy in bilingual instruction. Austin, TX: Southwest Educational Eaboratory. 
+
+McCarthy, C. (1999). Reading theory as a microcosm of the four skills. Internet TESL Journal, 
+[On-line], 5(5), 23 paragraphs. Available: 
+
+http://www.aitech.ac.jp/~itesl/Articles/McCarthy-Reading.html [2000, July 12]. 
+
+Petrosky, A. (1982). Prom story to essay: Reading and writing. College Composition and 
+Communication, 33, 19-36. 
+
+Quinn, K. (1995). Teaching reading and writing as modes of learning in college: A glance at 
+the past; a view to the future. Reading Research and Instruction, 34(A), 295-314. 
+
+Shanahan, T.(1990). Reading and writing together: What does it really mean? In T. Shanahan 
+(Ed.), Reading and writing together: New perspectives for the classroom (pp. 1-18). Norwood, MA: 
+Christopher-Gordon Publishers, Inc. 
+
+Simonton, D. K. (1988). Scientific genius: A psychology of science. Cambridge, UK: 
+Cambridge University Press. 
+
+Smith, P. (1985). Reading without nonsense (Second edition) New York, NY: Teachers 
+College Press, Columbia University. 
+
+Smith, P. (1988). Understanding reading: A psycholinguistic analysis of reading and learning 
+to read (Pourth edition). Hillsdale, NJ: Eawrence Erlbaum Associates. 
+
+Smith, P. (1994). Writing and the writer. Hillsdale, NJ: Eawrence Erlbaum Associates. 
+
+
+
+30 
+
+
+
+
+Spack, R. (1985). Literature, reading, writing and ESL: Bridging the gaps. TESOL Quarterly, 
+i9(4), 703-725. 
+
+Stotsky, S. (1983). Research on reading/writing relationships: A synthesis and suggested 
+directions. Language Arts, (50(5), 627-642. 
+
+Tierney, R. and Pearson, P. (1983). Toward a composing model of reading. Language Arts, 
+60{5), 568-580. 
+
+Zamel, V. (1992). Writing one’s way into reading. TESOL Quarterly, 26(3), 463-485. 
+
+
+
+31 
+
+
+
+
+APPENDIX A 
+
+
+
+A CURIOUS QUESTIONNAIRE: 
+
+(Your responses will be kept confidential and destroyed after this paper is completed.) 
+
+SECTION I- PERSONAL ACADEMIC BACKGROUND: 
+
+(Please answer your questions based on your learning experience in your “academic 
+schooling before graduate level. ”) 
+
+1. Personal information 
+
+a. Please provide the names of the institutions of your teaching setting currently or formerly (El or 
+L2 or both) and how many years you have involved in that setting. 
+
+b. Your position(s) 
+
+c. Courses title(s) taught 
+
+2. In your own opinion, does reading come before writing or writing come after reading in your El 
+experience? (Recall the very beginning when you first sensed these 2 skills.) 
+
+3. How is the same process taking place while you are learning an L2? 
+
+4. In El (and L2) learning, what did you normally do if encountering difficulty in reading a text? 
+
+5. In El (and L2) learning, how was the same problem handled when writing a text? 
+
+6. In your El schooling (k-12, college), were writing and reading taught separately or altogether? 
+
+7. How was L2 writing and reading dealt in your academic training? Were they treated separately as 
+that of your El learning? 
+
+
+
+SECTION II— TEACHER PREPARATION: 
+
+(Please answer your questions based on your learning experience in your ^‘‘Teacher 
+Preparation Process. ”) 
+
+8. Were (Are) you required to take any courses, such as “Teaching reading,” “Teaching writing,” or 
+“Teaching literacy,” related to the teaching of these two skills (R & W)? 
+
+(Please list course title, and all related courses you took or are taking dealing with 
+these 2 skills in you Master program or Ph.D. program.) 
+
+
+
+32 
+
+
+
+
+9. As an LI or L2 teacher, what position will you take while teaching reading and writing: 
+
+a. Reading and writing should be taught separately in two separate courses. 
+
+b. Reading and writing should be taught together within one course. 
+
+c. Reading, writing, and reading & writing, should be all dealt in 3 different courses. 
+
+d. Others. (Please state your choice and explain why you think so.) 
+
+10. As an LI or L2 teacher, based on the position you just chose, what are the advantages and 
+disadvantages of your position? 
+
+1 1. In your LI or/and L2, what makes you a better reader? 
+
+12. In your LI or/and L2, what makes you a better writer? 
+
+
+
+33 
+
+
+
+
+APPENDIX B 
+
+
+
+
+Figure 1. Reading and writing courses offered in TESOL programs in the US (The mark “/” 
+indicates that reading and writing are separated.) 
+
+
+
+34 
+
+
+
+

@@ -1,0 +1,1166 @@
+DOCUMENT RESUME 
+
+
+
+ED 424 528 
+
+
+
+CG 028 833 
+
+
+
+AUTHOR 
+TITLE 
+PUB DATE 
+NOTE 
+
+
+
+PUB TYPE 
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+Ashlock, Larry; Hayman, Peter 
+A Survey of Stress-Related Illnesses. 
+
+1998-08-14 
+
+23p . ; Paper presented at the American Psychological 
+Association Annual Convention (106th, San Francisco, August 
+14-18, 1998) . 
+
+Reports - Research (143) -- Speeches/Meeting Papers (150) 
+
+MF01/PC01 Plus Postage. 
+
+Adjustment (to Environment); Adults; Counseling Services; 
+Males; Medical Research; *Posttraumatic Stress Disorder; 
+Predictor Variables; Profiles; ^Stress Variables; ^Veterans 
+*S tress (Biological) 
+
+
+
+ABSTRACT 
+
+
+
+The prevalence of stress-related medical conditions in 
+clients of Readjustment Counseling Service at Veterans Centers was 
+investigated. The purpose of the study was to gain further knowledge 
+specifically pertaining to the long-term health consequences of exposure to 
+combat trauma. A review of relevant literature is provided. Veterans Center 
+clients (N=600) were surveyed using a five-page self-report checklist 
+regarding their histories of 56 stress-related medical conditions. 
+
+Demographic characteristics are described. The results indicated that 
+veterans exposed to high stress (combat) reported more medical problems than 
+did veterans not exposed to high stress (noncombat) . Among body systems, 
+musculoskeletal and respiratory systems were shown to be especially affected 
+by the high stress. Age differences are reported. Native American vets 
+reported the highest average number of medical conditions, but no differences 
+were found among ethnic groups in types of medical conditions. Veterans who 
+reported a high number of psychological symptoms also reported more 
+stress-related medical conditions than others. Results and clinical 
+implications are discussed. (Author /EMK) 
+
+
+
+★ ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★■nr** 
+
+
+
+Reproductions supplied by EDRS are the best that can be made 
+from the original document. 
+
+
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★ 
+
+
+
+028833 
+
+
+
+Stress-Related Illnesses 1 
+
+
+
+oo 
+
+(N 
+
+Tf 
+
+<N 
+
+Tf 
+
+
+
+Q 
+
+
+
+W 
+
+
+
+A Survey of Stress-Related Illnesses 
+Larry Ashlock 
+& 
+
+
+
+Peter Hayman 
+
+Readjustment Counseling Service 
+Department of Veterans Affairs 
+Bay Pines, Florida 
+
+
+
+Presented at American Psychological Association 
+San Francisco 
+August 14, 1998 
+
+
+
+BEST COPY AVAILABLE 
+
+
+
+
+Running head: STRESS-RELATED ILLNESSES 
+
+
+
+2 
+
+
+
+^ u ® department of education 
+
+Office of Educational Research and Improvement 
+
+EDUCATIONAL RESOURCES INFORMATION 
+CENTER (ERIC) 
+
+□ This document has been reproduced as 
+received from the person or organization 
+originating it 
+
+□ Minor changes have been made to improve 
+reproduction quality. 
+
+
+
+• Points of v»ew or opinions stated in this docu- 
+ment do not necessarily represent official 
+OERl position or policy- 
+
+
+
+“PERMISSION TO REPRODUCE THIS 
+MATERIAL HAS BEEN GRANTED BY 
+
+L . ^SV \L^C.K 
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC)." 
+
+
+
+Stress-Related Illnesses 2 
+
+
+
+ABSTRACT 
+
+The prevalence of stress-related medical conditions in Readjustment 
+Counseling Service (RCS) Vet Center clients was investigated. Six hundred 
+Vet Center clients were surveyed regarding history of 56 stress-related 
+medical conditions. The results indicated that veterans exposed to high stress 
+(combat) reported more medical problems than did veterans not exposed to 
+high stress (non-combat). Among body systems, musculoskeletal and 
+respiratory systems were shown to be especially affected by the high stress. 
+Veterans who reported a high number of psychological symptoms (PTSD) 
+also reported more stress-related medical conditions than others. 
+
+
+
+
+3 
+
+
+
+Stress-Related Illnesses 3 
+
+
+
+A Survey of Stress-Related Illnesses 
+
+Although the relationship between psychological stress and physical 
+illness was elaborated more than forty years ago (Selye, 1956), much remains 
+to be learned about the long term health consequences of severe 
+psychological trauma. Our purpose in conducting this study was to gain 
+further knowledge specifically as pertains to the long term health 
+consequences of exposure to combat traiuna. Of late, this issue has become 
+critical as changes to the nation’s healthcare system for veterans have 
+mandated shifting of resources and increased collaborative endeavors among 
+providers of psychological and physical health care. 
+
+Selye had speculated that high stress accompanied by chronic 
+hyperarousal would eventually lead to physical damage to one or more body 
+systems (Selye, 1956). More recently, Everly (1989) concluded that the 
+increased blood pressure, muscle tension, and heart rate associated with high 
+stress was at the psychogenesis of a number of gastrointestinal, 
+cardiovascular, respiratory, musculoskeletal, skin, immune, and psychological 
+disorders. Although the precise mechanisms by which chronic or severe 
+stress could lead to development of physical health problems remain unclear, 
+
+it has been speculated that functional changes in endocrine or hormonal 
+
+o 
+
+ERLC 
+
+
+
+4 
+
+
+
+Stress-Related Illnesses 4 
+
+
+
+systems could result in weakened immune systems and consequent increased 
+vulnerability to various diseases (Schneiderman, McCabe, & Baum, 1992). 
+
+Research with combat veterans has generally supported a link between 
+psychological stress and physical illness. The National Vietnam Veterans 
+Readjustment Study reported that men and women exposed to high levels of 
+war zone stress reported higher rates of physical health problems than other 
+theater veterans, era veterans, and civilians (Kulka, Schlenger, Fairbank, 
+Hough, Jordan, Mannar, & Weiss, 1990). Also, recent researchers 
+investigating biological changes in male Vietnam Veterans with PTSD 
+concluded that pennanent changes occurred in the regulation of the 
+hypothalmic-pituitary-adrenal axis following traumatic experiences (Yehuda, 
+Boisoneau, Lowy, & Giller, 1995). 
+
+Several investigators reported evidence that certain reactions to high 
+stress (e.g., PTSD) may exacerbate subsequent health problems (Friedman & 
+Schnurr, 1996). Wolfe, Schnurr, Brown and Furey (1994) showed that 
+exposure to high stress and presence of PTSD symptoms were together more 
+predictive of health problems in trauma survivors than exposure to trauma 
+alone. Similarly, Boscarino (1997) found that veterans with PTSD have 
+higher lifetime prevalence of circulatory, digestive, musculoskeletal, and 
+other disorders as many as twenty years after serving in the military. 
+
+ERIC 
+
+
+
+5 
+
+
+
+Stress-Related Illnesses 5 
+
+
+
+It is important to note that one recent study failed to find support for a 
+link between psychological stress and physical illness. Gray, Coate, 
+Anderson, Berg, Wignall, Knoke, and Barrett-Connor (1996) examined the 
+utilization of health services by Persian Gulf veterans. They found that 
+combat and non-combat veterans had similar rates of hospitalization over a 
+two-year period following the Persian Gulf war. 
+
+Specific purposes of our study were to answer the following questions. 
+Do veterans exposed to high stress (combat) report more health problems 
+than veterans not exposed to high stress (non-combat)? What body systems 
+are most vulnerable to combat stresses? What demographic characteristics of 
+veterans are associated with increased risk for health problems? And, are 
+veterans who report psychological problems more likely to report health 
+problems? 
+
+Veterans participating in this study were active clients of Department 
+of Veterans Affairs Readjustment Counseling Service Vet Centers. Vet 
+Centers are small (average staff of four persons), community-based 
+counseling centers established by Public Law in 1979 to assist veterans with 
+such readjustment issues as PTSD, substance abuse, employment problems, 
+family or marital issues, homelessness, and other concerns. 
+
+
+
+Stress-Related Illnesses 6 
+
+
+
+Method 
+
+Subjects 
+
+Twelve Vet Centers in the Southeast were randomly selected to 
+participate in this study. Each team administered a survey questionnaire to 
+fifty consecutive clients. Veterans who were intoxicated, acutely psychotic, 
+or in crisis were not asked to complete questionnaires. 
+
+Instrument 
+
+' The survey questionnaire was a self-report five-page checklist of basic 
+
+demographic data and fifty-six physical disorders. Physical disorders were 
+grouped by body system (skin, respiratory, gastrointestinal, endocrine, 
+senses, musculoskeletal, cardiovascular, urogenital, and neurological). In 
+addition, there were a total of eight psychological items on the survey, all of 
+which have been linked to PTSD (Meichenbaum, 1994; Melman, Kulick- 
+Nell, Ashlock, & Nolan, 1994). These items included anxiety, depression, 
+nightmares, insomnia, phobias, vertigo, memory problems, and panic attacks. 
+The questionnaire could be completed in five to ten minutes with minimal 
+difficulty. Medical and psychological conditions were described in easy to 
+understand terms. Other researchers have reported that such self-reports of 
+health status were significantly correlated with measures of morbidity (Zautra, 
+
+Okun, Robinson, Lee, R&th, & Emmanual, 1989). 
+
+o 
+
+ERIC 
+
+
+
+7 
+
+
+
+Stress-Related Illnesses 7 
+
+
+
+Procedure 
+
+Participating Vet Centers were sent fifty questionnaires with 
+instructions and administration procedures. Veterans were informed that their 
+participation was voluntary, and their choice to complete the survey would 
+not impact on services. Surveys were completed in private and returned to 
+investigators in one batch when all surveys had been completed. There were 
+no personal identifying data on questionnaires. 
+
+RESULTS 
+
+Demographic Characteristics of Respondents 
+
+A total of six hundred veterans completed questionnaires. The average 
+age of respondents was 47.6 years, and ninety-three percent were males. The 
+three major cohorts of veterans were Vietnam Theater (65%), Vietnam-era 
+Non-Theater (14%), and Persian Gulf (8%). 
+
+Do Veterans Exposed to High Stress Report More Health Problems? 
+
+Veterans exposed to high stress (combat) reported ahnost twice the 
+number of medical conditions as those who were not exposed to high stress 
+(non-combat). Combat Veterans endorsed an average of 17.6 medical 
+conditions as compared to the non-combat Veterans who averaged 8.9. 
+
+
+
+Stress-Related Illnesses 8 
+
+
+
+Combat veterans who were awarded the Purple Heart reported somewhat 
+more medical conditions (m=17.8) than those who were not (m=14.6). 
+
+In order to determine if differences in number of medical conditions 
+reported by high stress and low stress veterans were statistically significant, a 
+comparison between Vietnam combat and Vietnam non-combat veterans was 
+performed. Vietnam combat veterans reported significantly more medical 
+conditions than era-veterans (chi-square=466.752, p<005). 
+
+What Body Systems Are Most Vulnerable to Combat Stresses? 
+
+Musculoskeletal disorders were the conditions most frequently 
+endorsed as having been experienced since leaving military service. Among 
+all disorders listed on the survey, the four most frequently endorsed 
+conditions were in this group (tension headache, backache, arthritis, and 
+twitching muscles). Respiratory disorders were the second most frequently 
+endorsed group. These included such conditions as sinusitis, allergy, and 
+colds. Table 1 displays body systems in rank order of endorsement. 
+
+What Demographic Characteristics Are Associated with Increased Risk for 
+Health Problems? 
+
+Four demographic characteristics were examined to identify possible 
+risk factors for health problems among veterans. These risk factors were 
+gender, period of service, ethnicity, and age. 
+
+
+
+Stress-Relaled Illnesses 9 
+
+
+
+Gender . Notwithstanding the fact that the vast majority of study 
+participants were male, the average number of items endorsed by males and 
+females was similar. Males averaged 15.2 conditions per veteran and females 
+averaged 15.7 conditions. Male and female veterans were alike in the kinds 
+of medical conditions reported. In order of frequency, male and female 
+veterans reported experiencing musculoskeletal, respiratory, and skin 
+disorders most frequently. 
+
+Period of Service . Veterans were divided into one of four groups to 
+examine effects of period of service on health problems: Vietnam Theater, 
+Vietnam-era non theater, Persian Gulf, and Korean War Zone. Vietnam 
+Theater veterans reported the highest average niunber of medical conditions 
+per veteran (17.8), followed by Korean War Zone veterans (12.8), Persian 
+Gulf veterans (11.5), and Vietnam non-theater veterans (8.8). 
+
+Ethnicity. Only eleven subjects were Native American. However, 
+Native American veterans reported the highest average number of medical 
+conditions (m=28.9). This finding is consistent with results of the recent 
+Matsunaga study (National Center for PTSD & National Center for American 
+Indian and Alaska Native Mental Health Research, 1997). It was found in 
+that study that American Indian veterans reported the poorest physical health 
+and highest level of use of medical care of any of the ethnic groups of the 
+
+
+
+Stress-Related Illnesses 10 
+
+
+
+Vietnam conflict. Average number of medical conditions reported by other 
+ethnic groups was as follows: Caucasian, 16.5; Hispanic, 14.6; and African 
+American, 11.9. 
+
+Data were further examined to identify differences among ethnic 
+groups in types of medical conditions reported. No differences were found 
+among ethnic groups in types of medical conditions. 
+
+Age. Veterans in the age group 50-59 years reported the highest 
+average number of medical conditions (m=17), and those 30-39 years 
+reported the least. Table 2 displays the average number of medical conditions 
+reported by each age group. The oldest group (70+), surprisingly, was only 
+fourth in average number of medical conditions reported. 
+
+Do Veterans Who Report More Psychological Problems Report More Health 
+
+Problems? 
+
+We compared the health conditions reported by two groups of 
+veterans: those reporting a low number of psychological conditions (0,1, or 2), 
+and veterans reporting a high number of psychological conditions (6,7, or 8). 
+
+Veterans in the low group reported an average of 5.9 medical 
+conditions. Veterans in the high group reported an average of 16.0 medical 
+conditions. These data are inteipreted as clearly supportive of the concept 
+
+
+
+
+11 
+
+
+
+Stress-Related Illnesses 1 1 
+
+
+
+that traumatized persons who develop psychological/PTSD symptoms are 
+most at risk to develop negative health outcomes. 
+
+Discussion 
+
+This investigation provided further evidence of a strong link between 
+severe stress and quality of health. In addition, findings supported the 
+concept that occurrence of psychological/PTSD symptoms is a critical factor 
+relating to which trauma survivors suffer more frequent health problems in 
+their later years. 
+
+The high frequency of certain reported medical conditions among 
+respondents to this survey suggests that comprehensive screening of 
+traumatized persons ought to include evaluation for musculoskeletal 
+(arthritis), respiratory (sinusitis), and cardiovascular (hypertension) disorders. 
+High occurrence of stress related health conditions observed among Native 
+American respondents supports findings of other researchers, and confirms 
+that traumatized Native American veterans should especially be a target for 
+health screenings. 
+
+Associated with a traumatic event history is a relatively high number 
+(39%) of subjects who report one or more medical problems of the 
+musculoskeletal body system. Apparently, the mechanism by which chronic 
+stress leads to physical health problems is such that tension headache, 
+
+
+
+Stress-Related Illnesses 12 
+
+
+
+backache, twitching muscles, arthritis and rheumatism become primary focal 
+points of the body’s response to stress. Medical interventions such as 
+relaxation therapy, biofeedback, massage therapy, physical therapy and 
+muscle relaxing medications would appear to be on the list of important 
+interventions that may be assistive to this group of veterans. 
+
+Thirty-five percent of the respondents reported high blood pressure. 
+This level of hypertension in the sample is far above the national rate of 
+fourteen percent estimated for the general population (Berkow, 1987). 
+Because of the long term negative health impact of hypertension, these data 
+suggest that medical professionals who work with combat veterans should 
+routinely screen for cardiovascular related illnesses. 
+
+The finding of a lack of a more linear relationship between age and 
+medical condition was surprising. It appears from the data that occurrence of 
+psychological symptoms was very strongly related to occurrence of other 
+health conditions as well. Respondents in the 18-29 and 30-39 year old age 
+groups reported the lowest rate of medical conditions. The 40-49 and 50-59 
+year old age groups had more medical conditions than any other age group, 
+including older veterans. This group includes Vietnam veterans who also 
+reported the most psychological/PTSD symptoms. We had expected that 
+older veterans would report more physical health concerns as a natural 
+
+
+
+Stress-Related Illnesses 13 
+
+
+
+consequence of aging. The group of Vietnam-era Non-Theater veterans 
+reported a lower average number of medical conditions than any other group. 
+It is probable that this group of veterans has not been impacted by combat- 
+related psychological trauma and its negative effect on physical health as have 
+the other groups of combat veterans. 
+
+Finally, in consideration of the findings of this study, it is important to 
+consider its limitations. Notwithstanding the fact that retrospective, self 
+report surveys are not uncommon in psychosocial and health research, it is 
+possible that reports about past conditions may have been influenced by 
+current psychological states or motives (maintaining benefits). 
+
+A second limitation of this study relates to the representativeness of the 
+sample. Although the Vet Centers were selected by random procedures, the 
+subjects were not. Rather, subjects were those veterans who came in for 
+scheduled appointments during the study timeframe. Also, how 
+representative treatment seeking veterans are as compared to the universe of 
+veterans is open to some conjecture. 
+
+With the above limitations in mind, the results of this survey indicate 
+that clinicians who work with combat veterans should be aware of the long- 
+term physical impact of severe psychological trauma on the human body. 
+
+Clinicians should consider extending their models of PTSD assessment and 
+
+o 
+
+ERiC 
+
+
+
+14 
+
+
+
+Stress-Related Illnesses 14 
+
+
+
+treatment (e.g., Hayman, Somers-Flanagan, & Parsons, 1987; Meichenbaum 
+1994) to include health screening. A close review of medical records along 
+with systematic health screening could help clinicians to diagnose and treat 
+these medical disorders before they become chronic physical conditions. 
+
+
+
+o 
+
+ERLC 
+
+
+
+15 
+
+
+
+Stress-Related Illnesses 15 
+
+
+
+TABLE 1 
+
+STRESS RELATED PHYSICAL ILLNESSES RANKED BY BODY 
+
+
+
+
+
+
+
+SYSTEM 
+
+
+
+
+
+
+Rank 
+
+
+Body System 
+
+
+Number Of 
+Items 
+
+
+Total 
+
+Responses 
+
+
+Avg. No. 
+Responses 
+Per Item 
+
+
+1 
+
+
+Musculoskeletal 
+
+
+7 
+
+
+1,826 
+
+
+260.9 
+
+
+2 
+
+
+Respiratory 
+
+
+7 
+
+
+888 
+
+
+126.9 
+
+
+3 
+
+
+Skin 
+
+
+5 
+
+
+616 
+
+
+123.2 
+
+
+4 
+
+
+Cardiovascular 
+
+
+7 
+
+
+861 
+
+
+123.0 
+
+
+5 
+
+
+Neurological 
+
+
+4 
+
+
+489 
+
+
+122.3 
+
+
+6 
+
+
+Gastrointestinal 
+
+
+7 
+
+
+734 
+
+
+104.9 
+
+
+7 
+
+
+Sensory 
+
+
+6 
+
+
+610 
+
+
+101.7 
+
+
+8 
+
+
+Glandular 
+
+
+3 
+
+
+173 
+
+
+57.7 
+
+
+9 
+
+
+Urogenital 
+
+
+10 
+
+
+380 
+
+
+38.0 
+
+
+
+Stress-Related Illnesses 16 
+
+
+
+TABLE 2 
+
+
+
+MEDICAL CONDITIONS, BY AGE GROUP 
+
+
+Aee Group 
+
+
+Average Number Of 
+Medical Conditions Reported 
+
+
+18-29 years 
+
+
+10.7 
+
+
+30-39 years 
+
+
+10.1 
+
+
+40-49 years 
+
+
+15.5 
+
+
+50-59 years 
+
+
+17.0 
+
+
+60-69 years 
+
+
+13.5 
+
+
+70-over 
+
+
+11.8 
+
+
+
+
+17 
+
+
+
+Stress-Related Illnesses 17 
+
+
+
+References 
+
+Berkow, R. (Ed.) (1987). The Merck Manual. Railway, NJ: Merck. 
+
+Boscarino, J. (1997). Diseases among men 20 years after exposure to severe 
+stress: Implications for clinical research and medical, care. Psychosomatic 
+Medicine . 59, 605-614. 
+
+Everly, G. (1984). A clinical guide to the treatment of the human stress 
+response . New York: Plenum. 
+
+Friedman, M.J., & Schnurr, P. (1966). The relationship between trauma, 
+PTSD, and physical health. In M.J. Friedman, D.S. Carney, & A.Y. Deutch 
+(Eds.), Neurobiological and clinical consequences of stress: From normal 
+adaptation to PTSD . New York: Raven Press. 
+
+Gray, G., Coate, B., Anderson, H., Berg, S., Wignall, F., Knoke, J., & 
+Barrett-Connor, E. (1996). The postwar hospitalization experience of U.S. 
+veterans of the Persian Gulf war. The New England Journal of Medicine , 
+335. 1505-1513. 
+
+ERIC 
+
+
+
+18 
+
+
+
+Stress-Related Illnesses 18 
+
+
+
+Hayman, P.M., Sommers-Flanagan, R., & Parsons, J. (1987). Aftermath of 
+violence: Postraumatic Stress Disorder among Vietnam Veterans. Journal 
+of Counseling and Development . 65, 363-371. 
+
+
+
+Kulka, R.A., Schlenger, W.E., Fairbank, J.A., Hough, R.L., Jordan, B.K., 
+Mannar, C.R., & Weiss, D.S. (1990). Trauma and the Vietnam war 
+generation: Report of findings from the National Vietnam Veterans 
+Readjustment Study . New York: Brunner/Mazel. 
+
+Meichenbaum, D. (1994). A clinical handbook/practical therapist manual for 
+assessing and treating adults with Post-Traumatic Stress Disorder . Waterloo, 
+Ontario (Canada): Institute Press. 
+
+Mellman, T., Kulick-Bell, R., Ashlock, L., & Nolan, B. (1995). Sleep events 
+in combat-related Post-Traumatic Stress Disorder. The American Journal of 
+Psychiatry , 152 . 110-115. 
+
+
+
+
+19 
+
+
+
+Stress-Related Illnesses 19 . 
+
+
+
+National Center for Post-traumatic Stress Disorder, & National Center for 
+American Indian and Alaska Native Mental Health Research. (1997). 
+Matsunaga Vietnam Veterans Project, Vols. 1&2 . White River Junction 
+(VT): National Center for Post-traumatic Stress Disorder. 
+
+Schneiderman, N., McCabe, P., & Baum, A. (Eds.) (1992). Stress and 
+disease processes. Hillsdale, N.J.: Erlbaum Assoc. 
+
+Selye, H. (1956). The stress of life . N..Y.: McGraw-Hill. 
+
+Wolfe, J., Schnurr, P., Brown, P., & Furey, J. (1994). Posttraumatic Stress 
+Disorder and War-zone exposure as correlates of perceived health in female 
+Vietnam war veterans. Journal of Consulting and Clinical Psychology , 62, 
+1235-1240. 
+
+
+
+Yehuda, R., Boisoneau, D., Lowy, M., & Giller, E., (1995). Dose-response 
+changes in plasma cortisol and lymphocyte glucocorticoid receptors 
+following dexamethasone administration in combat veterans with and 
+without Posttramnatic Stress Disorder. Archives of General Psychiatry, 52^ 
+
+583-593. 
+
+o 
+
+ERIC 
+
+
+
+20 
+
+
+
+Stress-Related Illnesses 20 
+
+
+
+Zautra, A., Okun., M., Robinson, S„ Lee, D., Roth, S., & Emmanual, J. 
+(1989) Life stress and lymphocyte alterations among patients with 
+Rheumatoid Arthritis. Health Psychology , 8, 1-14. 
+
+
+
+
+21 
+
+
+
+References 
+
+
+
+Berkow, Robert, MD, (1987). The Merck Manual, Merck & Co., Inc., 1292. 
+
+Boyle, C.A., Decoufle, P., Delaney, R.J., Destefano, F., Flock, M.L., Hunter, M.I., 
+Joesoef, M.R., Karon, J.M., Kirk, M.L., Layde, P.M., McGee, D.L., Moyer, L.A., 
+Pollock, D.A., Rhodes, P., Scally, M.J., Worth, R.M. (1987). Postservice Mortality 
+Among Vietnam Veterans . (U.S. Department of Health and Human Services, Public 
+Health Service, Centers for Disease Control, 1-2.) 
+
+Colorado Health Net, (1997). An Overview of Arthritis and Related Disorders. Internet 
+address, [http://bcn.boulder.co.us/health/chn/arthritis/arth_over.html]. 
+
+Elder, G.H. Jr., Ph.D., Shanahan, M.J., Ph D., Clipp, E.C., Ph.D., R.N. (1997). Linking 
+Combat and Physical Health: The Legacy of World War II in Men’s Lives. American 
+Journal Psychiatry. 154:3, March, 330-336. 
+
+Everly, G.S. Jr., (1989). A Clinical Guide to the Treatment of the Human Stress 
+Response. Plenum Press, New York. 
+
+Goldberger, L., and Breznitz, S., (1982). Handbook of Stress. Theoretical and Clinical 
+Aspects. The Free Press, New York. 
+
+Kulka, R.A., Ph.D.j Schlenger, W.E., Ph.D., Fairbank, J.A., Ph D., Hough, R.L., Ph D., 
+Jordan, K.B., Ph.D., Marmar, C.R., MD, Weiss, D.S., Ph.D., Grady, D.A., Psy.D., 
+(1990) Trauma and the Vietnam War Generation. Brunner/Mazel, New York. 
+
+Lating, J.M. and Everly, G.S. Jr., (1995). Psychophysiological Assessment of PTSD. In 
+Everly and Lating (Ed.) Psychotraumatologv. Plenum Press, New York. 129-145. 
+
+Selye, H., (1956). The Stress of Life. McGraw-Hill, New York. 
+
+Ullman, S.E., and Siegel, J.M., (1996). Traumatic Events and Physical Health in a 
+Community Sample. Journal of Traumatic Stress. 9(4), 703-721. 
+
+van der Kolk, B., McFarlane, A.C., Weisaeth, L., (Ed.) (1996). Traumatic Stress. The 
+Effects of Overwhelming Experience on Mind. Body, and Society . The Guilford Press, 
+New York. 
+
+
+
+
+22 
+
+
+
+t 
+
+
+
+1 
+
+
+
+Wolfe, J., Schnurr, P.P., Brown, P.J., Furey, J. (1994). Posttraumatic Stress Disorder and 
+War-Zone Exposure as Correlates of Perceived Health in Female Vietnam War 
+Veterans. Journal of Consulting and Clinical Psychology, . 62(6), 1235-1240. 
+
+Yehuda, R., Boisoneau, D., Lowy, M.T., Giller, E.L., (1995). Dose-response changes in 
+plasma cortisol and lymphocyte glucocorticoid receptors following dexamethasone 
+administration in combat veterans with and without posttraumatic stress disorder. 
+Archives of General Psychiatry . . 52(7) July, 583-593. 
+
+
+
+
+23 
+
+
+
+U.S. Department of Education 
+
+Office of Educational Research and Improvement (OERI) 
+National Library of Education (NLE) 
+
+Educational Resources Information Center (ERIC) 
+
+REPRODUCTION RELEASE 
+
+
+
+(Specific Document) 
+
+I. DOCUMENT IDENTIFICATION: 
+
+
+
+Title: 
+
+A SURVEY OF STRESS RELATED ILLNESSES 
+
+
+
+
+Author(s): LARRY ASHLOCK, Ph.D. and PETER HAYMAN, Ph.D. 
+
+
+
+
+Corporate Source: 
+
+DEPARTMENT OF VETERANS AFFAIRS 
+
+
+Publication Date: 
+
+
+II. REPRODUCTION RELEASE: 
+
+
+
+
+
+
+
+In order to disseminate as widely as possible timely and significant materials of interest to the educational community, documents announced in the 
+monthly abstract journal of the ERIC system, Resources in Educetion (RIE), are usually made available to users in microfiche, reproduced paper copy 
+and electronic media, and sold through the ERIC Document Reproduction Service (EDRS). Credit is given to the source of each document, and, if 
+reproduction release is granted, one of the following notices is affixed to the document. 
+
+If permission is granted to reproduce and disseminate the identified document, please CHECK ONE of the following three options and sign at the bottom 
+of the page. 
+
+
+
+
+Level 1 Level 2A Level 2B 
+
+i i r 
+
+
+
+x 
+
+
+
+
+Check here for Level 1 release, permitting reproduction Check here for Level 2A release, permitting reproduction Check here for Level 2B release, permitting 
+
+and dissemination in microfiche or other ERIC archival and dissemination in microfiche and in electronic media reproduction and dissemination in microfiche only 
+
+media (e.g., electronic) and paper copy. for ERIC archival collection subscribers only 
+
+Documents will be processed as indicated provided reproduction quality permits. 
+
+If permission to reproduce is granted, but no box is checked, documents will be processed at Level 1 . 
+
+
+
+Sign 
+
+here,-* 
+
+please 
+
+
+
+ERjt 
+
+
+
+/ hereby grant to the Educational Resources Information Center (ERIC) nonexclusive permission to reproduce and disseminate this document 
+as indicated above. Reproduction from the ERIC microfiche or electronic media by persons other than ERIC employees and its system 
+contractors requires permission from the copynght holder. Exception is made for non-profit reproduction by libraries and other service agencies 
+to satisfy information needs of educators in response to discrete inquiries. 
+
+
+
+Signature: a > 
+
+
+
+Organization/Address: 
+
+
+
+Readjustment Counsel: 
+VAMC Bldg. 11 (10B/R( 
+Bay Pines f FT. 33744 
+
+
+
+
+ock. Deputy Regional Manager 
+
+
+
+Deter Hayman, Asso c iate Regional Man ager 
+
+
+
+TO/598-9343 
+
+
+
+Idress: 
+
+
+
+613/398-9444 
+
+
+
+10/30/98_ 
+
+
+
+APa 98 
+
+
+
+(over) 
+
+
+
+

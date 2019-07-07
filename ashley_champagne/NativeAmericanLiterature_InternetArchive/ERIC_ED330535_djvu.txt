@@ -1,0 +1,1519 @@
+DOCUMENT RESUME 
+
+
+
+ED 330 535 
+
+
+
+RC 018 091 
+
+
+
+AUTHOR 
+TITLE 
+PUB DATE 
+NOTE 
+
+
+
+More, Arthur J. 
+
+Learning Styles of Native Americans and Asians. 
+13 Aug 90 
+
+22p.; Paper presented at the Annual Meeting of the 
+American Psycholoogy Association (98th , Boston, MA, 
+August 13, 1990) . 
+
+Information Analyses (070) — speeches/Conference 
+Papers (150) 
+
+
+
+PUB TYPE 
+
+
+
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+MF01/PC01 Plus Postage. 
+
+American Indian Education; * American Indians? * Asian 
+Americans; "Cognitive Style; Cultural Influences; 
+^Educational Research; Elementary Secondary 
+Education; * Learning Modalitias; Literature Reviews; 
+^Research Problems 
+"Native Americans 
+
+
+
+ABSTRACT 
+
+
+
+This paper reviews the literature on learning styles 
+
+
+
+of Native Americans and Asian-Americans. Four different operational 
+definitions of "learning style" or "cognitive style" are presented, 
+related terms are examir^d, and inconsistencies of usage in the 
+literature are discussed. Noting the great diversity among Native 
+American cultures, aspects of Native American learning style are 
+described; (1) visual-spatial mode of information processing; (2) 
+tendency toward the global end of the global-sequential continuum; 
+(3) high levels of field independence? (4) tendency toward the 
+imaginal end of the verbal-imaginal continuum; and (5) tendency 
+toward reflectiveness on the reflective-compulsive continuum. These 
+five aspects are also examined in. the literature on two 
+Asian-American cultural groups — Cantonese Chinese (primarily from 
+Hong Kong) and South Asians (from India, Pakistan, Sri Lanka, and 
+Bangladesh). This paper finds considerable support for the 
+proposition that culture affects learning style. However/ the 
+available research has a number of problems: (1) inconsistency in 
+operational definitions; (2) lack of comparability among studies; (3) 
+possibly inappropriate use of bipolar continua to describe learning 
+styles; (4) validity of test instruments across cultures; and (5) 
+dearth of cross-cultural studies on aspects other than field 
+independence/dependence. This paper contains 83 references. (SV) 
+
+
+
+*************************************** 
+
+* Reproductions supplied by EDRS are the best that can be made 
+
+* from the original document. 
+
+
+
+1 
+
+
+
+LEARNING STYLES OF NATIVE AMERICANS AND ASIANS 
+
+
+
+U S DEPARTMENT Of EDUCATION 
+
+OWk* of Educational HfWirt n a^d imp/o^mpnt 
+
+EDUCJ^IONAI m SOURCE INFORMATION 
+^ CENTFR <ER'C> 
+
+
+
+MirtOf cnang** **vr &w i^d* »o <»*p">*e 
+
+Po<ni& trt tie* npm.ons Maiefl »n diX w 
+mert do no! nfceMa'i'y w*»*nt nH«t:*' 
+
+
+
+Paper presented to 
+
+American Psychological Association 
+Boston, August 13, 1990 
+
+
+
+Arthur J. More, Ph.D. 
+University of British Columbia 
+Vancouver, Canada 
+
+
+
+PERMISSION TO REPRODUCE THIS 
+MATERIAL HAS BEEN GRANTED BY 
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) " 
+
+
+
+m 
+
+CO 
+
+o 
+
+CO 
+CO 
+
+a 
+
+
+
+O 
+
+00 
+
+ERIC 
+
+
+
+Culture is learned, but how does culture affect the processes 
+by which one learns? How does culture impact on the way one 
+perceives, thinks, organizes, reasons, ^tg res anc * retrieves 
+information? "Culture is first last and always learned ... [but] 
+few people have any notion of how little is really known about the 
+microcultural details of how learning proceeds - the implicit 
+cultural matrix of learning in different cultures (Hall, 1988, 
+22-23) . 
+
+Susan is a member of the Gitksan Indian nation. She is 11. 
+I remember her in a grade 5 lesson on government. Her teacher was 
+dynamic, warm and responsive. But Susan was really struggling with 
+some of the concepts. The night before I sat in her home as her 
+Grandmother explained the Potlatch, the Gitksan system of 
+government, an extremely complex system. Susan seemed to 
+understand. Two nights earlier I listened at a memorial feast as 
+an elder spoke about life, death and his spiritual beliefs. Some 
+very complex concepts, but Susan seemed to understand; her parents 
+also understood at a different level; and her Grandmother seemed to 
+understand at a level that only the wisdom of age can bring. 
+
+Susan was learning her culture. And her culture affected the 
+processes by which she learned. Susan's culture helped determine 
+her world view, her life experiences, the way she learned to learn, 
+the way she perceived, organized, reasoned and remembered. 
+
+I think of similar experiences I f ve had with other Native 
+Americans. I think of similar, yet different, experiences I've had 
+with Asian learners here in North America and in their homeland 
+cultures. And I wonder how much culturally-related processing we 
+miss as educators? How much do we fail to understand? How much do 
+we see as weaknesses rather than strengths? 
+
+This paper examines some of the relationship between culture 
+and learning processes, particularly learning styles. The results 
+are illustrated in two groups of cultures - Asians and Native 
+Americans. 
+
+Introduct ion 
+
+Educators in Ncrth America have long been curious and 
+concerned about the varied achievement of ethnic minority students. 
+Some minority groups, on the average, achieve well above majority 
+
+
+
+2 
+
+
+
+2 
+
+
+
+students in some areas, while some achieve far below (Gibson, 1987 j 
+Ogbu, 1987). There is abundant evidence of low achievement and 
+high drop out rates (Coleman, Campbell, Hobson, McPartland, Mood, 
+Winfield & York, 1966, Jacob & Jordan, 1987), and the cross-over 
+effect in which achievement begins to plummet at about age ten 
+(Hall, 1989). 
+
+Achievement problems of minority students have at least three 
+major sources. One is bias and discrimination in the education 
+systems (Grant, 1975; Gutman & Bar-Tal, 1982). Another is related 
+to economics (Coleman et al., 1966; Vernon, Jackson & Messick, 
+1988), The third is cultural, related to cultural differences and 
+"secondary cultural discontinuity" (Jacob & Jordan, 1987, p. 259). 
+"If we are going to equalize the opportunities we provide, we must 
+consider culture" (Bennett, 1986, p. 4). This paper relates to the 
+third source, but elements of the first two sources are involved 
+too. 
+
+In the remainder of the paper I examine the meaning of 
+"learning styles" and related terms. Then I discuss application of 
+learning styles to understanding cultural differences in the way 
+students learn. Finally, I apply this to Native American and Asian 
+learners. A premise throughout is that culture does affect 
+learning styles, but there are not clear learning style patterns or 
+profiles that are unique to each cultural group. 
+
+I have made some rather arbitrary limitations to keep the size 
+of the paper manageable, One limitation is to emphasize cognitive 
+and perceptual processes at the expense of social emotional 
+factors, and I tend to emphasize formal learning situations. I 
+have also avoided a search for pervasive personality traits and 
+focussed on components of processing. Finally, I have emphasized 
+North American learners with some reference to their homeland 
+cultures. 
+
+What is Learning Sty le 
+
+Picture for a moment six year old John doing the Block Design 
+task on the WISOR in which he must reproduce, with colored blocks, 
+a design illustrated for him on a card. His many eye movements 
+back and forth from design to blocks may indicate he is copying the 
+design, section by section, part by part. Picture a second boy, 
+Alec, who looks only occasionally at the original design and 
+concentrates his eye movements on the block design he is building. 
+John may be using an analytic-sequential learning style; Alec may 
+be using a global learning style. 
+
+Picture Susan in the Grade 5 class on government. Susan may 
+be using imagery to understand the concepts, while her teacher may 
+be concentrating on verbal processes. 
+
+The concept of learning style has its bases in individual 
+differences and in cognitive psychology (Keefe, 1990). The term 
+customarily refers to the usual cognitive processes by which a 
+learner perceives, codes organizes and remembers (Keefe, 1987; 
+Schmeck, 1988). Learning styles may also refer to characteristics 
+of the physical environment in which an individual learns (e.g. 
+
+
+
+9 
+
+ERLC 
+
+
+
+3 
+
+
+
+3 
+
+
+
+Wauters et al., 1989) or solely to sensory modality (Kaulback, 
+1984) . 
+
+Cognitive style is usually defined in a manner very similar to 
+the definition of learning styles (Messick, 1984 t p. 61; Shipman & 
+Shipman, 1985, p. 229) or used interchangeably (Kyllonen & Shute, 
+1989) , except when it refers specifically to Witkin's notion of 
+field independence (Witkin & Goodenough, 1977). Generally learning 
+style is used with learning taskr and cognitive style with broader 
+cognitive task. 
+
+The connotation of "style" is inconsistent throughout the 
+literature, sometimes even within the same study (e.g., Kaulback, 
+
+1984) . Style is used operationally in at least four different 
+ways: 
+
+1. the usual (or characteristic) cognitive or learning process 
+(e.g., Messick, 1984). 
+
+2. the preferred (i.e., preference stated by subject) process 
+(e.g., Kolb, 1985). 
+
+3. the strongest (similar to a cognitive ability ) process (e.g., 
+Ramirez & Castaneda, 1974), or 
+
+a specific cognitive or learning process (e.g., Kirby, et al,, 
+1988). 
+
+There is often an implicit assumption that the process for 
+which an individual states a preference is the same as the 
+individual's usual process, and is also the same as the strongest 
+process. There is nothing in the literature to support such an 
+assumption. Conceptually the meanings are different, aloeit 
+related. The second boy, Alec, in the example above: may usually 
+use a global process in to Block design; he may say he prefers a 
+global process (although not likely for 6 year old) ; he may have a 
+strength in using a global process; or we may refer to the specific 
+global process he used in this situation. It will become 
+apparent from the selection of studies in this paper I see utility 
+in use of the first, and last two operational definitions. But I 
+have serious concerns about measures which uses stated preference, 
+especially for children (see also Davidman, 1981). 
+
+In this paper, learning style and cognitive style are used 
+interchangeably to refer to the usual cognitive process {cs) 
+employed by an individual in performing a cognitive task, unless 
+otherwise stated, (e.g., to distinguish between a usual learning 
+style and a learning style strength ) . 
+
+From the information processing perspective , learning sty] es 
+are governed by executive control processes (as in Gagne, 1974), or 
+Sternberg's (1988) metacomponents. The processes are considered to 
+be procedural knowledge stored in long term memory (as in Anderson, 
+
+1985) . The distinction between styles and strategies is both vague 
+and varied. Usually the former is more general, the latter more 
+specific to tasks and domains (Messick, 1984, p. 61-2). The two 
+boys in the example could be described as using two different 
+styles or two different strategies. 
+
+The distinction between cognitive abilities and styles is more 
+important and more clear, "styles are propensities rather than 
+abilities ; they are ways of directing the intellect that an 
+
+
+
+9 
+
+ERIC 
+
+
+
+4 
+
+
+
+individual finds comfortable" (Sternberg, 1990, p. 366) • ftote 
+however that cognitive abilities and learning style strengths are 
+conceptually similar, and their measurement often overlaps. There 
+are two differences in their measure. The first is usually in the 
+perspective of the investigator (e.g., a cloze test can be used as 
+a measure of verbal ability, or as a global learning style 
+strength). The second difference is usually that abilities are 
+much broader categories (e.g., verbal ability, numerical ability) 
+whereas learning and cognitive styles are narrower (e.g., global 
+style strength, visual style strength), 
+
+I have emphasized the meaning of learning style strengths 
+because it can be very useful in understanding learning processes, 
+provided it is not confused with usual learning styles. It is as 
+important for educators to know the learning style strengths of an 
+individual, as it is for them to know the usual learning styles. 
+In research, the terra can help to conceptualize strength of a 
+cognitive process without the usual associations that the term 
+ability has with intelligence and achievement. 
+
+Learning styles are usually bipolar continua (Tiedeman, 1989), 
+although there is no conceptual requirement to be bipolar. The 
+bipolar requirement is useful in educational applications, but in 
+the research it is unnecessary and often unsupportable at the 
+present. Examples of bipolar learning styles suggested by Kyllonen 
+& Shute (1989) include: holistic processing - serial processing, 
+active/impulsive orientation - passive/reflective orientation, top 
+down - bottom up, spatial representation - verbal representation. 
+Witkin* s field dependence - field independence (Witkin & 
+Goodenough, 1977) is the most researched measure of cognitive 
+style. It is dismissed by some as a measure of ability (e.g., 
+Kyllonen & Shute, 1989) because it is operationally defined as a 
+learning style strength not as a usual style. Descriptions and 
+critiques of various types of learning and cognitive styles are 
+found in Messick (1976), More (1987), Shipman & Shipman (1989) and 
+Tiedeman (1989). 
+
+One problematic feature of learning style and cognitive style 
+research is the claim of one all-pervasive style, almost a 
+personality trait, that applies across all dimensions of human 
+functioning. Witkin claims that one's position of the field 
+independent - dependent continuum is consistent across perceptual, 
+intellectual, social and emotional domains for an individual 
+(Witkin & Goodenough, 19775 . The Kaufmans believed that the 
+simultaneous-sequential dimension was pervasive enough to base 
+their intelligence batter on it (Kaufman & Kaufman, 1983). Schmeck 
+felt that "all cognitive styles can be encompassed by one broad 
+inclusive dimension 11 (1988, p. 327). In my opinion, this sort of 
+claim is not supportable by the literature, nor it necessary. 
+
+Learning Styles and Culture 
+
+Let us return to the original question. How does culture 
+affect the processes by which one learns? What of the two boys, 
+described above doing the Block Design task of the WISC-R? If John 
+(analytic style) is Anglo and Alec is Native American (global 
+style) , is culture one of the factors in their learning style 
+
+
+
+5 
+
+
+
+5 
+
+
+
+selection? This could be the case (More, 1984). If they both 
+received the same score, do they have the same ability with "Block 
+Design" even though they appeared to use different processes? 
+Indeed, should their scores even be compared when they appear to 
+have used different processes? 
+
+Investigations of relationships between learning and culture 
+are not new (Cole, Jay, Click & Sharp, 1971) and they continue 
+unabated. However, the emphasis is on ability not process (e.g., 
+Irvine & Berry, 1988; Jacob & Jordan, 1987). Perhaps Sternberg's 
+(1990) advice needs to be applied specifically to the cultural 
+arena: "Styles of thinking and learning are every bit as important 
+as levels of ability and we ignore students thinking style at our 
+own peril - and theirs" (p. 367) . 
+
+There is certainly evidence of relationships between culture 
+and learning style. However, definition and measurement of those 
+relationships are problematic . Relationships between culture and 
+cognitive style, as conceptualized by Witkin, have been studied 
+extensively (e.g., Berry, 1976). Some consistencies have emerged 
+for various cultural groups including Mexican- Americans , 
+Native -American, Blacks, and Jewish Americans (Vernon, et al., 
+L988) . But considerable wi thin-group variation requires very 
+uduUious interpretation of the results. Furthermore, there are 
+major measurement problems: the measure is almost always 
+restricted to a perceptual task and it is a measure of proficiency 
+or strength of processing, not a measure of usual or characteristic 
+processing. 
+
+Qualitative observations of learners in their own cultural 
+setting suggest a strong link between culture and learning style 
+(Swisher & Deyhle, 1989; Cooper, 1980). Banks focused on minority 
+groups in the U.S., especially Black Americans, He reported that 
+some researchers "have found that -ethnicity has a powerful effect 
+on behavior related to learning" (1988, p. 461). Anderson also 
+focused on Black Americans. He concluded that cultural aspects of 
+cognitive/learning style, as "cultural assets", were important to 
+more effective educational service delivery (1988, p. 8). 
+
+The experimental anthropological work of Cole and others (Cole 
+et al., 1971; Cole & Means, 1981) demonstrates relationships 
+between culture and how people think. Their use of cognitive task 
+analyses comes very close to learning styles analysis. 
+
+One approach to studying relationships between culture and 
+learning styles is to analyze patterns of mental abilities in 
+different cultures. The "patterns of abilities hypothesis" 
+postulates that "members of different cultural groups will 
+typically develop different mental abilities or, more likely, that 
+they will develop the same abilities but to different degrees" 
+(Vernon et al., 1988, p. 208). It is the relative strengths of the 
+various abilities (cognitive styles?) within a particular cultural 
+category, that is the focus of interpretation. Most of the 
+abilities tested in North America are very broad (e.g., verbal 
+knowledge, memory, number, reasoning) and do not lend themselves to 
+a learning style/cognitive style interpretation. Measures of very 
+specific abilities could be useful in investigating culture ~ 
+learning styles relationships. Results from this approach, which 
+
+
+
+6 
+
+ERIC 
+
+
+
+6 
+
+
+
+indicates learning style strength , are not equivalent to results 
+which indicate usual learning styles. However, both types of 
+results will help to understand culture - learning style 
+relationships. In any event, "it would be premature to offer a 
+definitive statement regarding cultural influences on patterns of 
+abilities" (Vernon et al.» 1988, p. 229), let alone on learning 
+style strengths. 
+
+Native American Learning Styles 
+
+One of the difficulties in studying learning styles of Native 
+Americans is the great diversity among their various cultures. The 
+cultures of the Haida, the Malecite, the Navajo and the Creek are 
+very different. Even greater variety has been introduced by the 
+impact of non-indigenous cultures. Consequently, the discussion 
+below must be interpreted in the context of significant 
+inter-cultural differences among Native American cultures, as well 
+as intra-cultural differences and individual differences within 
+cultures. 
+
+Visual-spatial 
+
+One of the most common generalizations about Native American 
+information processing is in visual strength, visual spatial 
+strength and usual visual mode (Swisher & Deyhle, 1989). Visual 
+and visual-perceptual strengths are reported among Canadian Indians 
+and Inuit (McArthur, 1968) , among Alaskan Eskimos (Kleinfeld, 
+1973), the Kwakiutl (Rohmer, 1965) and the Pueblo (John Steiner & 
+Ostereigh, 1975). Reports of visual mode as a usual style are 
+reported among the Navajo (John, 1972) and Alaskan Eskimos 
+(Kleinfeld, 1973). 
+
+Many studies of Native American studies have shown superior 
+Block Design sub-scale scores on the WISC-R . Whether this shows a 
+spatial strength (Kaufman, 1979) or simultaneous (global, holistic) 
+strength (Kaufman & Kaufman, 1983), is unclear. 
+
+Global-Sequential 
+
+The global-sequential dimension is becoming increasingly 
+prominent (Schroeck, 1988, p. 329; Kirby, 1984; Keefe, 1990). I 
+have round it particularly useful with Native American students, 
+although I have used the learning style strength rather than usual 
+learning style conceptualization (More, 1988). Global processing 
+emphasizes the whole, tends to use scanning, makes greater use of 
+overviews and meaningful context. Sequential processing emphasizes 
+processing the parts in a temporal order, and breaking down into 
+component parts, analysis. A whole language approach to learning 
+to read may be more effective with a more global learner; a 
+phonetic approach may be more effective with a more sequential 
+learner. 
+
+A tendency toward global style strength over sequential for 
+Native Americans compared to Non Natives has been demonstrated in a 
+number of studies (More, 1988; Bryant, 1986; Krywaniuk, 1974) , If 
+it can be argued that Bannatyne 1 s categorization "Spatial ability 11 
+is significantly a global measure and "Sequencing ability" a 
+
+
+
+9 
+
+ERLC 
+
+
+
+7 
+
+
+
+7 
+
+
+
+sequential measure, then ve have additional indications of 
+global -sequential learning style strengths among Native Americans, 
+McShane & Plas (1982) recategorized WISC-R scores using Bannatyne 
+for a group of Ojibwa an Sioux children* They found Spatial scores 
+were indeed higher than Sequential scores. Kaufman and Kaufman 
+(1983, p. 152-154), using the K-ABC , reported Simultaneous scores 
+were greater than Sequential scores for a group of Navajo children 
+but not with a group of more assimilated Sioux children [The K-ABC 
+has been significantly discredited as a maasure of intelligence 
+(Steinberg, 1984) . However the criticisms do not appear to affect 
+the legitimacy of using some of the subscales as measures of 
+global-sequential processing for groups] . 
+
+Although the global- sequential continuum has been studied as 
+a learning style strength for Native Americans , there is very 
+little reported on it as a usual learning style. 
+
+The major problem with the use of the global-sequential 
+continuum is in its clarity as a construct, and therefore in its 
+measurement. Is global processing an internal, holistic and 
+simultaneous process, or is it a more external sensory-perceptual 
+process, or is it two related processes? Is sequential processing 
+the same as analytic processing? Are they two processes which 
+always occur together? Is global processing properly 
+conceptualized as being at opposite ends of a continuum or should 
+they be considered separately? These questions need to be answered 
+more clearly for more effective investigation to be possible. 
+
+Field dependence - Field Independence 
+
+A significant degree of research has been done using the field 
+dependence- field independence continuum and Native Americans. 
+Field independence is the cl<3p.ree to which an individual can 
+separate a figure from comf 'ex background, restructure information 
+to solve problems, distance oneself during social interaction 
+(Berry, van de Koppel &. Annis, 1988). 
+
+Berry (1976) found high levels of field independence for 
+hunting-gathering societies and industrial societies, He found 
+high levels of field dependence for agricultural societies. For 
+example, he found Native Americans who were migratory hunters and 
+gatherers in north western Canada to be more field independent than 
+the Native American in that area who relied on agriculture (Berry & 
+Annis, 1974). In general, studies have found Native Americans to 
+be relatively strong on field independence (Swisher & Dayhle, 1989; 
+Dinges & Hollenbeck, 1978; Weitz, 1971). This may be related to 
+the hunter-gatherer nature of most traditional Native American 
+cultures. Or it may be related to the combination of strong native 
+American visual-spatial abilities, and the usual measurement of 
+field independence with visual perceptual tasks such as the Rod and 
+Frame on the Embedded Figures Test (Denny, 1988; Swisler & Deyhle, 
+1989). Or it is likely a combination of both. 
+
+There are two significant problems with the use of the field 
+independence - dependence cont inuum and its use wi th Native 
+American cultural groups. The main problem is confusion between 
+the underlying construct and its measure. The underlying construct 
+is degree of psychological differentiation across perception, 
+
+
+
+o 
+
+ERIC 
+
+
+
+s 
+
+
+
+8 
+
+higher level cognitive processing, social interaction and affect* 
+But it Is usually measured only with a perceptual task. Is the 
+construct "exaggerated** (Vernon, 1972 , p. 366) far beyond its 
+importance? A second problem is that, while it does discriminate 
+between agricultural and industrial societies, it does not 
+discriminate in a useful manner between industrial and 
+hunter-gatherer societies. This limits its usefulness in 
+understanding cultural differences between Native American and 
+European cultures (Denny, 1988). 
+
+Verbal -Imaginal 
+
+Another continuum on which Native American learning styles can 
+be investigated is verbal- imaginal. The use of imagery as a tool 
+for understanding highly complex concepts was an important part of 
+learning in many traditional Native American cultures (Tafoya, 
+1982; John, 1972). Systems of legends are an excellent example of 
+such usage. The explanations of Susan* s Grandmother and the elder, 
+in ray example above, included many images. These were not just 
+visual images. Some were aural images, others were olefactory. 
+Some images were very abstract, not directly related to any of the 
+senses • 
+
+Observations of Susan, and informal interviews with Native 
+Americans of many ages and many tribes, have led me to suggest a 
+verbal -imaginal continuum of learning style. The imaginal end may 
+be more than visual coding for long term memory as in Faivio*s 
+(1971) work. It may enable a deeper level of processing, 
+especially in the use of analogies. It may be related to global 
+processing or it may facilitate it. But when I try to understand 
+the image behind the killer whale or the eagle, as Susan listened 
+to a legend, I realize that it is much more than simple visual 
+imaginal coding taking place. There seems to be a type of abstract 
+processing taking place that is qualitatively different from that 
+which is possible from the verbal label "killer whale'*. This is 
+conjecture at this point. But it appears to be a direction worth 
+pursuing. 
+
+Reflective - Trial/Error/Feedback 
+
+The reflective - impulsive continuum is a more commonly used 
+cognitive style continuum. A more impulsive learner responds more 
+quickly and usually has a higher error rate: the reflective 
+learner responds more slowly and usually has a 3ower error rate 
+(Messer, 1976). 
+
+Reflectiveness is often reported as an important aspect of 
+many Native American cultures. Furthermore, bas^d on reports of 
+the way many Native American children learn to learn (e.g., Swisher 
+&. Deyhle, 1989), one would expect to find greater reflectivity. 
+Study of this continuum as a learning style, is confounded by the 
+problem of self-confidence. As a result of the cultural dissonance 
+between home and school, many Native American .students show low 
+self-confidence in school (e.g., Bruneau, 1985). A student who has 
+low self-confidence in school is likely to reflect longer before 
+replying to a question, regardless of cultural background. 
+
+
+
+ERLC 
+
+
+
+9 
+
+
+
+9 
+
+
+
+There is an inconsistency between the expectation and the 
+research results ♦ The one study of Native American subjects in the 
+literature failed to find significant differences between Native 
+American and Non Native children (More, 1984) . 
+
+As I have tried to understand this inconsistency I reviewed my 
+interviews with Native American elders. This led me to 
+conceptualize the continuum as Reflective - Trial/Error/Feedback 
+(or TEF) . The Reflective end of the continuum is related to 
+traditional learning. It can be described as watch-them-do (e.g., 
+learning to make a fishnet), listen-then-do (e.g., learning values 
+through teachings of an elder), or think-then-do (e.g., thinking 
+through a response carefully before speaking). The term 
+Trial/Error/Feedback is used rather than Impulsive to more clearly 
+illustrate the process that occurs if this is to be an effective 
+learning process. TEF learning involves the learner attempting a 
+verbal response, knowing there will be some errors, and 
+successively refining the response on the basis of feedback. 
+
+Concern about the contrast between traditional learning styles 
+of many Native Americans and contemporary classroom practice has 
+been raised frequently enough to warrant further study of this 
+approach to learning styles. 
+
+Modality 
+
+At one time modality preference and learning style were 
+understood as synonymous by many people working in Special 
+Education. The meaning of learning style has broadened. But the 
+modality use and modality strength remain important in working with 
+Native American learners. This topic has already been covered 
+under the visual-spatial heading. The evidence indicates that 
+Native Americans generally use the visual mode more frequently and 
+more effectively in relation to the aural mode compared to Non 
+Native learners (Kaulback, 1984). 
+
+Asian Learning Styles 
+
+The variety of Asian cultures is almost overwhelming. It is 
+not the purpose of this section to imply they are the same. 
+Certainly students from Asian cultures have some similarities of 
+experience in North American schools - bias and discrimination, 
+often assumed to be culturally similar because of perceived 
+physical similarities, seen as similar because of perceived 
+reputation for relatively high achievement especially in math and 
+science. But even these similarities disappear upon closer 
+examination. 
+
+In this paper, I look *t only two Asian cultural groups - 
+Cantonese Chinese (primarily rrom Hong Kong) and South Asians 1 . 
+They were not chosen to imply that they represent all other Asian 
+cultures. They were chosen because they are two of the largest 
+groups of Asian North Americans, their cultures are very different, 
+and their number is rapidly increasing as a result of immigration 
+patterns. 
+
+
+
+10 
+
+
+
+10 
+
+
+
+Cantonese Chinese Learning Styles 
+
+The learning styles research on Cantonese students in Hong 
+Kong and in North America, is sparse by comparison to the Native 
+American literature (e.g., Gardner, 1986). There is some 
+literature on achievement and abilities which has a bearing on 
+learning styles (Chan & Vernon, 1988; Vernon et al., 1988). There 
+is also some anthropological literature (e.g., Guthrie, 1985) which 
+serves as useful background but is not discussed here. 
+
+Yu and Bain (1985) studied field independence-dependence, and 
+conceptual style using the Sigel Cognitive Style Test (Sigel f 1976) 
+and Vygotsky Blocks (Ghuman, 1975). Their subjects were 8-11 year 
+old Chinese and Chinese-English children in Hong Kong f as well as 
+Chinese-English and Anglo children in urban Alberta in Canada. 
+They found that the Chinese md bicultural children in both Hong 
+Kong and Canada scored significantly higher on field independence 
+than the Anglo children. They did not find significant differences 
+on conceptual style between the groups. Correlations between 
+cognitive style and conceptual style were statistically significant 
+but very low, the highest correlation was 0.16 (Yu & Bain, p. 
+140). 
+
+The results confirm other findings of higher field 
+independence among Chinese subjects (see also Enright, 1987; 
+Hansen, 1984) in both Hong Kong and North America. The low 
+correlational results "raise doubts concerning the claim of unity 
+of the perceptual and conceptual stylistic behaviors" (Yu & Bain, 
+1985, p. 140). 
+
+The results of Gardner's (1986) construct validity study of 
+the K-ABC have application to the global-sequential continuum. Her 
+subjects were Cantonese, English and Punjabi speaking third graders 
+in Vancouver and born in Canada. The Cantonese scored much higher 
+on Simultaneous (Global) than Sequencing processing. However a 
+confirmatory factor analysis, while supporting the 
+Simultaneous/ Sequential factor structure for English and Punjabi 
+students, failed to support the model for the Cantonese students. 
+Exploratory factor analysis supported a two factor, 
+rote-memory/reasoning structure. Examiners also noticed that "the 
+number of Cantonese appeared to remember the [Spatial Memory] 
+pictures in a set sequence usually moving from left to right" 
+(Gardner, 1986, p. 141). The high Simultaneous score came 
+primarily from the Triangles subtest (which had a high Simultaneous 
+factor loading) , and Spatial Memory (which had a very low 
+Simultaneous loading, but a high Sequential loading). The low 
+Sequential score came primarily from the Hand movements subtest 
+(which had a low Sequential loading) . In other words the Spatial 
+Memory subtest seemed to be processed sequentially, rather than 
+simultaneously as the model predicts, and processing style for Hand 
+movements was unclear. 
+
+Gardner's results raise serious questions about the use of the 
+K-ABC as a measure of intelligence especially across cultures. It 
+also a reminder of the problem of construct validity in 
+cross-cultural measurement. 
+
+However , there are some useful applications of the subscale 
+aside from the application to intelligence testing. The high 
+Cantonese scores on the Triangles (the highest Simultaneous 
+loading) and the much lower scores on the Number Recall subtest 
+
+
+
+11 
+
+
+
+(the highest Sequential loading), support the conclusion that the 
+Cantonese group was much stronger in Simultaneous (Global) 
+processing then Sequential compared to the English and Punjabi 
+children* 
+
+Studies by Flaugher & Rock (1982) and Vernon (1984) reported 
+that Chinese (language not given) students tend to have stronger 
+visual-spatial skills. This may be the reason for the high 
+Simultaneous scores. 
+
+The learning styles information in this section, so far, 
+relate to learning styles strength rather than usual learning 
+styles. There is a dearth of literature on usual learning styles 
+for Chinese learners. However, some additional information on 
+Chinese learning style strengths can be gleaned from research on 
+patterns of abilities. 
+
+If the emphasis is on patterns of ability within cultures, 
+reasonable hypotheses about the processing styles behind those 
+patterns can be generated. For example, Lesser (1976) developed 
+differential ability profiles for grade one Jewish, Chinese, Black 
+& Puerto Rican children in New York. He then used these profiles 
+to predict cultjral groupings from Grade 6 ability data on the same 
+children. In grade 1 he was able to predict cultural group 
+correctly on 56% of the children (66% of the Chinese) . Using the 
+same profiles he correctly predicted 58% on the Grade 6 abilities 
+(75% for Chinese). The Chinese profile was to score slightly below 
+the mean on Verbal, and above the mean on Reasoning, Number and 
+Space. A task analysis of the items in his ability measures could 
+produce hypotheses of the usual and/or stronger learning styles 
+which might produce this profile. 
+
+South Asian Learning Styles 
+
+One must be cautious in considering South Asian cultures 
+because of the vast differences within the sub-continent. 
+Language, religion, caste and geography are but four of the factors 
+which are related to the huge variations (Vernon, 1987; Sinha, 
+1979). 
+
+Vyas ( 1988) studied the field independence-dependence of 
+Gujarati boys in Gujarat, Britain ard the U.S. He also included 
+English middle-class and working class boys in Britain. The 
+Gujarati boys in Britain and the U.S. scored significantly higher 
+on field independence than the Gujarati boys in India but still 
+lower than the English speaking boys in Britain. This indicates a 
+trend from field dependence to greater field independence as the 
+boys were assimilated into their new cultures. 
+
+Vyas also concluded "that influences on field dependence are 
+more eraic (culture-specific) than etic (universal cross-cultures) 11 
+(Vyas, 1988 p. 145). In other words cultural influence is not as 
+great as influences within a culture in determining field 
+independence of a learner. 
+
+Gardner (1986) found thai, her sample of Punjabi-Canadian 
+children scored slightly higher on the Sequential scale than the 
+Simultaneous (Global) scale of the K-ABC. The confirmatory factor 
+analysis supported the two-factor structure of the K-ABC for 
+Punjabi children although the Hand Movements (a sequential task) 
+
+
+
+9 
+
+ERLC 
+
+
+
+12 
+
+
+
+12 
+
+subscale had little effect on either factor. To the extent that 
+sequential processing and field dependence are similar, Gardner's 
+results in North American corroborate those of Vyas in India and 
+Britain. Note that the cultural roots of Gardner's subjects were 
+in Punjab, whereas Vyas 1 subjects were from Gujarat - two very 
+different cultures. 
+
+There is considerable literature on cognitive styles and 
+abilities within India as they relate to caste, poverty and 
+urban-rural differences (Das, 1988; Sinha, 1979), Some of these 
+studies demonstrate differences between cultures and culture-like 
+groups within India. Sinha (1978) altered the Embedded Figures 
+Test (EFT) by associating stories with the perceptual disembedding 
+task, because he the EFT tasks appeared meaningless to Indian 
+subjects . He found that urban subjects scored higher on field 
+independence than rural, schooled scored higher than non -schooled. 
+
+Das and Khurana (1988) studied cas"e ; SES, and effect of 
+malnutrition on cognitive processes. Caste is no longei legal in 
+India but its effects are still apparent (p. 488-490) . He found 
+that high and low caste urban children did not differ on 
+Simultaneous task performance level. But higher caste children 
+scored higher on tasks which were significantly Sequential. One of 
+the Simultaneous tasks, Raven's Progressive matrices , is "often 
+regarded as an adequate test of nonverbal intelligence" and the 
+processing measured by the Sequential measures, especially 
+decoding, "is crucial to early stages of reading (p. 496). The 
+authors discussed the opportunity of higher caste children to 
+develop their Sequential processing skills in the home environment 
+and used this to discuss the lower achievement level of many lower 
+caste children. 
+
+The low SES, and malnutrition studies showed that these 
+factors adversely affect cognitive development in young children 
+(Rao, 1979, cited in Sinha, 1988). However similar studies showed 
+that the "disadvantaged had an edge over the middle class in three 
+out of four dimensions" of creativity (Kaul, 1981, cited in Sinha, 
+1988). 
+
+The Indian studies, though few, show some interesting 
+results. They tend to show Indian students as higher in field 
+dependence than non-Indians. But, more interesting, they 
+demonstrate that factors other than culture have a significant 
+(possibly greater) effect on learning styles. 
+
+Conclusions and Discussion 
+
+We return again to the original question: How does culture 
+affect the process by which one learns? How does Susan's culture 
+affect her usual learning style and her learning style strengths ? 
+How do the cultures of John and Alec affect the processes they use 
+to do Block Design task? 
+
+There is considerable support for the proposition that culture 
+does affect the processes by which one learns. The research on 
+field independence-dependence (e.g. , Berry, 1976) , on the 
+relationships between learning at home and at school (e.g., Swisher 
+and Dehyle, 1989), on modality (e.g., Kaulback, 1984) on patterns 
+of abilities (e.g., Vernon et al., 1988) and on various bipolar 
+
+
+
+9 
+
+ERIC 
+
+
+
+13 
+
+continua (e.g. , Messick, 1976; More, 1984) demonstrate that 
+relationships exist. 
+
+The nature and direction of the relationships are not clear. 
+There are serious problems in understanding, defining and measuring 
+the constructs involved. A great deal of the research has been 
+limited to one construct, psychological differentiation (field 
+independence), and to perceptual measures of it. Few studies have 
+used comparable samples. 
+
+Inconsistency in the operational definition between usual 
+learning style and learning style strength is common. In many 
+studies, learning style is deferred as the usual process but 
+measured as process strength . Yet it is the combination of the two 
+that holds greatest promise for research and application. The 
+notion of learning style strength can be conceptualized without the 
+connotations that come from its relationship to intelligence. 
+Usual learning style can be measured through direct observation 
+rather than stated preference. Studies can be developed using both 
+learning style strength and usual learning style as dependent 
+variables. This would provide a potent source of meaningful 
+research results. 
+
+The use of bipolar continue to describe learning styles is 
+popular and useful in an educational setting. But it unnecessarily 
+complicates the research. At this point it is more useful to 
+define and develop appropriate measures of the processes, 
+separately, for each end of each continua. Once the frequency and 
+strengths of each process can be measured, then the question of 
+bipolar ity can be investigated. 
+
+As in all cross-cultural research, one encounters the problem 
+of different implications for different cultures, for the same 
+learning task. If the differences imply different cognitive 
+processes then we are measuring that which we want to measure. But 
+if the differences come from other sources (for example, 
+differences in motivation to find the one correct response for a 
+Japanese person compared to a South Asian person) there is serious 
+validity problem (see Irvine, Schoeman and Prinsloo, 1988 for a 
+more complete discussion). 
+
+There is a dearth of cr oss-cul tual studies of 
+cognitive/ learning styles other than field independence- 
+dependence. Higher level cognitive processes in particular, need 
+more investigation. This is not a simple task even within one 
+culture. But the potential for understanding human cognitive 
+functioning makes the effort worthwhile. 
+
+A major application of learning styles is in education 
+especially in a cross-cultural setting. A four step model can be 
+used. 
+
+1. Identify learning styles of individuals. 
+
+2. Match teaching styles to stronger learning styles for 
+difficult, important learning tasks. 
+
+3. Strengthen weaker learning styles, since some tasks require a 
+particular style. 
+
+4 . Help students learn to select appropriate learning styles , 
+since appropriateness depends on both the learner and the 
+task (More, 1987). 
+
+In summary, it appears that culture does affect the learning 
+styles of Susan, John, and Alec (examples above) , although it 
+
+
+
+9 
+
+ERLC 
+
+
+
+14 
+
+
+
+does not completely determine their learning styles* The topic is 
+a direction well worth pursuing in research and program 
+development. But for *.ww, educators working with Susan, John or 
+Alec will have to rely more on professional judgement and 
+experience than on the results of research. 
+
+
+
+Footnotes 
+
+1 South Asia refers to the Indian sub-continent and includes 
+India, Sri Lanka, Pakistan, Bengal & Bangladesh. It seems to be 
+the most commonly accepted term for the region. 
+
+
+
+15 
+
+
+
+15 
+
+
+
+References 
+
+Ackerman, P.L., Sternberg, R.J., & Glaser, R. (Eds.), Learning and 
+individual differences: Advances in theory and research . New 
+York: W.H. Freeman. 
+
+Anderson, J. A. (1988). Cognitive styles and multicultural 
+populations. Journal of Teacher Education , 39(1), 2-9. 
+
+Anderson, J.R. (1985). Cognitive psychology and its implications , 
+second edition. New York: W.H. Freeman. 
+
+Banks, J. A. Ethnicity, class, cognitive and motivational styles: 
+Research and teaching implications. Journal of Negro Education , 
+57(A), 452-66. 
+
+Bennett, C.I. (1986). Comprehensive multicultural education: 
+Theory and practice . Boston: Allyn and Bacon. 
+
+Berry, J.W. (1976). Human ecology and cognitive style: 
+Comparative studies in psychological adaptation . New York: 
+Sage-Hals tead. 
+
+Berry, J.W. & Annis, R.C. (1974). Ecology, culture and 
+psychological differentiation. International Journal of 
+Psychology , 9, 173-193. 
+
+Berry, J.W. , van de Koppel, J.M.H. &. Annis, R.C. (1988). A 
+comparative study of cognitive style among Biaka pygmies and 
+Bangadu villagers. In J.W. Berry, S.H. Irvine, E.B. Hunt 
+(Eds.) Indigenous Cognition . Dordrecht: Martinus Nijhoff. 
+
+Bruneau, O.J. Self concept: A comparison -jf Native American and 
+Anglo preschoolers. Psychology in the Schools , 22(4), 378-79. 
+
+Bryant, H.W. U986) . An investigation into the effectiveness of 
+two strategy training approaches on the reading achievement of 
+grade one Native Indian children. Unpublished doctoral 
+dissertation: Vancouver: University of British Columbia. 
+
+Chan, J.W.C. &. Vernon, P.E. (1988). Individual differences among 
+the peoples of China. In S.H. Irvine & J.W. Berry (Eds.), Human 
+abilities in cultural context . Cambridge: Cambridge University 
+Press. 
+
+
+
+ERIC 
+
+
+
+16 
+
+
+
+16 
+
+Cole, M. & Means, B. (1931). Comparative studies of how people 
+think . Cambridge: Havard University Press. 
+
+Cole, M. , Gay, J., Glic* t J. A. & Sharp, D.W. (1971). The cultural 
+context of learning and thinking . New York: Basic Books. 
+
+Coleman, J.S., Campbell, E.Q. , Hobson, C.J., McPartland, J., Mood, 
+A.M., Weinfeld, F.D., & York, R.L. (1966). Equality of 
+educational opportunity . U.S. Department of Health , Education 
+and Welfare. Washington, DC: Government Printing Office. 
+
+Cooper, G, (1980). Different ways of thinking, Minority Education , 
+2(5), 1-4. 
+
+Das, J. P. & Khurana, A.K. (19tf8). Caste and cognitive process. In 
+S.H. Irvine & J.W. Berry (Eds.). Human abilities in cultural 
+context . Cambridge: Cambridge University Press. 
+
+Davidraan, L. (1981). Learning style: The myth, the panacea, the 
+wisdom. Phi Delta Kappan , 62(3), 641-645. 
+
+Denny, J. P. (1988). Contextualization and differentiation in cross 
+cultural cognition. In J.W. Berry, S.H. Irvine & E.B. Hunt 
+(Eds . ) . Indigenous cognition: Functioning in cultural context . 
+Dordrecht: Martinus Nijhoff. 
+
+Dinges, N.G. & Hollenbeck, A.R. ( 1978), Field 
+dependence- independence in Navajo children. International 
+Journal of Psychology . 13 , 215-220. 
+
+Enright, D.S. Cognitive style and first language background in 
+secnd language test performance. TESOL Quarterly , 21 , 565-9. 
+
+Flaugher, R.L. , & Roch, D.A. (1977). Patterns of ability factors 
+among four ethnic groups (Research Memorandum No. 7).. Princeton, 
+NJ: Educational Testing Service. 
+
+Gagne, R.M. (1974) . Essentials of learning for instruction . 
+Hinsdale, IL: Dryden Press. 
+
+Gardner, J. (1986). Construct validity of the K-ABC for Cantonese, 
+English and Punjabi speaking Canadian children. Unpublished 
+doctoral dissertation. Vancouver: University of British 
+Columbia. 
+
+Ghuraan, P. A. (1975) . The cultural context of thinking . Windsor: 
+National Foundation for Educational Research. 
+
+Gibson, M.A. (1987). The school performance of immigrant 
+minorities: A comparative view. Anthropology & Education 
+Quarterly . 18(4) f 262-275, 
+
+Grant , C . A . ( 1975) . Racism in school and society. Education 
+Leadership , 33(3) f 184-188. 
+
+
+
+9 
+
+ERLC 
+
+
+
+17 
+
+
+
+17 
+
+
+
+Guthman, J., & Bar~Tal, D. (1982)* Stereotyping perceptions of 
+teachers. American Educational Research Journal , 19(4) , 
+519-5 3. 
+
+Guthrie, G.P. £1985) • A school divided: An ethnography of 
+bilinRual education in a Chinese community . Hillsdale, NJ: 
+Lawrence Erlbaura. 
+
+Hall, E.T. (1989). Unstated features of the cultural context of 
+learning* The Educational Forum , 54(1), 21-34. 
+
+Hansen, L. (1984). Field dependence- independence and language 
+testing: Evidence from six Pacific island cultures. TE50L 
+Quarterly , 18, 311-324. 
+
+Irvine , S .H. & Berry, J .W. (Eds . ) ( 1988) . Human abilities in 
+cultural context . Cambridge: Cambridge University Press. 
+
+Irvine, S.H. , Schoeman, A, and Prinsloo, W. (1988) . Putting 
+cognitive theory to the test; group testing reassessed using 
+the cross-cultural method. In G.V. Verroa & C. Bagley (Eds.) 
+Cross-cultural studies of personality, attitudes and cognition . 
+New York: St. Martin* s Press. 
+
+Jacob, E. , & Jordan, C. (Eds.) (1987). Theme issue: Explaining 
+the school performance of minority students. Anthropology & 
+Education Quarterly , 18(4) . 
+
+John, V.P. (1972). Styles of learning - styles of teaching: 
+Reflections on the education of Navajo children. In C. Cazden, 
+D. Hymes & V.P. Johns (Eds.) Functions of language in the 
+classroom . New York: Teachers College Press. 
+
+John-Steiner , V.P. & Osterreich, H. (1975). Learning styles among 
+Pueblo children. Unpublished manuscript. Albuquerque, NM; 
+Department of Educational Foundations , University of New 
+Mexico. 
+
+Kaufman, A.S. (1979). Intelligence testing with the WISC-R . New 
+York: Wiley & Sons. 
+
+Kaufman, A.S. & Kaufman, N.L. (1983), Kaufman assessment battery 
+for children: Interpretive Manual , Circle Pines, MN: America 
+Guidance Service. 
+
+Kaulback, B. (1984). Styles of learning among Native children. 
+Canadian Journal of Native Education , , 27-37. 
+
+Keefe, J.W. (1987). Learning style: Theory and^practice . Reston, 
+VA: National Association of Secondary School Principals. 
+
+Keefe, J.W. (1990) . Learning style: Where are we going? 
+Momentum . 21(1), 44-48. 
+
+K 4 rby, J.R. (1984). Cognitive strategies and educational 
+performance . New York: Academic. 
+
+
+
+18 
+
+
+
+18 
+
+Kirby, J.R., Moore, P.J., & Schofield, N.J. (1988). Verbal and 
+visual learning styles. Contemporary Educational Psychology , 
+13(2), 169-184. 
+
+Kleinfeld, J.S. (1979). Intellectual strenghts in culturally 
+different groups: An Eskimo illustration. Review of 
+Educational Research , 43, 341-359. 
+
+Kolb, D.A. (1985). Learning style inventory . Boston: McBea & 
+Co. 
+
+Xyllonen, P.C., & Shute, V.J. (1989). A taxonomy of learning 
+skills. In P.J. Ackerman, R.J. Sternberg & R. Glaser (Eds.) 
+Learning and Individual Differences . New York: Freeman and 
+Co. 
+
+Lesser, G.S. (1976). Cultural differences in learning and thinking 
+styles. In S. Messick (Ed.), Individuality in learning: 
+
+Implications of cognitive styles an d cr eativity for human 
+
+development . San Francisco: Jcssey-Bass. 
+
+McShane, D. & Berry, J.W. (1988). Native North Americans: India 
+and Inuit abilities. In S.H. Irvine &. J.W. Berry (Eds.), Human 
+abilities in cultural context . Cambridge. Cambridge University 
+Press. 
+
+Messer, S.B. (1976). Reflect ion- Irapulsivity: A review. 
+Psychological Bulletin . 83(6), 1026-1052. 
+
+Messick, S. (1976). Personality consistencies in cognition and 
+creativity. In S. Messick (Ed.) Individuality in learning . 
+San Francisco: Josey-Bass. 
+
+MacArthur, R.S. (1968). Some differential abilities of Northern 
+Canadian Native youth. International Journal of Psychology , 3, 
+43-51. 
+
+McShane, D.A. & Plas, J.M. (1982). Weschler scale performance of 
+American Indian children. Psychology in the schools , 19. 
+
+Messick, S. (1976). Personality consistencies in cognition and 
+creativity. In S. Messick, (Ed.) Individuality in learning . 
+San Francisco: Josey-Bass. 
+
+More, A.J. (1984). Okanagan Nicola Indian quality of education 
+study . Penticton, Canada: Okanagan Indian Learning Institute. 
+
+More, A.J. (1987). Native Indian learning styles: A review for 
+researchers and teachers. Journal of American Indian Education , 
+26(2), 17-29. 
+
+More, A.J. (1988). Educator attitudes, curriculum, student 
+achievement and learning styles. In M. Napoleon, Lillooet area 
+
+
+
+ERIC 
+
+
+
+19 
+
+
+
+19 
+
+Indian education study , Lillooet, B.C.: Lillooet Educatioa 
+Research Board. 
+
+Ogbu, J.U. (1987), Variability in minority school performance: A 
+problem in search of an explanation. Anthropology & Education 
+Quarterly . 18(4) , 312-334. 
+
+Paivio, A. (1971). Imagery and verbal processes . New York: 
+Holt, Rinehart & Winston. 
+
+Pask, G. (1988). Learning strategies, teaching strategies and 
+conceptual or learning style. In R.R. Schmeck (Ed.) Learning 
+strategies and learning styles . New York: Plenum Press. 
+
+Ramirez, M. , & Castaneda, A. (1974). Cultural democracy , 
+bicognitive development, and education . New York: Academic 
+Press. 
+
+Renzulli, J.S. , & Smith, L.H. (1978) . The Learning Styles 
+inventory: A measure of student preference for instructional 
+techniques . Mansfield Centre, CT; Creative Learning Press. 
+
+Rohner, R.P. (1965). Factors influencing the academic performance 
+of Kwakiutl children in Canada. Comparative Education Review , 
+9, 331-340. 
+
+Schmeck, R.R. (Ed.) (1988). Learning strategies and learning 
+styles . New York: Plenum Press. 
+
+Shipraan, S., & Shipman, V.C. (1985). Cognitive styles. Some 
+conceptual, methodological and applied issues. Review of 
+Research in Education , 12, 229-291. 
+
+Sigel, I.E. (1976). Sigel Cognitive Style Test , rev' sod edition, 
+Detroit: Merrill Palmer Institute. 
+
+Sinha, D. (1978). Story-pictorial EFT: a culturally appropriate 
+test for perceptual disembedding. Indian Journal of 
+Psycholog y. 
+
+Sinha, D. (1979). Cognitive and psychomotor skills in India: A 
+review of research. Journal of Cross Cultural Psychology , 
+10(3), 324-355. 
+
+Snow, R.E. (1989). Aptitude treatment irteraction as a framework 
+for research on individual differences in learning . In P . L . 
+Ackerraan, R.J. Sternberg & R. Glaser (Eds. ) Learning and 
+individual differences. New York: W.H. Freeman. 
+
+Sternberg, R.J. (1984) . The Kaufman Assessment Battery for 
+Children : An information processing analysis and critique. 
+Journal of Special Education , 18,(3), 269-279. 
+
+
+
+ERIC 
+
+
+
+20 
+
+
+
+Sternberg, R.J. (1988). A triarchic view of intelligence in 
+cross-cultural perspective. In S.H. Irvine, & J.W. Berry (Eds.) 
+Human abilities in cultural contact , Cambridge: Cambridge 
+University Press. 
+
+Sternberg, R.J. (1990). Thinking Styles: Keys to understanding 
+student performance. Phi Delta Kappan , 71, 366-371. 
+
+Swisher, K. & Deyhle, D. (1989). The styles of learning are 
+different, but the teaching is just the same: Suggestions for 
+teachers of American Indian youth. Journal of American Indian 
+Education , Special Issue, August 1989, 1-14. 
+
+Tafoya, T. (1982). Coyote eyes: Native cognition styles. 
+Journal of American Indian Education , 21(2) , 21-33. 
+
+Tiedemann, I. (1989). Measures of cognitive styles: A critical 
+review. Educational Psychologist . 24(3), 261-275. 
+
+Vernon, P. A. , Jackson, D.N., & Messick, S. (1988). Cultural 
+influences on patterns of abilities in North America. In S.H. 
+Irvine, & J.W. Berry, 'Eds.), Human abilities in cultural 
+context . Cambridge, MA: Cambridge University Press, 208-231. 
+
+Vernon, P.E. (1969). Intelligence and cultural environment . 
+London : Me t huen . 
+
+Vernon, P.E. (1984). Abilities and achievements of ethnic groups 
+in Canada with special reference to Canadian natives and 
+Orientals. In R. Samuda, J. Berry &. M. Laferriere (Eds.), 
+Multiculturalism in Canada: Social and educational 
+perspectives . Toronto: Allyn & Bacon. 
+
+Vernon, P.P.. (1987). Cognitive and motivational differences 
+between Asian and other societies. In S.H. Irvine & S.E. 
+Newstead (Eds.), Intelligence and Cognition . Dordrecht Martinus 
+Nijhoff. 
+
+Vyas, H. (1988). Education and cognitive styles: A case study of 
+Gujerti children in Britain, eastern United States and India. 
+In C. Bagley & G. Verma (Eds.) Multicultural childhood: 
+Education ethniciV-y and cognitive styles . Hampshire, England: 
+Gower Publishing. 
+
+Wauters, J.K., Bruce, J.M. , Black, D.R. , & Hocker, P.N. (1989). 
+Learning Styles: A study of Alaska Native and Non-Native 
+students. Journal of American Indian Education , Special Issue, 
+August, 1989, 53-62. 
+
+Weitz, J. (1971). Cultural change and field dependence in two 
+Native Canadian linguistic farailes. Unpublished doctoral 
+dissertation. Ottawa: University of Ottawa. 
+
+Williams, D.G. (1986). Simultaneous and sequential processing, 
+reading and neurological maturation of Native Indian (Tsimshian) 
+
+
+
+91 
+
+
+
+21 
+
+
+
+children, Unpublished doctoral dissertation, Vancouver: 
+University of British Columbia. 
+
+Witkin, H.A., & Goodenough, D.R. (1977), Field dependence and 
+interpersonal behavior* Psychological Bulletin , .84(1), 
+661-689. 
+
+
+
+Yu, A. & Bain, B. (1985)* Language, social class and cognitive 
+style; A comparative study of unilingual & bilingual education 
+in Hong Kong and Alberta . Hong Kong : Hong Kong Teachers 1 
+Association. 
+
+
+
+22 
+
+
+
