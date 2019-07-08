@@ -1,0 +1,3700 @@
+DOCUMENT RESUME 
+
+
+
+ED 462 216 
+
+
+
+RC 023 241 
+
+
+
+TITLE 
+
+INSTITUTION 
+PUB DATE 
+NOTE 
+
+
+
+AVAILABLE FROM 
+PUB TYPE 
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+American Indian and Alaska Native Education Research Agenda. 
+Department of Education, Washington, DC. 
+
+2001 - 00-00 
+
+55p.; Produced by the Research Agenda Working Group under 
+the direction of a Federal Interagency Task Force. Working 
+Group members are from the Office of Educational Research 
+and Improvement; Office of Indian Education; Bureau of 
+Indian Affairs, Office of Indian Education Programs; 
+Administration for Native Americans; National Indian 
+Education Association; National Congress of American 
+Indians; National Congress of American Indians; and Native 
+American Rights Fund. Expert Committee composed of National 
+Educational Research Policy and Priorities Board and 
+National Advisory Council on Indian Education. Prepared with 
+William Strang and Adrienne von Glatz (Westat) . 
+
+For full text: http://www.indianeduresearch.net/agenda.pdf. 
+Reports - Evaluative { 142 ) 
+
+MF01/PC03 Plus Postage. 
+
+Academic Achievement; Academic Standards; Alaska Natives; 
+*American Indian Education; American Indians; *Culturally 
+Relevant Education; Early Childhood Education; Educational 
+Assessment ; Educational Needs ; *Educational Research; 
+Elementary Secondary Education; Native Language Instruction; 
+*Outcomes of Education; Participatory Research; *Research 
+Needs; Special Education; Teaching Methods 
+*Research Priorities 
+
+
+
+ABSTRACT 
+
+
+
+Executive Order 13096 gave the U.S. Department of Education 
+the responsibility for developing a research agenda for American Indian and 
+Alaska Native education. The Department established a working group composed 
+of various government agencies and American Indian groups, committees, and 
+associations, that solicited ideas and comments from Native and non-Native 
+educators and researchers. This report focuses on the educational research 
+topics determined by the working group to have the highest priority over the 
+next several years. Several basic premises and assumptions permeated both the 
+research literature and the suggestions made to the working group: the need 
+for research to focus on success, to respect tribal sovereignty, and to be 
+sensitive to tribal differences; the need for detailed national data; and 
+suggestions concerning methodology and researchers. The priority research 
+topics are presented within six general categories: 1) educational outcomes 
+of American Indian and Alaska Native students; 2) Native language and 
+culture; 3) teachers, schools, and educational resources; 4) American Indian 
+and Alaska Native students with special needs; 5) early childhood educational 
+needs of Native children; and 6) educational standards and assessment. Each 
+category includes general statements about the state of current knowledge, a 
+presentation of the priority research topics along with examples of specific 
+study questions, and suggestions for research activities and specific 
+studies. An appendix includes Executive Order 13096 and lists of members of 
+the interagency task force, research working group, and expert committee. 
+(Contains 63 references.) (TD) 
+
+
+
+Reproductions supplied by EDRS are the best that can be made 
+from the original document. 
+
+
+
+American Indian and Alaska Native Education 
+Research Agenda 
+
+
+
+Research Agenda Working Group 
+
+
+
+With: 
+
+
+
+William Strang (Westat) 
+Adrienne von Glatz (Westat) 
+
+
+
+U.S. DEPARTMENT OF EDUCATION 
+
+Oftice of Educational Research and Improvement 
+
+EDUCATIONAL RESOURCES INFORMATION 
+CENTER (ERIC) 
+
+
+
+i document has been reproduced as 
+received from the person or organization 
+originating it. 
+
+□ Minor changes have been made to improve 
+reproduction quality. 
+
+
+
+• Points of view or opinions stated m thisdocu- 
+ment do not necessarily represent official 
+OERI position or policy. 
+
+
+
+
+
+BEST COPY AVAILABLE 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page i 
+
+
+
+Table of Contents 
+
+
+
+Introduction 1 
+
+Developing the Research Agenda 2 
+
+Organization of this Report and Sources for Other Project Materials 3 
+
+Basic Assumptions and Premises 4 
+
+Major Underlying Themes 4 
+
+Research Methods and Issues 6 
+
+Research Priorities for American Indian and Alaska Native Education 9 
+
+Educational Outcomes of American Indian and Alaska Native Students 10 
+
+Priority Research Topics 12 
+
+Suggested Studies 12 
+
+Native Language and Culture 16 
+
+Priority Research Topics 18 
+
+Suggested Studies 20 
+
+Teachers, Schools and Educational Resources 21 
+
+Priority Research Topics 23 
+
+Suggested Studies 23 
+
+American Indian and Alaska Native Students with Special Needs 27 
+
+Priority Research Topics 28 
+
+Suggested Studies 28 
+
+Early Childhood Educational Needs of Native Children 32 
+
+Priority Research Topics 33 
+
+Suggested Studies 35 
+
+Educational Standards and Assessments 36 
+
+Priority Research Topics 37 
+
+Suggested Studies 37 
+
+References 40 
+
+Appendices 
+
+1 Executive Order 13096 46 
+
+2 Interagency Task Force Members 50 
+
+3 Research Working Group 51 
+
+4 Research Agenda Expert Committee 52 
+
+
+
+
+3 
+
+
+
+American Indian and Alaska Native Education 
+Research Agenda 
+
+
+
+Introduction 
+
+The U.S. Department of Education, imder the direction of a Federal Interagency Task 
+Force, was given the responsibility for developing a research agenda for American Indian and 
+Alaska Native education in response to Executive Order 13096, American Indian and Alaska 
+Native Education. Section F of the Executive Order requires the development and 
+implementation of this agenda to improve the educational achievement and academic progress 
+for American Indian and Alaska Native students. The Executive Order specifies further that 
+the education research agenda wdl: 
+
+1 . Establish baseline data on academic achievement and retention of American Indian 
+and Alaska Native students in order to monitor improvement; 
+
+2. Evaluate promising practices used with those students; and 
+
+3. Evaluate the role of native language and culture in the development of educational 
+strategies. 
+
+This report responds to the Executive Order. It summarizes the current state of 
+research and describes the research topics that should be given the highest priority at the 
+federal level for research to be conducted over the next several years. Running throughout the 
+discussions of the research topics are considerations of appropriate research methods and 
+approaches and the clear demand from Native* educators, leaders, and parents that researchers 
+develop information that can be applied now. 
+
+In January 2001, the Secretaries of the Departments of Education and the Interior 
+submitted a “Comprehensive Federal Indian Education Policy Statement” to the President in 
+response to one of the requirements of Executive Order 13096. The Policy Statement, which 
+had been approved by their agencies as well as by the Federal Interagency Task Force 
+established by the Executive Order, highlights the importance of high-quality research and 
+information: 
+
+The Federal agencies will develop comprehensive baseline data concerning the 
+effectiveness of Federal efforts to improve the educational achievement and progress 
+of American Indians and Alaska Natives and encourage the creation of new 
+knowledge regarding best practices and the impact of Native language and culture on 
+the education of American Indians and Alaska Natives (Federal Interagency Task 
+Force, 2001, p. 4). 
+
+The Policy Statement included five implementation steps; the fourth step is - 
+
+
+
+* hi this report. Native is used interchangeably with the phrase American Indian and Alaska Native. Indian 
+or Alaska Native is used separately when the reference is specific, and quotations from other authors 
+frequently use Indian interchangeably with Native. 
+
+
+
+
+4 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 2 
+
+
+
+Federal Agencies shall report data and conduct studies related to the education 
+performance and progress of American Indian and Alaska Native students that are of 
+high quality and provide appropriate benchmarks and measurable objectives for 
+improving the six goals of &e Executive Order (Federal Interagency Task Force, 2001, 
+p. 5). 
+
+This research agenda report follows a notable line of other reports that made their 
+recommendations and left their influence on researchers and educators. In 1997, a large 
+number of Indian organizations and individual tribes pressed the federal government to 
+develop a comprehensive Indian education policy. In the preface to their “red book,” they 
+reminded the federal government: 
+
+The history of Indian education has been difficult. The Meriam Report (1928) and the 
+Kennedy Report (1969) documented the failure of formal education and called for 
+more Indian involvement, control, and relevancy in the educational process. The 
+Indian Nations At Risk Task Force (1991) recognized “twenty years of progress 
+during the 1970-80s, but concluded that Indian conmnmities were “nations at risk” 
+educationally. The White House Conference on Indian Education (1992) reached 
+similar conclusions and made specific recommendations for improvement 
+(Comprehensive Federal Indian Education Policy Statement, March 1997, p. i). 
+
+
+
+Developing the Research Agenda 
+
+The development of the research agenda was assigned to the U.S. Department of 
+Education’s Office of Educational Research and Improvement (OERI) and Office of Indian 
+Education (OIE) by Executive Order 13096. These offices estabhshed a working group to 
+carry out the assignment. The working group’s members represented major offices within the 
+U.S. Department of Education and, through a Memorandum of Understanding, also included 
+the Office of Indian Education Programs of the Bureau of Indian Affairs, U.S. Department of 
+the Interior. Other members of the working group included representatives from the 
+Administration for Native Americans (within the U.S. Department of Health and Human 
+Services), National Indian Education Association (NIEA), the National Congress of American 
+Indians (NCAI), and the Native American Rights Fund (NARF). The working group 
+established an Expert Committee composed of representatives from OERI’s Nationd 
+Educational Research Pohcy and Priorities Board (NERPPB) and from the National Advisory 
+Coimcil on Indian Education (NACIE). 
+
+The objective of most of the working group’s activities was to identify a limited set of 
+high-priority research topics that could serve as a framework and guide for federally 
+sponsored research over the next decade. The working group solicited ideas and comments in 
+general from Native and non-Native educators and researchers, and the group specifically 
+sought suggestions for high-priority research topics. In all, the working group gathered well 
+over three hundred imique suggestions, which were subsequently organized in terms of their 
+central focus, combined and recombined along common themes, and refined based on 
+information gathered from other working group activities 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 3 
+
+
+
+Deciding which research topics to emphasize involved hstening carefully to several 
+hundred people, reading and summarizing the research hterature, and analyzing federal data 
+collection activities. Ideas and comments were solicited at a series of Regional Partnership 
+Forums, which were convened by the Interagency Task Force, at a National Research Agenda 
+Conference sponsored by the working group, through a tear-off comment page on a project 
+brochure, through a visitor comment page on a web site developed by the working group, and 
+through attendance at numerous national and regional meetings of Native educators and 
+researchers. In addition, four papers were commissioned on central issues from noted Native 
+researchers, and two other respected Native researchers were tasked with developing a 
+literature review. Federal data collection systems were reviewed to determine their status and 
+utility for addressing research priorities. 
+
+The purpose of the research agenda project was to identify research priorities, not to 
+hst the universe of possibilities, so the sorted and combined hst of suggestions was distributed 
+for several review iterations by all working group members and the expert committee to assign 
+priorities. The final set of topics was discussed in a series of focus groups with educators and 
+Native parents. The chief loss from the process of winnowing down from a large number of 
+potential topics to just a few is that, inevitably, some of the imique details of people’s 
+suggestions get sifted out in the search for common strands. 
+
+One of the most significant themes that emerged from researchers, educators, and 
+parents in Indian coimtry was an eagerness to see research translated into practice. A 
+consistent recommendation to the federal government was to fund research that focuses on 
+effective educational practices and ways to implement them. 
+
+
+
+Organization of this Report and Sources for Other Project Materials 
+
+The balance of this report focuses on the education research topics determined by the 
+working group to be the highest priority for research efforts over the next several years. That 
+discussion begins with several basic premises and assumptions that speared to permeate both 
+the research literature as well as the suggestions made to the working group. The larger 
+portion of the report consists of presentations of the priority research topics. They have been 
+organized within six general categories: (1) educational outcomes of American Indian and 
+Alaska Native students; (2) Native language and culture; (3) teachers, schools, and 
+educational resources; (4) American Indian and Alaska Native students with special needs; 
+
+(5) early childhood educational needs of Native children, and (6) educational standards and 
+assessments. The discussion within each category begins with general statements about the 
+state of current knowledge, continues with a presentation of the priority research topics along 
+with examples of what could be termed specific study questions, and concludes with 
+suggestions for suggested research activities and specific studies. The report’s appendix 
+includes Executive Order 13096 and lists of Interagency Task Force, research working group, 
+and expert committee members. 
+
+This report summarizes the working group’s conclusions. Details about the working 
+group’s activities and copies of most of the products resulting from them can be foimd on the 
+web site that was developed for the project and that now serves a larger role in disseminating 
+research on American Indian and Alaska Native education. For example, that site contains the 
+papers commissioned for the project, summarizes the National Research Agenda Conference, 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 4 
+
+
+
+provides the literature and federal data systems reviews, and presents several iterations of the 
+research topics and questions suggested to the working group. The research agenda web site, 
+which is now supported by the Clearinghouse on Rural Education and Small Schools 
+(CRESS), can be foimd at www.indianeduresearch.net . The site also contains numerous link s 
+to other sources of information and to organizations active in American Indian and Alaska 
+Native education. 
+
+
+
+Basic Assumptions and Premises 
+
+This research agenda proceeds from a set of basic assumptions about conducting 
+research in Indian country. These assumptions are divided into two groups. The first group is 
+basic premises, which we have termed major imderlying themes, as to how research on 
+American Indian and Alaska Native education should be approached; the second is concerned 
+with premises about the research methods that should be used. 
+
+
+
+Major Underlying Themes 
+
+Research should include a focus on success. While understanding the educational 
+and social barriers facing American Indian students is important, too often research has 
+focused solely on “deficits” within Native communities. At present, educators and 
+administrators are eager for information about best practices. Examples of educational 
+success abound in Indian coimtry and future research should attempt to understand and 
+disseminate the essential elements of successful schools, programs, pedagogy, and curricula. 
+Certainly this does not mean that researchers should seek only good news. For one thing, 
+studies of successful practices carry with them the implicit recognition that some practices are 
+not successful, and those unsuccessful practices should also be identified as part of larger 
+efforts of school reform and improvement. For another, good research often requires 
+comparisons and controls, even when the purpose is to identify and vaUdate best practices. 
+
+Most of the research on American Indian and Alaska Native students has been 
+conducted by non-Native researchers and, historically, has been permeated by a perspective 
+that American Indian and Alaska Native culture is somehow less sophisticated and valued 
+than euro-centric culture. Thus, when American Indian and Alaska Native students do not 
+perform as well on some measures as do white students, the fault is laid at the feet of their 
+Native culture - not the schools. Sometimes the fault is ascribed to the “learning style” of 
+American Indian and Alaska Native children, a concept distinct from “culture” but related to 
+it. It is not clear from the literature, however, that the distribution of American Indian and 
+Alaska Native children on measures of learning style differs greatly from that of other 
+children. One of the primary ways this cultural perspective colors the r esearch is through the 
+implementation of standards and assessments for American Indian and Alaska Native students 
+that focus on the educational goals of the larger society, without also incorporating the 
+perspectives of Native communities and parents. 
+
+A recurring theme in the American Indian and Alaska Native education research 
+hterature is that measures of academic success - particularly standardized tests - provide 
+misleading indicators because they are based on assumptions of the majority culture. As 
+evidence, critics of standardized measures point to particular items that are simply unhkely to 
+
+
+
+
+7 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 5 
+
+
+
+be known by children from rural Native cultures. The point is not always made, however, that 
+such items are not necessarily valid measures, nor is it clear that Native children lack the 
+competence to answer such items provided that they have had the opportunity to learn about 
+them. 
+
+
+
+Researchers must respect tribal sovereignty. Federally recognized tribes maintain 
+sovereignty over many of their activities. How sovereignty has been defined has varied 
+through time, with the current era being one in which Native peoples have strongly promoted 
+their rights, and the federal government has sought to accommodate them. Public and pohtical 
+support for Native curricular and instructional approaches has wavered back and forth 
+throughout American history (Lomawaima, 1999; Szasz, 1999; Tippeconnic & Swisher, 
+
+1992). Researchers, Native or non-Native, need to respect tribal rights and work actively with 
+the tribes and villages to conduct research in such a way as to be responsive to local concerns 
+and to seek to produce findings that can be used locally. 
+
+When research is conducted on American Indian or Alaska Native students within 
+tribal or village settings, it is essential that the researchers involve and gain the active support 
+of the community. This would include tribal review of research designs and instruments, as 
+well as access to final data. Increasingly, tribes are asserting their rights in this area, and 
+many have developed formal or informal research regulations or policies governing research. 
+Whether or not such policies exist, the involvement of native communities in the research 
+process will help ensure “high-quahty research guided by locally meaningful questions and 
+concerns” (Lomawaima, 2000, pp. 14-15). When research includes Native American children 
+as a focus in large-scale studies, such as when national samples are augmented with additional 
+Native children to permit separate analysis, it may be impractical to seek to work with each 
+tribe. In these situations, researchers should seek the advice and support of such groups as the 
+National Advisory Committee on Indian Education and work closely with the Office of Indian 
+Education Programs (U.S. Department of the Interior, Bureau of Indian Affairs) and the Office 
+of Indian Education (U.S. Department of Education). Ideally, in these cases, experienced 
+Native researchers should be part of the study teams. However, expertise should remain an 
+essential basis for research decisions and for inclusion on research teams. 
+
+Respecting tribal sovereignty also does not mean that researchers should fail to 
+incorporate where appropriate what has been learned from studies of the education of non- 
+Native children or of Native children in other tribes or communities. On one hand, it is not 
+clear under what circumstances research conducted on students in general can be vahdly 
+apphed to American Indian and Alaska Native students because of the unique circiunstances 
+faced by Native students. On the other hand, it also is not clear that research on students in 
+general cannot be validly applied to American Indian and Alaska Native students in most 
+circumstances. 
+
+Research needs to be sensitive to tribal differences. Considerable cultural, 
+linguistic, economic, historical, and social differences exist among the Native peoples of 
+North America. Further, there are important differences in legal standing between federally 
+recognized and unrecognized Indian tribes and between American Indians and Alaska Natives. 
+Proposed research should take the fact of these differences into account, especially in designs 
+for large-scale studies that will involve multiple tribes and villages. 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 6 
+
+
+
+National studies that seek to explain differences among students need to go beyond 
+offering a single “American Indian or Alaska Native” choice on the race/ethnicity item. In 
+particular, those studies should seek detailed information about the social and economic 
+conditions within which the student was raised, find out whether the student has at least one 
+parent who is a registered tribal member, and ask for the name of the tribe. 
+
+Where the student has lived and for how long also may be imp ortant background 
+information that may reinforce or reduce the importance of tribal identity. Most Native 
+children do not attend a school on a reservation at any given time. In 1997-98, according to 
+the National Center for Education Statistics’ (NCES) Common Core of Data, about 534 
+thousand American Indian or Alaska Native students were enrolled in pubhc elementary or 
+secondary schools. The Office of Indian Education Programs of the Bureau of Indian Affairs 
+(U.S. Department of the Interior) reports fewer than 10 percent attend reservation schools, 
+with about 50 thousand students in 185 schools in 1998-99. In fact, the majority of American 
+Indian and Alaska Native students attend public elementary or secondary schools where they 
+are in the minority. According to NCES’ Common Core of Data, 46 percent of Native 
+students attend schools where minorities make up more than half the enrollment, and only 28 
+percent attend schools where Native children are in the majority. Mobility rates are high, 
+moreover, and a student attending an urban school one year may be in a tribal school during 
+the next year and then in a public school near the reservation after that. Family mobility 
+varies by reservation, with - as examples - 27 percent of Navajo reservation, 41 percent of 
+Osage reservation, and 57 percent of Agua Caliente reservation residents in 1985 not living in 
+the same house in 1990 (Census of Population and Housing, 1990). 
+
+
+
+Research Methods and Issues 
+
+Determining what to study, where, and how is politically and ethically charged. 
+Certainly the history of educational research involving American Indian and Alaska Native 
+students and their communities has predominately been directed by outsiders and, even if not 
+the intent, has often focused on “deficits” rather Aan strengths. To a certain extent, of course, 
+educational research in general has tended toward the negative by emphasizing standardized 
+test scores, which can almost always be better than they are. But the situation in Native 
+communities has traditionally been more extreme in that outsiders frequently have looked not 
+only at achievement and other measures of performance, but have selected norms for 
+comparison based primarily on students from middle class, non-Native American 
+backgrounds. 
+
+Of equal concern is that too much of the research on Native students and schools has 
+had limited applicability outside the situation and context that was studied because samples 
+have sometimes been very small or were selected from a unique population. This situation is 
+certainly not unique to research involving the education of American Indians and Alaska 
+Natives, but the field clearly needs more large-scale studies involving generahzable samples if 
+it is to provide optimal guidance about the nature of problems and the suitabihty of potential 
+solutions. Further, research has focused on the roughly 10 percent of Native students who 
+attend reservation schools or the approximately 17 percent who attend off-reservation schools 
+where American Indians or Alaska Natives are in the majority. The educational experiences 
+of most Native children have not been extensively studied. One of the most important 
+observations to emerge from the process leading to this research agenda is that more resources 
+
+
+
+
+9 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 7 
+
+
+
+need to be applied to this area, and some of those resources need to be concentrated on larger 
+and more inclusive studies than have been possible in the past. 
+
+Detailed national data are needed. Most of the research on Native students takes 
+advantage of the clustering of many of them in or near reservations, whether in BIA-funded 
+schools or local pubhc schools, and less emphasis is placed on the substantial proportion who 
+live in areas where Aere may be few if any other Native students in their classes. Although 
+concentrating on schools on or near reservations has made it possible to study phenomena 
+such as “learning styles” in isolation, it also may have made Native students look much more 
+ahke than they are. Further, locally focused studies that find Native students performing at 
+lower levels than members of other racial/ethnic groups are often conducted in schools with 
+inexperienced teachers, crumbling buildings, and few resources. More widely based studies, 
+or simply studies with sufficient cases to take other explanatory variables into account, could 
+have the effect of largely eliminating or attenuating associations between academic outcomes 
+and race/ethnicity. 
+
+There have been several deliberate attempts to learn more about Native students and 
+their schools from a national perspective in the last decade. The Schools and Staffing Surveys 
+conducted by NCES have, since the mid-1990s, made it possible to look at schools with high 
+proportions of American Indian and Alaska Native students in detail, and the report cards 
+submitted to OIEP by BIA-funded schools provide a wealth of data about school-level 
+resources and aggregated student outcomes. However, at the national level, major studies 
+usually cannot allocate their resources to obtaining adequate data on American Indian and 
+Alaska Native students to enable anything more than combining Native students into the 
+“other” race/ethnicity category. Recent exceptions have been the National Longitudinal Study 
+of Schools (NLSS) and the Early Childhood Longitudinal Surveys (ECLS). NLSS is a U.S. 
+Department of Education study that examines the effects of school reforms; it includes an 
+augmented sample of 110 schools with relatively high enrollments of Native Americans. 
+ECLS, supported by the National Center for Education Statistics (NCES), consists of two 
+parallel studies; the first, ECLS-K (for kindergarten cohort) follows a sample of children from 
+about age 3, and ECLS-B (for birth cohort) follows children from birth. ECLS-B includes an 
+augmented sample of Native American children, but ECLS-K does not. In addition, NCES’ 
+National Assessment of Educational Progress (NAEP), because of its large sample sizes and, 
+since the early 1990s, state-specific samples, permits fairly detailed analysis. However, even 
+those large-scale surveys and assessments do not permit inter-tribal comparisons, and the 
+sample sizes do not often allow other breakdowns of Native children. 
+
+Existing data address some arguably important education outcomes, particularly 
+academic achievement in reading and math and educational attainment, but there is a larger set 
+of educational outcomes - academic and non-academic - that is poorly covered now. New 
+data may be needed when existing data systems are not based on large enough samples of 
+American Indian and Alaska Native students or particular outcomes are not included. The 
+Department of Education should consider conducting a large-scale descriptive study of Native 
+education that would gather sufficient data on students, families, educators, and schools to 
+permit statements about what conditions at each of those levels are associated with one or 
+more outcomes. Such a study would be the first comprehensive effort to look at these 
+questions together since the national study by Fuchs and Havighurst in 1972. 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 8 
+
+
+
+Definitional issues should be resolved by American Indian and Alaska Native 
+tribes. Accurate identification of Native people is an important prerequisite to conducting 
+valid research, and tribes should take the lead in resolving these contentious issues. One of 
+the problems faced by national surveys is that they usually call for self-reported race/ethnicity 
+information. The bases on which individuals make judgments about themselves are not clear. 
+This ambiguity parallels the ambiguity of blood quantum and other measures for deter mining 
+tribal membership or eligibility for federal programs. For educational research, a fundamental 
+concern is accurate specification of the population of interest; that has not been the case for 
+most national studies that involve American Indian and Alaska Native students. For many 
+studies, such as those of Native children in schools on reservations or in Alaska Native 
+villages, self-identification or identification by teachers or staff is a reasonable procedure. 
+However, when studies call for comparing schools on their proportions of Native students or 
+for comparing children based on race/ethnicity, merely using self-identification or 
+teacher/staff identification is inadequate. At the least, for students (or others) who indicate 
+“American Indian or Alaska Native” on a form, there should be a follow-up question on tribal 
+enrollment or village residence. 
+
+Research on Native students should involve researchers with demonstrated 
+knowledge of Native culture(s). There is a growing cadre of highly qualified American 
+Indian and Alaska Native researchers, academics, and graduate students interested and trained 
+in education research. These individuals have important skills and perspectives to bring to 
+bear on educational and research issues related to Native co mmuni ties. Federal agencies 
+should encourage the continued growth in numbers and in the levels of knowledge and 
+expertise of this group to help ensure the availabihty of researchers who can demonstrate an 
+understanding of the cultural contexts of the proposed research agenda, and agencies should 
+encourage Native researchers to participate actively in these studies. For example, a research 
+structure and approach that make good sense in many situations is to have local Native 
+researchers conducting research within their own tribal settings as part of multi-site, single- 
+design studies administered nationally. Such a structure ensures sensitivity to local culture 
+and conditions and can permit valid inter-tribal comparisons. 
+
+Research quality should receive a high priority. The Federal Interagency Task 
+Force’s Comprehensive Policy Statement on Indian Education calls for “studies related to the 
+educational performance and progress of American Indian and Alaska Native students that are 
+of high quahty. . . " (Federal Interagency Task Force, 2001 , p. 4). High quality requires 
+adhering to accepted research standards and, in cross-cultural research, a key standard is 
+knowledge of the culture and language of the groups whose institutions are being studied. 
+Contractors and grantees conducting research proposed by this agenda should be able to 
+demonstrate knowledge and understanding of American Indian and Alaska Native culture(s) 
+and languages(s) wherever appropriate. In judging proposals and evaluating research on 
+American Indian and Alaska Native education, adherence to accepted research standards and a 
+demonstration of an imderstanding of cultural contexts of the proposed research should both 
+be weighted heavily. 
+
+Generalizable research findings are needed. American Indians and Alaska Natives 
+have been studied extensively by Native and non-Native researchers using ethnographic 
+techniques suitable for small concentrated populations, but what aspects of those studies may 
+be generahzed is not clear. This is the case because of differences between and among tribes, 
+villages, eras, hving conditions, and other local characteristics. Single case ethnographies can 
+
+
+
+
+li 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 9 
+
+
+
+provide valuable information about behaviors and outcomes within a specific context, but our 
+overall level of knowledge may be better served by multi-site studies. The key concern is not 
+the nature of the data collection method, but the power, precision, and generahzabihty of the 
+sample. When “case studies” are conducted of single entities or a small number of them, 
+whether schools, communities, or reservations, they should use methods to ensure that the 
+findings are valid and generalizable. 
+
+A clearinghouse focused on Native education is needed. Currently, the results of 
+research related to American Indian and Alaska Native education are gathered and 
+summarized by the Clearinghouse on Rural Education and Small Schools (CRESS), operated 
+by the Appalachia Educational Laboratory. The visibihty of their Native education activities 
+needs to be increased, which could be accomplished through simply adding a parallel, 
+“virtual” clearinghouse devoted to Native education. Such a move would send a clear si gn al 
+to American Indians and Alaska Natives that their education issues are recognized as being 
+important and are not simply a subset of the issues faced by students in rural or small schools. 
+
+The clearinghouse on Native education should also be assigned responsibihty to 
+identify baseline data on outcomes and track changes. Some of this would involve serving as 
+a data repository for national assessments and large-scale studies, such as the National 
+Assessment of Educational Progress, Census reports, and ongoing surveys by the Indian 
+Health Service, the Office of Juvenile Justice, and others to permit one-stop access by 
+researchers to basic information. The clearinghouse should also be proactive in seeking 
+information from non-federal sources, such as state assessment results, about the outcome 
+status of Natives. The data from all sources would be disseminated through digests and other 
+clearinghouse publications and by posting data and linkages to data sets on the world wide 
+web. The web site created by the working group, i.e., www. indianedures earch. net , and now 
+managed by CRESS, could be used for this purpose. 
+
+
+
+Research Priorities for American Indian and Alaska Native Education 
+
+The priority research topics are presented in this section organized within six general 
+categories. The categories are (1) educational outcomes of American Indian and Alaska 
+Native students; (2) Native language and culture; (3) teachers, schools, and educational 
+resources; (4) American Indian and Alaska Native students with special needs; (5) early 
+childhood educational needs of Native children, and (6) educational standards and 
+assessments. The current status of research related to each general category, based on the 
+literature review and other working group activities, is briefly summarized first. Then the 
+priority research topics are listed along with examples of several study questions. The study 
+question examples are there to illustrate the range of specific questions that could be raised for 
+the research topics; they should not be viewed as precluding finding answers to other study 
+questions related to the research questions.^ Several suggested studies conclude the discussion 
+for each category. 
+
+
+
+^ Many more possible study questions are presented on a topic-by-topic basis on the working group’s web 
+site, i.e. . www.indianediu~esearch.net . 
+
+
+
+
+12 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 10 
+
+
+
+Educational Outcomes of American Indian and Alaska Native Students 
+
+The literature suggests that, on average, American Indian and Alaska Native students 
+tend to demonstrate lower achievement levels than members of other groups. NAEP results 
+for fourth graders show that American Indians and Alaskan Natives score below basic levels 
+in reading, math, and history. Other differences exist between the American Indian and 
+Alaska Native population and the general population in educational attainment. For example, 
+while ^proximately 75 percent of the total population had a high school degree or even more 
+education in 1990, this proportion was ^proximately 66 percent for American Indians and 
+Alaska Natives (Census Bureau, 1990). American Indian and Alaska Native students are also 
+less frequently college bound, and their SAT and ACT scores are lower than national no rms 
+(Swisher & Tippeconnic, 1999, p. 297). 
+
+Several factors can be advanced to account for these differences. Poverty rates among 
+American Indians and Alaska Natives are higher than among the general population; in 
+female-headed households, for example, the poverty rate was 50 percent for this population, 
+while it was 31 percent for the entire population in 1989 (Census Bureau, 1990). Providing 
+educational services in rural areas is subject to numerous problems including poor access to 
+services, limited resources, transportation problems, and under-utUization of existing 
+resources. Moreover, because most American Indian and Alaska Native students attend public 
+schools where they may be in the minority, rather than those supported by the BIA, their 
+cultural and linguistic differences are frequently overlooked. Indeed, according to much of 
+the literature, the central issue underlying the educational disparity is the poor fit between the 
+tribal or village culture of Native American students and the western culture of school 
+systems. This pervades many aspects of education, and can include culturally biased 
+curriculum, teaching methods, and assessments and tests. 
+
+More importantly, researchers also have found that American Indian and Alaska 
+Native students can compare favorably with the members of other groups. Students ^pear to 
+do particularly well in situations where the students’ culture is valued, or where Native parents 
+are actively involved. Two studies illustrate these points. 
+
+LeVeque (1994) conducted a two-year case study of Native student educational 
+attainment in an urban public school and found Aat Native students did as well or 
+better than the district mean on standardized tests, their dropout rate was only 10 
+percent, participation on the honor roll was 30 percent, 90 percent graduated from high 
+school, and at least 36 percent of the students pursued postsecondary degrees after 
+graduating. Although the sample is too small and restricted to generalize beyond the 
+case, the patterns were consistent within the school and were also supported by related 
+findings. For example. Native students were found to participate equally in the regular 
+school programming received by every student, there were no observable differences 
+in patterns of interaction with school personnel, overall behavior was indistinguishable 
+from other non-Native students, and none of the Native students spoke their Native 
+language. One of the key findings in LeVeque’ s study was the notion of parental 
+choice. Parents of Native students who succeeded in the largely Anglo co mmuni ty 
+"choose" to assimilate and adapt to mainstream standards. These same parents were 
+also actively involved in developing cultural programs that "positively identified 
+Native students as Native Americans and assisted parents in recapturing and 
+
+
+
+
+13 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 1 1 
+
+
+
+redefining what it meant to be a Native American in an off-reservation setting" (p. 18). 
+Because of the limitations of this study, it should be rephcated on a much larger 
+sample of students across schools in several settings. 
+
+Huff (1997) cited a study comparing tribally controlled, BIA, and pubhc schools. 
+Comparing the educational aspirations of high school seniors at tribal schools, BIA 
+schools, and public schools, 74 percent of the tribal schools’ seniors expected to attend 
+college at some time in the future, while just 68 percent of the seniors at BIA and 
+pubhc schools planned to go to college. Moreover, tribal school students scored 
+higher on achievement tests than the BIA students. "Indian-controlled schools 
+succeed because they function with the culture, norms, and traditions of Indian 
+communities and subsequently engage parents as formidable alUes in the educational 
+mission" (Huff, 1997, p. 53). 
+
+Several themes emerged from reviewing the literature, discussing the issues with 
+experts in the field, and considering the range of suggested research questions. These include: 
+
+■ Educational outcomes should be considered broadly, encompassing such traditional 
+outcome measures as academic achievement and educational attainment, but also 
+special education placement rates, secondary education program enrollments, 
+commimity participation, substance abuse and delinquency rates. Native language and 
+English language competencies, health and fitness levels, and other measures of the 
+outcomes of American education. Whenever practical, representatives of individual 
+Native communities and parents should play significant decision making roles in 
+determining which outcomes are most important to them, and they should be involved 
+in determining which outcomes to measure in evaluations or research projects. 
+
+■ By tracking measures of educational outcomes over a two-decade period, it may be 
+possible to establish trends that will, in turn, permit more accurate attribution of 
+effects between general societal changes and specific programs and reforms. After all, 
+school-based formal education is not the only thing going on in the fives of Native 
+children, their families, and their tribes or villages. The past two decades have seen 
+changes in communications, employment opportunities, residential options, pubhc and 
+individual health issues, and many other areas that probably have affected educational 
+outcomes. 
+
+■ Comparisons of educational outcomes within the population of American Indian and 
+Alaska Native students may be very useful. For example, comparisons could be based 
+on school governance, proportion of Native students in a school, urban or rural 
+residence, tribal affiliation, etc. Because of the uniqueness of the American Indian and 
+Alaska Native population in America, comparisons to other racial/ethnic groups may 
+not have much value, but comparisons on the basis of other demographic variables, 
+such as poverty levels, may help explain the outcome patterns noted for Native 
+students. It is important to know how American Indian and Alaska Native students 
+rate on measures of educational outcomes, but it is also important to understand the 
+reasons why some of them rate higher than others. Some of those reasons probably 
+include differences among individuals, such as physical health, aptitude for and 
+interest in schooling, and living conditions, opportunities and fife experiences. Other 
+
+
+
+
+14 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 12 
+
+
+
+reasons certainly may include educational programs, school conditions, levels of 
+teacher experiences, and instructional resources. 
+
+■ Substantial resources have been devoted to developing and implementing new 
+
+education programs, reform initiatives, teacher-training programs, assessment systems, 
+and other changes that have improving students’ status on educational outcomes 
+among their goals. Short-term gains are frequently noted, but often the promising 
+practices that appear to produce them are not evaluated over the long term. Fiuther, 
+educational approaches that look good on paper or in lab settings may never be 
+implemented as designed, so they are never really evaluated at all. Finally, even when 
+they are adequately assessed, there are few mechanisms for efficiently transplanting 
+the effective practices to other settings, especially to isolated or rural schools. 
+
+
+
+Priority Research Topics 
+
+The table on the following page presents four priority research topics for this general 
+category of educational outcomes for Native students. It is important to reiterate that these 
+topics are at about the same level of priority, i.e., none is inherently at a higher priority level 
+than another. For each research topic, several examples of possible study questions are 
+provided. The examples of study questions are not meant to limit or define the scope of the 
+priority topics, rather they suggest the range of study questions offered by informants 
+throughout this project. 
+
+
+
+Suggested Studies 
+
+We need to know much more about the current status of Native students on a range of 
+outcome measures and about the individual, family, community, classroom, and school factors 
+that explain differences among students. Such information is essential to finding effective 
+solutions to recurrent shortfalls by some students on some measures. The studies suggested in 
+this section would help find those solutions by addressing the priority research topics. 
+
+■ The Department of Education should conduct a large-scale study of Native education. 
+The study would gather data from Native students, their families, and their schools, 
+and the study would place those data within the contexts of the communities in which 
+the students live. The purpose of the study would be to describe the educational 
+experience of Native students in sufficient depth and with sufficient scope to permit 
+comparisons among students of different tribes and different demographic and cultural 
+backgrounds. While it is not reahstic to expect representative samples of students 
+from each federally recognized tribe, it is possible to structure a sample that would 
+ensure adequate coverage of 8-10 major regional tribal groupings with roughly s imil ar 
+cultural heritages, e.g.. Southeastern, Northern Plains, Pacific Northwest, Alaskan 
+Aleuts, etc. Such a sample also would ensure adequate coverage of BIA and tribal 
+schools, pubhc schools with Native enrollments of 25 percent or larger, and Native- 
+focused public charter or private schools. 
+
+
+
+
+15 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 13 
+
+
+
+Educational Outcomes for American Indian and Alaska Native Students 
+
+
+
+Priority Research Topics 
+
+
+Examples of Possible Study Questions 
+
+
+Status of American Indian 
+and Alaska Native students in 
+terms of academic 
+achievement, and status 
+changes in the last two 
+decades. 
+
+
+What are levels of achievement on standardized assessments (e.g., 
+NAEP) for American Indian and Alaska Native students by grade 
+level/age, state, type of school (public, tribal, BIA), and tribe, and how 
+have those levels changed over the last 10 years? 20 years? 
+
+
+What factors influence American Indian and Alaska Nativ'e student 
+achievement (personal characteristics, mobility rates, attendance rates, 
+language proficiencies, test factors, school programs, support services, 
+etc.)? 
+
+
+Status of American Indian 
+and Alaska Native students in 
+terms of educational 
+attainment, and status changes 
+in the last two decades. 
+
+
+What are levels of attainment for American Indian and Alaska Native 
+students by state, type of school (public, tribal, BIA) and tribe, and how 
+have those levels changed over the last 10 years? 20 years? 
+
+
+What is the drop out rate among American Indian and Alaska Native 
+students, and what factors (personal characteristics, mobility rates, 
+attendance rates, language proficiencies, grade retention rates, programs, 
+support services, etc.) arc contributing to the drop out rate? 
+
+
+What arc rates of postsecondary matriculation and graduation for 
+American Indian and Alaska Native students by state, type of secondary 
+school (public, tribal, BIA), field of postsccondary study, type of 
+postsecondary^ institution, and tribe? 
+
+
+What factors influence American Indian and Alaska Native students' 
+educational attainments and graduation rates (personal characteristics, 
+family characteristics, motivation, mobility rates, elementary-secondary 
+grade retention, high school program, postsccondary field of study, 
+programs, support services, etc.)? 
+
+
+Status of American Indian 
+and Alaska Native students on 
+other education-related 
+outcomes, such as job skills 
+and readiness, health and 
+fitness, substance abuse, etc. 
+
+
+What is the status of Indian and Alaska Native students on health-related 
+measures such as teenage pregnancy rates, substance abuse, participation 
+in sports or active recreation, etc ? 
+
+
+What arc delinquency rates for American Indian/Alaska Native students, 
+and how have those rates changed over the last 10 years? 20 years? 
+
+
+To what extent do American Indian/ Alaska Native students participate 
+actively in the lives of their communities? What are levels of civic 
+awareness and participation? 
+
+
+Best practices and reform 
+models that have been 
+demonstrated to be effective 
+in enhancing academic 
+achievement, attainment 
+and/or other education-related 
+outcomes of American Indian 
+and Alaska Native students. 
+
+
+How is student achievement affected when curriculum and instruction 
+are guided by locally authenticated, aligned content standards and 
+student performance assessments incorporate high expectations based on 
+tribal history and culture? 
+
+
+What are effective practices for reducing the American Indian and 
+Alaska Native drop out rate and for serving those whom have already 
+dropped out? 
+
+
+What drug and alcohol prevention programs or counseling services are 
+successful in decreasing failure and drop out rates among Native 
+populations? 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 14 
+
+
+
+Students would be sampled by classroom in the sampled schools, and they could be 
+selected from grades 4, 8, and 12 (the same grades used by the National Assessment of 
+Educational Progress) to gain a rich cross-sectional perspective. Data from schools 
+would include information about teacher backgrounds and other characteristics, 
+instructional methods and resources, family support and involvement, and Native- 
+focused activities and curriculum. In addition to asking parents about attitudes toward 
+schooling in general and about their children’s schools in particular, parents would 
+also be asked about their mobihty and reasons for moving, language backgrounds and 
+patterns of use, attitudes about the importance of preserving their language and 
+culture, and the goals they see for their children. Community-level information would 
+include availability of informal Native education opportunities as weU as basic 
+economic and demographic data. Analysis would be both within level, e.g., 
+relationships among gender, course-taking patterns, and educational aspirations, and 
+across levels, e.g., school-level support of parent activities and students’ attitudes 
+toward school. 
+
+■ The National Assessment of Educational Progress (NAEP), which is supported by the 
+National Center on Education Statistics (NCES) is generally recognized as the single 
+best source of information at a national level of what our children know. Native 
+students, when their results are broken out at ah, usuaUy have a lower average rank on 
+the scales than students from other racial ethnic groups. Several re-analyses of NAEP 
+would provide more useful information than those average scale scores: (1) 
+information about the distribution of Native students on the scales focusing on how 
+many score in the top range, with subsequent work to identify the high scorers’ 
+distinguishing characteristics; (2) how the scale score distribution has varied through 
+time and across subjects; (3) how scale scores vary based on teachers’ ratings of the 
+student’s English-language competencies; school-level measures of poverty (e.g., free 
+and reduced price lunch), and similar school and student variables included in the 
+NAEP analysis files. Another useful study would be to conduct an item analysis of 
+NAEP reading or other content tests to determine their potential validity as measures 
+of educational achievement for students raised in multicultural environments. 
+
+■ With a specific oversampling of the Indian population funded through a supplement 
+provided by the Office of Indian Education, the Early Childhood Longitudinal Study - 
+Birth Cohort will provide a valuable resource for understanding the relationships 
+among health and nutritional issues, family characteristics, and early educational 
+experiences (e.g.. Head Start) and readiness for and initial success in school. The data 
+sets from this NCES study will begin to be available in 2003. Until then, the 
+Kindergarten cohort baseline data sets are available including restricted files that 
+explore special education issues and the effects of participation in Head Start. 
+
+Although the Kindergarten cohort data sets do not include an augmented sample of the 
+Indian population, they will provide useful data on high-poverty, rural populations. 
+Both cohorts would be excellent sources for graduate student and faculty research and 
+analysis grants. 
+
+■ Research needs to be conducted to identify proactively the characteristics and 
+experiences that contribute to the academic success of Native students. One 
+possibility is to analyze data from NCES’ National Postsecondary Student Aid Study 
+
+
+
+
+17 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 15 
+
+
+
+(NPSAS), which contains some information about background characteristics as well 
+as data about how the students are paying for college. Although the number of Native 
+students each year is too small for detailed analysis, it is possible to pool Native 
+students from several of the surveys and compare their cWacteristics to those of 
+Native students overall. Similar analyses could be conducted with another national 
+survey conducted annually - the American Freshman survey — by the Higher 
+Education Research Institute at the University of Califomia-Los Angeles. This survey 
+collects outcomes data such as grades, SAT scores, and study habits, along with 
+financial aid and family background data. Another possibility is to conduct intensive 
+surveys with American Indians and Alaska Natives who are successful, with 
+appropriate case controls or comparison groups. For example, surveys could be 
+conducted with members of the American Indian Science and Engineering Society 
+(AISES) or with members of the National Indian Education Association. While these 
+intensive surveys cannot be used to answer general questions about success in school, 
+they could provide insights about whether the characteristics or experiences that 
+correlate with success as measured by membership in professional organizations have 
+changed through time and whether some of those characteristics can be made part of 
+the educational experiences of Native children. 
+
+■ The reasons for dropping out of school can be explored through the data sets of the 
+National Education Longitudinal Study (NELS:88), which began with a cohort of 8*** 
+graders in 1988. Follow up surveys for this NCES study were conducted in both 
+grades 10 and 12, and special efforts were made to track school leavers, both those 
+who moved to other schools and also those who dropped out. The dropouts were 
+administered a questionnaire focused on their reasons for dropping out. The numbers 
+of Native students in the baseline and first two follow up surveys are large enough for 
+detailed analysis of student-level, family, and school data in a search for the reasons 
+for dropping out of school. 
+
+
+
+
+18 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 16 
+
+
+
+Native Language and Culture 
+
+Probably no subject in this field generates more interest and discussion than the idea of 
+structuring education for American Indian and Alaska Native students aroimd the concepts 
+and language that he at the core of tribal or village culture. This might involve much more 
+than adding an instructional module here or there or providing high school students with a 
+Native language elective, rather it may require treating formal and informal education 
+holistically. Research generally supports the premise that students do well when their culture 
+and language are incorporated into their education. 
+
+There appear to be at least two approaches in the views of educators and parents about 
+the proper role of Native language and culture in the school. The first perspective, which 
+generally appears in situations where the tribe or village controls the school and all or nearly 
+all the students are local, is that the tribe’s or village’s language and culture ought to be 
+pervasive and structure the overall educational experience. This perspective does not exclude 
+having the students master English or the subject matter that is expected of students in 
+majority culture schools, but it puts a premium on local ways of knowing. The second 
+perspective appears where Native students are not in the majority in the schools and Native 
+parents are only one strand among the voices seeking to shape the school’s approach. In this 
+second perspective, the objectives appear to be more limited although no less imp ortant; that 
+is, the school should respect the cultures of its Native students, support and promote the search 
+by Native students to imderstand who they are in a multicultural world, and provide 
+opportunities for those students and the students from other backgroimds to learn about Native 
+languages and cultures. The goal in this second perspective is to increase pr maintain the 
+students’ attachments to their own culture and, thereby, strengthen their sense of self-worth 
+and personal value. A corollary goal of the second perspective is to teach non-Indian students 
+about Indian cultures and history, and to instill respect for these cultures. 
+
+Researchers have not focused on long-term outcomes for Native students who are 
+educated in situations where their languages and cultures structure their overall educational 
+experiences. This is largely because there are very few situations of Native language and 
+culture-based education that have been in place for long, and also because such longitudinal 
+studies can be very expensive and difficult to manage. Neither has there been sufficient 
+research on how to undertake the reconfiguration of the education system that would be 
+needed to reach the point where Native culture and language are at the base of education, 
+particularly in the face of the opposition of some parents, educators, and others in the 
+commimity. Further, although Native culture may have some elements that are both 
+widespread across tribes and villages and that also set American Indians and Alaska Natives 
+apart from white culture, it is not certain which of those common elements are most imp ortant 
+educationally, particularly in settings, such as urban schools, where children from many tribes 
+and many non-Native cultures may share the same classroom. 
+
+A renewed focus on American Indian and Alaska Native self-determination has 
+resulted in a resurgence of political efforts to reestablish the role of traditional ways of living 
+and commimicating in the educational system (Association of Co mmuni ty Tribal Schools, 
+
+1996; National Indian School Boards Association and Bureau Effective Schools Team, 1998; 
+Tippecoimic, 1999; Yazzie, 2000). Two notable publications in the early 1990s — Indian 
+Nations at Risk: An Educational Strategy for Action (October, 1991) and the Final Report of 
+
+
+
+
+19 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 17 
+
+
+
+the White House Conference on Indian Education (May, 1992) -- identify as a national 
+priority the need to retain Native language and culture as central elements in educating Native 
+youth (Demmert, 1994). Despite those pohtical judgments, Deyhle and Swisher (1997) 
+maintain that, until recently, most education research has actually contributed to efforts to do 
+away with the application of Native language(s) and culture(s) in schools and Native 
+communities. 
+
+The pohtical sentiments have had some research support, although much of the 
+research has been limited in applicability because it has rehed on small or unique samples. 
+Willeto (1999) documents that the retention of traditional cultural traits does not hurt students' 
+chances for academic success. In her study of 451 Navajo youth in 1 1 schools on the Navajo 
+reservation, she found that students who participated in Navajo traditional activities and spoke 
+the Navajo language did as well academically in school as those who were more assimilated 
+and participated less. Specifically, she found no support "for the argument that traditionalism 
+had a negative effect on academic success of Navajo young people" (p. 13). Her findings 
+echoed those of Cummins (1996), who reviewed the literature on minority education and 
+found that students with a strong sense of cultural and personal identity were more likely to 
+have academic success. Cleary and Peacock (1998) interviewed 60 teachers of Indian students 
+and interpreted these interviews as confirming the conclusion that traditional culture has a 
+positive role, rather than a negative or no role, in developing academically successful Indian 
+students. 
+
+There is also some research evidence that language and cultural concerns can affect 
+non-academic learning outcomes for American Indian and Alaska Native students that extend 
+beyond the classroom to have a positive influence on the community. No single study has had 
+sufficient size and scope to be individually persuasive; however, when taken as a whole, the 
+studies suggest that when the schooling process promotes language and culture, it can be one 
+of several important components that enable American Indians and Alaska Natives to foster 
+the personal growth necessary to engage in sustainable community and economic 
+development (Edwards et al., 1994; Freeman et al., 1995; Pewewardy, 1998). Further, these 
+studies have provided support for tribal school personnel and Native community leaders to 
+advocate for Native language and culture as being properly at the heart of preparing youth to 
+lead productive and meaningful hves (Batchelder & Markel, 1997). 
+
+There was anecdotal evidence presented at the National Research Agenda Conference 
+and during the focus groups that not all Native parents support the view that schools have a 
+role in teaching Native language and promoting Native culture. These parents reportedly 
+believe that devoting scarce school time to those topics means less time is spent by their 
+children on learning what they will need to know to survive in the white man’s world. How 
+widespread this contrary perspective actually is and under what circumstances it arises are 
+unknown, but the perspective does appear to be the view of a minority. 
+
+In summary, while there is some evidence that educational reform in Indian country 
+benefits from the use of culturally appropriate curriculum and instruction oriented to meet the 
+needs of Native students, much of the hterature describes small studies that are not 
+generalizable, and too httle has been done in the field to avoid potential bias from publishing 
+only the good news. Further, the studies of language and culture are often conducted without 
+looking for alternative explanations and the relationships of curriculum change to other 
+factors. Despite the possible benefits of language and culture in school reform, it is unlikely 
+
+
+
+O 
+
+ERIC 
+
+
+
+20 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 18 
+
+
+
+any measurable impact will be made over time unless teachers are adequately trained, quality 
+curricula are developed, and sufficient funding is secured to develop sustainable progr amming 
+(Demmert, 1994). 
+
+Several themes emerged from reviewing the literature, discussing the issues with 
+experts in the field, and considering the range of suggested research questions. These include: 
+
+■ There is not a single, commonly shared view as to what is meant by “relevant 
+language and culture.” Different individuals may have very different views about 
+“how much” or “which elements” is necessary to create a culturally relevant learning 
+environment, and those individuals’ perspectives may vary based on the situations 
+faced by a given set of children. 
+
+■ It is particularly important to ask whose culture or whose language is to be the base of 
+a culturally relevant learning environment. There are hundreds of tribes and villages 
+within the country and, while they may share many cultural characteristics, the 
+language differences among them can be great. For American Indian or Alaska Native 
+students who attend school on their reservations or in their own villages, the issue is 
+how to balance their own language and culture with that of the larger society. For 
+American Indian and Alaska Native students attending schools off the reservation and 
+especially in cities, the issue expands to how to incorporate languages and cultural 
+themes appropriately into an Enghsh-language, majority culture situation. This 
+becomes more complicated when several distinct tribes or villages are represented and 
+even more with the presence of international cultures in the school. 
+
+■ In the dispersed system of American public schools, it is not always clear where power 
+or authority resides in different situations. Individual schools, local districts, state 
+education agencies, courts at various levels, and agencies of the federal government 
+have overlapping responsibilities. For schools on reservations, however, the 
+predominant questions of power and authority revolve aroimd shifting notions of tribal 
+sovereignty and the nature of the trust relationship of the tribe with the federal 
+government. The past few decades have seen tribes gaining more power over their 
+schools, and one key result has been an upsurge in interest in reformulating the 
+educational experiences in tribal schools based on tribal culture and language. 
+
+■ Some Native languages are no longer used, and their last speakers may have died. 
+Others may have only a few speakers remaining, and the languages are primarily used 
+in rituals. Still others, of course, thrive with thousands of speakers. An emerging 
+issue is, when a tribe has sanctioned the effort to seek to revitahze its language, 
+determining what is an appropriate role for schools to take in helping bring it back to 
+life. Only when that issue is addressed is it appropriate to ask about what methods in 
+schools are effective in doing so. 
+
+
+
+Priority Research Topics 
+
+The table on the following page presents two priority research topics for this general 
+category of Native language and culture. It is important to reiterate that these topics are at 
+about the same level of priority, i.e., neither is inherently at a higher priority level than the 
+
+
+
+
+21 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 19 
+
+
+
+Native Language and Culture 
+
+
+
+Priority Research Topics 
+
+
+Examples of Possible Study Questions 
+
+
+
+
+What are the various meanings of the concept "relevant language and 
+culture" and who defines the meaning within or for schools? 
+
+
+
+
+What is the status of the incorporation of Native languages and culture 
+into American Indian and Alaska Native education? 
+
+
+Effects on educational 
+outcomes for students and 
+
+
+How many American Indian/Alaska Native students speak their Native 
+language in the home, by grade level, type of school, tribe, community 
+characteristics, etc ? 
+
+
+schools of incorporating 
+American Indian and Alaska 
+Native language and culture 
+into the school curriculum. 
+
+
+How many American Indian/Alaska Native students receive at least 
+some of their instruction in school in their Native language, by grade 
+level, type of school, state, tribe, community characteristics, etc.? 
+
+
+
+
+How docs the use of Native language and culture within the school 
+influence reservation and off-reservation American Indian and Alaska 
+Native youth in their educational attainment, self-perception, social and 
+cultural identity, and career choices? 
+
+
+
+
+What effect docs the implementation of discrete Native studies and 
+language curriculum units have on American Indian/Alaska Native 
+students' academic performance, attendance, and self-esteem? 
+
+
+
+
+What have we learned from the experience of the Maori in New 
+Zealand and Native Hawaiians in establishing language and cultural 
+immersion programs, and is it appropriate to generalize the 
+information? 
+
+
+Best practices demonstrated as 
+effective for implementing a 
+
+
+What arc the best ways to incorporate culturally relevant (and that take 
+American Indian/Alaska Native diversity into account) materials and 
+methods into off-reservation schools? 
+
+
+culturally relevant learning 
+environment, and identification 
+of factors that serve as barriers 
+or facilitators for 
+implementation. 
+
+
+What are effective approaches for providing cultural support to 
+American Indian and Alaska Native students in multi-ethnic, multi- 
+cultural schools'^ 
+
+
+What are effective approaches for use by non-Nativc teachers for 
+utilizing Native language and culture as part of their daily instruction? 
+
+
+
+
+What are effective approaches for overcoming the barriers to 
+incorporating Native language and culture in the classroom? How do 
+those approaches differ depending on school governance, local history, 
+and other factors*^ 
+
+
+
+
+OO 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 20 
+
+
+
+other. For each research topic, several examples of possible study questions are provided. 
+The examples of study questions are not meant to limi t or define the scope of the priority 
+topics, rather they suggest the range of study questions offered by informants throughout this 
+project. 
+
+
+
+Suggested Studies 
+
+To understand how schools have responded to requests either to place Native language 
+and culture at the heart of the educational experience or to demonstrate support for and respect 
+for them calls for large-scale descriptive studies to c^ture the big picture and also for more 
+focused studies that look at a relative handful of co mmuni ties and schools. 
+
+■ The large-scale survey suggested in the discussion of studies for educational outcomes 
+also could gather substantial information to address priority research topics related to 
+language and culture. In particular, that study would identify the types and 
+pervasiveness of Native language and culture in the curriculum and permit 
+correlational analysis with school and community characteristics and with Native 
+parents’ attitudes toward and involvement with their children’s education. Particularly 
+interesting analyses would look at the relationships among tribal homogeneity of the 
+student population, the racial/ethnic characteristics of the teachers, and the extent of 
+Native language and culture pervasiveness in the learning environment. 
+
+■ Comparative case studies of schools with large Native enrollments would permit 
+detailed understanding of the dynamics of creating and maintaining community/tribal 
+support for Native language and culture initiatives in the school. A series of case 
+studies, using a common research design to permit cross-case analysis, would look at a 
+sample of BIA schools, tribal schools, public schools with 25 percent or higher Native 
+enrollments, and Native-focused private or charter schools. The school sample also 
+could be divided to represent elementary, secondary, and k-12 schools. In addition to 
+observing classes and other activities, and interviewing teachers and school and 
+district administrators, the researchers would be responsible for gathering local data on 
+student performance, reviewing local policies and agreements, and meeting with 
+parents and tribal/community leaders. One outcome of this study would be a set of 
+models or options for other schools to consider, and a logical follow up to this study 
+would be to fund the rephcation of particularly promising models and conduct 
+formative research of start up and implementation at the new sites. 
+
+■ There is continuing value in understanding particular events and situations where 
+tribes, villages, or other Native communities seek to reform their educational system. 
+Focused case studies or even random assignment research designs could be employed 
+to understand the local barriers and facilitators of change and the effects of new 
+initiatives. Such studies should be undertaken with the full cooperation of the affected 
+community and should ideally incorporate local Native researchers whenever possible. 
+Such studies could prove particularly valuable if reform efforts by several different 
+tribes were studied using parallel methods during the same time period. 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 21 
+
+
+
+Teachers, Schools and Educational Resources 
+
+What happens to young people as students ultimately depends on their encounters with 
+their schools, individual teachers, the curriculum and materials, and how those encounters 
+relate to their own capabilities, interests, motivations, and experiences. There is httle 
+disagreement that many American Indian and Alaska Native children, whether they live on 
+reservations, in small villages, or in major urban areas, attend schools that lack resources, are 
+in need of repair, and are overcrowded. Many of the teachers of these children are not from 
+their own communities, and large numbers are inexperienced and teach in the schools for only 
+a year or two. According to data from NCES’ Schools and Staffing Survey, 1993-94, fewer 
+than 0.8 percent of the nation’s public school teachers are American Indians or Alaska Natives 
+(compared to about 1.1 percent of the students), and they are less likely than white or African 
+American teachers to have advanced degrees or certificates and are more likely to be in their 
+first ten years of teaching. 
+
+Native students in small rural secondary schools may have very few electives or 
+advanced classes available to them. For example, according to transcript data summarized as 
+part of NCES’ 1998 High School Transcript study. Native high school students earned fewer 
+Carnegie units than members of any other racial/ethnic group in mathematics, science, and 
+foreign languages. The more advanced the classes (e.g., mathematics beyond algebra or 
+science beyond general introductions), the greater the disparities. Further, commercially 
+available classroom materials are likely to reflect lives far removed culturally and 
+economically from the ones they experience on their reservation or village. 
+
+Teachers, Native as well as non-Native, are frequently blamed for the comparatively 
+lower performances and attainments of Native students, although they are rarely credited for 
+the successes achieved by most American Indian and Alaska Native children. Among the 
+criticisms aimed at teachers in comments made at the national research agenda conference and 
+during the focus groups are that many of them are non-Native, they are often relatively young 
+and inexperienced, they do not stay at the school for long, they have httle contact with the 
+local Native community, they usually do not understand Native culture in general and the 
+culture and language of the children they are teaching in particular, and they hold negative 
+stereotypes about the capabilities of Native learners. 
+
+Recruiting and retaining teachers to teach in rural American Indian and Alaska Native 
+communities is a long-standing problem. Inexperienced teachers and teachers faced with new 
+situations need time to learn and adjust, and the high rate of teacher turnover in reservation 
+schools contributes to educational problems in these schools. In addition, staff turnover 
+creates a loss of institutional memory that can help maintain successful teaching practices and 
+prevent the repetition of past mistakes. A similar problem exists with reservation school 
+administrators. The scope of the problem can be seen from Plank's (1993) study of Navajo 
+schools where he reported a yearly teacher turnover rate ranging from a low of 25 percent to a 
+high of 57 percent, with 77 percent of the new teachers getting no orientation to Navajo 
+education. Self-reported data from BIA schools suggest that teachers in reservation schools 
+have made significant strides in the last few years. For example, between the 1996-97 and 
+1 999-2000 school years, the percentage of teachers who were technologically “proficient” or 
+“advanced” grew from 39 to 67 percent (Office of Indian Education Programs, U.S. 
+Department of the Interior, 2001). 
+
+
+
+American Indian and Alaska Native EdtJcation Research Agenda 
+
+
+
+Page 22 
+
+
+
+Widely accepted strategies to improve American Indian and Alaska Native student 
+learning outcomes include increasing the number of Native teachers and increasing the 
+number of teachers, Native as well as non-Native, who are properly trained to meet the needs 
+of Native students (Banks, 1999; Indian Nations at Risk Task Force Report, 1991; Pavel, 
+
+1995, 1999b; U.S. Department of Education, 1995, 1997; White House Conference on Indian 
+Education, 1992). As is the case for most areas of research on Native education, most of the 
+studies that have been conducted about teachers have involved small samples and possibly 
+unique situations. Nonetheless, the studies tend to express some consensus. Teachers’ 
+knowledge of Native language and culture can positively influence schools, students, and 
+communities (Friesen &, Orr, 1998). A properly trained teacher could develop trusting 
+relationships with students (Paradise, 1994) and make the difference between promoting 
+negative stereotypes and portraying realistic and empowering views of Native peoples 
+(Brophy, 1999). Based on their experiences with the University of Alaska's Cross-Cultural 
+Education Development Program, Lipka et al. (1998) recommend increasing the number of 
+minority teachers, helping them form support groups, involving elders and other commimity 
+members in those groups, and establishing ties to other groups, including indigenous educators 
+elsewhere and even to mainstream teachers once the local community has a clear educational 
+agenda mapped out. 
+
+The increasing demand for but very short supply of Native teachers requires a 
+concerted effort similar to addressing the need for more minority teachers nationwide (Lewis, 
+1996). One way this need is being addressed is through a new program funded through the 
+Office of Indian Education’s (OIE), U.S. Department of Education, professional development 
+program to provide support for Native Americans to become certified teachers. Through 
+OIE’s "Indian Teacher Corps" initiative, 1,000 Indian teachers over a five-year period will be 
+trained to take positions in schools that serve schools with significant Indian student 
+populations. 
+
+It is important to continue to investigate programs that prepare teachers to improve the 
+learning outcomes of American Indian and Alaska Native youth. Too often, however, the 
+need for more and better-trained teachers can be accepted as a panacea that does not address 
+the systemic structures that create unacceptable classroom environments for Native students 
+and their teachers. Both Native and non-Native teachers probably would benefit from 
+educational reform that encompasses the need to address systemic issues wi thin the school, 
+community, and society. 
+
+Several themes emerged from reviewing the hterature, discussing the issues with 
+experts in the field, and considering the range of suggested research questions. These include: 
+
+■ Turnover appears to be high among teachers and administrators in schools serving 
+large proportions of American Indian and Alaska Native students. It is important to 
+understand the factors that account for this (e.g., geographic isolation, relative pay, 
+self-perceptions of ineffectiveness, school resources, etc.), so that strategies to counter 
+high turnover will be correctly targeted. It is also important to investigate further the 
+relationships of staff turnover to student outcomes, since much of the presumed 
+negative effects are based on just a few small studies. 
+
+
+
+
+25 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 23 
+
+
+
+■ Recent initiatives to expand the number of American Indian and Alaska Native 
+teachers should be observed carefully not only to understand better the incentives tha t 
+work to draw new individuals into the profession, but what it takes subsequently for 
+them to stay in the profession and in the schools that need them. 
+
+■ Many teachers in schools serving large proportions of American Indian and Alaska 
+Native students are not from the communities they serve. Although teacher-training 
+processes in general are well documented, the specific processes through which 
+teachers are trained to work with children from Native communities are not. Further, 
+there is little research on how new, non-Native teachers can be supported and 
+mentored effectively once they are in their schools. 
+
+■ The conditions faced by schools on or near reservations or Alaskan villages parallel 
+those faced by many small, resource-poor, rural schools. It is important to ensure that 
+the general problems faced by small, rural schools in terms of programs and resources 
+are considered, especially for the schools that enroU large proportions of American 
+Indian or Alaska Native students. 
+
+■ The school may be seen by many Native Americans as an alien institution forced upon 
+them by the majority society with assimilation as its goal. For large numbers of 
+American Indians, their experiences with school involved being uprooted from their 
+families to be sent to a boarding school where their language and customs were 
+denigrated. Against this backdrop, schools on or near reservations often find it 
+difficult to get parents involved in the school or the formal school-based education of 
+their children. 
+
+■ More work is needed to identify the characteristics of urban schools serving American 
+Indian and Alaska Native students that are related to achievement and attainment. In 
+particular, researchers should look at charter schools that are established for Native 
+students as well as at other public or private schools vwth high (i.e., 25 percent or 
+higher) Native enrollments. 
+
+
+
+Priority Research Topics 
+
+The table on the follovwng page presents three priority research topics for this general 
+category of teachers, schools, and educational resources. It is important to reiterate that these 
+topics are at about the same level of priority, i.e., none is inherently at a higher priority level 
+than another. For each research topic, several examples of possible study questions are 
+provided. The examples of study questions are not meant to limit or define the scope of the 
+priority topics, rather they suggest the range of study questions offered by informants 
+throughout this project 
+
+
+
+Suggested Studies 
+
+The priority study topics in this area revolve around teachers and generating effective 
+parent involvement. For teachers, the issues are recruitment, retention, and training. The 
+large-scale survey suggested to address some of the priority study topics for educational 
+
+
+
+
+26 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 24 
+
+
+
+Teachers, Schools, and Educational Resources 
+
+
+
+Priority Research Topics 
+
+
+Examples of Possible Study Questions 
+
+
+Effective methods for 
+developing, recruiting, and 
+retaining qualified teachers 
+for schools with large 
+American Indian or Alaska 
+Native enrollments. 
+
+
+\Vhat are the characteristics of teachers in reservation schools and in off- 
+reservation schools with high enrollments of American Indian and 
+Alaska Native students? 
+
+
+Which methods are most effective for recruiting and retaining qualified 
+teachers to work at schools with high American Indian and Alaska 
+Native student enrollments? 
+
+
+How can states and districts support and motivate members of the Native 
+community, particularly those now serving as classroom aides, to enter 
+teacher-training programs? 
+
+
+In what circumstances, if any, should teacher qualifications differ for 
+Native and non-Native teachers in schools serving large proportions of 
+American Indian and Alaska Native students? 
+
+
+Effective and replicable 
+teaching approaches, models, 
+etc. for enhancing outcomes 
+for American Indian and 
+Alaska Native students. 
+
+
+What aspects of pre-service and in-service development activities are 
+most effective in preparing and supporting teachers in working with 
+American Indian and Alaska Native students? 
+
+
+What instructional practices have been demonstrated to be effective in 
+helping American Indian and Alaska Native students achieve 
+academically in reservation, off-reservation, and urban schools? 
+
+
+What are the relationships between levels and types of resources 
+available in schools serving American Indian and Alaska Native students 
+(by school governance and locale) on staff stability, parent and 
+community involvement, and other school and student level outcomes? 
+
+
+To what extent and for what purposes arc distance/remote learning 
+methods used in schools serving American Indian and Alaska Native 
+students, by grade level, type of school, community characteristics, and 
+tribe? 
+
+
+Best practices for promoting 
+positive parent or community 
+involvement in schools 
+serving American Indian and 
+Alaska Native students. 
+
+
+To what extent are parents of American Indian and Alaska Native 
+students involved in their children's schools, and how does the extent of 
+parent involvement vary by grade level, school governance, percentage 
+Native enrollment, teacher, administrator, and community 
+characteristics, and tribal differences? 
+
+
+To what extent are American Indian and Alaska Native communities 
+involved in their children's schools and how does the extent of 
+community involvement vary by grade level, school governance, 
+percentage Native enrollment, teacher, administrator, and community 
+characteristics, and tribal differences? 
+
+
+What are some barriers that limit collaboration between schools and 
+community based organizations? What are some factors that enhance 
+and strengthen collaboration? 
+
+
+How do the various governance entities responsible for the education of 
+American Indian/Alaska Native students, particularly in tribal or BIA 
+schools, work together? 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 25 
+
+
+
+outcomes and Native language and culture would also be useful for this category. Other 
+suggested studies involve case studies to describe best practices and reanalyses of U.S. 
+Department of Education data sets. 
+
+■ The characteristics, educational backgrounds and other professional qualifications, 
+experience, training, etc. for teachers can be addressed through a large-scale 
+descriptive study. In part, the Indian School Teacher Questioimaire used in the 
+Schools and Staffing Survey (SASS) provides much of this information, but without 
+the additional information from students and famthes, the relationships between 
+teacher variables and other variables caimot be explored. 
+
+■ An ongoing concern is the quahty and content of pre-service training provided by 
+schools of education to prospective teachers. A series of case studies of schools of 
+education in states with large numbers and large percentages of Native students (e.g., 
+Alaska, Arizona, Montana, etc.) would assess the content of training related to 
+understanding the cultures and languages of Natives in the state, the requirements for 
+learning that material, and how those factors related to state requirements for 
+certification and district hiring practices. The schools of education would be selected 
+to be broadly representative of the institutions in the affected states, and data 
+collection would include policy and requirements reviews, course content reviews and 
+class observation, and interviews with faculty, students, and a small sample of teacher- 
+recruitment persoimel in school districts with high Native enrollment percentages. 
+
+■ It is easy to say there should be more Native teachers. The statement begs the 
+questions, however, of how to interest talented Native high school students to consider 
+and prepare for postsecondary education, how to help students in poverty pay for that 
+education, how to expand support for tribal colleges and universities, and how to 
+support cultural minorities within large institutions. Further, once a Native teacher 
+begins her/his career, it is essential'to find out what districts and schools do to retain 
+that teacher. One ^proach to answering these questions is to conduct a retrospective 
+survey of current and former Native teachers to learn their motivations and supports. 
+Another is to identify school districts that appear to be effective in promoting the post 
+secondary option for their Native students and/or in hiring and retaining Native 
+teachers and then conduct open-ended interviews to identify hypotheses about best 
+practices that could subsequently be tested using more focused methods. 
+
+■ As a general rule, parental involvement in their children’s education and their schools 
+tends to be associated with more success on outcome measures for students and for 
+their schools. For Native parents, especially American Indians, however, schools have 
+not always been seen as community institutions, and some parents do not feel 
+welcome. Further, because of the shortcomings of the formal school-based education 
+received by many Native parents, they are not in position to help their children or 
+model behaviors. Through the large-scale descriptive study, schools that report being 
+successful in promoting active parental involvement (and where the parents tend to 
+agree), should be selected for case studies to describe their methods. 
+
+■ The Office of Indian Education is currently conducting the “Pilot Sites Initiative,” in 
+which resource needs are being identified in nine schools. As needs are identified. 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 26 
+
+
+
+agencies that can help meet the needs are involved. It would be useful to collate the 
+information across sites so that overall resource needs and the abilities of agencies to 
+meet them can be estimated. To refine the estimates of needs, national data could be 
+used either from the large-scale descriptive study proposed in prior sections or NCES’ 
+Schools and Staffing Survey. 
+
+
+
+
+29 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 27 
+
+
+
+American Indian and Alaska Native Students with Special Needs 
+
+American Indian and Alaska Native students ^pear to be over represented in special 
+education and compensatory/remedial classes and under represented in classes for gifted or 
+talented students. The reasons for these patterns may include in^propriate assessment tools, 
+factors related to the nature of the schools attended by American Indian and Alaska Native 
+students, prejudice or other unjustified expectations, learning styles of American Indian and 
+Alaska Native students, a higher incidence of disabihty, or others. Because special-program 
+assignments that are made early in schooling may have significant effects on decisions made 
+later by and for students, it is important to understand the representation patterns more fully. 
+
+Stone and Gridley (1991) studied test bias and found a significant possibihty of over- 
+and under-prediction of academic achievement for American Indian and Alaska Native 
+students, suggesting that Native students might be referred to special education programs at 
+proportionally higher rates than white students as a result of misclassification. Wright, 
+Hirlinger, and England (1998) surveyed 128 pub he school districts in Oklahoma that had at 
+least 1,000 students and at least five percent Indian student enrollment and found that 
+American Indians were significantly over-represented in programs for low-achievers and 
+under-represented in gifted programs. Results from NCES’ Schools and Staffing Survey in 
+1993-94 found that about 10 percent of Native students received special education services in 
+schools with 25 percent or more Native enrollment, which is roughly the national rate. At the 
+same time, 17.5 percent of the students in BIA schools were in special education (U.S. 
+Department of Education, 1997). Data reported by BIA’s Office of Indian Education 
+Programs for the most recent years have generally indicated that between 8,000 and 9,000 
+students in BIA schools (16-18 percent of the total enrollment) were receiving special 
+education services. 
+
+A survey by Faircloth (2000) of schools with 50 percent or higher Native enrollments 
+found that principals were particularly concerned with the need for effective models for use 
+with Native students with disabilities. In part, this was seen as reflecting the larger need for 
+vahdated, effective models of education for Native children in general (Tippeconnic, 
+
+Faircloth, & Stout, 2000). 
+
+Several themes emerged from reviewing the literature, discussing the issues with 
+experts in the field, and considering the range of suggested research questions. These include: 
+
+■ Many American Indian and Alaska Native students are not fluent in standard English. 
+As a result, written assessments used for screening or confirming the need for special 
+services may not produce vahd results. It is important to determine the extent to 
+which the disproportional representation patterns in special and compensatory 
+programs are a function of poor measurement tools. 
+
+■ It also is important to investigate the referral processes leading to formal assessments 
+to determine whether teachers’ expectations of performance tend toward downplaying 
+the strengths of American Indian and Alaska Native students and emphasizing any 
+weaknesses. Prejudice in the classroom may be rare or common (the non-research 
+literature on Native education often asserts that it is pervasive), but the effects of any 
+prejudices should be identified so they can be corrected. 
+
+
+
+er|c 
+
+
+
+30 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 28 
+
+
+
+■ Native students do not appear to be over-represented in special education in most 
+schools; rather, Native students in BIA schools appear to account for much of the 
+over-representation. 
+
+■ Native students are under-represented in gifted and talented programs and it is 
+important to explore the reasons why. High poverty schools, especially rural schools, 
+tend not to offer such programs. Low expectations of teachers may also be a factor. 
+
+■ Some students, of course, do have disabilities or other conditions that qualify them for 
+special education programs, and some students are gifted or talented by almost any 
+definition. It is important to find out if the students who should be in the special 
+programs are indeed identified and served and if the services are appropriate and of 
+high quality. 
+
+
+
+Priority Research Topics 
+
+The table on the following page presents two priority research topics for this general 
+category of Native students with special needs. It is important to reiterate that these topics are 
+at about the same level of priority, i.e., neither is inherently at a higher priority level than the 
+other. For each research topic, several examples of possible study questions are provided. 
+
+The examples of study questions are not meant to limit or define the scope of the priority 
+topics, rather they suggest the range of study questions offered by informants throughout this 
+project. 
+
+
+
+Suggested Studies 
+
+The studies to be conducted in this area range from assessing the validity and 
+instruments commonly used in confirming special education needs of American Indian and 
+Alaska Native students to a study of BIA schools to understand why they identify such large 
+percentages of Native students for special education. In addition, work being conducted by 
+the U.S. Department of Education in this area should be monitored. For example, a current 
+study sponsored by the Office of BiUngual Education and Minority Languages Affairs is 
+exploring the relationships between lack of fluency in standard EngUsh and assignment to 
+special education classes. This Descriptive Study of Services to Limited English Proficient 
+Students replicates a study of the same name completed early in the 1990s. As another 
+example, the Office of Special Education Programs is gathering information on the nature of 
+disability and percentages of students served by race/ethnicity. 
+
+■ The apparent over-representation of American Indian and Alaska Native students in 
+special education in BIA schools can be studied through surveys or on-site interviews 
+The first step is to determine the range of the percentage of Native students served in 
+special education based on the annual “report cards” submitted to BIA by the schools. 
+Second, three or four pairs of schools - one high percentage, the other low, but that 
+otherwise are as similar as possible - could be selected for further study. Either 
+through detailed, open-ended telephone interviews or short site visits, differences in 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 29 
+
+
+
+special education assessment tools or procedures could be identified. Instruments or 
+procedures that are related to very high or very low placement rates should be 
+
+
+
+
+32 
+
+
+
+Amcncan Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 30 
+
+
+
+American Indian and Alaska Native Students with Special Needs 
+
+
+
+Priority Research Topics 
+
+
+Examples of Possible Study Questions 
+
+
+Personal, social, and 
+educational characteristics of 
+American Indian and Alaska 
+Native children in special, 
+compensatory, and gifted or 
+talented education programs, 
+and best practices for valid 
+assessment of special needs. 
+
+
+What are the causes of disproportional Native student representation 
+in programs for students with special needs (e g., student 
+characteristics - such as learning styles, invalid assessment practices, 
+teacher beliefs and practices, etc.)? 
+
+
+Are Native students with special needs identified and served in 
+appropriate programs? 
+
+
+What are effective policies, procedures, and practices for 
+appropriately identifying Indian students with disabilities? 
+
+
+
+
+What are effective approaches for teaching American Indian and 
+Alaska Native students with disabilities, and to what extent are 
+teachers currently using these approaches? 
+
+
+Effective practices for 
+working with American 
+Indian and Alaska Native 
+students with special 
+
+
+Are alternative education programs available to meet the needs of 
+American Indian and Alaska Native students who have not been 
+successful in mainstream schools? What are the characteristics of 
+successful alternative education programs? 
+
+
+How are teachers prepared to work with American Indian and Alaska 
+Native students with special needs? 
+
+
+educational needs. 
+
+
+How are the Bureau of Indian Affairs/Office of Indian Education 
+Programs, the United States Department of Education, tribes, and 
+states preparing or influencing the preparation of teachers and 
+administrators to implement the provisions of the Individuals with 
+Disabilities Education Act effectively? 
+
+
+
+
+To what extent are gifted and talented programs available to Native 
+students? 
+
+
+
+
+33 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 3 1 
+
+
+
+evaluated in detail to determine the possibility that they may be responsible for 
+assignment errors. A somewhat similar study, but using the Common Core of Data to 
+identify schools for the project, could be conducted in public schools. For this similar 
+study, however, a useful target would be placement in compensatory programs or 
+gifted or talented education programs. 
+
+■ Sometimes commonly used assessment tools contain subtle biases that can lead to 
+assignment errors. It would be useful to conduct detailed psychometric and linguistic 
+analyses of instruments that are widely used to screen or place Native students in 
+special programs. 
+
+■ Data from the Early Childhood Longitudinal Study - Birth Cohort (ECLS-B) should 
+be examined for relationships between prenatal exposure to alcohol and subsequent 
+learning difficulties. 
+
+
+
+
+34 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 32 
+
+
+
+Early Childhood Educational Needs of Native Children 
+
+American Indian and Alaska Native children ^pear to be less prepared on average to 
+begin their first years of school than children in other American racial/ethnic groups. 
+
+Although national studies of early childhood and school readiness have not included large 
+enough Native American samples to provide a comprehensive picture, small-scale education 
+studies and research in other fields suggest that poverty, relatively poor health and weU-being, 
+limited Enghsh proficiency, and lack of access to resources disproportionately affect 
+American Indian and Alaska Native children. 
+
+The Centers for Disease Control and Prevention (CDC, 2000) reported 69 percent of 
+Native American women received prenatal care during the first trimester in 1998 compared to 
+83 percent of women nationally. The CDC also reported that the rate of sudden infant death 
+syndrome, which is the leading cause of death for Native American infants, was over twice 
+that of white, Hispanic, or Asian infants, and that Native American infants were 3 times as 
+likely as the general population to die from an accident, and 4 times as hkely to die from 
+pneumonia or influenza (CDC, 2000). According to the Indian Health Service (IHS, in 1993, 
+the death rate of American Indian children aged 1 to 4 was 2.2 times larger than for all races, 
+and 2.5 times larger than for white children, with accidents as the leading cause of death for 
+Native children at a rate 2.9 times as high as all children (IHS, 1997). 
+
+In addition to health-related factors, which are closely tied to high levels of poverty 
+and rural residence, many Native children also enter school with low levels of English 
+proficiency. According to the 1993-94 Schools and School Staffing Survey, about one-third 
+of the Indian students in BIA/tribal schools spoke a language other than English in their 
+homes, and a similar percentage was identified as having hmited English proficiency (U.S. 
+Dept, of Education, 1997). A report of the Department of Education (1999) entitled Start 
+Early, Finish Strong indicated that children from high poverty areas are coming to school with 
+vocabularies of approximately 3,000 words compared to their counterparts from affluent 
+homes who come with 20,000 word vocabularies. According to the 1993-94 Schools and 
+Staffing Survey from NCES, about 2.1 milhon students (about 5 percent) are hmited English 
+proficient. 
+
+Many studies have demonstrated that early childhood programs are hnked to 
+substantial improvements in cognitive, social and emotional development, and can give low 
+SES children some of the opportunities to prepare for school that higher income children have 
+(Gomby et al., 1995; National Research Council, 2001). Research in early childhood 
+programs has shown the importance of comprehensive programming, which meets social, 
+emotional, physical, and cognitive needs (Nissani, 1990). 
+
+Several national programs target the disadvantages faced by young Native American 
+children. Head Start provides a wide range of services to low income preschoolers. Head 
+Start places importance on education that is individualized for the community served; health, 
+including immunizations, medical, dental, mental health, and nutritional services; parent 
+involvement, and social services. As of May 1997, American Indian Head Start had 131 
+funded grantees, located in 25 states. Many are tribally operated, and integration of Native 
+language and culture into the curriculum is encouraged. Even Start has shown positive 
+outcomes on measures such as “parental expectations for children’s academic success, and 
+
+
+
+
+35 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 33 
+
+
+
+enhanced utilization of other commimity, social, health, and education services” (Barnett, 
+1995). The tribal Even Start program combines adult hteracy, early childhood education, and 
+parenting education services for parents and their children from birth through age seven for 
+Native American famihes (U.S. Department of Education, 1997). 
+
+Three themes emerged from reviewing the literature, discussing the issues with experts 
+in the field, and considering the range of suggested research questions. These include: 
+
+■ There appears to be little question that the conditions and experiences of early 
+childhood affect children’s readiness for and subsequent success in elementary and 
+secondary education. Yoimg Native American children appear to rank lower on most 
+measures of school readiness than the children of other racial/ethnic groups, although 
+comprehensive national studies have not dehneated the full relationships among 
+backgroimd factors, readiness levels, and school success for American Indians and 
+Alaska Natives. Further, while national programs such as Head Start have operated on 
+reservations for years, it is not clear what early childhood services are available to the 
+large majority of Native children who live off the reservation and how or whether they 
+are adapted to the unique needs of those children. 
+
+■ Public health data for Native American children suggest widespread problems possibly 
+stemming from a combination of inadequate service availabihty and lack of 
+knowledge and awareness of healthful behaviors. The data, on low rates of prenatal 
+care, for example, could stem from both causes. Further, the data suggest there may 
+have been insufficient efforts to provide wellness education to school-aged children 
+and their parents that would, for example, lead to more Native women seeking 
+prenatal care or greater attention by parents and other adults to sources of potential 
+accidents, at least through time. At the same time, it is not clear from the data whether 
+the public health problems are primarily reservation-based, rural in general, or also 
+occur in towns or cities. 
+
+■ American Indian and Alaska Native children’s transitions from early childhood 
+programs (or no program at all) to kindergarten or the first grade appear to be more 
+difficult than for the average American child, although there is certainly reason to 
+believe that any limited English chUd from a resource-poor family and commimity 
+would face many of the same problems. 
+
+
+
+Priority Research Topics 
+
+The table on the following page presents two priority research topics for this general 
+category of early childhood educational needs. It is important to reiterate that these topics are 
+at about the same level of priority, i.e., neither is inherently at a higher priority level than the 
+other. For each research topic, several examples of possible study questions are provided. 
+
+The examples of study questions are not meant to limi t or define the scope of the priority 
+topic, rather they suggest the range of study questions offered by informants throughout this 
+project. 
+
+
+
+O 
+
+ERIC 
+
+
+
+36 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 34 
+
+
+
+Early Childhood Education Needs of Native Children 
+
+
+
+Priority Research Topics 
+
+
+Examples of Possible Study Questions 
+
+
+Status of infant and pre- 
+school-age American Indian 
+and Alaska Native children on 
+school readiness domains. 
+
+
+How are Native children’s health and well-being related to rural 
+(reservation and non-reservation), suburban, small town, large city, etc. 
+residence? How does this relationship compare with the overall 
+population? 
+
+
+How must early childhood programs be structured so that they foster the 
+fundamental skills that children are expected to have when they enter 
+school? 
+
+
+How effective are early childhood programs and activities for Native 
+American children in promoting readiness for school? 
+
+
+Programs and services 
+available for infants and pre- 
+school-aged American Indian 
+and Alaska Native children. 
+
+
+To what extent do Indian children and their families in reservation, rural, 
+urban, and other settings have early childhood education opportunities 
+available to them? 
+
+
+How can a network of tribal early childhood programs that addresses 
+issues, resources, and action plans be organized? 
+
+
+What early childhood education programs and activities appear to 
+promote effective use of English as a second language? 
+
+
+How can early childhood programs accommodate American Indian and 
+Alaska Native children with disabilities? 
+
+
+What methods are effective in promoting health and wellness among 
+American Indian and Alaska Native families? 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 35 
+
+
+
+Suggested Studies 
+
+The National Education Goals Panel (1997) identified five independent domains that 
+collectively make up school readiness. These include (1) physical well-being and motor 
+development; (2) social and emotional development; (3) approaches toward learning (such as 
+curiosity, cooperativeness, and persistence); (4) language development, and (5) cognition and 
+general knowledge. In general terms, the research that is needed should address the current 
+status of Native children within those domains and identify effective practices for helping 
+those children move successfully past the barriers into a successful school career. 
+
+■ The most significant study for this topic is already underway. The Early Childhood 
+Longitudinal Study - Birth Cohort (ECLS-B) is being conducted for NCES. This 
+longitudinal study will track 15,000 children from birth during the year 2000 (and 
+actually a bit before) through the end of the first grade. The Office of Indian 
+Education provided supplementary funding for an augmented sample of more than 
+1,000 Native children. NCES is gathering data related to each of the domains 
+identified by the National Education Goals Panel, and its study contractor is working 
+with Tribal governments and other Native organizations to ensure sensitivity to local 
+issues and to follow local data collection requirements. Data from the baseline survey 
+should begin to be available in 2003, and it should prove invaluable for Native 
+researchers who seek to imtangle the interrelationships among personal characteristics, 
+family backgroimd, conmumity, early childhood services, and success in making the 
+transition to school. These data should be of particular use for faculty and graduate 
+student research. 
+
+■ ECLS-B is gathering extensive information about the characteristics of yoimg children 
+during the years they pass from infancy through the first grade. It would be valuable 
+to conduct parallel research on programs that appear to be particularly successful in 
+helping yoimg Native American children make successful transitions into formal 
+schooling. These could be identified either through the characteristics of the programs 
+themselves (i.e.. Head Start programs based on proportion of Native enrollment, use of 
+Native language, etc.) or based on secondary evidence of their success (e.g., high 
+proportions of American Indian and Alaska Native students rated as performing well 
+in early elementary grades). Case studies, with ^propriate case controls or 
+comparison groups, would be an appropriate method, with the focus being on 
+identifying effective practice. 
+
+
+
+
+38 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 36 
+
+
+
+Educational Standards and Assessments 
+
+Throughout the country, students - Native and non-Native — are facing an 
+unprecedented series of high-stakes tests to determine their levels of proficiency on academic 
+standards established at the national, state, or local level. Although the assessments are often 
+formally designed to rate schools or teachers, it is the students who are tested, and news 
+accounts frequently focus on their successes or failures rather than those of their institutions or 
+instructors. Further, many of the assessments do directly affect the students; successfully 
+moving on to the next grade or graduating may be a function of how well they do. 
+
+The purpose of setting standards and assessing performance is not to punish children; 
+rather it is to ensure that educators are accountable for the product they are providing. When 
+students do well, the results are considered strong evidence that educators are doing their jobs 
+well, and when the students do poorly, then they are being let down by the educational system. 
+Fox (2000) sees the emphasis on standards and accountabihty as a significant lever for 
+improving education for Native children; the risk is that the students will get blamed for the 
+failures of the systems that are - presumably - set up to benefit them: 
+
+The standards-based reform effort can help to improve Indian education with new 
+standards and assessment; however, as has h^pened in the past, the game of blaming 
+the victim may occur. In order for this reform to really work for Indian students, 
+schools must see themselves as accoimtable for providing the educational program and 
+support necessary for Indian children to meet the standards. States and the Bureau of 
+Indian Affairs must see themselves as accountable for providing the technical 
+assistance, training and support that schools need for them to improve instruction and 
+provide the educational program that students must have to meet the standards (Fox, 
+2000, p. 9). 
+
+The standards set for American Indian and Alaska Native students and the assessments 
+used to measure them can depend on the type of school they attend. BIA-funded schools may 
+use a standards and assessment system developed at the national level, or they may choose to 
+use the system developed by and for the state in which the school resides. Public schools 
+usually do not have the option of selecting among systems and have to use the one ^proved 
+for their state or district; thus, American Indian and Alaska Native students, their parents, and 
+their advocates in these schools also have no choice. It is not clear to what extent 
+representatives of American Indian and Alaska Native co mmuni ties or tribal governments 
+were involved in deciding upon the standards and assessments to be used in their states or why 
+some BIA- funded schools have opted to go with their state’s system rather than the national 
+one. It is also not clear, of course, what the differences for Native students and their schools 
+will be in the long term as a result of those decisions. 
+
+The literature recommends that educational reform be systematically addressed in the 
+classroom - over a sufficient period of time and with sufficient resources - to meet the 
+learning needs of Native students. With the recent emphasis on statewide standards, it is 
+becoming particularly important for Native educators to decide how to assess the performance 
+of their students (Fox, 2000). There seems to be considerable agreement on the importance 
+for teachers to be aware of potential cultural and language factors when assessing academic 
+achievement in the classroom (Banks, 1997). Fox (1999) explains that "we must try new 
+
+
+
+O 
+
+ERIC 
+
+
+
+39 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 37 
+
+
+
+methods of assessment that are being created, including the Learning Record, a system 
+adopted by BIA-fimded schools, and we must evaluate proposed methods to find the best 
+ways to assess the learning of Indian students" (p. 162). Cultural bias (due to not factoring in 
+Native language and cultural issues) is to be avoided "to ensure the cultural validity and 
+reliability of information obtained" (Mclnemey, 1998, p. 1) 
+
+Three themes emerged from reviewing the hterature, discussing the issues with experts 
+in the field, and considering the range of suggested research questions. These include; 
+
+■ It is unclear what imintended effects high-stakes testing programs will have on 
+students, particularly American Indian and Alaska Native students or others from 
+similarly high-poverty, language minority, or culturally isolated groups. Particularly 
+when the tests are used to restrict grade promotion or secondary school graduation, the 
+high stakes could serve to motivate some and discourage other students. 
+
+■ Developing standards and assessment systems is also one of the ways communities 
+can make their views known about what they feel are the important goals of education. 
+Some American Indian and Alaska Native communities have taken advantage of the 
+situation to establish their own standards and procedures for assessing them, but many 
+others have not, including American Indians in urban areas. 
+
+■ Assessments may focus primarily on basic skills attainment - the lowest common 
+denominator of educational outcomes - or they may seek to measure students against a 
+metric of what they should know. In this context, American Indian and Alaska Native 
+educators and tribal leaders call for including Native language and culture in the 
+curriculum; it is not clear how those elements can be assessed as part of a larger 
+assessment process. 
+
+
+
+Priority Research Topics 
+
+The table on the following page presents two priority research topics for this general 
+category of educational standards and assessments. It is important to reiterate that these topics 
+are at about the same level of priority, i.e., neither is inherently at a higher priority level than 
+the other. For each research topic, several examples of possible study questions are provided. 
+The examples of study questions are not meant to limit or define the scope of the priority 
+topics, rather they suggest the range of study questions offered by informants throughout this 
+project. 
+
+
+
+Suggested Studies 
+
+The purpose for establishing and implementing standards and assessment systems is to 
+make educators accountable for what children learn. When students do not perform up to the 
+standards estabhshed for them, the focus should turn to finding what aspects of the 
+educational process are not working. Sometimes, of course, the assessment tools themselves 
+are accused, and other times, the students are blamed. Because of the importance of the 
+current emphasis on implementing high-stakes testing, it is important to find out school, 
+district, state, and - in the case of BIA schools - federal responses to poor performance. 
+
+
+
+
+40 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 38 
+
+
+
+Educational Standards and Assessments 
+
+
+
+Priority Research Topics 
+
+
+Examples of Possible Study Questions 
+
+
+
+
+How much variation in standards is there across schools with large 
+American Indian and Alaska Native enrollments, and what standards and 
+assessment systems are used with most American Indian/Alaska Native 
+students? 
+
+
+
+
+What can we learn from the implementation of the ‘Alaska standards”? 
+
+
+
+
+Which assessments and tests have been validated with an American 
+Indian and Alaska Native student population? 
+
+
+Characteristics of standards 
+and assessment systems for 
+schools with large 
+enrollments of American 
+Indian and Alaska Native 
+students that are effective in 
+improving performance and 
+address the unique needs and 
+situations of those students. 
+
+
+To what extent and in w^hat circumstances are American Indian and 
+Alaska Native students receiving appropriate standards-based 
+instruction? 
+
+
+How are the purposes and goals of education defined by parents and 
+tribal governments? How^ do these purposes compare to the outcomes of 
+education codified in existing standards? 
+
+
+What are appropriate report cards or evaluations for schools and teachers 
+serving Native students? How have BIA schools implemented the 
+‘‘Learning Record” approach to assessment and w^hat are the 
+implications? 
+
+
+
+
+What is status of schools with large Native enrollments, including BIA- 
+funded schools, with regard to sanctions as a result of lack of progress 
+toward meeting standards? 
+
+
+
+
+What are the major differences between assessments and standards 
+systems developed by and with input from Native educators and those 
+developed by non-Native educators? 
+
+
+
+
+To what extent is it necessary to consider various levels of acculturation 
+within communities and schools, so that standards arc flexible enough to 
+accommodate all students? 
+
+
+Best practices for 
+implementing standards and 
+assessment systems for 
+schools with large 
+enrollments of American 
+Indian and Alaska Native 
+students. 
+
+
+Are professional development (including in-service and pre-service) 
+programs for administrators and teachers focused on standards and 
+assessment processes? 
+
+
+To what extent and how are Native communities, tribes, villages, etc. 
+involved in developing and implementing standards and assessment 
+systems? 
+
+
+
+
+What impacts have tribal codes of education or tribal departments of 
+education (e.g.. Rosebud, Navajo, etc.) had upon the development, 
+implementation, and evaluation of standards and assessment systems? 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 39 
+
+
+
+■ A descriptive survey of a sample of schools with high Native enrollment percentages 
+would be useful to obtain perspectives on what content and performance standards are 
+in place and what assessment procedures and instruments are being used. The schools 
+would be selected from several states with relatively large Native percentages, from 
+BIA schools as well as regular pubhc schools and private or charter schools. The 
+survey would also collect several years’ data - to the extent such data are available - 
+about percentages of students in the school, by race/ethnicity, who did not meet the 
+standards and what impact these percentages have on dropout rates. The survey would 
+also request information about steps taken by the schools to improve the performance 
+of low-scoring students. 
+
+■ It would be useful to obtain and disseminate information about practices used in some 
+schools with high Native enrollment percentages that appear to make a substantial 
+difference in promoting high performance on high-stakes assessments. Case studies 
+should be conducted in high-performing schools or schools that have shown marked 
+improvements, with appropriate comparison schools, to identify what factors are 
+associated with success. 
+
+
+
+
+42 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 40 
+
+
+
+References 
+
+
+
+Association of Community Tribal Schools. (1996). Our children, our schools, our tribes: 
+Thirty years of local control in Indian education 1966-1996. Sisseton, SD: Author. 
+
+Baker, P., et al. (1994). Tribal governance and economic development of American Indian 
+nations. Tribal Colleges, 6(20), 26-31. 
+
+Banks, J. (1999). An introduction to multicultural education (2nd edition). Boston: Allyn and 
+Bacon. 
+
+Banks, S. (1997). Caregiver and professional perceptions of assessment practices and vahdity 
+for American Indian/Alaska Native families. Journal of American Indian Education, 37(1), 
+16-44. 
+
+
+
+Barnett, W.S. (1995). Long-term effects of early childhood programs on cognitive and school 
+outcomes. The Future of Children, 5(3). 
+
+Batchelder, A. & Markel, S. (1997). An initial exploration of the Navajo Nation's language 
+and cultural initiative. In Reyhner, J. (Ed.), Teaching Indigenous languages (pp. 239-247). 
+Flagstaff, AZ: Northern Arizona University. 
+
+Brophy, J. (1999). Elementary students learn about Native Americans: The development of 
+knowledge and empathy. Social Education, 63(1), 39-45. 
+
+Cantoni, G. P. (1997). Keeping minority languages ahve: The school's responsibihty. In 
+Reyhner, J. (Ed.), Teaching Indigenous languages (pp. 1-9). Flagstaff, AZ: Northern Arizona 
+University. 
+
+Centers for Disease Control and Prevention. (2000). Prenatal care for live births. 
+http://www.cdc.gov/nchs/products/pubs. 
+
+Cleary, L. M. & Peacock, T. D. (1998). Collected wisdom: American Indian education. 
+Boston, MA: Allyn & Bacon. 
+
+Crawford, J. (1997). Best evidence: Research foundations of the Bilingual Education Act 
+Washington, DC: National Clearinghouse for B ilin g ual Education. 
+
+Cummins, J. (1996). Negotiating identities: Education for empowerment in a diverse society. 
+Ontario, CA: California Association for Bihngual Education. 
+
+Demmert, W. (1994). Blueprints for Indian education: Languages and cultures. Charleston, 
+WV: Appalachia Educational Laboratory, Clearinghouse on Rural Education and Small 
+Schools. 
+
+Deyhle, D. & Swisher, K. G (1997). Research in American Indian and Alaska Native 
+education: From assimilation to self-determination. In Michael W. Apple (Ed.), Review of 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 41 
+
+
+
+Research in Education (Vol. 22, pp. 113-194). Washington, DC; American Educational 
+Research Association. 
+
+Edwards, E. D., et al. (1994). Community organizing in support of self-determination within 
+Native American communities. Journal of Multicultural Social Work, 5(4), 43-60. 
+
+Faircloth, S. (October 2000). A survey of the special education knowledge and skills of 
+principals in BIA, tribal and pubhc schools with 50 percent or more American Indian/Alaska 
+Native student population. Presented at the Aimual Conference of the National Indian 
+Education Association, Sioux Falls, SD, October 30, 2000. 
+
+Federal Interagency Task Force (January, 2001). Comprehensive policy statement on Indian 
+education. U.S. Department of Education and U.S. Department of the Interior. 
+
+Fox, S. J. (1999). Student assessment in Indian education or what is a roach? In Swisher, K. 
+
+G. & Tippeconnic, J. (Eds.), Next steps: Research and practice to advance Indian education 
+(pp. 161-178). Charleston, WV: Appalachia Educational Laboratory. 
+
+Fox, S. J. (2000). Standards-based reform and American Indian/Alaska Native education. 
+Presented at National Indian Education Research Agenda Conference, Albuquerque, NM, 
+
+May 2000. <www.ed.gov/nativeamericanresearch> 
+
+Freeman, K., et al. (1995). Ojibway, Mohawk, and Inuktitut ahve and well? Issues of identity, 
+ownership, and change. Bilingual Research Journal, 19{\), 36-69. 
+
+Friesen, D.W. & Orr, J. (1998). New paths, old ways: E?q)loring the places of influences on 
+the role of identity. Canadian Journal of Native Education, 22(2), 1 88-200 
+
+Fuchs, E. & Havighurst, R. J. (1972). To live on this earth: American Indian education. 
+
+Garden City, NY : Doubleday. 
+
+Gomby, D., Lamber, M., Stevenson, C., Lewit, E., & Behrman, R. (1995) Long-term 
+outcomes of early childhood programs: Analysis and recommendations. The Future of 
+Children, 5(3). 
+
+Huff, D. J. (1997). To live heroically: Institutional racism and American Indian education. 
+Albany, NY: State University of New York Press. 
+
+Indian Health Service, U.S. Department of Health and Human Services (1997). Indian Health 
+focus: Youth. Washington, DC: author. 
+
+Indian Nations At Risk Task Force (1 991). Indian nations at risk task force: An educational 
+strategy for action: Final report of the Indian Nations at risk task force. Washington, DC: 
+
+U.S. Department of Education. ERIC Document Reproduction Service No. ED 343 753. 
+
+Institute for Government Research (1928). The Problem of Indian Administration: Report of a 
+Survey Made at the Request of Honorable Herman Work Secretary of the Interior. (Also 
+known as iheMerriam Report). Baltimore: Johns Hopkins Press. 
+
+
+
+
+44 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 42 
+
+
+
+LeVeque, D. M. (1994). Culture and parental in f luence on achievement among Native 
+American students in Barstow Unified School District. Paper presented at the National 
+Meeting of the Comparative and International Educational Society, San Diego, March 1994. 
+
+Lewis, M. S. (1996). Supply and demand of teachers of color. Washington, DC: 
+
+Clearinghouse on Teaching and Learning. 
+
+Lipka, J.; Mohatt, G.; & the Ciulistet Group. (1998). Transforming the culture of schools: 
+Yup'ik Eskimo examples. Mahwah, NJ: Lawrence Erlbaum. 
+
+Lomawaima, K. T. (1999). The unnatural history of American Indian education. In Swisher, 
+K. G. & Tippeconnic, J. (Eds.), Next steps: Research and practice to advance Indian 
+education ^p. 1-32). Charleston, WV: Appalachia Educational Laboratory. 
+
+Lomawaima, K. T. (Spring 2000). Tribal sovereigns: Reffaming research in American Indian 
+education. Harvard Education Review, STpring 2000, 1-21. 
+
+Mclnemey, D. M. (1998). Multidimensional aspects of motivation in cross-cultural settings 
+and ways of researching this. Paper presented at the Annual Meeting of the American 
+Education Research Association, San Diego, CA. 
+
+National Congress of American Indians and National Indian Education Association (March 
+1997). Comprehensive Federal Indian Education Policy Statement, Washington, DC and 
+Alexandria, VA: authors. 
+
+National Education Goals Panel (1997). Reconsidering children's early development and 
+learning: Toward common views and vocabulary. Washington, DC: author. 
+
+National Indian School Boards Association and Bureau Effective Schools Team. (1998). 
+Leadership beyond the seventh generation II: A tool for everyone reforming schools to be 
+more effective so all children will learn. Bloomington, IN: Phi Delta K^pa International, 
+Center for Effective Schools. 
+
+National Research Council (2001). Eager to learn: educating our preschoolers . Committee 
+on Early Childhood Pedagogy. Bowman, B. T., Donovan, M. S., &. Bums, M. S. (Eds.) 
+Washington, D.C: National Academy Press. 
+
+Nissani, H. (1990). NCBE focus. Occasional Papers in Bilingual Education, 2, Summer 
+1990. 
+
+Paradise, R. (1994). Spontaneous cultural compatibility: Mazahua students and their teachers 
+constmcting busting relationships. Peabody Journal of Education, 69(2), 60-70. 
+
+Pavel, D. M. (1995). Comparing BIA and tribal schools with pubhc schools: A look at the 
+Year 1990-91. Journal of American Indian Education, ii(5), 10-15. 
+
+Pavel, D. M. (1999b). Schools, principals, and teachers serving American Indian and Alaska 
+Native students. Charleston, WV: ERIC Clearinghouse on Rural Education and Small Schools. 
+
+
+
+
+45 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 43 
+
+
+
+Pewewardy, C. (1998). Will the "real" Indians please stand vcpl Multicultural Review, 7(2), 
+36-42. 
+
+
+
+Plank, G. A. (1993). The school-leaving of non-Navajo educators in the interior of the Navajo 
+Nation. Journal of Navajo Education, i0(2), 26-34. 
+
+Platero, P.R., Brandt, E.A., Witherspoon, G., & Wong, P. (1986). Navajo students at risk: 
+Final report for the Navajo area student dropout study. Window Rock, AZ: Navajo Division 
+of Education. 
+
+Ridone, P. (1988). Achievement motivation and academic achievement of Native American 
+students. Journal of American Indian Education, 25(1), 1-7. 
+
+Senate Special Committee on Indian Education (1969). Indian Education: A National 
+Tragedy. (Also known as the Kennedy Report). Senate Report 91-501, 9T‘ Congress. 
+
+Stone, B. J., & Gridley, B. E. (1991). Test bias of a kindergarten screening battery: Predicting 
+achievement for white and Native American elementary students. School Psychology Review, 
+20(1), 132-139. 
+
+Swisher, K. G. & Tippeconmc, J. W. (Eds.). (1999). Next steps: Research and practice to 
+advance Indian education. Charleston, WV: ERIC Clearinghouse on Rural Education and 
+Small Schools. 
+
+Szasz, M. C. (1999). Education and the American Indian: The road to self-determination (3'^*' 
+Edition). Albuquerque: University of New Mexico Press. 
+
+Tippeconnic, J. (1999). Tribal control of American Indian education: Observations since the 
+1960s with impHcations for the future. In Swisher, K. G. & Tippeconnic, J. (Eds.), Next steps: 
+Research and practice to advance Indian education (pp. 33-52). Charleston, WV: Appalachia 
+Educational Laboratory. 
+
+Tippeconnic, J., Faircloth, S. & Stout, J. (May, 2000), Addressing the education of American 
+Indian and Alaska Native students with disabilities. Prepared for National Conference on 
+Developing a Research Agenda for American Indian and Alaska Native Education, 
+Albuquerque, NM. 
+
+Tippeconnic, J., & Swisher, K. G. (1992). American Indian education. In Alkin, M. C. (Ed.), 
+Encyclopedia of educational research (pp. 75-78). New York: Macmilhan. 
+
+U. S. Department of Education, National Center for Education Statistics (1995). 
+Characteristics of American Indian and Alaska Native education: Results from the 1990-91 
+schools and staffing survey, NCES 95-735. Washington, DC: author. 
+
+U. S. Department of Education, National Center for Education Statistics (1997). 
+Characteristics of American Indian and Alaska Native education: Results from the 1993-94 
+and 1990-91 schools and staffing survey, NCES 97-451. Washington DC: author. 
+
+
+
+
+46 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 44 
+
+
+
+U.S. Department of Education, Planning and Evaluation Service (1997). National Evaluation of the 
+Even Start Family Literacy Program. Washington, DC: author. 
+
+U.S. Department of Education (1999). Start Early, Finish Strong. Washington, DC: author. 
+
+U. S. Department of the Interior, Office of Indian Education Programs (2000). BIA 2000 Fast 
+Facts. Washington, DC: author. 
+
+White House Conference on Indian Education. (1992). Final Report of the White House 
+Conference on Indian Education. Washington, DC: White House Conference on Indian 
+Education. ERIC Document Reproduction Service No. ED 353 124. 
+
+Willeto, A. A. A. (1999). Navajo culture and family influences on academic success: 
+Traditionalism is not a significant predictor of achievement among young Navajos. Journal of 
+American Indian Education, 38(2), 1-21. 
+
+Wright, D. E., Hirlinger, M. W., & England, R. E. (1998). The politics of second generation 
+discrimination in American Indian education. Incidence, explanation, and mitigating 
+strategies. Westport, CT: Bergin & Garvey. 
+
+Yazzie, T. (1999). Culturally appropriate curriculum: A research-hased rationale. In Swisher, 
+
+K. G. & Tippeconnic, J (Eds.), Next steps: Research and practice to advance Indian education 
+(pp. 83-106). Charleston, WV: Appalachia Educational Laboratory. 
+
+Yazzie, T. (2000). Holding a mirror to “eyes wide shuf’: The role of Native languages and 
+cultures in the education of American Indian students. Presented at National Indian Education 
+Research Agenda Conference, Albuquerque, NM, May 2000. 
+<www.ed.gov/nativeamericanresearch> 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 45 
+
+
+
+Appendix 
+
+
+
+1. Executive Order 13096 
+
+2. Interagency Task Force Members 
+
+3. Research Working Group Members 
+
+4. Research Agenda Expert Committee Members 
+
+
+
+
+43 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 46 
+
+
+
+1 Executive Order 13096 
+
+
+
+THE WHITE HOUSE 
+Office of the Press Secretary 
+
+
+
+For immediate Release 
+August 6, 1998 
+
+EXECUTIVE ORDER 13096 
+
+AMERICAN INDIAN AND ALASKA NATIVE EDUCATION 
+
+By the authority vested in me as President by the Constitution and the laws of the United States of 
+America, in affirmation of the imique political and legal relationship of the Federal Government 
+with tribal governments, and in recognition of the unique educational and culturally related 
+academic needs of American Indian and Alaska Native students, it is hereby ordered as follows: 
+
+Section 1 . Goals. The Federal Government has a special, historic responsibility for the education 
+of American Indian and Alaska Native students. Improving educational achievement and academic 
+progress for American Indian and Alaska Native students is vital to the national goal of preparing 
+every student for responsible citizenship, continued learning, and productive employment. The 
+Federal Government is committed to improving the academic performance and reducing the 
+dropout rate of American Indian and Alaska Native students. To help fulfill this commitment in a 
+manner consistent with tribal traditions and cultures. Federal agencies need to focus special 
+attention on six goals: (1) improving reading and mathematics; (2) increasing high school 
+completion and postsecondary attendance rates; (3) reducing the influence of long-standing factors 
+that impede educational performance, such as poverty and substance abuse; (4) creating strong, 
+safe, and drug-free school environments; (5) improving science education; and (6) expanding the 
+use of educational technology. 
+
+Sec. 2. Strategy. In order to meet the six goals of this order, a comprehensive Federal response is 
+needed to address the fragmentation of government services available to American Indian and 
+Alaska Native students and the complexity of inter-governmental relationships affecting the 
+education of those students. The purpose of the Federal activities described in this order is to 
+develop a long-term, comprehensive Federal Indian education policy that will accomplish those 
+goals. 
+
+(a) Interagency Task Force. 
+
+There is established an Interagency Task Force on American Indian and Alaska Native Education 
+(Task Force) to oversee the planning and implementation of this order. The Task Force s hall 
+confer with the National Advisory Council on Indian Education (NACIE) in carrying out activities 
+under this order. The Task Force shall consult with representatives of American Indian and Alaska 
+Native tribes and organizations, including the Nation^ Indian Education Association (NIEA) and 
+the National Congress of American Indians (NCAI), to gather advice on implementation of the 
+activities called for in this order. 
+
+(b) Composition of the Task Force. 
+
+(1) The membership of the Task Force shall include representatives of the Departments of the 
+Treasury, Defense, Justice, the Interior, Agriculture, Commerce, Labor, Healffi and Human 
+Services, Housing and Urban Development, Transportation, Energy, and Education, as well as the 
+
+
+
+
+49 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 47 
+
+
+
+Environmental Protection Agency, the Corporation for National and Community Service, and the 
+National Science Foimdation. With the agreement of the Secretaries of Education and the Interior, 
+other agencies may participate in the activities of the Task Force. 
+
+(2) Within 30 days of the date of this order, the head of each participating agency shall designate a 
+senior official who is responsible for management or program administration to serve as a member 
+of the Task Force. The official shall report directly to the agency head on the agency's activities 
+imder this order. 
+
+(3) The Assistant Secretary for Elementary and Secondary Education of the Department of 
+Education and the Assistant Secretary for Indian Affairs of the Department of the Interior shall co- 
+chair the Task Force. 
+
+(c) Interagency plan. 
+
+The Task Force shall, within 90 days of the date of this order, develop a Federal interagency plan 
+with recommendations identifying initiatives, strategies, and ideas for future interagency action 
+supportive of the goals of this order. 
+
+(d) Agency participation. 
+
+To the extent consistent with law and agency priorities, each participating agency shall adopt and 
+implement strategies to maximize the availability of the agency's education-related programs, 
+activities, resources, information, and technical assistance to American Indian and Alaska Native 
+students. In keeping with the spirit of the Executive Memorandmn of April 29, 1994, on 
+Govemment-to-Govemment Relations with Native American Tribal Governments and Executive 
+Order 13084 of May 14, 1998, each participating agency shall consult with tribal governments on 
+their education-related needs and priorities, and on how the agency can better accomplish the goals 
+of this order. Within 6 months, each participating agency shall report to the Task Force regarding 
+the strategies it has developed to ensure such consultation. 
+
+(e) Interagency resource guide. 
+
+The Task Force shall identify, within participating Federal agencies, all education-related 
+programs and resources that support the goals of this order. Within 12 months, the Task Force, in 
+conjimction with the Department of Education, shall develop, publish, and widely distribute a 
+guide that describes those programs and resources and how American Indians and Alaska Natives 
+can benefit from them. 
+
+(f) Research. 
+
+The Secretary of Education, through the Office of Educational Research and Improvement and the 
+Office of Indian Education, and in consultation with NACIE and participating agencies, s hall 
+develop and implement a comprehensive Federal research agenda to: 
+
+(1) establish baseUne data on academic achievement and retention of American Indian and Alaska 
+Native students in order to monitor improvements; 
+
+(2) evaluate promising practices used with those students; and 
+
+(3) evaluate the role of native language and culture in the development of educational strategies. 
+
+
+
+
+50 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 48 
+
+
+
+Within 1 year, the Secretary of Education shall submit the research agenda, including proposed 
+timelines, to the Task Force. 
+
+(g) Comprehensive Federal Indian education pohcy. 
+
+(1) The Task Force shall, within 2 years of the date of this order, develop a comprehensive Federal 
+Indian education policy to support the accomplishment of the goals of this order. The policy shall 
+be designed to: 
+
+(A) improve Federal interagency cooperation; 
+
+(B) promote intergovermnental collaboration; and 
+
+(C) assist tribal goveriunents in meeting the unique educational needs of their children, including 
+the need to preserve, revitalize, and use native languages and cultural traditions. 
+
+(2) In developing the policy, the Task Force shall consider ideas in the Comprehensive Federal 
+Indian Education Policy Statement proposal developed by the NIEA and the NCAI. 
+
+(3) The Task Force shall develop recommendations to implement the policy, including ideas for 
+future interagency action. 
+
+(4) As appropriate, participating agencies may develop memoranda of agreement with one another 
+to enable and enhance the ability of tribes and schools to provide, and to coordinate the delivery 
+of. Federal, tribal. State, and local resources and services, including social and health-related 
+services, to meet the educational needs of American Indian and Alaska Native students. 
+
+(h) Reports. The Task Force co-chairs shall submit the comprehensive Federal Indian education 
+policy, and report annually on the agencies' activities, accomplishments, and progress toward 
+meeting the goals of this order, to the Director of the Office of Management and Budget. 
+
+Sec. 3. Regional partnership forums. The Departments of Education and the Interior, in 
+collaboration with the Task Force and Federal, tribal. State, and local government representatives, 
+shall jointly convene, within 18 months, a series of regional forums to identify promising practices 
+and approaches on how to share information, provide assistance to schools, develop partnerships, 
+and coordinate intergovernmental strategies supportive of accomplishing the goals of this order. 
+The Departments of Education and the Interior shall submit a report on the forums to the Task 
+Force, which may include recommendations relating to intergovernmental relations. 
+
+Sec. 4. School pilot sites. The Departments of Education and the Interior shall identify a 
+reasonable number of schools funded by the Bureau of Indian Affairs (BIA) and public schools 
+that can serve as a model for schools with American Indian and Alaska Native students, and 
+provide them with comprehensive technical assistance in support of the goals of this order. A 
+special team of technical assistance providers, including Federal staff, shall provide assistance to 
+these schools. Special attention shall be given, where appropriate, to assistance in implementing 
+comprehensive school reform demonstration programs that meet the criteria for those programs 
+established by the Departments of Labor, Health and Human Services, and Education, and Related 
+Agencies Appropriations Act, 1998 (Pubhc Law 105-78), and to providing comprehensive service 
+delivery that connects and uses diverse Federal agency resources. The team shall disseminate 
+effective and promising practices of the school pilot sites to other local educational agencies. The 
+
+
+
+
+51 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 49 
+
+
+
+team shall report to the Task Force on its accomplishments and its recormnendations for improving 
+technical support to local educational agencies and schools funded by the BIA. 
+
+Sec. 5. Administration. The Department of Education shall provide appropriate administrative 
+services and staff support to the Task Force. With the consent of the Department of Education, 
+other participating agencies may provide administrative support to the Task Force, consistent with 
+their statutory authority, and may detail agency employees to the Department of Education, to the 
+extent permitted by law. 
+
+Sec. 6. Termination. The Task Force established under section 2 of this order shall terminate not 
+later than 5 years from the date of this order. 
+
+Sec. 7. General provisions. This order is intended only to improve the internal management of the 
+executive branch and is not intended to, and does not, create any right or benefit, substantive or 
+procedural, enforceable at law or equity by a party against the United States, its agencies or 
+instrumentaUties, its officers or employees, or any other person. This order is not intended to 
+preclude, supersede, replace, or otherwise dilute any other Executive order relating to American 
+Indian and Alaska Native education. 
+
+
+
+WILLIAM J. CLINTON 
+
+THE WHITE HOUSE, 
+August 6, 1998. 
+
+
+
+
+52 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 50 
+
+
+
+2 Interagency Task Force Members 
+
+Executive Order 13096 established an Interagency Task Force to oversee the planning and 
+implementation of the order. The Task Force membership includes representatives from federal 
+departments and agencies. It is to confer with the National Advisory Council on Indian Education 
+and consult with representatives of American Indian and Alaska Native tribes and organizations. 
+
+
+
+Michael Cohen (Co-chair) 
+
+U.S. Department of Education 
+
+Maria Hernandez 
+
+U.S. Department of Agriculture 
+
+Marcia Warren 
+
+U.S. Department of Commerce 
+
+Cynthia Johnson 
+Corporation for National Service 
+
+Bob Ray 
+
+U.S. Department of Defense 
+
+David Beauheu 
+
+U.S. Department of Education 
+
+Anni Whatley 
+
+U.S. Department of Energy 
+
+Ted Key 
+
+U.S. Department of Housing & Urban 
+Development 
+
+
+
+Kevin Cover (Co-chair) 
+
+U.S. Department of the Interior 
+
+Gerald Gipp 
+
+National Science Foundation 
+Jane Stutsman 
+
+National Science Foundation 
+Marc Brenman 
+
+U.S. Department of Transportation 
+
+Lynda de la Vina 
+
+U.S. Department of Treasury 
+
+Michael Springer 
+
+U.S. Department of Treasury 
+
+Vicki Thornton 
+
+U.S. Department of Energy 
+
+Marlene Regelski 
+Environmental Protection Agency 
+
+
+
+Jackie Johnson 
+
+U.S. Department of Housing & Urban 
+Development 
+
+William Mehojah 
+
+U.S. Department of the Interior 
+
+
+
+Patricia Lee-McCoy 
+
+Department of Health & Human Services 
+Marlene Echohawk 
+
+Department of Health & Human Services 
+
+
+
+Mark Van Norman John Cheek 
+
+U.S. Department of Justice National Indian Education Association 
+
+
+
+Tim Jaranko 
+
+U.S. Department of Justice 
+
+Anna Goddard 
+
+U.S. Department Df Labor 
+
+Charles Archambault 
+U.S. Department of Labor 
+
+
+
+Melody McCoy 
+
+Native American Rights Fund 
+
+Jack C. Jackson, Jr. 
+
+National Congress of American Indians 
+
+
+
+
+53 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 51 
+
+
+
+3 Research Working Group 
+
+David Beaulieu 
+
+Office of Indian Education 
+
+U.S. Department of Education 
+
+David Boesel 
+
+National Education Library 
+U.S. Department of Education 
+
+Joyce Caldwell 
+
+Office of Special Education and Rehabilitative 
+Services, U.S. Department of Education 
+
+John G. Chapman 
+
+Budget Service 
+
+U.S. Department of Education 
+
+John Cheek 
+
+National Indian Education Association 
+
+David Cleary 
+
+Budget Service 
+
+U.S. Department of Education 
+
+Brian Colhoff 
+
+National Indian Education Association 
+
+
+
+Thomas M. Corwin 
+
+Acting Deputy Assistant Secretary, Office of 
+Elementary and Secondary Education 
+U.S. Department of Education 
+
+Tim D'Emilio 
+
+Office of Bilingual Education and Minority 
+Languages Affairs, U.S. Department of 
+Education 
+Grace Diuan 
+
+Office of Special Education and Rehabilitative 
+Services, U.S. Department of Education 
+
+Lorraine Edmo 
+
+Office of Indian Education Programs 
+U.S. Department of Education 
+
+Beth Franklin 
+
+Planning and Evaluation Service 
+U.S. Department of Education 
+
+
+
+Charles Geboe 
+
+Bmeau of Indian Affairs 
+
+U.S. Department of the Interior 
+
+Dalton Henry 
+
+Bmeau of Indian Affairs 
+
+U.S. Department of the Interior 
+
+Jack Jackson 
+
+National Congress of American Indians 
+Ama Kanegis 
+
+National Congress of American Indians 
+Edith McArthur 
+
+National Center for Education Statistics 
+U.S. Department of Education 
+
+Melody McCoy 
+
+Native American Rights Fimd 
+
+Wilham Mehojah 
+
+Director, Office of Indian Education Programs 
+
+Bmeau of Indian Affairs 
+
+U.S. Department of the Interior 
+
+Eileen O'Brien 
+
+Office of Educational Research and Improvement 
+U.S. Department of Education 
+
+Heather Rieman 
+
+Budget Service 
+
+U.S. Department of Education 
+
+Ken Ryan 
+
+Administration of Native Americans 
+
+U.S. Department of Health and Human Services 
+
+Karen Suagee 
+
+Office of Educational Research and Improvement 
+U.S. Department of Education 
+
+Victoria Wright 
+
+National Congress of American Indians 
+
+
+
+ERIC 
+
+
+
+54 
+
+
+
+American Indian and Alaska Native Education Research Agenda 
+
+
+
+Page 52 
+
+
+
+4 Research Agenda Expert Committee / 
+
+^The research agenda Expert Committee provides advice to the working group. The Committee is 
+inade up of representatives from the National Advisory Coimcil on Indian Education and the 
+Natiomil Educational Research Policy and Priorities Board. 
+
+
+
+Rosemary Ackley Christensen 
+v.National Advisory^ Coimcil on Indian Education 
+Green Bay, WI 
+
+Kenji Hakuta 
+
+National Educational Research Policy & Priorities Board 
+Stanford, CA 
+
+Robert W. Marley 
+
+National Educational Research Policy & Priorities Board 
+Wichita, KS 
+
+Janine Pease Pretty on Top 
+
+National Advisory Council on Indian Education 
+
+Crow Agency, MT 
+
+?■ 
+
+Sherry Red Owl 
+
+National Advisory Council on Indian Education 
+Mission, SD 
+
+Rick St. Germaine 
+
+National Advisory Council on Indian Education 
+Cambridge, MA 
+
+
+
+ERIC 
+
+
+
+55 
+
+
+
+
+U.S. DEPARTMENT OF EDUCATION 
+
+Office of Educational Research and Improvement (OERI) 
+Educational Resources Information Center (ERIC) 
+
+
+
+
+NOTICE 
+
+REPRODUCTION BASIS 
+
+
+
+
+
+This document is covered by a signed “Reproduction Release 
+(Blanket)” form (on file within the ERIC system), encompassing all 
+or classes of documents from its source organization and, therefore, 
+does not require a “Specific Document” Release form. 
+
+
+
+This document is Federally-funded, or carries its own permission to 
+reproduce, or is otherwise in the public domain and, therefore, may 
+be reproduced by ERIC without a signed Reproduction Release 
+form (either “Specific Document” or “Blanket”). 
+
+
+

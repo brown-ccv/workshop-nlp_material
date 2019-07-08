@@ -1,0 +1,5720 @@
+United States General Accounting Office 
+
+
+GAO 
+
+
+TREATY OF 
+
+GUADALUPE 
+
+HIDALGO 
+
+
+Definition and List of 
+Community Land 
+Grants in New Mexico 
+
+Exposure Draft 
+
+
+
+
+GAO 
+
+Accountability * Integrity * Reliability 
+
+
+GAO-01-330 
+
+
+
+
+
+
+
+
+
+Form SF298 Citation Data 
+
+
+Report Date D r 
+
+("DD MONYYYY") eport ype 
+
+00JAN2001 N/A 
+
+Dates Covered (from... to) 
+
+("DD MONYYYY") 
+
+Title and Subtitle 
+
+TREATY OF GUADALUPE HIDALGO Definition and List of 
+Community Land Grants in New Mexico Exposure Draft 
+
+Contract or Grant Number 
+
+Program Element Number 
+
+Authors 
+
+Project Number 
+
+
+Task Number 
+
+
+Work Unit Number 
+
+Performing Organization Name(s) and Address(es) 
+
+General Accounting Office Washington, DC 20013 
+
+Performing Organization 
+
+Number(s) 
+
+GAO-01-330 
+
+Sponsoring/Monitoring Agency Name(s) and Address(es) 
+
+Monitoring Agency Acronym 
+
+
+Monitoring Agency Report 
+
+Number(s) 
+
+Distribution/Availability Statement 
+
+Approved for public release, distribution unlimited 
+
+Supplementary Notes 
+
+Abstract 
+
+From the end of the seventeenth century to the mid-nineteenth century, Spain (and later Mexico) made 
+land grants to individuals, towns, and groups to promote development in the frontier lands that now 
+constitute the American Southwest. In New Mexico, these land grants fulfilled several purposes: to 
+encourage settlement, reward patrons of the Spanish government, and create a buffer zone to separate 
+hostile Native American tribes from the more populated regions of New Spain. Spain also extended land 
+grants to several indigenous pueblo cultures, which had occupied the areas granted long before Spanish 
+settlers arrived in the Southwest. Under Spanish and Mexican law, common land was set aside as part of 
+the original grant for the use of the entire community. Literature on land grants in New Mexico and 
+popular terminology generally distinguish between two kinds of land grants: community land grants and 
+individual land grants. Our research identified a total of 295 grants made by Spain and Mexico during this 
+period. Appendix I contains a list of these grants. 
+
+Subject Terms 
+
+Document Classification 
+
+unclassified 
+
+Classification of SF298 
+
+unclassified 
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTICE An electronic version of this Exposure Draft is available in English and 
+
+Spanish from GAO's World Wide Web server at the following address: 
+http://www.gao.gov/ 
+
+Additional hard copies of this draft can also be obtained from Room 1100 at 
+700 4th St. NW, Washington, D.C., by request to U.S. General Accounting 
+Office, Washington, D.C. 20548, or by calling (202) 512-6000, or TDD (202) 
+512-2537. Copies of this draft will be available in New Mexico in both 
+languages. We are issuing this report as an Exposure Draft to identify and 
+to gather information about community land grants that is not readily 
+available to us in published research and public documents and to obtain 
+comments about our definition and our identification of community land 
+grants. We will use such information and comments to prepare a final 
+report. 
+
+If you have any information or supporting documentation about the 
+matters included in this Exposure Draft, we would appreciate receiving 
+them during the comment period. All comments will be reviewed in 
+preparation of a final GAO report. 
+
+Comments in English or Spanish should be sent by April 2, 2001, 
+electronically through GAO's web page (listed above), or by e-mail to 
+landgrants@gao.gov, fax to 202-512-7703, or mail to the following: 
+
+Office of General Counsel 
+U.S. General Accounting Office 
+441 G Street, NW 
+Washington, D.C. 20548 
+Attention: Alan R. Kasdan 
+
+All comments should contain your name, address, phone number, fax, e- 
+mail address, interest in land grants (e.g., heir, scholar, government official, 
+or interested organization), and supporting documentation. For comments 
+sent via the web page or e-mail, supporting data should be subsequently 
+sent to Mr. Kasdan by fax or at the address above. 
+
+We will consider all comments and supporting documentation provided to 
+us in preparation of a final report. Changes will be based on 
+documentation. Original documentation should not be provided to GAO; 
+we cannot return any material submitted to GAO. Any questions 
+
+
+Page 1 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+
+
+concerning this notice should be addressed to Mr. Kasdan or to Ms. Susan 
+A. Poling at (202) 512-7648. 
+
+
+Page 2 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+Contents 
+
+
+Letter 5 
+
+Appendixes Appendix I: Detailed Data on the 295 Spanish and Mexican 
+
+Land Grants in New Mexico 22 
+
+Appendix II: Objectives, Scope, and Methodology 33 
+
+Appendix III: Bibliography 37 
+
+Appendix IV: Contacts and Staff Acknowledgments 44 
+
+Tables Table 1: 79 Community Land Grants Identified Through Original 
+
+Grant Documentation 14 
+
+Table 2: 51 Community Land Grants Identified by Grant Heirs and 
+
+Others 17 
+
+Table 3: 22 Community Land Grants Issued to Indian Pueblos 20 
+
+
+Figures 
+
+
+Figure 1: Territory Ceded by Mexico Under the Treaty of Guadalupe 
+
+Hidalgo in 1848 and the Gadsden Purchase of 1853. 8 
+
+Figure 2: Types of Community Land Grants in New Mexico, by 
+
+County 12 
+
+
+Page 3 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Page 4 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+i 
+
+^ G A O 
+
+^Accountability * Integrity * Reliability 
+
+
+United States General Accounting Office 
+Washington, D.C. 20548 
+
+
+January 24, 2001 
+
+The Honorable Pete Domenici 
+The Honorable Jeff Bingaman 
+United States Senate 
+
+From the end of the seventeenth century to the mid-nineteenth century, 
+Spain (and later Mexico) made land grants to individuals, towns, and 
+groups to promote development in the frontier lands that now constitute 
+the American Southwest. In New Mexico, these land grants fulfilled several 
+purposes: to encourage settlement, reward patrons of the Spanish 
+government, and create a buffer zone to separate hostile Native American 
+tribes from the more populated regions of New Spain. Spain also extended 
+land grants to several indigenous pueblo cultures, which had occupied the 
+areas granted long before Spanish settlers arrived in the Southwest. Under 
+Spanish and Mexican law, common land was set aside as part of the original 
+grant for the use of the entire community. Literature on land grants in New 
+Mexico and popular terminology generally distinguish between two kinds 
+of land grants: “community land grants” and “individual land grants.” Our 
+research identified a total of 295 grants made by Spain and Mexico during 
+this period. Appendix I contains a list of these grants. 
+
+With the Treaty of Guadalupe Hidalgo in 1848, which formally ended the 
+Mexican-American War, the United States assumed control over vast new 
+territories, including much of what is now the state of New Mexico. Under 
+the treaty, the United States agreed to recognize ownership of property, 
+including the ownership of land grants, in the ceded areas. Over the next 
+half century, the United States developed procedures to validate land 
+grants in the territory of New Mexico in order to implement the treaty 
+provisions. Whether the United States carried out the provisions of the 
+treaty, especially with regard to community land grants, has been a 
+controversial issue for generations. Many persons, including grantee heirs, 
+scholars, and legal experts, still claim that the United States did not protect 
+the property of Mexican-Americans and their descendants, particularly the 
+common lands of community land grants. They charge that the common 
+lands were lost in many ways and that this loss threatened the economic 
+stability of small Mexican-American farms and the farmers’ rural lifestyle. 
+
+Concerned that the Congress and the courts have validated only about 25 
+percent of the total land grant claims in New Mexico and that most of the 
+lost lands stemmed from community land grants, you asked us to answer 
+several questions concerning community land grants and procedures under 
+
+
+Page 5 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+the treaty. In this report, the first in a series, we agreed to (1) define the 
+concept of community land grants and (2) identify the types of community 
+land grants in New Mexico that meet the definition. Subsequently, we will 
+describe the procedures established to implement the treaty, identify 
+concerns about how the treaty was implemented, and what alternatives, if 
+any are needed, may be available to address these concerns. 
+
+To define community land grants, we reviewed land grant documents filed 
+with the U.S. government; Spanish colonial, Mexican, and current New 
+Mexican laws; federal, state, and territorial court cases; and the land grant 
+literature. To identify land grants meeting the definition of community land 
+grants, we reviewed U.S. records on Spanish and Mexican land grant 
+claims; literature on land grants, including materials on specific grants; and 
+federal court cases. We also spoke with scholars, legal experts, and grant 
+heirs familiar with the issues. For the most part, we relied on English 
+translations of Spanish documents in U.S. government files and other 
+sources. Our identification of a land grant as a community land grant in this 
+report, however, does not constitute our opinion as to the validity of any 
+land grant claim. Many of these land grants have already been subject to 
+congressional review or court adjudication. Appendix II contains a 
+complete description of our methodology. 
+
+We are issuing this report as an Exposure Draft in English and Spanish to 
+gather and to identify information on community land grants that was not 
+readily available to us in published research and public documents. We 
+would also like to obtain comments about our definition and our 
+identification of community land grants. We will use such information and 
+comments when preparing our final report. The NOTICE located on the 
+inside cover of this report provides information about how additional 
+copies of the Exposure Draft can be obtained and when and to whom 
+comments should be sent. 
+
+
+Results in Brief Land grant documents contain no direct reference to “community land 
+
+grants” nor do Spanish and Mexican laws define or use this term. We did 
+find, however, that some grants refer to lands set aside for general 
+communal use ( ejidos ) or for specific purposes, including hunting (caza), 
+pasture (pastos), wood gathering (leha), or watering (abrevederos). 
+Scholars, the land grant literature, and popular terminology commonly use 
+the phrase “community land grants” to denote land grants that set aside 
+common lands for the use of the entire community. We adopted this broad 
+
+
+Page 6 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+definition in determining which Spanish and Mexican land grants can be 
+identified as community land grants. 
+
+We identified 152 community land grants (or 52 percent) out of the total of 
+295 land grants in New Mexico. We divided these community land grants 
+into three distinct types: 79 of these were grants in which the shared lands 
+formed part of the grant according to the original grant documentation; 51 
+were grants that scholars, grantee heirs, or others believed to contain 
+common lands; and 22 were grants extended to the indigenous pueblo 
+cultures in New Mexico. 
+
+
+Background 
+
+
+From the end of the seventeenth century to the middle of the nineteenth 
+century, Spain and Mexico issued grants of land to individuals, groups, 
+towns, pueblos, and other settlements in order to populate present-day 
+New Mexico. Academic treatises and popular literature typically divide 
+these grants into two types: “individual grants” and “community land 
+grants.” Grants to towns and other settlements were modeled on similar 
+communities created in Spain, where the king granted lands adjacent to 
+small towns for common use by all town residents. Under Spanish and 
+Mexican law in the territory of New Mexico, officials made grants to towns 
+and other communities. Such grants were in keeping with Spanish laws, 
+including the 1680 Recopilacion de las Leyes de los Reynos de las Indias. 
+However, local laws, practices, and customs often dictated how grants 
+were made and confirmed. 
+
+After achieving independence from Spain in 1821, Mexico continued to 
+adhere to Spanish law by extending additional land grants to individuals to 
+encourage settlements in unoccupied areas and to stave off U.S. 
+encroachment on Mexican territory. The Mexican-American War began in 
+1846 and formally ended with the signing of the Treaty of Guadalupe 
+Hidalgo in 1848. Under the treaty, Mexico ceded most of what is presently 
+the American Southwest, including the present day states of New Mexico 
+and California, to the United States for $15 million. Figure 1 shows the 
+territory ceded by Mexico under the treaty. 
+
+
+Page 7 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+Figure 1: Territory Ceded by Mexico Under the Treaty of Guadalupe Hidalgo in 1848 
+and the Gadsden Purchase of 1853. 
+
+
+
+a When Texas was officially recognized as a state in 1845, it included the light-gray area, which was 
+also claimed by Mexico. The Treaty of Guadalupe Hidalgo resolved this dispute, with Texas claiming 
+the disputed land. In 1850, Texas transferred part of this land to the federal government, which became 
+the eastern portion of the territory of New Mexico. 
+
+While the treaty provided protection for property in the ceded area, Article 
+X expressly addressed land grant protection. However, U.S. President 
+James Polk objected to the provision, fearing that a revival of land grant 
+claims had the potential to jeopardize the grants already settled in Texas. 
+As a result, the Congress struck Article X before ratifying the treaty. 
+Subsequently, in 1848, the United States and Mexico signed the Protocol of 
+Queretaro, which clarified certain aspects of the treaty, including Article 2, 
+in which the United States stated that the exclusion of Article X in no way 
+meant that it planned to annul the land grants. The Protocol specifically 
+provided that land grant titles would be protected under the treaty and that 
+
+
+Page 8 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+
+
+
+
+
+
+
+
+grantees could have their ownership of land acknowledged before 
+American tribunals. With the Gadsden Purchase of 1853, the United States 
+purchased additional land from Mexico for $15 million, including the 
+southwest comer of the present state of New Mexico. The treaty, which 
+confirmed the terms of the Gadsden Purchase, incorporated by reference 
+the property provisions of the Treaty of Guadalupe Hidalgo. 
+
+To implement the treaties, the Congress enacted legislation in 1854 to 
+establish the Office of Surveyor General of New Mexico. The surveyors 
+general were charged with examining documents and verifying the 
+ownership of land grants. The United States government required 
+individuals or towns and other communities to prove ownership or 
+property interests in grant lands. After reviewing the land grant 
+documentation, the surveyor general recommended to the Congress which 
+grants should be rejected or confirmed. If the Congress approved the grant, 
+the U.S. government issued a patent, which conveyed the property’s title to 
+the owner. The Congress reviewed and confirmed 64 of the surveyor 
+generals’ recommendations, but in the late 1870s, the congressional review 
+of recommendations ceased. 
+
+In 1891, the Congress established the Court of Private Land Claims to 
+adjudicate the outstanding claims reviewed by the surveyors general, 
+though not yet approved by the Congress, and other claims presented to 
+the court. In United States v. Sandoval etal., 167 U.S. 278 (1897), a case on 
+appeal from the Court of Private Land Claims, the Supreme Court held that 
+Mexico, not the local community, had title to all common lands in 
+community land grants issued before 1848. Consequently, under the Treaty 
+of Guadalupe Hidalgo, Mexico had transferred ownership of these 
+communal lands to the United States. Although the Sandoval decision did 
+not overturn previous court confirmations of land grants, it did affect all 
+subsequent claims adjudicated by the Court of Private Land Claims. In 
+1904, the court finished its work, approving claims and land surveys that 
+represented approximately 6 percent of the acreage claimed. The Congress 
+and the Court of Private Land Claims confirmed 155 grants of the total of 
+295 grants we identified, and patents were issued for 142 of these grants. 
+Appendix I lists all the land grants we identified, the grants patented, and 
+the acreage patented. 
+
+The completion of the Court of Private Land Claims’ work did not quell the 
+controversy surrounding the loss of the common lands. Many persons, 
+including grantee heirs, scholars, and legal experts, still claim that the 
+United States failed to uphold the provisions of the Treaty of Guadalupe 
+
+
+Page 9 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+Hidalgo to protect the property of Mexican-Americans and their 
+descendants. They are critical of the federal courts’ treatment of the 
+common lands and the failure to approve more of the acreage claimed. 
+They also assert that common lands were lost by other means, and that this 
+loss deprived many small Mexican-American farmers of their livelihoods. 
+
+
+Land grant documents contain no direct reference to “community land 
+grants” nor do Spanish and Mexican laws define or use this term. Scholars, 
+land grant literature, and popular terminology use the phrase “community 
+land grants” to denote land grants that set aside common lands for the use 
+of the entire community. We adopted this broad definition for the purposes 
+of this report. 
+
+To determine the meaning of the term “community land grants,” we first 
+reviewed land grant documents, and found that grant documents do not 
+describe grants as community land grants. We also did not find applicable 
+Spanish and Mexican laws that defined or used the term. However, as a 
+result of our review of land grant literature, court decisions, and interviews 
+with scholars, legal experts, and grantee heirs, we found that the term is 
+frequently used to refer to grants that set aside some land for general 
+communal use ( ejidos ) or for specific purposes, including hunting (caza), 
+pasture (pastos), wood gathering (Jena), or watering ( abrevederos ). Our 
+definition coincides with the way in which scholars, the land grant 
+literature, and grant heirs use the term. 
+
+Under Spanish and Mexican law, common lands set aside as part of an 
+original grant could not be sold. Typically, in addition to use of common 
+lands, settlers on a community land grant would receive individual parcels 
+of land designated for dwelling (solar de casa) and growing food ( suerte ). 
+Unlike the common lands, these individual parcels could be sold or 
+otherwise disposed of by a settler who fulfilled the requirements of the 
+grant, such as occupying the individual parcel for a continuous period. For 
+example, the documentation for the Anton Chico grant, issued by Mexico in 
+1822, contains evidence that common lands were part of the original grant. 
+The granting document provided for individual private allotments and 
+common lands. Congress confirmed the Anton Chico grant in 1860 and the 
+grant was patented in 1883. 
+
+
+The Concept of 
+Common Lands 
+Defines Community 
+Land Grants 
+
+
+Page 10 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+Approximately Fifty- 
+two Percent of All New 
+Mexico Land Grants 
+May Be Classified as 
+Community Land 
+Grants 
+
+
+Using the definition, we identified three types of community land grants, 
+totaling 152 grants, or approximately 52 percent of the 295 land grants in 
+New Mexico. In 79 of the community land grants, the common lands 
+formed part of the grant according to the grant documentation. Scholars, 
+grant heirs, and others have found an additional 51 grants that they believe 
+to contain communal lands; and we located 22 grants of communal lands to 
+the indigenous pueblo cultures in New Mexico. Figure 2 shows the 
+location, by county, of the three types of community land grants. 
+
+
+Page 11 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+Figure 2: Types of Community Land Grants in New Mexico, by County 
+
+
+
+^ Community grants identified through documentation 
+| Community grants identified by land grant heirs and others 
+Community grants to Indian pueblos 
+
+
+Note: The numbers inside each symbol represent the number of each type of grant in each county. 
+One document referenced a grant for which the primary county could not be identified. County 
+boundaries have changed markedly since 1850. 
+
+
+Page 12 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common Lands Formed 
+Part of the Grant According 
+to Grant Documentation 
+
+
+The first type of community land grant we identified is a grant in which 
+common lands formed part of the original grant. From our review of grant 
+documents, Spanish and Mexican law, New Mexican law, and grant 
+literature, as well as interviews with grantee heirs, scholars, legal experts, 
+and others, common lands were part of the original grant in the following 
+three instances: 
+
+
+• The grant document itself declares part of the land be made available for 
+communal use, using such terms as “common lands” or “pasturage and 
+water in common.” We identified 29 grants that contain this or similar 
+language. For example, the 1815 Spanish Los Trigos grant, which was 
+issued to three individuals, made pasture available to the settlers of the 
+grant. Also, an 1846 Mexican land grant provided land to John Scolly and 
+several associates, to set aside wood and common pasture for the use of 
+all the settlers. Current New Mexico law treats grants that make specific 
+reference to common lands as community land grants. 1 
+
+• The grant was made for the purpose of establishing a town or other new 
+settlement. Spanish laws and customs concerning territories in the New 
+World provided that new settlements, cities, and towns would include 
+common lands. Although Mexico obtained its independence in 1821, 
+Mexican land grants continued to follow Spanish laws and customs. We 
+identified 13 grants as Spanish and Mexican grants to towns. For 
+example, in 1768, Spain issued the Ojo de San Jose grant to six 
+individuals for the purpose of establishing a town. Similarly, Mexico 
+issued the Dona Ana Bend Colony grant in 1840 to 116 petitioners to 
+establish a town, which would then set aside an area for the town 
+commons. New Mexico law currently considers grants to a town, 
+community, colony, pueblo, or individual for the purpose of establishing 
+a town to be community land grants. 2 
+
+• The grant was issued to 10 or more settlers. Spanish law governing 
+settlement in the New World stated that 10 or more married persons 
+could obtain a land grant, if they agreed to form a settlement indicating 
+that a grant would contain common lands. For example, the 1807 
+Spanish Juan Bautista Valdez grant was made to 10 settlers and the 1842 
+
+
+1 New Mexico law provides for the management of the common lands of Spanish and 
+Mexican community land grants through a board of trustees or a community land grant 
+corporation.N.M. Stat. Ann. 49-1-3 and 49-2-1 (2000). 
+
+2 N.M. Stat Ann. 49-1-2 (2000). 
+
+
+Page 13 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+Mexican Angostura del Pecos grant to 54 settlers. We identified 37 
+grants of this type. 
+
+
+Table 1 lists 79 grants in which common lands were part of the original 
+grant. 
+
+
+
+Table 1: 79 Community Land Grants Identified Through Original Grant 
+Documentation 
+
+Grant 
+
+Year 
+
+granted 
+
+Location (by 
+county) 
+
+Alamitos (Juan Salas) 
+
+1840 
+
+Santa Fe 
+
+Alexander Valle (Canon de Pecos; Juan 
+de Dios Pena) 
+
+1815 
+
+San Miguel 
+
+Angostura del Pecos 
+
+1842 
+
+Guadalupe 
+
+Anton Chico (Town of) 
+
+1822 
+
+Guadalupe 
+
+Arroyo Hondo (Gaspar Ortiz; La Talaya; 
+
+Manuel Fernandez; Jose Ignacio 
+
+Martinez; Felipe Medina; Miguel Chavez) 
+
+1815 
+
+Taos 
+
+Badito (El) 
+
+1835 
+
+Santa Fe 
+
+Barranca (Geronimo Martin) 
+
+1735 
+
+Rio Arriba 
+
+Bartolome Trujillo (San Jose de Garcia) 
+
+1734 
+
+Rio Arriba 
+
+Belen (Town of) 
+
+1740 
+
+Socorro 
+
+Bernabe Manuel Montano 
+
+1753 
+
+Sandoval 
+
+Bracito (El; Hugh Stephenson) 
+
+1823 
+
+Doha Ana 
+
+Cadillal 
+
+1846 
+
+Santa Fe 
+
+Caja del Rio 
+
+1742 
+
+Santa Fe 
+
+Canada de los Alamos (1) (Lorenzo 
+
+Marquez) 
+
+1785 
+
+Santa Fe 
+
+Canada de los Mestanos 
+
+1828 
+
+Taos 
+
+Canada de San Francisco (Nazario 
+
+Gonzales; Jose Francisco Baca y Terrus) 
+
+1840 
+
+Santa Fe 
+
+Canon de Carnue (San Miguel de Laredo) 
+
+1819 
+
+Bernalillo 
+
+Canon de Chama (San Joaquin Rio de 
+
+Chama; Chama River Canon) 
+
+1806 
+
+Rio Arriba 
+
+Canon de San Diego (San Diego de 
+
+Jemez) 
+
+1798 
+
+Sandoval 
+
+Casa Colorado (Town of) 
+
+1823 
+
+Socorro 
+
+Cebolla (Juan Carlos Santistevan) 
+
+1846 
+
+Taos 
+
+Domingo Fernandez (Ethan W. Eaton; 
+
+Pueblo de San Cristobal) 
+
+1827 
+
+Santa Fe 
+
+
+Page 14 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+(Continued From Previous Page) 
+
+
+Grant 
+
+Year 
+
+granted 
+
+Location (by 
+county) 
+
+Don Fernando de Taos (Merced de 
+
+Fernandes (San Fernande) de Taos) 
+
+1796 
+
+Taos 
+
+Dona Ana Bend Colony (PM. Thompson 
+(Gregorio Dabolas)) 
+
+1840 
+
+Doha Ana 
+
+Elena Gallegos (Ranchos de 
+
+Albuquerque; Los Ranchos) 
+
+1724 
+
+Bernalillo 
+
+Galisteo (Town of; Juan Ortiz; Francisco 
+Almazan) 
+
+1814 
+
+Santa Fe 
+
+Gervacio Nolan 
+
+1845 
+
+Mora 
+
+John Scolly (La Junta de los Rios Mora y 
+Sanello) 
+
+1846 
+
+San Miguel 
+
+Juan Bautista Valdez (Canon de Pedernal; 
+Encinas) 
+
+1807 
+
+Rio Arriba 
+
+Juan de Gabaldon (William T Russell) 
+
+1752 
+
+Santa Fe 
+
+Los Conejos 
+
+1842 
+
+Taos 
+
+Los Manuelitas (Apolonio Vigil) 
+
+1845 
+
+San Miguel 
+
+Los Serrillos (Cerrillos) 
+
+1692 
+
+Santa Fe 
+
+Los Trigos 
+
+1815 
+
+San Miguel 
+
+Mesilla Civil Colony (Meregildo Guerra) 
+
+1853 a 
+
+Doha Ana 
+
+Mesita Blanca 
+
+1843 
+
+Santa Fe 
+
+Nicolas Duran de Chaves 
+
+1739 
+
+Valencia 
+
+Nuestra Senora del Rosario, San 
+
+Fernando, y Santiago (Isabel Jaramillo de 
+Romero (Rancho las Truchas)) 
+
+1754 
+
+Rio Arriba 
+
+Ojo Caliente (Antonio Joseph) 
+
+1793 
+
+Rio Arriba 
+
+Ojo de San Jose (Santo Toribo; Pueblo of 
+
+San Jose) 
+
+1768 
+
+Sandoval 
+
+Petaca (Jose Antonio Garcia) 
+
+1836 
+
+Rio Arriba 
+
+Pueblo of Quemado (Rito Quemado) 
+
+1721 
+
+Santa Fe 
+
+Ranchito (El Ranchito) 
+
+1700 
+
+Sandoval 
+
+Rancho de Ysleta (Pueblo de San Antonio 
+de Isleta) 
+
+1828 
+
+Otero 
+
+Rancho del Rio Grande 
+
+1795 
+
+Taos 
+
+Refugio Civil Colony 
+
+1852 
+
+Doha Ana 
+
+Rio del Picuris (Jose Dolores Fernandez; 
+
+Rio del Pueblo) 
+
+1832 
+
+Taos 
+
+San Antonio de las Huertas 
+
+1767 
+
+Sandoval 
+
+San Antonio del Rio Colorado (Town of 
+
+Rio) 
+
+1842 
+
+Taos 
+
+San Antonito (Cristobal Jaramillo) 
+
+1840 
+
+Bernalillo 
+
+
+Page 15 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+(Continued From Previous Page) 
+
+
+Grant 
+
+Year 
+
+granted 
+
+Location (by 
+county) 
+
+San Joaquin del Nacimiento (San Pablo y 
+Nacimiento; Nacimiento del Rio Puerco) 
+
+1769 
+
+Sandoval 
+
+San Miguel del Vado (Bado) 
+
+1794 
+
+San Miguel 
+
+San Pedro 
+
+1844 
+
+Santa Fe 
+
+Santa Barbara (Plaza of the) 
+
+1796 
+
+Taos 
+
+Santa Cruz (de la Canada; Juan Salas) 
+
+1695 
+
+Santa Fe 
+
+Santa Fe 
+
+1715 b 
+
+Santa Fe 
+
+Santo Tomas de Yturbide 
+
+1853 
+
+Doha Ana 
+
+Santo Toribio (de Jemez) 
+
+c 
+
+Sandoval 
+
+Sevilleta (La Joya) 
+
+1819 
+
+Socorro 
+
+Socorro (Town of) 
+
+1817 
+
+Socorro 
+
+Tierra Amarilla 
+
+1832 
+
+Rio Arriba 
+
+Town of Abiquiu 
+
+1754 
+
+Rio Arriba 
+
+Town of Albuquerque 
+
+1706 
+
+Bernalillo 
+
+Town of Atrisco 
+
+1692 
+
+Bernalillo 
+
+Town of Cebolleta 
+
+1800 
+
+Sandoval 
+
+Town of Chaperito 
+
+1846 
+
+San Miguel 
+
+Town of Chilili 
+
+1841 
+
+Bernalillo 
+
+Town of Cieneguilla 
+
+1795 
+
+Taos 
+
+Town of Cubero 
+
+1833 
+
+Valencia 
+
+Town of Las Trampas (Santo Tomas 
+(Apostal) del Rio de las Trampas) 
+
+1751 
+
+Taos 
+
+Town of Las Vegas 
+
+1835 
+
+San Miguel 
+
+Town of Manzano 
+
+1829 
+
+Torrance 
+
+Town of Mora 
+
+1835 
+
+Mora 
+
+Town of Tajique 
+
+1834 
+
+Torrance 
+
+Town of Tejon (Tungue) 
+
+1840 
+
+Sandoval 
+
+Town of Tome 
+
+1739 
+
+Valencia 
+
+Town of Torreon 
+
+1841 
+
+Torrance 
+
+Town of Vallecito de Lovato (S Endicott 
+Peabody; Jose Salazar y Ortiz; Jose R. 
+Zamora) 
+
+1824 
+
+Rio Arriba 
+
+Vallecito (de San Antonio) 
+
+1807 
+
+Rio Arriba 
+
+
+a Mexico issued this grant from lands subsequently included in the Gadsden Purchase. 
+
+b The only grant actually given to Santa Fe residents was for some common pasture land and water 
+(1715). 
+
+c Prior to 1800. 
+
+
+Page 16 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+The second type of community land grant we identified is a grant that a 
+person or persons stated included common lands. Our review of the papers 
+filed with each grant claim to the surveyors general and the Court of 
+Private Land Claims, and those of a legal scholar, 3 disclosed that, in some 
+instances, the only mention of common lands was found in a claimant’s 
+petition or other documents. In these cases, the files did not contain any 
+grant documents showing that the common lands were part of the original 
+grant. 
+
+We also identified grants in this category as community land grants after 
+interviewing grantee heirs, scholars, and others knowledgeable about a 
+grant’s history, and reviewing other information provided to us. Again, no 
+existing grant document supported the claim, although some claimants 
+stated that such documentation had been lost or destroyed. Furthermore, 
+some scholars raised the issue that, in some individual grants, common 
+lands had been set aside by the grantees, their heirs, or other grant settlers 
+to encourage additional settlement after the original grant was made. In 
+these instances, there would not be any supporting official documentation 
+because the grant predated the setting aside of common lands. For 
+example, one scholar believed that the Sangre de Cristo grant, which 
+Mexico originally issued as an individual grant in 1843, later evolved into a 
+community land grant when an heir of the original grantee provided land to 
+new settlers and set aside additional land for communal use. 
+
+Table 2 lists the 51 grants identified by grantee heirs, scholars, or others as 
+having common lands but lacking grant documentation. 
+
+
+Table 2: 51 Community Land Grants Identified by Grant Heirs and Others 
+
+
+Grant 
+
+Year 
+
+granted 
+
+Location 
+(by county) 
+
+Antonio Baca (Nuestra Senora de la Luz de 
+las Lagunitas) 
+
+1762 
+
+Sandoval 
+
+Antonio de Salazar 
+
+1714 
+
+Rio Arriba 
+
+Arkansas (Beales Colony) 
+
+1826 
+
+Colfax 
+
+Arquito (Rumaldo Archiveque) 
+
+a 
+
+Sandoval 
+
+
+3 J.J. Bowden, Private Land Claims in the Southwest (1969) (unpublished LLM. thesis [6 
+Vols.], Southern Methodist University.) 
+
+
+Grant Heirs or Others State 
+Grant Contained Common 
+Lands 
+
+
+Page 17 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+(Continued From Previous Page) 
+
+
+Grant 
+
+Year 
+
+granted 
+
+Location 
+(by county) 
+
+Bartolome Sanchez 
+
+1707 
+
+Rio Arriba 
+
+Black Mesa 
+
+1743 
+
+Rio Arriba 
+
+Bosque Grande (Miguel y Santiago Montoya) 
+
+1767 
+
+Sandoval 
+
+Chaca Mesa (Ignacio Chavez) 
+
+1768 
+
+Sandoval 
+
+Cuyamungue 
+
+1731 
+
+Santa Fe 
+
+Embudo (of Picures) 
+
+1725 
+
+Rio Arriba 
+
+Francisco de Anaya Almazan 
+(Cieneguilla;Cienega; Andres Montoya; 
+Feliciano Montoyo) 
+
+1693 
+
+Santa Fe 
+
+Gijosa (Francisco Antonia de) 
+
+1715 
+
+Taos 
+
+Gotera 
+
+1830 
+
+Santa Fe 
+
+Guadalupita 
+
+1837 
+
+Mora 
+
+Hacienda del Alamo 
+
+b 
+
+Santa Fe 
+
+(John) Heath (Juan Gid) 
+
+1823 
+
+Doha Ana 
+
+Jose Ignacio Alari (Juan Antonio Quintana) 
+
+1768 
+
+Rio Arriba 
+
+Jose Trujillo (Mesilla (of San lldefonso) Tract; 
+Arroyo Seco) 
+
+1700 
+
+Santa Fe 
+
+Juan de Ulibarri 
+
+1710 
+
+Rio Arriba 
+
+La Majada 
+
+1695 
+
+Santa Fe 
+
+Las Lagunitas (Antonio Sandoval) 
+
+a 
+
+Bernalillo 
+
+Maragua (Santo Domingo de; Jose Francisco 
+Baca y Pino) 
+
+1826 
+
+Santa Fe 
+
+Mesita de Juana Lopez 
+
+1782 
+
+Santa Fe 
+
+Montoya 
+
+1740 
+
+c 
+
+Ojito de Galisteo 
+
+1799 
+
+Santa Fe 
+
+Pajarito (Sitio de) 
+
+d 
+
+Bernalillo 
+
+Pedro Armendariz #33 (Valverde & Fray 
+Cristobal) 
+
+1819 
+
+Socorro 
+
+Pedro Armendariz #34 
+
+1820 
+
+Socorro 
+
+Plaza Colorado 
+
+1739 
+
+Rio Arriba 
+
+Polvadera (Polvareda; Juan Pablo Martin) 
+
+1766 
+
+Rio Arriba 
+
+Rancho de Nuestra Senora de la Luz (Bishop 
+John Lamy) 
+
+1807 
+
+Santa Fe 
+
+Rio del Oso (Jose Antonio Valdez) 
+
+1840 
+
+Rio Arriba 
+
+Rio Tesuque (Town of; Bishop’s Ranch) 
+
+1747 
+
+Santa Fe 
+
+San Clemente 
+
+1716 
+
+Valencia 
+
+San Cristobal (Father Jose Antonio Martinez) 
+
+1835 
+
+Taos 
+
+San Marcos Pueblo (San Marcos Springs) 
+
+1754 
+
+Santa Fe 
+
+
+Page 18 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+(Continued From Previous Page) 
+
+
+Grant 
+
+Year 
+
+granted 
+
+Location 
+(by county) 
+
+Sangre de Cristo 
+
+1844 
+
+Taos 
+
+Sanguijuela 
+
+1843 
+
+San Miguel 
+
+Santa Rita del Cobre (Santa Rita Mine) 
+
+1801 
+
+Grant 
+
+Santa Rosa de Cubero 
+
+1761 
+
+Sandoval 
+
+Santo Domingo de Cundiyo (Jose Antonio 
+Vigil) 
+
+1743 
+
+Santa Fe 
+
+Sebastian Martin 
+
+1705 
+
+Rio Arriba 
+
+Tacubaya 
+
+1843 
+
+Santa Fe 
+
+Town of Alameda (Francisco Montes Vigil) 
+
+1710 
+
+Bernalillo 
+
+Town of Bernalillo (Felipe Gutierrez; Felipe 
+Gonzales) 
+
+1708 
+
+Sandoval 
+
+Town of Candelarios 
+
+1600® 
+
+Bernalillo 
+
+Town of Chamita 
+
+1724 
+
+Rio Arriba 
+
+Town of El Rito (Joaquin Garcia) 
+
+1780 
+
+Rio Arriba 
+
+Town of Real de Dolores del Oro 
+
+1830 
+
+Santa Fe 
+
+Town of San Isidro 
+
+1786 
+
+Sandoval 
+
+Town of Tecolote (Salvador Montoya et al.) 
+
+1824 
+
+San Miguel 
+
+
+a No date specified. 
+b Prior to 1714. 
+c No county specified. 
+d Prior to 1746. 
+Approximate date. 
+
+
+Common Lands of 
+Indigenous Pueblo Cultures 
+Antedated Arrival of 
+Spanish Explorers 
+
+
+The third type of community land grants we identified encompasses grants 
+extended by Spain to the indigenous pueblo cultures in New Mexico to 
+protect communal lands that had existed for centuries before the Spanish 
+settlers arrived. For the most part, the pueblo settlements these colonists 
+encountered in the sixteenth century were permanent, communally owned 
+villages, where inhabitants engaged in agricultural pursuits. Spain declared 
+itself guardian of these communities, respected their rights to land adjacent 
+to the pueblos, and protected pueblo lands from encroachment by Spanish 
+colonists. Spain made grants to these communities in recognition of their 
+communal ownership of village lands. Mexico continued to recognize 
+pueblo ownership of land and considered pueblo residents to be Mexican 
+citizens. 
+
+
+Page 19 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+After the Treaty of Guadalupe Hidalgo, the Congress required the Surveyor 
+General to investigate and report on pueblo claims. The Congress 
+subsequently confirmed Spanish grants to 22 pueblos on the 
+recommendation of the Surveyor General. Table 3 lists the pueblo grants. 
+
+
+
+Table 3: 22 Community Land Grants Issued to Indian Pueblos 
+
+Original Spanish Grants 
+
+Year Granted 
+
+Location 
+(by county) 
+
+Pueblo of Acoma 
+
+1689 
+
+Valencia 
+
+Pueblo of Cochiti 
+
+1689 
+
+Sandoval 
+
+Pueblo of Isleta 
+
+a 
+
+Valencia 
+
+Pueblo of Jemez 
+
+1689 
+
+Sandoval 
+
+Pueblo of Laguna 
+
+1689 
+
+Valencia 
+
+Pueblo of Nambe 
+
+a 
+
+Santa Fe 
+
+Pueblo of Pecos 
+
+1689 
+
+San Miguel 
+
+Pueblo of Picuris 
+
+1689 
+
+Taos 
+
+Pueblo of Pojoaque 
+
+1699 b 
+
+Santa Fe 
+
+Pueblo of San Cristobal 
+
+1689 
+
+Santa Fe 
+
+Pueblo of San Felipe 
+
+1689 
+
+Sandoval 
+
+Pueblo of San lldefonso 
+
+1704 
+
+Santa Fe 
+
+Pueblo of San Juan 
+
+1689 
+
+Rio Arriba 
+
+Pueblo of Sandia 
+
+1748 
+
+Sandoval 
+
+Pueblo of Santa Ana 
+
+a 
+
+Sandoval 
+
+Pueblo of Santa Clara 
+
+1699 b 
+
+Santa Fe 
+
+Pueblo of Santo Domingo 
+
+1689 
+
+Sandoval 
+
+Pueblo of Taos 
+
+1816 
+
+Taos 
+
+Pueblo of Tesuque 
+
+a 
+
+Santa Fe 
+
+Pueblo of Zia 
+
+1689 
+
+Sandoval 
+
+Pueblo of Zum 
+
+1689 
+
+McKinley 
+
+Pueblos of Zia, Jemez, & Santa Ana 
+(Ojo del Espiritu Santo) 
+
+1766 
+
+Sandoval 
+
+
+a No date specified. 
+Approximate date. 
+
+
+Request for Comments We are issuing this report as an Exposure Draft to identify and to gather 
+
+information about community land grants that is not readily available to us 
+
+
+Page 20 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+in published research and public documents and to obtain comments about 
+our definition and our identification of community land grants. We will use 
+such information and comments to help prepare a final report. The 
+NOTICE on the inside cover of this report provides information about how 
+additional copies of the Exposure Draft can be obtained and where and 
+when comments should be sent. 
+
+
+As agreed with your offices, this report will be issued in English and 
+Spanish versions. We plan to send copies to the New Mexico congressional 
+delegation. We will distribute copies in both languages in New Mexico and 
+provide copies upon request. GAO contacts and key contributors to this 
+report are listed in appendix IV. 
+
+
+/ 
+
+/ 
+
+
+% 
+
+
+
+
+
+Susan A. Poling 
+Associate General Counsel 
+Natural Resources and Environment 
+
+
+Page 21 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+Appendix I 
+
+Detailed Data on the 295 Spanish and Mexican 
+Land Grants in New Mexico 
+
+
+
+
+
+Name 
+
+Date confirmed 
+or other action 3 
+
+Date 
+
+patented 13 
+
+Acreage 
+
+patented 
+
+Alternative grant identified 
+
+Agapito Ortega 
+
+Dismissed by claimant 
+
+
+
+
+Agua Negra 
+
+1860 
+
+1900 
+
+17,361.11 
+
+
+Agua Salada 
+
+1893 
+
+1909 
+
+10,694.48 
+
+
+Alamitos 
+
+1896 
+
+1914 
+
+297.55 
+
+Juan Salas 
+
+Alamo 
+
+Rejected 
+
+
+
+
+Alexander Valle 
+
+1860 
+
+1927 
+
+1,242.00 
+
+Canon de Pecos; Juan de Dios 
+Pena 
+
+Alfonso Rael de Aguilar (2) 
+(Vincente Romero) 
+
+Dismissed by claimant 
+
+
+
+
+Alphonso Rael de Aguilar 
+
+(D 
+
+Dismissed by claimant 
+
+
+
+
+Ancon Colorado 
+
+Dismissed by claimant 
+
+
+
+
+Angostura 
+
+1897 
+
+1906 
+
+1,579.48 
+
+Juan-Jose Gallegos 
+
+Angostura del Pecos 
+
+Dismissed by claimants 
+
+
+
+
+Antoine Leroux 
+
+1869 
+
+1911 
+
+56,428.31 
+
+Los Luceros 
+
+Anton Chico (Town of) 
+
+1860 
+
+1883 
+
+383,856.10 
+
+
+Antonio Armijo 
+
+Dismissed by claimant 
+
+
+
+
+Antonio Baca 
+
+1895 
+
+1902 
+
+47,196.50 
+
+Nuestra Senora de la Luz de las 
+Lagunitas 
+
+Antonio de Abeytia 
+
+1894 
+
+1910 
+
+721.42 
+
+Baltazar Cisneros 
+
+Antonio de Salazar 
+
+Dismissed by claimants 
+
+
+
+
+Antonio de Ulibarri 
+
+Dismissed by claimant 
+
+
+
+Pueblo Colorado 
+
+Antonio Dominguez 
+
+Rejected 
+
+
+
+
+Antonio Martinez 
+
+1893 
+
+1896 
+
+61,605.46 
+
+Lucero de Godoi 
+
+Antonio Ortiz 
+
+1869 
+
+1877 
+
+163,921.680 
+
+
+Archuleta (Juan Antonio de) 
+
+& Gonzales (Leonardo) 
+
+Dismissed by claimant 
+
+
+
+
+Arkansas 
+
+Rejected by Circuit Court 
+
+
+
+Beales Colony 
+
+Arquito 
+
+Dismissed by claimant 
+
+
+
+Rumaldo Archiveque 
+
+Arroyo de San Lorenzo 
+
+Rejected 
+
+
+
+Antonio Chavez 
+
+Arroyo Hondo 
+
+1892 
+
+1908 
+
+20,000.38 
+
+Gaspar Ortiz; La Talaya; Manuel 
+Fernandez; Jose Ignacio 
+
+Martinez; Felipe Medina; Miguel 
+Chavez) 
+
+Badito (El) 
+
+Rejected 
+
+
+
+Juan Ortiz 
+
+Baltazar Baca 
+
+Rejected 
+
+
+
+San Jose del Encinal 
+
+Barranca 
+
+Rejected 
+
+
+
+Geronimo Martin 
+
+
+Page 22 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+
+
+Appendix I 
+
+Detailed Data on the 295 Spanish and 
+Mexican Land Grants in New Mexico 
+
+
+(Continued From Previous Page) 
+
+Name 
+
+Date confirmed 
+or other action 3 
+
+Date 
+
+patented 11 
+
+Acreage 
+
+patented 
+
+Alternative grant identifiers 0 
+
+Bartolome Baca 
+
+Rejected 
+
+
+
+
+Bartolome Fernandez (de 
+la Pedresa) 
+
+1894 
+
+1903 
+
+25,455.24 
+
+Guadalupe 
+
+Bartolome Sanchez 
+
+1897 
+
+1914 
+
+4,469.83 
+
+
+Bartolome Trujillo 
+
+Rejected 
+
+
+
+San Jose de Garcia 
+
+Belen (Town of) 
+
+1858 
+
+1871 
+
+194,663.750 
+
+
+Bernabe Manuel Montano 
+
+1892 
+
+1908 
+
+44,070.66 
+
+
+Bernal Spring 
+
+Dismissed by claimants 
+
+
+
+
+Black Mesa 
+
+1894 
+
+1907 
+
+19,171.35 
+
+
+Bosque Del Apache 
+
+1860 
+
+1877 
+
+60,117.39 
+
+Antonio Sandoval 
+
+Bosque Grande 
+
+1896 
+
+1925 
+
+2,967.57 
+
+Miguel y Santiago Montoya 
+
+Bracito (El) 
+
+1860 
+
+d 
+
+d 
+
+Hugh Stephenson; Brazito 
+
+Cadillal 
+
+e 
+
+e 
+
+
+
+Caja del Rio 
+
+1893 
+
+1897 
+
+66,849.78 
+
+Felipe Delgado 
+
+Canada Ancha 
+
+1897 
+
+1917 
+
+200.82 
+
+Salvador Gonzales 
+
+Canada de Cochiti 
+
+1894 
+
+1901 
+
+19,112.78 
+
+Antonio Lucero; Manuel Hurtado 
+
+Canada de Los Alamos (1) 
+
+1893 
+
+1896 
+
+12,068.39 
+
+Lorenzo Marquez 
+
+Canada de los Alamos (2) 
+
+1894 
+
+1911 
+
+4,106.66 
+
+Miera y Pacheco & Padilla 
+
+Canada de Los Apaches 
+
+1892 
+
+1907 
+
+86,249.09 
+
+Antonio Sedillo 
+
+Canada de Los Mestanos 
+
+Rejected 
+
+
+
+
+Canada de San Francisco 
+
+Rejected 
+
+
+
+Nazario Gonzales; Jose 
+
+Francisco Baca y Terrus 
+
+Canada de Santa Clara 
+
+1894 
+
+1909 
+
+490.62 
+
+
+Canon de Carnue 
+
+1894 
+
+1903 
+
+2,000.59 
+
+San Miguel de Laredo; Canon de 
+Carmel; Canon de Carnuel 
+
+Canon de Chama 
+
+1894 
+
+1905 
+
+1,422.62 
+
+San Joaquin Rio de Chama; 
+Chama River Canon 
+
+Canon de San Diego 
+
+1860 
+
+1881 
+
+116,286.89 
+
+San Diego de Jemez 
+
+Canon del Agua 
+
+1866 
+
+1896 
+
+341.04 
+
+
+Canon del Rio (Colorado) 
+
+Rejected 
+
+
+
+Antonio Elias Armenta 
+
+Casa Colorado (Town of) 
+
+1858 
+
+1909 
+
+131,779.370 
+
+
+Catarina Maese 
+
+Dismissed by claimant 
+
+
+
+
+Cebolla 
+
+1896 
+
+f 
+
+f 
+
+Juan Carlos Santistevan 
+
+Chaca Mesa 
+
+1895 
+
+1899 
+
+47,258.71 
+
+Ignacio Chavez 
+
+Chamisos Arroyo 
+
+Rejected 
+
+
+
+Bartolome Marques & Francisco 
+Padilla 
+
+Chupaderos de la Lagunita 
+
+Rejected 
+
+
+
+San Joaquin del Nacimiento 
+
+
+Page 23 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix I 
+
+Detailed Data on the 295 Spanish and 
+Mexican Land Grants in New Mexico 
+
+
+(Continued From Previous Page) 
+
+Name 
+
+Date confirmed 
+or other action 3 
+
+Date 
+
+patented 11 
+
+Acreage 
+
+patented 
+
+Alternative grant identifiers 0 
+
+Corpos Cristo 
+
+Dismissed by claimant 
+
+
+
+
+Cristobal de la Serna 
+
+1892 
+
+1903 
+
+
+Los Ranchos de Taos 
+
+Cristoval Crespin 
+
+Dismissed by claimant 
+
+
+
+Jesus Crespin 
+
+Cuyamungue 
+
+1895 
+
+1909 
+
+604.27 
+
+
+Diego Arias de Quiros 
+
+Rejected 
+
+
+
+
+Diego de Belasco (Velasco) 
+
+Dismissed by claimant 
+
+
+
+
+Domingo Fernandez 
+
+1860 
+
+1880 
+
+81,032.670 
+
+Ethan W. Eaton; Pueblo de San 
+Cristobal 
+
+Domingo Valdez 
+
+Rejected 
+
+
+
+
+Don Fernando de Taos 
+
+1897 
+
+1909 
+
+1,817.34 
+
+Merced de Fernandes (San 
+Fernande) de Taos 
+
+Dona Ana Bend Colony 
+
+1896 
+
+1907. 
+
+35,399.017 
+
+P.M. Thompson (Gregorio 
+
+Dabolas) 
+
+El Pino 
+
+Dismissed by claimant 
+
+
+
+
+Elena Gallegos 
+
+1893 
+
+1909 
+
+35,048.78 
+
+Ranchos de Albuquerque; Los 
+Ranchos; Donaciano Gurule 
+
+Embudo (of Picures) 
+
+Rejected 
+
+
+
+
+Estancia 
+
+Rejected 
+
+
+
+Antonio Sandoval, Antonio 
+Martinez & Diego Lucero Godoi 
+
+Felipe Pacheco 
+
+Dismissed by claimant 
+
+
+
+
+Felipe Tafoya (1) 
+
+Dismissed by claimant 
+
+
+
+
+Felipe Tafoya (2) 
+
+1895 
+
+1902 
+
+4,340.23 
+
+
+Francisco de Anaya 
+
+Almazan 
+
+1897 
+
+1916 
+
+3,202.79 
+
+Cieneguilla;Cienega; Andres 
+Montoya; Feliciano Montoyo 
+
+Francisco Garcia 
+
+Dismissed by claimant 
+
+
+
+
+Francisco Montes Vigil 
+
+1892 
+
+1899 
+
+8,253.74 
+
+
+Francisco X. Romero 
+
+Dismissed by claimant 
+
+
+
+Santa Cruz 
+
+Galisteo (Town of) 
+
+1894 
+
+1927 
+
+260.790 
+
+Juan Ortiz; Francisco Almazan 
+
+Gaspar Ortiz 
+
+1860 
+
+g 
+
+g 
+
+Vincente Duran de Armijo 
+
+Gervacio Nolan 
+
+Rejected 
+
+
+
+
+Gijosa (Francisco Antonia 
+de) 
+
+1893 
+
+1908 
+
+16,240.64 
+
+Gijosa Rancho de Taos 
+
+Gotera 
+
+Rejected 
+
+
+
+
+Guadalupe Miranda 
+
+Dismissed by claimant 
+
+
+
+
+Guadalupita 
+
+Dismissed by claimants 
+
+
+
+
+Hacienda del Alamo 
+
+Rejected 
+
+
+
+
+(John) Heath 
+
+Rejected 
+
+
+
+Juan Gid 
+
+Joaquin (de) Mestas 
+
+Rejected 
+
+
+
+Santa Teresa de Jesus 
+
+
+Page 24 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix I 
+
+Detailed Data on the 295 Spanish and 
+Mexican Land Grants in New Mexico 
+
+
+(Continued From Previous Page) 
+
+Name 
+
+Date confirmed 
+or other action 3 
+
+Date 
+
+patented 11 
+
+Acreage 
+
+patented 
+
+Alternative grant identifiers 0 
+
+Joaquin Sedillo & Antonio 
+Gutierrez 
+
+1897 
+
+1909 
+
+22,636.92 
+
+San Clemente; Barrancas; 
+
+Bosque de los Pinos 
+
+John Scolly 
+
+1860 
+
+1893 
+
+25,000.00 
+
+La Junta de los Rios Mora y 
+Sanello 
+
+Jornado del Muerto 
+
+Rejected 
+
+
+
+Juan Bautista Vigil y Alarid 
+
+Jose Antonio Lucero 
+
+Rejected 
+
+
+
+
+Jose Antonio Torres 
+
+Dismissed by claimant 
+
+
+
+
+Jose de Leyba 
+
+Rejected 
+
+
+
+
+Jose Dominguez 
+
+Rejected by Surveyor 
+General 
+
+
+
+
+Jose Garcia 
+
+Rejected 
+
+
+
+
+Jose Ignacio Alari 
+
+Dismissed by claimants 
+
+
+
+Juan Antonio Quintana; Jose 
+Ignacio Alarid; Gabriel Quintana 
+
+Jose Leandro Perea 
+
+1860 
+
+1877 
+
+17,712.00 
+
+Rancho de los Esteros 
+
+Jose Manuel Sanchez Baca 
+
+1900 
+
+1902 
+
+3,530.60 
+
+
+Jose Romula de Vera 
+
+Dismissed by claimant 
+
+
+
+
+Jose Sutton 
+
+Rejected 
+
+
+
+
+Jose Trujillo 
+
+Dismissed by claimants 
+
+
+
+Mesilla (of San lldefonso) Tract; 
+Arroyo Seco 
+
+Juan Antonio Flores 
+
+Dismissed by claimant 
+
+
+
+
+Juan Bautista Valdez 
+
+1898 
+
+1913 
+
+1,468.57 
+
+Canon de Pedernal; Encinas 
+
+Juan Cayentano Lovato 
+
+Rejected 
+
+
+
+
+Juan de Gabaldon 
+
+1893 
+
+1902 
+
+10,690.05 
+
+William T. Russell 
+
+Juan de Mestas 
+
+Dismissed by claimant 
+
+
+
+Anastacio Romero 
+
+Juan de Ulibarri 
+
+Dismissed by claimants 
+
+
+
+
+Juan Duran 
+
+Rejected 
+
+
+
+
+Juan Estevan Garcia de 
+
+Noriega 
+
+Rejected 
+
+
+
+Geronimo Martin 
+
+Juan Felipe Rodriguez 
+
+Dismissed by claimant 
+
+
+
+
+Juan G. Pinard 
+
+No action taken by 
+
+Surveyor General 
+
+
+
+Bautista Llara; Carlos Salazar 
+
+Juan Jose Archuleta 
+
+Rejected 
+
+
+
+
+Juan Jose Lovato 
+
+1894 
+
+1902 
+
+205,615.72 
+
+Cristobal de Torres 
+
+Juan Jose Moreno 
+
+Dismissed by claimants 
+
+
+
+
+Juan Jose Sanchez 
+
+Rejected 
+
+
+
+
+
+Page 25 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix I 
+
+Detailed Data on the 295 Spanish and 
+Mexican Land Grants in New Mexico 
+
+
+(Continued From Previous Page) 
+
+Name 
+
+Date confirmed 
+or other action 3 
+
+Date 
+
+patented 11 
+
+Acreage 
+
+patented 
+
+Alternative grant identifiers 0 
+
+Juan Manuel Cordova 
+
+No action taken by 
+
+Surveyor General 
+
+
+
+Juan Martin; Basilio Gonzales; 
+Santiago Bone (Pueblo de 
+Santiago); Jose Tapia; Jose 
+Francisco Duran 
+
+JuanMontesVigil 
+
+1931 by District Court 
+
+h 
+
+379.36 
+
+Town of Pena Blanca; Jacinto 
+Pelaes;Juan Fernandez de la 
+Pesnera 
+
+Juan Tafoya 
+
+Dismissed by claimant 
+
+
+
+
+Juana Baca 
+
+Rejected 
+
+
+
+Pueblo of Cochiti Pasture 
+
+La Majada 
+
+1894 
+
+1908 
+
+54,404.10 
+
+
+La Nasa 
+
+Dismissed by claimant 
+
+
+
+
+Las Lagunitas 
+
+Not acted on 
+
+
+
+Antonio Sandoval 
+
+Las Lomitas 
+
+Dismissed by claimant 
+
+
+
+
+Lo de Basquez 
+
+Dismissed by claimants 
+
+
+
+
+Lo de Padilla 
+
+1896 
+
+1908 
+
+51,940.82 
+
+El Tajo; Los Padillas; Franz 
+
+Huning; Diego Padilla 
+
+Los Conejos 
+
+Rejected 
+
+
+
+
+Los Manuelitas 
+
+Rejected 
+
+
+
+Apolonio Vigil 
+
+Los Serrillos (Cerrillos) 
+
+1894 
+
+1897 
+
+1,478.81 
+
+
+Los Trigos 
+
+1860 
+
+1909 
+
+7,342.00 
+
+
+Luis de Armenta 
+
+No claim filed with Court 
+
+
+
+
+Luis Maria Cabeza de Baca 
+
+1860 
+
+i 
+
+198,578.78 
+
+Baca Location #1 
+
+Maes (Juan Miguel) & 
+
+Gallego (Pedro) 
+
+j 
+
+j 
+
+j 
+
+Las Cieneguitas 
+
+Manuel Tenorio 
+
+Dismissed by claimant 
+
+
+
+
+Manuela Garcia de las 
+
+Ribas 
+
+Dismissed by claimant 
+
+
+
+Isabel Montoya 
+
+Maragua 
+
+Rejected 
+
+
+
+Santo Domingo de; Jose 
+
+Francisco Baca y Pino 
+
+Maxwell Grant 
+
+1860 
+
+1879 
+
+1,714,764.94 
+
+Beaubien & Miranda 
+
+Mesilla Civil Colony 
+
+1899 
+
+1909 
+
+21,628.52 
+
+Meregildo Guerra 
+
+Mesita Blanca 
+
+Dismissed by claimant 
+
+
+
+
+Mesita de Juana Lopez 
+
+1879 
+
+
+
+Sitio de Juana Lopez 
+
+Montoya 
+
+k 
+
+k 
+
+k 
+
+No specific information available 
+
+Nepumecina Martinez de 
+
+Aragon 
+
+Dismissed by claimant 
+
+
+
+Rancho de Coyote 
+
+Nerio Antonio Montoya 
+
+Rejected 
+
+
+
+Ojo de Borrego (Borrego Spring) 
+
+Nicolas Duran de Chaves 
+
+1896 
+
+No indication 
+one was issued 
+
+
+
+
+Page 26 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix I 
+
+Detailed Data on the 295 Spanish and 
+Mexican Land Grants in New Mexico 
+
+
+(Continued From Previous Page) 
+
+Name 
+
+Date confirmed 
+or other action 3 
+
+Date 
+
+patented 11 
+
+Acreage 
+
+patented 
+
+Alternative grant identifiers 0 
+
+Nuestra Senora de 
+
+Guadalupe Mine 
+
+Rejected 
+
+
+
+Abo 
+
+Nuestra Senora del los 
+
+Dolores Mine 
+
+Rejected 
+
+
+
+
+Nuestra Senora del 
+
+Rosario, San Fernando, y 
+Santiago 
+
+1892 
+
+1905 
+
+14,786.58 
+
+Isabel Jaramillo de Romero 
+(Rancho Las Truchas) 
+
+Ocate 
+
+Rejected 
+
+
+
+Manuel Alvarez 
+
+Ojito de Galisteo 
+
+Dismissed by claimant 
+
+
+
+Juan Cruz Aragon 
+
+Ojito de los Medanos 
+
+Rejected 
+
+
+
+Lucero Spring 
+
+Ojo Caliente 
+
+1894 
+
+1894 
+
+2,244.98 
+
+Antonio Joseph 
+
+Ojo de Borrego (Borrego 
+
+Spring) 
+
+1894 
+
+1913 
+
+16,079.80 
+
+Domingo Romero & 
+
+Miguel/Manuel Ortiz; Nereo 
+(Nerio) Antonio Montoya 
+
+Ojo de la Cabra 
+
+Rejected 
+
+
+
+Juan Otero 
+
+Ojo de San Jose 
+
+1894 
+
+1912 
+
+4,340.28 
+
+Santo Toribo de Jems; Pueblo of 
+San Jose; Ojo de San Juan 
+
+Ojo del Apache (Apache 
+
+Spring) 
+
+Rejected 
+
+
+
+Bentura Truxillo 
+
+Ojo del Espiritu Santo 
+
+1869 
+
+1916 
+
+113,141.15 
+
+Tomas Cabeza de Baca 
+
+Orejas del Llano de los 
+
+Aguajes 
+
+Rejected 
+
+
+
+Juan de Jesus Lucero 
+
+Ortiz Mine 
+
+1861 
+
+1876 
+
+69,199.33 
+
+Elisha Whittlesey; Antonio Cano 
+(Ignacio Cano & Francisco Ortiz) 
+
+Pablo Montoya 
+
+1869 
+
+1877 
+
+655,468.07 
+
+
+Pacheco (Joseph) 
+
+1892 
+
+1913 
+
+500.00 
+
+
+Pajarito (Sitio de) 
+
+1894 
+
+1914 
+
+28,724.22 
+
+
+Paraje del Punche 
+
+Dismissed by claimant 
+
+
+
+
+Pedro Armendariz #33 
+
+1860 
+
+1878 
+
+352,504.50 
+
+Valverde & Fray Cristobal 
+
+Pedro Armendariz #34 
+
+1860 
+
+1878 
+
+95,030.00 
+
+
+Peralta (1) (La) 
+
+Rejected 
+
+
+
+
+Peralta (2) 
+
+Rejected 
+
+
+
+Reavis 
+
+Petaca 
+
+1896 
+
+1901 
+
+1,392.10 
+
+Jose Antonio Garcia 
+
+Piedra Lumbre 
+
+1893 
+
+1902 
+
+49,747.89 
+
+Casa de (Jose) Riano; Pedro 
+Martin Serrano 
+
+Plaza Colorado 
+
+1893 
+
+1907 
+
+7,577.92 
+
+Plaza Colorado Valdez 
+
+Plaza Blanca 
+
+1894 
+
+1914 
+
+8,955.11 
+
+Manuel Bustos 
+
+Polvadera (Polvareda) 
+
+1893 
+
+1900 
+
+35,761.14 
+
+Juan Pablo Martin 
+
+Preston Beck Jr. 
+
+1860 
+
+1883 
+
+318,699.72 
+
+
+
+Page 27 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix I 
+
+Detailed Data on the 295 Spanish and 
+Mexican Land Grants in New Mexico 
+
+
+(Continued From Previous Page) 
+
+Name 
+
+Date confirmed 
+or other action 3 
+
+Date 
+
+patented 11 
+
+Acreage 
+
+patented 
+
+Alternative grant identifiers 0 
+
+Pueblo of Acoma 
+
+1858 
+
+1877 
+
+95,791.66 
+
+
+Pueblo of Cochiti 
+
+1858 
+
+1864 
+
+24,256.50 
+
+
+Pueblo of Isleta 
+
+1858 
+
+1864 
+
+131,495.30 
+
+
+Pueblo of Jemez 
+
+1858 
+
+1864 
+
+17,510.45 
+
+
+Pueblo of Laguna 
+
+1897 
+
+1909 
+
+17,328.91 
+
+
+Pueblo of Nambe 
+
+1858 
+
+1864 
+
+13,586.33 
+
+
+Pueblo of Pecos 
+
+1858 
+
+1864 
+
+18,763.33 
+
+
+Pueblo of Picuris 
+
+1858 
+
+1864 
+
+14,953.39 
+
+
+Pueblo of Pojoaque 
+
+1858 
+
+1864 
+
+13,520.38 
+
+
+Pueblo of Quemado 
+
+Dismissed by claimant 
+
+
+
+Rito Quemado 
+
+Pueblo of San Cristobal 1 1 1 
+
+Pueblo of San Felipe 
+
+1858 
+
+1864 
+
+34,766.86 
+
+
+Pueblo of San lldefonso 
+
+1858 
+
+1864 
+
+17,292.64 
+
+
+Pueblo of San Juan 
+
+1858 
+
+1864 
+
+17,544.77 
+
+
+Pueblo of Sandia 
+
+1858 
+
+1864 
+
+24,034.87 
+
+
+Pueblo of Santa Ana 
+
+1869 
+
+1883 
+
+17,360.56 
+
+
+Pueblo of Santa Clara 
+
+1858 
+
+1864 
+
+17,368.52 
+
+
+Pueblo of Santo Domingo 
+
+1858 
+
+1864 
+
+74,743.11 
+
+
+Pueblo of Santo Domingo & 
+
+San Felipe 
+
+1898 
+
+1905 
+
+1,070.68 
+
+
+Pueblo of Taos 
+
+1859 
+
+1864 
+
+17,360.55 
+
+
+Pueblo of Tesuque 
+
+1858 
+
+1864 
+
+17,471.12 
+
+
+Pueblo of Zia 
+
+1858 
+
+1864 
+
+17,514.63 
+
+
+Pueblo of Zum 
+
+m 
+
+m 
+
+m 
+
+
+Pueblos of Zia, Jemez, & 
+
+Santa Ana 
+
+Rejected 
+
+
+
+Ojo del Espiritu Santo 
+
+Ramon Vigil 
+
+1860 
+
+1908 
+
+31,209.52 
+
+Pedro Sanchez 
+
+Ranchito (El) 
+
+1897 
+
+1909 
+
+4,250.63 
+
+
+Rancho de (los) 
+
+Comanches 
+
+Dismissed by claimant 
+
+
+
+
+Rancho de Abiquiu 
+
+Dismissed by claimant 
+
+
+
+Rancho de Coyote 
+
+Rancho de Coyote 
+
+Dismissed by claimant 
+
+
+
+El Coyote 
+
+Rancho de Gigante 
+
+1860 
+
+1884 
+
+25,233.18 
+
+Laguna Pueblo tracts 
+
+Rancho de la Gallina 
+
+Dismissed by claimant 
+
+
+
+Rancho de Coyote 
+
+Rancho de la Santisima 
+
+Trinidad 
+
+Rejected ; dismissed by 
+claimants 
+
+
+
+Rancho de Galvan; Francisco 
+Sandoval; Ignacio Sanchez 
+
+Vergara 
+
+
+Page 28 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix I 
+
+Detailed Data on the 295 Spanish and 
+Mexican Land Grants in New Mexico 
+
+
+(Continued From Previous Page) 
+
+Name 
+
+Date confirmed 
+or other action 3 
+
+Date 
+
+patented 11 
+
+Acreage 
+
+patented 
+
+Alternative grant identifiers 0 
+
+Rancho de los Corrales 
+(Comales) 
+
+Dismissed by claimant 
+
+
+
+
+Rancho de los Rincon(es) 
+
+Dismissed by claimant 
+
+
+
+Rancho de Coyote 
+
+Rancho de Nuestra Senora 
+de la Luz 
+
+1860 
+
+1874 
+
+16,546.85 
+
+Bishop John Lamy 
+
+Rancho de Paguate 
+
+1860 
+
+
+75,406.27 
+
+Laguna Pueblo tracts 
+
+Rancho de San Juan 
+
+1860 
+
+1884 
+
+25,233.18 
+
+Laguna Pueblo tracts 
+
+Rancho de Rio Arriba 
+
+Dismissed by claimant 
+
+
+
+Rancho de Coyote 
+
+Rancho de Rio Puerco 
+
+Dismissed by claimant 
+
+
+
+
+Rancho de Santa Ana 
+
+1860 
+
+1884 
+
+871.33 
+
+Laguna Pueblo tracts 
+
+Rancho de Ysleta 
+
+Rejected 
+
+
+
+Pueblo de San Antonio de Isleta 
+
+Rancho del Rio Grande 
+
+1892 
+
+1901 
+
+91,813.15 
+
+
+Rancho el Rito 
+
+1860 
+
+1884 
+
+25,233.18 
+
+Laguna Pueblo tracts; El Rito 
+(Colorado); El Rillito 
+
+Refugio Civil Colony 
+
+1901 
+
+1910 
+
+11,524.30 
+
+
+Rio de Chama 
+
+Dismissed by claimant 
+
+
+
+Rancho de la Merced del San 
+Joaquin del Rio Chama 
+
+Rio del Oso 
+
+Dismissed by claimants 
+
+
+
+Jose Antonio Valdez 
+
+Rio del Picuris 
+
+Rejected 
+
+
+
+Jose Dolores Fernandez; Rio del 
+Pueblo 
+
+Rio Tesuque (Town of) 
+
+1897 
+
+
+
+Bishop’s Ranch; Juan Benabides 
+
+Rito de los Frijoles 
+
+Rejected 
+
+
+
+Andres Montoya; Antonio Salas 
+
+Romulo Barela (Varela) 
+
+Rejected 
+
+
+
+Juan Manuel de Herrera 
+
+Roque Jacinto Jaramillo 
+
+Rejected 
+
+
+
+
+Roque Lovato (Lobato) 
+
+Rejected 
+
+
+
+
+Salvador Lovato 
+
+Dismissed by claimant 
+
+
+
+Lorenzo Lobato 
+
+San Acasio 
+
+Dismissed by claimant 
+
+
+
+
+San Antonio de Las 
+
+Huertas 
+
+1897 
+
+1907 
+
+4,763.85 
+
+
+San Antonio del Rio 
+
+Colorado 
+
+Rejected 
+
+
+
+Town of Rio 
+
+San Antonito 
+
+Rejected 
+
+
+
+Cristobal Jaramillo 
+
+San Clemente 
+
+1896 
+
+1909 
+
+37,099.29 
+
+
+San Cristobal 
+
+Rejected by Surveyor 
+General 
+
+
+
+Father Jose Antonio Martinez; 
+Cristoval de la Serna 
+
+San Joaquin del 
+
+Nacimiento 
+
+Rejected 
+
+
+
+San Pablo y Nacimiento; 
+Nacimiento del Rio Puerco 
+
+San Marcos Pueblo 
+
+1892 
+
+1896 
+
+1,895.44 
+
+San Marcos Springs 
+
+
+Page 29 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix I 
+
+Detailed Data on the 295 Spanish and 
+Mexican Land Grants in New Mexico 
+
+
+(Continued From Previous Page) 
+
+Name 
+
+Date confirmed 
+or other action 3 
+
+Date 
+
+patented 11 
+
+Acreage 
+
+patented 
+
+Alternative grant identifiers 0 
+
+San Mateo Spring(s) 
+
+1895 
+
+1907 
+
+4,340.276 
+
+Santiago Duran y Chaves 
+
+San Miguel del Vado 
+(Bado) 
+
+1894 
+
+1910 
+
+5,207.73 
+
+
+San Pedro 
+
+1860 
+
+1875 
+
+31,594.76 
+
+
+Sangre de Cristo 
+
+1860 
+
+1880 
+
+998,780.46 
+
+
+Sanguijuela 
+
+Rejected 
+
+
+
+
+Santa Barbara (Plaza of 
+the) 
+
+1894 
+
+1905 
+
+30,638.28 
+
+
+Santa Cruz (de la Canada) 
+
+1899 & 1900 
+
+1910 
+
+4,567.60 
+
+Juan Salas 
+
+Santa Fe 
+
+1894 
+
+n 
+
+n 
+
+
+Santa Fe Canon 
+
+Rejected 
+
+
+
+
+Santa Rita Del Cobre 
+
+Rejected by 
+
+Commissioner of the 
+General Land Office 
+
+
+
+Santa Rita Mine 
+
+Santa Rosa de Cubero 
+
+1898 
+
+
+
+
+Santa Teresa 
+
+1900 
+
+1909 
+
+8,478.51 
+
+
+Santiago Bone 
+
+Dismissed by claimants 
+
+
+
+James Boney; Maria Cleofas 
+
+Bone; Estanislado Sandoval 
+(Jose Manuel Cordova) 
+
+Santiago Ramirez 
+
+1897 
+
+1912 
+
+272.17 
+
+Penasco Largo 
+
+Santo Domingo de Cundiyo 
+
+1900 
+
+1903 
+
+2,137.08 
+
+Jose Antonio Vigil 
+
+Santo Tomas de Yturbide 
+
+1900 
+
+1905 
+
+9,622.34 
+
+Sto. Tomas de Iturbide Colony 
+
+Santo Toribio (de Jemez) 
+
+Rejected 
+
+
+
+
+Sebastian De Vargas 
+
+1893 
+
+1900 
+
+
+
+Sebastian Martin 
+
+1860 
+
+1893 
+
+51,387.20 
+
+
+Sevilleta 
+
+1893 
+
+Dispersals 
+begun in 1915 
+
+Not specified 
+
+La Joy a 
+
+Sierra Mosca 
+
+1896 
+
+0 
+
+0 
+
+Juan Luis Ortiz 
+
+Sitio de Juana Lopez 
+
+1894 
+
+1897 
+
+1,108.61 
+
+
+Sitio de Los Serrillos 
+(Cerrillos) 
+
+1894 
+
+1897 
+
+572.04 
+
+
+Socorro (Town of) 
+
+1892 
+
+1896 
+
+17,371.18 
+
+
+Tacubaya 
+
+Dismissed by claimant 
+
+
+
+
+Talaya Hill 
+
+1895 
+
+1917 
+
+922.52 
+
+Manuel Trujillo 
+
+The Baird’s Ranch 
+
+Rejected 
+
+
+
+Ranchos de Chino Tejano 
+
+Tierra Amarilla 
+
+1860 
+
+1881 
+
+594,515.55 
+
+
+Tomas Tapia 
+
+Rejected 
+
+
+
+
+Town of Abiquiu 
+
+1894 
+
+1909 
+
+16,547.20 
+
+
+Town of Alameda 
+
+1892 
+
+1920 
+
+89,346.00 
+
+Francisco Montes Vigil 
+
+
+Page 30 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix I 
+
+Detailed Data on the 295 Spanish and 
+Mexican Land Grants in New Mexico 
+
+
+(Continued From Previous Page) 
+
+Name 
+
+Date confirmed 
+or other action 3 
+
+Date 
+
+patented 11 
+
+Acreage 
+
+patented 
+
+Alternative grant identifiers 0 
+
+Town of Albuquerque 
+
+1892 
+
+None specified 
+
+Not specified 
+
+Villa de Albuquerque 
+
+Town of Atrisco 
+
+1894 
+
+1905 
+
+82,728.72 
+
+
+Town of Bernalillo 
+
+1897 
+
+1900 
+
+3,404.67 
+
+Felipe Gutierrez; Felipe 
+
+Gonzales 
+
+Town of Candelarios 
+
+p 
+
+p 
+
+p 
+
+
+Town of Cebolleta 
+
+1869 
+
+1882 
+
+199,567.92 
+
+
+Town of Chamita 
+
+1860 
+
+1929 
+
+1,636.29 
+
+
+Town of Chaperito 
+
+1890 
+
+
+
+
+Town of Chilili 
+
+1858 
+
+1909 
+
+41,481.00 
+
+
+Town of Cieneguilla 
+
+Rejected 
+
+
+
+
+Town of Cubero 
+
+1892 
+
+1900 
+
+16,490.94 
+
+
+Town of El Rito 
+
+Dismissed by claimants 
+
+
+
+Joaquin Garcia 
+
+Town of Jacona 
+
+1893 
+
+1909 
+
+6,952.84 
+
+Ignacio de Roibal 
+
+Town of Las Trampas 
+
+1860 
+
+1903 
+
+28,131.67 
+
+Santo Tomas (Apostal) del Rio 
+de Las Trampas 
+
+Town of Las Vegas 
+
+1860 
+
+1903 
+
+431,653.65 
+
+
+Town of Manzano 
+
+1860 
+
+1907 
+
+17,360.24 
+
+
+Town of Mora 
+
+1860 
+
+1876 
+
+827,621.10 
+
+
+Town of Real de Dolores 
+del Oro 
+
+Rejected 
+
+
+
+
+Town of San Isidro 
+
+1860 
+
+1936 
+
+11,476.88 
+
+
+Town of Tajique 
+
+1860 
+
+1912 
+
+7,185.550 
+
+Tajaque 
+
+Town of Tecolote 
+
+1858 
+
+1902 
+
+48,123.380 
+
+Salvador Montoya et al. 
+
+Town of Tejon (Tungue) 
+
+1860 
+
+1882 
+
+12,801.46 
+
+
+Town of Tome 
+
+1858 
+
+1871 
+
+121,594.53 
+
+
+Town of Torreon 
+
+1860 
+
+1909 
+
+14,146.11 
+
+
+Town of Vallecito de Lovato 
+
+Rejected 
+
+
+
+S. Endicott Peabody; Jose 
+
+Salazar y Ortiz; Jose R. Zamora 
+
+Una Del Gato 
+
+Rejected by Secretary of 
+Interior 
+
+
+
+
+Vallecito (de San Antonio) 
+
+Dismissed by claimants 
+
+
+
+
+Vertientes de Navajo 
+
+Rejected 
+
+
+
+Rafael Armijo (Sitio del Navajo); 
+Canada de los Alamos 
+
+
+a Grant confirmed by Congress or Court of Private Land Claims. 
+b A patent conveys legal title to the grant. 
+
+c Based on documents submitted to the Surveyor General or the Court of Private Land Claims. 
+
+d There were extensive attempts to obtain grants that were never successfully completed. The Court of 
+Private Land Claims recognized the grant as valid and ordered it surveyed and partitioned. However, 
+problems arose when attempts were made to identify the common boundary with the Santo Tomas 
+
+
+Page 31 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+
+Appendix I 
+
+Detailed Data on the 295 Spanish and 
+Mexican Land Grants in New Mexico 
+
+
+Yturbide Colony Grant. A patent was not issued because claimants argue the Confirmation Act of 
+1860 conveyed the title; a final survey yielded 14,808.075 acres. 
+
+e The grant was located within the confirmed Domingo Fernandez grant, so no action was taken on the 
+claim. 
+
+f Based on a U.S. Supreme Court decision that found, among other things, that the grant had not been 
+given in accordance with Mexican law. 
+
+g The grant apparently lies within the Pueblo of Nambe grant, and has not been patented. 
+
+h No actual claim was presented to the Court, and therefore no actual confirmation was made by either 
+the Congress or the Court. When the Majada grant was confirmed, this was apparently sufficient for 
+the Town of Pena Blanca residents. In 1931, the New Mexico District Court confirmed acreage not 
+previously part of the Pueblo of Cochiti lands. 
+
+'The Town of Las Vegas grant was apparently in conflict with the Baca grant. The Congress recognized 
+the conflict and allowed the Baca heirs to obtain equivalent acreage elsewhere in the Territory. Of five 
+tracts selected two were in New Mexico, known as Float # 1 (Sandoval County) and Float # 2 (San 
+Miguel County), each containing 99,289.39 acres. 
+
+j The claimants probably obtained title through the Act of March 3, 1891. This act allowed those settlers, 
+who had lived on the land for more than 20 years before an official survey of a township was 
+conducted, to a patent of up to 160 acres of land. There was no documentation of the grant, and no 
+claim was submitted to the Court of Private Land Claims. 
+
+k No specific information is available. 
+
+'The purported grant document was filed with the Surveyor General but was later proven to be 
+fraudulent. 
+
+m As the result of the establishment of a reservation in 1877, as revised in 1883, 1885, and 1917, the 
+pueblo’s claim was not presented to the Court of Private Land Claims. 
+
+n The only grant actually given to Santa Fe residents was for some common pasture land and water 
+(1715). Congress ultimately granted to the City of Santa Fe all lands not already used by the United 
+States or confirmed as private land grants. The confirmed amount is based on the Surveyor General’s 
+preliminary survey of 4 square leagues. 
+
+°The U.S. Supreme Court found the Court of Private Land Claims in error and directed a reversal. The 
+grant was rejected in 1900. 
+
+p Although a petition was filed in 1872, no further action was taken by the claimants to pursue 
+recognition of the claim. Therefore, there is no formal decision on the matter. 
+
+
+Page 32 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix II 
+
+
+Objectives, Scope, and Methodology 
+
+
+Concerned about whether the United States fulfilled its obligations under 
+the Treaty of Guadalupe Hidalgo with regard to community land grants 
+made by Spain and Mexico in what is now the state of New Mexico, 
+Senators Pete Domenici and Jeff Bingaman asked us to study numerous 
+issues regarding the treaty and its implementation. We plan to answer their 
+questions in a series of reports. This first report defines the concept of 
+community land grants, identifies three types of grants that meet this 
+definition, and lists the grants we identified in each category. 
+
+In accordance with the request, we limited our review to community land 
+grants made by Spain or Mexico between 1689 and 1846 that are now either 
+wholly or partially situated within the area of what is now the state of New 
+Mexico and that were subject to the Treaty of Guadalupe Hidalgo. We also 
+included grants in what is now New Mexico made up to 1853 that were part 
+of the Gadsden Purchase, since they too are subject to the Treaty. We 
+analyzed land grants in New Mexico for which we could find evidence to 
+identify community land grants. 
+
+To respond to this request, we collected and reviewed documents from the 
+U.S. National Archives and Records Administration in Washington, D.C.; 
+the National Archives and Records Administration in Denver; the New 
+Mexico State Records Center and Archives; archives at the U.S. Bureau of 
+Land Management and the U.S. Forest Service; various libraries, including 
+the Center for Southwest Research at the University of New Mexico 
+Zimmerman Library and the Special Collections at the University of New 
+Mexico Law School Library; the U.S. National Park Service’s Spanish 
+Colonial Research Center at the University of New Mexico; scholars, land 
+grant heirs, lawyers representing land grant interests; and other individuals 
+or entities associated with land grants in New Mexico. 
+
+We researched, collected, and reviewed published and unpublished 
+material on land grants, including books, articles, monographs and 
+unpublished theses. Our search for relevant materials included a search for 
+articles published in Mexico that address the issues in this report. A list of 
+materials consulted can be found in appendix III. 
+
+During the course of our review, we interviewed dozens of land grant heirs 
+in New Mexico and a representative of a pueblo; historians, researchers, 
+and other academicians studying land grant issues, including scholars in 
+Mexico; lawyers representing the interests of land grant heirs and an Indian 
+pueblo; officials at the U.S. Bureau of Land Management (BLM) and the 
+U.S. Forest Service; local government officials with the state of New 
+
+
+Page 33 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+
+Appendix II 
+
+Objectives, Scope, and Methodology 
+
+
+Mexico, including the Office of the Attorney General, and with several 
+counties in which land grants exist; and various representatives of other 
+entities or interests associated with land grant issues in New Mexico to 
+gain a better understanding of community land grant issues. 
+
+To determine how community land grants are defined, we reviewed 
+numerous documents that addressed land grants in New Mexico, including 
+English translations of original grant documents; English translations of 
+Spanish and Mexican laws; federal, state, and territorial court decisions on 
+land grants; scholarly articles describing customs associated with land 
+grants; and various academic materials analyzing land grants. In interviews 
+with academicians and other experts on land grants, lawyers dealing with 
+land grant issues or cases, land grant heirs, and other observers of land 
+grants (e.g., federal employees, librarians, graduate students at the 
+University of New Mexico Law School Library and University of New 
+Mexico Library), we asked for their views on defining community land 
+grants. We also asked several experts to comment on our preliminary 
+definition of community land grants. 
+
+To identify the universe of Spanish and Mexican land grants in New 
+Mexico, we used a variety of historical data. We started with an 
+unpublished master of laws (LL.M.) thesis by J. J. Bowden at Southern 
+Methodist University Law School, entitled Private Land Claims in the 
+Southwest, to develop our initial list of Spanish and Mexican grants. This 
+six-volume thesis describes 280 grants in great detail and includes English 
+translations of parts of the granting documents. The work also identifies 
+many of the different names for the grants. We next examined documents 
+on file at various archives from the Surveyor General and Court of Private 
+Land Claims—the two entities responsible for carrying out the legal 
+processes set in place in the nineteenth century to implement the treaty. 
+Where possible, we reviewed English translations of the original granting 
+documents. We also used other sources of information, including those 
+provided by land grant heirs. If discrepancies were found among various 
+documents, we deferred to documents in the archives from the Surveyor 
+General or Court of Private Land Claims files. 
+
+To distill community land grants from this universe of land grants, we 
+applied our definition, searching for clues in the granting documents and 
+other sources. For example, some grants contained the following language 
+and would be considered community land grants: “pasturage and watering 
+places shall be in common” (Caja del Rio), the “pastures and woodlands in 
+common” (Barranca), “the public square is also common among all” 
+
+
+Page 34 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix II 
+
+Objectives, Scope, and Methodology 
+
+
+(Canon de Camue), and “set aside for the commons of the town” (Dona 
+Ana Bend Colony). Criteria for inclusion as a community land grant 
+included not just language denoting common lands but language indicating 
+that a grant had been made to a town or settlement, since under Spanish 
+law and custom, grants to towns included common lands. We also included 
+grants made to 10 or more people, since Spanish law states in the 
+Recopilacion de las Leyes de los Reynos de las Indias that a grant could be 
+made to 10 or more married persons to form a settlement, indicating that 
+the grant was a community grant. 
+
+Historical treatises and interviews with scholars and grant heirs alerted us 
+to the possibility of additional community grants. Although grants may 
+have originally been issued to individuals, sometimes land was 
+subsequently set aside for common use and thus these grants should be 
+considered community land grants. Such evolutions are not captured in 
+grant documents. Other grant heirs and advocates assert that certain grants 
+are community land grants, but we do not know the basis for the assertion. 
+We included grants identified by heirs and others as being community land 
+grants in a second list. We make no judgment as to the efficacy of these 
+assertions but list them for the Congress’ consideration. 
+
+We also found that Spain issued land grants to indigenous pueblo cultures 
+already resident in the colonial territories. According to scholars, these 
+cultures held the lands communally. We list these grants separately because 
+the lands in common existed before Spanish settlement and because of the 
+unique relationship between Native Americans and the Spanish, Mexican 
+and U.S. governments. We used surveyor general documents and public 
+laws to ascertain the number of grants made to Native Americans. 
+
+To list each land grant by county, we compared county data in several 
+federal, state, and independent databases listing New Mexican land grants 
+to determine the level of reliability of the databases. We also recognized 
+that the county boundaries have changed markedly since 1850. We found 
+significant discrepancies among the various databases because of, in part, 
+conflicting interpretations of which county contained the largest area when 
+a grant straddled county lines. This is particularly problematic in 
+unsurveyed grants. In an effort to maintain consistency in listing counties 
+and to minimize errors, we used official federal, state, and county 
+government maps and the unpublished thesis of J. J. Bowden entitled 
+Private Land Claims in the Southwest. The maps relied on actual survey 
+data of certain land grants. We visually reviewed the maps to determine the 
+primary county for each of the land grants illustrated. However, we 
+
+
+Page 35 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix II 
+
+Objectives, Scope, and Methodology 
+
+
+recognized that the maps contained limited information. We therefore used 
+J. J. Bowden’s thesis, one of the more thorough reports on land grants in 
+New Mexico, to complete the county listings. We did not verify the 
+accuracy of either the official maps or of J. J. Bowden’s thesis. 
+
+In creating the map to represent the location of each land grant, we learned 
+that no map illustrating all grants existed. Officials from federal and state 
+agencies, as well as independent researchers, told us that current maps 
+only listed certain land grants, such as those grants that had been 
+confirmed and surveyed. 
+
+It should be noted that we relied on published and unpublished documents 
+and archives, primarily in New Mexico, Colorado and Washington, D.C. The 
+quantity, quality, availability and reliability of the evidence for the various 
+grants varied considerably. For example, the Dona Ana Bend Colony files 
+contain extensive documents pertaining to the establishment of the colony 
+and the location of tracts, while the Hacienda del Alamo file contains only 
+the claimant’s petition with no original grant documents to verify the claim. 
+We relied on official translations of the original granting documents 
+wherever possible. The Surveyor General’s office included an individual 
+responsible for translating the documents submitted. However, we did not 
+independently assess any translation. We also note that the names of some 
+grants in Private Land Claims in the Southwest, the Surveyor General 
+documents, and the Court of Private Land Claims files are not always 
+consistent. We have identified the other names of grants in appendix I. 
+
+We conducted our review from April through December 2000, according to 
+generally accepted government auditing standards. 
+
+
+Page 36 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix III 
+
+
+Bibliography 
+
+
+“Algunos Documentos Sobre el Tratado de Guadalupe y la Situacione 
+Mexico Durante la Invasion Americana.” Archivo Historico Diplomatico 
+Mexicano, No. 31 (1930). 
+
+Arellano, Anselmo F. “The Never Ending Land Grant Struggle.” (Austin, 
+Texas, University of Texas, undated) 
+
+www.dla.utexas.edu/depts/anthro/activist/Essay8.htm (downloaded Apr. 6, 
+
+2000 ). 
+
+
+_. Through Thick and Thin: Evolutionary Transitions of Las Vegas 
+
+Grandes and Its Pobladores (1990) (unpublished Ph.D. dissertation, 
+University of New Mexico). 
+
+Beck, Warren A. New Mexico: A History of Four Centuries. Norman, OK: 
+University of Oklahoma Press. 
+
+Bloom, John Porter, ed. The Treaty of Guadalupe Hidalgo, 1848: Papers of 
+the Sesquicentennial Symposium. Las Cruces, NM: Dona Ana County 
+Historical Society and Yucca Tree Press, 1999. 
+
+Bowden, J.J. Private Land Claims in the Southwest (1969) (unpublished 
+LLM. thesis [6 Vols.], Southern Methodist University). 
+
+_. Spanish and Mexican Land Grants in the Chihuahuan Acquisition. 
+
+El Paso, TX: University of Texas at El Paso, 1971. 
+
+_. “Spanish and Mexican Land Grants in the Southwest.” Land and 
+
+Water Law Review, Vol. 8, No. 2 (1973), pp. 467-612. 
+
+Bradfute, Richard Wells. The Court of Private Land Claims: The 
+Adjudication of Spanish and Mexican Land Grant Titles; 1841-1904. 
+Albuquerque, NM: The University of New Mexico Press, 1975. 
+
+Brayer, Herbert O. Pueblo Indian Land Grants of the “Rio Abajo. ” 
+Albuquerque, NM: The University of New Mexico Press, 1939. 
+
+Briggs, Charles L. and John R. Van Ness, eds. Land, Water, and Culture: 
+New Perspectives on Hispanic Land Grants. Albuquerque, NM: The 
+University of New Mexico Press, 1987. 
+
+Calendar to the Microfilm Edition of the Land Records of New Mexico: 
+Spanish Archives of New Mexico, Series I, Surveyor General Records, and 
+
+
+Page 37 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+
+
+
+Appendix III 
+Bibliography 
+
+
+the Records of the Court of Private Land Claims. Santa Fe, NM: National 
+Historical Publications and Records Commission and the New Mexico 
+State Records Center and Archives, 1987 1 (a microfilm project). 
+
+Cameron, Christopher D.R. “Symposium: Understanding the Treaty of 
+Guadalupe Hidalgo on Its 150 th Anniversary: ‘Friends’ or ‘Enemies?’ The 
+Status of Mexicans and Mexican-Americans in the United States on the 
+Sesquicentennial of the Treaty of Guadalupe Hidalgo.” Southwestern 
+Journal of Law and Trade in the Americas, Vol. 5 (1998), pp. 5 etseq. 
+
+Carlson, Alvar W. The Spanish-American Homeland. Baltimore, MD: The 
+Johns Hopkins University Press, 1990. 
+
+Cheever, Federico M. “Comment: A New Approach to Spanish and 
+Mexican Land Grants and the Public Trust Doctrine: Defining The Property 
+Interest Protected by the Treaty of Guadalupe-Hidalgo.” UCLA Law 
+Review, Vol. 33 (1986), pp. 1364-1409. 
+
+Codgell, Thomas. “A Brief Historical Survey of the Treaty of Guadalupe 
+Hidalgo.” (Austin, Texas, undated) www.jump.net/-treaty/survey 
+(downloaded Aug. 10, 2000). 
+
+DeBuys, William. “Fractions of Justice: A Legal and Social History of the 
+Las Trampas Land Grant, New Mexico.” New Mexico Historical Review, 
+Vol. 56, No. 1 (1981), pp. 71 etseq. 
+
+Ebright, Malcolm. Land Grant Community Associations in New Mexico 
+(1994) (research paper, Center for Land Grant Studies, University of New 
+Mexico). 
+
+_. Land Grants and Law Suits in Northern New Mexico. Albuquerque, 
+
+NM: The University of New Mexico Press, 1994. 
+
+_. ed. Spanish and Mexican Land Grants and the Law. Manhattan, KS: 
+
+Sunflower University Press, 1991. 
+
+
+1 The microfilm archives were accessed at the New Mexico State Records Center and 
+Archives in Santa Fe, New Mexico; at the National Archives and Records Administration in 
+Denver, Colorado; and at the National Archives and Records Administration in Washington, 
+
+
+D.C. 
+
+
+Page 38 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+
+
+
+Appendix III 
+Bibliography 
+
+
+_. “The San Joaquin Grant: Who Owned the Common Lands? A 
+
+Historical-Legal Puzzle.” New Mexico Historical Review, Vol. 57, No. 1 
+(1982), pp. 5-26. 
+
+_. The Tierra Amarilla Grant: A History of Chicanery. Santa Fe, NM: 
+
+The Center for Land Grant Studies Press, 1993. 
+
+Espinosa, Gilberto. “New Mexico Land Grants.” The State Bar of New 
+Mexico 1962 Journal, Vol. 1, No. 2 (1962), pp. 3-13. 
+
+Gates, Paul W. and Robert W. Swenson. History of Public Land Law 
+Development. Washington, DC: U.S. Government Printing Office, 1968. 
+
+Gomez, Placido. “The History and Adjudication of the Common Lands of 
+Spanish and Mexican Land Grants.” Natural Resources Journal, Vol. 25, 
+
+No. 1 (1985), pp. 1039-1080. 
+
+Griswold del Castillo, Richard. The Treaty of Guadalupe Hidalgo: A Legacy 
+of Conflict. Norman, OK: University of Oklahoma Press, 1990. 
+
+Guadalupe Hidalgo Treaty of Peace 1848 and The Gadsden Treaty with 
+Mexico 1853. Seattle, WA: Tate Gallery Publisher, 1963. 
+
+Hall, G. Emlen. Four Leagues of Pecos: A Legal History of the Pecos Grant, 
+1800-1933. Albuquerque, NM: The University of New Mexico Press, 1984. 
+
+_. “Tularosa and the Dismantling of New Mexico Community Ditches.” 
+
+New Mexico Historical Review, Vol. 75, No. 1 (2000), pp. 77-106. 
+
+Index to Special District Governments in New Mexico. Santa Fe, NM: New 
+Mexico Legislative Council Service, 1983. 
+
+Jenkins, Myra Ellen. “The Baltasar Baca ‘Grant’: History of an 
+Encroachment.” El Palacio (Spring 1961), pp. 47-105. 
+
+Knowlton, Clark S. Land-Grant Problems Among the State’s Spanish 
+Americans (undated) (unpublished paper, University of Texas). 
+
+_. The Las Vegas Community Land Grant: Its Decline and Fall. Salt 
+
+Lake City, UT: Center for Land Grant Studies, University of Utah, 1980. 
+
+
+Page 39 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix III 
+Bibliography 
+
+
+_. “The Mora Land Grant: A New Mexican Tragedy.” Journal of the 
+
+West, Vol. 27, No. 3 (undated), pp. 189-218. 
+
+_. “The Study of Land Grants as an Academic Discipline.” The Social 
+
+Science Journal, Vol. 13, No. 3 (1976), pp. 3-7. 
+
+Kutsche, Paul and John R. Van Ness. Canones: Values, Crisis, and Survival 
+in a Northern New Mexico Village. Salem, WI: Sheffield Publishing Co., 
+1981. 
+
+Lamar, Howard R. The Far Southwest 1846-1912. A Territorial History. 
+New Haven, CT: Yale University Press, 1966. 
+
+Land Title Study Prospectus: Prospectus No. 2. Santa Fe, NM: State 
+Planning Office, 1969. 
+
+Leonard, Olen E. The Role of the Land Grant in the Social Organization and 
+Social Processes of a Spanish-American Village in New Mexico. 
+Albuquerque, NM: Calvin Horn Publisher, Inc., 1970. 
+
+Luna, Guadalupe T. “Symposium: En El Nombre de Dios Todo-Poderoso: 
+The Treaty of Guadalupe Hidalgo and Narrativos Legales.” Southwestern 
+Journal of Law and Trade in the Americas, Vol. 6 (1998) pp. 45 etseq. 
+
+Lima, Hilario. San Joaquin del Nacimiento. No city, state or publisher 
+indicated, 1975. 
+
+Lutz, Robert E. “Symposium: The Mexican War and the Treaty of 
+Guadalupe Hidalgo: What’s Best and Worst About Us.” Southwestern 
+Journal of Law and Trade in the Americas, Vol. 5 (1998) pp. 27-29. 
+
+Matthews-Lamb, Sandra K. The “Nineteenth” Century Cruzate Grants: 
+Pueblos, Peddlers, and the Great Confidence Scam? (1998) (unpublished 
+Ph.D. dissertation, University of New Mexico). 
+
+Meyer, Michael C. The Contemporary Significance of the Treaty of 
+Guadalupe Hidalgo to Land Use Issues in Northern New Mexico. Tucson, 
+AZ: Northern New Mexico Stockman’s Association and the Institute of 
+Hispanic American Culture, 1998. 
+
+_. Water in the Hispanic Southwest: A Social and Legal History 1550- 
+
+1850. Tucson, AZ: The University of Arizona Press, 1984. 
+
+
+Page 40 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix III 
+Bibliography 
+
+
+Morrow, William W. Spanish and Mexican Private Land Grants. San 
+Francisco and Los Angeles, CA: Bancroft-Whitney Company, 1923. 
+
+Nabokov, Peter. Tijerina and the Courthouse Raid. Albuquerque, NM: The 
+University of New Mexico Press, 1970. 
+
+“New Mexico Land Grant Claims.” AMIGOS- Quien junto al agua tiene su 
+tierra, primero riega, Vol. 7, Nivel 2, No. 6 (undated). 
+
+Poldervaart, Arie W. Black-Robed Justice. Santa Fe, NM: Historical 
+Society of New Mexico, 1948. 
+
+Remote Claims Impact Study: Lot II-A, Study of the Problems that Result 
+from Spanish and Mexican Land Grant Claims. Albuquerque, NM. 
+Submitted to the Farmers Home Administration in Washington, D.C. by the 
+Natural Resources Center, University of New Mexico School of Law, 1980. 
+
+Reynolds, Matthew G. Spanish and Mexican Land Laws. St. Louis, MO: 
+Buxton & Skinner Stationery Co., 1895. 
+
+Rivera, Jose A. Acequia Culture: Water, Land, & Community in the 
+Southwest. Albuquerque, NM: The University of New Mexico Press, 1998. 
+
+Rock, Michael J. “The Change in Tenure New Mexico Supreme Court 
+Decisions Have Effected Upon the Common Lands of Community Land 
+Grants in New Mexico.” The Social Science Journal, Vol. 13, No. 3 (1976), 
+pp. 53-63. 
+
+
+Rowley, Ralph A. Precedents and Influences Affecting the Treaty of 
+Guadalupe Hidalgo (1970) (unpublished M.A. thesis, University of New 
+Mexico). 
+
+Sanchez, George I. Forgotten People: A Study of New Mexicans. 
+Albuquerque, NM: Calvin Horn, Publisher, 1967. 
+
+Sanchez, Jane C. “Law of the Land Grant: The Land Laws of Spain.” 
+(Albuquerque, New Mexico: Los Sanchez, Jan. 2000) 
+http://home.sprintmail.com/~sanchezj/l-title.htm (downloaded Aug. 23, 
+2000 ). 
+
+Sando, Joe S. Pueblo Nations: Eight Centuries of Pueblo Indian History. 
+Santa Fe, NM: Clear Light Publishers, 1992. 
+
+
+Page 41 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix III 
+Bibliography 
+
+
+Simmons, Marc. Spanish Government in New Mexico. Albuquerque, NM: 
+The University of New Mexico Press, 1968. 
+
+Smith, Andrew T. “The Founding of the San Antonio de las Huertas Grant.” 
+The Social Science Journal, Vol. 13, No. 3 (1976), pp. 35-43. 
+
+Status Database of New Mexico Land Grants. Santa Fe, NM: Bureau of 
+Land Management, 2000. 
+
+The Lands of New Mexico Supplement. No city indicated, NM: Museum of 
+New Mexico, date unreadable. 
+
+The New Mexico Legal Rights Demonstration Land Grant Project-An 
+Analysis of the Land Title Problems in the Santo Domingo De Cundiyo Land 
+Grant. Albuquerque, NM: New Mexico Legal Rights Demonstration Land 
+Grant Project, Legal Aid Society of Albuquerque, Inc., 1976. 
+
+Torrez, Robert J. “From Empire to Statehood: A History of New Mexico’s 
+Spanish and Mexican Archives.” Colonial Latin American Historical 
+Review (Spring 1996), pp. 333-353. 
+
+_. “New Mexico’s Spanish and Mexican Land Grants.” New Mexico 
+
+Genealogist (Dec. 1997), pp. 143 et seq. 
+
+Van Ness, John R. “Spanish American vs. Anglo American Land Tenure and 
+the Study of Economic Change in New Mexico.” The Social Science 
+Journal, Vol. 13, No. 3 (1976), pp. 45-52. 
+
+Westphall, Victor. “Fraud and Implications of Fraud in the Land Grants of 
+New Mexico.” New Mexico Historical Review, Vol. 49, No. 3 (1974), pp. 189- 
+218. 
+
+
+_. Mercedes Reales: Hispanic Land Grants of the Upper Rio Grande 
+
+Region. Albuquerque, NM: The University of New Mexico Press, 1983. 
+
+_. The Public Domain in New Mexico 1854-1891. Albuquerque, NM: 
+
+The University of New Mexico Press, 1965. 
+
+_. Thomas Benton Catron and His Era. Tucson, AZ: The University of 
+
+Arizona Press, 1973. 
+
+
+Page 42 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix III 
+Bibliography 
+
+
+White, Koch, Kelley and McCarthy, Attorneys at Law and The New Mexico 
+State Planning Office. Land Title Study. Santa Fe, NM: State Planning 
+Office, 1971 (reprinted 1981). 
+
+
+Page 43 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Appendix IV 
+
+
+Contacts and Staff Acknowledgments 
+
+
+Q^A.0 Contacts Susan A. Poling and Alan R. Kasdan (202-512-7648) 
+
+
+Staff 
+
+Acknowledgments 
+
+
+In addition to those named above, Robert C. Arsenoff, John C. Furatani, 
+Robert E. Sanchez, Jose Alfredo Gomez, Barry T. Hill, Jeffrey D. Malcolm, 
+David A. Rogers, James R. Yeager, Jonathan S. McMurray, Carol Hermstadt 
+Shulman, Alice A. Feldesman, William D. Updegraff, Stephen F. Palincsar, 
+Etana Finkler, Veronica C. Sandidge, Gloria Sutton, Susan Conlon, Moza Al- 
+Suylaiti, and Heather Tierney made key contributions to this report. We 
+also wish to acknowledge the following staff of the GAO Library, whose 
+research assistance and help in locating materials and court cases greatly 
+facilitated our work on this report: librarians, Rennese D. Bumbray, 
+Maureen K. Cummings, Eunwa Kim, Bonita L. Miller, Audrey L. Ruge, and 
+Kimberly R. Walton; and technicians, Patricia A. Givens, William R. Haynos, 
+Geraldine B. Howard, Edna Legrant, Alice E. Paris, and Ester L. Saunders. 
+
+
+(976001) 
+
+
+Page 44 
+
+
+GAO-01-330 Guadalupe Hidalgo Exposure Draft 
+
+
+
+
+Ordering Information 
+
+
+The first copy of each GAO report is free. Additional copies of 
+reports are $2 each. A check or money order should be made out to 
+the Superintendent of Documents. VISA and MasterCard credit 
+cards are accepted, also. 
+
+Orders for 100 or more copies to be mailed to a single address are 
+discounted 25 percent. 
+
+Orders by mail: 
+
+U.S. General Accounting Office 
+P.O. Box 37050 
+Washington, DC 20013 
+
+Orders by visiting: 
+
+Room 1100 
+
+700 4th St. NW (corner of 4th and G Sts. NW) 
+
+U.S. General Accounting Office 
+Washington, DC 
+
+Orders by phone: 
+
+(202) 512-6000 
+fax: (202) 512-6061 
+TDD (202) 512-2537 
+
+Each day, GAO issues a list of newly available reports and 
+testimony. To receive facsimile copies of the daily list or any list 
+from the past 30 days, please call (202) 512-6000 using a touchtone 
+phone. A recorded menu will provide information on how to obtain 
+these lists. 
+
+Orders by Internet: 
+
+For information on how to access GAO reports on the Internet, 
+send an e-mail message with “info” in the body to: 
+
+info@www.gao.gov 
+
+or visit GAO’s World Wide Web home page at: 
+http://www.gao.gov 
+
+
+Contact one: 
+
+• Web site: http://www.gao.gov/fraudnet/fraudnet.htm 
+
+• e-mail: fraudnet@gao.gov 
+
+• 1-800-424-5454 (automated answering system) 
+
+
+To Report Fraud, 
+Waste, or Abuse in 
+Federal Programs 
+
+
+PRINTED ON RECYCLED PAPER 
+
+
+
+United States 
+
+General Accounting Office 
+
+Washington, D.C. 20548-0001 
+
+Official Business 
+Penalty for Private Use $300 
+
+
+Bulk Rate 
+
+Postage & Fees Paid 
+GAO 
+
+Permit No. GI00 
+
+
+Address Correction Requested 
+
+
+
+
+

@@ -1,0 +1,1235 @@
+DOCUMENT RESUME 
+
+
+
+ED 320 437 
+
+
+
+FL 018 601 
+
+
+
+AUTHOR 
+TITLE 
+
+
+
+INSTITUTION 
+
+PUB DATE 
+NOTE 
+
+AVAILABLE FROM 
+
+
+
+PUB TYPE 
+
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+Ferguson, Charles; Heubner, Thorn 
+Foreign Language instruction and Second Language 
+Acquisition Research in the United States • NFLC 
+Occasional Papers • 
+
+Johns Hopkins Univ^ , Washington, DC^ National Foreign 
+Language Center* 
+Jan 89 
+13p* 
+
+Cashier, National Foreign Language Center, 1619 
+Massachusetts Ave*, N*W*, Washington, DC 20036 ($3*00 
+including postage and handling; checks payable to 
+NFLC) • 
+
+Information Analyses (070) 
+MFOl/PCOl Plus Postage. 
+
+Educational Environment; ^^Educational Strategies; 
+*Language Attitudes; ^Language Research; ^Language 
+Teachers; Learning Processes; Literature Reviews; 
+Private Education; *Public Schools; *Second Language 
+Instruction; Second Language Learning 
+
+
+
+AtsSTRACT 
+
+Foreign language instruction and related research on 
+second language acquisition in the United States can be understood 
+only in the context of the role o-*" English, of American education, 
+and of speech and language research. Any part of an educational 
+system is both a result of historical processes and a response to 
+current needs and values. The following five aspects of the language 
+situation in the Un.ited States are relevant to an understanding of 
+foreign language teaching and learning: (1) the dominance of English 
+in American life; (2) the scarcity of foreign language instruction in 
+the public schools; (3) the four distinct language professions 
+(foreign language teachers, bilingual specialists, 
+English-as-a-Second-Language teachers, and English as a native 
+language teachers) ; (4) language instruction outside the public 
+schools, and (5) myths about language held by Americans, Second 
+language acquisition (SLA) research has tended to be tied to either 
+linguistics or psychology, applying the theoretical models from 
+differenc contexts. More complex research designs and research 
+programs on SLA, while difficult to manage, are necessary • (HSE) 
+
+
+
+*********** ****3>E******************Jt** ******************** 
+
+* Reproductions supplied by EDRS are the best that can be made 
+
+* from the original document. 
+
+
+
+About the Authors 
+
+Charles A. Ferguson, since 1967 Professor of Linguistics at Stanford 
+University, is known for his publications in descriptive linguistics, sociolin- 
+guistics, and language acquisition. Editor/author of over a dozen books, he 
+was one of the fir^' linguists employed at the Foreign Service Institute of the 
+U.S. Department of State and the first Director of the Center for Applied 
+Linguistics in Washington, D. C. He is co-editor with Thorn Huebner of the 
+forthconung book. Cross-currents in Second Language Acquisition and Linguistic 
+Theories, 
+
+Thorn Huebner received his Ph.D. in Linguistics from the University of 
+Hawaii and has taught at the University of Pennsylvania and Stanford Univer- 
+sity. He has worked in language education v^th the Max Planck Institute for 
+Psycholinguistics in Nijmegen, His publicatior\s include articles in a number 
+of journals, including TESOL Quarterly, Language Learning, Studies in Second 
+Language Acquisition, The International Journal oftlie Sociology of Language, The 
+Journal of Multilingual and Multicultural Development, The Modem Language 
+Journal, and World Englishes, He is author of A Longitudinal Analysis of the 
+Acquisition of English (Karoma 1983) and is editing, with Charles Ferguson, a 
+collection of essays on second language acquisition and linguistic theory. 
+Currently, he is Associate Professor of Education at San Jose State University, 
+where he teaches courses in language acquisition and language teaching 
+methodology and edits The Carrier Pidgin, a newsletter for scholars of pidgin 
+and Creole languages. 
+
+About the Occasional Papers 
+
+This is the first in a sei.es of Occasional Papers publisl ed by the National 
+Foreign Language Center (NFLC), Further papers are available for $3.00 each, 
+including postage and handling, or $18.00 for six issi'GS. Papers may be 
+obtained by sending a check and the name of llie paper desired to Cashier, 
+National Foreign Language Center, 1619 Massachusetts Ave. NW, 
+Washington, DC 20036. Checks should be made payable to NFLC. 
+
+NFLC prints and distributes as Occasional Papers articles on a wide 
+variet)' of topics related to foreign language researcW, education, and policy. 
+The papers are read by an internal review committee. The Occasional Papers 
+are intended to serve as a vehicle of communication and stimulant for discus- 
+sion among groups concerned with these topic areas. The views exp;essed in 
+these papers are the responsibility of the authors and do not necessarily reflect 
+the views of NTLC or of The Johns Hopkins University. 
+
+Papers are accepted for consideration on a year-round basis by the 
+Publications Department of the NFLC. Authors of articles approved for publi- 
+cation will be asked to send a 51/4" DOS or 3 1/2" Macintosh disk containing 
+the article. Any graphics must be provided in camera-ready format. The Oc- 
+casional Papers follow the editorial format outlined in the Chicago Manual of 
+Style. 
+
+
+
+Copyright 1989, The National Foreign Language Center 
+at The Johns Hopkins University 
+
+
+
+
+Foreign Language Instruction and Second Language 
+Acquisition Research in the United States 
+
+
+
+Foreign language (FL) instruction and the related re- 
+search on second language acquisition (SLA) in the 
+United States can be understood only in the context of 
+the role of English, of American education, and of speech 
+and language research and educational research in the 
+United States. Any part of an educational system is, after 
+all, both a result of historical processes and a response to 
+current needs and values. 
+
+THE LANGUAGE SITUATION IN THE UNITED 
+STATES 
+
+Five aspects of the language situation are relevant 
+to an understanding of FL teaching and learning in the 
+United States: the dominance of English in American life, 
+the scarcity of FL instruction in U. S. public schools, the 
+language professions, FL instruction outside the public 
+schools, and myths about language held by Americans. 
+
+Dominance of English 
+
+The most salient part of the language situation in 
+the United States is surely the overall dominance of 
+English. Not only is English by far the most common 
+mother tongue, it is also by far the language most often 
+learned as a second language and is overwhelmingly the 
+language of participation in U.S. economic, political, and 
+social life. Moreover, Americans perceive their nation as 
+even more monolingual than it is. In 1975, for example, 
+when th? U.S. Bureau of the Census conducted a special 
+sample survey of non-English languages, almost 18 
+percent of the population aged 14 years or older claimed 
+a mother tongue olher than English (seven out of ten of 
+them native-bom Americans), and one person out of 
+eight aged four or older lived in a household in which a 
+language other than English was spoken (Waggoner 
+1981). Although not the national or official language of 
+the United States by constitution, statute, or regulation, 
+
+
+
+CHARLES A. FERGUSON 
+Stanford University, Stanford, California 
+
+THOM HUEBNER 
+San jQ<^e State University, San Jose, California 
+
+English is the de tacto national language, its status 
+maintained by powerful social pressures, and non- 
+English-speaking immigrant groups have generally 
+experienced relatively rapid attrition of mother tongue 
+competence and corresponding s^^ift to English (Fishman 
+et al. 1966, Veltman 1983). In spite of this pattern of 
+linguistic assimilation, the visibility of largp numbers of 
+Hispanics and the relatively recent ir\flux of Asians have 
+resulted in nwvements advocating some kind of legal 
+status for English, both at state and national levels. The 
+outcome of such movements is unclear, but the domi- 
+nance of English is likely to persist no matter wha the 
+outcome. 
+
+FL Instruction in the Public Schools 
+
+A complementaiy aspect of this English dominance 
+is the very low incidence of FL instruction in the schools. 
+Although education is basically a state, not a federal, 
+responsibility and the greater part of policy making is in 
+the hands of local school districts, the picture of language 
+instruction in American schools is surprisingly similar 
+from one pari of the country to another. About five- 
+eighths of secondary schools offer some FI- instruction, 
+but in 71 percent of these less than half of the students 
+are enrolled in FL courses ^Oxford and Rhodes 1988). 
+The most common pattern is probably two years of in- 
+struction ! panish. This lack of commitment to FL in- 
+structioi public education is unique anong industrial- 
+ized nations. According to many observers FL enroll- 
+ments have "bottomed out" and started a slow rise. But 
+the fact remains that American educators give small 
+place to FL instruction and on the whole do not expect 
+students to acquire a working competence in the lan- 
+guage they shidy; the brief exposure to a foreign lan- 
+guage serves more as an inoculation against further 
+study than as a foundation for achieving advanced levels. 
+
+
+
+ERLC 
+
+
+
+Ringing statements by national connmissions and several 
+political leaders to the effect that Airserican competence 
+in FLs is disgraceful and a danger for the national 
+wellbeing have not yet led to significant changes in the 
+pattern. 
+
+The small place for FL instruction in public education 
+is compatible with the widespread American view that 
+bilingualism is a handicap, a mark of inadequate control 
+of English, and a sign of membership in an unassimilated 
+and presumably otherwise disadvantaged minority 
+group. The support for bilingual education symbolized 
+by court decisions, federal legislation, and state and local 
+programs has been won on the grounds of equality of 
+opportunity and quicker transition to English, not on 
+groimds of conserving the nation's FL resources 
+(CampbeU and SchneU 1987). 
+
+Not surprisingly, one of the bright spots in R 
+instruction and research in the United States involves the 
+teaching of English to speakers of other languages 
+(TESOL). Although the United States has a long history 
+of teaching English to immigrants in the workplace and 
+in so-called Americanization classes, the modem TESOL 
+profession arose primarily in connection v^rith teaching 
+English to foreign students attending American universi- 
+ties and has ties with linguistics that go back to the 
+intensive FL programs common during World War II. 
+The TESOL profession has been an important locus of 
+American research in second language acquisition, a fact 
+largely responsible for the existence of a generation of 
+American SLA specialists who do not themselves speak a 
+second language. One can point to outstanding excep- 
+tions of Americans with extensive overseas experience or 
+with outstanding FL specialization, but the majority of 
+contributors to the active American scene of SLA re- 
+search still belong to this English-oriented group. 
+
+One of us remembers vividly an occasion in the 1960s 
+when he was invited to talk about SLA research to a 
+group of university students in Sweden. He did what he 
+was invited to do, in E nglish of course, with the hum- 
+bling awareness that no corresponding group of Ameri- 
+can graduate students could have followed and partici- 
+pated in such a discussion in a language other than 
+English, whereas most of the Swedish students could do 
+so in two or more foreign languages. Researchers do not 
+necessarily need to have personal experience with the 
+phenomena they want to investigate; in fact, second- 
+language-competent SLA investigators may uncon- 
+sciously assume that other ieamers have acquired their 
+second language competence in more or less the same 
+way that they have. But it is at least worth noting that 
+many American SLA researchers have little or no FL 
+competence while most European SLA researchers have 
+experienced the phenomena under study. 
+
+Language Professions 
+
+Another feature of the language situation in the 
+
+
+
+United States that is relevant to our understanding of the 
+learning and teaching of FLs is the existence of four 
+different language professions, each with its own occupa 
+tional goals, education or special training, and attitudes 
+on language education issues: FL teachers, bilingual 
+education specialists, teachers of English as a second 
+language, and teachers of English as a native language. 
+These groups, who could be strong allies if they shared 
+important aspects of their educational perspectives and 
+saw complementary roles for themselves in the American 
+educational system, generally see one another as adver- 
+saries or, at best, as professionally tmrelated. We will not 
+attempt here to address the relation between the study of 
+literature and FL instniction as such— a problenutic 
+issue in most European and An>erican educational 
+systems. 
+
+FL Instruction outside Public Education 
+
+A considerable amount of second language learning 
+takes place outside the FL sector of public education. 
+Private schools tend to offer more and better FL instruc- 
+tion than public schools do, but they still fall within the 
+patterns already described. The difference between FI. 
+instruction in state and private universities is not so 
+great, but private universities seem to have taken the 
+lead in the reintroduction of language requirements for 
+entrance and graduation. Outside the educational 
+system are the numerous conunerdal language schools, 
+training programs of corporate enterprises (either 
+internationally oriented or with non-English-speaking 
+employees), and the SI A that takes place under nontu- 
+tored, "natural" conditions in the United States and by 
+Americans abroad or in FL communities at home. 
+"Ethnic" schools have been surveyed (cf. Bshman 1980), 
+but commercial schools and corporate training programs 
+have not been much investigated, and information on 
+their various types of FL instruction would be needed to 
+understand the full range of FL learning in the United 
+States. Untutored SLA has in recent years become the 
+focus of valuable research in the United States and 
+Europe, although the exact relation of its findings to FL 
+instruction in fonnal educational settings is sail to be 
+clariHed. 
+
+Myths about Language 
+
+Finally, let us emphasize an aspect of the language 
+situation tluit is not often treated explicitly: attitudes and 
+beliefs about language widely held by Americans. We 
+assume that the members of any speech conununity, 
+even such a large and complex one as the United States, 
+share to a considerable degree a set of such attitudes and 
+beliefs, so-called myths about language (Ferguson and 
+Heath 1981n(xvii-xxx). We assume fiirther that these 
+myths may sometimes be of critical importance for 
+understanding the activities of FL learning and teaching 
+as well as the SLA research efforts of the conunumty 
+These myths vary considerably by region, social class. 
+
+
+
+2 NFLC Occasional Papers, Jatttmry 1989 Charles Ferguson and Thorn Huebner 
+
+
+
+1 
+
+
+
+ERIC 
+
+
+
+and other categories, and they have not been investigated 
+as much as the evaluative attitudes toward languages 
+and their speakers (cf. Ryan & Giles 1982). Some of them, 
+however, merit notice. 
+
+Rrst, Americans tend to regard competence in an 
+FL as a kind of all-or-none personal attribute not particu- 
+larly related to the process of acquisition or the nature 
+and level of proficiency. People have the competence or 
+they don't: 'T>oes so-and-so speak Chinese?" "I don't 
+know Spanish." Americans generally assume (with some 
+justification, of course) that there is little connection 
+between having studied a language and "knowing" it or 
+being able to use it. The research corrective to this myth 
+is the current concern with proficiency testing and other 
+formsofmeastu'ement of language competence. Richard 
+Lambert has called for a "common metric meaisuring in 
+an objective, consistent fashion the degree of proficiency 
+a person. . .has in a foreign language." (Lambert 1987:13) 
+
+Related to this failure to connect the processes of 
+acquisition to the level of competence is the notion that 
+there are only a few ' real" — one might alnrost say 
+"magical"— ways to learn a language. Many people have 
+assured us at one time or another that the only way to 
+learn a foreign language is to be exposed to it in child- 
+hood, or to live in a country where it is spoken, or 
+(usually said with a smile) to have a mate or lover who 
+speaks the language. The widespread belief that living in 
+the appropriate country will produce fluency in a lan- 
+guage is evidenced, for example, in the disappointment 
+that many Stanford undergraduate students feel after one 
+or two quarters at a Stanford overseas campus, when 
+they find that they have not automatically reached full 
+fluency. American students typically do not expect to 
+learn to use a language by studying it in school (and 
+neither do their teachers or the surrounding community), 
+but they do expect to learn it by being in the country, 
+having no inkling of the time, effort, and communicative 
+strategies required. When Americans are faced with a 
+n©2d to acquire some FL comf)etence and the options just 
+discussed are not available, they want the fastest, most 
+efficient, most painless method, preferably one that 
+features some new technology. The research counterpart 
+to this view is the pereniual concern to test different 
+"methods" to see which one is best, that is, most efficient. 
+
+A third myth concerns the way people differ in 
+their ability to leam langiiages. Americans believe that 
+aptitude is very important. Although many assume that 
+their compatriots in general have low language aptitude, 
+they assume just as strongly or more so that individuals 
+differ greatly in language aptitude. Many individual 
+Americans claim that they themselves have no aptitude 
+for language^; and could never leam one, whereas some 
+people they kno are, as they say, "good at languages." 
+Several first-rate American universities make provision 
+to waive theii language requirement if a test shows that a 
+particular student has poor language aptitude. 
+
+In this coiuiection, it is interesting to compare 
+
+
+
+attitudes toward foreign competence in En^ish with 
+those toward American competence in FLs. An 
+American's lack of competence in an FL is off^n attrib- 
+uted to low aptitude. In contrast, a foreigner's lack of 
+competence in English may be attributed to lack of 
+opportimity, clarmishness, laziness, or other explanatory 
+factors, but rarely to lack of aptitude. Incidentally, an 
+attitude not often verbalized but apparent from incklen^ 
+tal comments and behavior is that a foreigner mih an 
+excellent command of English is somehow more intelli- 
+gent and more competent in other ways than one whose 
+conunand of English is less good. 
+
+In addition to the emphasis on aptitude, Americans 
+hold conventionalized notioi\s, almost stereotypes, about 
+the relative difficulty of languages. They assume that 
+there is some kind of absolute scale of difficulty such that 
+Spanish is easier to study or to leam than French, or a 
+more nuanced scale such that Spanish is easier in the first 
+year but harder in the second year. This view contrasts 
+with the implicit assumption of most American linguists 
+that all languages are roughly equal in difficulty for the 
+newborn and differences in difficulty in SLA, if they 
+exist, are due to the nature of the structural differences 
+between LI and 12 (shades of contrastive analysis!). 
+Linguistic theories that make edlowance for measurement 
+along these lines, such as those involving markedness or 
+parameter-setting, could contribute to the understanding 
+of these questions. 
+
+RESEARCH ON SECOND LANGUAGE 
+ACQUISITION 
+
+On the theory side, SLA research in the United 
+States has tended to be tied either to linguistics or to 
+psychology, and the tendency has often been to "apply" 
+a theoretical model derived from quite different contexts 
+of language use rather than to deal with SLA phenom- 
+ena as the source for theory construction. Interestingly, 
+the USSR (and prerevolutionary Russia) has had the 
+same pattern of theory application from linguistics and 
+psychology (Pitthan 1988) and has experienced the same 
+failure to coi\struct theories that start from SLA, although 
+the i>attems of teaching and learning FLs in the Soviet 
+Union are dramatically different from those in the United 
+States. 
+
+Research Paradigms 
+
+Over the past decade and a half, research on second 
+language acquisition has burgeoned to the point where 
+even a brief lay-of-the-land discussion becomes a formi- 
+dable task. A cursory review of several recent textbooks 
+in the field reveals numerous approaches that have 
+variously been lateled "theories," "models," or "hy- 
+potheses" of SLA. The acculturation model or pidginiza- 
+tion hypothesis and the monitor model are listed by 
+Gardner (1985), Ellis (1985a), Klein (1986) and McLaugh- 
+lin (1987). Ellis and McLaughlin list the universal hy- 
+pothesis, which seems to be similar to Klein's identity 
+
+
+
+Charles Ferguson and Them Huebner NFLC Occasional Papers, January 1989 3 
+
+
+
+6 
+
+
+
+hypothesis. In addition, Ellis includes accommodation 
+theory, discourse theory, a variable competence model, 
+and a neurofunctional model. McLaughlin covers what 
+he calls cognitive theory, while in Klein we also find 
+contrastive analysis and learner varieties, wliich seems 
+akin to what others have referred to as "intsrianguage 
+studies" (cf. Long and Sato 1984). Gardner's review of 
+models from social psychology includes Carroll's con- 
+scious reinforcement mode!, Bialystok's strategy model, 
+Lamberf s social p^chological model, Qement's sodal 
+context model, and Giles and Bynves' intergroup model, 
+as well as his own socio-educational model. Yet to date, 
+there exists no comprehensive theory that captures all of 
+the various contexts of occurrence and products and 
+processes that have traditionally been the donuiins of 
+different "parent" disciplines. At the same time, while 
+the most immediate goal of SLA research is perhaps to 
+understand better those products and processes and the 
+effects of context on them, implicit in all of the research 
+are sometimes divergent long-term goals as well: to 
+contribute to the disciplinary bases through a greater 
+understanding of broader issues of the nature of lan- 
+guage and learning and, in the more "applied" sense, to 
+facilitate the language learning process itself. 
+
+This pluralism in SLA theory has been viewed 
+unfavorably in the field. Researchers seem to feel more 
+and more that the emergence of a single dominant SLA 
+paradigm would signal the maturation of the field as a 
+discipline (cf. Rutherford 1984, Long 1985, Gregg to 
+appear, and others). This view can probably be traced to 
+Kuhn's (1962) work. The Structure of Scientific Ret>olutions, 
+in which the sodal sciences are presented as being in a 
+pretheoretical state because, unlike the "mature" hard 
+sciences, they do not share an implicit and pervasive 
+commitment to a single set of assumptions about ques- 
+tions, topics, research sites, units of analysis, and meth- 
+ods of observation and analysis. 
+
+While recognizing the need for theory building, we 
+tend to side with Shulman, who has recently pointed out 
+that Kuhn erred (and we might add SLA is in danger of 
+erring) in "diagnosing this characteristic of the social 
+sciences as a developmental disability" (1986:4). He dtes 
+the philosopher of sdence Feyerabend, who says: 
+
+You can be a good empiridst only if you are prepared to 
+v^ork with many alternative theories rather than with a 
+single point of view and "experience." This plurality of 
+theories must not be regarded as a preliminary stage of 
+knowledge which will at some time in the future be 
+replaced by the One True Theory. (1970:14) 
+
+We do not mean to say that research on SLA should not 
+be theory driven. But Shulman raises an important caveat 
+against the potential tri^/ialization of the field by a single 
+paradigmatic view. While theory drives much of research 
+(some would say it should drive all research), there are 
+many kinds of theory that need to be taken into account 
+in SLA. 
+
+
+
+The name of the field of inquiry itself suggests need 
+for both a theory of language and a theory of learning. 
+Given the current state of linguistic theory in the United 
+States, one can find any number of competence and 
+performance models. The same could be said of learning 
+theory, although any theory of learning would necessar- 
+ily include some specification of an initial state, a motiva- 
+tion to learn, a specification of input, an acquisition 
+procedure, and a description of a desired state. In addi- 
+tion, researchers who deal in tutored contexts need a 
+model of teaching. Gosely related to all of these areas is a 
+theory of research design. In the following sections, we 
+review scn?e research on learning contexts, on the nature 
+of language, on the icquisition process, and on teaching 
+behaviors believed to fadlitate learning. 
+
+Learning Contexts 
+
+Several taxonomies for the contexts of teaching and 
+learning second languages are common in the literature. 
+Oi'ie involves the labels assigned to teaching methodol- 
+ogy. Some years ago, researchers hoped that a compari- 
+son of "methods" would lead to an optimal one for 
+language learning. That kind of research, which takes 
+method as the unit of analysis, has proven not very 
+fruitful. Several authors (Brumfit 1988, Larsen-Free* lan 
+1988, Long 1988) critique this line of research; we vvm not 
+review their arguments here. 
+
+Other taxonomic distinctions, however, pen*ist in 
+contemporary research. One is that between tutored and 
+untutored language learning. Another divides the second 
+language learning field into second language, foreign 
+language, and bilingual education. Both distinctions 
+implidtly reflect differences in degree, if not in kind, of 
+the processes and products under investigation. While 
+not disparaging the practical worth of these taxonomies, 
+they are useful orJy so long as the contextual features 
+used to form the bases of the taxonomies differ signifi- 
+cantly across categories and are suffidently uniform 
+within them. 
+
+One danger is that thes? taxonomic distinctions 
+nruiy obfuscate both cultural and indi\idual differences. 
+For example, DeKeysers (1986) description of the 
+learning strategies of a group cf American students in a 
+one-semester study abroad course in Spain will ring 
+familiar to anyone who has had experience with Ameri- 
+can students in similar programs, regardless of the host 
+country. At the same time, individual differences within 
+the group were striking, even though they were in the 
+same Fl program. 
+
+WiOiin the North American context, research on 
+these issues has tended to concentrate north of the U.S.- 
+Canada border. In his review of sodal psychology and 
+SLA, CJardner argues that, among the various individual 
+differences examined in the SLA literature, an integrative 
+motive (broadly defined) and 'language aptitude are the 
+only two individual differences wWch have been well 
+documented to date as being implicated in the language 
+
+
+
+NFLC Occasional Papers, January 1989 Charles Ferguson and Thorn Huehmr 
+
+7 
+
+
+
+learning process" (1985:83). He argues further that 
+changes in social attitudes may be affected by second 
+language learning experiences and that these changes are 
+perhaps greatest when programs involve novel experi- 
+ences of rather short duration, such as intensive bicultu- 
+ral experiences among students who maximize contacts 
+with native speakers or in short intensive programs. 
+
+From this perspective, if parents and community 
+play a role in socialization and the formation of attitudes, 
+they also influence the SLA process, Gardner states: 
+
+Second language acquisition takes place in a particular 
+cultural contexi . . . [Tlhe beliefs in the community con- 
+cerning the importance and meaningfulness of learning 
+the language, the nattire of the skill development ex- 
+pected, and the particular role of various individual 
+differences in the language learning process will affect 
+second language acquisition. (1985:146) 
+
+To the extent that Americans hold various "myths about 
+language," researchers would want to know what 
+communities expect of foreign language classrooms, 
+what Americans perceive as "good" in foreign languages, 
+and how these expectations become institutionalized. 
+These attitudes would have important implications for 
+language policy. Yet to date, most models of SLA emeig- 
+ing in the United States have tended to overlook individ- 
+ual and contextual differences in favor of other questions. 
+
+Formal theories of language: Studies that focus on 
+the nature of language include those within formalist 
+syntactic frameworks, such as Chomsky's government- 
+binding (GB)(1981), Perlmutter's (1983) relational 
+grammar, Bresnan's (1982) Lexical-Functional Grammar, 
+and Gazdar et al/s (1985) Generalized Phrase Structure 
+Grammar. Not all of these claim to have implications for 
+acquisition. For example, Gazdar et al. state with 
+reference to Generalized Phrase Structure Grammar, 
+
+In view of the fact that the packaging and public relations 
+of much recent linguistic theory involves constant 
+reference to questions of psychology, particularly in 
+association with language acquisition, it is appropriate for 
+us to make a few remarks about the connections between 
+the claims we make and issues in the psychology of 
+language. We make no claims, naturally enough, that our 
+grammatical theory is eo ipso a psychological theory. Our 
+grammar of English is not a theory of how speakers think 
+up things to say and put them into words. Our general 
+linguistic theoiy is not a theory of how a child abstracts 
+from the surrounding hubbub of linguistic and nonlin* 
+guistic noises enough evide ice to gum a mental grasp of 
+the structure of a natural langiiage. Nor is it a biological 
+theory of the structure of an as-yet-unidentified mental 
+organ. It is irresponsible to claim otherwise for theories of 
+this general sort. (1985:5) 
+
+Other theories, such as Lexical Functional Grammar 
+(LEG), have not yet been applied to SLA, although 
+
+
+
+Pinker's work (1984) within an LFG framework on first 
+language acquisition portends that it will. Rosen (1987) 
+explores the implications between Relational Granunar 
+and SLA. While Newmeyer (1987) points out that many 
+of the assumptioi\s of these frameworks are converging, 
+the bulk of the work on SLA within formal theories of 
+grammar reflects a strong commitment to government- 
+binding, and has focused solely on linguistic aspects of 
+initial and final state. A clear articulation of this position 
+is foimd in Gregg (to appear). 
+
+The argument about SLA theory seems to be as 
+follows. Since they don't have a complete theory of 
+language, researchers can't look at language acquisition. 
+Instead they should look at the acquisition of linguistic or 
+p;ranunatical competence (the terms are used inter- 
+changeably throughout our paper). Granunatical compe- 
+tence is defined as our intuitive knowledge of the syntax, 
+phonology, and to some extent semantics of the language 
+in question. One assumption within this framework is 
+that grammatical competence is independent of language 
+use and involves a mental system tliat is quite separate 
+from pragmatic knowledge, conceptual knowledge, 
+perception, and other human faculties. This has been 
+called the autonomous natu.re of grammar. At the same 
+time, one sense in which language is perceived to be 
+modular is that its use results from the interaction of 
+linguistic competence with other mental faculties or 
+modules, involving, for example, pragmatic knowledge, 
+conceptual knowledge, and perception. 
+
+Gregg's rather strong position is that SLA should be 
+centrally concerned with the acquisition of linguistic 
+competence. In addition to providing a sense of direc'ion 
+to the field of SLA, such an orientation would bring other 
+advantages to the field, he maintains: a "rigor" inherent 
+in formal approaches and a knowledge of what is innate 
+in language and what is acquired. 
+
+These apparent advantages can also be seen as 
+problematic areas for formal approaches as well. To date, 
+agreement on the relevant parameters and their levels of 
+expansion is far from universal. For example, working 
+within a GB framework, Huang (1982) and Koopman 
+(1984) offer differing explanations for head di'-ection in 
+Chinese, which, as has been pointed out in the literature 
+(Eubank 1988; Bley-Vroma;t and Chaudron 1987; Klein 
+1987), have different effects on the interpretation of SLA 
+data. 
+
+A second problem involves the tapping of ^ 
+learner's intuitions about a second language. Coppiwters 
+(1987) argues that the linguistic competence of even very 
+fluent second language sj)eakers differs in unexpected 
+ways from that of native speakers. Furthermore, 
+Birdsong (1988) points out that, while such research 
+intends to describe the learner's grammatical competence 
+at any given point in time as evidenced by intuitions 
+about the second language, the interaction of multiple 
+cognitive mechanisms (modularity) makes it difficult to 
+base judgments about underlying linguistic competence 
+
+
+
+Charles Ferguson and Thorn Huebner NFLC Occasional Papers, January 1989 5 
+
+
+
+ERIC 
+
+
+
+8 
+
+
+
+on performance data such as imitation tasks. 
+
+A final problem to which formalist theories have 
+given little attention is the process of acquisition, either 
+in the sense of accounting for how a learner is "driven" 
+from one stage of knowledge to another, or in the sense 
+of providing a theory of the actual time course of acquisi- 
+tion. As Marshall (1979) points out and Berwick and 
+Weinberg (1986) reiterate, "No one has seriously at- 
+tempted to specify a mechanism that ^drives' language 
+acquisition through its stages' or along its continuous 
+function" (Marshall 1979:443). That is, it is not always 
+clear what the learning process includes, how learners' 
+linguistic competence changes from time 1 to time 2. For 
+example, in distinguishing between the acquisition of 
+linguistic competence and communicative competence, 
+Gregg writes of his own experiences: 
+
+Japanese is a pro-drop langtiage, and knowing that, I drop 
+pronouns left and right — including at times when a 
+native speaker would not. That is to say that 1 don't yet 
+know the discourse restraints (at least) on pronoun- 
+dropping in Japanese, and thus my "communicative 
+competence" is not up to native standards, (to appear: 34 
+35) 
+
+Apparently, tltis model views the acquisition of linguistic 
+competence as instantaneous. Variation is a matter of 
+pragmatic competence, clearly out of the realm of legiti- 
+mate inquiry for those interested in the acquisition of 
+syntax. 
+
+Functionalist approaches to language: While 
+formalist approaches to SLA are primarily concerned 
+with the learner's state of grannmatical competence, as 
+exemplified through intuitive judgments of grammatical- 
+ity, other researchers have focused more on the process 
+of acquisition (that is, moving from one state to another) 
+as revealed through the system, variability, and change 
+in the learner's production and comprehension. At the 
+risk of oversimplifying, we might call much of this 
+research "functionalist." 
+
+As an approach to the study of language, function- 
+alism traces its roots to European scholars. In the United 
+States it does not represent a single unified theory so 
+much as an emerging school of thought that defines 
+beginning assumption-;, proper goals, and interpretive 
+conceptions for investigations. Nor is it in principle, as 
+Kuno (1987:1 ) points out, in conflict with current formal 
+models of grammar such as government-binding. How- 
+ever, some beginning assumptions of this approach do 
+part ways with those of most formal theories in impor- 
+tant respects, and these differences have implications for 
+the ways research is conducted. 
+
+While most functionalists recognize language as a 
+biological system, in ',his view, the innate capacities th^t 
+account for language ability are not necessarily domain- 
+specific (autonomous). A commonly held goal within this 
+research program is to uncover more general universal 
+
+
+
+cognitive abilities which underlie language use and 
+acquisition. Grammar is seen as a solution to the problem 
+of mapping nonlinear representations on a linear 
+channel. 
+
+Following from that view of grammar, most func- 
+tionalist approaches object to the formal separation of 
+morphosyntax (or grammar) from semantics and prag- 
+n\atics. The conrunon view is that all aspects of language, 
+including acquisition, are driven by conrununicative need. 
+MacWhinney, Bates, and Kliegl (1984) write: "Thz forms 
+of natural languages are created, governed, constrain>?d, 
+acquired, and used in the service of communicative 
+functions." 
+
+From this perspective, any explanation of linguistic 
+phenomena cannot exclude semantic and pragmatic 
+considerations. Silva-<Iorval4n makes this claim most 
+explicit in her discussion of Muysken's (1981) hierarchy 
+of markedness for tense as applied to data on language 
+attrition: "In my view of language as a system of human 
+conronunication, to be explanatory, a markedness hierar- 
+chy needs to be justified with reference to factors which 
+lie outside the linguistic system, namely cognitive and 
+interactional factors" (1987:14). 
+
+These assumptions have implications for what is 
+deemed legitimate terrain for second language acquisi- 
+tion research. Rather than an overriding concem with 
+abstract formulations of linguistic competence, SLA 
+researchers working, either explicitly or implicitly, within 
+this framework have been concerned with the production 
+of discourse rather than clause length phenomena (e.g. 
+Hatch 1978,Tomlin 1984), with intra-speaker variation 
+(e.g. Tarone 1984, Ellis 1985b), with changes over time as 
+exemplified by learner production of naturally occurring 
+speech (e.g. Huebner 1983, Sato 1985), v^rlth the nature of 
+linguistic input (e.g. Chaudron 1985), and with strategies 
+employed for comprehension and production (Faerch 
+and Kasper 1987, Chamot et al. 1988). 
+
+This more general approach also has its problems. 
+Its emphasis on language in use has often resulted in a 
+failure to tap the full range of what a leame r "knows" 
+about the language being acquired. In addition, often 
+research of this type has not clearly articulated the 
+relationship between aspects of language u^ and acqui- 
+sition of specific features of a given linguistic system. 
+Finally, as Gregg (to appear) justifiably points out, it has 
+often failed to distinguish between what learners do 
+because they are not fully proficient in the target lan- 
+guage and what they do by virtue of being human. 
+
+Given the current state of affairs of all linguistic 
+theories, the prospects are as promising for SLA to 
+contribute to them as vice versa. While one finds numer- 
+ous claims that SLA is in fact doing so, to date the 
+research in this field has been more of a confirmatory 
+nature (cf. Huebner 1987). 
+
+Models of Learning 
+
+Another large body of SLA research on the Ameri- 
+
+
+
+NFLC Occasional Papers, January 2989 diaries Ferguson and Thorn Huebner 
+
+
+
+ERLC 
+
+
+
+9 
+
+
+
+can scene has focused on the learning and teaching of 
+second languages. Work in social psychology, such as 
+Gardner's (1985) and Giles and Byrne's (1982), looks at 
+motivation and larger sodal variables in second language 
+learning; other research has drav^ heavily on interac- 
+tional models of discourse to isolate those features of 
+interaction that presumably facilitate learning. The most 
+comprehensive published review is (Hiaudron's Second 
+Language Classrooms: Research on Teaching and Learning 
+(1938). Here we highlight some conclusions that can be 
+drawn from it. First, while correlations can be found 
+between, for example, 
+
+1. nK>difications in teacher talk and in-dass versus 
+
+outK)f-dass interaction 
+
+2. input generation and profiden*?/ 
+
+3. task type and type or amount of interaction 
+
+4. amount of teacher talk and Janguage proficiency 
+
+of learners 
+
+5. learner production and achievement test scores 
+
+6. Jeamers' negotiation behaviors and profidency, 
+there is little study of the causal relationship between the 
+members of these pairs. Second, the vast majority of the 
+studies dted in Chaudron, and presumably the hulk of 
+the research in this area, look at English as a second 
+language dassrooms. Few studies focus on the range of 
+teacher and student behaviors and interaction patterns in 
+FL classes in the United States. Third, the bulk of the 
+studies dted in Chaudron are of the process-product, or 
+more accurately the pseudo-process-produa, variety, 
+^^ery few classroom<entered qualitative studies of SLA, 
+and virtually none of FL acquisition, exist. 
+
+
+
+Finally, there are few studies that take a program- 
+matic look at instructional programs, espedally with 
+respect to FL teaching and learning in the Uniied States. 
+For example, most imiversity-level FL programs offer 
+courses such as "Advanced Conversation" and "Gram- 
+mar Review," which are usually offered to students at 
+spedfic junctures in their language learning careers. Yet 
+little research of which we are aware carefully examines 
+either instructional goals and outcomes in these "special- 
+ized" language courses or the assumptions about FL 
+leanung that motivate their indusion at those junctures. 
+
+CONCLUSIONS 
+
+We have tried to present a picture of the context of 
+SLA research in the United States, and to outline broadly 
+and critique briefly some of the major research trends in 
+the field today within that context. What emerges is a 
+complex picture of the acquisition process, as seen by 
+researchers from various persuasions. To deal with this 
+complex phenomenon, Huebner (1987) has called for the 
+emergence of more complex research designs and 
+research programs in SLA that include experiment and 
+ethnography, quantitative and case studies. Such ap- 
+proaches cany with them the serious daisger of disinte- 
+grating into utter chaos without a careful articulation of 
+the questions asked and the types of knowledge pro- 
+duced. The alternative, however, would be to reduce the 
+richness of the fidd to "nothing more than the atomism 
+of a multiple variable design" (Shulman 1985), and that, 
+in our view, would be even worse. 
+
+
+
+ERIC 
+
+
+
+Charles Ferguson and Thorn Huebner NFLC Occasional Papers, January 1989 
+
+
+
+10 
+
+
+
+REFERENCES 
+
+
+
+Berwick, R. C, and A. S. Weinberg. 1986. The grammatical basis of linguistic performance: Langmge use and acquisition. 
+Cambridge: MIT Press. 
+
+Birdsong, D. 1988. Second-language acquisilion theory and the logical problem of the data. Paper presented at the eighth 
+
+Second Language Research Forum, University of Hawaii at Manoa, March. 
+Bley-Vroman, R., and C. Chaudron. 1987. A critique of Flynn's parameter setting model of second language acquisition. 
+
+Unpublished manuscript. University of Hawaii at Manoa. 
+Bresnan, J. 1982. The mental representation ofgrammaticcl relations. Cambridge: MIT Press. 
+
+Brumfit, C. 1988. Problems in defining instructional methodologies. Paper presented at the conference on Empirical 
+
+Research on Second Language Learning, Bellagio, Italy, June. 
+Campbell, R. N., and S. Schnell. 1987. Language conservation. Annals of the American Academy of Political and Social 
+
+Scir.icfis 490:177-85. 
+
+Qianrot, A. U., J. M. CMalley, and L. Kupper. 1988. Learner strategies for listening comprehension in Enghsh as a 
+
+second language. Paper presented at the American Educational Research Association Annual Meetings. New 
+Orleans, April. 
+
+Chaudron, C. 1985. Intake: on models and methods for discovering learners' processing of input. Studies in Second 
+Language Acquisition 7,1:1-14. 
+
+Chaudron, C. 1988. Second language classrooms: Research on teaching and learning. Cambridge: Cambridge University Press. 
+Chomsky, N. 1981 Lectures on government and binding. Dordrecht: Foris Publications. 
+Coppieters, R. 1987. Competence differences between native and near-native speakers. Language 63,3: 544-73. 
+DeKeyser, R. M. 1986. From learning to acquisition? Foreign language development in a U.S. classroom and during a semester 
+
+abroad. Ph.D. dissertation, Stanford University. 
+Ellis, R. 1985a. Understanding second language acquisition. Oxford: Oxford University Press. 
+Ellis, R. 19&5b. Sources of variability in interianguage. Applied Linguistics 6,2: 118-31. 
+
+Eubank, L. 1988. Parameters in L2 learning: Hynn revisited. Paper presented at the eighth Second Language Research 
+
+Forum, University of Hawaii at Manoa, March. 
+Faerch, C, and G. Kasper. 1987. The role of comprehension in second-language learning. Applied Linguistics 7,3: 257-74. 
+Ferguson, C. A., and S. B. Heath. 1981. Introduction. In C. A. Ferguson and S. B. Heath (Eds.), Language in the USA. 
+
+Cambridge: Cambridge University Press. 
+Feyerebend, P. 1974. How to be a good empiricist — a plea for tolerance in matters epistemo logical In P. H. Hidditch 
+
+(Ed.), The philosophy of science. Oxford: Oxford University Press, pp. 12-39. 
+Fishman, J. A. 1980. Ethnic community mother tongue schools in the USA: Dynamics and distributions. International 
+
+Migration Review 14:235-47. 
+Fishman, J. A. et al. 1966. Language byalty in the United States. The Hague: Mouton. 
+
+Gardner, R. C. 1985. Social psychobgy and second language learning: The role of attitudes and motivation. Baltimore: Edward 
+Arnold. 
+
+Cazdar, G. et al. 1985. Generalized phrase structure grammar. Oxford: Basil Blackwell. 
+
+Giles, H., and J. L. Byrne. 1982. An intergroup approach to second language acquisition. Journal of Multicultural and 
+
+Multilingual Development 3,1: 17-10. 
+Gregg, K. R. To appear. Linguistic p)erspectives on second language acquisition: What could they be, and where can we 
+
+get some? In S. M. G^s and J. Schachter (Eds.), Second language p^juisitiorv A linguistic perspective. Cambridge: 
+
+Cambridge University Press. 
+
+Hatch, E. M. 1978. Discourse analysis and second language acquisition. In E. M. Hatch (Ed.), Second language acquisition: 
+
+A book of readings. Rowley, MA: Newbury House. 
+Huang, C. J. 1982. Logical relatbns in Chinese and the theory of grammar. Ph.D. dissertation, Massachusetts Institute of 
+
+Technology. 
+
+Huebner, T. 1983. Alongitudinal analysis of the acquisition of English. Ann Arbor: Karoma. 
+8 Nf iC Occasional Papers, January 1989 Charles Ferguson and Thorn Huebner 
+
+
+
+11 
+
+
+
+Huebner, T. 1987. SLA: a litmus test for linguistic theory? Paper presented at the conference on Second Language 
+
+Acquisition: Contributions ^nd Challenges to Linguistic Theory, Stanford University, July. 
+Klein, Vv. 1986. Second language acquisition. Cambridge: Cambridge University Press. 
+
+Klein, W. 1987. SLA theory: prolegomena to a theory of language acquisition and i nplications for theoretical linguistics. 
+
+Paper presented at the conference on Second I-anguage Acquisition: Contributions and Challenges to 
+
+Linguistic Theory, Stanford University, July. 
+Koopman, H. 1984. The syntax of verbs. Dordrecht: Foris Publication;. 
+Kuhn, T. S. 1962. The structure of scientific revolutions. Chicago: Univr.rsity of Chicago Press. 
+Kuno,S. 1987. FuTu:tioTuds}fntar Anaphora, discourse and empathy. Chicago: University of Chicago Press. 
+Lambert, R. D. 1987. The improveme^at of foreign language competence in the United States. Annals of the American 
+
+Academy of Political and Social Science 490:9-19. 
+Larsen-Freeman, D. 1988. Research on language teaching methodologies: a review of the past and an agenda for the 
+
+future. Paper presented at the conference on Empirical Research on Second Language Learning, Bellagio, 
+
+Italy, June. 
+
+Long, M. 1985. TTieory construction in second language acquisition. Paper presented at the sixth Second Language 
+
+Research Forum, Univeraty of California at Los Angeles, February. 
+Long, M. 1988. Focus on form: a design fe? ture in language teaching methodology. Paper presented at the conference on 
+
+Empirical Research on Sea)nd Language Learning, Bellagio, Italy, June. 
+Long, M., and C. Sato. 1984. Methodological issues in interlanguage studies: an interactionist perspective. In A. Davics, 
+
+C. Criper, and A. P. R. Howatt (Eds.), Interlanguage. Edinburgh: Edinburgh University Press, pp. 253-79. 
+MacWhinney, B., E. Bates, and R. Miegl. 1984. Cue validity and sentence interpretation in English, German, and Italian. 
+
+Journal of Verbal Learning and Verbal Behavior 23,1: 127-50. 
+Marshall, J. C. 1979. Language acquisition in a biological frame of reference. In P. Fletcher and M. Carman (Eds.), 
+
+Language acquisition. New York: Cambridge University Pre^, pp. 437-53. 
+McLaughlin, B, 1987. Theories of second language learning. London: Edward Arnold. 
+
+Muysken, P. 1981. Creole tense/mood/aspect systems: the immarked case? In P. Muysken (Ed.), Generative studies on 
+
+Creole languages. Dordrecht: Foris Publications, pp. 181-99. 
+Newmeyer, F. J. 1987. The current convergence in linguistic theory: Some implications for second language acquisition 
+
+research. Second Language Research 3,1: 1-19. 
+Oxford, R L., and N. C. Rhodes. 1988. U.S. foreign language instruction: Assessing needs and creating an action plan. 
+
+ERICICLL News BulleHn 11,2:1, 6-7. 
+Perlmutter, D. 1983. Studies in relational grammar I . Chicago: University of Qucago Press. 
+Pinker, S. 1984. Language leamability and language development. Cambridge: Harvard University Press. 
+Pitthan, L M. 1988. A history of Russian/Soviet ideas about language: Background to Soviet foreign language pedagogy. 
+
+Unpublished Ph.D. dissertation, Stanford University. 
+Rosen, C. 1987. Relational grammar and SLA. Paper presented at the conference on Second Language Acquisition: 
+
+Contributions and Challenges to Linguistic Theory, Stanford University, July. 
+Rutherford, W. E. 1984. Description and explanation in interlanguage syntax: state of the art. Language Learning 34,3: 127- 
+
+55. 
+
+Ryan, E. B., and H. Giles (Eds.). 1982. Attitudes toward language variation Social and applied contexts. London: Edward 
+Arnold. 
+
+Sato, C. J. 1985. The syntax of conversation in interlanguage development. Unpublished Ph.D. dissertation. University of 
+California at Los Angeles. 
+
+Shulman, L. 1986. Paradigms and research programs in the study of teaching: A contemporary perspective. In M. C. 
+
+Wittrock (Ed.), Handbook of research on teaching (3rd ed.). New York: MacMillan Publishing Company, pp. 3-36. 
+Silva-CorvalSn, C. 1987. Cross-generational bilingualism: theoretical implicatiOiis of language attrition. Paper presented 
+
+at the conference on Second Language Acquisition: Contributions and Challenges to Linguistic Theory, 
+
+Stanford University, July. 
+
+Tarone, E. 1984. On the variability of interianguage systems. In F. R. Eckman, L. H. Bell, and D. Nelson (Eds.), Universals 
+
+of second language acquisition. Rowley, MA: Newbury House. 
+TonJin, R. S. 1984. The treatment of foreground-background information in the on-line descriptive discourse of second 
+
+language learners. Studies in Second Language Acquisition 6,2: 115-42. 
+Veltmon, C. 1983. Language shift in America. Berlin, etc.: Mouton. 
+
+Waggoner, D. 1981. Statistics on language use. In C. A. Ferguson and S. B. Heath (Eds.), Language in the USA. Cambridge: 
+Cambridge University Press. 
+
+
+
+Charles Ferguson and Thorn Huebner NFLC Occasional Papers, January 1989 
+
+ERJC 12 
+
+
+
+About the National Foreign Language Center 
+
+The National Foreign Language Center (NFLC) is dedicated to 
+improving the foreign language competency of Americans. NFLC emphasizes 
+the formulation of public policy to make our language teaching systems 
+responsive to national needs in international competitiveness and foreign 
+relations. Its primary tools in carrying out this objective are: 
+
+•Surveys— NFLC conducts surveys to collect previously imavailable 
+information on issues concerning national strength and productivity in foreign 
+language instruction, and our foreign language needs in the service of the 
+economic, diplomatic, and secrrity interests of tne nation. 
+
+•National Policy Plarmin^^ Groups — In order to address major foreign 
+language policy issues, NFLC convenes national planning groups that bring 
+together users of foreign language services and representatives of the lan- 
+guage instructional delivery systems in formal education, tuj government, 
+and the for-profit sector. 
+
+•Research— NFLC conducts research on innovative, primarily individ- 
+ual-oriented strategies of language learning to meet the nation's foreign 
+language needs of the future. 
+
+The results of these surveys, discussions, and research are made avail- 
+able through the NFLC ; publications, such as these Occasional Papers, and 
+they form the basis of fresh policy recommendations addressed to national 
+leaders and decision-irukers. 
+
+NFLC was established in 1987 as part of The Johns Hopkins University 
+with funding from four private foundations: The Exxon Education Founda- 
+tion, the Ford Foundation, the Andrew W. Mellon foundation and the Pew 
+Memorial Trusts. 
+
+
+
+13 
+
+
+

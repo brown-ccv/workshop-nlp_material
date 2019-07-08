@@ -1,0 +1,2840 @@
+DOCUMENT RESUME 
+
+
+
+ED 456 542 
+
+
+
+EA 031 241 
+
+
+
+PUB DATE 
+NOTE 
+
+
+
+CONTRACT 
+AVAILABLE FROM 
+PUB TYPE 
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+AUTHOR 
+
+TITLE 
+
+
+
+SPONS AGENCY 
+
+
+
+IDENTIFIERS 
+
+
+
+INSTITUTION 
+
+
+
+Biemesderfer , Susan 
+
+Building on What We Have Learned: A National Dialogue on 
+Standards-Based Education. 
+
+North Central Regional Educational Lab., Oak Brook, IL. ; 
+Berkana Inst., Provo, UT.; Mid-Continent Research for 
+Education and Learning, Aurora, CO. 
+
+Office of Educational Research and Improvement (ED) , 
+Washington, DC. 
+
+2001-03-00 
+
+2 8p . ; Version 1. The most recent version located online at 
+the National Dialogue Web site. 
+
+ED- 01- CO- 0011; ED- 01 -CO- 0006 
+
+For full text: http://www.nationaldialogue.org. 
+
+Opinion Papers (120) -- Reports - Descriptive (141) 
+
+MF01/PC02 Plus Postage. 
+
+* Academic Standards; *Educational Change; Elementary 
+Secondary Education; *Standardized Tests 
+
+Berkana Institute; Mid Continent Research for Education and 
+Learning; North Central Regional Educational Laboratory 
+
+
+
+ABSTRACT 
+
+
+
+Three nonprofit organizations support a dialogue on 
+
+
+
+standards-based educational reform. North Central Regional Education 
+Laboratory, Mid-Continent Research for Education and Learning, and the 
+Berkana Institute offer Web sites and a toll-free number to those who want to 
+comment on this type of reform. In surveys, a clear majority of parents feel 
+that testing to identify students who need help and to publish school's 
+scores for comparison are appropriate uses of standards tests. However, even 
+more parents are against using the score on one test as the criterion for 
+promotion to the next grade or for graduation. In high-stakes assessment, 
+teacher's jobs and students' promotion are at risk. Teachers have to be 
+apprised of the contents of the tests given in order to even attempt to teach 
+to the test. Another major concern is equity. African American, Hispanic, and 
+Native American students tend to perform at lower academic levels than whites 
+and Asian/Pacific Islanders on most standardized measures of achievement. 
+High- stakes testing policies may increase education inequity between whites 
+and minorities or between affluent and impoverished students, perhaps 
+increasing dropout rates. Possibly standards scores will prod schools to 
+target resources where they are needed most. Potential topics to address, 
+suggested questions, and recommendations from research literature are 
+offered, along with a glossary and suggested reading. An appendix traces the 
+history of this type of reform from 1983. (RJK) 
+
+
+
+Reproductions supplied by EDRS are the best that can be made 
+from the original document. 
+
+
+
+ED 45 
+
+
+
+Building on What We 
+Have Learned 
+
+A National Dialogue on Standards-Based Education 
+
+
+
+
+U.S. DEPARTMENT OF EDUCATION 
+Office of Educational Research and Improvement 
+EDUCATIONAL RESOURCES INFORMATION 
+/ CENTER (ERIC) 
+
+0 This document has been reproduced as 
+received from the person or organization 
+originating it. 
+
+□ Minor changes have been made to 
+improve reproduction quality. 
+
+
+
+L 
+
+
+
+Points of view or opinions stated in this 
+document do not necessarily represent 
+official OERI position or policy. 
+
+
+
+by Susan Biemesderfer 
+
+
+
+In our judgment, this docunnent 
+is also of interest to the 
+Clearinghouses noted to the right. 
+Indexing should reflect their^ 
+special points of view. 
+
+
+
+NCR6L HBREL 
+
+
+
+
+North Central Regional 
+O ’ >nal Laboratory 
+
+ERIC 
+
+
+
+Mid-continent Research 
+for Education and Learning 
+
+2 
+
+
+
+b47 
+
+The Berkana Institute 
+
+
+
+BEST COPY AVAILABLE 
+
+
+
+Building on What We Have Learned: 
+
+A National Dialogue on 
+
+
+
+by Susan Biemesderfer 
+
+
+
+Version 1* 
+March 2001 
+
+
+
+*This document also exists in an electronic format. The most recent version is located online at the 
+National Dialogue Web site (www.nationaldialogue.org) and contains links to the articles and research 
+studies referenced. 
+
+
+
+ERIC 
+
+
+
+3 
+
+
+
+For more information about the National Dialogue on Standards-Based Education, 
+visit the National Dialogue Web site at www.nationaldialogue.org. 
+
+
+
+North Central Regional Educational Laboratory 
+1120 East Diehl Road, Suite 200 
+Naperville, Illinois 60563 
+(800) 356-2735 (630) 649-6500 
+www.ncrel.org 
+
+
+
+Mid-continent Research for Education and Learning 
+
+2550 South Parker Road, Suite 500 
+
+Aurora, Colorado 80014-1678 
+
+(303) 337-0990 
+
+www.mcrel.org 
+
+
+
+The Berkana Institute 
+P.O. Box 1407 
+Provo, Utah 84603 
+(801) 377-2996 
+www.berkana.org 
+
+
+
+Copyright © 2001 by the North Central Regional Educational Laboratory, the Mid-continent Research for 
+Education and Learning, and The Berkana Institute. All rights reserved. 
+
+This work was produced in whole or in part with funds from the Office of Educational Research and 
+Improvement (OERI), U.S. Department of Education, under contract numbers ED-01-CO-0011 and 
+ED-01-CO-0006. The content does not necessarily reflect the position or policy of OERI or the Department 
+of Education, nor does mention or visual representation of trade names, commercial products, or organiza- 
+tions imply endorsement by the federal government. 
+
+
+
+NCR€L 
+
+
+
+
+B 
+
+
+
+
+ERIC 
+
+
+
+4 
+
+
+
+
+on 
+
+
+
+
+
+
+
+Here’s what we believe: A tremendous 
+amount of energy in this country is being 
+focused on whether or not standards-based 
+educational reform has made an impact in 
+the manner in which it was intended— 
+namely, helping all students achieve to high 
+levels. 
+
+This issue has deep roots and often polar- 
+izes communities, but it also has spurred 
+some unique and promising partnerships. 
+One such partnership has grown among 
+NCREL, McREL, and the Berkana 
+Institute— three not-for-profit organizations 
+dedicated to quality public education for all 
+of our children. 
+
+Our organizations have committed to start- 
+ing and supporting real dialogue about 
+standards-based educational reform among 
+people with diverse and often dissenting 
+voices. Our hope is that together we will 
+recognize common ground and begin to gen- 
+erate action steps and measurable outcomes 
+that significantly improve opportunities to 
+learn for all children. We hope that these 
+dialogues— planned at national, state, and 
+local levels— will create and sustain 
+momentum for change. 
+
+As one product of our growing relationship 
+around this reform effort, this monograph 
+is intended to provide information to help 
+you explore both sides of the standards 
+issue. It is by no means a comprehensive 
+report; rather it’s a very traditional means 
+to tweak your interest, encourage you to 
+raise important questions, and inspire you 
+to let your voice be heard. 
+
+
+
+The National Dialogue sessions, while 
+thoughtfully and deliberately planned, will 
+be structured in a way that many partici- 
+pants may not find familiar, traditional, or 
+even comfortable. Purposefully, these con- 
+versations will compel you to reflect on your 
+beliefs about public education and the role 
+that standards play within this system. You 
+will be challenged to look deeply at the con- 
+sequences of this reform effort— both the 
+intentional and unintentional impacts on 
+children, classrooms, and schools. 
+
+We are certain that this conversation will 
+grow from community to community, 
+because at its heart is the welfare of our 
+children’s future. We also believe that 
+these conversations have the potential to 
+shift our thinking and reactions away from 
+blame and apathy toward positive action 
+that will make a real difference for children. 
+
+We look forward to meeting each of you. 
+
+Gina Burkhardt, Executive Director 
+North Central Regional Educational 
+Laboratory (NCREL) 
+
+Tim Waters, Executive Director 
+Mid-continent Research for Education 
+and Learning (McREL) 
+
+Myron Kellner-Rogers, Cofounder 
+The Berkana Institute 
+
+
+
+O 
+
+ERIC 
+
+
+
+5 
+
+
+
+Contents 
+
+Why This Dialogue? Our Purpose, Plan, and Partners 1 
+Overview 1 
+The Plan 2 
+Digital Strategy 2 
+How to Participate 2 
+Our Partners 3 
+
+Moving the Dialogue Forward 3 
+
+Framework for Progress: More on Dialogue 3 
+Ground Rules for Dialogue 4 
+
+More Context for the Dialogue on Standards, High-Stakes Testing, 
+and Acountability 5 
+
+The Big Picture 5 
+
+What This Means for Teaching and Learning 6 
+Accountability and High-Stakes Testing 7 
+The Opportunity to Learn: Equity Issues 8 
+
+Questions and Recommendations 10 
+
+Questions to Address Regarding Standards, High-Stakes Testing, 
+and Accountability 10 
+
+Recommendations from the Literature 11 
+Breaking It Down: Definitions for Dialogue 12 
+References 13 
+Additional Reading 15 
+Appendices 16 
+
+Appendix A. The Road to Standards: A Brief History of Standards-Based 
+Educational Reform 16 
+
+Appendix B. National Dialogue Planning and Advisory Team Members 22 
+
+
+
+
+6 
+
+
+
+Why This Dialogue? Our Purpose, Plan, and Partners 
+
+
+
+Overview 
+
+During the past two decades, the quality of 
+public education in America has been the 
+focus of unprecedented study, debate, and 
+legislative activity nationwide. The impetus 
+for much of this activity was the “rising tide 
+of mediocrity” cited in A Nation at Risk: 
+
+The Imperative for Educational Reform 
+(National Commission on Excellence in 
+Education, 1983, p. 5). As a result, educa- 
+torsj parents, and policymakers have devot- 
+ed much time, discussion, and hard work to 
+improving educational opportunities for 
+children. 
+
+Today, in the wake of concerns about educa- 
+tion that echoed throughout the 1980s— and 
+reforms proposed and implemented 
+throughout the 1990s— most of us involved 
+with public schools are navigating our way 
+through a variety of changes in policies, 
+expectations, and everyday practices. In 
+particular, the use of standards has been 
+advocated to ensure that all students reach 
+high levels of learning. 
+
+Subject-matter experts nationwide have 
+identified achievement standards in subject 
+areas ranging from English, mathematics, 
+and science, to dance, theater, and art. 
+
+Those standards, in turn, have served as a 
+foundation for new classroom curricula— as . 
+well as assessment and accountability 
+systems— in districts and states across the 
+country. (For a complete timeline and history, 
+see Appendix A, The Road to Standards : A 
+Brief History of Standards -Based 
+Educational Reform.) Educators who are 
+implementing standards in the classroom 
+have experienced both the joys and the 
+frustrations of standards-based education 
+(see Mid-continent Research on Education 
+and Learning, 2000). 
+
+
+
+Standards-based reform initiatives have 
+met with both success and controversy. On 
+one hand, significant increases in student 
+achievement have been linked to standards- 
+based efforts. For example, a recent RAND 
+report (Grissmer, Flanagan, Kawata, & 
+Williamson, 2000) concluded that consider- 
+able increases in math test scores in certain 
+states could best be explained by an “inte- 
+grated set of policies involving standards, 
+assessment and accountability.” A 
+University of Texas study (Johnson & 
+
+Asera, 1999) also tracked similar progress 
+in nine high-performing, high-poverty 
+urban elementary schools. ’ 
+
+On the other hand, standards-based educa- 
+tional reform initiatives have been the 
+subject of ongoing debate. Criticisms about 
+reform efforts have ranged from practical 
+considerations (for example, teachers have 
+been overwhelmed by the sheer number of 
+standards) to concerns about socioeconomic 
+factors and how they play into growing 
+achievement gaps. Indeed, the parents, 
+educators, researchers, and policymakers 
+involved with reform initiatives often have 
+found themselves at odds with peers, neigh- 
+bors, public leaders, and other community 
+members. 
+
+The term education reform has evolved from 
+a well-intentioned concept to a politically 
+charged catchphrase. Many standards-based 
+assessment and accountability systems have 
+come under fire, particularly when the 
+stakes are high— for example, when stu- 
+dents may be held back a year or denied a 
+diploma based on test results. In February 
+2000, nearly 200 students in Chicago organ- 
+ized a “flunk-in” to protest the state’s stan- 
+dards-based test. In March 2000, a group of 
+high school students in Massachusetts boy- 
+cotted a statewide assessment. And in 
+
+
+
+0 
+
+
+
+*EL/McREL/Berkana 
+
+
+
+
+Version 1 
+
+
+
+7 
+
+
+
+March 2001 
+
+
+
+December 2000, the California State Board 
+of Education, fearing legal challenges to the 
+state’s new high school exit exam, voted to 
+request urgent legislation delaying the date 
+that the test becomes mandatory for stu- 
+dents (see Shafer, 2000). 
+
+Given this backdrop— where a movement 
+that arose from concern for children often 
+has been mired in division, polarization, 
+and politicization— the challenge is clear: to 
+raise the quality and productivity of public 
+discourse on education reform. To facilitate 
+this discourse, the National Dialogue on 
+Standards-Based Education has been created. 
+
+The Plan 
+
+The first meeting to launch the National 
+Dialogue is scheduled for April 19-21, 2001, 
+at the Ewing Marion Kauffman Foundation 
+in Kansas City, Missouri. The project and 
+the April session have been planned and 
+designed by an Advisory Team that includes 
+representatives from parent organizations, 
+student groups, educational organizations, 
+state departments of education, business 
+communities, policy organizations, the U.S. 
+Department of Education, and research and 
+development organizations. (Appendix B 
+provides a complete list of Advisory Team 
+members and their affiliations.) 
+
+We expect that the April meeting will be 
+the first of a series of regional and national 
+opportunities for dialogue. These events 
+will be unique. Unlike most conferences, 
+where experts typically present information 
+to attendees, the focus of these gatherings 
+will be on the participants. The meetings 
+will provide a setting for a variety of stake- 
+holders— including educators, parents, stu- 
+dents, researchers, and policymakers— to 
+share common experiences, success stories, 
+and frustrations. Using a few simple and 
+clear “ground rules for dialogue,” partici- 
+
+
+
+ICREL/McREL/Berkana 
+
+
+
+pants will determine the direction and focus 
+of their conversations. 
+
+In addition, we anticipate that some partici- 
+pants might decide to sponsor similar dia- 
+logue events within their own states, con- 
+stituencies, and local communities. For 
+example, a local group might decide to host 
+its own “town meeting” to share some of the 
+insights and information gleaned from a 
+National Dialogue event. 
+
+
+
+Digital Strategy 
+
+Our dialogues will be supported and 
+advanced by a comprehensive digital strategy. 
+Our Web site, www.nationaldialogue.org, 
+will provide easy, ongoing access to infor- 
+mation about upcoming events, as well as 
+an electronic library of research and media 
+reports about standards-based educational 
+reform efforts. The information will present 
+a balanced perspective, without bias toward 
+one school of thought or another. In addi- 
+tion, the site will enable visitors to share 
+information with other participants and to 
+take part in live, online dialogues. 
+
+Through this digital strategy, the National 
+Dialogue will have a presence that reaches 
+far beyond the launch event. It will be an 
+ongoing, evolving electronic venue for 
+exchanging ideas, concerns, success stories, 
+information, and resources. Online dialogue 
+participants also will have the opportunity 
+to receive e-mail alerts about upcoming 
+online events, including panel discussions 
+and discussions with guest experts. 
+
+How to Participate 
+
+If you would like to participate in the 
+National Dialogue on Standards-Based 
+Education, please contact us online through 
+our Web site at www.nationaldialogue.org or 
+through e-mail at dialogueinfo@mcrel.org. 
+
+
+
+
+March 2001 
+
+
+
+Version 1 
+
+
+
+You also may call our toll-free number, 
+1-877-846-2332. We will provide regular 
+updates on National Dialogue events and 
+activities. 
+
+Our Partners 
+
+Initial partners include the North Central 
+Regional Educational Laboratory (NCREL), 
+Mid-continent Research for Education and 
+Learning (McREL), and the Berkana 
+Institute. In addition, the Boston-based 
+public television station WGBH will be doc- 
+umenting certain aspects of the dialogue 
+process. As the dialogue progresses, we 
+anticipate that our group of partners and 
+sponsors will grow. 
+
+0 NCREL is a nonprofit organization 
+that provides research-based expertise, 
+technology resources, technical assis- 
+tance, and professional development 
+opportunities for teachers, administra- 
+tors, and policymakers throughout the 
+Midwest. Based in Naperville, Illinois, 
+and supported by the U.S. Department 
+of Education, NCREL serves a seven- 
+state region, including Illinois, 
+
+Indiana, Iowa, Michigan, Minnesota, 
+Ohio, and Wisconsin. The NCREL Web 
+site is located at www.ncrel.org. 
+
+0 McREL is a nonprofit organization 
+dedicated to improving education 
+through applied research and develop- 
+ment. Based in Aurora, Colorado, and 
+supported by the U.S. Department of 
+Education, McREL’s regional educa- 
+tional laboratory provides technical 
+assistance, professional development, 
+and other research-based services to 
+state and local education agencies in 
+Colorado, Kansas, Missouri, Nebraska, 
+North Dakota, South Dakota, and 
+Wyoming. The McREL Web site is 
+located at www.mcrel.org. 
+
+
+
+
+lEL/McREL/Berkana Version 1 
+
+
+
+° The Berkana Institute is a 501-C3 
+charitable educational and research 
+foundation based in Provo, Utah. The 
+Institute’s staff, led by founders 
+Margaret Wheatley and Myron 
+Kellner-Rogers, seeks to create com- 
+munities of support and inquiry to 
+explore new thinking and practice 
+about the organizing of human 
+endeavor. The Berkana Institute Web 
+site is located at www.berkana.org. 
+
+Moving the 
+Dialogue Forward 
+
+Framework for Progress: 
+
+More on Dialogue 
+
+We are building a partnership to do the 
+work we believe most needs to be done in 
+this arena: creating the right conditions for 
+stakeholders to discuss standards-based 
+educational reform, high-stakes testing, 
+and accountability. Our approach is rooted 
+in the value of bringing together people 
+with diverse points of view for thoughtful 
+conversation about a critical topic. 
+
+In this context, we use the word dialogue 
+quite deliberately. Dialogue is, by defini- 
+tion, an activity that requires a suspension 
+of judgment and, more important, a shared 
+pursuit of understanding and insights. In 
+fact, the Latin roots of the word emphasize 
+a focus on process and meaning: dia trans- 
+lates as “through”; logos translates as 
+“word” or “meaning.” 
+
+We are setting the stage for this dialogue 
+so that the information and solutions that 
+already exist within our participants’ expe- 
+riences and expertise will be shared. As 
+Margaret Wheatley (1999, p. 9) points out 
+in Bringing Schools Back to Life: Schools as 
+Living Systems: 
+
+
+
+9 March 2001 
+
+
+
+Living systems contain their own solu- 
+tions. When they are suffering in any 
+way— from divisive relationships, from 
+lack of information, from declining 
+performance— the solution is always 
+to bring the system together so that it 
+can learn more about itself from itself. 
+Somewhere in the system there are 
+people who have already figured out 
+how to resolve this problem. They are 
+already practicing what others think 
+is impossible. Or they possess infor- 
+mation which, if known more widely, 
+would help many others. 
+
+From a foundation of shared understanding 
+and insights, we can move forward to make 
+real progress. We hope this process may 
+lead to the kind of thoughtful focus 
+described by Jonathan Kozol (2000, p. vii) 
+in his foreword to the book Will Standards 
+Save Public Education? (Meier, 2000): 
+
+In speaking of “the aims of education” 
+for a city or a nation, even for a 
+neighborhood, we draw to some 
+degree on who we are, and what we 
+like (or don’t) in ourselves, and what 
+we wish we might have been. 
+
+So when I listen to debates on educa- 
+tion— whether about standards, peda- 
+gogic styles, or objectives, or “assess- 
+ments,” or whatever else— I listen 
+first to voices. Before I pay attention 
+to ideas, I want to gain some sense of 
+character and value— lived experi- 
+ence— within the person who is telling 
+us what he or she believes is best for 
+children. 
+
+.... So the question, for me, isn’t if we 
+ought to have some “standards” in our 
+children’s education. It is, rather, how 
+and where they are determined, and 
+by whom, and how they’re introduced, 
+and how we treat or penalize (or 
+
+
+
+JCREL/McREL/Berkana 
+
+
+
+threaten, or abuse) the child or 
+teacher who won’t swallow them. 
+
+.... So the question, again, is not if we 
+“need” standards in our schools but 
+with what sensibilities we navigate 
+between the two extremes of regi- 
+mented learning with destructive 
+overtones, on one side, and pedagogic 
+aimlessness and fatuous romanticism 
+on the other .... There is a place of 
+sanity where education is intense and 
+substantive, and realistically competi- 
+tive in a competitive society, but still 
+respectful of the infinite variety of 
+valued learnings and the limitless 
+varieties of wisdom in the hearts of 
+those who come to us as students. 
+
+Ground Rules for Dialogue 
+
+Experts in the field of dialogue— among 
+them, authors Peter Senge (1990) and 
+David Bohm (1996)— provide us with a 
+simple set of ground rules for our dialogue. 
+These rules are: 
+
+0 All participants suspend their 
+assumptions. 
+
+0 All participants regard each other 
+as colleagues. 
+
+0 The facilitator holds the context. 
+
+In addition, Seng (1990) and Bohm (1996) 
+provide several general characteristics of 
+dialogue that may be helpful to understand 
+before participating in the dialogue process. 
+They include the following distinctions 
+between dialogue and discussion: 
+
+
+
+
+Version 1 March 2001 
+
+
+
+In dialogue... 
+
+
+In discussion... 
+
+
+There is an emphasis on listening. 
+
+
+There is an emphasis on talking. 
+
+
+Opinions are shared without intention. 
+
+
+Opinions are shared with the intent 
+to influence or persuade. 
+
+
+There is freedom for each person to talk. 
+
+
+There is competition for airtime. 
+
+
+Conversation is group-facilitated. 
+
+
+Conversation is leader-dependent. 
+
+
+There is a free flow of ideas. 
+
+
+Ideas are shared according to agendas 
+and goals. 
+
+
+. Participants suspend their assumptions. 
+
+
+Participants defend their assumptions. 
+
+
+Consensus tends to emerge from broad- 
+based understanding. 
+
+
+Consensus tends to be limited to 
+myopic opinion. 
+
+
+Our expectation is that through true dia- 
+logue, participants will be able reach beyond 
+any differences and disagreements toward a 
+better understanding of how to improve 
+education for all of our children. In this con- 
+text, our participants' diversity of opinions, 
+experiences, and backgrounds will serve 
+only to strengthen our collective effort. 
+
+
+districts across the nation, rigorous assess- 
+ment and accountability systems have been 
+or are being put into place. 
+
+In addition, by some accounts, a certain 
+backlash has developed in reaction to 
+standards-based reforms. An article by 
+Chmelski (1999) in the National School 
+Boards Association School Board News 
+summarizes the phenomenon this way: 
+
+
+More Context for the 
+Dialogue on Standards, 
+High-Stakes Testing, 
+and Accountability 
+
+
+In some schools, teachers have com- 
+plained about having to push aside 
+real learning to concentrate on 
+drilling for the tests. Some parents 
+fear their students will be penalized 
+
+
+The Big Picture 
+
+To date, 49 states have adopted state educa- 
+tion standards. As a report by the nonprofit, 
+nonpartisan organization Public Agenda 
+(2000b) explains: “Although strategies vary 
+from state to state, they often include clari- 
+fying teaching and curriculum guidelines, 
+tying promotion or graduation to specific 
+skills, eliminating promotion based on age, 
+and testing students periodically to ensure 
+progress.” Overall, classroom practices in 
+many schools have changed and, in school 
+
+
+if they don’t pass. Academics have 
+claimed that critical thinking skills 
+are being neglected. Some urban 
+school leaders argue their schools 
+are not treated equitably and that 
+the tougher tests are causing more 
+students to drop out. And many have 
+become frustrated by the high failure 
+rates and by how long it takes to see 
+real progress. 
+
+Despite such concerns, public opinion 
+surveys continue to reflect support for the 
+key principles underlying standards-based 
+
+
+
+o 
+
+
+
+REL/McREL/Berkana 
+
+
+
+Version 1 
+
+
+
+11 
+
+
+
+March 2001 
+
+
+
+reforms. Results of a national parent survey 
+by Public Agenda (2000a) show that 71 per- 
+cent of parents questioned support testing 
+during elementary years as a way to identify 
+struggling students; 75 percent agree that 
+“students pay more attention and study 
+harder if they know they must pass a test 
+to get promoted or to graduate”; and 76 per- 
+cent agree that “requiring schools to publi- 
+cize their standardized test scores is a 
+wake-up call and a good way to hold schools 
+accountable.” However, almost eight in ten 
+parents interviewed (78 percent) also agree 
+that “it's wrong to use the results of just 
+one test to decide whether a student gets 
+promoted or graduates.” 
+
+In light of the challenging mix of responses 
+to standards-based reform, former U.S. 
+Secretary of Education Richard W. Riley 
+(2000) described the education reform 
+movement as being at “a critical juncture” 
+in his annual State of American Education 
+address: 
+
+We have worked very hard in the last 
+decade to help states and school dis- 
+tricts set new expectations and put 
+new high standards into place for all 
+of our children. This has involved 
+committed and dedicated educators 
+from all of our nation's public, private, 
+and parochial schools. But setting 
+new expectations and reaching for 
+high standards have to be done the 
+right way.... 
+
+We are at a critical juncture in raising 
+standards. As standards move from, 
+the statehouse to the schoolhouse, the 
+debate is growing louder. While some 
+of the debate reflects opposition to 
+higher standards and stronger 
+accountability, much of it is occurring 
+because there is a gap between what 
+we know we should be doing and 
+what we are doing. 
+
+
+
+What This Means for 
+Teaching and Learning 
+
+Most concerned observers, regardless of 
+their opinions about standards-based edu- 
+cation, agree that the crux of a meaningful 
+dialogue on the topic should focus primarily 
+on what happens in classrooms. In a U.S. 
+Department of Education brochure for par- 
+ents, Stolp (n.d.) gives this explanation of 
+possible reform-based changes: 
+
+How reforms will affect your child 
+will depend on the type of changes 
+that are made. If reform is related to 
+the subject areas, your child may be 
+introduced to new content, materials, 
+and ways of learning. These changes 
+may be made as a result of a particu- 
+lar education goal or objective. If the 
+reform is related to the administra- 
+tive process, your child may not notice 
+any change at all. Such changes may 
+affect only administrative decision- 
+making or the school-community 
+relationship. 
+
+When it comes to teaching and learning, 
+the basic components of standards-based 
+educational reform present a certain para- 
+dox of conventional and innovative 
+approaches. This paradox is described in 
+the following passage by Hill and Crevola 
+(1999) in the Association for Supervision 
+and Curriculum Development (ASCD) 
+Yearbook: 
+
+Standards-based education is both very 
+familiar and very new. It is familiar in 
+the sense that countless initiatives 
+throughout the history of public 
+schooling have focused on standards 
+as a means of improving student 
+learning outcomes. It is also familiar 
+in the sense that most of the elements 
+that make up standards-based educa- 
+tion are well known to teachers and 
+
+
+
+
+12 
+
+
+
+CREL/McREL/Berkana 
+
+
+
+Version 1 
+
+
+
+March 2001 
+
+
+
+uilding on What We Have Learned 
+
+
+
+school administrators. They can be 
+found to varying degrees in almost all 
+schools and school systems. 
+
+What is new about standards-based 
+education is (1) the degree of focus 
+and commitment to the goal of ensur- 
+ing that all students achieve defined 
+and challenging standards of perform- 
+ance, (2) the coherence and depth of 
+the beliefs and understandings that 
+underpin the response, and (3) the 
+rigor and sophistication with which 
+every aspect of schools and school sys- 
+tems is examined, redesigned, and 
+managed to ensure that high stan- 
+dards are achieved. 
+
+Accountability and 
+High-Stakes Testing 
+
+As is sometimes the case with new educa- 
+tional approaches, the vision and theory 
+behind standards-based efforts have not 
+always been well reflected in what actually 
+happens in schools. Although most states 
+have adopted statewide content standards 
+and have begun to develop assessments 
+based on those standards, the systems of 
+accountability that states have put into 
+place have not always been closely aligned 
+with their standards. Yet students, teach- 
+ers, and administrators face potential 
+rewards and sanctions based on these 
+accountability systems. 
+
+A recent report by Stapleman (2000) for 
+Mid-continent Research for Education and 
+Learning explains the disparity that exists 
+in some instances: 
+
+As accountability measures are put in 
+place, schools, districts, and states 
+play varying roles and have different 
+responsibilities, depending on the way 
+each system has been structured. 
+
+
+
+'REL/AAcREL/Berkana 
+
+
+
+Each of the 50 states has taken a 
+different approach to holding schools 
+accountable. 
+
+States rarely set out to create a new 
+accountability system from whole 
+cloth. A report from the Education 
+Commission of the States (1999) 
+noted that components often fall into 
+place in fits and starts, rather than in 
+the logical sequence of developing 
+standards and aligned assessments 
+first. States may implement some 
+components by law and others by reg- 
+ulation. Often components of state 
+systems are not aligned because they 
+were implemented years apart and for 
+different purposes. 
+
+Much of the public protest about standards- 
+based educational reform has focused on 
+the high stakes for students, teachers, and 
+schools. More than half the nation’s states 
+use standards-based tests to rate all schools 
+or to identify low-performing schools. Test 
+results often are used to determine if a stu- 
+dent may be promoted to the next grade or 
+graduate from high school. And an increas- 
+ing number of states are using assessments 
+to hold teachers accountable for the test 
+results of their students (Lewis, 2000). 
+
+An article by Domenech (2000) in The 
+School Administrator describes the issues 
+raised by testing based on the state of 
+Virginia’s Standards of Learning (SOL): 
+
+Today, the state’s SOLs face serious 
+challenges from educators and 
+parents concerned with the eventual 
+impact the tests might have on 
+children and education. The problem 
+is with the high-stakes assessment 
+program that is supposed to measure 
+whether or not the standards are 
+being met. 
+
+
+
+
+Version 1 March 2001 
+
+
+
+13 
+
+
+
+It was not enough to simply raise the 
+bar and expect our children to per- 
+form at higher levels. Along with the 
+higher standards came accountability. 
+Our policymakers were determined to 
+hold students and educators account- 
+able for their performance or lack 
+thereof. Enter high-stakes testing. 
+
+... It is the question of validity, or how 
+these high-stakes tests are being used 
+and interpreted, that threatens to 
+undermine the whole standards 
+movement. 
+
+In addition, although a common criticism 
+of standards-based reforms is that teachers 
+under accountability pressures resort to 
+“teaching to the test,” just the opposite is 
+sometimes the case. Classroom practices 
+do not consistently reflect state-mandated 
+assessments. For example, a recent report 
+by the Wisconsin Center for Education 
+Research (cited in Boser, 2000) shows a 
+limited relationship between what teachers 
+are teaching and what state assessments 
+are testing. In the ten states studied, the 
+extent of overlap (between items taught 
+and items tested) ranged from 46 percent 
+(in fourth-grade science in one state) to 
+just 5 percent (in eighth-grade math in 
+another state). These findings, say experts, 
+touch on another issue that is key to better 
+aligning standards-based systems: adequate 
+training and professional development for 
+teachers to help ensure they are aware of 
+the standards addressed by state tests. 
+
+There also is disagreement about how 
+heavily test sores should weigh on students, 
+teachers, and schools. Even in states where 
+test results are generally high, experts and 
+education officials are cautious about 
+attaching too much significance to assess- 
+ments. For instance, Archer (2000) notes 
+that in Connecticut— where students post 
+
+
+
+top scores nationwide on the National 
+Assessment of Educational Progress 
+(NAEP) in fourth-grade reading and mathe- 
+matics— the state board of education 
+recently approved the following statement: 
+
+There is a danger that overemphasiz- 
+ing state test scores to evaluate a 
+student’s, a school’s, or a district’s 
+performance can result in an inappro- 
+priate narrowing of the curriculum 
+and inappropriate classroom instruc- 
+tional practices. 
+
+The Opportunity to Learn: 
+Equity Issues 
+
+In this context of high stakes, issues of 
+fairness and equity arise. Although there 
+are well-documented examples of notable 
+student improvement linked to standards- 
+based reforms, assessments, and accounta- 
+bility systems— in high-poverty, urban 
+schools (see Johnson & Asera, 1999) as well 
+as suburban and more affluent schools— 
+there also are well-documented, continuing 
+disparities in achievement that correlate 
+along race and class lines. 
+
+As a recent report by Taylor (2000) for the 
+North Central Regional Educational 
+Laboratory points out, “Research consis- 
+tently confirms that beginning in early 
+elementary school and persisting across 
+the academic career, African-American, 
+Hispanic, and Native American students 
+tend to perform at lower academic levels 
+than whites and Asian/Pacific Islanders 
+on most standardized measures of achieve- 
+ment (e.g., NAEP and SAT test scores)” ' 
+
+(p. 5). The report continues: 
+
+The literature suggests several 
+contributors to this gap. Some 
+[researchers] argue that deep, structural 
+barriers within society (such as racial 
+
+
+
+:REL/McREL/Berkana 
+
+
+
+
+Version 1 
+
+
+
+
+March 2001 
+
+
+
+prejudice and discrimination) prevent 
+certain racial/ethnic groups from 
+achieving at high levels. Others con- 
+tend that cultural attributes within 
+groups either match (or mismatch) 
+with the norms and expectations of ' 
+schooling and, therefore, support or 
+thwart student achievement. Still oth- 
+ers suggest that school characteristics, 
+including the curriculum, instruction, 
+resources, and teacher expectations, 
+contribute to the gap. (p. 6) 
+
+Critics of standards-based testing argue 
+that decisions that will have a major impact 
+on a student should not be made on the 
+basis of a single test score. (See Berkowitz, 
+Wolkowitz, Fitch, & Kopriva [2000] for 
+guidelines for educators and policymakers 
+with regard to high-stakes tests and compli- 
+ance with nondiscrimination laws.) 
+Moreover, some say, when districts and 
+states place great emphasis on standardized 
+tests, pre-existing gaps in achievement- 
+linked by many studies to race and socio- 
+economic status— are likely to grow only 
+deeper. As Jencks and Phillips (1998) note, 
+“Reducing the test score gap is probably 
+both necessary and sufficient for substan- 
+tially reducing racial inequality in educa- 
+tional attainment and earnings” (p. 4). In 
+the January 2000 issue of the Harvard 
+University Gazette , an article titled 
+“Studies: ‘High Stakes Tests Are 
+Counterproductive” reviewed the results 
+of two studies commissioned by the Civil 
+Rights Project at Harvard. The article stated, 
+“So-called ‘high-stakes’ testing policies that 
+require students to pass standardized tests 
+deepen educational inequity between 
+whites and minorities and widen the educa- 
+tional gap between affluent and impover- 
+ished students ....” 
+
+Similarly, a recent Education Week article 
+by Johnston and Viadero (2000) reinforces 
+
+
+
+this notion that gaps in achievement and 
+opportunity are likely to be compounded by 
+schools’ heavy reliance on testing: 
+
+By 2019, when they are 24 years old, 
+current trends indicate that the white 
+children who are now nearing the end 
+of their first year in school will be 
+twice as likely as their African- 
+American classmates, and three 
+times as likely as Hispanics, to have 
+a college degree. 
+
+The disparity in school performance 
+tied to race and ethnicity, known as 
+the achievement gap, shows up in 
+grades, test scores, course selection, 
+and college completion. It happens in 
+cities and suburbs and in rural school 
+districts. The gaps are so pronounced 
+that in 1996, several national tests 
+found African-American and Hispanic 
+12th graders scoring at roughly the 
+same levels in reading and math as 
+white 8th graders. 
+
+After decades of school desegregation 
+efforts, during which the gap between 
+blacks and whites closed substantially, 
+progress has stalled. At the same 
+time, the greater diversity of the 
+school population and the rapid 
+growth of the Hispanic population 
+and other ethnic groups have 
+reshaped the problem with a more 
+complex set of issues. 
+
+Those factors, combined with a much 
+stronger focus on test scores in K-12 
+education ... have raised the 
+achievement-gap issue to the forefront 
+of the national debate about schools, 
+and created a new sense that some- 
+thing needs to be done. 
+
+In an effort to close race- and poverty-related 
+gaps in test scores, coalitions of educators, 
+community leaders, parents, and researchers 
+
+
+
+
+O 
+
+
+
+*EL/McREL/Berkana 
+
+
+
+Version 1 
+
+
+
+15 
+
+
+
+March 2001 
+
+
+
+are working to address potential underlying 
+issues. For example, the Minority Student 
+Achievement Network is a national part- 
+nership of 15 multiracial, urban or subur- 
+ban school districts from across the country 
+working to improve the academic achieve- 
+ment of students of color, specifically 
+African-American and Latino students. In a 
+recent report, the National Task Force on 
+Minority High Achievement (1999) noted 
+the “chronic shortage of African-American, 
+Latino, and Native American students who 
+achieve at very high levels academically.” 
+This report describes several research- 
+based strategies for raising student achieve- 
+ment, including: providing all students with 
+high-level and engaging curricula; deliver- 
+ing exemplary instructional support to 
+teachers; providing support to students to 
+increase their opportunities to learn at 
+high levels; engaging parents in meaningful 
+classroom participation and in school 
+decision-making; recruiting and retaining 
+exemplary teachers (especially in poor 
+schools); and promoting fair and responsi- 
+ble accountability. 
+
+In addition, some observers argue that, 
+ultimately, standards-based reforms will 
+help to safeguard equal access to high- 
+quality education. A recent commentary by 
+William L. Taylor (2000), vice chairman of 
+the Leadership Conference of Civil Rights, 
+offers the following perspective: 
+
+Today, new forms of accountability 
+and assessment are the best tools we 
+have to ensure quality education for 
+all children. When schools and dis- 
+tricts are held accountable for the 
+achievement of all students, the 
+means are at hand to force them to 
+improve the quality of schooling pro- 
+vided for previously neglected stu- 
+dents. Standards and accountability 
+expose the sham that passes for edu- 
+
+
+
+cation in many heavily minority 
+schools and provide measurements 
+and pressure to prod schools to target 
+resources where they are needed most. 
+
+Questions and 
+Recommendations 
+
+Questions to Address 
+Regarding Standards, 
+High-Stakes Testing, 
+and Accountability 
+
+The potential topics to address in this 
+dialogue are numerous and varied. The 
+following list of questions, compiled by 
+the National Dialogue’s Advisory Team, 
+is offered as a starting point for further 
+dialogue. 
+
+° What are some of the education reform 
+success stories that ought to be publi- 
+cized and shared? What can we learn 
+from those successes? What do these 
+students, teachers, and/or schools have 
+in common? 
+
+° How can we make standards a better 
+“fit” for our kids and schools? How 
+can we better align classroom, school, 
+and district practices with the intent 
+of standards? 
+
+° How can we do a better job of using 
+standards to help kids learn at high 
+levels? In other words, how can 
+instructional practices be used to 
+engage students in the kind of learn- 
+ing addressed by standards? 
+
+° How do we truly support the learning 
+of all children? What are some practi- 
+cal approaches to improving levels of 
+equity and fairness when it comes to 
+all children’s opportunity to learn? 
+
+
+
+t 
+
+JCREL/McREL/Berkana Version 1 1 6 
+
+
+
+March 2001 
+
+
+
+
+on 
+
+
+
+
+
+° What else can we do to address 
+achievement and opportunity gaps? 
+
+
+
+as well as motivation to teach a broad 
+range of information and context. 
+
+
+
+° How should accountability be delineated? 
+Who ought to be accountable for what? 
+
+° When it comes to assessments, how 
+high-stakes should tests be? How 
+effective are sanctions? How do 
+sanctions affect children? How do 
+sanctions impact teachers? 
+
+° What is the most constructive role 
+for incentives? 
+
+Recommendations 
+from the Literature 
+
+Experts often have disagreed about how to 
+address concerns about teaching and learn- 
+ing in the context of standards-based 
+assessments and accountability. With so 
+many different issues potentially coming 
+into play, proposed solutions may pose diffi- 
+culty in building consensus and even be 
+more challenging to put into place. In that 
+context, the following recommendations are 
+among those that frequently have been 
+offered by researchers and practitioners to 
+states and districts attempting to improve 
+their standards-based systems (see 
+Goodwin, 2000; Olson, 1999; Riley, 2000; 
+Thomas, 2000; Tripp & Platt, 2000): 
+
+° Align standards and assessments. 
+Work with teachers and administra- 
+tors to better align state and local 
+content standards with student assess- 
+ments. This kind of consistency and. 
+coherency is essential to fair and 
+accurate testing of students 5 progress. 
+
+° Clearly identify the range of 
+subject matter that a test will 
+measure. If the range is comprehen- 
+sive, make that clear: Teachers then 
+have a better sense of the assessment, 
+
+
+
+° Report on performance regularly. 
+
+Establish a consistent, accessible 
+method of reporting school perform- 
+ance (such as school report cards) to 
+parents, educators, policymakers, and 
+the public. 
+
+° Establish clear consequences. 
+Clearly define and communicate the 
+potential remedies and sanctions for 
+low-performing students, teachers, and 
+schools, and the potential recognition 
+and rewards for high-performing 
+students, teachers, and schools. 
+
+° Help teachers improve curricula. 
+Ensure that the curricula are rigorous. 
+Studies of achievement gaps have 
+found that minority students tend to 
+be concentrated in low-performing 
+schools where less rigorous curricula 
+are used. 
+
+° Help teachers improve instruction. 
+Build the capacity of teachers to teach 
+in ways that are compatible with the 
+state standards. Provide ongoing tech- 
+nical assistance and professional 
+development, which are vital to 
+improving instruction and maintaining 
+high-quality instruction standards. 
+
+° Provide leadership. Encourage the 
+implementation of fair and workable 
+standards-based reforms. Properly 
+fund initiatives and maintain systems 
+of accountability. Such leadership is a 
+critical factor in producing sustain- 
+able, improved student achievement. 
+This recommendation is essential 
+across classrooms, schools, districts, 
+and states— from teachers and princi- 
+pals to superintendents, school boards, 
+and state houses. 
+
+
+
+a 
+
+*EL/McREL/Berkana 
+
+
+
+
+Version 1 
+
+
+
+17 
+
+
+
+March 2001 
+
+
+
+0 Provide assistance. Provide ongoing 
+technical assistance, financial backing, 
+and other resources to struggling 
+schools. Ensure that state and district 
+levels have not only the capacity but 
+also the willingness to provide such 
+assistance. 
+
+In addition, researchers such as Honey, 
+Culp, and Spielvogel (1999) are beginning 
+to address the many ways that technology 
+can be used to improve student achieve- 
+ment— both directly (as a tutor, a means to 
+explore, a creative tool, and/or a communi- 
+cations tool) and indirectly (by providing 
+resources to support teachers in improving 
+instruction, developing high-quality stan- 
+dards, and accessing tools for professional 
+development). 
+
+Breaking It Down: 
+Definitions for Dialogue 
+
+The following definitions are offered as 
+points of reference for National Dialogue 
+participants. 
+
+Academic or Content Standards: 
+Statements that provide a clear description 
+of the knowledge and skills that students 
+should be developing through instruction in 
+specific content (or academic) areas. 
+
+Assessment: A method used to determine 
+what a student knows, has learned, and/or 
+is able to do. 
+
+Benchmark: Level of performance that 
+is expected in a given subject, in a given 
+grade. A benchmark is usually a set meas- 
+urement point used to assess whether stu- 
+dents are progressing toward a specific 
+goal. 
+
+
+
+High-Stakes Testing: Achievement tests 
+(or assessments) that may carry serious 
+consequences for students (e.g., being held 
+back a grade or denied a diploma based on 
+low scores) or for educators (e.g., sanctions 
+for low scores or financial rewards for high 
+scores). 
+
+Performance-Based Assessment: An 
+evaluation in which students demonstrate 
+they know something by using knowledge 
+and facts. Practical applications and real- 
+life tasks are used. (Sometimes referred to 
+as Authentic Assessment.) 
+
+Performance Standards: Statements 
+that describe what it will take for a student 
+to demonstrate mastery of a standard. 
+(Sometimes called benchmarks.) 
+
+Rubric: A scoring guide that gives specific 
+criteria on which a piece of student work 
+will be evaluated based on standards for 
+student performance. 
+
+Standard: Generally speaking, a descrip- 
+tion of what students should know and be 
+able to do. 
+
+Standards-Based Accountability: 
+Policies, procedures, and systems designed 
+to hold students, teachers, and schools 
+responsible for their performance with 
+regard to academic standards. Standards- 
+based accountability systems use various 
+measures and are implemented at various 
+levels (school-level, districtwide, statewide). 
+
+
+
+O 
+
+
+
+
+ICREL/McREL/Berkana 
+
+
+
+Version 1 
+
+
+
+March 2001 
+
+
+
+References 
+
+Archer, J. (2000, October 4). High-scoring 
+Connecticut says scores aren’t everything. 
+Education Week [Online]. Available: http:// 
+www. ed week. org/ew/ewstory.cfm?slug= 
+05conn.h20 
+
+Berkowitz, D., Wolkowitz, B., Fitch, R., & 
+Kopriva, R. (2000). The use of tests as part 
+of high-stakes decision-making for stu- 
+dents: A resource guide for educators and 
+policymakers [Online]. Available: 
+http://www.ed.gov/offices/OCR/testing/ 
+
+Bohm, D. (1996). On dialogue. New York: 
+Routledge. 
+
+Boser, U. (2000, June 7). Teaching to the test? 
+Education Week [Online]. Available: 
+http://www.edweek.org/ew/ewstory.cfm7slug 
+=39align.hl9 
+
+Chmelynski, C. (1999, November 23). 
+
+Backlash surfaces against high-stakes test- 
+ing. NSBA School Board News [Online]. 
+Available: http://www.nsba.org/sbn/ 
+1999/112399- l.htm 
+
+Domenech, D. A. (2000, December). My stakes 
+well done. The School Administrator 
+[Online]. Available: http://www.aasa.org/ 
+pubhcations/sa/2Q00_12/domenech.htm 
+
+Education Commission of the States. (1999). 
+Education accountability systems in 50 
+states. Denver, CO: Author. 
+
+Goodwin, B. (2000, May). Raising the achieve- 
+ment of low-performing students. McREL 
+Policy Brief [ Online]. Available: http://www. 
+mcrel.org/products/policy-briefs/raising.asp 
+
+Grissmer, D. W., Flanagan, A., Kawata, J., & 
+Williamson, S. (2000). Improving student 
+achievement: What NAEP state test scores 
+tell us [Online]. Available: http://www. 
+rand.org/publications/MR/MR924/ 
+
+
+
+Hill, P. W., & Crevola, C. A. (1999). The role 
+of standards in educational reform for 
+the 21st century. In D. D. Marsh (Ed.), 
+Preparing our schools for the 21st century 
+(ASCD Yearbook, Chapter 6) [Online]. 
+Available: http://www.ascd.org/ 
+readingroom/books/marsh99book.html 
+
+Honey, M., Culp, K. M., & Spielvogel, R. 
+(1999). Using technology to improve 
+student achievement. Pathways to 
+School Improvement [Online]. Available: 
+http ://www.ncrel . org/sdr s/ areas/i ssues/ 
+methods/technlgy/te800.htm 
+
+Jencks, C., & Phillips, M. (Eds.) (1998). 
+
+The black-white test score gap. Washington, 
+DC: Brookings Institution Press. 
+
+Johnson, J. F., & Asera, R. (Eds). Hope for 
+urban education: A study of nine high- 
+performing, high-poverty, urban elementary 
+schools [Online]. Available: http://www. 
+ed.gov/pubs/urbanhope/ 
+
+Johnston, R. C., & Viadero, D. (2000, March 
+15). Unmet promise: Raising minority 
+achievement. Education Week [Online]. . 
+Available: http://www.edweek.org/ew/ew 
+story.cfm?slug=27gapintro.hl9 
+
+Kendall, J. S., & Marzano, R. J. (2000). 
+Purpose of this work. In Content knowl- 
+edge: A compendium of standards and 
+benchmarks for K-12 education (3rd ed.). 
+Aurora, CO: Mid-continent Research for 
+Education and Learning. Available online: 
+http://www.mcrel.org/standards- 
+benchmarks/docs/process.asp 
+
+Kozol, J. (2000). Foreword. In D. Meier, Will 
+standards save public education ? Boston: 
+Beacon Press. 
+
+Lewis, A. (2000, April). High-stakes testing: 
+Trends and issues. McREL Policy Brief 
+[Online]. Available: http://www.mcrel.org/ 
+products/policy-briefs/highstakes.asp 
+
+
+
+REL/McREL/Berkana 
+
+
+
+
+Version 1 
+
+
+
+March 2001 
+
+
+
+Meier, D. (2000). Will standards save public 
+education ? Boston: Beacon Press. 
+
+Mid-continent Research for Education and 
+Learning. (2000). Noteworthy perspectives 
+on implementing standards -based educa- 
+tion. Aurora, CO: Author. Available online: 
+http://www.mcrel.org/products/noteworthy/ 
+implement.asp 
+
+National Commission on Excellence in 
+Education. (1983). A nation at risk: The 
+imperative for educational reform (No. 
+065-000-00177-2). Washington, DC: U.S. 
+Government Printing Office. Available 
+online: http://www.ed.gov/pubs/NatAtRisk/ 
+
+National Task Force on Minority High 
+Achievement. (1999). Reaching the top: A 
+report of the National Task Force on 
+Minority High Achievement. Executive 
+summary available online: http://www. 
+collegeboard.org/index_this/research/html/ 
+991017r.html 
+
+Olson, L. (1999). In search of better assess- 
+ments. Education Week [Online]. Available: 
+http://www.edweek.org/sreports/qc99/ac/ 
+mc/mc l-s2.htm 
+
+Public Agenda. (2000a). Is there a backlash 
+against education standards ? (National 
+poll of parents of public school students) 
+[Online]. Available: http://www.publicagenda. 
+com/aboutpa/standardsbacklash.htm 
+
+Public Agenda. (2000b, February 16). Reality 
+check 2000. Education Week [Online]. 
+Available: http://www.edweek.org/ew/ 
+ewstory. cfm? slug=23par c3 . h 1 9 
+
+Riley, R. R. (2000, February 22). Setting new 
+expectations (Seventh Annual State of 
+American Education Address) [Online]. 
+Available: http://www.ed.gov/ 
+Speeches/02-2000/000222.html 
+
+Senge, P. M. (1990). The fifth discipline: The 
+art and practice of the learning organiza- 
+tion. New York: Doubleday. 
+
+
+
+Shafer, L. (2000, December 8). State panel 
+asks delay for passing exit exams. Contra 
+Costa Times. 
+
+Stapleman, J. (2000, April). Standards-based 
+accountability systems. McREL Policy 
+Brief [Online]. Available: http://www.mcrel. 
+org/products/policy-briefs/account.asp 
+
+Stolp, S. W. (n.d.). What does school reform 
+mean to my neighborhood school ? [Online]. 
+Available: http ://www. accesseric . org/ 
+resources/parent/schrefor.html 
+
+Studies: 'High stakes’ tests are counterproduc- 
+tive for economically disadvantaged stu- 
+dents. (2000, January 20). Harvard 
+University Gazette [Online]. Available: 
+http://www.news.harvard.edu/gazette/2000/ 
+01.20/tests.html 
+
+Taylor, J. (2000, Fall). Closing the achieve- 
+ment gap. NCREL Policy LINCletter. 
+
+Taylor, W. L. (2000, November 15). Standards, 
+tests, and civil rights. Education Week 
+[Online]. Available: http://www.edweek. 
+org/ew/ewstory.cfm?slug=lltaylor.h20 
+
+Thomas, G. W. (2000, May/June). Six steps 
+to surviving standards. Thrust for 
+Educational Leadership , 29(5). Available 
+online: http://www.acsa.org/ 
+publications/Leadership/Leadership_ 
+May_2000/thomas.html 
+
+Tripp, C., & Platt, A. (2000, October). 3 C’s for 
+building a culture of high standards. The 
+School Administrator [Online]. Available: 
+http://www.aasa.org/publications/sa/2000_ 
+10/Tripp_side_3c.htm 
+
+Wheatley, M. J. (1998.) Bringing schools back 
+to life: Schools as living systems [Online]. 
+Available: http://www.berkana.org/ 
+articles/lifetoschools.html 
+
+
+
+CREL/McREL/Berkana 
+
+
+
+Version 1 
+
+
+
+20 
+
+
+
+March 2001 
+
+
+
+Additional Reading 
+
+Eisner, E. W. (1993, February). Why standards 
+may not improve schools. Educational 
+Leadership, 50( 5), 22-23. 
+
+Kessler, R. (2000). The soul of education: 
+Helping students find connection, compas- 
+sion, and character at school [Online]. 
+Available: http://www.ascd.org/ 
+readingroom/books/kesslerOObook.html 
+
+Marzano, R. J., & Kendall, J. S. (1996, 
+February). The fall and rise of standards- 
+based education. NASBE Issues in Brief 
+[Online]. Available: http://www.mcrel.org/ 
+products/standards/fallrise.asp 
+
+Massell, D., Kirst, M., & Hoppe, M. (1997, 
+March). Persistence and change: 
+Standards-based systemic reform in nine 
+states. CPRE Policy Brief [Online]. 
+Available: http://www.negp.gov/Reports/ 
+cprebrie.htm 
+
+Minority Student Achievement Network. 
+(2000, Fall). Multi-district network tackles 
+the minority student achievement gap. 
+Newsletter of the Minority Student 
+Achievement Network. 
+
+
+
+Seligman, D. (2000, November 13). 
+Accountability: The backlash. Forbes 
+[Online]. Available: http://www.forbes.com/ 
+forbes/2000/1113/6613238a_print.html 
+
+Viadero, D. (2000, March 22). Lags in minority 
+achievement defy traditional explanations. 
+Education Week [Online]. Available: 
+http://www.edweek.org/ew/ewstory.cfm7slug 
+=28causes.hl9 
+
+Viadero, D v (2000, March 29). Minority gaps 
+smaller in some Pentagon schools. 
+Education Week [Online]. Available: 
+http://www.edweek.org/ew/ewstory.cfm7slug 
+=29dodd.hl9 
+
+Viadero, D., & Johnston, R. C. (2000, April 5). 
+Lifting minority achievement: Complex 
+answers. Education Week [Online]. 
+Available: http://www.edweek.org/ew/ 
+ewstory.cftn?slug=30gap.hl9 
+
+
+
+j JEL/McREL/Berkana 
+
+
+
+
+. Version 1 
+
+
+
+March 2001 
+
+
+
+Appendix A 
+
+The Road to Standards: 
+
+A Brief History of Standards- 
+Based Educational Reform 
+
+The following section is an excerpt from 
+Content Knowledge: A Compendium of 
+Standards and Benchmarks for K-12 
+Education, by John S. Kendall and Robert 
+J. Marzano. This document is a product of 
+the Standards Project at Mid-continent 
+Research for Education and Learning 
+(McREL). For access to the entire document 
+and a complete list of references, go to 
+http://www.mcrel.org/standards- 
+benchmarks/docs/purpose.asp. 
+
+Many educators see the publication of the 
+now-famous report A Nation at Risk 
+(National Commission on Excellence in 
+Education, 1983) as the initiating event of 
+the modern standards movement. Few calls 
+to action have been so often quoted as the 
+dire pronouncements from that report: “The 
+educational foundations of our society are 
+presently being eroded by a rising tide of 
+mediocrity that threatens our very future 
+as a nation and a people. ... We have, in 
+effect, been committing an act of unthink- 
+ing, unilateral educational disarmament” 
+(National Commission on Excellence in 
+Education, 1983, p. 5). 
+
+Amid growing concerns about the educa- 
+tional preparation of the nation’s youth, 
+President Bush and the nation’s governors 
+called an Education Summit in 
+Charlottesville, Virginia, in September 
+1989. That summit concluded with the 
+establishment of six broad goals for educa- 
+tion that were to be reached by the year 
+2000. The goals and their rationale are pub- 
+lished under the title The National 
+
+
+
+Education Goals Report: Building a Nation 
+of Learners (National Education Goals 
+Panel [NEGP], 1991). Two of the goals (3 
+and 4) related specifically to academic 
+achievement: 
+
+Goal 3: By the year 2000, American 
+students will leave grades 4, 8, and 12 
+having demonstrated competency in 
+challenging subject matter including 
+English, mathematics, science, history, 
+and geography; and every school in 
+America will ensure that all students 
+learn to use their minds well, so they 
+may be prepared for responsible citizen- 
+ship, further learning, and productive 
+employment in our modem economy. 
+
+Goal 4: By the year 2000, U.S. students 
+will be first in the world in science 
+and mathematics achievement. 
+
+The goals were outlined in the State of the 
+Union of 1990, a year which also saw 
+Congress establish the National Education 
+Goals Panel (NEGP); the following year, 
+Congress established the National Council on 
+Education Standards and Testing (NCEST). 
+Collectively, these two groups were charged 
+with addressing unprecedented questions 
+regarding American education such as, What 
+is the subject matter to be addressed? What 
+types of assessments should be used? What 
+standards of performance should be set? 
+
+These efforts had an impact on national 
+subject-matter organizations, who sought 
+to establish standards in their respective 
+areas. Many of these groups looked for 
+guidance from the National Council of 
+Teachers of Mathematics (NCTM), which 
+preempted the public mandate for stan- 
+dards by publishing the Curriculum and 
+Evaluation Standards for School 
+Mathematics in 1989. The National 
+Academy of Sciences used the apparent 
+success of the NCTM standards as. the 
+
+
+
+f 
+
+
+
+JCREL/McREL/Berkana 
+
+
+
+Version 1 
+
+
+
+22 
+
+
+
+March 2001 
+
+
+
+impetus for urging Secretary of Education 
+Lamar Alexander to underwrite national 
+standards-setting efforts in other content 
+areas. According to Diane Ravitch, then an 
+assistant secretary of education, “Alexander 
+bankrolled the projects out of his office’s 
+discretionary budget” (in Diegmueller, 1995, 
+p. 5). The National Science Teachers 
+Association (NSTA) and the American 
+Association for the Advancement of Science 
+(AAAS) quickly launched independent 
+attempts to identify standards in science. 
+
+
+
+Efforts soon followed in the fields of civics, 
+dance, theater, music, art, English language 
+arts, history, and social studies, to name a 
+few. (An overview of the movement to estab- 
+lish standards in the core subject areas is 
+reported in Table 1.1.) Since 1990 the move- 
+ment has acquired considerable momentum 
+at the state level as well. As of 1999, the 
+District of Columbia, Puerto Rico, and every 
+state except Iowa have set or are setting 
+common academic standards for students 
+(American Federation of Teachers, 1999). 
+
+
+
+Table 1.1 
+
+1983 A Nation at Risk is published, calling for reform of the U.S. education system. 
+
+1983 Bill Honig, elected state superintendent of California public schools, begins a 
+
+decade-long revision of the state public school system, developing content 
+standards and curriculum frameworks. 
+
+1987 The National Council of Teachers of Mathematics (NCTM) writing teams 
+
+begin to review curriculum documents and draft standards for curriculum 
+and evaluation. 
+
+1989 Charlottesville, VA: The nation’s 50 governors and President Bush adopt 
+
+National Education Goals for the year 2000. One goal names five school 
+subjects— English, mathematics, science, history, and geography— for which 
+challenging national achievement standards should be established. 
+
+1989 The National Council of Teachers of Mathematics publishes Curriculum and 
+
+Evaluation Standards for School Mathematics. 
+
+1989 Project 2061 of the American Association for the Advancement of Science 
+(AAAS) publishes Science for All Americans, describing what “understand- 
+ings and habits of mind are essential for all citizens in a scientifically liter- 
+ate society.” 
+
+1990 In his State of the Union address, President Bush announces the National 
+Education Goals for the year 2000; shortly thereafter, he and Congress 
+establish a National Education Goals Panel (NEGP). 
+
+1990 The Secretary’s Commission on Achieving Necessary Skills (SCANS) is 
+
+appointed by the Secretary of Labor to determine the skills young people 
+need to succeed in the world of work. 
+
+1990 The New Standards Project, a joint project of the National Center on 
+
+Education and the Economy and the Learning Research and Development 
+Center, is formed to create a system of standards for student performance in 
+a number of areas. 
+
+
+
+£ ^EL/AAcREL/Berkana 
+
+
+
+
+Version 1 
+
+
+
+
+March 2001 
+
+
+
+1990, Fall 
+1991 
+
+1991, June 
+
+1992, Jan. 
+
+1992, Jan. 
+1992, Spring 
+1992, Spring 
+
+1992, June 
+
+1992, July 
+
+1992, July 
+1992, Oct. 
+
+1992, Nov. 
+
+1993, Jan. 
+1993, April 
+
+1993 
+
+
+
+Mid-continent Research for Education and Learning (McREL) begins the 
+systematic collection, review, and analysis of noteworthy national and state 
+curriculum documents in all subject areas. 
+
+SCANS produces What Work Requires of Schools , which describes the knowl- 
+edge and skills necessary for success in the workplace. 
+
+Secretary of Education Lamar Alexander asks Congress to establish the 
+National Council on Education Standards and Testing (NCEST). The pur- 
+pose of NCEST is to provide a vehicle for reaching bipartisan consensus on 
+national standards and testing. 
+
+NCEST releases its report, Raising Standards for American Education , to 
+Congress, proposing an oversight board, the National Education Standards 
+and Assessment Council (NESAC), to certify content and performance 
+standards as well as “criteria” for assessments. 
+
+The National Council for the Social Studies names a task force to develop 
+curriculum standards. 
+
+The National History Standards Project receives funding from the National 
+Endowment for the Humanities and the U.S. Department of Education. 
+
+The National Association for Sport and Physical Education begins work on 
+Outcomes for Quality Physical Education Programs, which will form the 
+basis of standards in Physical Education. 
+
+The Consortium of National Arts Education receives funding from the U.S. 
+Department of Education, the National Endowment for the Arts, and the 
+National Endowment for the Humanities to write standards in the arts. 
+
+The Center for Civic Education receives funds from the U.S. Department of 
+Education and the Pew Charitable Trusts for standards development in 
+civics and government. 
+
+The Geography Standards Education Project creates the first draft of geogra- 
+phy standards. 
+
+The Committee for National Health Education Standards is funded by the 
+American Cancer Society. 
+
+The Bush administration awards funds to create English standards to a con- 
+sortium of three organizations: the National Council of Teachers of English, 
+the International Reading Association, and the Center for the Study of 
+Reading at the University of Illinois. 
+
+The National Standards in Foreign Language Project becomes the seventh 
+and final group to receive federal funds for standards development. 
+
+McREL publishes its first technical report on standards, The Systematic 
+Identification and Articulation of Content Standards and Benchmarks: An 
+Illustration Using Mathematics. 
+
+AAAS’s Project 2061 publishes Benchmarks for Science Literacy. 
+
+
+
+slCREL/McREL/Berkana 
+
+
+
+
+Version 1 
+
+
+
+
+March 2001 
+
+
+
+1993, Nov. 
+
+
+
+uilding on What We Have Learned 
+
+
+
+1993, Nov. 
+
+
+
+1994, Jan. 
+
+
+
+1994, Feb. 
+
+
+
+1994, March 
+
+
+
+1994, March 
+
+
+
+1994, March 
+
+
+
+1994, Fall 
+
+
+
+1994, Oct. 
+
+
+
+1994, Oct. 
+
+
+
+1994, Oct. 
+
+
+
+NEGFs Technical Planning Group issues Promises to Keep: Creating High 
+Standards for American Students , referred to as the “Malcolm Report.” The 
+report calls for the development of a National Education Standards and 
+Improvement Council (NESIC), which would give voluntary national stan- 
+dards a stamp of approval. 
+
+The National Research Council, with major funding from the U.S. Department 
+of Education and the National Science Foundation, establishes the National 
+Committee on Science Education Standards and Assessment (NCSESA) to 
+oversee standards development in content, teaching, and assessment. 
+
+McREL publishes The Systematic Identification and Articulation of Content 
+Standards and Benchmarks: Update , January 1994, which provides a syn- 
+thesis of standards for science, mathematics, history, geography, communica- 
+tion and information processing, and life skills. 
+
+The Standards Project for English Language Arts, a collaborative effort of 
+the Center for the Study of Reading, the International Reading Association, 
+and the National Council of Teachers of English, publishes the draft 
+Incomplete Work of the Task Forces of the Standards Project for English 
+Language Arts. 
+
+President Clinton signs into law Goals 2000: Educate America Act. This leg- 
+islation creates the National Education Standards and Improvement Council 
+(NESIC) to certify national and state content and performance standards, 
+opportunity-to-learn standards, and state assessments; adds two new goals 
+to the national education goals; and brings to nine the number of areas for 
+which students should demonstrate “competency over challenging subject 
+matter.” The subject areas now covered include foreign languages, the arts, 
+economics, and civics and government. 
+
+The U.S. Department of Education notifies the Standards Project for the 
+English Language Arts that it will not continue funding for the project, 
+citing a lack of progress. 
+
+The Consortium of National Arts Education Associations, funded by the U.S. 
+Department of Education, the National Endowment for the Arts, and the 
+National Endowment for the Humanities, publishes the arts standards 
+(dance, music, theatre, and the visual arts). 
+
+The National Council on Social Studies publishes Curriculum Standards for 
+the Social Studies: Expectations for Excellence. 
+
+Lynne Cheney, past chair of the National Endowment for the Humanities 
+(NEH), criticizes the U.S. history standards in the Wall Street Journal two 
+weeks before their release. (NEH, with the U.S. Department of Education, 
+funded development of the U.S. history standards.) 
+
+U.S. history standards are released; world history and K-4 history are 
+released shortly thereafter. 
+
+The Geography Education Standards Project publishes Geography for Life: 
+National Geography Standards. 
+
+
+
+m 
+
+
+
+£ ‘EL/McREL/Berkana 
+
+
+
+Version 1 
+
+
+
+25 
+
+
+
+March 2001 
+
+
+
+1994, Nov. 
+
+1995, Jan. 
+1995, April 
+
+1995, May 
+
+1995, 
+
+Summer 
+
+1995, Oct. 
+1995, Nov. 
+
+1995, Dec. 
+1995 
+
+1996, Jan. 
+1996, Jan. 
+1996, March 
+
+1996, March 
+1996, April 
+
+
+
+The Center for Civic Education, funded by the U.S. Department of Education 
+and the Pew Charitable Trusts, publishes standards for civics and govern- 
+ment education. 
+
+Gary Nash, National History Standards Project co-director, agrees to revise 
+the history standards; the U.S. Senate denounces the history standards in a 
+99-1 vote. 
+
+The U.S. Department of Education withdraws assurance of a $500,000 grant 
+to the National Council on Economic Education for the development of stan- 
+dards in economics. 
+
+The Joint Committee on National Health Education Standards releases 
+National Health Education Standards: Achieving Health Literacy. 
+
+The National Association for Sport and Physical Education publishes Moving 
+Into the Future: National Standards for Physical Education. 
+
+The National Council on Economic Education, using funds from private 
+sources, convenes a drafting committee to develop standards; projected publi- 
+cation is winter 1996. 
+
+The New Standards Project releases a three-volume “consultation draft” 
+entitled Performance Standards for English language arts, mathematics, sci- 
+ence, and “applied learning.” 
+
+McREL publishes Content Knowledge: A Compendium of Standards and 
+Benchmarks for K-12 Education , a synthesis of standards in all subject 
+areas, including behavioral studies and life skills. 
+
+The National Business Education Association publishes National Standards 
+for Business Education: What Americas Students Should Know and Be Able 
+to Do in Business. 
+
+The National Standards in Foreign Language Education Project publishes 
+Foreign Language Learning: Preparing for the 21st Century. 
+
+The National Research Council publishes National Science Education 
+Standards. 
+
+The National Education Summit is held. Forty state governors and more 
+than 45 business leaders convene. They support efforts to set clear academic 
+standards in the core subject areas at the state and local levels. Business 
+leaders pledge to consider the existence of state standards when locating 
+facilities. 
+
+The National Council of Teachers of English and the International Reading 
+Association publish Standards for the English Language Arts. 
+
+Revised history standards are published. A review in the Wall Street Journal by 
+Diane Ravitch and Arthur Schlesinger, professor emeritus at City University of 
+New York, endorses the standards. Lynne Cheney renews her criticism of the 
+history standards, determining that the revision does not go far enough. 
+
+
+
+4CREL/McREL/Berkana 
+
+
+
+
+Version 1 
+
+
+
+
+March 2001 
+
+
+
+1996 The International Technology Education Association, supported by a grant 
+
+from the National Science Foundation and the National Aeronautics and 
+Space Administration, releases a guiding document for the development of 
+standards in technology. 
+
+1997, Feb. President Clinton, in his State of the Union address, calls for every state to 
+adopt high national standards, and declares that “by 1999, every state 
+should test every 4th grader in reading and every 8th grader in math to 
+make sure these standards are met.” 
+
+EconomicsAmerica releases Voluntary National Content Standards in 
+Economics in paper copy and on CD-ROM. 
+
+Teachers of English to Speakers of Other Languages publishes ESL 
+Standards for Pre-K-12 Students. 
+
+The National Center on Education and the Economy publishes the New 
+Standards’ Performance Standards: English Language Arts, Mathematics, 
+Science, Applied Learning— one volume each for elementary, middle, and 
+high school. 
+
+The National Communication Association publishes Competent 
+Communicators: K-12 Speaking, Listening, and Media Literacy Standards 
+and Competency Statements. 
+
+The Council for Basic Education publishes Standards for Excellence in 
+Education, which includes standards in science, history, geography, English 
+language arts, mathematics, civics, foreign language, and the arts 
+
+The American Library Association publishes Information Power: Building 
+Partnerships for Learning, which includes nine broadly described informa- 
+tion literacy standards. 
+
+1999, Fall The National Education Summit is held. Governors, educators, and business 
+leaders identify three key challenges facing U.S. schools— improving educa- 
+tor quality, helping all students reach high standards, and strengthening 
+accountability— and agree to specify how each of their states would address 
+these challenges. 
+
+1999 The National Standards in Foreign Language Education Project republishes 
+their standards as Standards for Foreign Language Learning in the 21st 
+Century , complemented by nine language-specific standards for Chinese, 
+classical languages, French, German, Italian, Japanese, Portuguese, 
+
+Russian, and Spanish. 
+
+2000 The International Technology Association publishes Standards for 
+Technological Literacy: Content for the Study of Technology. 
+
+2000 The International Society for Technology in Education publishes National 
+
+Educational Technology Standards for Students: Connecting Curriculum and 
+Technology. 
+
+
+
+1997 
+
+1997 
+
+1997 
+
+1998 
+1998 
+1998 
+
+
+
+I f^[C iEL/McREL/Berkana 
+
+
+
+f 
+
+Version 1 March 2001 
+
+
+
+uilding on What We Have Learned 
+
+
+
+Appendix B 
+
+National Dialogue Planning and Advisory Team Members 
+
+
+
+
+Initiators: 
+
+Gina Burkhardt , NCREL 
+
+Myron Kellner -Rogers, The Berkana Institute 
+
+Tim Waters, McREL 
+
+Project Director: 
+
+Bryan Goodwin, McREL 
+
+Advisory Team: 
+
+Bob Bartman, Consultant 
+
+Al Bennett, Roosevelt University 
+
+Ron Brandt, National Study of School Evaluation 
+
+Reed Caldwell, student, University of Colorado at Boulder 
+
+Doug Christensen, Nebraska Department of Education 
+
+Lesley Dahlkemper, KSA-Plus Communications 
+
+Charlotte Danielson, Educational Testing Service 
+
+Ruth Ann Gaines, East High School, Des Moines, IA 
+
+Mel King, Boston Rainbow Coalition Party 
+
+Anne Miller, National Association of Secondary School Principals 
+
+Robert Rice, Council for Basic Education 
+
+Guadalupe Shields, Chicago Public Schools 
+
+Mickey Vanderwerker, Parents Across Virginia United to Reform 
+Standards of Learning 
+
+
+
+vICREL/McREL/Berkana 
+
+
+
+
+Version 1 
+
+
+
+March 2001 
+
+
+
+tn 03 M h- I 
+
+
+
+
+U.S. Department of Education 
+
+Office of Educational Research and Improvement (OERI) 
+National Library of Education (NLE) 
+Educational Resources Information Center (ERIC) 
+
+
+
+
+NOTICE 
+
+
+
+Reproduction Basis 
+
+M 
+
+
+
+
+This document is covered by a signed "Reproduction Release 
+(Blanket)" form (on file within the ERIC system), encompassing all 
+or classes of documents from its source organization and, therefore, 
+does not require a "Specific Document" Release form. 
+
+
+
+
+This document is Federally-funded, or carries its own permission to 
+reproduce, or is otherwise in the public domain and, therefore, may 
+be reproduced by ERIC without a signed Reproduction Release form 
+(either "Specific Document" or "Blanket"). 
+
+
+
+
+EFF-089 (3/2000) 
+
+
+
+

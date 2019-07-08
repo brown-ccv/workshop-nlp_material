@@ -1,0 +1,6584 @@
+DOCUMENT RESUME 
+
+
+
+ED 426 722 
+
+
+
+JC 990 049 
+
+
+
+AUTHOR 
+
+TITLE 
+
+PUB DATE 
+NOTE 
+PUB TYPE 
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+Kruger, Mari Lynn 
+
+A Longitudinal Study of Native American Persistence in 
+Community Colleges. 
+
+1995-06-00 
+
+93p. 
+
+Information Analyses (070) -- Reports - Research (143) 
+
+MF01/PC04 Plus Postage . 
+
+Academic Achievement ; *Academic Persistence ; Age ; *American 
+Indians; *Community Colleges; Dropout Research; Enrollment; 
+Grade Point Average; Longitudinal Studies; Sex Differences; 
+♦Student Characteristics; Two Year College Students; Two 
+Year Colleges 
+
+♦Native Americans; ♦Washington State Community College 
+System 
+
+
+
+ABSTRACT 
+
+
+
+This study, which includes a review of literature and a 
+methodology description, investigates the persistence rates of 462 Native 
+American first-time college students enrolled in community colleges 
+throughout Washington State in the fall of 1988. Their progress was tracked 
+over a six-year study period. Existing data from the State Board of Community 
+and Technical Colleges were analyzed. The results of the study indicated that 
+the persistence rates of Native Americans were low. Factors found to be 
+related to persistence were gender, age, enrollment status, educational 
+aspirations and college grade point average. A significant relationship was 
+foiind between enrollment status (i.e. part-time versus full-time) and 
+persistence. Results also indicated that a significant difference existed 
+between the grade point average of persisters and non-persisters . The study 
+concludes that developing new techniques to increase the retention of Native 
+American students is an important challenge to higher education. Appended is 
+a list of variables used in the study. (Contains llO references.) (AS) 
+
+
+
+******************************************************************************** 
+
+
+
+♦ Reproductions supplied by EDRS are the best that can be made ♦ 
+
+♦ from the original document. ♦ 
+
+★******************************************************************************* 
+
+
+
+ERIC 
+
+
+
+\oV0 Q]oh 9 -£? 
+
+
+
+A Longitudinal Study of Native American 
+Persistence in Community Colleges 
+
+
+
+Mari Lynn Kruger 
+
+
+
+u.s. department OF 
+
+/ originating it. 
+
+' □ Minor changes have been^ 
+
+improve reproduction ^ V 
+
+
+
+Smt^d^nmnSsart^^^^^^ 
+
+oHicial OERI position or policy. 
+
+
+
+permission TO REPRODUCE AND 
+
+disseminate this matewal has 
+been granted by 
+
+
+
+M. L. Kruger 
+
+
+
+TO THE educational RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+
+2 
+
+
+
+BEST COPY AVAILABLE 
+
+
+
+ABSTRACT 
+
+
+
+A Longitudinal Study of Native American Persistence in Community 
+
+Colleges 
+
+Mari Lynn Kruger 
+
+The most underrepresented minority group in higher education is 
+the Native American. This study investigated the persistence rates of 462 
+Native American first-time college students enrolled in community 
+colleges throughout Washington State in Fall, 1988. Their persistence 
+and progress were tracked over a six-year study period. Existing data 
+from the State Board of Community and Technical Colleges were 
+analyzed. Common statistical measures were employed for analysis as 
+well as t-tests and chi-square analysis. Differences along a multitude of 
+variables were examined for persisters and non-persisters. The results 
+of the study indicate that the persistence rates of Native Americans were 
+low. Factors that were found to be related to persistence were gender, 
+age, enrollment status, educational aspirations and college grade point 
+average. It was concluded that enrollment status (i.e. part-time versus 
+full-time) and persistence were significantly related. Results also found a 
+significant difference between the grade point average of persisters and 
+non-persisters. Developing new techniques to increase the retention of 
+Native American students is an important challenge to higher education. 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+ABSTRACT iv 
+
+ACKNOWLEDGMENT v 
+
+LIST OF TABLES viii 
+
+CHAPTER 
+
+I. INTRODUCTION 1 
+
+Background 1 
+
+Need for the Study 2 
+
+Significance of the Study 3 
+
+Statement of the Problem 5 
+
+Summary 6 
+
+II. REVIEW OF THE LITERATURE 7 
+
+Introduction 7 
+
+A Theory of Student Departure 8 
+
+Validation of Tinto's Model 1 2 
+
+Why Students Leave Higher Education 13 
+
+Retention of People of Color 1 7 
+
+Factors Related to Persistence of African-Americans 23 
+
+Factors Related to Persistence of Hispanics 25 
+
+Factors Related to Persistence of Native Americans 28 
+
+Demographics of Native Americans in Higher Education 36 
+
+Background Data on Washington's Community Colleges 39 
+
+Summary 41 
+
+III. METHODS 42 
+
+Introduction 42 
+
+Population and Sample 42 
+
+Data Collection 43 
+
+Data Analysis 44 
+
+
+
+vi 
+
+
+
+
+4 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+CHAPTER 
+
+IV. RESULTS 45 
+
+Introduction 45 
+
+Demographic Variables 45 
+
+Enrollment Patterns 48 
+
+Persistence and Retention 51 
+
+Student Progress 54 
+
+Other Findings 56 
+
+Summary 57 
+
+V. DISCUSSION 58 
+
+Introduction 58 
+
+Discussion of Findings 58 
+
+Implications 61 
+
+Limitations 62 
+
+Suggestions for Further Research 62 
+
+Summary 64 
+
+REFERENCES 65 
+
+APPENDICES 79 
+
+
+
+vii 
+
+
+
+ERIC 
+
+
+
+5 
+
+
+
+LIST OF TABLES 
+
+
+
+TABLE 1 Demographics of Persisters, Non-Persisters and Total 47 
+
+TABLE 2 Enrollment Variables 50 
+
+TABLE 3 Total Quarters Enrolled Over a Six Year Period 52 
+
+TABLE 4 Group Percentages by Quarters Enrolled 53 
+
+TABLE 5 Persistence of Total Cohort Over Six Year Period 53 
+
+TABLE 6 Student Progress 56 
+
+
+
+CHAPTER ONE 
+INTRODUCTION 
+
+
+
+Background 
+
+The most underrepresented group of students of color in higher 
+education today is the American Indian and Alaska Native (hereafter 
+identified as Native American). Researchers have indicated that the 
+education of Native Americans is dismal (Rhodes, 1990). Only 6% of 
+Native Americans have completed four years of college or more, 
+compared to 12% of African-Americans and 23% of Caucasians 
+(Astin, 1982). 
+
+Among ethnic groups. Native students experience the highest 
+drop-out rates; specific estimates range from 75-93 percent (Astin, 1982; 
+Benjamin, Chambers, Reiterman, 1993; Falk & Aitken, 1984; Kleinfield & 
+Kohout, 1974; Lin, LaCounte & Eder, 1988; Mow & Nettles, 1990; 
+
+Tijerina & Biemer, 1987/1988). Such a high drop-out rate indicates a 
+failure of institutions to meet the educational needs of this unique 
+population. 
+
+Developing new techniques to increase the retention of Native 
+American students is an important challenge to higher education. Native 
+Americans are the least likely to be retained. They are also the least 
+likely ethnic group to be studied by researchers of student attrition. The 
+purpose of the study is to explore the attrition phenomenon of Native 
+American students in two-year institutions in Washington State and to 
+identify factors associated with such attrition. 
+
+
+
+
+7 
+
+
+
+Need for the Study 
+
+The major share of the enrollment growth of students of color in 
+higher education in the United States will occur at two-year institutions. 
+For many students of color, community colleges continue to be the major 
+point of entry to post-secondary education. Two-year colleges have 
+higher attrition rates than four-year colleges (Astin, 1982; Lee & Frank, 
+1990; Pascarella & Terenzini, 1992). According to Moyer (1973) only 
+one-half of the students of color in higher education successfully 
+complete the first two-years of college. As previously alluded to, this rate 
+is even lower for Native Americans. Retention rates of students of color 
+at two-year institutions and transfers from these institutions are low in 
+comparison to whites (Astin, 1982). Native Americans are effected 
+because over 50% of these students are enrolled in two-year colleges 
+(Hodgkinson, 1990; Mow & Nettles, 1990). 
+
+Research has developed student attrition models seeking to 
+identify causes that affect student drop-out (Bean, 1980; Cabrera, Nora, 
+& Castaneda, 1993; Tinto, 1975, 1987). Similarly, a growing body of 
+studies has emerged in the literature regarding the phenomenon of 
+minority drop-outs and factors that might affect persistence among these 
+groups of students (Allen, 1988; Astin, 1982; Attinasi 1989; Nora & 
+Rendon, 1989). 
+
+To date, there is minimal research available that focuses on the 
+retention rates of Native-American students in higher education and 
+factors related to persistence. Moreover, the scant information that is 
+
+2 
+
+
+
+
+8 
+
+
+
+available primarily focuses on this population in four-year colleges and 
+universities and the bulk of this research has been conducted at single- 
+sites with very small samples (Mow & Nettles, 1990; Nora, 1993). 
+
+This has become a problem for those studying this population in 
+higher education ( Asti n, 1982; Fries, 1987; Wells, 1989). In a national 
+study of students of color in higher education, Astin (1982) reported that 
+the sample of Native students "was often so small as to raise serious 
+questions about the reliability of the results" (p. 23). Furthermore, Fries 
+(1987) in a report on Native American college students found that "most 
+sample surveys are either too small to produce reliable estimates for 
+American Indians, or Indians are grouped into an 'other' category" 
+
+(p.31). The present study of several hundred Native American students 
+in twenty-six community colleges throughout Washington State is both 
+needed and timely. 
+
+Significance of the Study 
+
+Nationally, the Anglo population is increasing in age and 
+becoming less available in the workforce. The demographic trends for 
+people of color show that this group is becoming young and is 
+increasing in numbers (Cibik & Chambers, 1991; Wilson & Justiz, 1988). 
+The birth rate of Native Americans is rapidly increasing and the number 
+of college-age (18-24) students has more than doubled (Tijerina & 
+Biemer, 1987/1988). In the 21st century, the United States population 
+will need to rely on workers of color to sustain their present quality of life. 
+
+
+
+
+3 
+
+
+
+9 
+
+
+
+These workers must be able to meet businesses' provision of a highly 
+skilled labor force given technological advances. The economy will rely 
+on people of color to contribute toward its endeavor of maintaining global 
+competitiveness. Thus, it is imperative to ensure that students of color 
+are retained. 
+
+This study focuses efforts towards that endeavor by contributing to 
+the body of research and knowledge on retention of students of color, 
+specifically focusing on Native Americans. In addition, the study will 
+establish research on the persistence of Native American students in a 
+multitude of two-year institutions over an extended period of time where 
+the bulk of this population enrolls. 
+
+The Pacific Northwest has a rich Native heritage. Washington 
+state is one of six states where the majority of Native Americans in the 
+United States live (Statistical Abstracts of the United States, 1994). No 
+researcher has sought to examine the retention of Native Americans in 
+higher education in this region over an extended period of time. The 
+outcomes of this study will help educators in Washington state 
+understand the persistence patterns of this forgotten population. Student 
+Affairs personnel, through their student development programming, 
+academic advising, tutorial efforts and other support services such as 
+counseling, are particularly vested in such outcomes. The identification 
+of factors that predict the success of these students will assist all those 
+involved in the higher education enterprise with retention efforts for 
+students of color. 
+
+
+
+
+4 
+
+
+
+10 
+
+
+
+An assumption made is that if we determine the nature of attrition 
+of this population in Washington state, we can begin to work towards 
+efforts to retain not only the Native American population but other ethnic 
+populations in Washington State as well. 
+
+Statement of the Problem 
+
+The retention of Native American students in higher education is a 
+serious concern. Native American students have lower rates of 
+persistence than any other ethnic group in higher education. Over 50% 
+of Native Americans who enroll in higher education begin their post- 
+secondary education at two-year institutions (Hodgkinson, 1990; Mow & 
+Nettles, 1990). And while it is suggested that certain indicators have an 
+impact on the success of Native American students, this study seeks to 
+investigate the persistence rates of Native American students in two-year 
+institutions in Washington State and possible causal factors associated 
+with such persistence. 
+
+Research will focus on a cohort of Native Americans who were 
+enrolled in Washington's community colleges for the first-time in Fall, 
+1988 and track their persistence through Spring, 1994. Several 
+variables identified in the retention literature will be examined. The 
+researcher seeks to determine such research questions as: What is the 
+persistence rates of Native American students in community colleges of 
+Washington state? What are potential factors related to persistence of 
+Native Americans? 
+
+
+
+
+5 
+
+
+
+11 
+
+
+
+Summary 
+
+The most underrepresented of the targeted minority group in 
+higher education today is the Native American. Thus, it is necessary to 
+gain a better understanding of the college-going behaviors of these 
+students and the characteristics of those who persist and those who do 
+not. This study will contribute to that understanding. The following 
+chapters will consist of a review of relevant literature, a description of the 
+methods and results of the study, and will conclude with a discussion of 
+the study's findings and suggestions for further research. 
+
+
+
+CHAPTER TWO 
+
+
+
+REVIEW OF LITERATURE 
+
+Introduction 
+
+A voluminous body of research on retention in higher education 
+exists. Over the past decade, studies examining the retention of people 
+of color have flourished. The majority of these studies have been 
+conducted using populations in four-year institutions. This inclusive 
+focus creates a hole in our understanding of students of color because 
+the majority of these students in higher education attend two-year 
+institutions. 
+
+Although the research on students of color in higher education 
+and factors found to affect their persistence is expanding, there is much 
+we do not know (Tinto, 1987). The least is known about Native 
+American students. For the purposes of this study, the literature review 
+will focus on retention research, specifically on retention in higher 
+education. Areas covered include a review of a widely used theory of 
+student departure and a general look at why students leave higher 
+education. In addition, factors found to affect persistence of African- 
+American, Hispanic, and Native American students will be addressed. 
+Moreover, the current demographics of Native Americans in higher 
+education will be explored. Finally, the researcher will include a 
+background section on the characteristics of students in Washington's 
+community colleges. 
+
+
+
+7 
+
+
+
+
+13 
+
+
+
+A Theory of Student Departure 
+
+Student departure has been a much studied phenomenon. Few 
+issues in higher education have received as much attention (Astin, 1972; 
+Bean, 1980; Cope & Hannah, 1975; Nora, 1987; Pantages & Creedon, 
+1978; Pascarella & Terenzini, 1980; Ramist, 1981; Spady, 1970, 1971; 
+Summerskill, 1962; Tinto, 1975). In an effort to bring coherence to a 
+voluminous body of research on retention, Vincent Tinto introduced a 
+model of student attrition that attempts to explain the motivation of 
+students who leave colleges and universities. Over the past decade, 
+Tinto's theoretical model of student departure (1975, 1987, 1993) has 
+guided much of the inquiry into student persistence. 
+
+Building on the work of Spady (1970, 1971), Tinto's theory is 
+advanced as a longitudinal process that focuses on the interactions 
+between a student's pre-entry attributes and dispositions (i.e., goals and 
+commitments) and the academic and social systems of the institution to 
+arrive at a decision of student departure. A negative fit between the 
+student and the institution will result in a decision to leave. 
+
+Pre-colleae characteristics 
+
+The basic premise of the theory is that students come to college 
+with certain pre-college characteristics. Such attributes are a student's 
+family and community background, a variety of personal traits (e.g., age, 
+sex, race and disabilities), and intellectual and social skills. Other pre- 
+college characteristics include financial resources and various 
+
+8 
+
+
+
+
+14 
+
+
+
+educational experiences and achievements like the high-school grade 
+point average. Each attribute is presumed to have a direct impact on an 
+individual's decision to depart because of the "well-documented effect on 
+levels of academic performance in college" (1993, p.115). 
+
+Furthermore, family background is a key component of these pre-college 
+characteristics. Family background includes parental education and 
+encouragement from family and friends. This component has an indirect 
+impact on the goals and commitments a student has when arriving at the 
+institution. 
+
+Goals and Commitments 
+
+The above characteristics indirectly help formulate the goals and 
+commitments that students initially bring with them to college. Goals and 
+intentions are the level of degree attainment or occupation a student 
+desires. Commitment means the level of commitment to the goals (goal 
+commitment) of graduation and to the institution that the student initially 
+enrolled in (institutional commitment). 
+
+Along with external commitments the student brings with them to 
+the college environment, such as work or family, these goals and 
+commitments describe the orientation the student will have regarding 
+educational continuance and establishes the later interactions and 
+experiences between the student and members of the college or 
+university. 
+
+
+
+Institutional Experiences 
+
+Given individual characteristics and dispositions at entry, the 
+model holds that subsequent experiences and interactions with other 
+members of the institution constitute the probability of the student to 
+persist or not. It argues that interactions with the academic and social 
+systems of the institution both formally and informally have a direct 
+impact on student departure. Interactions and experiences with the 
+academic system include the academic performance of the student 
+(formal) as well as informal discussions and meetings with the faculty 
+and staff at an institution. Tinto (1993) revised his earlier models to 
+reflect the importance of student interactions with faculty and staff toward 
+decisions of educational continuance. 
+
+Additionally, the model reasons that students' interactions with the 
+formal social system of the institutions such as involvement in 
+extracurricular activities and peer group interactions, considered by the 
+model to be the informal social system, to be equally critical toward 
+decisions of student departure. The more a student has interactive 
+experiences with other students, the more likely it is that the student will 
+positively integrate academically and socially to the institution. Such 
+integration is believed to have a direct impact on student departure. 
+
+Integration 
+
+The main thesis of the model is that the ability of the students, who 
+come with individual pre-college attributes and dispositions that impact 
+
+
+
+
+10 
+
+
+
+16 
+
+
+
+on their initial goals and commitments, directly affects the subsequent 
+interactive experiences with the formal and informal social and academic 
+(intellectual) systems of the institution. This in turn directly impacts the 
+students' disposition to integrate to the social and academic (intellectual) 
+life of the institution. Integration to those institutional systems has a direct 
+impact on a decision of student departure. In other words, the ability to 
+integrate both socially and academically positively relates to a student's 
+likelihood of persisting to degree completion. 
+
+Positive social integration is influenced by greater contact with 
+peers and faculty. Furthermore, positive integration serves to heighten 
+one's goals and strengthen one's commitment to those goals and to the 
+commitment to the institution. As Tinto (1993) himself suggests, "the 
+model posits that, other things being equal, the lower the degree of one's 
+social and intellectual integration into the academic and social 
+communities of the college, the greater the likelihood of departure" 
+
+(p. 116). 
+
+External Commitments 
+
+One final component of the model that could affect persistence is 
+the degree in which the individual has commitments to communities 
+external from the institution. This is often the case for commuting 
+students who may feel pulled away from the campus because of family or 
+work responsibilities, thus having a negative indirect affect on 
+persistence (p. 116). While at the same time, such external communities 
+
+
+
+ERIC 
+
+
+
+17 
+
+
+
+could have a positive indirect influence on a students' decision to persist 
+when the family gives the student strong support and encouragement 
+(Bean & Vesper, 1992). 
+
+Validation of Tinto's Model 
+
+As previously alluded to, Tinto's model of student departure has 
+withstood the test of time. A review of the literature indicates that this 
+model is the most widely researched theory on student retention and 
+findings from such research indicate general support for the conceptual 
+framework of the model (Aitken, 1982; Baumgart & Johnstone, 1977; 
+Bean, 1980, 1982, 1983; Munro, 1981; Pascarella & Chapman, 1983; 
+Pascarella and Terenzini, 1979, 1980, 1983; Terenzini and Pascarella, 
+1977, 1978, 1980; Terenzini et al., 1983). As Stage (1990) has noted, 
+"Today few would question that students' commitment, academic 
+integration, and social integration are crucial to their academic success" 
+(p. 250). 
+
+However, the model has not totally escaped criticism. Tinto 
+himself would be the first to admit that his model is not perfect. For 
+example, because the model initially was formulated with traditional 
+students in mind, adult students may not fit the model as outlined. 
+Moreover, the model may not take into account the individual differences 
+of certain subgroups of the general student population. Tierney (1992) is 
+concerned with the question of social integration and the assumption that 
+Tinto seems to make regarding conformity to the mainstream 
+
+
+
+
+12 
+
+
+
+18 
+
+
+
+environment as the norm. He states, "A model of integration that never 
+questions who is to be integrated and how it is to be done assumes an 
+individualist stance of human nature and rejects differences based on 
+categories such as class, race, and gender" (p. 611). He goes on to say, 
+"...essentially models of integration have the effect of merely inserting 
+minorities into a dominant cultural frame of reference that is transmitted 
+within dominant cultural forms, leaving invisible cultural hierarchies 
+intact" (p. 611). 
+
+Why Students Leave Higher Education 
+
+Early research on attrition tended to label anyone who left higher 
+education as a "dropout." Today, the issue is much more complex. 
+Students leave for a variety of reasons. Some students begin their 
+college education with no intention of receiving a college degree. 
+
+Many others will transfer between institutions. Increasingly students are 
+attending part-time and revolving in and out of higher educational 
+institutions. This is particularly common among community college 
+students. 
+
+Tinto (1993) defines several types of departure from higher 
+education: 
+
+institutional departure, or departure from individual institutions 
+
+system departure, or departure from the wider system of higher 
+education 
+
+
+
+
+13 
+
+
+
+19 
+
+
+
+immediate transfer, or departure from one institution to transfer 
+to another higher education institution 
+stopouts, or temporary withdrawal from the system 
+Tinto (1993) states that "such diversity of college entry makes the 
+estimation of rates of student departure, institutional and systemic, a very 
+difficult task" (p. 9). He estimates that for four-year and two-year colleges 
+respectively, "27% of all four-year and 40.7% of all two-year entrants left 
+their first institutions prior to the start of the second year" (p. 1 7). 
+
+It is important to mention that a student's departure from an 
+institution of higher education should not automatically be viewed in a 
+negative manner. Tinto (1987, 1993) warns that in "speaking only of 
+departure from college we may inadvertently undervalue the importance 
+of the education which goes on outside the formal boundaries of our 
+higher educational system" (p. 211). He contends that leaving college 
+does not necessarily conclude that one will not partake of other forms of 
+education later. He supports the belief that education is a lifelong 
+process that does not end when attendance in college ceases. 
+
+Tinto’s model of student departure (1975, 1987, 1993) 
+distinguishes between two forms of withdrawal: academic dismissal and 
+voluntary withdrawal. The latter is more common. Tinto (1993) estimates 
+that only 15 to 25 percent of institutional departure occur because of 
+academic failure. While academic failure is generally related to the 
+academic performance of the student, issues surrounding voluntary 
+
+
+
+
+14 
+
+
+
+20 
+
+
+
+withdrawal are related to the student's level of congruence to the 
+academic and social communities of the institution after entry. 
+
+Academic failure is one reason why students decide to depart from 
+higher education. Astin (1975) found academic failure to be tied to 
+inferior high school grades. However, this is not as complex a 
+phenomenon as is departure for reasons related to voluntary withdrawal. 
+Scholars of student retention have identified several factors associated 
+with a student's decision to leave. Very prominent among these reasons 
+are those primarily unrelated to the college or university attended. Such 
+individual reasons include: sickness or injury, lack of encouragement 
+from friends and family, unclear educational goals, lack of institutional 
+commitment, difficulty coping with change, and familial obligations 
+(Bean, 1980; Cabrera, Nora & Castaneda, 1993; Christie & Dinham, 
+1991; Tinto, 1987, 1993). Astin (1975) reported being married was 
+positively associated with departure for women, while it was negatively 
+associated with departure decisions for men. Tinto (1993) speculates 
+that this is largely to do with societal values of women and their roles 
+within the family. 
+
+A second major grouping of reasons given for voluntary student 
+withdrawal focus on financial concerns. Students cited a lack of financial 
+aid, little or no fiscal support from family and difficulty juggling work 
+responsibilities and classes as reasons for leaving (Bers & Smith, 1991 ; 
+Cabrera, Nora & Castaneda, 1992; Chaney & Farris, 1991; Stampen & 
+Cabrera, 1986; Tinto, 1987, 1993). Tinto (1993) cautions that "citing 
+
+
+
+15 
+
+
+
+
+21 
+
+
+
+financial problems as reason for departure is often merely an end 
+product of decisions regarding departure" (p. 67). He goes on to say, "it 
+reflects the weighing of benefits as well as of costs and as such mirrors, 
+the nature of the students' academic and social experiences on campus" 
+(p. 67). 
+
+Pascarella and Chapman (1983) found that few variables that 
+significantly affect student attrition are found to be manipulable by the 
+institution. However, a review of the literature indicates that there are 
+variables that can be more closely attributed to the institutions than can 
+individual and financial reasons. For example, some students report an 
+inability to register for their desired classes, or dissatisfaction with the 
+academic program (Neumann & Neumann, 1989). Neumann, et.al. 
+(1989) studied juniors and seniors at a major northeastern university in 
+an effort to identify factors that contribute to their persistence. They 
+found that students' dissatisfaction with the level of student-faculty 
+contact and the quality of course content and instructional activities 
+contributed to a student's decision to withdraw. Others report dislike with 
+their academic progress and lack of adequate study skills (Bean, 1980; 
+Chaney & Farris, 1991; Richardson & Bender, 1987; Tinto, 1987, 1993). 
+
+Another major grouping of findings on why students leave higher 
+education are associated with problems adjusting to the college or 
+university environment: socially or academically; because of the location 
+of the institution; or because of cultural factors, especially for students of 
+color (Bers & Smith, 1991; Cabrera, Nora & Castaneda, 1993; 
+
+
+
+
+16 
+
+
+
+22 
+
+
+
+Christie & Dinham, 1991; Mow & Nettles, 1990; Richardson & Bender, 
+1987; Tinto, 1975, 1987, 1993). Others cite that readiness for college 
+was a factor (Terenzini & Pascarella, 1980; Tinto, 1987). 
+
+Final reasons for voluntary student withdrawal include a student's 
+desire to transfer to another higher education institution and meeting his 
+or her objectives (Tinto, 1987, 1993). 
+
+Summary 
+
+Students withdraw from higher education for a myriad of reasons. 
+Most prominent are academic failure, individual reasons and financial 
+reasons, institutional reasons such as dissatisfaction with academic 
+programs, or incongruence with the social or cultural environment. 
+
+Retention of People of Color 
+
+The issue of retention has been given great attention by academic 
+scholars both for altruistic and self-serving reasons. On the one hand, 
+institutions are interested in assisting students to fully develop both 
+psychologically and intellectually, and they are interested in contributing 
+to an educated workforce. On the other hand, the interest is a practical 
+one in which considerations are given to maintaining enrollments to keep 
+institutional budgets fiscally sound. There is also an interest on the part 
+of the individual student. Individuals are interested in retention because 
+of the promise of overall benefits bestowed upon a college graduate 
+(Bers & Smith, 1991; Neumann & Neumann, 1989). 
+
+
+
+
+17 
+
+
+
+23 
+
+
+
+Because students of color are the least likely to persist, it is of no 
+wonder that time and energy have been invested in the undertaking of 
+understanding why these students leave higher education. Over the past 
+decade, much retention research on students of color has been 
+conducted. Most of this research has focused predominantly on African- 
+Americans at single four-year institutions. A review of the literature 
+indicates that there are important factors that are shown to cause 
+departure of people of color. 
+
+Tinto postulates that students of color experience the college or 
+university differently than do white students. For the purposes of this 
+review, an outline of general factors found to be associated with 
+persistence for these students will be presented. Next, will come a 
+review of factors shown to affect persistence of African-Americans, 
+Hispanics, and Native Americans in particular. Overall, these three have 
+been found to have the highest attrition rates. 
+
+African-Americans, Hispanics and Native Americans are 
+consistently found to depart from college at much higher rates and to 
+obtain baccalaureate degrees at much lower rates than their white 
+counterparts (Astin, 1982; Cibik & Chambers, 1991; Mow & Nettles, 
+1990; Tinto, 1993). Astin (1982) estimated retention rates to be 
+significantly lower for Hispanics (31- 42 percent) and Native Americans 
+(39 percent) than African-Americans (42 - 53 percent) and Whites (56 - 
+59 percent). To arrive at these estimates, Astin drew the percentages of 
+entrants completing colleges from three sources: Current Population 
+
+
+
+
+18 
+
+
+
+24 
+
+
+
+Studies percentages of persons aged 25 to 29 who had completed four 
+or more years of college, CIRP surveys of 1971 freshmen followed up in 
+1 980, and National Longitudinal Study data on the 1 976 status of 1 972 
+high school graduates who entered college. 
+
+Many of the factors contributing to high attrition rates may not be 
+under the control of the student nor the institution. Factors such as 
+poverty, low academic preparation, poor study skills, no academic 
+preparatory courses in high school, parent's who have no formal 
+education, and lack of role models all are difficult obstacles to overcome 
+by colleges and universities (Astin, 1982; Loo & Rolinson, 1986; 
+
+Mingle, 1987; Mow & Nettles, 1990; Nora, 1993; Nora & Rendon, 1989). 
+
+Initial educational aspirations of a baccalaureate degree have 
+been found to be positively associated with persistence of minority 
+students (Astin, 1982; Mow & Nettles, 1990; Nora, 1993; Ramist, 1981). 
+Astin (1982) found that student's educational aspirations positively 
+influenced college performance and persistence. Other pre-college 
+factors include gender and age. Astin (1982) found that for all groups 
+except for Native Americans and Hispanics, being a woman is positively 
+related to persistence. However, Patton (1972) found being a Native 
+American woman to be positively related to persistence. In terms of age, 
+Astin (1982) states that the relatively older students show somewhat 
+poorer rates of undergraduate persistence among African-Americans 
+and Chicanes. 
+
+
+
+19 
+
+
+
+
+25 
+
+
+
+Environmental factors are a second major grouping. According to 
+researchers, students of color who receive financial aid in the form of 
+grants or scholarships, and do not work at an outside job are more likely 
+to persist (Astin, 1982; Mow & Nettles, 1990; Nora, 1993). Cibik & 
+Chambers (1991) in a study of similarities and differences among 
+African-Americans, Hispanics, Native Americans and Anglos at a 
+predominantly white undergraduate institution in the Southwest, reported 
+that students of color cited the availability of finances as the greatest 
+obstacle for completing college degrees. 
+
+A lack of academic integration, partially attributed to minimal 
+faculty-student contact and low academic abilities, is another factor 
+associated with persistence (Fox, 1985; Tinto, 1987; Tracey & 
+
+Sedlacek, 1987). Fox (1985) cited that retention was found to be directly 
+related to academic integration. 
+
+Chief among environmental factors is the type of institution a 
+student initially attends. Astin (1982), in a study of students of color in 
+higher education using national longitudinal data, found a negative 
+correlation between a student's chances of attaining a baccalaureate 
+degree and initially attending a community college. These findings 
+confirm earlier findings showing a negative relationship between 
+enrolling in a community college and achieving a bachelor's degree 
+(Astin, 1975, 1977). 
+
+
+
+
+20 
+
+
+
+26 
+
+
+
+This is especially significant for students of color as noted by 
+Richardson and Bender (1987) "...access to four-year institutions for 
+almost half of all minority students currently participating in higher 
+education requires transfer from a two-year to a four-year institution" 
+
+(p. 17). Moreover, for Hispanics and Native Americans specifically, the 
+type of institution is even more important because researchers commonly 
+attribute the lower retention rates of Hispanics and Native Americans to 
+their high concentration in community colleges (Astin, 1982; Richardson 
+& Bender, 1987). Others cite factors such as private institutions and 
+small enrollments as positive predictors of persistence 
+(Astin, 1982; Mow& Nettles, 1990). 
+
+Very prominent among factors shown to predict persistence of 
+students of color are those socioculturally grounded. Researchers have 
+often identified "isolation" and racial bias as problems. To paraphrase 
+the work of Tinto (1993), students of color are particularly vulnerable to 
+isolation and marginality at large white institutions where the 
+opportunities to become a member of a community composed of students 
+like themselves are minimal. Under Tinto's model, peer group interaction 
+is especially important to the ability to integrate socially. Cibik & 
+Chambers (1991) state that for "many minority students at predominantly 
+white institutions, the necessary social, cultural, and mental adjustments 
+are simply insurmountable" (p. 130). 
+
+Loo & Rolison (1986) agree with this point. The researchers 
+studied ethnic minority and Anglo students at a predominantly white 
+
+
+
+
+21 
+
+
+
+27 
+
+
+
+institution to assess the scope of alienation among students of color and 
+to determine whether the alienation reported by these students differed 
+from that of Anglos. The study's sample constituted 76% non-White 
+(N=109) and 33% (N=54) white students. Over representation of 
+students of color was intentional to gain a better understanding of this 
+population's attitudes. Their findings indicate that the sociocultural 
+alienation of non-White students was greater than that of White students 
+and the ways in which alienation was experienced was through feelings 
+of cultural domination and isolation. 
+
+In summary, factors that have been shown to affect persistence of 
+students of color are pre-college characteristics, environmental factors 
+and sociocultural factors. Pre-college factors include poor academic 
+preparation, low family income, and parental education. Environmental 
+factors include financial resources, academic integration and institutional 
+type. Most prominent are sociocultural factors and feelings of alienation 
+and isolation. 
+
+It is important to note that while a review of general factors found to 
+affect persistence of students of color can be helpful to an institution 
+dealing with retention, it does not serve these students well to stereotype 
+all ethnic groups or individuals within such groups as being affected 
+equally by such factors. Steward, Germain & Jackson (1992) affirm this 
+notion by underscoring the importance of "uniquely addressing each 
+racial and ethnic group" (p. 155). In an effort to do this, the next three 
+sections will consist of a closer examination of factors that affect 
+
+
+
+persistence of three ethnic groups: African-Americans, Hispanics, and 
+Native Americans. 
+
+Factors related to persistence of African-Americans 
+
+Studies on retention of students of color have focused primarily on 
+African-Americans. While this review is not intended to be 
+comprehensive in scope, the review will reveal primary factors identified 
+in the research to affect persistence. 
+
+Perhaps the most single cited factor related to African-American 
+student persistence is the suggestion that withdrawal is significantly 
+correlated to academic problems (Donovan, 1984; Eddens, 1982; 
+
+Myron, 1983; Sedlacek & Webster, 1978). Several researchers have 
+found contrasting results. For example, Tracey and Sedlacek (1987) 
+found that doing well in college has little bearing on remaining enrolled 
+for African-American students. This is consistent with findings from Cibek 
+& Chambers (1991) and Pascarella & Terenzini (1985). 
+
+Non-cognitive variables have been found to be predictive of 
+persistence among African-American students. In comparing the 
+persistence of White and African-American students, Tracey & Sedlacek 
+(1987) found that non-cognitive variables were more predictive of 
+persistence for African-American students than for White students. Those 
+dimensions include having a positive self-concept, a realistic self- 
+appraisal of their academic needs, preferring long-term goals over 
+immediate desires, and having some leadership experience. Moreover, 
+
+
+
+
+23 
+
+
+
+29 
+
+
+
+findings indicated that participating in extracurricular activities such as 
+the student government was positively related to persistence for African- 
+American men. Nettles, Thoeny & Gosman (1986) cited that persistence 
+was dependent on motivation and goals, and satisfaction. 
+
+Other studies have identified social integration to be a significantly 
+stronger predictor of persistence than academic integration for African- 
+American students. Pascarella's (1985) study of racial differences in the 
+factors associated with bachelor's degree completion using a sample in 
+a nine-year follow up, found that social integration was twice as important 
+in predicting degree completion compared to academic integration for 
+African-American students. 
+
+Many studies of African-American students at predominantly white 
+institutions report findings that indicate that African-American students 
+feel isolated and alienated to a much larger degree than do White 
+students (Allen, 1988; Nettles & Johnson, 1987; Tinto, 1993). Donald 
+Smith (1980, 1981) identified alienation and loneliness as the most 
+common factors in African-American student attrition as expressed by 
+students, African-American faculty, and administrators. Peer support has 
+also been identified as a factor of African-American student persistence 
+(Allen, 1988; Galicki & McGewin, 1989; Myron, 1983; Tinto, 1987). 
+
+Final factors believed to have an impact on African-American 
+persistence are institutional factors such as type and predominant race. 
+Unique to African-Americans is their enrollment in traditional black 
+colleges. There seems to be a relationship between African-American 
+
+
+
+
+24 
+
+
+
+30 
+
+
+
+students' persistence and these institutions but the findings are 
+inconclusive. Fleming (1984) found that African-American students at 
+black colleges have higher levels of psychological adjustments than do 
+African-American students on white campuses. Allen (1988) found that 
+African-American students at black colleges were more likely to aspire to 
+graduate degrees than African-American students on white campuses. 
+Nettles (1988) discovered that African-American students at black 
+colleges had higher retention rates and faster progression rates than 
+African-American students at white institutions. 
+
+In contrast, Nettles (1988) also found students at black colleges to 
+be less satisfied with their academic programs. Similarly, Astin (1982) 
+found that attending a traditional black college diminishes the chances of 
+completing a degree and has negative effects on undergraduate 
+satisfaction. Pascarella (1985) found that attending a predominantly 
+black college has no positive nor negative influence on persistence. 
+
+Factors related to persistence of Hispanics 
+
+Substantially less is known about Hispanics in higher education. 
+Like African-Americans, Hispanics are less likely to go to college and if 
+enrolling take longer to complete degrees. In addition, they withdraw at 
+higher rates than do Blacks or Whites. However, it must be cautioned 
+that differences exist in the rates of entry and persistence among the 
+many Hispanic subgroups. For example, 18.5% of Cubans completed 
+
+
+
+25 
+
+
+
+
+31 
+
+
+
+four years of college or more compared to 6.2% of Mexican-Americans 
+(Bureau of the Census, 1992). 
+
+Some persistence studies have identified 'background' factors 
+such as poor academic preparation, lack of enrollment in science and 
+math courses, parents' educational and occupational status, and lack of 
+financial resources to be predictive of persistence for this group (Astin, 
+1982; Astin & Burciaga, 1981; Attinasi, 1989; Mow & Nettles, 1990; 
+
+Nora & Rendon, 1990). Moreover, many Hispanics are first-generation 
+college students. Consequently, Hispanic parents lack critical 
+information on college admissions, program availability, and financial 
+aid. However, lack of knowledge should not be interpreted as lack of 
+educational support (Nora & Rendon, 1990). 
+
+Attinasi (1989) in a study of Mexican Americans' perceptions of 
+university attendance found that significant others such as friends and 
+family had an impact on a student's decision to enter college and 
+subsequently on Mexican Americans' decision to stay. That is, that 
+students' pre-college opportunities to be exposed to modeling and to 
+experiences related to college going are related to a student's decision 
+to enroll and to persist. The study's findings also suggest that a student's 
+level of anticipatory socialization impacts persistence in the form of 
+defining educational goals and forming decisions of whether to go to 
+college, which have been shown to positively impact persistence of 
+Hispanic students. 
+
+
+
+
+26 
+
+
+
+32 
+
+
+
+Further studies explored factors after enrollment. Findings from 
+these studies indicate that Hispanic students' goals and institutional 
+commitment, and encouragement from family, faculty and staff positively 
+affect persistence. Additionally, the number of credit hours enrolled is a 
+factor found to be associated with persistence (McCool, 1984; Nora, 
+1987; Nora, 1993; Nora & Rendon, 1990). 
+
+Nora (1987) found that among a large sample of Chicano 
+community college students, the commitment to the goal of completing 
+college and the resolve to complete it at a chosen institution, was 
+significantly more important in predicting retention than were the factors 
+of academic and social integration. Students with higher levels of 
+educational goal commitment and institutional commitment had higher 
+levels of retention. 
+
+In addition, she found that students who had higher levels of goal 
+and institutional commitment were enrolled in more semester hours and 
+were more likely to have a form of credential. This is in contrast to Tinto 
+who said that initial goal commitment did not directly affect persistence. 
+Moreover, Nora's study showed that students with higher grades had 
+more encouragement from their instructors and counselors and had 
+higher initial goal commitments. 
+
+Finally, as previously stated, the type of institution has been found 
+to affect the level of bachelor's degrees that Hispanics receive because 
+the majority of Hispanic students began their college education at a two- 
+year college and transfer rates from these institutions are low 
+
+27 
+
+
+
+
+33 
+
+
+
+(Astin, 1982; Mow & Nettles, 1990; Nora, 1993). Furthermore, findings 
+of a study of urban community colleges indicate that students who were 
+disengaged or isolated from the colleges' academic and social arenas 
+showed fewer inclinations to develop transfer behaviors 
+(Cohen, Brawer & Bensimon, 1985). 
+
+Factors related to persistence of Native Americans 
+
+Among studies of retention or persistence of students of color, the 
+least is known about Native Americans. From what little focus has been 
+given on this population, we know that they are the most 
+underrepresented ethnic group in our colleges and universities. As a 
+whole. Native Americans have achieved the lowest educational levels 
+among all racial minorities (Wright, 1991). The following explanations 
+have been given for such disproportion's. 
+
+In 1969, the Senate Subcommittee Report on Indian Education, 
+also called the Kennedy Report, attributed the problem to inadequate 
+academic preparation, lack of motivation and lack of encouragement 
+from teachers and counselors toward college aspirations, financial 
+difficulties, and challenges in adjusting to the college environment 
+(cited in Wright, 1991). 
+
+Although twenty-six years have past since the report was issued, 
+the factors that had an impact on academic failure appear to remain 
+much the same today. Researchers have repeatedly cited several factors 
+that contribute to the problem: personal reasons, poor academic 
+
+
+
+
+28 
+
+
+
+34 
+
+
+
+preparation and educational skills, language fluency, financial difficulties, 
+institutional climate, lack of role models, lack of adequate support 
+services, and cultural conflict. The focus of this section is to examine 
+those factors that have been found to have an impact on Native American 
+students' persistence. Although not meant to be exhaustive in scope, the 
+following review will be representative of the nature of the barriers and 
+factors that affect the college-going behaviors of this important 
+population. 
+
+Individual reasons are frequently cited by researchers. These 
+reasons include substance abuse, health, educational aspirations, self- 
+concept, personal motivation, parents' educational level, family and 
+community background, encouragement from friends and family, goal 
+commitment and lack of long-range goals and career goals 
+(Benjamin, Chambers & Reiterman, 1993; Falk & Aitken, 1984; Gilliland, 
+1986; Guyette & Heth, 1984; Lin, LaCounte, & Eder, 1988; McIntosh, 
+1987; Mow & Nettles, 1990; Nora, 1993; Osborne & Cranney, 1985; 
+Pavel, 1991; Pavel & Padilla, 1993; Rindone, 1988; Wells, 1989; 
+
+Wright, 1991). Finally, Whittaker (1986) found marital status to be 
+positively related to persistence. 
+
+Gender and age factors have also been found to be related to 
+persistence. However, the findings on gender to be predictive of student 
+success are inconclusive. Astin (1982) found being a female to be 
+negatively related to grade point average and persistence, while Patton 
+& Eddington (1973) found being a woman to be positively associated 
+
+
+
+
+29 
+
+
+
+35 
+
+
+
+with grade point average and persistence. The results of studies on age 
+suggest that traditional students do better and persist more than non- 
+traditional students (Astin, 1982; Patton .& Eddington, 1973). 
+
+One of the most frequently cited factors related to persistence of 
+Native Americans is inadequate academic preparation. The skill level at 
+entry is significantly less than their non-Native peers (Wright, 1991). 
+Native students have been cited as having poor skills in English 
+language, reading and writing and the skill level becomes worse at 
+college-going age (Wright, 1991). Researchers "found not only that 
+Indian students achieved well below white students but that they fell 
+further behind as the higher grades were reached" 
+
+(McNamara, 1984, p. 141). Other factors cited that are associated with 
+inadequate academic preparation include poor high school preparation 
+and poor study habits (Falk & Aitken, 1984; Guyette & Heth, 1984; 
+
+Lin et al., 1988; Pavel, 1991; Tijerina & Biemer, 1987/1988; 
+
+Wells, 1989). 
+
+Astin (1982) found that high school grade point average was the 
+best predictor of the college grade point average and an even stronger 
+predictor for Native Americans. Patton & Eddington (1973) found that a 
+higher college grade point average was positively related to persistence. 
+However, Huffman, Sill, & Brokenleg (1986), in a study of college 
+achievement among Sioux and white South Dakota students found that 
+high school grade point average was not found to be a factor of 
+persistence. 
+
+
+
+30 
+
+
+
+
+36 
+
+
+
+The most frequent reason for Native American students' attrition 
+cited by researchers and students alike is financial difficulties (Astin, 
+1982; Falk & Aitken, 1984; Guyette & Heth, 1984; Lin et al., 1988; 
+Mingle, 1987; Mow & Nettles, 1990; Nora, 1993; Tijerina & Biemer, 
+1987/1988; Wells, 1989; Wilson, 1983; Wright, 1991). The problems 
+are compounded for Native American students because many live in 
+poverty and in communities with high unemployment rates. Most 
+students do not receive support from their parents nor do they have their 
+own resources. Thus, they cannot meet the expected personal and 
+familial contributions usually required by financial aid package 
+guidelines. 
+
+In addition, because many of the students are older, they often 
+have familial obligations of support, and thus have limited resources to 
+put toward their education. Also, lost wages to a family while a student is 
+in school is another consideration (Guyette & Heth, 1984; Wright, 1991). 
+Furthermore, the situation becomes more problematic when the primary 
+sources of funding, tribal scholarships and the Bureau of Indian Affairs 
+(BIA), have not kept up with the increased costs of education as well as 
+the increased demand. Moreover, Congress has been cutting federal 
+financial aid funds for grants, further worsening the condition 
+(Tijerina & Biemer, 1987/1988). 
+
+Astin (1982) in a longitudinal study of students of color in higher 
+education found that grants and scholarships are positively related to 
+persistence of Native Americans. Mendoza & Samuels (1987) findings 
+
+
+
+31 
+
+
+
+
+37 
+
+
+
+from an evaluation of intervention activities at a community college in 
+Arizona suggest that first-time students of color who do not apply for 
+financial aid are at greater risks for attrition. 
+
+Another major grouping of factors that affect persistence is the 
+institutional climate or environment. Factors in this grouping include 
+encountering hostile environments; experiencing feelings of alienation 
+and isolation; lack of role models; difficulties integrating academically 
+and socially; administrative support; and inadequate student support 
+services (Beaty & Chiste, 1986; Browne & Evans, 1987; Falk & Aitken, 
+1984; Tijerina & Biemer, 1987/1988; Wright, 1991). 
+
+Lin et al., (1988) in a study on the effect of school environment on 
+academic performance and graduation expectation of Native American 
+students found that the factors that most significantly had a bearing on 
+persistence were feelings of hostility against the Native Americans on 
+campus and the feelings of isolation and alienation. 
+
+Lack of Native role models in both the institution and the 
+community has been found to negatively affect the persistence of Native 
+students (Guyette & Heth, 1984; McIntosh, 1987). Guyette & Heth 
+(1984), in a nationwide assessment of higher education needs of Native 
+Americans, surveyed institutions, communities, and students. Four items 
+identified by all three groups as major causes of Native American 
+student drop-outs include: lack of previous educational skills, lack of role 
+models, financial difficulties and cultural pressures especially at 
+doctorate granting institutions. 
+
+
+
+
+32 
+
+
+
+38 
+
+
+
+Falk & Aitken (1984) in conjunction with the Minnesota Chippewa 
+Tribe, attempted to identify factors that promote retention of Native 
+American college students. Interviews were conducted with 125 students 
+and 1 1 college personnel from several colleges and universities. One 
+hundred percent of the educators reported that Native faculty and staff 
+were very important or at least somewhat important to student success 
+and retention. Edwards, Edwards, Daines & Reed (1984) reported that 
+"modeling can be beneficial in recruiting American Indian women 
+students and sustaining their academic achievement at institutions of 
+higher education" (cited in Wright, 1991, p. 7). 
+
+Native American students' values, learning styles, and 
+communication styles are often different from the institution's and their 
+non-Native peers. These differences make it difficult, if not overwhelming 
+for Native students to successfully integrate academically and socially 
+into the institution (Osborne & Cranney, 1985). "The whole Western 
+philosophy of education is an institution ordered according to different 
+rules than their own" (Beaty & Chiste, 1986, p. 7). 
+
+Such differences include valuing the needs of the group over the 
+individual, communicative styles that are less participatory and more 
+reflective, and learning styles that are holistic versus linear (Beaty & 
+Chiste, 1986; Benjamin, Chambers & Reiterman, 1993; Browne & 
+
+Evans, 1987). Other findings indicate that Native Americans are found to 
+go home more often for personal reasons such as tribal ceremonies and 
+family responsibilities, which have a negative effect on attendance and 
+
+
+
+
+33 
+
+
+
+39 
+
+
+
+academic outcomes, and they are less likely to persist at relatively large 
+institutions (Cibek & Chambers, 1991). 
+
+The factor that has an effect on persistence perhaps more than 
+any other item related to institutional climate is cultural conflict. Mow & 
+Nettles (1990) reported that "several studies show that they (Native 
+college students) encounter difficulties in making cultural adjustments to 
+predominantly white institutions. What these cultural difficulties are, 
+however, and how they relate to college success and failure are unclear" 
+(p.88). Students are forced to assimilate into the mainstream culture in 
+order to fully integrate academically and socially. Academic and social 
+integration have been found by researchers to directly affect persistence. 
+Such acculturation requires often times that they reject or reduce ties with 
+their Native culture. Researchers reported that "Native American 
+students believe they are threatened with losing their "Indianness" 
+through absorption into the "mainstream" college setting. As a result, 
+many of these students leave school" (Huffman, Sill & Brokenleg, 1986, 
+p.33). Scott (1986) concludes that "many Indian students would not 
+consider dropping out of school a mark of failure" if dropping out meant 
+retaining their cultural identity (p. 393). The students who are most 
+successful are those who have struck a balance between maintaining 
+their sense of cultural identity and operating in the mainstream culture of 
+the institutions (Hornett, 1989). 
+
+Final factors that have been found to positively affect persistence 
+of Native American students is high administrative support, faculty 
+
+
+
+
+34 
+
+
+
+40 
+
+
+
+interaction and mentoring, and the availability of quality student support 
+programs. Student support programs include academic support services 
+such as tutoring and special remedial courses and workshops, 
+counseling support services and student clubs and student government 
+(Astin, 1982; Falk & Aitken, 1984; Guyette & Heth, 1 984; Wright, 1985). 
+Falk & Aitken (1984) found a significant relationship between years of 
+retention in college and attendance at Native American student 
+organization meetings. 
+
+Finally, one other factor that appears to positively affect 
+satisfaction and persistence of Native Americans is attendance at a 
+tribally controlled college. Stien (1992), in a study of student success at 
+tribal colleges, found that enrollment for first-generation students at these 
+colleges positively affect persistence and retention. The author suggests 
+that the reasons for such success are attributed to focus by the colleges 
+on the individual student, and the ability of the students to maintain their 
+cultural identity. 
+
+In summary, the factors that appear to have an affect on Native 
+American persistence are personal reasons, poor academic preparation 
+and educational skills, language fluency, financial difficulties, institutional 
+climate, lack of role models, cultural conflict, student support services and 
+programs, and enrollment in tribal colleges. 
+
+
+
+
+35 
+
+
+
+41 
+
+
+
+Demographics of Native Americans in Higher Education 
+
+
+
+Only recently have data been collected and made available about 
+Native Americans in higher education. Prior to the 1970's, the Census 
+Bureau, reporting on enrollment figures for minority groups, included 
+African-Americans and Hispanics only. Even now, information on Native 
+Americans is fragmented and uncoordinated (Hodgkinson, 1990). 
+Hodgkinson found that only four of the 1 ,487 tables from the Census 
+Bureau's Statistical Abstracts of the United States J 990 reflect data on 
+Native Americans. From the scarce data available on this population, 
+this review will highlight how many are enrolled, where they are enrolled, 
+and what they are enrolling in. 
+
+In 1966, enrollment of Native-American students was 1 .6% of the 
+Native population. With the creation of the twenty-four tribally controlled 
+colleges, enrollment increased. Dramatic increases in enrollment growth 
+in higher education leveled off in the 1980's, peaking in 1982 (Mingle, 
+1987). At the graduate level, enrollment peaked in 1980 and first time 
+enrollment in professional programs has seen a 22% reduction since 
+1976 (Mingle, 1987). 
+
+Enrollment patterns do not match the increase of the population in 
+general nor the increase in the college age cohort (Fries, 1 987). The 
+U.S. Bureau of the Census projects a 60% increase of the Native 
+American population from 1 980 to the year 2000. This has those who 
+are interested in the state of this population concerned. Wright (1991) 
+comments on the predicament saying that “despite significant advances. 
+
+
+
+
+36 
+
+
+
+42 
+
+
+
+American Indians and Alaska Natives remain among the least educated 
+ethnic groups in the nation" (p. 5). 
+
+Astin (1982) reported that 23% of whites, 12% of African- 
+Americans, and 7% of Hispanics have a college degree. 
+
+In comparison, only 6% of the Native population are degree holders. 
+Recent reports indicate that "from 1981 to 1992 the number of American- 
+Indian students earning degrees at all levels rose 46% to 10,883" (Gose, 
+1995, p. A23). This is still only 6% of the Native population based on the 
+population total cited by the Bureau of the Census, 1990. 
+
+In the 1990 Census 1.9 million Americans claimed Native 
+American status and over 5 million indicated Indian descent. According 
+to figures from the U.S. National Center for Education Statistics, 
+approximately 118,800 Native Americans in 1992 were enrolled in 
+institutions of higher education (Statistical Abstracts of the United States, 
+1994). Of those, 58% were female and 42% were male. 
+
+Native American students are predominately enrolled in public 
+institutions and the majority attend two-year colleges. In 1 992, 88% of 
+the total Native population were enrolled in public institutions. Fifty-four 
+percent attended community colleges, compared to thirty-nine percent of 
+all college students (Statistical Abstracts of the United States, 1994). 
+
+The high proportion of Native American students enrolled in two-year 
+colleges, as alluded to previously, is a matter of concern because 
+research has shown that students who attend these institutions have low 
+rates of transfer to four-year institutions (Mow & Nettles, 1990). Other 
+
+
+
+
+37 
+
+
+
+43 
+
+
+
+demographic data is noteworthy. Less than half are full-time equivalents. 
+Increasingly, these students are attending part-time (Mingle, 1987). 
+
+More than half of Native Americans live in just six states: 
+Oklahoma, California, Arizona, New Mexico, Alaska and Washington 
+State (Hodgkinson, 1990). Thus, it is not surprising that the three states 
+with the highest Native American student enrollment are California with 
+21,000 Native students, Oklahoma with 9,600 and Arizona with 8,200 
+(Hodgkinson, 1992). Most institutions have very small Native American 
+populations. 
+
+The areas of study that Native Americans pursue are generally not 
+very different from their white counterparts (Wright, 1991). In 1987, 
+Native American students received 3,196 associate degrees, 3,971 
+bachelor's degrees, 1,104 master's degrees, 104 doctoral degrees and 
+304 first professional degrees (Hodgkinson, 1990). At the associate 
+level, 25 percent of degrees awarded were in the field of Business and 
+Management with another 25 percent in Liberal and General studies. 
+
+The next most frequent field of study was in the Health Professions (10 
+percent). For those students receiving bachelor's degrees, the most 
+frequent were in Business and Management (20 percent). Education (1 1 
+percent) and Social Sciences (12 percent). Master's degree recipients 
+pursued generally the same fields as the undergraduates with nearly half 
+receiving degrees in Business and Management (15 percent) and 
+Education (34 percent). In addition, twelve percent were awarded 
+master's degrees in public affairs. The two most common areas of study 
+
+
+
+
+38 
+
+
+
+44 
+
+
+
+in doctoral programs were in education (49 percent) and psychology (16 
+percent). Of the professional degrees awarded, half were in law. 
+
+In summary, available demographic data show that Native 
+American students have low enrollments compared to the overall 
+population, attend predominately two year, public institutions, and attend 
+less than full-time. In addition. Native American women attend more than 
+men. Finally, these students pursue fields of study that are in the public 
+service sector and consequently are generally not high-wage jobs. 
+
+Background Data on Washington's Community Colleges 
+
+Because this is a study on a particular subgroup of students in 
+Washington's community colleges, the researcher thought it was 
+appropriate to briefly outline general characteristics of students in these 
+community colleges. Included in this section is a summary of student 
+demographic characteristics, students by purpose of attending, and the 
+composition of college personnel by gender and ethnicity (Source: 
+Washington Community and Technical Colleges, Academic Year Report, 
+1993-1994). 
+
+During the 1993-1994 academic year, there were a total of 
+438,281 students enrolled in the state's thirty-two community and 
+technical colleges. Females (55%) outnumbered males (45%). In 
+addition, 61% were enrolled part-time and 39% were enrolled full-time. 
+
+
+
+
+39 
+
+
+
+45 
+
+
+
+Of the total, 78% were white, 8% were Asian and Pacific Islander, 
+
+6% were Hispanic, 5% were African-American, and 2% were Native- 
+American. Interestingly, it appears that Native American enrollment 
+equals their proportion to the state's total population (2%). 
+
+Students were found to enroll for many purposes. Twenty-six 
+percent were enrolled with the goal of transferring. The median age of 
+this group was 19. About 47% were enrolled for workforce (vocational) 
+related purposes. The median age of this group was 27. Six percent 
+were enrolled in basic skills classes such as ABE, ESL, GED or high 
+school completion. This group was older than the transfer students but 
+younger than the workforce students. Another 21% did not specify a goal 
+when they enrolled. 
+
+A lack of role models was found to be a predictor of success for 
+students of color. An examination of the diversity of the college's 
+personnel found that 15.9 % of the colleges support staff, 14% of 
+administrative staff, 9.7% of full-time faculty, and 6.9% of part-time faculty 
+were persons of color. Females were found to be in the majority of all of 
+the above groups, except for full-time faculty (44.5%). It appears that the 
+diversity of college personnel does not match that of the student 
+population they serve. 
+
+
+
+
+40 
+
+
+
+48 
+
+
+
+Summary 
+
+
+
+Research on retention is a much studied phenomenon. A review 
+of available literature on retention indicates that students of color 
+experience institutions of higher education differently than their White 
+counterparts. Furthermore, it appears that factors associated with 
+persistence of students of color highlight experiences of encountering 
+hostile environments and feelings of alienation and isolation. For Native 
+American students who persist the least among students of color, cultural 
+conflicts between maintaining their sense of cultural identity and 
+assimilating into the mainstream culture are simply insurmountable. 
+
+
+
+
+41 
+
+
+
+47 
+
+
+
+CHAPTER THREE 
+
+
+
+METHODOLOGY 
+
+Introduction 
+
+This is a descriptive study designed to determine the persistence 
+rates and those factors that affect persistence of Native Americans in 
+community colleges in Washington State over a six year period (1988- 
+1994). Specifically, what are the enrollment patterns of Native American 
+students and are there differences along a multitude of variables 
+between those who persist and those who do not. Fall to spring 
+enrollment the first year was used as the measure of persistence. Non- 
+persisters were measured by stop-out or drop-out activity. Such a 
+definition of persisters was chosen because community colleges focus 
+efforts to increase retention on a quarter by quarter basis, rather than 
+from one academic year to the next (Bers & Smith, 1991). In addition, 
+the first year of college is considered by researchers to be the most 
+critical to future enrollment (Astin, 1982; Tinto, 1993). 
+
+Chapter three will detail the methods used for implementation of 
+the study. The population and sample, data collection, and analysis of 
+the data will be discussed. 
+
+Population and Sample 
+
+The target population is all current and future Native American 
+students in community colleges. The sampling frame consisted of all 
+Native Americans enrolled in community colleges in Washington State 
+
+
+
+
+42 
+
+
+
+4S 
+
+
+
+during Fall quarter, 1988. This starting date was chosen because the 
+researcher wanted to be able to follow a cohort over a period of four 
+years or more. Longitudinal data is considered more useful in 
+understanding enrollment patterns (Astin, 1982; Mow & Nettles, 1990; 
+Nora, 1993). 
+
+Although including all Native American students would have 
+contrived a larger sample (N=2,358), for the purpose of this study and 
+based on a review of the literature, the researcher desired a sample that 
+included only first-time college students. Thus, this study excluded 
+students enrolled in Fall quarter, 1988, with credits from another college. 
+This selection process created a final sample of 462 Native American 
+students. 
+
+Data Collection 
+
+From a review of the literature, the researcher composed a list of 
+desired variables for study to submit to the Washington State Board for 
+Community and Technical Colleges (SBCTC) for data collection. The list 
+was revised after a consultation with State Board staff to reflect the 
+availability of existing data. The final list was submitted and the SBCTC 
+accessed information previously gathered from students by the then 
+state's twenty-eight community colleges to create the requested file. 
+
+A file containing data on all students who started in Fall quarter, 
+1988, was obtained from the SBCTC (N=27,056). Included on the file 
+was data on a multitude of variables used in the study (see Appendix A). 
+
+43 
+
+
+
+ERIC 
+
+
+
+49 
+
+
+
+There were a total of fifty-five variables and corresponding data on the 
+original file. After a review of the file by the researcher, and after 
+consultation with knowledgeable others on the contents of the file, 
+twenty-one of the original fifty-five variables were found not useful for the 
+purposes of the study. A total of 34 variables were determined useful for 
+examination. Values for the variables were pre-assigned by the staff who 
+compiled the data. 
+
+In order to determine how many Native American students were 
+enrolled, a frequency was run on the ethnic variable using a statistical 
+package called the Statistical Package for Social Sciences (SPSS). For 
+students just starting college in Fall, 1988, 84.6% were white (N=21,759), 
+1.8% Native American (N=462), 2.9% African-American (N=746), 2.3% 
+Hispanic (N=591), and 4.9% Asian or Pacific Islander (N=1,368). 
+
+Data Analysis 
+
+The variables were analyzed for like traits and placed in 
+appropriate categories for study. These categories are student 
+demographics such as age and gender, enrollment activity, retention or 
+persistence rates and student progress. The analysis of the data was 
+conducted in three phases. Phase One utilized common statistical 
+measures such as means, standard deviations and percentages. Phase 
+Two consisted of cross tabulations of particular variables such as gender 
+and transfer rates. Phase Three consisted of t-tests and chi-square 
+analysis. 
+
+
+
+
+44 
+
+
+
+50 
+
+
+
+CHAPTER FOUR 
+
+
+
+RESULTS 
+
+Introduction 
+
+This study investigated the progress of first-time Native American 
+students in Washington's community colleges over a six-year period, 
+beginning in Fall, 1988. In particular, the persistence rates of Native 
+Americans were addressed. Similarities and differences between 
+persisters and non-persisters on a multitude of variables were examined. 
+Categories of examination include demographics, enrollment patterns, 
+retention and student progress. This chapter will describe the research 
+results. 
+
+Demographic Variables 
+
+The demographic characteristics for persisters (182), non- 
+persisters (280), and the total population (462) are presented in Table 1. 
+Overall, 264 (57%) students were female and 198 (43%) students were 
+male. Results indicate that females persist at higher rates than males. 
+Sixty-three percent of persisters were female; forty-three percent of all 
+females in the cohort. In contrast, only thirty-seven percent of persisters 
+were male; thirty-four percent of all males in the cohort. 
+
+The mean age of the total population was 25.87 and the standard 
+deviation 1 0.84. Sixty-one percent (280) of the total were between the 
+ages of sixteen and twenty-four years old. Non-traditional students (older 
+than twenty-four) made up only thirty-nine percent (182) of the cohort with 
+
+
+
+
+45 
+
+
+
+51 
+
+
+
+twenty-six percent (120) over thirty years of age. Findings show that 
+persisters were considerably younger than non-persisters. The mean 
+age of persisters was 23.7 with a standard deviation of 9.4. The mean 
+age of non-persisters was 27.3 with a standard deviation of 11 .5. Over 
+seventy-five percent (137 of 182) of persisters were twenty-four years old 
+or younger. In contrast 51% (130 of 280) of non-persisters were thirty 
+and above. 
+
+Of the original cohort, twenty-five students (5.4%) reported having 
+a disability. Eighteen of the original twenty-five students, or seventy-two 
+percent of students with disabilities were non-persisters. Seven or 
+twenty-eight percent of the total were persisters. 
+
+Economic and academically disadvantaged students made up 
+thirty-eight percent (173) of the total. Students who were economically 
+disadvantaged were identified by their receipt of need based aid. 
+Academically disadvantaged students were identified by their enrollment 
+in developmental classes. The results indicate that persisters were more 
+likely to receive need-based aid and less likely to be academically 
+disadvantaged. Fifty-three percent of all students who received need 
+based aid were persisters. Twenty percent of all persisters were 
+economically disadvantaged. Less than twelve percent of non-persisters 
+were determined to be economically disadvantaged. Fifty-three percent 
+of all academically disadvantaged students were non-persisters. 
+
+
+
+
+46 
+
+
+
+52 
+
+
+
+TABLE 1: DEMOGRAPHICS OF PERSISTERS. NON>PERSISTERS AND TOTAL 
+
+
+
+Persisters Non-Persisters 
+
+
+
+Total 
+
+
+
+Variables M(SD) 
+
+
+N 
+
+
+% 
+
+
+M(SD) 
+
+
+N 
+
+
+% 
+
+
+M(SD) 
+
+
+N 
+
+
+% 
+
+
+Gender 
+
+Female 
+
+
+114 
+
+
+62.6 
+
+
+
+
+150 
+
+
+53.6 
+
+
+
+
+264 
+
+
+57.1 
+
+
+Male 
+
+
+68 
+
+
+37.4 
+
+
+
+
+130 
+
+
+46.4 
+
+
+
+
+198 
+
+
+42.9 
+
+
+Age 24 (9) 
+
+16-24 
+
+
+137 
+
+
+75.3 
+
+
+27(11) 
+
+
+120 
+
+
+42.9 
+
+
+26(11) 
+
+
+280 
+
+
+60.6 
+
+
+25-29 
+
+
+18 
+
+
+9.9 
+
+
+
+
+18 
+
+
+6.4 
+
+
+
+
+62 
+
+
+13.4 
+
+
+30 & above 
+
+
+27 
+
+
+14.8 
+
+
+
+
+142 
+
+
+50.7 
+
+
+
+
+120 
+
+
+26 
+
+
+Handicapped 
+
+
+7 
+
+
+3.8 
+
+
+
+
+18 
+
+
+6.4 
+
+
+
+
+25 
+
+
+5.4 
+
+
+Disadvantaged 
+
+Economic® 
+
+
+37 
+
+
+20.3 
+
+
+
+
+33 
+
+
+11.8 
+
+
+
+
+70 
+
+
+15.2 
+
+
+Academic^ 
+
+
+48 
+
+
+26.4 
+
+
+
+
+55 
+
+
+19.6 
+
+
+
+
+103 
+
+
+22.3 
+
+
+3 Based on students who received need based aid. 
+Based on enrollment in developmental classes. 
+
+
+
+
+
+
+
+
+
+
+
+Summary 
+
+Overall, findings show that the majority of the Native American 
+student cohort is female (57%), and aged sixteen to twenty-four years of 
+age (61%). Thirty-nine percent were twenty-five or older. Twenty-five 
+(5%) students reported to have a disability, 103 students (22%) were 
+determined academically disadvantaged and 70 (15%) students 
+received need based aid. 
+
+Persisters were found to be traditional in age, predominately 
+female, more likely to receive need based aid, and less likely to be 
+enrolled in developmental courses. The results indicate that the majority 
+
+
+
+
+47 
+
+
+
+53 
+
+
+
+of non-persisters are thirty or above and a little less than half were male. 
+Non-persisters are more likely to be academically disadvantaged and 
+less likely to receive need based aid. In addition, of the total students 
+with disabilities, over seventy-two percent were non-persisters. 
+
+Enrollment Patterns 
+
+Enrollment activity was examined by students' full and part-time 
+status their first quarter, initial intent (goal commitment) upon enrollment 
+and their intent at exit. The completion rate of specific college-level 
+classes before leaving college was also examined (see Table 2). 
+
+Half of the total population was enrolled full-time (twelve or more 
+credits) their first quarter of attendance. Significant differences were 
+found between first-quarter enrollment status and persistence. More 
+non-persisters (67%) than persisters (24%) were enrolled full-time. 
+Chi-square analysis confirmed the statistical significance of enrollment 
+status. A cross tabulation of persisters and non-persisters to part-time 
+and full-time enrollment status indicated an association 
+(X2 = 83.55; p<.01). It is concluded therefore that enrollment status and 
+persistence are significantly related. 
+
+Students' intents were categorized by academic, vocational, and 
+developmental educational goals. Of the total population, 227 (49%) 
+indicated a goal of achieving a vocational degree or certificate at the time 
+of initial enrollment. Another 139 (30%) indicated their desire to earn an 
+academic transfer or Associate's degree. 
+
+
+
+
+48 
+
+
+
+54 
+
+
+
+The third category of students indicated that they were enrolled for 
+developmental reasons (8%). About 38% of the persisters enrolled with 
+the intent of earning an academic degree, compared to 25% of non- 
+persisters. Similarly, more persisters (51%) than non-persisters (48%) 
+were pursuing vocational goals. Finally, the study found that more non- 
+persisters (10%) than persisters (4.3%) were at the community college for 
+developmental reasons. 
+
+An analysis of students' intents upon leaving is of interest. The 
+research found that while persisters' educational goals increased the 
+longer they were enrolled, non-persisters' educational goals decreased. 
+For example, persisters at exit reported a two percent increase of those 
+planning to transfer, compared to no change in non-persisters. Likewise, 
+results indicated a one percent decrease for persisters with 
+developmental intents compared to a one percent increase in the intents 
+of non-persisters to enroll for developmental reasons. Further, there was 
+about a four percent decrease among those reporting a vocational intent 
+at time of exit for non-persisters. 
+
+The completion rate for the first or second college-level English 
+class or college-level math class before leaving college was explored. 
+One third of the total population completed the first college-level English 
+class, 18% completed the second college-level English class and 14% 
+completed a college-level math class before leaving college. 
+
+The results indicate an important distinction between non-persisters and 
+persisters and completion rates of specific college-level classes. 
+
+
+
+
+49 
+
+
+
+55 
+
+
+
+Although 33% of the total completed the first level English class, over 
+56% of persisters and only 18% of non-persisters completed the course. 
+Moreover, persisters completed the second college-level English at a 
+rate of nearly 30% compared to the completion rate for non-persisters of 
+10%. The pattern is the same for completion rates of college-level math. 
+Forty-five percent of persisters and roughly six percent of non-persisters 
+completed a college-level math class. 
+
+TABLE 2: ENROLLMENT VARIABLES 
+
+
+
+
+
+Persisters 
+
+
+Non- 
+
+
+■Persisters 
+
+
+Total 
+
+
+Variables 
+
+
+N 
+
+
+% 
+
+
+N 
+
+
+% 
+
+
+N 
+
+
+% 
+
+
+Status 
+
+
+Full-time (>12cr) 
+
+
+43 
+
+
+23.6 
+
+
+188 
+
+
+67.1 
+
+
+231 
+
+
+50 
+
+
+Part-time (<12cr) 
+
+
+139 
+
+
+76.4 
+
+
+92 
+
+
+32.9 
+
+
+231 
+
+
+50 
+
+
+Initial Intent 
+
+
+Academic 
+
+
+69 
+
+
+37.9 
+
+
+70 
+
+
+25 
+
+
+139 
+
+
+30 
+
+
+Vocational 
+
+
+92 
+
+
+51.5 
+
+
+135 
+
+
+48.2 
+
+
+227 
+
+
+49 
+
+
+Developmental 
+
+
+8 
+
+
+4.3 
+
+
+29 
+
+
+10.4 
+
+
+35 
+
+
+8 
+
+
+Exit Intent 
+
+
+Academic 
+
+
+72 
+
+
+39.6 
+
+
+70 
+
+
+25 
+
+
+142 
+
+
+31 
+
+
+Vocational 
+
+
+94 
+
+
+51.5 
+
+
+124 
+
+
+44.3 
+
+
+218 
+
+
+47 
+
+
+Developmental 
+
+
+6 
+
+
+3.3 
+
+
+32 
+
+
+11.4 
+
+
+39 
+
+
+9 
+
+
+CM Courses^ 
+
+
+English 1 
+
+
+91 
+
+
+56.2 
+
+
+47 
+
+
+18.1 
+
+
+138 
+
+
+33 
+
+
+English 2 
+
+
+48 
+
+
+29.6 
+
+
+26 
+
+
+10 
+
+
+74 
+
+
+18 
+
+
+Math 
+
+
+45 
+
+
+27.8 
+
+
+15 
+
+
+5.8 
+
+
+60 
+
+
+14 
+
+
+
+^Frequencies and percentages do not reflect the groups (N's). 
+
+Two colleges (40 students) were excluded from analysis based on unavailable data. 
+
+
+
+Summary 
+
+The study revealed that persisters were more often enrolled part- 
+time, had higher educational aspirations both initially and when they left 
+the institution, and had higher completion rates for both first and second 
+college-level English and college-level math classes than non-persisters. 
+
+Persistence and Retention 
+
+The study focused its retention research on the total quarters 
+enrolled over a six-year period beginning in Fall, 1988. The study 
+presented the percentages of the three groups and the overall population 
+percentages of students persisting at the end of one quarter through the 
+end of five years. 
+
+Table three presents data on the total quarters enrolled for the 
+three groups in the study. The study reveals that for all three groups the 
+total number of quarters enrolled were low. The mean number of 
+quarters enrolled for the entire Native American population was 3.66 with 
+a standard deviation of 3.14 for the entire Native American population. 
+The difference in means between persisters and non-persisters is 
+important. The mean number of quarters for persisters and non- 
+persisters were 5.99 and 2.14 respectively. 
+
+
+
+
+51 
+
+
+
+57 
+
+
+
+TABLE 3: TOTAL QUARTERS ENROLLED OVEBLA SIX YEAR PERIOD 
+
+
+
+Groups 
+
+
+Mean 
+
+
+Standard 
+
+Deviation 
+
+
+Range 
+
+
+Persisters 
+
+
+5.99 
+
+
+3.16 
+
+
+14 
+
+
+Non-Persisters 
+
+
+2.14 
+
+
+2 
+
+
+10 
+
+
+Total 
+
+
+3.66 
+
+
+3.14 
+
+
+16 
+
+
+
+Another subset of categories was used to examine retention 
+(see Table 4). These categories are early leavers, students who 
+enrolled for only one quarter over the six year period; some progress, 
+those who enrolled for two or three quarters over a six-year period; and 
+substantial progress, those students enrolled in the college for four or 
+more quarters over the six-year period. These categories were originally 
+used for analysis over a two-year period by researchers at the 
+Washington State Board for Community and Technical Colleges. The 
+time frame of analysis using these categories was changed for the 
+purpose of this study. 
+
+Of the total population, 34% were found to be early leavers, 30% 
+had made some progress, and 36% had made substantial progress, 
+completing four or more quarters over the six-year period. Another 
+difference identified was between persisters (69%) and non-persisters 
+(15%) who had made substantial progress. Although non-persisters did 
+not complete three consecutive quarters their first year of enrollment, 
+
+15% did make substantial progress by enrolling four or more quarters 
+over the course of six years. Thus, some of those students are 
+
+
+
+
+52 
+
+
+
+58 
+
+
+
+considered stop-outs instead of drop-outs because they came back 
+sometime during those six years. 
+
+
+
+TABLE 4: GROUP PERCENTAGES BY QUARTERS ENROLLED 
+
+
+
+Progress 
+
+
+Persisters 
+
+
+Non-persisters 
+
+
+Total 
+
+
+Early Leavers 
+
+
+0 
+
+
+56 
+
+
+34 
+
+
+Some Progress 
+
+
+31 
+
+
+29 
+
+
+30 
+
+
+Substantial Progress 
+
+
+69 
+
+
+15 
+
+
+36 
+
+
+
+Results shown in table 5 indicate the overall persistence or 
+retention rates of the Native American cohort examined in this study. 
+
+The findings exhibit that 33% left after only one quarter of enrollment and 
+never returned during the six-years of the study. Thus, 66% remained 
+after one quarter. Forty-two percent remained after one year, and 27% 
+after two years. Another 17% remained after three years. Finally, one 
+percent of the total persisted more than five years. 
+
+
+
+TABLE 5: PERSISTENCE OF TOTAL COHORT OVER SIX YEAR PERIOD 
+
+
+
+Years Enrolled % 
+
+
+
+Persisted more than one quarter 66 
+
+Persisted more than one year 42 
+
+Persisted more than two years 27 
+
+Persisted more than three years 1 7 
+
+Persisted more than four years 9 
+
+Persisted more than five years 1 
+
+
+
+
+53 
+
+
+
+59 
+
+
+
+student Progress 
+
+
+
+The researcher sought to investigate students' progress after 
+enrollment because the literature found that what happens to a student 
+after enrolling in the institution is critical to student persistence and 
+success. Variables examined for this category included college-level 
+grade point average their first quarter of enrollment, college-level credits 
+earned and attempted, whether students earned Associate's degrees or 
+certificates during the six year study period, and, finally, how many Native 
+American students transferred to four year colleges or universities within 
+four years (see Table 6). Although the transfer variable only includes 
+transfer within Washington state, it was considered valid for study 
+because of the tendency for Native Americans to stay close to home 
+(Wright, 1991). 
+
+The first measure of student progress is students' grade point 
+average at the end of their first quarter. Statistical differences were found 
+between the means of persisters and non-persisters on this variable. 
+
+The mean grade point average of persisters was 2.13 (C+) and the mean 
+grade point average of non-persisters was 1.32 (D+). A random sample 
+of 30 students was taken from the persisters and non-persister groups. 
+
+An independent t test was used to examine mean grade point average 
+differences between the groups. The results indicate a significant 
+difference (t=2.08; p<.05) between the grade point average of persisters 
+and non-persisters . 
+
+
+
+
+54 
+
+
+
+60 
+
+
+
+A second measure of progress is the completion rate of credits 
+earned over credits attempted. For the total, the mean for credits earned 
+was 23.68 and the mean for credits attempted was 24.68 (see Table 6). 
+Thus, the credit completion rate was at 96% of credits attempted. 
+Research results show that persisters had a higher credit completion 
+rate. The rate of completion for persisters was 97% compared to 92% for 
+non-persisters. 
+
+Only 37 (8%) students of the entire cohort of 462 earned Associate 
+degrees and only 7 (1.5%) earned certificates. Females (62%) 
+outnumbered male (38%) degree earners. Similarly, 71% of the 
+certificates were awarded to females. Among degree earners, 84% of 
+those were under the age of 25. Of those who received certificates, 86% 
+were 25 years of age or older. Some 92% of the Associate degrees 
+given out went to persisters. Likewise, persisters were found to earn all 
+(100%) of the certificates awarded during the six-year period of study. 
+Chi-square analysis indicated no significant differences between 
+persisters and non-persisters on degrees or certificates earned (X2=.61). 
+However, given the numbers, the differences are still of importance. 
+
+Finally, in considering student progress, the researcher examined 
+the rate of transfer to baccalaureate institutions within four-years. Nine 
+percent of the total cohort were found to have transferred to 
+baccalaureate institutions in Washington State within four years, and 
+57% of those who transferred were females. The raw rate of all students 
+who entered community colleges in Washington State in Fall, 1988 with 
+
+
+
+
+55 
+
+
+
+61 
+
+
+
+no prior college credits show a 13% transfer rate. In addition, the study 
+found that 63% of those who earned transfer degrees transferred. 
+Furthermore, more persisters (18%) than non-persisters (4%) transferred. 
+Interestingly, a cross tabulation of the sample of the Native American 
+cohort who reported an initial intent of academic transfer by actual 
+transfer reveals that 17% (24) did transfer. 
+
+TABLE 6: STUDENT PROGRESS 
+
+
+
+Persisters Non-Persisters 
+
+
+
+Total 
+
+
+
+Variables 
+
+
+M(SD) 
+
+
+N 
+
+
+% 
+
+
+M(SD) 
+
+
+N 
+
+
+% 
+
+
+M(SD) 
+
+
+N 
+
+
+% 
+
+
+College GPA 
+
+
+2.13 (1.14) 
+
+
+
+
+
+
+1.32 (1.5) 
+
+
+
+
+
+
+1.64 (1.42) 
+
+
+
+
+
+
+College Credits 
+Earned 
+
+
+47.66 (40.65) 
+
+
+
+
+
+
+8.1 (16.87) 
+
+
+
+
+
+
+23.68 (24.66) 
+
+
+
+
+
+
+Attempted 
+Completion Rt. 
+
+
+49.07 (39.78) 
+
+
+
+
+97 
+
+
+8.82 (16.94) 
+
+
+
+
+92 
+
+
+24.68 (34.39) 
+
+
+
+
+96 
+
+
+Completion 
+Assoc. Degree 
+
+
+
+
+34 
+
+
+19 
+
+
+
+
+3 
+
+
+1.1 
+
+
+
+
+37 
+
+
+8 
+
+
+Certificate 
+
+
+
+
+7 
+
+
+3.8 
+
+
+
+
+0 
+
+
+0 
+
+
+
+
+7 
+
+
+1.5 
+
+
+Transfer 4YR 
+
+
+
+
+32 
+
+
+18 
+
+
+
+
+10 
+
+
+3.6 
+
+
+
+
+42 
+
+
+9.1 
+
+
+other Findinqs 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The study's findings indicate that roughly 34% left after one 
+quarter, never to return to Washington community colleges within the six 
+year study period. Upon discovering these results, the researcher sought 
+to determine the characteristics of such an important group. A listing of 
+such characteristics are presented in Appendix B. A preliminary 
+overview reveals that this group is older than the overall population, with 
+
+56 
+
+
+
+
+62 
+
+
+
+a mean of 29, and that 59% indicated a desire to earn an academic 
+transfer degree or a vocational degree or certificate. Over fifty percent of 
+all students who reported having a disability were among this group of 
+early leavers. Further, it was found that the mean first quarter grade point 
+average of this group was .899, compared to the mean for persisters of 
+2.13. 
+
+Summary 
+
+The results of the study indicate that the persistence rates of 
+Native Americans were low and differences exist between persisters and 
+non-persisters among the variables studied. Factors that were found to 
+be related to persistence were gender, age, enrollment status, 
+educational aspirations and college grade point average during the first 
+quarter of community college enrollment. It was concluded that 
+enrollment status and persistence were significantly related. Results also 
+found a significant difference between grade point averages of persisters 
+and non-persisters. 
+
+
+
+
+57 
+
+
+
+63 
+
+
+
+CHAPTER FIVE 
+DISCUSSION 
+
+
+
+Introduction 
+
+This section will discuss the research findings, discuss the 
+implications of such findings, examine the limitations of the study, and 
+offer suggestions for further research. Several conclusions will be 
+offered based on the results and on the review of literature. 
+
+Discussion of Findings 
+
+The purpose of this study was not only to provide a descriptive 
+document on the characteristics and progress of Native American 
+students in community colleges in Washington State (currently non- 
+existent), but it also sought to determine the persistence rates of this 
+group and to identify those factors which were related to persistence in 
+higher education. 
+
+The persistence rates of first-time Native students were found to be 
+low. The results of the study indicated that the persistence rates were 
+similar to previous studies on retention of Native Americans. Sixty-six 
+percent persisted more than one quarter, and 42% persisted more than 
+one year. Wells (1989) in a survey of roughly 80 colleges and 
+universities with high concentrations of Native American students 
+reported that over half left during the first year of college. 
+
+
+
+
+58 
+
+
+
+64 
+
+
+
+Those factors found to be related to persistence were gender, age, 
+educational aspirations, enrollment status, and the college grade point 
+average. Also, students who persisted were found to have received 
+need based aid more frequently and were less likely to be enrolled in 
+developmental classes. All of these factors have been found to be 
+related to persistence in past retention literature. 
+
+First, the findings found that those who persist were female and 
+under the age of twenty-five. Patton & Eddington (1973) reported like 
+findings. In their study of a large sample of Native Americans at two 
+southwestern universities, two of the factors found to be statistically 
+related to persistence were age (younger) and sex (female). What 
+explanations can be given for these results? One conclusion that can be 
+drawn regarding the age factor is that the younger students have not 
+been out of the educational environment as long as the older students 
+have been and thus their skills have not had time to deteriorate. Or, the 
+results could suggest that because the younger students have not been 
+out of the system for as long, they may find the environment of the 
+institution to be 'normal' and may be less sensitive to racial bias and 
+hostility than older students who may be less accustomed to such an 
+environment and less willing to tolerate such a climate. 
+
+Another factor found significantly related to persistence in Patton & 
+Eddington's study (1973) was the college grade point average. Again, 
+this finding is similar to the findings in the present study where a 
+
+
+
+
+59 
+
+
+
+65 
+
+
+
+significant association was found between the college grade point 
+average and persistence. This finding seems rather logical since those 
+who do well, stay. The questions to ask that are more important, 
+however, is what factors were associated with such poor academic 
+performance? Were there no academic support services available to 
+assist those at risk? Did those who were found to not persist, have other 
+familial obligations that precluded attendance in class, thus affecting their 
+academic outcome? Were the teaching styles incongruent with the 
+students' learning styles? 
+
+The most surprising discoveries in the study was the statistically 
+significant relationship (p<.01) found between persistence and 
+enrollment status. Previous research had indicated that full-time 
+enrollment status was positively associated with persistence among 
+Native American students as well as students in general 
+(Astin 1982; Tinto, 1987, 1993). However, this study's findings show the 
+opposite results. Of those who persisted, over 75% were found to be 
+enrolled part-time their first quarter of attendance. It can be speculated 
+that those who were enrolled part-time were also working part-time and 
+thus were forced to prioritize their responsibilities and manage their time 
+more efficiently. It can also be speculated that the part-time students 
+were more motivated to stay and persist. Another possible conclusion is 
+that those who were enrolled only part-time were less pressured to 
+assimilate into the mainstream culture. Moreover, they were better able 
+to maintain their cultural identity. 
+
+
+
+
+60 
+
+
+
+66 
+
+
+
+Students who persisted three consecutive quarters their first year 
+of enrollment were found to receive need based aid more frequently than 
+non-persisters. What conclusions can be drawn from such results? 
+Perhaps one conclusion that can be drawn is that those who received 
+need based aid had access to information on financial aid from 
+supportive friends or family or community members who had some 
+knowledge about the application process. Such conclusions imply that 
+non-persisters probably had just as much of an economic need as that of 
+persisters, but did not have access to the critical information needed to 
+receive such aid. Mendoza & Samuels (1987) findings from an 
+evaluation of intervention activities at a community college in Arizona 
+suggest that first-time students of color who do not apply for financial aid 
+are at greater risk for attrition. 
+
+Implications 
+
+Since the persistence and transfer rates for this underrepresented 
+population are so low, there are many implications of this study for 
+Student Affairs professionals and other educators interested in the higher 
+education enterprise for this population. Some indications were 
+provided that Native American students may have difficulty initially 
+adjusting to college, which has been shown to be particularly crucial to 
+persistence. An examination of current intervention activities such as 
+academic advising and counseling toward Native American students in 
+their first quarter of enrollment must be reviewed to determine 
+
+
+
+
+61 
+
+
+
+67 
+
+
+
+appropriate actions for improvement. In addition, it appears that 
+community education on available financial resources would be helpful 
+to those students who might not otherwise receive such critical 
+information. 
+
+Furthermore, the findings suggest a need for strategies focusing 
+on the retention of those Native American students older than twenty-five 
+years of age, who appear to need the greatest assistance to persist. 
+
+Limitations 
+
+There are two potential limitations to this study. Using existing 
+data as one's base could be a limitation, since the data collected may 
+have been intended for an entirely different purpose than that of the 
+study. Second, it must be remembered that the Native American people 
+are not a homogenous group. Therefore, the study population and the 
+study results are perhaps regionally influenced and may not necessarily 
+be reflective of the rest of the United States' indigenous populations who 
+may have different relationships with the dominant society. 
+
+Suggestions for Further Research 
+
+Because so little research has focused efforts on understanding 
+the persistence of Native American students and those factors related to 
+persistence in higher education, there is still much left to do and know. 
+The following recommendations for further research represent the nature 
+of information still to gather and understand. 
+
+
+
+
+62 
+
+
+
+68 
+
+
+
+First, because of the cultural differences of the study population, it 
+would be helpful to conduct a qualitative study with those who persisted 
+and with those who did not, to gather more meaningful reasons for their 
+decisions to stay or depart. 
+
+Secondly, studies on institutional satisfaction should be conducted 
+with this population to determine to what extent they experience hostility 
+and feelings of alienation and isolation. 
+
+Third, it would be beneficial to determine the current existence of 
+student support programs in the state that focus efforts on retaining such 
+an important population and the effectiveness of such programs from the 
+Native students' point of view. 
+
+Fourth, the study found that 72% of students with disabilities left 
+after their first quarter of enrollment. Such findings would suggest that 
+inadequate accomodations were in place to assist these students to 
+persist. A follow up study consisting of personal interviews would help to 
+explain such a phenomenon. 
+
+Fifth, the study found that fewer than 10% of the total population, 
+transferred to a four-year college or university. The questions to be 
+explored are: What factors contribute to transfer for these students? 
+
+How many eventually attain bachelor's degrees? 
+
+Finally, community colleges, because of their mission to assist 
+students who might not otherwise attend college, are in a unique position 
+to contribute to improving the education of this group. Over 50% of 
+Native American students are enrolled in these institutions. 
+
+
+
+
+63 
+
+
+
+69 
+
+
+
+Research is needed that focuses on Native Americans and persistence in 
+two-year colleges. Such research is not only important to the Native 
+population but to the nation as a vyhole. 
+
+Summary 
+
+The most underrepresented of the targeted minority group in 
+higher education today is the Native American. Researchers have 
+indicated that the education of this population is dismal. The results of 
+this study on 462 first-time Native college students in Washington State 
+confirm such indications. Developing new techniques to increase the 
+retention of Native American students is an important challenge to higher 
+education. 
+
+The outcomes of this study have given educators a better 
+understanding of the persistence patterns of this forgotten population and 
+possible causal factors that affect such persistence. It will be up to all of 
+those who care about the education of this population to invest in efforts 
+to assist these students to persist and maintain their cultural identity in 
+the process. 
+
+
+
+
+64 
+
+
+
+70 
+
+
+
+REFERENCES 
+
+
+
+Aitken, N. D. (1982). College student performance, satisfaction and 
+retention: Specification and estimation of a structural model. Journal 
+of Higher Education . 53 . 32-50. 
+
+Allen, W. R. (1988). Improving Black student access and achievement in 
+higher education. Review of Higher Education . 11 . 403-416. 
+
+Astin, A. W. (1972). College dropouts: A national profile . American 
+Council on Education Research Reports. Washington, D. C: 
+
+American Council on Education. 
+
+Astin, A. W. (1975). Preventing students from dropping out . San 
+Francisco: Jossey-Bass. 
+
+Astin, A. W. (1977). Four critical years: Effects of college on beliefs, 
+attitudes, and knowledge . San Francisco: Jossey-Bass. 
+
+Astin, A. W. (1982). Minorities in American higher education. 
+
+San Francisco: Jossey-Bass. 
+
+Astin, H. S., & Burciaga, C. P. (1981). Chicanes in higher education: 
+Progress and attainment . Los Angeles: Higher Education Research 
+Institute. (ERIC Document Reproduction Service No. ED 266 690). 
+
+Attinasi, L. C., Jr. (1989). Getting in: Mexican Americans' perceptions of 
+university attendance and the implications for freshman year 
+persistence. Journal of Higher Education. 60. 247-277. 
+
+Baumgart, M. & Johnstone, J. (1977). Attrition at an Australian 
+
+university: A case study. Journal of Higher Education . 48, 553-570. 
+
+
+
+
+65 
+
+
+
+71 
+
+
+
+Bean, J. P. (1980). Dropouts and turnover: The synthesis and test of a 
+causal model of student attrition. Research in Higher Education . 12 . 
+155-187. 
+
+Bean, J. P. (1982). Student attrition, intentions, and confidence. 
+Research in Higher Education . 17 . 291-230. 
+
+Bean, J. P. (1983). The application of a model of turnover in work 
+organizations to the student attrition process. The Review of Higher 
+Education . 6, 129-148. 
+
+Bean, J. P., & Vesper, N. (1990) Quantitative approaches to grounding 
+theory in data: using LISREL to develop a local model and theory of 
+student attrition . Annual meeting of the American Educational 
+Research Association, Boston, Mass. 
+
+Bean, J. P., & Vesper, N. (1992). Student dependency theory: An 
+explanation of student retention in college . A paper presented at the 
+annual meeting of the Association for the Study of Higher Education, 
+Minneapolis. 
+
+Beaty, J., & Chiste, K. B. (1986). University preparation for Native 
+American students: Theory and application. Journal of American 
+Indian Education . 7-13. 
+
+Benjamin, D., Chambers, S., & Reiterman, G. (1993). A focus on 
+American Indian college persistence. Journal of American Indian 
+Education . 29-40. 
+
+
+
+
+66 
+
+
+
+72 
+
+
+
+Bers, T. H. & Smith, K. E. (1991). Persistence of community college 
+students: The influence of student intent and academic and social 
+integration. Research in Higher Education . 32 . 539-556. 
+
+Bureau of the Census, 1992. 
+
+Browne, D. B., & Evans, W. H. (1987). Native Americans in higher 
+
+education . (ERIC Document Reproduction Service No. ED 299 082). 
+
+Cabrera, A. F., Nora, A., & Castaneda, M. (1992). The role of finances 
+in the persistence process: A structural model. Research in Higher 
+Education . 33 . 571-593. 
+
+Cabrera, A. F., Nora, A., & Castaneda, M.B. (1993). College 
+
+persistence: structural equations modeling test of an integrated 
+model of student retention. Journal of Higher Education . 64 . 123-139. 
+
+Christie, N. G. & Dinham, S. M. (1991). Institutional and external 
+influences on social integration in the freshman year. Journal of 
+Higher Education . 62, 412-436. 
+
+Cibik, M. A., & Chambers, S. L. (1991). Similarities and differences 
+among Native Americans, Hispanics, Blacks, and Anglos. NASPA 
+Journal . 28 . 129-139. 
+
+Cohen, A. M., Brawer, F. B., & Bensimon, E. M. (1985). T ransfer 
+education in American community colleges . Los Angeles, CA: 
+
+Center for the Study of Community Colleges. (ERIC Document 
+Reproduction Service No. ED 255 250). 
+
+Cope, R., & Hannah, W. (1975). Revolving college doors . New York: 
+John Wiley and Sons. 
+
+
+
+
+67 
+
+
+
+73 
+
+
+
+Donovan, R. (1984). Path analysis of a theoretical model of persistence 
+in higher education among low-income black youth. Research in 
+Higher Education . 31 . 243-252. 
+
+Eddens, D. D. (1982). A causal model of the attrition of specially 
+
+admitted black students in higher education . Paper presented at the 
+annual meeting of the American Educational Research Association, 
+New York. 
+
+Edwards, D., Edwards, M., Daines, G., & Reed, S. (1984). Modeling: 
+an important ingredient in higher education for American Indian 
+women students. Journal of the National Association for 
+Women Deans. Administrators, and Counselors . 48, 31-34. 
+
+Falk, D. R., & Aitken, L. P. (1984). Promoting retention among American 
+Indian college students. Journal of American Indian Education . 23 . 
+24-31. 
+
+Fleming, J. (1984). Blacks in college . San Francisco: Jossey-Bass. 
+
+Fox, R. N. (1985). Application of a conceptual model of college 
+withdrawal to disadvantaged students . Paper presented at the 
+meeting of the American Educational Research Association, Chicago. 
+
+Fries, J. E. (1987). The American Indian in higher education: 1975- 
+1976 to 1984-1985 . Washington, D. C: U.S. Department of 
+Education, Office of Educational Research and Improvement. 
+
+
+
+
+68 
+
+
+
+74 
+
+
+
+Galicki, S. J., & McGewen, M. K. (1989). The relationship of residence to 
+retention of Black and White undergraduate students at a 
+predominantly White university. Journal of College Student 
+Development . 30 . 389-394. 
+
+Gilliland, H. (1986). The need for adapted curriculum. In J. Reyhner 
+rFd.y Teaching the Indian child (Istedl. 1-11. Billings, MT: Eastern 
+Montana College. 
+
+Gose, B. (1995). Growth of minority enrollment slowed to 2.6% in 1993. 
+The Chronicle of Higher Education . A34. 
+
+Guyette, S., & Heth, C. (1984). Higher education for American Indians 
+in the 1980's. Integrateducation . 22 . 21-30. 
+
+Hodgkinson, H. L. (1990). The demographics of American Indians: One 
+percent of the people: fifty percent of the diversity . Washington, D.C: 
+Institute for Educational Leadership, Inc. 
+
+Hodgkinson, H. L. (1992). The current condition of Native Americans . 
+Washington, D. C.: Office of Educational Research and Improvement. 
+
+Hornett, D. (1989). The role of faculty in cultural awareness and 
+retention of American Indian college students. Journal of American 
+Indian Education . 12-18. 
+
+Huffman, T. E., Sill, M. L, & Brokenleg, M. (1986). College 
+achievement among Sioux and White South Dakota students. 
+
+Journal of American Indian Education . 32-38. 
+
+
+
+
+69 
+
+
+
+75 
+
+
+
+Kennan, W. R., Cummings, H. W., & Lujan, P. D. (1980). A descriptive 
+study of intercultural communication between Native American and 
+Anglo-American college students . (ERIC Document Reproduction 
+Service No. ED 197 898). 
+
+Kleinfeld, J. S., & Kohout, K. L. (1974). Increasing the college success 
+of Alaska Natives. Indian Education . 27-31 . 
+
+Lee, V. E., & Frank, K. A. (1990). Students' characteristics that 
+
+facilitate the transfer from two-year to four-year colleges. Sociology of 
+Education . 63 . 178-193. 
+
+Lin, R., LaCounte, D., & Eder, J. (1988). A study of American Indian 
+students in a predominantly White college. Journal of American 
+Indian Education . 29, 1 9-28. 
+
+Loo, C. M., & Rolison, G. (1986). Alienation of ethnic minority students 
+at a predominantly white university. Journal of Higher Education . 57 . 
+58-77. 
+
+McCool, A. C. (1984). Factors influencing Hispanic student retention 
+within the community college. Community/Junior College Quarterly. 
+
+8, 19-37. 
+
+McIntosh, B. J. (1987). Special needs of American Indian college 
+students . Mesa, AZ: Mesa Community College, Office of Research 
+and Development. (ERIC Document Reproduction Service No. 
+
+ED 288 693). 
+
+
+
+
+70 
+
+
+
+76 
+
+
+
+McIntosh, B. J. (1987). Native American academic, financial, social. 
+psychological and demographic implications for education: A 
+challenge to community college administrators, faculty and support 
+service personnel . Mesa, AZ: Mesa Community College, Office of 
+Research and Development. (ERIC Document Reproduction Service 
+No. ED 284 597). 
+
+McNamara, P. P. (1984). American Indians in U.S. higher education . 
+Los Angeles, CA; Higher Education Research Institute. 
+
+Mingle, J. R. (1981). The opening of White colleges and universities to 
+Black students. In G. E. Thomas (ed.). Black Students in Higher 
+Education: Conditions and Experiences in the 1970's . Westport, CT : 
+Greenwood Press. 
+
+Mingle, J. R. (1987). Focus on minorities: Trends in higher 
+
+education participation, and success . (ERIC Document Reproduction 
+Service No. ED 287 404). 
+
+Mow, S. L., & Nettles, M. T. (1990). Minority student access to, and 
+persistence and performance in college: A review of the trends and 
+research literature. In J. Smart (ed.). Higher Education: Handbook of 
+Theory and Research . 6, 35-105. New York: Agathon Press. 
+
+Moyer, M. (1973). Higher education for all? Commentary . 55 . 2. 
+
+Munro, B. (1981). Dropouts from higher education: Path analysis of a 
+national sample. American Education Research Journal. 81 . 
+
+133-141. 
+
+
+
+
+71 
+
+
+
+77 
+
+
+
+Myron, D. F. (1983). Review of the literature: Black student retention 
+in higher education institutions . (ERIC Document Reproduction 
+Service No. ED 228 912). 
+
+Nettles, M. (1988). Toward black undergraduate student equality in 
+American higher education . New York: Greenwood Press. 
+
+Nettles, T. N., Thoeny, M. T., & Gosman, E. J. (1986). Comparative and 
+predictive analysis of Black and White students' college achievement 
+and experiences. Journal of Higher Education . 57 . 289-319. 
+
+Neumann, Y. & Neumann, E. F. (1989). Predicting juniors' and seniors' 
+persistence and attrition: A quality of learning experience approach. 
+The Journal of Experimental Education . 57 . 129-140. 
+
+Nora, A. (1987). Determinants of retention among Chicano college 
+students: a structural model. Research in Higher Education . 26 . 
+31-59. 
+
+Nora, A. (1993). Two-year colleges and minority students; educational 
+aspirations: Help or hindrance? In J. Smart (ed.) Higher Education: 
+Handbook of Theory and Research . 9, 231-245. New York: 
+
+Agathon Press. 
+
+Nora, A. & Rendon, L. (1989). A synthesis and application of research 
+on Hispanic students in community colleges. Community College 
+Review . 17, 1 7-24. 
+
+Nora, A. & Rendon, L. (1990). Determinants of predisposition to transfer 
+among community college students. Research in Higher Education . 
+31, 235-255. 
+
+
+
+
+72 
+
+
+
+73 
+
+
+
+Nora, A. & Rendon, L. (1990). Differences in mathematics and science 
+preparation and participation among community college minority and 
+non-minority students. Community College Review . 18 . 29-40. 
+
+Osborne, V. C., & Cranney, G. (1985). Elements of success in a 
+university program for Indian students . (ERIC Document 
+Reproduction Service No. ED 339 324). 
+
+Pantages, T. J., & Creedon, C. F. (1978). Studies of college attrition: 
+1950-1975. Review of Educational Research . 48 . 49-101. 
+
+Pascarella, E. T. (1980). Student-faculty informal contact and college 
+outcomes. Review of Educational Research . 50 . 545-595. 
+
+Pascarella, E. T. (1985). Racial differences in the factors influencing 
+bachelor's degree completion: A nine-year follow up. Research in 
+Higher Education . 23 . 351-373. 
+
+Pascarella, E. T. & Chapman, D. (1983). A multi-institutional, path 
+analytic validation of Tinto's model of college withdrawal. American 
+Educational Research Journal . 20, 87-102. 
+
+Pascarella, E. T., & Terenzini, P. T. (1979). Interaction effects in Spady's 
+and Tinto's conceptual model of college dropout. Sociology of 
+Education . 52 . 197-210. 
+
+Pascarella, E. T., & Terenzini, P. T. (1980). Predicting freshman 
+
+persistence and voluntary dropout decisions from a theoretical model. 
+Journal of Higher Education . 51 . 60-75. 
+
+
+
+
+73 
+
+
+
+79 
+
+
+
+Pascarella, E. T., & Terenzini, P. T. (1983). Predicting voluntary 
+freshman year persistence/withdrawal behavior in a residential 
+university: A path analytic validation of Tinto's model. Journal of 
+Educational Psychology . 75 . 215-226. 
+
+Pascarella, E. T. & Terenzini, P. T. (1992). How college affects students: 
+Findings and insights from twenty years of research . San Francisco: 
+Jossey-Bass. 
+
+Patton, W. S. (1972). An investigation of selected factors related to 
+persistence of American-Indian students at two New Mexico 
+universities . Unpublished doctoral dissertation. New Mexico State 
+University. 
+
+Patton, W., & Eddington, E. D. (1973). Factors related to the persistence 
+of Indian students at college level. Indian Education . 19-23. 
+
+Pavel, M. (1991). The application of Tinto's model to a Native 
+
+American student population . Paper presented at the annual meeting 
+of the Association for the Study of Higher Education. 
+
+Pavel, D. M., & Padilla, R. V. (1993). American Indian and Alaska Native 
+postsecondary departure: An example of assessing a mainstream 
+model using national longitudinal data. Journal of American Indian 
+Education. 32, 1-23. 
+
+Ramist, L (1981). College student attrition and retention . College Board 
+Report, No. 81-1, New York: College Entrance Examination Board. 
+
+
+
+
+74 
+
+
+
+80 
+
+
+
+Rhodes, R. W. (1990). Measurements of Navajo and Hopi brain 
+dominance and learning styles. Journal of American Indian 
+Education . 29-40. 
+
+Richardson, R. C., & Bender, L. W. (1987). Fostering minority access 
+and achievement in higher education: The role of urban community 
+colleges and universities . San Francisco: Jossey-Bass. 
+
+Rindone, P. (1988). Achievement motivation and academic 
+
+achievement of American Indian students. Journal of American 
+Indian Education . 28, 1-8. 
+
+Scott, W. J. (1986). Attachment of Indian culture and the "difficult 
+situation": A study of American Indian college students. 
+
+Youth & Society . 17 . 381-395. 
+
+Sedlacek, W. & Webster, D. W. (1978). Admission and retention of 
+minority students in large universities. Journal of College Student 
+Personnel . 19 . 242-246. 
+
+Smith, D. H. (1980). Admission and retention problems of Black 
+students at seven predominantly White universities . Washington, 
+
+D.C: National Advisory Committee on Black Higher Education and 
+Black Colleges and Universities. 
+
+Smith, D. H. (1981). Social and academic environments on White 
+campuses. Journal of Negro Education . 50 . 299-306. 
+
+Spady, W. (1970). Dropouts from higher education: An interdisciplinary 
+review and synthesis. Interchange . 1, 64-85. 
+
+
+
+
+75 
+
+
+
+81 
+
+
+
+Spady, W. (1971). Dropouts from higher education: Toward an 
+empirical model. Interchange . 2, 38-62. 
+
+Stage, F. K. (1990). Research on college students: Commonality, 
+difference and direction. Review of Higher Education . 13 . 249-258. 
+
+Stampen, J. O., & Cabrera, A. F. (1986). Exploring the effects of student 
+aid on attrition. The Journal of Student Financial Aid . 16 . 28-40. 
+
+Statistical Abstracts of the United States, 1990. 
+
+Statistical Abstracts of the United States, 1994. 
+
+Stein, W.J. (1992). Tribal colleges: A success story. New Directions for 
+Community Colleges . 80 . 89-96. 
+
+Steward, R. J., Germain, S., & Jackson, J. D. (1992). Alienation and 
+interaction style: A study of successful Anglo, Asian, and Hispanic 
+university students. Journal of College Student Development . 33 . 
+149-156. 
+
+Summerskill, J. (1962). Dropouts from college. In N. Sanford fEd.). The 
+American College: A psychological and social interpretation of higher 
+learning . New York: John Wiley and Sons. 
+
+Terenzini, P. T., & Pascarella, E. T. (1977). Voluntary freshman attrition 
+and patterns of social and academic integration in a university: A test 
+of a conceptual model. Research in Higher Education . 6, 25-43. 
+
+Terenzini, P. T., & Pascarella, E. T. (1978). The relation of students' 
+precollege characteristics and freshman year experience to voluntary 
+attrition. Research in Higher Education . 9, 347-366. 
+
+
+
+
+76 
+
+
+
+82 
+
+
+
+Terenzini, P. T., & Pascarella, E. T. (1980). Toward the validation of 
+Tinto's model of college student attrition: A review of recent studies. 
+Research in Higher Education . 12 . 271-282. 
+
+Terenzini, P. T., Pascarella, E. T, Theophilides, C., & Lorang, W. (1983). 
+A replication of a path analytic validation of Tinto's theory of college 
+student attrition . A paper presented at the annual meeting of the 
+American Educational Research Association, Montreal. 
+
+Tijerina, K. H., & Biemer, P. P. (1987/1988). The dance of Indian higher 
+education: One step forward, two steps back. Educational Record . 
+68, 87-91 . 
+
+Tierney, W. (1992). An anthropological analysis of student participation 
+in college. Journal of Higher Education. 63 . 603-618. 
+
+Tinto, V. (1975). Dropout from higher education: A theoretical synthesis 
+of recent research. Review of Educational Research . 45 . 89-125. 
+
+Tinto, V. (1987). Leaving college: Rethinking the causes and cures of 
+student attrition . Chicago: University of Chicago Press. 
+
+Tinto, V. (1993). Leaving college: Rethinking the causes and cures of 
+student attrition (2nd ed.). Chicago: University of Chicago Press. 
+
+Tracey, T., & Sedlacek. W. (1987). A comparison of white and black 
+student academic success using noncognitive variables. A Lisrel 
+analysis. Research in Higher Education . 27 . 333-348. 
+
+Washington Community and Technical Colleges, Academic Year Report, 
+1993-1994. 
+
+
+
+
+77 
+
+
+
+83 
+
+
+
+Wells, R. N. (1989). A survey of American Indian students . (ERIC 
+
+
+
+Document Reproduction Service No. ED 31 1 778). 
+
+Whittaker, D. (1986). Socio-psycholoaical and background variables of 
+Native Indian university students and persistence in a teacher 
+preparation program . A paper presented at the Annual Meeting of the 
+American Education Research Association, San Francisco. 
+
+Wilson, J. (1983). Wisconsin Indian opinions of factors which 
+contribute to the completion of degrees . Report from the 
+Postdoctoral Fellowship Program at the University of Wisconsin's, 
+Wisconsin Center for Education Research. 
+
+Wilson, R., & Justiz, M. J. (1987/1988). Minorities in higher education: 
+Confronting a time bomb. Educational Record . 9-14. 
+
+Wright, B. (1985). Programming success: Special student services and 
+the American Indian college student. Journal of the American Indian 
+Education . 24 . 1 -7. 
+
+Wright, B. (1991). American Indian and Alaska Native higher education: 
+Toward a new century of academic achievement and cultural integrity . 
+(ERIC Document Reproduction Service No. ED 343 771). 
+
+
+
+
+78 
+
+
+
+84 
+
+
+
+APPENDIX A 
+
+
+
+VARIABLES USED IN STUDY 
+
+
+
+
+79 
+
+
+
+85 
+
+
+
+VARIABLES USED IN THE STUDY (N=462) 
+
+
+
+DEMOGRAPHIC VARIABLES 
+
+
+M 
+
+
+SD 
+
+
+N 
+
+
+Age 
+
+
+25.866 
+
+
+10.842 
+
+
+
+
+Gender 
+
+
+
+
+
+
+
+
+Female 
+
+
+
+
+
+
+264 
+
+
+Male 
+
+
+
+
+
+
+198 
+
+
+Handicapped 
+
+
+
+
+
+
+25 
+
+
+Disadvantaged 
+
+
+
+
+
+
+
+
+Economic 
+
+
+
+
+
+
+70 
+
+
+Academic 
+
+
+
+
+
+
+103 
+
+
+
+ENROLLMENT/ PERSISTENCE/ RETENTION VARIABLES 
+
+
+
+Educational Aspirations 
+Student Intent First Quarter 
+
+1 . General Studies, Degree or Certificate 3 8 
+
+2. Academic Transfer 1 39 
+
+3. Adult Basic Education 1 5 
+
+4. High School Diploma, GED Certificate 20 
+
+5. Developmental 2 
+
+6. Vocational Preparatory 93 
+
+7. Vocational Preparatory, Applicant 1 6 
+
+8. Vocational Apprentice 1 0 
+
+9. Vocational Supplemental 50 
+
+10. Vocational Home and Family Life 20 
+
+11. General Studies- Non-degree or certificate 33 
+
+12. Undecided, None of the Above, Not reported 2 6 
+
+Student Intent Last Quarter 
+
+1. General Studies, Degree or Certificate 28 
+
+2. Academic Transfer 142 
+
+3. Adult Basic Education 1 1 
+
+4. High School Diploma, GED Certificate 23 
+
+5. Developmental 5 
+
+6. Vocational Preparatory 98 
+
+7. Vocational Preparatory, Applicant 1 3 
+
+8. Vocational Apprentice 9 
+
+9. Vocational Supplemental 50 
+
+10. Vocational Home and Family Life 20 
+
+11. General Studies- Non-degree or certificate 35 
+
+12. Undecided, None of the Above, Not reported 1 6 
+
+
+
+80 
+
+
+
+
+% 
+
+
+
+57.1 
+
+42.9 
+
+5.4 
+
+
+
+15.2 
+
+22.3 
+
+
+
+8.2 
+
+30.1 
+
+3.2 
+
+4.3 
+0.4 
+
+20.1 
+
+3.5 
+2.2 
+
+10.8 
+
+4.3 
+
+7.1 
+
+5.6 
+
+6.1 
+
+30.7 
+
+2.4 
+5 
+
+1 .1 
+21.2 
+2.8 
+1.9 
+
+10.8 
+
+4.3 
+
+7.6 
+
+3.4 
+
+
+
+86 
+
+
+
+VARIABLES USED IN THE STUDY (N=462) 
+
+
+
+Enrollment Status 
+
+
+
+Full-time 
+
+
+231 
+
+
+50 
+
+
+Part-time 
+
+
+231 
+
+
+50 
+
+
+College-Level Courses 
+
+
+English 1 
+
+
+138 
+
+
+33 
+
+
+English 2 
+
+
+74 
+
+
+18 
+
+
+Math 
+
+
+60 
+
+
+1 4 
+
+
+Last Quarter/Year of Attendance 
+
+
+Fall, 1988 
+
+
+156 
+
+
+33.8 
+
+
+Winter, 1989 
+
+
+39 
+
+
+8.4 
+
+
+Spring, 1989 
+
+
+72 
+
+
+15.6 
+
+
+Summer, 1989 
+
+
+7 
+
+
+1 .5 
+
+
+Fall, 1989 
+
+
+1 7 
+
+
+3.7 
+
+
+Winter, 1990 
+
+
+1 7 
+
+
+3.7 
+
+
+Spring, 1990 
+
+
+29 
+
+
+6.3 
+
+
+Summer, 1990 
+
+
+4 
+
+
+0.9 
+
+
+Fall, 1990 
+
+
+1 1 
+
+
+2.4 
+
+
+Winter, 1991 
+
+
+1 2 
+
+
+2.6 
+
+
+Spring, 1991 
+
+
+1 7 
+
+
+3.7 
+
+
+Summer, 1991 
+
+
+1 2 
+
+
+2.6 
+
+
+Fall, 1991 
+
+
+1 1 
+
+
+2.4 
+
+
+Winter, 1992 
+
+
+1 0 
+
+
+2.2 
+
+
+Spring, 1992 
+
+
+8 
+
+
+1.7 
+
+
+Summer, 1992 
+
+
+5 
+
+
+1.1 
+
+
+Fall, 1992 
+
+
+4 
+
+
+0.9 
+
+
+Winter, 1993 
+
+
+8 
+
+
+1 .7 
+
+
+Spring, 1993 
+
+
+18 
+
+
+3.9 
+
+
+Summer, 1993 
+
+
+5 
+
+
+1.1 
+
+
+Fall, 1993 
+
+
+0 
+
+
+0 
+
+
+Winter, 1994 
+
+
+0 
+
+
+0 
+
+
+Spring, 1994 
+
+
+0 
+
+
+0 
+
+
+Enrollment Patterns 
+1988-1989 
+
+
+Enrolled Fall only 
+
+
+203 
+
+
+43.9 
+
+
+Enrolled Fall and Spring 
+
+
+7 
+
+
+1.5 
+
+
+Enrolled Fall and Winter 
+
+
+70 
+
+
+15.2 
+
+
+Enrolled Fall, Winter, Spring 
+
+
+182 
+
+
+39.4 
+
+
+
+
+81 
+
+
+
+87 
+
+
+
+VARIABLES USED IN THE STUDY (N=462) 
+
+
+
+Total Quarters Enrolled in 1988*1989 
+Zero 
+
+
+
+One 
+
+
+203 
+
+
+43.9 
+
+
+Two 
+
+
+77 
+
+
+16.7 
+
+
+Three 
+
+
+182 
+
+
+. 39.4 
+
+
+Four 
+
+
+
+
+
+
+1989-1990 
+
+
+
+
+
+
+No enrollment 
+
+
+310 
+
+
+67.1 
+
+
+Enrolled Fall only 
+
+
+25 
+
+
+5.4 
+
+
+Enrolled Fall and Spring 
+
+
+5 
+
+
+1.1 
+
+
+Enrolled Fall and Winter 
+
+
+1 6 
+
+
+3.5 
+
+
+Enrolled Fall, Winter, Spring 
+
+
+56 
+
+
+12.1 
+
+
+Enrolled Winter only 
+
+
+6 
+
+
+1 .3 
+
+
+Enrolled Winter and Spring 
+
+
+3 
+
+
+0.6 
+
+
+Enrolled Spring only 
+
+
+7 
+
+
+1 .5 
+
+
+Enrolled Summer only 
+
+
+1 1 
+
+
+2.4 
+
+
+Enrolled Summer and Spring 
+
+
+1 
+
+
+0.2 
+
+
+Enrolled Summer and Fall 
+
+
+3 
+
+
+0.6 
+
+
+Enrolled Summer, Fall, Winter 
+
+
+3 
+
+
+0.6 
+
+
+Enrolled Summer, Fall, Winter, Spring 
+
+
+1 6 
+
+
+3.5 
+
+
+
+Total Quarters Enrolled in 1989-1990 
+
+(Not Available) 
+
+1990-1991 
+
+
+
+No enrollment 
+
+
+369 
+
+
+79.9 
+
+
+Enrolled Fall only 
+
+
+1 8 
+
+
+3.9 
+
+
+Enrolled Fall and Spring 
+
+
+2 
+
+
+0.4 
+
+
+Enrolled Fall and Winter 
+
+
+1 2 
+
+
+2.6 
+
+
+Enrolled Fall, Winter, Spring 
+
+
+29 
+
+
+6.3 
+
+
+Enrolled Winter only 
+
+
+4 
+
+
+0.9 
+
+
+Enrolled Winter and Spring 
+
+
+5 
+
+
+1.1 
+
+
+Enrolled Spring only 
+
+
+7 
+
+
+1 .5 
+
+
+Enrolled Summer only 
+
+
+6 
+
+
+1.3 
+
+
+Enrolled Summer and Fall 
+
+
+2 
+
+
+0.4 
+
+
+Enrolled Summer, Fall, Winter 
+
+
+1 
+
+
+0.2 
+
+
+Enrolled Summer, Fall, Winter, Spring 
+
+
+7 
+
+
+1 .5 
+
+
+Total Quarters Enrolled 1990-1991 
+
+
+Zero 
+
+
+369 
+
+
+79.9 
+
+
+One 
+
+
+35 
+
+
+7.6 
+
+
+Two 
+
+
+21 
+
+
+4.5 
+
+
+Three 
+
+
+30 
+
+
+6.5 
+
+
+Four 
+
+
+7 
+
+
+1 .5 
+
+
+
+82 
+
+
+
+O 
+
+
+
+
+88 
+
+
+
+VARIABLES USED IN THE STUDY (N=462) 
+
+
+
+1991-1992 
+
+
+
+No enrollment 
+
+
+397 
+
+
+85.9 
+
+
+Enrolled Fall only 
+
+
+12 
+
+
+2.6 
+
+
+Enrolled Fall and Spring 
+
+
+2 
+
+
+0.4 
+
+
+Enrolled Fall and Winter 
+
+
+7 
+
+
+1.5 
+
+
+Enrolled Fall, Winter, Spring 
+
+
+1 1 
+
+
+2.4 
+
+
+Enrolled Winter only 
+
+
+6 
+
+
+1.3 
+
+
+Enrolled Winter and Spring 
+
+
+5 
+
+
+1 .1 
+
+
+Enrolled Spring only 
+
+
+4 
+
+
+0.9 
+
+
+Enrolled Summer only 
+
+
+1 1 
+
+
+2.4 
+
+
+Enrolled Summer and Spring 
+
+
+2 
+
+
+0.4 
+
+
+Enrolled Summer and Fall 
+
+
+2 
+
+
+0.4 
+
+
+Enrolled Summer, Winter, Spring 
+
+
+2 
+
+
+0.4 
+
+
+Enrolled Summer, Fall, Winter, Spring 
+
+
+1 
+
+
+0.2 
+
+
+Total Quarters Enrolled in 1991-1992 
+
+
+Zero 
+
+
+397 
+
+
+85.9 
+
+
+One 
+
+
+35 
+
+
+7.6 
+
+
+Two 
+
+
+16 
+
+
+3.5 
+
+
+Three 
+
+
+1 3 
+
+
+2.8 
+
+
+Four 
+
+
+1 
+
+
+0.2 
+
+
+1992-1993 
+
+
+No enrollment 
+
+
+425 
+
+
+92 
+
+
+Enrolled Fall only 
+
+
+3 
+
+
+0.6 
+
+
+Enrolled Fall and Spring 
+
+
+1 
+
+
+0.2 
+
+
+Enrolled Fall and Winter 
+
+
+3 
+
+
+0.6 
+
+
+Enrolled Fall, Winter, Spring 
+
+
+10 
+
+
+2.2 
+
+
+Enrolled Winter only 
+
+
+5 
+
+
+1.1 
+
+
+Enrolled Winter and Spring 
+
+
+4 
+
+
+0.9 
+
+
+Enrolled Spring only 
+
+
+2 
+
+
+0.4 
+
+
+Enrolled Summer only 
+
+
+5 
+
+
+1.1 
+
+
+Enrolled Summer, Fall, Winter 
+
+
+1 
+
+
+0.2 
+
+
+Enrolled Summer, Fall, Winter, Spring 
+
+
+3 
+
+
+0.6 
+
+
+Total Quarters Enrolled in 1992-1993 
+
+
+
+
+
+
+Zero 
+
+
+425 
+
+
+92 
+
+
+One 
+
+
+1 5 
+
+
+3.2 
+
+
+Two 
+
+
+8 
+
+
+1 .7 
+
+
+Three 
+
+
+1 1 
+
+
+2.4 
+
+
+Four 
+
+
+3 
+
+
+0.6 
+
+
+
+83 
+
+O 
+
+ERIC 
+
+
+
+89 
+
+
+
+VARIABLES USED IN THE STUDY (N=462) 
+
+
+
+1993-1994 
+
+
+No enrollment 
+
+
+430 
+
+
+93.5 
+
+
+Enrolled Fall only 
+
+
+3 
+
+
+0.6 
+
+
+Enrolled Fall and Winter 
+
+
+4 
+
+
+0.9 
+
+
+Enrolled Fall, Winter, Spring 
+
+
+8 
+
+
+1 .7 
+
+
+Enrolled Winter only 
+
+
+3 
+
+
+0.6 
+
+
+Enrolled Winter and Spring 
+
+
+3 
+
+
+0.6 
+
+
+Enrolled Spring only 
+
+
+6 
+
+
+1.3 
+
+
+Enrolled Summer only 
+
+
+3 
+
+
+0.6 
+
+
+Enrolled Summer, Fall, Spring 
+
+
+1 
+
+
+0.2 
+
+
+Enroiled Summer, Fall, Winter, Spring 
+
+
+1 
+
+
+0.2 
+
+
+Total Quarters Enrolled in 1993-1994 
+
+
+Zero 
+
+
+430 
+
+
+93.1 
+
+
+One 
+
+
+1 5 
+
+
+3.2 
+
+
+Two 
+
+
+7 
+
+
+1.5 
+
+
+Three 
+
+
+9 
+
+
+1.9 
+
+
+Four 
+
+
+1 
+
+
+0.2 
+
+
+Total Quarters Enrolled Overall 
+
+
+One 
+
+
+157 
+
+
+34 
+
+
+Two 
+
+
+64 
+
+
+13.9 
+
+
+Three 
+
+
+74 
+
+
+1 6 
+
+
+Four 
+
+
+34 
+
+
+7.4 
+
+
+Five 
+
+
+23 
+
+
+5 
+
+
+Six 
+
+
+32 
+
+
+6.9 
+
+
+Seven 
+
+
+1 8 
+
+
+3.9 
+
+
+Eight 
+
+
+12 
+
+
+2.6 
+
+
+Nine 
+
+
+1 3 
+
+
+2.8 
+
+
+Ten 
+
+
+10 
+
+
+2.2 
+
+
+Eleven 
+
+
+1 3 
+
+
+2.8 
+
+
+Twelve 
+
+
+7 
+
+
+1.5 
+
+
+Thirteen 
+
+
+1 
+
+
+0.2 
+
+
+Fourteen 
+
+
+2 
+
+
+0.4 
+
+
+Fifteen 
+
+
+0 
+
+
+0 
+
+
+Sixteen 
+
+
+1 
+
+
+0.2 
+
+
+Seventeen 
+
+
+1 
+
+
+0.2 
+
+
+
+
+84 
+
+
+
+90 
+
+
+
+VARIABLES USED IN THE STUDY (N=462) 
+
+
+
+STUDENT PRCXSRESS 
+
+
+
+M SO 
+
+
+
+N % 
+
+
+
+College GPA 1-64 1 .42 
+
+Credits Earned 
+
+
+
+College Level 
+
+
+
+Earned 
+
+
+23.69 
+
+
+34.59 
+
+
+
+
+Attempted 
+
+
+24.68 
+
+
+34.39 
+
+
+
+
+Cumulative 
+
+
+Earned 
+
+
+29.34 
+
+
+37.67 
+
+
+
+
+Attempted 
+
+
+29.83 
+
+
+N/A 
+
+
+
+
+Exit Code 
+
+
+Associate Degree 
+
+
+
+
+37 
+
+
+8 
+
+
+Certificate 
+
+
+
+
+7 
+
+
+1.5 
+
+
+No degree or certificate 
+
+
+
+
+418 
+
+
+90.5 
+
+
+College Level 18 (Students who completed a min. of 18 credits of college level) 
+
+
+
+
+Yes 
+
+
+
+
+154 
+
+
+33.3 
+
+
+No 
+
+
+
+
+308 
+
+
+66.7 
+
+
+College Level 40 (Same as above but 40 credits) 
+Yes 
+
+
+97 
+
+
+21 
+
+
+No 
+
+
+
+
+365 
+
+
+79 
+
+
+Transfer to a Community College 
+
+
+
+
+391 
+
+
+84.6 
+
+
+Transfer to a Four Year College 
+
+
+
+
+42 
+
+
+9.1 
+
+
+Quarter/Year Transferred to Four Year 
+
+
+Fall. 1990 
+
+
+
+
+1 3 
+
+
+2.8 
+
+
+Winter. 1991 
+
+
+
+
+1 
+
+
+0.2 
+
+
+Spring. 1991 
+
+
+
+
+8 
+
+
+1.7 
+
+
+Fall. 1992 
+
+
+
+
+1 1 
+
+
+2.4 
+
+
+Winter. 1992 
+
+
+
+
+2 
+
+
+0.4 
+
+
+Spring. 1992 
+
+
+
+
+2 
+
+
+0.4 
+
+
+Fall. 1993 
+
+
+
+
+1 
+
+
+0.2 
+
+
+Winter. 1993 
+
+
+
+
+2 
+
+
+0.4 
+
+
+
+
+85 
+
+
+
+91 
+
+
+
+APPENDIX B 
+
+
+
+er|c 
+
+
+
+86 
+
+
+
+9 
+
+
+
+VARIABLES M 
+
+
+SD 
+
+
+N 
+
+
+% 
+
+
+Age 29.04 
+
+
+12.61 
+
+
+
+
+
+
+Gender 
+
+
+
+
+
+
+
+
+Female 
+
+
+
+
+80 
+
+
+
+
+Male 
+
+
+
+
+77 
+
+
+
+
+Disadvantaged 
+
+
+
+
+
+
+
+
+Economic 
+
+
+
+
+1 3 
+
+
+18.3 
+
+
+Academic 
+
+
+
+
+29 
+
+
+18.5 
+
+
+Handicapped 
+
+
+
+
+13 
+
+
+8.3 
+
+
+Educational Aspirations 
+
+
+
+
+
+
+
+
+1 . General Studies (Degree or Certificate) 
+
+
+
+
+28 
+
+
+6.1 
+
+
+2. Academic Transfer 
+
+
+
+
+142 
+
+
+30.7 
+
+
+3. Adult Basic Education 
+
+
+
+
+1 1 
+
+
+2.4 
+
+
+4. High School Diploma, GED Certificate 
+
+
+
+
+23 
+
+
+5 
+
+
+5. Developmental 
+
+
+
+
+5 
+
+
+1.1 
+
+
+6. Vocational Preparatory 
+
+
+
+
+98 
+
+
+21.2 
+
+
+7. Vocational Preparatory, Applicant 
+
+
+
+
+1 3 
+
+
+2.8 
+
+
+8. Vocational Apprentice 
+
+
+
+
+9 
+
+
+1.9 
+
+
+9. Vocational Supplemental 
+
+
+
+
+50 
+
+
+10.8 
+
+
+10. Vocational Home and Family Life 
+
+
+
+
+20 
+
+
+4.3 
+
+
+1 1 . General Studies, Non-degree or certificate 
+
+
+
+
+35 
+
+
+7.6 
+
+
+12. Undecided, None of the Above, Not Reported 
+
+
+
+
+1 6 
+
+
+3.4 
+
+
+Credits Earned 
+
+
+
+
+
+
+
+
+College Level 
+
+Earned 2 . 5 
+
+
+4.15 
+
+
+
+
+
+
+Attempted 2.8 
+
+
+4.9 
+
+
+
+
+
+
+Cumulative 
+
+Earned 3.51 
+
+
+4.92 
+
+
+
+
+
+
+Attempted 3.99 
+
+
+5.82 
+
+
+
+
+
+
+Transfer to a Community College 
+
+
+
+
+22 
+
+
+9.6 
+
+
+Transfer to a Four Year 
+
+
+
+
+1 
+
+
+0.6 
+
+
+Enrollment Status 
+
+
+
+
+
+
+
+
+Full-time 
+
+
+
+
+43 
+
+
+27.4 
+
+
+Part-time 
+
+
+
+
+114 
+
+
+72.6 
+
+
+
+87 
+
+
+
+O 
+
+
+
+
+93 
+
+
+
+a a 
+
+
+
+
+US. Department of Educa^on 
+
+Office of EducaUonal Research and Improvement (OERl) 
+National Library of Education (NLE) 
+
+Educational Resources Information Center (ERIC) 
+
+REPRODUCTION RELEASE 
+
+(Specific Document) 
+
+
+
+9 
+
+
+
+
+(Sc “^^0 04 ^ 
+
+
+
+I. DOCUMENT IDENTIFICATION: 
+
+
+
+Title 
+
+A 
+
+
+>: x:;:^ (2.o n^^jvU^tx 1 -hV Ce ! -e<S- 
+
+i" ^ ^ d i i/vcdiy cS~j~r^cLi/j o f /^rhJUl 
+
+
+Auttior(s):. IvliLr^i L-if 
+
+
+Corporate Source: ^ 
+
+
+Publication Date: 
+
+'-J'iycne- 199^ 
+
+
+
+II. REPRODUCTION RELEASE; 
+
+
+
+In onter to disseminate as wiMy as poaatete timely and s^ruficant mataiials of impost to the eduoaUena} oommuntty, documents announced In the 
+mtsithiy abstra^ Jovimaf of (he ERIC system, ^sources in &^fcaikin (RIE). are usually made avaOabls to ussm in microfiche, repioduoed peper copy, 
+end eteetronlc media, and sold through the ERIC Document Reprodu^ion Sendos (EDR3). Credit is given to the source of each document, and. If 
+reprodMciton release is granted, one of the fbflowlng notices is affixed to the document 
+
+
+
+if permisaton is granted to reprodiraa and disseminate the (dentffied document, please CHECK QH^ of the following three options and sign at the bottom 
+of (he page. 
+
+
+
+TY)s s«i^ S0c|(fir Alwwn bMOw wM to 
+to an LfiwiM doaimano 
+
+
+
+Tto wiTiple aVctiw ehtoffi tolmr will be 
+offbced b ail Iffival 2A dowmenta 
+
+
+
+Tto aampia BSGKar tfWMn Mioiiir wtti bo 
+alSxto to as 20 SOOflOMO 
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL HAS 
+BEEN ORANTEDBY 
+
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL IN 
+MICROFICHE. AND IN ELECTRONIC MEDIA 
+FOR ERIC COLUeCnON SUBSCRIBERS ONLY. 
+HAS BEEN GRANTED BY 
+
+
+
+
+PERMISSION TO REPRODUCE AND 
+
+disseminate this material in 
+
+MICROFICHE ONLY HAS BEEN GRANTED BY 
+
+
+
+
+
+
+
+
+
+
+
+
+TO THE EDVCAVONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+
+J 
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+1 
+
+
+
+
+2A 
+
+
+
+
+2B 
+
+
+
+Levell 
+
+
+
+Level 2A 
+
+
+
+Level 2S 
+
+
+
+K1 
+
+
+
+□ 
+
+
+
+
+Ctooic bara (br Lavol 1 (olaaaa. pemvtttnB tvpradocSan 
+ard araaandnaSto b fflioofkto w otMT ORIC annhnl 
+madle {oa** ebctonh;) aodpapw copy. 
+
+
+
+Ctodk hem Ibf Laval 2A raieaae. peffnMffQ rvpftoiicflon 
+and j te s a m iM Bon in mlGroSdta and tn atacbtoic rnodia 
+far ERIC afCMvat ooKeoOoa aubaobaie only 
+
+
+
+Cnedt nera tor Leva! 28 ratam. pannittine 
+raprodueOon end dlsaendnadon (n mloeSctta oMy 
+
+
+
+Ooeunmnlawni to praoeaaed 88 Indoalad provided fopmditfitonquaB^ pannBB. 
+
+If pemdtiion to rapradiiea (a grantad. iRA no box (8 diedifd, dooionentt wB to praeasaed St Level 1 . 
+
+
+
+o 
+
+
+
+sign 
+
+hera,-* 
+
+pl^ae 
+
+
+
+ih&i^y grant to the Eduoatk^ f^sources tnfbmation Center (ERIC) non^xciu^ve pd/m/ssto/) to repwfuc® and dtsseminats this document 
+as imscnM above. Rppmfticborr bom me BRIC mimMte or etecboftft; medKs by parsons ofhar than ERIC emptayaas and its srstam 
+oanbaetem/egiis^permtos^ &c8pSbn«madbternorH3^n9prD^ by&nanaaandod^arsBndca^fancd^ 
+
+to satisfy intormetiM needs efadutmtofs in responsa to dxscrM fnqublas. 
+
+
+
+SIgrttM . 1 
+
+
+
+
+PrtneadNaroerPQshtonmuvc .y a i /> 
+
+yjAn M 
+
+
+r^(Lr<hi-. l/V /d 9^9U>^ ( 
+
+
+
+
+
+
+E4toiDA^pe«»: 
+
+jf)r\rWt^ru ^ €^S c/nvSnt 
+
+
+
+
+
+r -s&b-oi^l 
+
+
+
+(OvOf) 
+
+
+
+
+

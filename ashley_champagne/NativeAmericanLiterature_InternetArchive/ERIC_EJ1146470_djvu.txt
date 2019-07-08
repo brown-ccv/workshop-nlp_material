@@ -1,0 +1,1181 @@
+Latino Immigrant Students’ School Experiences 
+in the United States: The Importance of Family- 
+School-Community Collaborations 
+
+Erin Sibley and Kalina Brabeck 
+Abstract 
+
+This paper reviews the literature on the educational experiences of Lati¬ 
+no immigrant students in the United States, from early childhood through 
+postsecondary educational attainment. Utilizing a developmental-contextual 
+perspective, we explain the various environmental, political, structural, and 
+psychological challenges these students face, while also highlighting protec¬ 
+tive factors in the school and family. We highlight how schools, communities, 
+and families can work together to improve the educational chances of these 
+students. These students are less likely to receive high-quality early childhood 
+education and care before the age of five, setting the stage for potential ac¬ 
+ademic disadvantage later on. Parental premigration characteristics play an 
+important role in children’s achievement during elementary and middle school, 
+a time when parent educational involvement is important but often difficult 
+for immigrant families. Immigrant students are less likely to graduate high 
+school compared to children of native-born parents and during adolescence 
+may experience isolation from U.S. peer groups. These findings are discussed 
+in light of the additional risks carried by unauthorized status, as well as im¬ 
+migration and acculturation-related stressors. Given that these children are a 
+growing segment of the U.S. population and will soon comprise a large por¬ 
+tion of the nation’s workforce, we argue that educating them effectively should 
+be of utmost importance. We conclude with policy recommendations, practice 
+recommendations for schools, and important directions for future research. 
+
+
+School Community Journal, 2017, Vol. 27, No. 1 
+
+Available at http://www.schoolcommunitynetwork.org/SCT.aspx 
+
+
+137 
+
+
+
+SCHOOL COMMUNITY JOURNAL 
+
+
+Key Words: immigration, parent educational involvement, school achieve¬ 
+ment, educational aspirations, Latino immigrant students, family-school- 
+community collaboration, English language learners (ELLs), acculturation 
+
+Introduction 
+
+There are currently 41.3 million immigrants living in the United States 
+(U.S.), 11.7 million of whom are unauthorized (Passel, Cohn, & Gonzales- 
+Barrera, 2013; Zong & Batalova, 2015). Latino immigrants make up 47% 
+of the foreign-born population (Motel & Patten, 2011), and demographers 
+predict that by 2020, 30% of all U.S. children will be children of immigrants 
+(Capps, Fix, Ost, Reardon-Anderson, & Passel, 2004; Note: Throughout this 
+article, “immigrant” refers to first-generation immigrant youth and children 
+of immigrants.) This article will summarize the literature on perhaps the most 
+important setting outside the family that will influence the development of 
+these youngest members of immigrant families—school, and it will address 
+the ways in which schools can be places of connection and belonging for im¬ 
+migrant children and youth, particularly when those schools effectively partner 
+with families and the community. This article (a) reviews risk and protective 
+factors for immigrant youth; (b) explains the social ecological model of im¬ 
+migrant child development, which underscores the impact of various levels of 
+context (including school and family) in influencing developmental trajecto¬ 
+ries; (c) summarizes research on immigrant students’ educational experiences 
+from preschool through secondary school; and (d) offers recommendations 
+for building strong family—school—community partnerships for immigrant stu¬ 
+dents. Throughout the article, the heterogeneity in school experiences among 
+immigrant students of different legal statuses (their own and their parents) will 
+be highlighted. 
+
+Protective and Risk Factors for Immigrant Children 
+
+Despite significant obstacles experienced by many immigrants, and notwith¬ 
+standing the vast heterogeneity across and within Latino immigrant groups, 
+newcomer parents often bring strengths that are conveyed to their children in 
+ways that can positively affect school performance and can be harnessed in de¬ 
+veloping partnerships among schools, families, and communities. For example, 
+many Latino immigrant parents, families, and children demonstrate consider¬ 
+able resilience, that is, the capacity to survive physically and psychologically 
+in circumstances requiring strengths and determination, and to possess the 
+psychological flexibility to adapt to a new lifestyle (Carreon, Drake, & Bar¬ 
+ton, 2005; Trueba, 1999). In Latino families, cultural norms and values that 
+
+
+138 
+
+
+IMMIGRANT STUDENTS AND COLLABORATION 
+
+
+emphasize family obligations, warmth, and reciprocity ( familismo ) and strong 
+connections with others ( personalismo) may provide Latino immigrant children 
+with an abundance of high-quality relationships with immediate and extended 
+family and friends; such relationships can act as a buffer to the negative effects 
+of poverty (Lansdale, Hardie, Oropesa, & Hillemeier, 2015). Children in Lati¬ 
+no immigrant families are more likely to live in two-parent households, which 
+has positive effects on children’s educational outcomes (Hernandez, Denton, 
+& Macartney, 2008). Research has also highlighted cognitive benefits of multi¬ 
+lingualism, such as higher levels of executive functioning, including attentional 
+control and cognitive flexibility (Bialystok, 1999). 
+
+Despite these individual and environment-level protective factors, Latino 
+immigrant children are more likely to experience several risk factors when com¬ 
+pared with nonimmigrant children, and these risk factors put them in jeopardy 
+of poor academic performance (Lahaie, 2006). For example, children in immi¬ 
+grant families are 1.5 times more likely than children in U.S.-born families to 
+grow up poor; 26% live in a linguistically isolated household, where no adult 
+speaks English well (Hernandez & Cervantes, 2011); and nearly one-third of 
+children in immigrant families have a mother who has not graduated from high 
+school (Hernandez & Napierala, 2012). Children in immigrant families are 
+generally more likely to attend underresourced schools (Suarez-Orozco, Bang, 
+& Onaga, 2010), and immigrant youth are also more likely than nonimmi¬ 
+grant youth to attend larger, more segregated schools, with a higher proportion 
+of students in poverty and with more safety problems at the school (Crosnoe, 
+2005). As a result of these risk factors, and in spite of their high academic 
+aspirations and strengths, immigrant children are less likely to be proficient 
+in reading and math, attend prekindergarten, and graduate from high school 
+(Hernandez & Napierala, 2012). Given their particular strengths (e.g., family 
+relationships) and sources of risk (e.g., poverty), effective partnerships among 
+schools, families, and communities are especially critical for these students. 
+
+A Social Ecological Frame for Immigrant Children’s Experiences 
+
+Bronfenbrenner’s bioecological theory, originally published as ecologi¬ 
+cal theory in the 1970s, posits that children are embedded within multiple 
+contexts that interact with each other to affect the child’s development (Bron- 
+fenbrenner & Morris, 1998). Through this lens, the contexts of the family, 
+school, and community influence child development and are interactive sites 
+where various processes (e.g., parenting styles, teacher perceptions), influence 
+the child’s development. Moreover, this theory stresses the influence of the 
+interactions among layers of context on child development, such as the com¬ 
+munication between parents and teachers or the follow-through at home with 
+school-assigned tasks. 
+
+
+139 
+
+
+SCHOOL COMMUNITY JOURNAL 
+
+
+As members of underrepresented and oppressed groups, additional eco¬ 
+logical constructs are important to Latino immigrant children’s development. 
+Extending Bronfenbrenner’s work and recognizing the limitations of tradi¬ 
+tional developmental models for understanding the unique experiences and 
+environments of children of color, Garcia Coll and colleagues (1996) devel¬ 
+oped the integrative model for the study of developmental competencies in 
+minority children. This model includes a greater emphasis on social position, 
+racism, and segregation, since these constructs may influence the inhibiting or 
+promoting environments in which children live. The integrative model further 
+considers that different racial and ethnic groups have different adaptive cul¬ 
+tures, depending on the migration patterns of the group, level of acculturation, 
+and cultural values and traditions. 
+
+In line with these ideas, school, home, and community environments can 
+act as inhibiting or promoting settings for the optimal development of im¬ 
+migrant children. As argued by Ungar and colleagues (2012), children exist 
+within environments that either support and buffer them from risk factors or 
+heighten those risk factors. According to the Ungar (2012) model, resilience 
+should be understood as both the quality of the interaction between the child 
+and his or her environment, as well as the individual competence of both the 
+child and the environment, separately. In this view, a well-resourced, stable en¬ 
+vironment, such as a high-quality school, allows the child’s internal strengths 
+and talents to contribute to positive educational outcomes. Importantly, Ungar 
+and colleagues also argue that “the more a child is exposed to adversity...the 
+more the child’s resilience depends on the quality of the environment (rather 
+than individual qualities)” to ensure his or her well-being (Ungar, Ghazinour, 
+& Richter, 2013, p. 350). Consequently, an underresourced environment may 
+inhibit the expression of a child’s internal resources. Given the many risk fac¬ 
+tors immigrant children may face, it is paramount that educational settings 
+partner with families and communities to promote environments that support 
+the children’s development. 
+
+Differences in Student Experiences Based on Legal Status 
+
+The current U.S. legal and political climate acts as an inhibiting environ¬ 
+ment for many Latino immigrant children, in particular for those whose lives 
+are constrained by their own or their parents’ liminal legal status. It is estimated 
+that 4.5 million U.S.-born children live in mixed-status families, consisting of 
+at least one unauthorized parent and a U.S.-born citizen child (Taylor, Lopez, 
+Passel, & Motel, 2011). These children live within the context of social exclu¬ 
+sion that dominates the lives of their unauthorized parents (Brabeck, Sibley, 
+& Lykes, 2016; Capps, Bachmeier, Fix, & Van Hook, 2013; Suarez-Orozco, 
+
+
+140 
+
+
+IMMIGRANT STUDENTS AND COLLABORATION 
+
+
+Yoshikawa, Teranishi, & Suarez-Orozco, 2011). For example, unauthorized 
+immigrants are less likely than authorized immigrants to access social services 
+(Xu & Brabeck, 2012), partly due to their ineligibility to access services for 
+themselves, but also explained by a reluctance to access services for their U.S. 
+citizen children due to fear, mistrust, and misunderstanding of social services 
+(Viladrich, 2012). Fear and stigma characterize the everyday lives of unau¬ 
+thorized immigrants (Abrego, 2011), and the combination of minority status, 
+potentially traumatic premigration experiences, poverty, and lack of legal sta¬ 
+tus pose significant mental health risks to this population (Perez & Fortuna, 
+2005). There are also one million unauthorized children under the age of 18 
+living in the U.S.; these children experience educational and employment con¬ 
+straints and the risk of their own deportation and subsequent separation from 
+their families (Passel & Cohn, 2011). 
+
+Parents’ documentation status can affect their children both directly (such 
+as in the case of a parent who is deported) and indirectly through their premi¬ 
+gration characteristics, postmigration experiences, and every day social settings 
+(Yoshikawa & Kalil, 2011). Some immigrant parents, for example, incur high 
+levels of migratory debt after paying smugglers to help them to come to the 
+U.S. and are forced to take on multiple inflexible jobs, which can limit the 
+time they have to invest in their children’s educational pursuits (Yoshikawa, 
+2011). The pervasive stress of unauthorized status can create immense parental 
+distress, which may affect children through harsher parenting and less parental 
+warmth and authoritative parenting (Yoshikawa & Kalil, 2011). Research that 
+explores how legal status influences immigrant students’ experiences in school 
+will be integrated into the summaries that follow. 
+
+Early Childhood 
+
+Many children in Latino immigrant families begin kindergarten at a dis¬ 
+advantage due to their lower rates of enrollment in center-based child care 
+(Brandon, 2004). Fligh-quality, center-based care—including daycare cen¬ 
+ters, Head Start programs, and other prekindergarten programs—are generally 
+regarded as optimal to promote child social/emotional well-being and cogni¬ 
+tive development. Unlike some other childcare options (e.g., home daycare, 
+relative care), quality center-based care settings have trained staff, varied educa¬ 
+tional curricula, daily structure, and peers with whom children can engage in 
+learning. Researchers have found that quality center-based care, compared to 
+parent or informal home-based care, supports early reading and numeracy skills 
+(Gormley, Gayer, Phillips, & Dawson, 2005; Loeb, Bridges, Bassok, Fuller, & 
+Rumberger, 2007) as well executive functioning (Weiland & Yoshikawa, 2013). 
+
+
+141 
+
+
+SCHOOL COMMUNITY JOURNAL 
+
+
+Research indicates that children of immigrants are less likely to be enrolled 
+in high-quality early care and preschool compared to children of U.S.-born 
+citizens (Brandon, 2004; Crosnoe, 2007; Magnuson, Lahaie, & Waldfogel, 
+2006). The majority of immigrant children under age three are either in pa¬ 
+rental care or have no regular care arrangement (60% compared to 40% of 
+children of U.S. citizens), and only 5% are enrolled in center-based care (Mat¬ 
+thews & Ewen, 2006). This may be in part due to the findings that children 
+of immigrants are more likely to live in low-income households, have parents 
+with less formal education, and be less likely to have two working parents, all 
+factors associated with lower enrollment in preschool and center-based care 
+(Capps et ah, 2004). Additionally, Latino immigrant parents working low- 
+wage jobs are more likely to work nontraditional shifts, such as night shifts, 
+and do not have high-quality childcare options available during those hours 
+(Matthews & Ewen, 2006). 
+
+Recent research indicates that home-visiting programs for families with 
+young children may be effective with immigrant populations. For example, 
+Nievar and colleagues (2011) found that the Home Instruction of Parents and 
+Preschool Youngsters (HIPPY) program increased immigrant parents’ effica¬ 
+cy and contributed to richer home learning environments. Positive effects on 
+math achievement were observed through third grade. Other scholars have also 
+encouraged the use of two-generation strategies with immigrant parents and 
+their children through programs such as HIPPY and Abriendo Puertas (Moore 
+et ah, 2014) because they help parents learn how to become teachers at home, 
+bridge home and school, and often build stronger connections between fami¬ 
+lies and communities (Crosnoe, 2010). 
+
+Upon entering kindergarten, disparities in school readiness also exist be¬ 
+tween children in immigrant and nonimmigrant families. Crosnoe (2007) 
+found that lower center-based care usage by Mexican immigrant families par¬ 
+tially explained their lower rates of math achievement in kindergarten. Using 
+a national sample, Koury and Votruba-Drzal (2014) found that children of 
+Mexican, Central American, and Spanish Caribbean parents performed worse 
+than other immigrant groups and worse than native-born White students in 
+math and reading skills at age five; these differences were primarily driven by 
+socioeconomic factors. At kindergarten entry, children of foreign-born parents 
+also have significantly lower expressive language scores compared to U.S.-born 
+parents (W. Han, Lee, & Waldfogel, 2012). Research indicates that when chil¬ 
+dren of immigrants attend center-based preschool programs, they have better 
+reading and math scores at kindergarten entry and higher English-language 
+proficiency (Magnuson et ah, 2006), lending credence to the importance of 
+preschool enrollment. 
+
+
+142 
+
+
+IMMIGRANT STUDENTS AND COLLABORATION 
+
+
+Research provides evidence of the role of parent legal status in partly ac¬ 
+counting for the early childhood disparities reviewed. In a study of families 
+with children up to 24 months old, Yoshikawa, Godfrey, and Rivera (2008) 
+found that immigrant groups with the highest proportion of unauthorized par¬ 
+ents (Mexican and Dominican immigrants) had the least access to institutional 
+resources such as checking accounts, savings accounts, credit cards, and driver’s 
+licenses. Low levels of access to these resources predicted more economic hard¬ 
+ship and more parental psychological distress, which in turn were associated 
+with lower scores on child cognitive outcomes. Additionally, Mexican immi¬ 
+grant parents, who were most likely to be unauthorized, reported the lowest 
+levels of cognitively stimulating activities at home. 
+
+Elementary and Middle School 
+
+Middle childhood (ages 6-12), beginning in the elementary school years, 
+marks the first time that some children spend significant time outside of the 
+immediate family context (Garda Coll & Marks, 2009). There is some evi¬ 
+dence that although children of Latino immigrants enter school with lower 
+levels of academic skills, they make up some ground over time; however, the 
+gap between third-plus generation students and children of immigrants does 
+not disappear (Crosnoe & Lopez Turley, 2011). Research with a national sam¬ 
+ple indicates that at third grade, children of immigrants still underperform in 
+math compared to children of U.S.-born parents, despite heterogeneity de¬ 
+pending on country of origin (Click & Hohmann-Marriott, 2007). 
+
+Among children of documented immigrants, parental premigration charac¬ 
+teristics are strongly correlated with children’s achievement, more so than any 
+other pre- or postmigration characteristic. Using data from the New Immigrant 
+Survey, Pong and Landale (2012) found that for children of immigrants ages 
+6-12, premigration parental education and parental English proficiency upon 
+arrival in the U.S. were strongly predictive of children’s achievement. One re¬ 
+cent study found that children of unauthorized parents who were enrolled in 
+Grades 2-4 scored significantly worse than children of authorized immigrants 
+in reading, spelling, and math (Brabeck, Sibley, Taubin, & Murcia, 2016). So¬ 
+cial service use moderated this relationship, acting as a protective buffer against 
+the academic risks associated with having an unauthorized parent. 
+
+During elementary school, parents are typically expected—by the school 
+and larger society—to be involved in their children’s education. There has been 
+a renewed interest in family educational involvement since the passage of the 
+No Child Left Behind Act in 2001, which mandated increased parental in¬ 
+volvement in schools receiving Title I funding, which was reiterated in the 
+Every Student Succeeds Act in 2015. Family educational involvement can be 
+
+
+143 
+
+
+SCHOOL COMMUNITY JOURNAL 
+
+
+defined as school-based involvement (e.g., volunteering in the classroom, at¬ 
+tending PTO meetings) and home-based involvement (e.g., helping children 
+with homework, family meals, provision of cognitively stimulating activities at 
+home). Generally, family educational involvement has been found to be posi¬ 
+tively associated with child achievement, with small to moderate effect sizes 
+(Fan & Chen, 2001; Jeynes, 2003). Given the evidence of benefits of fam¬ 
+ily educational involvement during elementary school, it is a potential way to 
+buffer immigrant children from some of the disadvantages they face, thus im¬ 
+proving their academic performance. Indeed, family educational involvement 
+has been shown to be beneficial for other disadvantaged groups, such as chil¬ 
+dren in poverty (Dearing, Kreider, Simpkins, & Weiss, 2006). 
+
+Until recently, little empirical work investigated the family educational in¬ 
+volvement practices of immigrant versus nonimmigrant parents. In one recent 
+study, Sibley and Dearing (2014) found that the domain of greatest difference 
+between immigrant and nonimmigrant parents was school-based involve¬ 
+ment, with immigrant parents lagging behind. However, immigrant parents 
+were highly involved outside of school and also had the highest levels of edu¬ 
+cational expectations for their children. Thus, immigrant parents care deeply 
+about their children’s education and want to be involved in their education, 
+but likely face barriers to school involvement, such as language, transportation, 
+racism, childcare, or intimidation, often based on legal status. Immigrant par¬ 
+ents who are unauthorized may face the greatest barriers to family educational 
+involvement, and some data support this assertion. For example, ethnographic 
+research demonstrated legal status as a pervasive source of stress that infiltrated 
+all aspects of participants’ lives, including involvement in children’s schools 
+(Carreon et ah, 2005). Schools should also understand that Latino immigrant 
+parents may be highly involved in their children’s education in ways that are 
+not typically considered to be “parent involvement’’ from a White, American 
+perspective. For example, a qualitative study of Latino immigrants found that 
+these parents were highly involved in their children’s education through asking 
+questions to others in their community about how to navigate the school sys¬ 
+tem and through attending events and activities that they believed would have 
+indirect positive effects on their children’s learning. As an example, some cited 
+attending adult English classes so that they could demonstrate the importance 
+of education to their children (Poza, Brooks, & Valdes, 2014). 
+
+During elementary school, some immigrant children experience uninten¬ 
+tional bias and discrimination from their classroom teachers (Brown, 2015). 
+This can be potentially problematic, given the association between teach¬ 
+er expectations and achievement for children at risk (Hinnant, O’Brien, & 
+Ghazarian, 2009). In addition to being linked to poorer social/emotional and 
+
+
+144 
+
+
+IMMIGRANT STUDENTS AND COLLABORATION 
+
+
+academic outcomes, students’ perceived discrimination is linked to higher risk 
+of dropout, lower academic motivation, and decreased self-efficacy (Brown, 
+2015). Discrimination can manifest itself in many ways; for example, in one 
+study, immigrant elementary school students reported that teachers did not call 
+on them because of their ethnicity (Brown & Chu, 2012). Students also report 
+that teachers assume their English is poor when they are in fact English profi¬ 
+cient, and some report that they are stereotyped as problematic students with 
+behavior problems (Katz, 1999). Fortunately, students in classrooms where 
+teachers understood diverse students to be a benefit rather than a burden re¬ 
+ported less perceived discrimination and more positive ethnic self-identities 
+(Brown & Chu, 2012). 
+
+Thus, while findings are somewhat mixed, the general consensus is that 
+the academic disadvantage experienced by immigrant children in preschool 
+and at school entry is carried into their elementary school years and that this 
+disadvantage is mostly explained by socioeconomic and sociostrucutral fac¬ 
+tors, notably legal status and teacher prejudice that leads to low expectations. 
+Protective factors such as parental involvement, high teacher expectations, and 
+access to quality preschool can be buffers and enhance the academic trajectories 
+for some elementary-aged Latino immigrant children. 
+
+Immigrant Students in Secondary School 
+
+Immigrant children are less likely to graduate from high school when com¬ 
+pared with children of native-born parents (Hernandez & Napierala, 2012). 
+Suarez-Orozco and colleagues (2008) longitudinal data of immigrant students 
+revealed that many immigrant groups (including Latino immigrant students 
+from the Dominican Republic, Mexico, and Central America) showed a down¬ 
+ward trend in GPA across grades in adolescence. Adolescence is a period rife 
+with important social, emotional, cognitive, and biological developmental 
+changes. These changes are complicated by and take on particular meaning in 
+the context of immigrant youths’ lives in ways that can affect their experienc¬ 
+es in school. For example, adolescence is marked by the importance of social 
+relationships, particularly with peers. Adolescents seek connection with and 
+belonging to groups, even as they assert their unique and distinct identities 
+(Newman, Lohman, & Newman, 2007). Within this developmental context, 
+the social losses experienced by first-generation immigrant students who have 
+been separated from their peer groups in countries of origin may be particu¬ 
+larly difficult (Suarez-Orozco et ah, 2008). Moreover, immigrant high school 
+students may experience isolation from U.S. peer groups who are different cul¬ 
+turally and linguistically (Garcia Coll & Marks, 2009; Suarez Orozco et ah, 
+2008). The unique stressors associated with acculturation (e.g., learning the 
+
+
+145 
+
+
+SCHOOL COMMUNITY JOURNAL 
+
+
+language, feeling different from peers, experiences of discrimination, lacking 
+a sense of belonging) and acculturative stress (i.e., difficulty adjusting to new 
+culture, Berry, 2006) can be particularly challenging for immigrant adolescents 
+during a developmental period when peer relationships, “fitting in,” and social 
+connection are important. 
+
+Immigration-related stressors among adolescents, including acculturation 
+and acculturative stress, have been linked to internalizing symptoms (i.e., de¬ 
+pression, anxiety, somatic symptoms) and externalizing behaviors (i.e., negative 
+behaviors directed toward the external environment) among immigrant adoles¬ 
+cents (Alegrfa, Sribney, Woo, Torres, & Guarnaccia, 2007). Sirin et al. (2013) 
+recently reported longitudinal data that demonstrated that greater exposure 
+to acculturative stress among immigrant high school students—regardless of 
+generation status—predicted significant internalizing symptoms, including 
+depression, anxiety, and somatization. These internalizing symptoms are as¬ 
+sociated with impaired executive functioning skills in adolescents, which in 
+turn affect performance in school (G. Han et al., 2016). Additionally, during 
+a developmental period when family relationships can already be tumultuous, 
+acculturative family distancing, that is, the more rapid adjustment to a new 
+culture of the youth vis-a-vis the parent, can add stress to family relationships 
+and affect youths’ mental health and well-being in ways that compromise their 
+executive functioning skills that are required for success in school (Hwang & 
+Wood, 2009). 
+
+As in their younger years, immigrant high school students also dispropor¬ 
+tionately contend with structural challenges to their schooling. When compared 
+to their nonimmigrant peers, they are more likely to live in urban areas where 
+they face additional challenges such as underresourced schools, underprepared 
+teachers, violence, segregation, poverty, parental unemployment, and crowded 
+housing (Reardon-Anderson, Capps, & Fix, 2002). English-language learning 
+students—typically first- and sometimes second-generation immigrants—are 
+underrepresented in high-track courses in high school (Callahan, Wilkin¬ 
+son, & Muller, 2010; Kanno & Cromley, 2013) and have limited access to 
+advanced-level classes such as honors and advanced placement (AP) courses 
+(Callahan, 2005; Callahan et al., 2010). Similar to students in the general 
+population, the consequences of low tracking for ELLs include low academic 
+outcomes (Calla al., 2010), lack of opportunity for developing critical think¬ 
+ing skills, and disruptive classroom climates (Harklau, 1994a, 1994b). Because 
+they are segregated, high school ELLs may also be hampered by the inhibition 
+of second-language development (Kanno & Kangas, 2014). 
+
+As with other developmental stages, one important structural disadvantage 
+for some immigrant high school students is legal status. Unauthorized high 
+
+
+146 
+
+
+IMMIGRANT STUDENTS AND COLLABORATION 
+
+
+school students face significant legal, financial, and policy barriers to pursuing 
+education beyond high school, which can lead them to academically disengage 
+and underperform (Contreras, 2009; Olivos & Mendoza, 2009; Perez, Cortes, 
+Ramos, & Coronado, 2010; Perez, Espinoza, Ramos, Coronado, & Cortes, 
+2009; Roth & Grace, 2015). Nationally, 40% of unauthorized adults ages 18— 
+24 do not complete high school, and only 49% of unauthorized high school 
+graduates go to college (Passel & Cohn, 2009). Among the small percentage of 
+unauthorized immigrant students who pursue higher education, most attend 
+community colleges, and many of those do not finish (Flores, 2010). 
+
+Adolescence marks a period when individuals assert independence, define 
+identity, and begin to develop a life course through acts such as obtaining a 
+drivers license, applying to college, and developing a vocational path (Erikson, 
+1963; Gonzalez, Suarez-Orozco, & Dedios-Sanguineti, 2013). For unauthor¬ 
+ized students, these acts may be impossible because their options for work and 
+education are limited by state laws (Abrego, 2006; Abrego & Gonzales, 2010). 
+As described by Gonzalez (2011), high school is often a time of “discovery” for 
+unauthorized students who for the first time may confront the crippling im¬ 
+plications of their status and the extinction of their hopes and dreams; such 
+realizations can lead to depression, anger, and even thoughts of suicide. While 
+no federal law prohibits unauthorized students from obtaining a college edu¬ 
+cation, most states do not offer them in-state tuition, and some states deny 
+them financial assistance (Diaz-Strong, Gomez, Luna-Duarte, & Meiners, 
+2011). Thus, while immigrant students in general may hold higher academic 
+aspirations than their peers (Garcia Coll & Marks, 2009), unauthorized high 
+school students, faced with multiple structural barriers, hold lower aspirations. 
+McWhirtley, Ramos, and Medina (2013) found that high school immigrant 
+students who anticipated immigration status problems had lower vocational 
+outcome expectations and anticipated more external barriers to pursuing their 
+postsecondary plans. 
+
+While research has documented the challenges Latino immigrant high 
+school students face, it has also revealed protective factors that underscore the 
+importance of strong connections with family and community. One important 
+protective factor for Latino immigrant students in high school is social relation¬ 
+ships. For example, Sirin et al. (2013) found that social support moderated the 
+relationship between acculturative stress and anxious/depressed symptoms for 
+immigrant high school students. Similarly, Suarez-Orozco et al. (2008) found 
+that social support was particularly important for first-generation immigrant 
+high school students who need help navigating new linguistic and cultural 
+environments, achieving financial stability, and receiving emotional and prac¬ 
+tical support. One concrete action that can lead to social support for high 
+
+
+147 
+
+
+SCHOOL COMMUNITY JOURNAL 
+
+
+school students is participation in afterschool activities. Camacho and Fuligni 
+(2015) found that participation in such activities was beneficial with regards 
+to academic achievement and engagement for immigrant high school students 
+across generation statuses and that it was most beneficial for first-generation 
+students. Strong family relationships and parental involvement can also be pro¬ 
+tective factors for high school students; for example, Mena (2011) found that 
+home-based monitoring and discussion of educational experiences improved 
+immigrant high school students’ intentions to complete the school year. Op¬ 
+portunities for mentorship (Gonzales, 2010) and financial assistance (Flores, 
+2010) can further minimize the disadvantage of unauthorized immigrant stu¬ 
+dents. Finally, given the multiple structural barriers they face, sociopolitical 
+development and fostering critical consciousness can be particularly protective 
+for immigrant youth and can contribute to academic achievement and post¬ 
+secondary expectations (Abrego, 2006; Abrego & Gonzalez, 2010; Luginbuhl, 
+McWhirter, & McWhirter, 2006; Perez et ah, 2010). 
+
+Discussion 
+
+Latino immigrant children are a growing segment of the U.S. population, 
+and understanding how to educate them effectively should be a top priority 
+for the nation. As young children, Latino immigrant students often start at a 
+disadvantage in part due to their lower rates of enrollment in early education 
+(associated with their parents’ socioeconomic status and, for some, legal sta¬ 
+tus). They may face disadvantages throughout elementary and middle school 
+related to cultural barriers between the school and home as well as teacher bias 
+and low expectations. They further experience social barriers and immigration- 
+related stressors in high school that can affect their mental health, cognitive 
+functioning, and academic performance. Despite holding high educational as¬ 
+pirations and expectations, structural barriers due to their own or their parents’ 
+unauthorized status, economic resources, or racism may hinder their path to¬ 
+ward postsecondary education. 
+
+Strong partnerships among schools, families, and communities are vital to 
+the success of immigrant students. The family-school-community systems 
+model proposed by Dearing, Sibley, and Nguyen (2015) emphasized that these 
+connections require investments from all three agents in the system. Commu¬ 
+nities and schools play a key role in determining the extent to which families 
+are aware of opportunities to be involved at the school and can take advantage 
+of educational opportunities for their children. For example, schools should be 
+proactive in providing outreach to immigrant families. An action research proj¬ 
+ect with teachers in primarily immigrant school districts found that holding 
+
+
+148 
+
+
+IMMIGRANT STUDENTS AND COLLABORATION 
+
+
+parent-teacher conferences in parents’ neighborhoods (such as in a church 
+hall) or extending hours for parents to meet with teachers helped eliminate 
+many of the barriers facing immigrant parents (e.g., intimidation, inflexible 
+employment hours; Trumbull, Rothstein-Fisch, & Hernandez, 2003). Thus, 
+schools in communities with high immigrant concentrations can serve their 
+community in many ways and adapt as the community’s needs change. Impor¬ 
+tantly, school staff should approach family-school partnerships with Latino 
+immigrant parents from a strengths-based perspective, recognizing that their 
+language and cultural values will contribute positively to their children’s devel¬ 
+opment. When families feel that their culture is valued and teachers reach out 
+to them for input, parents often become more involved at the school and in 
+their children’s education (Orozco, 2008). 
+
+When designing classroom practices, school staff should pay particular at¬ 
+tention to the cultural values of their students’ families. For example, the value 
+of collectivism, which is important in Latino culture, is defined as the central¬ 
+ity of the interrelatedness of the self to others, with family considered to be an 
+important social resource and interdependency among family members viewed 
+as paramount (Chang, 2015; Rothstein-Fisch, Greenfield, & Trumbull, 1999). 
+When raising children with collectivist values, parents teach them to help oth¬ 
+ers and contribute to the success of the group (Rothstein-Fisch et ah, 1999). 
+Because U.S. teachers and schools tend to be individualistic, they are likely to 
+value and reward students for individual accomplishments and the ability to 
+focus on their own work (Trumbull, Rothstein-Fisch, Greenfield, & Quiroz, 
+2001). Some strategies to foster collectivism in the classroom setting include 
+placing struggling and advanced readers within the same reading groups and 
+encouraging them to help each other (rather than placing all struggling stu¬ 
+dents in one group and advanced readers in another) and encouraging students 
+to use personal and family anecdotes in class discussions (Rothstein-Fisch et 
+ah, 1999; Trumbull et ah, 2001). 
+
+Specific case management for high-needs students, including Latino im¬ 
+migrant students, should also be a priority, so that both mental health and 
+academic needs can be addressed. Community school models and integrated 
+student supports (see Moore et ah, 2014, for a review) can be an effective way 
+to ensure that students’ academic and out-of-school needs are appropriately 
+met. For example, full-service community school models that provide health 
+care, academic support, mental health, and material support for families help to 
+ensure that academic and nonacademic challenges (that may be caused in part 
+due to out-of-school factors such as those related to poverty) can be addressed 
+simultaneously. School social workers can help connect families to resources 
+they are entitled to but may not know how to access. Schools should also work 
+
+
+149 
+
+
+SCHOOL COMMUNITY JOURNAL 
+
+
+directly with families when immigrant students are struggling. For example, 
+for immigrant students struggling with adjustment, the Conjoint Behavioral 
+Consultation (CBC) intervention is a potential resource. CBC is a partnership 
+model between parents, teachers, and a school consultant (e.g., a psychologist) 
+to address students’ social/emotional needs through a collaboratively construct¬ 
+ed plan with methods to measure the child’s progress over time. Randomized 
+trials have shown the CBC to be effective in improving home—school commu¬ 
+nication (Sheridan et ah, 2013) and parent-teacher relationships (Sheridan et 
+ah, 2012). This exemplary program affords immigrant parents an opportunity 
+to share their culture-specific childrearing goals and methods. 
+
+School engagement is an important predictor of achievement but has been 
+found to be low among Latino youth (Brewster & Bowen, 2004). Mentor¬ 
+ing programs for students have been shown to help prevent declines in school 
+engagement (Holt, Bry, & Johnson, 2008). Additionally, smaller schools and 
+high expectation schools have been shown to promote student engagement 
+(Fredericks, Blumenfeld, & Paris, 2004). Teachers should also be trained to 
+understand the important role that their support of students plays given strong 
+research linking teacher-child relationship and positive behavioral engagement 
+(Valeski & Stipek, 2001). This is particularly important for immigrant stu¬ 
+dents who may be subject to teacher biases and prejudice based on students’ 
+language, race, and socioeconomic status (Brown, 2015). 
+
+Although much work has focused on the importance of school-family con¬ 
+nections, fewer scholars have focused on the third critical factor: communities 
+(Dearing et ah, 2015). Community agencies can provide material and social 
+supports to schools and families, which may be especially useful to disadvan¬ 
+taged students and their families. City Connects (Walsh et ah, 2014) is an 
+example of a whole-child intervention that leverages both school and commu¬ 
+nity supports. Site coordinators placed in each school assess the strengths and 
+needs of every child across four domains: academics, health, family, and be¬ 
+havior-social/emotional. Using this information, the coordinators then match 
+each child with a unique set of school- and community-provided supports. 
+For example, a child may receive a referral to an afterschool sports or art pro¬ 
+gram; the family may receive a referral to an organization that provides basic 
+needs (e.g., food, diapers); or the child may be set up with additional aca¬ 
+demic supports in school. A recent study (Dearing et ah, 2016) found positive 
+elfects of City Connects on the academic outcomes of first-generation immi¬ 
+grant students in urban elementary schools. This intervention may have been 
+particularly useful because it addressed the full set of needs facing each im¬ 
+migrant student in both the school and home context (i.e., provided medical 
+care for students with health issues, provided food assistance for families and 
+
+
+150 
+
+
+IMMIGRANT STUDENTS AND COLLABORATION 
+
+
+mental health counseling for parents and children, etc.). Other whole-child 
+interventions that approach student outcomes from a contextual perspective, 
+addressing the family, school, and community, may be likely to have similarly 
+positive outcomes. 
+
+Future Research Directions 
+
+There is still much that we do not know about the educational experiences 
+of immigrant youth. One subset of undocumented youth—unaccompanied 
+immigrant youth—have been the focus of very little research, so their academ¬ 
+ic outcomes remain largely unknown. These children present a very difficult 
+challenge to schools as these students often come without strong familial con¬ 
+nections to ease the transition into school, high rates of exposure to stressful 
+and traumatic events, complicated legal cases, low levels of English proficiency, 
+and varying completion levels of formal schooling. In districts with high con¬ 
+centrations of unaccompanied immigrant youth, case studies examining how 
+schools and community-based organizations deal with this influx and support 
+children on an individual basis would add useful data to literature at the inter¬ 
+section of research and practice. 
+
+Much more work is needed to determine specific interventions that may be 
+effective for immigrant children’s achievement and growth. From a theoretical 
+and empirical perspective, approaches that maximize the relationships between 
+schools, families, and communities are likely to have the greatest impact on the 
+educational outcomes of this population. 
+
+References 
+
+Abrego, L. J. (2006). I can’t go to college because I don’t have papers: Incorporation pat¬ 
+terns of Latino undocumented youth. Latino Studies, 4, 212-231. doi:10.1057/palgrave. 
+1st.8600200 
+
+Abrego, L. ]. (2011). Legal consciousness of undocumented Latinos: Fear and stigma as bar¬ 
+riers to claims-making for first- and 1.5-generation immigrants. Law & Society Review, 45 
+(2), 337-370. 
+
+Abrego, L. J., & Gonzales, R. G. (2010). Blocked paths, uncertain futures: The postsecondary 
+education and labor market prospects of undocumented Latino youths. Journal of Educa¬ 
+tion for Students Placed at Risk, 15, 144-157. doi:10.1080/10824661003635168 
+Aldardondo, E., & Becker, R. (2011). Promoting the well-being of unaccompanied immigrant 
+minors. In L. P. Buki & L. M. Piedra (Eds.), Creating infrastructure for Latino mental health 
+(pp. 195-214). New York, NY: Springer. 
+
+Alegria, M., Sribney, W., Woo, M., Torres, M., & Guarnaccia, P. (2007). Looking beyond 
+nativity: The relation of age of immigration, length of residence, and birth cohorts to the 
+risk of onset of psychiatric disorders for Latinos. Research in Human Development, 4(1-2), 
+
+19-47. 
+
+
+151 
+
+
+SCHOOL COMMUNITY JOURNAL 
+
+
+Berry, J. W. (2006). Acculturative stress. In P. T. P. Wong & L. C. J. Wong (Eds.), Handbook of 
+multicultural perspectives on stress and coping (pp. 287-298). Dallas, TX: Springer. 
+
+Bialystok, E. (1999). Cognitive complexity and attentional control in the bilingual mind. 
+Child Development, 70(3), 636-644. 
+
+Brabeck, K. M., Sibley, E., & Lykes, M. B. (2016). Authorized and unauthorized immigrant 
+parents: The impact of legal vulnerability on family contexts. Hispanic Journal of Behavioral 
+Sciences, 38(1), 3-30. 
+
+Brabeck, K. M., Sibley, E., Taubin, E, & Murcia, A. (2016). The influence of immigrant par¬ 
+ent legal status on U.S.-born children’s academic abilities: The moderating effects of social 
+service use. Applied Developmental Science, 20(4), 237-249. 
+
+Brandon, P. D. (2004). The child care arrangements of preschool-age children in immigrant 
+families in the United States. International Migration, 42( 1), 65-87. 
+
+Brewster, A. B., & Bowen, G. L. (2004). Teacher support and the school engagement of Latino 
+middle and high school students at risk for school failure. Child and Adolescent Social Work 
+Journal, 21( 1), 47-67. 
+
+Bronfenbrenner, U., & Morris, P. A. (1998). The ecology of developmental processes. In W. 
+Damon & R. M. Lerner (Eds.), Handbook of child psychology, Vol. 1: Theoretical models of 
+human development (5th ed., pp. 993-1023). New York, NY: John Wiley & Sons. 
+
+Brown, C. S. (2015). The educational, psychological, and social impact of discrimination on the 
+immigrant child. Washington, DC: Migration Policy Institute. 
+
+Brown, C. S., & Chu, H. (2012). Discrimination, ethnic identity, and academic outcomes 
+of Mexican immigrant children: The importance of school context. Child Development, 
+
+83(5), 1477-1485. 
+
+Callahan, R. M. (2005). Tracking and high school English learners: Limiting opportunity 
+to learn. American Educational Research Journal, 42(2), 305-328. doi: 10.3102/00028312 
+042002305 
+
+Callahan, R. M., Wilkinson, L., & Muller, C. (2010). Academic achievement and course tak¬ 
+ing among language minority youth in U.S. schools: Effects of ESL placement. Educational 
+Evaluation and Policy Analysis, 32(1), 84-117. doi:10.3102/0162373709359805 
+
+Camacho, D. E., & Fuligni, A. J. (2015). Extracurricular participation among adolescents 
+from immigrant families. Journal of Youth Adolescence, 4(6), 1251-1262. doi:10.1007/sl0 
+964-014-0105-z 
+
+Capps, R., Bachmeier, J. D., Fix, M., & Van Hook, J. (2013). A demographic, socioeconomic, 
+and health coverage profile of unauthorized immigrants in the United States. Washington, 
+DC: Migration Policy Institute. 
+
+Capps, R., Fix, M., Ost, J., Reardon-Anderson, J., & Passel, J. (2004). The health and well¬ 
+being of young children of immigrants. Washington, DC: The Urban Institute. 
+
+Carreon, G. P., Drake, C., & Barton, A. C. (2005). The importance of presence: Immigrant 
+parents’ school engagement experiences. American Educational Research Journal, 42(3), 
+465-498. doi: 10.3102/00028312042003465 
+
+Chang, J. (2015). The interplay between collectivism and social support processes among 
+Asian and Latino American college students. Asian American Journal of Psychology, 6(1), 
+4-14. doi:10.1037/a0035820 
+
+Contreras, F. E. (2009). Sin papeles y rompiendo barreras [Without papers and breaking bar¬ 
+riers]: Latina/o students and the challenges of persisting in college. Harvard Educational 
+Review, 79, 610-632. 
+
+
+152 
+
+
+IMMIGRANT STUDENTS AND COLLABORATION 
+
+
+Crosnoe, R. (2005). Double disadvantage or signs of resilience? The elementary school con¬ 
+texts of children from Mexican immigrant families. American Educational Research Journal, 
+42(2), 269-303. doi:10.3102/00028312042002269 
+
+Crosnoe, R. (2007). Early child care and the school readiness of children from Mexican im¬ 
+migrant families. International Migration Review, 41(1), 152-181. 
+
+Crosnoe, R. (2010). Two-generation strategies and involvement of immigrant parents in childrens 
+education. Washington, DC: The Urban Institute. 
+
+Crosnoe, R., & Lopez Turley, R. N. (2011). K-12 educational outcomes of immigrant youth. 
+The Future of Children, 21(1). 
+
+Dearing, E., Kreider, H., Simpkins, S., & Weiss, H. B. (2006). Family involvement in school 
+and low-income childrens literacy: Longitudinal associations between and within families. 
+Journal of Educational Psychology, 98(4), 653-664. 
+
+Dearing, E., Sibley, E., & Nguyen, H. (2015). Achievement mediators of family engagement 
+in children’s education: A family-school-community systems model. In S. Sheridan & 
+E. M. Kim (Eds.), Research on family—school partnerships, Vol. II: Processes and pathways of 
+family—school partnerships (pp. 17-39). New York, NY: Springer. 
+
+Dearing, E., Walsh, M. E., Sibley, E., Lee-St. John, T., Foley, C., & Raczek, A. E. (2016). 
+Can community and school-based supports improve the achievement of first-generation 
+immigrant children attending high-poverty schools? Child Development, 87(3), 883-897. 
+
+Diaz-Strong, D., Gomez, C., Luna-Duarte, M. E., & Meiners, E. R. (2011). Purged: Undocu¬ 
+mented students, financial aid policies, and access to higher education. Journal of Hispanic 
+Higher Education, 10, 107-119. doi: 10.1177/1538192711401917 
+
+Erikson, E. H. (1963). Childhood and society. New York, NY: Norton. 
+
+Fan, X., & Chen, M. (2001). Parental involvement and students’ academic achievement: A me¬ 
+ta-analysis. Educational Psychology Review, 13( 1), 1—21. doi:10.1023/A:1009048817385 
+
+Flores, S. (2010). State dream acts: The effects of in-state tuition policies and undocumented 
+Latino students. The Review of Higher Education, 33(2), 239-283. 
+
+Fredericks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement: Potential of 
+the concept, state of the evidence. Review of Educational Research, 74(1), 59-109. 
+
+Garcia Coll, C., Crnic, K., Lamberty, G., Wasik, B. H., Jenkins, R., Garcia, H. V., & McAdoo, 
+H. P. (1996). An integrative model for the study of developmental competencies in minor¬ 
+ity children. Child Development, 67, 1891-1914. doi:10.2307/1131600 
+
+Garcia Coll, C., & Marks, A. (2009). Immigrant stories: Ethnicity and academics in middle 
+childhood. New York, NY: Oxford University Press. 
+
+Glick, J. E., & Hohmann-Marriott, B. (2007). Academic performance of young children in 
+immigrant families: The significance of race, ethnicity, and national origins. The Interna¬ 
+tional Migration Review, 41(2), 371-402. 
+
+Gonzales, R. G. (2010). On the wrong side of the tracks: Understanding the effects of school 
+structure and social capital on the educational pursuits of undocumented immigrant stu¬ 
+dents. Peabody Journal of Education, 85, 469-485. 
+
+Gonzales, R. G. (2011). Learning to be illegal: Undocumented youth and shifting legal con¬ 
+texts in the transition to adulthood. American Sociological Review, 76, 602-619. doi:10. 
+1177/0003122411411901 
+
+Gonzalez, R. G., Suarez-Orozco, C., & Dedios-Sanguineti, M. C. (2013). No place to be¬ 
+long: Contextualizing concepts of mental health among undocumented immigrant youth 
+in the United States. American Behavioral Scientist, 567(8), 1174-1199. doi:10.1177/ 
+0002764213487349 
+
+
+153 
+
+
+SCHOOL COMMUNITY JOURNAL 
+
+
+Gormley, W. T., Jr., Gayer, T., Phillips, D., & Dawson, B. (2005). The effects of universal preK 
+on cognitive development. Developmental Psychology, 41(6), 872-884. 
+
+Han, G., Helm, J., Iucha, C., Zahn-Waxler, C., Hastings P. D., & Klimes-Dougan, B. (2016). 
+Are executive functioning deficits concurrently and predictively associated with depressive 
+and anxiety symptoms in adolescents? Journal of Clinical Child & Adolescent Psychology, 
+45(1), 45-58. doi:l0.1080/15374416.2015.1041592 
+
+Han, W., Lee, R., & Waldfogel, J. (2012). School readiness among children of immigrants 
+in the U.S.: Evidence from a large national birth cohort study. Children & Youth Services 
+Review, 34(4), 771-782. 
+
+Harklau, L. (1994a). “Jumping tracks”: How language-minority students negotiate evalua¬ 
+tions of ability. Anthropology and Education Quarterly, 25(3), 347-363. doi:10.1525/aeq. 
+1994.25.3.04x0149s 
+
+Harklau, L. (1994b).Tracking and linguistic minority students: Consequences of ability group¬ 
+ing for second language learners. Linguistics and Education, 6, 217-244. doi:10.1016/08 
+98-5898(94)90012-4 
+
+Hernandez, D. J., & Cervantes, W. D. (2011). Children in immigrant families: Ensuring op¬ 
+portunity for every child in America. New York, NY: Foundation for Child Development. 
+
+Hernandez, D. J., Denton, N. A., & Macartney, S. E. (2008). Children in immigrant families: 
+Looking to Americas future. SRCD Social Policy Report, 22(3), 3-22. 
+
+Hernandez, D. J., & Napierala, J. S. (2012). Children in immigrant families: Essential to Amer¬ 
+ica’s future. New York, NY: Foundation for Child Development. 
+
+Hinnant, J. B., O’Brien, M., & Ghazarian, S. R. (2009). The longitudinal relations of teacher 
+expectations to achievement in the early school years. Journal of Educational Psychology, 
+101(3), 662-670. 
+
+Holt, L. J., Bry, B. H., & Johnson, V. L. (2008). Enhancing minority school engagement in 
+at-risk, urban minority adolescents through a school-based, adult mentoring intervention. 
+Child & Family Behavior Therapy, 30(4), 297-318. 
+
+Hwang, C., & Wood, J. J. (2009). Acculturative family distancing: Links with self-reported 
+symptomatology. Child Psychiatry and Human Development, 40(1), 123-138. 
+
+Jeynes, W. (2003). A meta-analysis: The effects of parental involvement on minority chil¬ 
+dren’s academic achievement. Education and Urban Society, 35(2), 202-218. doi:10.1177/ 
+0013124502239392 
+
+Kanno, Y., & Cromley, J. (2013). English language learners’ access to and attainment in post¬ 
+secondary education. TESOL Quarterly, 47(1), 89-121. doi:10.1002/tesq.49 
+
+Kanno, Y., & Kangas, S. E. N. (2014). “I’m not going to be, like, for the AP”: English language 
+learners limited access to advanced college-preparatory courses in high school. American 
+Educational Research, 51, 847-858. doi:10.3102/0002831214544716 
+
+Katz, S. R. (1999). Teaching in tensions: Latino immigrant youth, their teachers, and the 
+structures of schooling. Teachers College Record, 100(4), 809-840. 
+
+Koury, A. S., & Votruba-Drzal, E. (2014). School readiness of children from immigrant fami¬ 
+lies: Contributions of region of origin, home, and childcare. Journal of Educational Psychol¬ 
+ogy, 106(1), 268-288. 
+
+Lahaie, C. (2006). School readiness of children of immigrants: Does parental involvement play 
+a role? Social Science Quarterly, 89(3), 684-705. 
+
+Lansdale, N. S., Hardie, J. H., Oropesa, R. S., & Hillemeier, M. M. (2015). Behavioral func¬ 
+tioning among Mexican-origin children: Does legal status matter? Journal of Health and 
+Social Behavior, 56(1), 2-18. doi:10.1177/0022146514567896 
+
+
+154 
+
+
+IMMIGRANT STUDENTS AND COLLABORATION 
+
+
+Loeb, S., Bridges, M., Bassok, D., Fuller, B., & Rumberger, R. W. (2007). How much is too 
+much? The influence of preschool centers on childrens social and cognitive development. 
+Economics of Education Review, 26(1), 52-66. 
+
+Luginbuhl, P. J., McWhirter, E. H., & McWhirter, B. T. (2006). Sociopolitical development, 
+autonomous motivation, and education outcomes: Implications for low-income Latino/a 
+adolescents . Journal of Latino/a Psychology, 4(1), 43-59. 
+
+Magnuson, K., Lahaie, C., & Waldfogel, J. (2006). Preschool and school readiness of children 
+of immigrants. Social Science Quarterly, 87(5), 1241-1262. 
+
+Matthews, H., & Ewen, D. (2006). Reaching all children? Understanding early care and educa¬ 
+tion participation among immigrant families. Washington, DC: Center for Law and Social 
+Policy. 
+
+McWhirtley, E. H., Ramos, K., & Medina, C. (2013). Y ahora que? Anticipated immigration 
+barriers and Latino/a high school students’ future expectations. Cultural Diversity and Eth¬ 
+nic Minority Psychology, 19(3), 288-297. 
+
+Mena, J. A. (2011). Latino parent home-based practices that bolster student academic per¬ 
+sistence. Hispanic Journal of Behavioral Sciences, 33, 490-506. doi:10.1177/073998631 
+1422897 
+
+Moore, K. A., Caal, S., Carney, R., Lippman, L., Li, W., Muenks, K.,...Terzian, M. A. (2014). 
+Making the grade: Assessing the evidence for integrated student supports. Bethesda, MD: Child 
+Trends. 
+
+Moore, K. A., Caal, S., Lawner, E. K., Rojas, A., & Walker, K. (2014). Abriendo Puertas/ 
+Opening Doors Parenting Program: Summary report of program implementation and impacts. 
+Bethesda, MD: Child Trends. 
+
+Motel, S., & Patten, E. (2011). Statistical portrait of the foreign-born population in the United 
+States, 2011. Washington, DC: Pew Research Center. 
+
+Newman, B. M., Lohman, B. J., & Newman, P. R. (2007). Peer group membership and a sense 
+of belonging: Their relationship to adolescent behavior problems. Adolescence, 42(166), 
+241-263. 
+
+Nievar, M. A., Jacobson, A., Chen, Q., Johnson, U., & Dier, S. (2011). Impact of HIPPY on 
+home learning environments of Latino families. Early Childhood Research Quarterly, 26(3), 
+268-277. 
+
+Olivos, E. M., & Mendoza, M. (2009). Immigration and educational inequity: An examina¬ 
+tion of Latino immigrant parents’ inclusion in the public school context. The Journal of 
+Latino—Latin American Studies, 33, 38-53. 
+
+Orozco, G. L. (2008). Understanding the culture of low-income immigrant Latino parents: 
+Key to involvement. School Community Journal, 18(1), 21-37. Retreived from http://www. 
+schoolcommunitynetwork.org/SCl. aspx 
+
+Passel, J. S., & Cohn, D. (2009). A portrait of unauthorized immigrants in the United States. 
+Washington, DC: Pew Research Center. 
+
+Passel, J. S., & Cohn, D. (2011). Unauthorized immigrant population: National and state trends, 
+2010. Washington, DC: Pew Research Center. 
+
+Passel, J., Cohn, D., & Gonzalez-Barrera, A. (2013). Population decline of unauthorized im¬ 
+migrants stalls, may have reversed. Washington, DC: Pew Hispanic Center. Retrieved from 
+http://www.pewhispanic.org/2013/09/23/population-decline-of-unauthorized-immi- 
+
+grants-stalls-mav-have- reversed/ 
+
+Perez, M. C., & Fortuna, L. (2005). Chapter 6: Psychosocial stressors, psychiatric diagnoses, 
+and utilization of mental health services among undocumented immigrant Latinos. Journal 
+of Immigrant and Refugee Services, 3(1-2), 107-123. 
+
+
+155 
+
+
+
+
+
+
+SCHOOL COMMUNITY JOURNAL 
+
+
+Perez, W., Cortes, R., Ramos, K., & Coronado, H. (2010). “Cursed and blessed”: Examining 
+the socioemotional and academic experiences of undocumented Latina and Latino college 
+students. New Directions for Student Services, 2010, 35-51. doi:10.1002/ss.366 
+
+Perez, W., Espinoza, R., Ramos, K., Coronado, H., & Cortes, R. (2009). Academic resilience 
+among undocumented Latino students. Hispanic Journal of Behavioral Sciences, 31, 149— 
+181. doi:10.1177/ 0739986309333020 
+
+Pong, S., & Landale, N. S. (2012). Academic achievement of legal immigrants’ children: The 
+roles of parents’ pre- and post-migration characteristics in origin-group differences. Child 
+Development, 83(5), 1543-1559. 
+
+Poza, L., Brooks, M. D., & Valdes, G. (2014). Entre familia: Immigrant parents’ strategies for 
+involvement in children’s schooling. School Community Journal, 24( 1), 119-148. Retreived 
+from http://www.schoolcommunitynetwork.org/SCl. aspx 
+
+Reardon-Anderson, J., Capps, R., & Fix, M. (2002). The health and well-being of children in 
+immigrant families. Washington, DC: The Urban Institute. 
+
+Roth, B. J., & Grace, B. L. (2015). Falling through the cracks: The paradox of post-release 
+services for unaccompanied immigrant children. Children & Youth Services Review, 58, 
+244-252. 
+
+Rothstein-Fisch, C., Greenfield, P. M., & Trumbull, E. (1999). Bridging cultures with class¬ 
+room strategies. Educational Leadership, 56(7), 64-67. 
+
+Sheridan, S. M., Bovaird, J. A., Glover, T. A., Garbacz, S. A., & Witte, A. (2012). A random¬ 
+ized trial examining the effects of conjoint behavioral consultation and the mediating role 
+of the parent-teacher relationship. School Psychology Review, 41(1), 23. 
+
+Sheridan, S. M., Kratochwill, T. R., & Bergan, J. R. (2013). Conjoint behavioral consultation: 
+A procedural manual. New York, NY: Springer Science & Business Media. 
+
+Sibley, E., & Dearing, E. (2014). Family educational involvement and child achievement 
+in early elementary school for American-born and immigrant families. Psychology in the 
+Schools, 51(8), 814-831. doi:10.1002/pits.21784 
+
+Sirin, S. R., Gupta, T., Ryce, P., Katsiaficas, D., Suarez-Orozco, C., & Rogers-Sirin, L. (2013). 
+Understanding the role of social support in trajectories of mental health symptoms for im¬ 
+migrant adolescents. Journal of Applied Developmental Psychology, 34, 199-207. 
+
+Suarez-Orozco, C., Bang, H. J., & Onaga, M. (2010). Contributions to variations in academic 
+trajectories amongst recent immigrant youth. International Journal of Behavioral Develop¬ 
+ment, 34(6), 500-510. doi:10.1177/0165025409360304 
+
+Suarez-Orozco, C., Suarez-Orozco, M. M., &Todorova, I. (2008). Learning a new land: Edu¬ 
+cational pathways of immigrant youth. Cambridge, MA: Harvard University Press. 
+
+Suarez-Orozco, C., Yokiskawa, H., Teranishi, R., & Suarez-Orozco, M. (2011). Growing up in 
+the shadows: The developmental implications of unauthorized status. Harvard Educational 
+Review, 81, 438-472. 
+
+Taylor, P., Lopez, M., Passel, J., & Motel, S. (2011). Unauthorized immigrants: Lengths of 
+residency, patterns of parenthood. Washington, DC: Pew Hispanic Center. Retrieved from 
+http: //www. pewhispanic. org/2011/12/01/ unauthorized-immigrants-length-of-residency- 
+
+patterns-of-parenthood/ 
+
+Trueba, E. (1999). Latinos unidos: From cultural diversity to the politics of solidarity. Lanham, 
+MD: Rowman & Littlefield. 
+
+Trumbull, E., Rothstein-Fisch, C., Greenfield, P. M., & Quiroz, B. (2001). Bridging cultures 
+between home and schools: A guide for teachers.. Mahway, NJ: Erlbaum. 
+
+Trumbull, E., Rothstein-Fisch, C., & Hernandez, E. (2003). Parent involvement in school¬ 
+ing: According to whose values? School Community Journal, 13(2), 45-72. Retreived from 
+http://www.schoolcommunitynetwork.org/SCT.aspx 
+
+
+156 
+
+
+
+
+
+
+IMMIGRANT STUDENTS AND COLLABORATION 
+
+
+Ungar, M. (2012). Social ecologies and their contribution to resilience. In M. Ungar (Ed.), 
+The social ecology of resilience: A handbook of theory and practice (pp. 13-32). New York, 
+NY: Springer. 
+
+Ungar, M., Ghazinour, M., & Richter, J. (2013). Annual research review: What is resilience 
+within the social ecology of human development? The Journal of Child Psychology and Psy¬ 
+chiatry, 54(4), 348-366. 
+
+Valeski, T. N., & Stipek, D. (2001). Young childrens feelings about school. Child Development, 
+73, 1198-2013. 
+
+Viladrich, A. (2012). Beyond welfare reform: Reframing undocumented immigrants’ entitle¬ 
+ment to healthcare in the United States, a critical review. Social Science & Medicine, 74, 
+822-829. doi: 10.1016/j.socscimed.2011.05.050 
+
+Walsh, M. E., Madaus, G. E, Raczek, A. E., Dearing, E., Foley, C., An, C.,...Beaton, A. 
+(2014). A new model for student support in high-poverty urban elementary schools: Ef¬ 
+fects on elementary and middle school academic outcomes. American Educational Research 
+Journal, 51(4), 704-737. 
+
+Weiland, C., & Yoshikawa, H. (2013). Impacts of a prekindergarten program on childrens 
+mathematics, language, literacy, executive function, and emotional skills. Child Develop¬ 
+ment, 84(G), 2112-2130. 
+
+Xu, Q., & Brabeck, K. (2012). Service utilization for Latino children in mixed-status families. 
+Social Work Research, 36(3), 209-221. 
+
+Yoshikawa, H. (2011). Immigrants raising citizens: Undocumented parents and their young chil¬ 
+dren. New York, NY: Russell Sage Foundation. 
+
+Yoshikawa, H., Godfrey, E., & Rivera, A. (2008). Access to institutional resources as a measure 
+of social exclusion: Relations with family process and cognitive development in the context 
+of immigration. New Directions for Child and Adolescent Development, 121, 63-86. 
+
+Yoshikawa, H., & Kalil, A. (2011). The effects of parental undocumented status on the devel¬ 
+opmental contexts of young children in immigrant families. Child Development Perspec¬ 
+tives, 5(4), 291-297. doi:10.1111/j. 1750-8606.2011.00204.x 
+
+Zong, J., & Batalova, J. (2015). Frequently requested statistics on immigrants and immigration in 
+the United States. Washington, DC: Migration Policy Institute. 
+
+
+Erin Sibley is a postdoctoral research associate at the Center for Optimized 
+Student Support at Boston College. Her research interests include immigrant 
+student achievement as well as parent educational involvement among immi¬ 
+grant families. Correspondence concerning this article may be addressed to Dr. 
+Erin Sibley, Boston College, Center for Optimized Student Support, Campion 
+305, 140 Commonwealth Avenue, Chestnut Hill, MA 02467, or email erin. 
+sibley@bc.edu 
+
+Kalina Brabeck is an associate professor in the Department of Counseling, 
+Educational Leadership, and School Psychology at Rhode Island College. Her 
+research interests include immigrant children and youth, the effects of immi¬ 
+gration policies on immigrants, and the influence of sociostructural challenges 
+on individual mental health and well-being. 
+
+
+157 
+
+
+
+

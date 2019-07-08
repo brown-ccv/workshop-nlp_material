@@ -1,0 +1,929 @@
+English Language Teaching; Vol. 9, No. 4; 2016 
+ISSN 1916-4742 E-ISSN 1916-4750 
+Published by Canadian Center of Science and Education 
+
+
+Diversity of Research Participants Benefits ESL/EFL Learners: 
+Examining Student-Lecturer Disagreements in Classrooms 
+
+Pattrawut Charoenroop 1 
+
+1 English as an International Language Program, Chulalongkorn University, Bangkok, Thailand 
+
+Correspondence: Pattrawut Charoenroop, English as an International Language, Chulalongkorn University, 
+Phyathai Road, Pathumwan, Bangkok, Thailand. Tel: 66-8-1003-0840. E-mail: pattrawut.ch@gmail.com 
+
+Received: January 18, 2016 Accepted: March 20, 2016 Online Published: March 22, 2016 
+doi: 10.5539/elt.v9n4p214 URL: http://dx.doi.org/10.5539/elt.v9n4p214 
+
+
+Abstract 
+
+Reviews of literature made manifest that native English speakers who were research participants in many studies 
+on disagreements were Americans (e.g., Beebe & Takahashi, 1989; Takahashi & Beebe, 1993; Dogacay-Aktuna 
+& Kamisli 1996; Rees-Miller, 2000; Guodong & Jing, 2005; Chen, 2006). The excessive use of Americans as 
+research participants presented a rather restricted view on how the disagreements could be performed by native 
+speakers of English. These studies exhibited that Americans in a classroom context normally began their 
+student-lecturer disagreements with a positive comment (e.g., ‘The idea is interesting but... ’)• Based on these 
+results, the ESL/EFL learners might over-generalize from Americans to other groups of native English speakers 
+and consequently postulate that all native English speakers initiate their student-lecturer disagreements with an 
+optimistic remark. This current study chose a group of 13 Canadians and investigated their disagreement 
+strategies in the identical context. The data were collected by videotaping the participants’ classroom for three 
+hours every week for five consecutive weeks. Results showed that the participants normally disagreed with their 
+lecturer explicitly but mitigated their explicit disagreements with some justification (e.g., 'No because... ’). The 
+findings underscored that Americans and Canadians did not normally use the same disagreement strategies in the 
+classroom context. If future studies increasingly use British English, Australians, New Zealanders or South 
+Africans as research participants and investigate their expressions of student-lecturer disagreement, the ESL/EFL 
+learners will become keenly aware of differences across all native English speakers. In other words, they will be 
+able to avoid over-generalizing from Americans to other native English speakers. 
+
+Keywords: disagreement strategies, strong and weak disagreements, native speakers of English, politeness 
+theory 
+
+1. Introduction 
+
+Henrich et al. (2010, p. 61) proposed an acronym ‘WEIRD’ to represent Western, Educated, Industrialized, Rich, 
+and Democratic people. In the realm of behavioral science research, the participants most frequently used to 
+represent ‘WEIRD’ were empirically attested to be young, educated and middle-class Americans. Henrich et al. 
+(2010) contended that the excessive use of these Americans as research participants might be conducive to 
+population invariability. The ESL/EFL learners, for example, could misperceive the results from the narrowly 
+defined samples. The same holds true in many studies on disagreement. There are an abundant number of studies 
+(e.g., Beebe & Takahashi, 1989a, 1989b; Rees-Miller, 2000; Locher, 2004; Guodong & Jing, 2005; Chen, 2006) 
+that used Americans as research participants. Regardless of how the data were collected-either implicitly or 
+explicitly elicited, these studies yielded consistent results exemplifying that Americans did not directly disagree 
+with the lecturer but typically commenced their expressions of disagreement with a positive statement, as shown 
+
+in (1)- 
+
+(1) While that is true, no doubt,... Rees-Miller (2000, p. 1108) 
+
+The extract (1) illustrates that Americans do not immediately express their disagreement but initially reiterate 
+what was said by the lecturer in an optimistic way. To some extent, the positive statement implies that the 
+speaker agrees with the lecturer. However, the speaker eventually reveals that s/he does not entirely agree with 
+the lecturer’s opinion. In some cases, the expressions of disagreement are postponed by a discourse connective 
+‘but’ (Locher, 2004, pp. 135-137) as in ‘yes, but...’, a conventional expression for disagreement (cf. Bjorge, 
+2012). Beginning the expressions of disagreement with a positive comment or a token of agreement, the speaker 
+
+
+214 
+
+
+
+
+www.ccsenet.org/elt 
+
+
+English Language Teaching 
+
+
+Vol. 9, No. 4; 2016 
+
+
+can firstly acknowledge the lecturer’s need for solidarity. As a result, the threat of disagreement that follows can 
+be counteracted and the lecturer’s positive face can be saved. In addition, Rees-Miller (2000, pp. 1106-1107) 
+disclosed that American professors regularly commenced their lecturer-student disagreements with a positive 
+remark, as shown in (2). Although the extract (2) may not be the focus of this current study, it is to show that 
+Americans regardless of their power status in the classroom often made a pleasant comment to strengthen 
+solidarity before performing the positive-face threatening act of disagreement. 
+
+(2) The kind of explanation you're giving is useful in some ways, but... Rees-Miller (2000, p. 1107) 
+
+The instantiation of these two extracts displays how Americans usually express their disagreements in the 
+classroom context. The results from the past studies (that overly relied on Americans) might inculcate the 
+ESL/EFL learners to expect that all native English speakers (Note 1) would abide by the same norm. This 
+argument can turn out to be sensible because all native English speakers’ cultural backgrounds are purported to 
+be compatible (e.g., Hall, 1976; Hofstede, 1980; Markus & Kitayama, 1991; Oyserman et al., 2002; Molding & 
+Lamoreaux, 2008). Henrich et al. (2010, pp. 79-81), however, did not agree with the preceding assumption and 
+pointed out that American participants cannot virtually represent all native English speakers. For instance, they 
+are more individualistic than other native English speakers. Thus, this current study used Canadians as research 
+participants and examined their expressions of student-lecturer disagreements in the classroom context. Findings 
+from this study can enrich the ESL/EFL learners’ perception of other native English speakers, especially how 
+they normally express their student-lecturer disagreements in the classroom context. 
+
+2. Literature Review 
+
+2.1 Disagreement in the Cross-Cultural Framework 
+
+Several dichotomous classifications have been used to stipulate cultural differences between Westerners and 
+non-Westemers. They are individualism-collectivism, low- and high-context cultures and independent- and 
+interdependent construal of self (e.g., Scollon & Scollon, 1995; Hofstede, 2001; Gudykunst, 2003; Varner & 
+Beamer, 2005). These dichotomies have been purported to govern people’s communication strategies. Gudykunst 
+(2001, p. 37), for example, contended that Westerners, whose cultures are individualistic, low-context and 
+independent, are more likely to express their opinions directly, precisely, clearly and absolutely. To the contrary, 
+non-Westerners, whose cultures are collectivistic, high-context and interdependent, tend to express their opinions 
+indirectly, ambiguously, implicitly and probabilistically. 
+
+In relation to this study, Westerners and non-Westerners can be broadly expected to perform their student-lecturer 
+disagreements differently due to their divergent cultural backgrounds. Generally speaking, disagreement is a 
+positive-face threatening act (Brown & Levinson, 1987, pp. 68-74, pp. 102-117) that can be harmful to the 
+hearer’s need for harmony (e.g. Rees-Miller, 2000, p. 1089). Based on this traditional assumption, the speaker is 
+encouraged to mitigate his/her disagreement particularly when the solidarity is a chief goal to be maintained in 
+their social interaction. In the identical context, however, people with different cultural backgrounds may be 
+expected to express this positive-face threatening act in various ways. Following Gudykunst (2001), Westerners’ 
+performances of disagreement are more likely to be unmitigated; while non-Westemers’ disagreement should be 
+seen mitigated. Kieu (2006), albeit over-generalized, confirmed that Westerners normally performed their 
+disagreements explicitly and frankly, but non-Westerners usually expressed their disagreements implicitly and 
+tacitly, that is, their disagreements required indirect delivery with softening modifications in order to increase 
+in-group solidarity or minimize the imposition. If Kieu’s (2006) conclusion is legitimate, the next question is 
+whether a particular group of research participants adequately represent all Westerners and all non-Westerners. 
+
+2.2 Americans as Research Participants 
+
+In many studies on disagreements (e.g., Beebe & Takahashi, 1989; Takahashi & Beebe, 1993; Dogacay-Aktuna 
+& Kamisli 1996; Rees-Miller, 2000; Guodong & Jing, 2005; Chen, 2006), Americans were frequently used as 
+research participants to epitomize native English speakers. Most of the studies agreed that Americans usually 
+commenced their disagreements with a positive comment, especially when disagreeing with a more powerful 
+interlocutor. Beebe and Takahashi (1989) and Takahashi and Beebe (1993), for example, compared native 
+speakers of Japanese and American speakers of English when they expressed disagreements in 
+lower-to-higher-status situations. They similarly reported that Americans commonly began their performance of 
+disagreement with a pleasant comment to satisfy the lecturer’s needs for commonality before they disagreed. 
+Takahashi and Beebe (1993) further corroborated that their American participants often used more polite 
+strategies than their Japanese participants when disagreeing with a more powerful interlocutor. Dogacay-Aktuna 
+and Kamisli (1996) studied how native speakers of Turkish and American speakers of English expressed their 
+disagreement in workplace. They discovered that Americans were sensitive to the interlocutor’s status and 
+
+
+215 
+
+
+
+
+www.ccsenet.org/elt 
+
+
+English Language Teaching 
+
+
+Vol. 9, No. 4; 2016 
+
+
+usually initiated their disagreements with a positive statement. In a similar vein, Rees-Miller (2000, p. 1097) 
+examined Americans when disagreeing with their professors in an academic setting and noticed that her 
+participants frequently encoded a partial agreement to initiate their expressions of disagreement. By doing this, 
+the participants were able to counteract the threat that was harmful to the lecturer’s positive face. 
+
+The researchers of most studies above simply generalized the results based on their American participants to all 
+native English speakers (e.g., Beebe & Takahashi, 1989; Takahashi & Beebe, 1993; Dogacay-Aktuna & Kamisli 
+1996). They took it for granted that their American participants’ norm comported with all native English 
+speakers’ norms. This evasiveness would certainly have some potential to mislead the ESL/EFL learners to 
+construe that there is no difference (at all) across all populations of native English speakers, especially when they 
+deal with student-lecturer disagreements. 
+
+2.3 Disagreement Strategies 
+
+Disagreement is an expression of an opinion that is incompatible with the preceding opinion expressed by the 
+hearer (in a dyadic talk). Disagreement is often perceived as an inherently face-threatening act that easily 
+jeopardizes the hearer’s face (cf. Brown & Levinson, 1987, p. 66). Therefore, disagreements in many 
+institutional contexts are encouraged to be mitigated. As a result, the mitigated disagreements will not be 
+threatening to the hearer’s face. The view above was used as a point of departure to distinguish two sets of 
+disagreement strategies. They are (i) strong disagreements, i.e. disagreements that are not mitigated and (ii) weak 
+disagreements, i.e. disagreements that are mitigated. All strategies are shown in Table 1. 
+
+
+Table 1. Disagreement strategies 
+
+
+Sets of strategies 
+
+Disagreement 
+
+strategies 
+
+Realizations 
+
+Strong 
+
+disagreements 
+
+Explicit 
+
+disagreements 
+
+‘no’(Locher, 2004, pp. 143-145) 
+
+‘I disagree.’ (Emmerson, 2004, p. 64) 
+
+‘I don’t agree.’ (Brieger & Sweeney, 2000, p. 188) 
+
+
+Unmitigated 
+
+disagreement 
+
+‘We can’t do that.’ (Emmerson, 2004, p. 64) 
+
+‘That’s not practical.’ (Walkinshaw, 2007, p. 280). 
+
+Weak 
+
+disagreements 
+
+Delayed 
+
+disagreements 
+
+‘Well, but it is not.’ (Locher, 2004, p. 118) 
+
+‘Oh! it doesn’t look red to me.’ (Charoenroop, 2014, p. 149) 
+
+‘To be honest,... ’ (Emmerson, 2004, p. 65) 
+
+‘I think it’s wrong,...’ (Locher, 2004, p. 164) 
+
+‘I’m afraid,...’ (Sweeney, 2003, p. 151) 
+
+‘You could be right, but...’ (Brieger & Sweeney, 2000. p. 178), 
+
+
+Internally 
+
+Mitigated 
+
+Disagreements 
+
+‘I know what you mean, but...’ (Emmerson, 2004, p. 65). 
+
+‘I don’t quite agree’ (Jones & Alexander, 2003, p. 113) 
+
+‘It might mean something’ (Locher, 2004, p. 129) 
+
+‘I’m not sure we can do that.’ (Emmerson, 2004, p. 64).’ 
+
+‘Won’t some people find that a little early.’ (Emmerson, 2004, p. 65)’ 
+
+
+Disagreements 
+with Justification 
+
+‘I don’t agree with that point because...’ (Jones & Alexander, 2003, p. 
+113) 
+
+
+
+‘That’s going to happen anyway because...’ (Locher, 2004, p. 251) 
+
+
+Disagreements that are not mitigated are categorized as ‘strong disagreements.’ There are two sub-strategies 
+under the strong disagreements: (i) explicit disagreements, and (ii) unmitigated disagreements. The former 
+encompasses disagreements that are explicitly performed, that is, the act of saying per se explicitly 
+communicates the illocutionary act of disagreement. In other words, interpreting the explicit disagreements is 
+likely to be context-independent. The latter refers to disagreements that are expressed without any softening 
+
+
+216 
+
+
+
+
+www.ccsenet.org/elt 
+
+
+English Language Teaching 
+
+
+Vol. 9, No. 4; 2016 
+
+
+devices. The interpretation of unmitigated disagreements is context-dependent, that is, a preceding utterance 
+must be taken into account in order to conclude that a responsive utterance is illocutionarily disagreement. On 
+the other hand, disagreements that are mitigated are labeled as ‘weak disagreements.’ There are three 
+sub-strategies under the weak disagreements: (i) delayed disagreements, (ii) internally mitigated disagreements, 
+and (iii) disagreements with justification. Firstly, disagreements that are not spontaneously produced but 
+prefaced with a token of agreement, a positive comment, or even a hesitation marker are subsumed as ‘delayed 
+disagreements.’ Secondly, disagreements that are mitigated through some internal modifications such as the use 
+of hedges, questions or indirectness are categorized as internally mitigated disagreements. Thirdly, some 
+disagreements can be mitigated by an ensuing justification or clarification. The presence of justification or 
+clarification ratifies the foregoing disagreements. 
+
+The taxonomy in Table 1 exemplifies how disagreement strategies are realized without any combination of other 
+strategies. In fact, the combination of two or three disagreement strategies in spontaneous talks is permissible. 
+Table 2 instantiates 6 possible realizations that display two- or three-strategies combinations. 
+
+
+Table 2. Combined disagreement strategies 
+
+
+Sets of strategies 
+
+Disagreement strategies 
+
+Realizations 
+
+Strong + 
+
+Explicit + Justification 
+
+‘no, because...’ 
+
+Weak disagreements 
+
+Unmitigated + Justification 
+
+‘The idea is not practical because... ’ 
+
+Weak + 
+
+Delayed + Internally Mitigated 
+
+‘I think it might be wrong.’ 
+
+Weak 
+
+Delayed + Justification 
+
+‘I think it’s wrong because...’ 
+
+Disagreements 
+
+Internally Mitigated + Justification 
+
+Delayed + Internally Mitigated + Justification 
+
+‘I don’t quite agree because... ’ 
+
+‘I think it might be wrong because... ’ 
+
+
+3. Methodology 
+
+3.1 Populations and Samples 
+
+The research participants were 13 Canadian speakers of English. There were 5 males (Noah, Felix, Matthew, 
+Antoine and Ryan), and 8 females (Emma, Victoria, Olivia, Clara, Grace, Ava, Sophie and Alice)-these names 
+were pseudonyms. Their age range was between 19-27 years old. All of them were university students from 
+Canada majoring in Tourism and Management and participated in this sudy while temporarily staying in 
+Thailand for 4 months. Felix, Victoria and Clara had been in Thailand on travelling purposes twice but only for a 
+few weeks. The participants’ self-report revealed that none of them had previously learned to speak Thai. They 
+were monolingual who used English as their first language, except Noah, Olivia, Clara and Ava who were 
+bilingual speaking Canadian-French and English. 
+
+Phil was the professor who taught the class throughout the semester. Elis name was also pseudonym. Fie was a 
+45-year-old, American-Thai lecturer who was bilingual. Phil had strong background in teaching at the tertiary 
+level in Thailand. Fie always encouraged his students to participate in class discussions and provided an equal 
+opportunity for everyone to speak. Phil addressed his students by their first names. Based on my observation, he 
+was friendly; as a consequence, the participants felt comfortable talking to him. Detailed information about the 
+class and the lecturer is re-presented in Table 3. 
+
+
+217 
+
+
+
+
+www.ccsenet.org/elt English Language Teaching Vol. 9, No. 4; 2016 
+
+
+Table 3. Samples’ information and their classroom context 
+
+Canadian Speakers of English 
+
+Samples 
+
+Male: Female 
+
+Nationality: Native Language 
+
+Age Range 
+
+Level of Education 
+
+5:8 
+
+Canadian: English 
+
+19-27 (mean 21.92) 
+
+Second- and Third-year undergraduate 
+
+Classroom Context 
+
+Subject 
+
+Class Period 
+
+Duration of Classroom Videotaping 
+
+Instructor (Gender, Age, Nationality) 
+
+Medium of Instruction 
+
+Cross-cultural communication 
+
+3 hours per week (9-12) 
+
+Jan 2013-Mar 2013 
+
+Male, 45, American 
+
+English 
+
+
+3.2 Research Instrument 
+
+The data was collected by means of classroom videotaping. Following Bardovi-Harlig (2013, p. 73), the 
+participants’ pragmatic knowledge should by no means be elicited explicitly when pragmatic knowledge is not 
+explicitly taught to the participants. In other words, the participants were not explicitly taught how to disagree 
+with the lecturer in English; therefore, their performance of disagreement should not be deliberately elicited. 
+Collecting naturally-occurring data in a natural setting, where the students and the lecturer were unaware that 
+their expressions of disagreement were captured for analysis, can be implicit. In addition, data obtained 
+implicitly from classroom videotaping can be claimed to be spontaneous, reflecting what the speakers actually 
+say rather than what they are planning to say. This type of data can be a source of rich pragmatic structures (e.g., 
+Kasper & Dahl, 1991; Cohen, 1996; Yuan, 2001). 
+
+3.3 Data Collection 
+
+Prior to the procedure of videotaping, an information sheet and a consent form were given to all participants, 
+providing instructions of the research project. The participants reserved the right to accept or refuse the invitation 
+to be involved in the project at any time. If this appears to be the case, his or her expression of disagreement will 
+be abandoned (fortunately, none of them refused the invitation). There was no specification of any kind to notify 
+the participants that their performance of disagreement was observed. All participants, however, were aware that 
+their general classroom conduct was being captured. The videotape recorder was set up in front of the class 15 
+minutes prior to the beginning of each class. It mainly recorded the students’ interactions with the lecturer. 
+
+The classroom was videotaped for 3 hours every week for 5 consecutive weeks. The researcher videotaped the 
+participants since the first week after they had arrived in Thailand. This is to ensure that their pragmatic 
+knowledge was not, or at least minimally, interfered with by the Thai pragmatic knowledge after they had 
+immersed themselves in Thai culture. 
+
+3.4 Data Analysis 
+
+The data appearing on the first week of videotaping was removed from the analysis in order to increase the data 
+reliability because the participants were allowed to be familiar with the data collection method at least for three 
+hours. The naturally-occurring data after the first week was transcribed in a form of talk exchanges between a 
+student and the lecturer. In each transcription, there was at least one student-lecturer disagreement embedded. 
+The transcription conventions can be seen in Appendix A. All disagreements were counted to find out how many 
+times the students disagreed with the lecturer in 4 weeks or 12 hours. The student-lecturer disagreements were 
+carefully analyzed in terms of disagreement strategies based on the taxonomy in Tables 1 and 2. The highest 
+frequency or the norm of disagreement strategies used by the participants was underscored. The frequency was 
+converted to percentage. In these stages, a rater who had a research background in discourse analysis provided 
+assistance in scrutinizing the accuracy of the transcripts as well as the analysis. 
+
+
+218 
+
+
+
+
+www.ccsenet.org/elt 
+
+
+English Language Teaching 
+
+
+Vol. 9, No. 4; 2016 
+
+
+4. Results 
+
+In 4 weeks or 12 hours, the participants produced 108 disagreements, which were extracted from 94 talk 
+exchanges. The participants never used ‘strong disagreements’ as described in Table 1. They always mitigated 
+their disagreements with either a positive comment or some justification. In other words, the participants used 
+combined strategies whenever they disagreed with their lecturer explicitly. The use of the combined strategies 
+suggested that the participants also wanted to decrease the threat of their explicit disagreements. In 108 tokens, 
+the participants most often initiated their expressions of disagreement explicitly with a negative marker, which is 
+typically ‘no.’ In the same turn, the participants continued to buttress their explicit disagreements with some 
+justification or clarification (cf. strong + justification strategies in Table 2). This combined strategy was found to 
+be their norm because it was used in 67 tokens or 62.03 percent. The use of other disagreement strategies is 
+presented in Appendix B. In the following section, three extracts are purposefully selected to delineate how the 
+norm was realized. 
+
+Extract 1 demonstrates how Ryan expressed his disagreement explicitly. In this extract, Ryan performed his 
+disagreement one time in turn 3 but continued to give some justification to support his argument in turns 5 and 6. 
+
+Extract 1 
+
+1) Prof. Phil: You will never call anyone as IT 
+
+2) Prof. Phil: (short pause) It’s not polite 
+
+3) Ryan: (a student raises his index finger) No (short pause) unless we like them 
+
+4) Prof. Phil: Really(/) 
+
+5) Ryan: And some people call their child (short pause) IT= 
+
+6) Ryan: =BUT it doesn’t have any mood in it 
+
+In this extract. Prof. Phil contended that his students did not address anyone by the third-person singular 
+pronoun-‘it.’ He argued that the use of this pronoun as an address term implies impoliteness. In turn 3, Ryan 
+raised his index finger asking for permission to get the floor and began to express his contrary opinion. His 
+explicit disagreement was initiated by a negative marker ‘no’ disputing that the third-person singular pronoun 
+could be used to address someone. Ryan further reasoned his argument that this address term could be used for 
+someone we disliked. The use of the first-person plural pronoun in Ryan’s explanation implies that his argument 
+is also true for the professor. In the next turn, Prof. Phil uttered ‘really’ in a rising tone aiming to ask for a 
+clarification. The professor expected Ryan to buttress his argument in more detail. However, Ryan did not further 
+justify his argument but supported his explicit disagreement with another situation where the use of this pronoun 
+was permissible and was not perceived impolite. Ryan corroborated that ‘it’ could sometimes be used to address 
+a child and clarified that its utility in this particular context did not connote any negative consequences. In sum, 
+this extract showed how an explicit disagreement was softened by two pieces of justification that followed. 
+
+Extract 2 illustrates how Emma disagreed with the lecturer. In this talk exchange, Emma expressed her 
+disagreement twice in turn 4 and again between turns 6 and 8. 
+
+Extract 2 
+
+1) Prof. Phil: Give me another word that ends with -ness 
+
+2) Alice: Sorrowfulness 
+
+3) Prof. Phil: Yeah yeah sorrowfulness 
+
+4) Emma: (the student shakes her head) No not a word 
+
+5) Prof. Phil: IT I:::S (short pause) sorrowfulness is an English word 
+
+6) Emma: (P) sorrowfulness)/) (P) (the student shakes her head) NO::: 
+
+7) Emma: (short pause) Not in English 
+
+8) Emma: (short pause) Never heard of it 
+
+9) Prof. Phil: Really)/) 
+
+10) Emma: (short pause) I’ve heard only sorrow 
+
+11) Emma: It sounds really weird (P) sorrowfulness (P) 
+
+Prof. Phil asked the students to give him another English noun that ends with “-ness” as its suffix. Alice coined 
+
+
+219 
+
+
+
+
+www.ccsenet.org/elt 
+
+
+English Language Teaching 
+
+
+Vol. 9, No. 4; 2016 
+
+
+‘sorrowfulness’ to the class discussion. In turn 3, Prof. Phil agreed with Alice and confirmed that the lexical 
+derivation conformed to the English morphological rule under discussion. In turn 4, Emma stepped in and 
+disagreed with the lecturer. She began her expression of disagreement explicitly with a negative marker ‘no.’ 
+Emma’s linguistic realization was supported by headshaking to display disagreement non-verbally. Obviously, 
+Emma’s disagreement was not prefaced by any positive statements. By contrast, she explicitly contended that 
+‘sorrowfulness’ was a non-word. In turn 5, Prof. Phil ratified the existence of ‘sorrowfulness’ in the English 
+glossary. Emma’s second disagreement was expressed explicitly in the next turn. She reiterated the word softly 
+in a rising tone to question the lecturer about his certainty. Then, she disputed that ‘sorrowfulness’ was not an 
+English word. Emma accompanied her linguistic realization with another headshaking gesture. In turns 7 and 8, 
+Emma exhibited that ‘sorrowfulness’ was not an English word due to the fact that she had never heard it before. 
+Prof. Phil did not explain the derivation of the word but urged Emma to think about it again. In turns 10 and 11, 
+Emma insisted that she had heard ‘sorrow’ but had never heard ‘sorrowfulness.’ Based on her background 
+knowledge, she clarified that ‘sorrowfulness’ sounded weird to her. In sum, this extract gives evidence that 
+Emma did not preface her expression of disagreement with a positive statement. Her explicit expressions of 
+disagreement, however, were modified by some justification. 
+
+Extract 3 shows how Clara expressed her explicit disagreement. In this extract, Clara performed her 
+disagreement three times in turns 5, 7 and 9. 
+
+Extract 3: 
+
+1) Clara: How do I say (short pause) I don’t want my food TOO spicy 
+
+2) Clara: (short pause) I want OK spicy 
+
+3) Clara: (long pause) That that’s what I want to say 
+
+4) Prof. Phil: /mat p h 3d ma:k/= 
+
+5) Clara: =NO I WANT spicy= 
+
+6) Prof. Phil: =Yea::h BUT you want NOT TOO spicy 
+
+7) Clara: NO::: I want how they make it FOR (short pause) [YOU(\) 
+
+8) 8. Prof. Phil: /mat p h 3d ma:k/] 
+
+9) Clara: (short pause) NO no no BECAUSE I am /fmvui (Note 2)/ 
+
+In this extract, Clara initially asked Prof. Phil how to express her desire to order food that was not too spicy in 
+Thai. Prof. Phil was the only person in the classroom who could answer the question since he spoke Thai. Clara 
+had been in Thailand twice. She complained that her ordered food was often bland because many people 
+over-generalized that she was sensitive to spicy food. They usually made food for her accordingly. In fact, 
+medium spicy food was perfectly fine for her. Clara explained her situation in the first 3 lines. Prof. Phil 
+proposed an adjectival phrase /mai p h 3d ma:k/ (‘not too spicy’ in English) to her. In turn 5, Clara immediately 
+expressed her disagreement without any softening devices. She insisted that she would want something spicy. 
+Based on my observation, her disagreement was engendered by her limited knowledge of Thai. She probably did 
+not understand the whole phrase unequivocally. However, her explicit disagreement was mitigated by an 
+explanation. In turn 6, Prof. Phil described what she wanted and reiterated it to her. Clara explicitly disagreed 
+with him again. She further explained that she would want spicy food that was similarly made for the professor. 
+There was an overlap where the professor tried to repeat the same phrase to her. In turn 9, Clara expressed her 
+third disagreement explicitly by reiterating the negative marker ‘no’ three times. Her explicit disagreement was 
+softened by an explanation introduced by a discourse connective ‘because’ to explicate that she was a non-Thai 
+person. Although the conversation went on, these turns are adequate to show how explicit disagreements were 
+supported by the subsequent justification. 
+
+5. Discussion and Conclusions 
+
+American and Canadain cultures are often assumed to be comparable because they are similarly individualistic, 
+independent and low-context (e.g., Hall, 1976; Hofstede, 1980; Markus & Kitayama, 1991; Oyserman et al., 
+2002; Morling & Lamoreaux, 2008). Moreover, their geographical habitations and religious traditions are 
+compatible. Simply said, Americans and Canadians are native English speakers who have domiciles in North 
+America. The religious tradition-Thanksgiving-is not celebrated in other English speaking countries, except in 
+America and Canada. In these regards, Americans are obviously very similar to Canadians. However, these close 
+similarities have been proved to be insufficient to govern their people’s linguistic behaviors. In the same given 
+context, the participants’ expressions of disagreement did not necessarily conform to what has been widely tested 
+
+
+220 
+
+
+
+
+www.ccsenet.org/elt 
+
+
+English Language Teaching 
+
+
+Vol. 9, No. 4; 2016 
+
+
+to be the norm for Americans. Obviously, they normally used different disagreement strategies. Future 
+researchers should thus be more careful when using a particular group of native English speakers. The 
+preliminary results have proved that the two groups of native English speakers-Americans and Canadians-are 
+different in terms of politeness strategies they used to disagree with the lecturer in the classroom context. 
+
+Last but not least, the excessive use of Americans as research participants is not literally weird as ones might 
+literally interpret the WEIRD acronym according to Henrich et al. (2010). This current study by no means 
+predisposes future researchers to eliminate American participants from their studies. However, they should be 
+aware that disproportionate findings based on the narrowly defined samples could distort the ESL/EFL learners’ 
+perceptions of, or attitudes toward, all native English speakers. The learners might perhaps over-generalize from 
+Americans’ norm for student-lecturer disagreements to other native English speakers’ norms. The availability of 
+results based on other groups of native English speakers can inhibit these learners’ over-generalizations. 
+Provided an increasing number of studies with different groups of native English speakers as research 
+participants, the learners will ponder about the variations across all native English speakers. The diversity of 
+native English speakers used as research participants would definitely benefit the ESL/EFL learners. 
+
+References 
+
+Bardovi-Harlig, K. (2013). Developing L2 pragmatics. Language Learning, 63, Suppl.X, 68-86. 
+http://dx.doi.Org/10.llll/j.1467-9922.2012.00738.x 
+
+Beebe, L. M., & Takahashi, T. (1989a). Do you have a bag? Social status and patterned variation in second 
+language acquisition. In S. M. Gass, C. Madden, D. Preston, & L. Selinker (Eds.), Variation in second 
+language acquisition: Discourse and pragmatics (pp. 103-128). Clevedon: Multilingual Matters. 
+
+Beebe, L. M., & Takahashi, T. (1989b). Sociolinguistic variation in face-threatening speech acts: Chastisement 
+and disagreement. In M. Eisenstein (Ed.), The dynamic interlanguage (pp. 199-218). New York: Plenum. 
+http://dx.doi.org/10.1007/978-l-4899-0900-8_13 
+
+Bjorge, A. K. (2012). Expressing disagreement in ELF business negotiations: theory and practice. Applied 
+Linguistics, 33(4), 406-427. http://dx.doi.org/10.1093/applin/ams015 
+
+Brieger, N., & Sweeney, S. (2000). The language of business English: grammar and functions. Essex: Pearson 
+Education. 
+
+Brown, P., & Stephen, L. (1987). Politeness: some universal in language usage. Cambridge: Cambridge 
+University Press. 
+
+Charoenroop, P. (2014). A cross-cultural pragmatic study: politeness strategies and realizations of the strategies 
+used to perform student-lecturer multiple disagreements by natives peakers of Thai and English. Journal of 
+Educational and Social Research, 4(1), 146-157. 
+
+Chen, M. (2006). An Interlanguage study of the speech act of disagreement made by Chinese EEL speakers in 
+Taiwan. Unpublished Doctoral Dissertation. National Sun Yat-Sen University. 
+
+Cohen, A. D. (1996). Developing the ability to perform speech acts. Studies in Second Language Acquisition, 18 
+(2), 253-267. http://dx.doi.org/10.1017/S027226310001490X 
+
+Dogancay-Aktuna, S., & Kamisli, S. (1996). Linguistics of power and politeness in Turkish: revelations from 
+speech acts. Paper presented at the Annual International Linguistics Conference (pp. 1-36). Turkey. 
+
+Emmerson, P. (2004). Email English. Oxford: Macmillan Publishers. 
+
+Gudykunst, W. B. (2001). Asian American ethnicity and communication. Thousand Oaks, California: Sage. 
+
+Gudykunst, W. B. (2003). Intercultural communication theories. In W. B. Gudykunst (Ed.), Cross-cultural and 
+intercultural communication (pp. 167-189). Thousand Oaks: Sage. 
+
+Guodong, L., & Jing, H. (2005). A contrastive study on disagreement strategies for politeness between American 
+English and Mandarin Chinese. ASLAN EEL Journal, 7(1), 1-12. 
+
+Hall, E. T. (1976). Beyond Culture. New York: Anchor Press. 
+
+Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? Behavioral and Brain 
+Sciences, 33, 61-135. http://dx.doi.org/10.1017/S0140525X0999152X 
+
+Hofstede, G. (1980). Culture’s consequences: International differences in work related values. Newbury Park, 
+California: Sage. 
+
+Hofstede, G. (2001). Cultures and organizations: Software of the mind. London: McGraw-Hill. 
+
+
+221 
+
+
+
+
+www.ccsenet.org/elt 
+
+
+English Language Teaching 
+
+
+Vol. 9, No. 4; 2016 
+
+
+Jenkins, J. (2003). World Englishes: A resource book for students. London, Routledge. 
+
+Jone, L., & Alexander, R. (2003). New International Business English Workbook. Cambridge: Cambridge 
+University Press. http://dx.doi.org/10.1056/NEJMoa020286 
+
+Kachru, Y. (1992). Culture, style, and discourse: Expanding noetics of English. In B. Kachru (Ed.). 
+
+Kasper, G., & Dahl, M. (1991). Research methods in interlanguage pragmatics. Studies in Second Language 
+Acquisition, 13, 215-247. http://dx.doi.org/10.1017/S0272263100009955 
+
+Kieu, T. T. H. (2006). Disagreeing in English and Vietnamese: A pragmatic and conversational analysis 
+perspective. Unpublished Doctoral Dissertation. Vietnam National University. 
+
+Locher, M. A. (2004). Power and politeness in action: Disagreements in oral communication. Berlin: Mouton de 
+Gruyter. http://dx.doi.org/10.1515/9783110926552 
+
+Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion and motivation. 
+Psychological Review, 98, 224-253. http://dx.doi.Org/10.1037/0033-295X.98.2.224 
+
+Molding, B., & Lamoreaux, M. (2008). Measuring culture outside the head: A metaanalysis of 
+individualism-collectivism in cultural products. Personality and Social Psychology’ Review, 12, 199-221. 
+http://dx.doi.org/10.1177/1088868308318260 
+
+Oyserman, D., et al. (2002). Rethinking individualism and collectivism: Evaluation of theoretical assumptions 
+and meta-analyses. Psychological Bulletin, 128, 1173-1175. http://dx.doi.org/10.1037/0033-2909.128.L3 
+
+Rees-Miller, J. (2000). Power, severity and context in disagreement. Journal of Pragmatics, 32, 1087-1111. 
+http://dx.doi.org/10.1016/S0378-2166(99)00088-0 
+
+Scollon, R., & Scollon, S. (1995). Intercultural Communication. Oxford: Blackwell. 
+
+Sweeney, S. (2003). English for business communication. Cambridge: Cambridge University Press. 
+
+Takahashi, T., & Beebe, L. M. (1993). Cross-linguistic influence in the speech act of correction. In G Kasper, & 
+S. Blum-Kulka (Eds.), Interlanguage Pragmatics (pp. 138-157). New York: Oxford University Press. 
+
+Varner, I., & Beamer, L. (2005). Intercultural communication in the global workplace. McGraw-Hill: New York. 
+
+Walkinshaw, I. (2007). Power and disagreement: Insights into Japanese learners of English. RELC Journal, 38, 
+278-300. http://dx.doi.org/10.1177/0033688207085848 
+
+Yuan, Y. (2001). An inquiry into empirical pragmatics data-gathering methods: written DCTs, oral DCTs, field 
+notes, and natural conversations. Journal of Pragmatics, 33, 271-292. 
+
+http://dx.doi.org/10.1016/S03 78-2166(00)00031-X 
+
+
+Notes 
+
+Note 1. British English, Canadians, Australians, New Zealanders and South-Africans are officially native 
+speakers of English (cf. Kachru, 1992, p. 356 and Jenkins, 2003, p. 14). 
+
+Note 2. A generic Thai word used to address white Westerners regardless of their nationality and race. 
+
+Appendix A 
+
+The conventions of paralinguistic features used in the study, adapted from Locher (2004) 
+
+\ : A backslash is used to indicate a falling intonation. 
+
+/ : A slash is used to indicate a rising intonation. 
+
+CAPS : Capital letters carry the primary stress in a monosyllable word. 
+
+= : In order to show an immediate connection between two turns uttered by the lecturer and the student. 
+
+::: : Colons are used to indicate lengthened vowels 
+
+[...] : Square brackets indicate speech overlap uttered by lecturer and student or vice versa. 
+
+@ : This symbol is used to represent laughter in syllable. 
+
+X : The letter X indicates an unclear or unintelligible syllable or word. 
+
+A.. .A : Utterances marked by this are rapid speech. 
+
+
+222 
+
+
+
+
+www.ccsenet.org/elt 
+
+
+English Language Teaching 
+
+
+Vol. 9, No. 4; 2016 
+
+
+S.. .S : Utterances marked by this are slow speech. 
+
+P.. .P : Utterances marked by this are soft. 
+
+@...@ : Utterances marked by this are produced with laughs. 
+
+
+Appendix B 
+
+Disagreement Strategies Used by the Participants 
+
+
+Disagreement Strategies (cf. Table 2) 
+
+Frequency 
+
+Percentage 
+
+Explicit + Justification 
+
+67 
+
+62.03 
+
+Unmitigated + Justification 
+
+21 
+
+19.45 
+
+Delayed + Internally Mitigated 
+
+2 
+
+1.85 
+
+Delayed + Justification 
+
+3 
+
+2.78 
+
+Internally Mitigated + Justification 
+
+11 
+
+10.18 
+
+Delayed + Internally Mitigated + Justification 
+
+4 
+
+3.71 
+
+Total 
+
+108 
+
+100 
+
+
+Examples of Disagreement Strategies 
+
+Explicit + Justification 
+S L: No, this isn’t acceptable! 
+
+Unmitigated + Justification 
+
+S -> L: This is not practical (short pause) nobody uses it! 
+
+Delayed + Internally Mitigated 
+
+S -> L: Well! it might not be too expensive. 
+
+Delayed + Justification 
+
+S L: I think it’s weird because I’ve not seen it before! 
+
+Internally Mitigated + Justification 
+
+S -> L: They shouldn’t register for the course because it’s too expensive for them! 
+
+Delayed + Internally Mitigated + Justification 
+
+S -> L: Oh, it couldn’t be too complicated because we’ve learned it before. 
+
+Copyrights 
+
+Copyright for this article is retained by the author(s), with first publication rights granted to the journal. 
+
+This is an open-access article distributed under the terms and conditions of the Creative Commons Attribution 
+license (http://creativecommons.Org/licenses/by/3.0/). 
+
+
+223 
+
+
+
+
+
+
+
+
+
+
+
+

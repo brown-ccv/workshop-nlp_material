@@ -1,0 +1,5416 @@
+DOCUMENT RESUME 
+
+
+
+ED 450 099 
+
+
+
+SP 039 773 
+
+
+
+AUTHOR 
+
+TITLE 
+
+INSTITUTION 
+
+SPONS AGENCY 
+
+REPORT NO 
+PUB DATE 
+NOTE 
+
+CONTRACT 
+AVAILABLE FROM 
+
+
+
+PUB TYPE 
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+Lauer, Patricia A. 
+
+Instructional Practices and Implementation Issues in 
+Multiage Classrooms. 
+
+Mid-Continent Research for Education and Learning, Aurora, 
+CO. 
+
+Office of Educational Research and Improvement (ED) , 
+Washington, DC. 
+
+2000-08 
+2000 - 12-00 
+6 5p . 
+
+RJ96006101 
+
+Mid-Continent Research for Education and Learning, 2550 
+South Parker Road, Suite 500, Aurora, CO 80015; Tel: 
+303-337-0990; Fax: 303-337-3005; E-mail: info@mcrel.org; Web 
+site: http://www.mcrel.org. 
+
+Reports - Research (143) 
+
+MF01/PC03 Plus Postage. 
+
+Administrator Attitudes; Age Differences; Cross Age 
+Teaching; ^Educational Change; Educational Research; 
+Elementary Secondary Education; Heterogeneous Grouping; 
+*Mixed Age Grouping; Multigraded Classes; *Nongraded 
+Instructional Grouping; Planning; Teacher Attitudes; 
+
+*Teacher Collaboration 
+Looping (Teachers) 
+
+
+
+ABSTRACT 
+
+
+
+This report summarizes research literature on multiage 
+classrooms, explaining how they operate, and describes a study of a 
+low-performing, predominantly Native American school district which adopted 
+multiage classrooms as its primary reform strategy. District teachers 
+completed surveys about: planning; collaboration; student groupings and 
+interactions; assessment; planning resources; preparedness; faculty 
+development; perceptions about the effects of multiage classrooms and looping 
+on student learning; opinions on advantages and disadvantages of multiage 
+classrooms and looping; and suggestions for improving instruction and 
+learning. Researchers observed 37 classrooms and interviewed principals and 
+district administrators. They also collected data from a comparison school in 
+a neighboring district that had successful multiage grouping. Teachers were 
+dissatisfied with how multiaige classrooms were mandated by district 
+administrators. The mandate created camps of teachers divided over the issue. 
+Teachers tended to feel incompetent, requesting more training and 
+development. Teachers mentioned needing more materials and resources for 
+these classrooms. They did not feel prepared to teach multiage classes. 
+
+Little time was devoted to teacher collaboration, though it was considered 
+important. Strong support from principals was important. Administrators 
+believed the multiage approach had potential for reform of instruction. Three 
+appendixes present study letters, forms, and surveys. (Contains 32 
+references.) (SM) 
+
+
+
+Reproductions supplied by EDRS are the best that can be made 
+from the original document. 
+
+
+
+ED 450 099 
+
+
+
+-5P 
+
+
+
+Instructional Practices 
+and Implementation Issues 
+in Multiage Classrooms 
+
+
+
+r i 
+
+
+
+I 
+
+
+
+(VO 
+
+1* 
+
+r*- 
+
+<5- 
+
+xO 
+
+ERIC 
+
+
+
+
+NTREL 
+
+
+
+HI 
+
+
+
+
+U S DEPARTMENT OF EDUCATION 
+Office of Educational Research and Improvement 
+
+EDUCATIONAL RESOURCES INFORMATION 
+CENTER (ERIC) 
+
+□ This document has been reproduced as 
+received from the person or organization 
+originating it. 
+
+□ Minor changes have been made to 
+improve reproduction quality. 
+
+
+
+• Points of view or opinions stated in this 
+document do not necessarily represent 
+official OERI position or policy. 
+
+
+
+Instructional Practices 
+and Implementation Issues 
+in Multiage Classrooms 
+
+
+
+REL Contract #96006101 
+Deliverable 2000-08 
+
+
+
+Submitted to 
+
+Office of Educational Research and Improvement 
+
+
+
+Prepared by 
+Patricia A. Lauer, Ph.D. 
+
+
+
+
+Mid-continent Research for Education and learning 
+2550 S. Parker Road, Suite 500 
+Aurora, CO 80014 
+
+(303) 337-0990 - (303) 337-3005 fax 
+December 2000 
+
+
+
+
+3 
+
+
+
+mtEL 
+
+Copyright © 2000 McREL 
+
+
+
+To order a copy of Instructional Practices and Implementation Issues in Multiage Classrooms, 
+contact McREL: 
+
+Mid-continent Research for Education and Learning 
+
+2550 S. Parker Road, Suite 500 
+
+Aurora, CO 80015 
+
+Phone: (303) 337-0990 
+
+Fax: (303) 337-3005 
+
+e-mail: info@mcrel.org 
+
+Web site: http://www.mcrel.org 
+
+
+
+This publication is based on work sponsored, wholly or in part, by the Office of Educational Research and Improvement 
+(OERI), Department of Education, under Contract Number #RJ96006101. The content of this publication does not 
+necessarily reflect the views of OERI, the Department, or any other agency of the U.S. Government. 
+
+ERIC 
+
+
+
+4 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+ACKNOWLEDGMENTS v 
+
+PREFACE vi 
+
+PRIOR RESEARCH AND PERSPECTIVES 1 
+
+Features of Multiage Classrooms 1 
+
+Research on the Effectiveness and Benefits of Multiage Classrooms 2 
+
+Research on Multiage Implementation Issues 4 
+
+Summary of Prior Research 5 
+
+METHOD 6 
+
+Design and Instruments 6 
+
+Procedures and Participants 7 
+
+RESULTS 9 
+
+Classroom and Teacher Characteristics 9 
+
+Classroom Practices 11 
+
+Classroom Observation Results 15 
+
+Implementation Issues 19 
+
+Comparison School Results 21 
+
+Summary of Results 22 
+
+DISCUSSION 25 
+
+Generalizability of Results 25 
+
+Implications for Implementing Multiage Programs 25 
+
+Nongradedness as a Reform Strategy 28 
+
+Conclusions 30 
+
+
+
+REFERENCES 
+
+
+
+31 
+
+
+
+ACKNOWLEDGMENTS 
+
+
+
+The author would like to thank several individuals who helped with the development and 
+preparation of Instructional Practices and Implementation Issues in Multiage Classrooms. Especially 
+deserving of thanks are Janet Claymore-Ross and the other members of the research design team who 
+facilitated the study and Dorothy Aguilera who conducted the classroom observations and 
+administrator interviews. Thanks are extended to the following persons at McREL who reviewed the 
+document and provided informative suggestions and comments: Ravay Snow-Renner, Nancy 
+Sanders, and Lou Cicchinelli. In addition, the author acknowledges the help provided by Mya Martin 
+at McREL for document preparation and David Zimmerman for data analysis. Finally, the author 
+expresses her sincere appreciation to all the teachers, administrators, and staff whose participation 
+and assistance made the study possible. 
+
+
+
+PREFACE 
+
+
+
+In the current educational context of standards-based reform and high-stakes accountability, 
+district leaders are eager to identify strategies that can increase student learning, particularly in those 
+districts where the majority of students are low-performing on achievement tests. In such districts, 
+there are many needs in both instruction and curriculum, and leaders often have difficulty deciding 
+where to start. One reform in instruction that has received varying amounts of attention during the 
+last 30 years is the nongraded school or multiage approach. The purposes of this report are (1) to 
+summarize the research literature on multiage classrooms; (2) to describe a study of a 
+low-performing school district which adopted multiage classrooms as its primary reform strategy; 
+(3) to discuss the implications of the findings for implementing multiage programs, and (4) to inform 
+educators and researchers about nongradedness as a reform strategy. The intended audience for this 
+report is educational researchers, and school and district administrators who are interested in 
+nongraded approaches to K-8 classroom instruction. 
+
+The first section of the report provides an explanation of how multiage classrooms operate 
+and describes research on the effects of using such an approach. The second section describes the 
+method used for McREL’s study of multiage classrooms in one district in the Central Region; and 
+the third section details the results that were obtained. In the fourth section, a discussion of the 
+results and their implications is provided. 
+
+
+
+O 
+
+ERIC 
+
+
+
+V 
+
+
+
+7 
+
+
+
+PRIOR RESEARCH AND PERSPECTIVES 
+
+
+
+The multiage classroom is not a new concept in American education. Early schools usually 
+consisted of one room where students' developmental stages ranged from early childhood through 
+adolescence. In some rural parts of the United States, such schools are still in operation. What is new 
+is the deliberate mixing of students of different ages in a classroom to obtain educational benefits 
+which are not available in the single grade classrooms that currently predominate in American 
+schools. An understanding of these benefits first requires an understanding of the approach. 
+
+Features of Multiage Classrooms 
+
+In a multiage classroom, children of different ages form one class which spans a minimum 
+of two grade levels. The critical features are that instruction and curriculum are integrated, and 
+cross-grade teaching is the norm (Lloyd, 1999). This contrasts with the multigrade or combination 
+class in which students from two or more grades are each taught a separate grade-specific 
+curriculum. “Nongraded” is the adjective given to multiage classrooms and to programs that do not 
+recognize grade separation or organize educational activities by grades. For example, a nongraded 
+primary program might have multiage classrooms that span grades one through three. A well known 
+resource on this approach is Goodlad and Anderson's The Nongraded Elementary School ( 1987). The 
+authors support multiage, nongraded schools as a way to reorganize instruction using vertical 
+progression. This means that students move in a continuous upward progression without breaks for 
+failure and class repetition. 
+
+When describing multiage classrooms, some educators include other features in addition to 
+the mixed age format. Pavan (1992) indicated that multiage classrooms generally involve a team of 
+teachers who work with a team of students who are grouped in various ways depending on the task 
+and on students’ interests and needs. Many multiage classrooms also participate in “looping a 
+practice in which students stay together with the same teacher(s) for the length of the grades that the 
+class spans (Kasten & Lolli, 1998). For example, in a looped multiage classroom covering grades 
+three through five, students would stay with the same teacher(s) for three years. 
+
+Kasten and Lolli (1998) commented that a classroom is multiage when it is a “single learning 
+community that meets the academic, social, emotional, physical, and aesthetic needs of its members 
+(p. 3). Thus, unlike combination or multigrade classes which usually are formed for administrative 
+reasons such as overcrowding or low enrollments (Lodish, 1992), multiage classrooms are based on 
+a particular philosophy about pedagogy. According to Anderson and Pavan (1993), who are 
+champions of the approach, nongradedness includes the following aspects: 
+
+• variability in instruction in response to students’ individual differences; 
+
+• student learning that is designed to be both challenging and pleasurable; 
+
+• nurturing of all spheres of a child’s development— cognitive, physical, aesthetic, 
+social, emotional; 
+
+• flexible and heterogenous student groupings; 
+
+• student progression that is flexible and individually paced; 
+
+both separate and integrated areas of curriculum with an emphasis on 
+outcomes rather than content coverage; 
+
+
+
+ERIC 
+
+
+
+i 
+
+
+
+• clearly defined outcomes but with varying times and paths used by students to 
+reach the outcomes; 
+
+• subordination of specific content learning to the understanding of major concepts 
+and the development of learning skills; 
+
+• holistic student assessment; 
+
+• continuous diagnostic assessment primarily in relation to the student’s history 
+and potential (rather than grade); and, 
+
+• learning opportunities and instructional strategies that are teacher (rather than 
+system) managed, (see pages 62-63) 
+
+Thus, true multiage classrooms have many more features than just groups of students who 
+are of different ages and from different grades. There are also implied beliefs by educators about 
+student learning and effective pedagogical practices. As Goodlad and Anderson (1987) commented, 
+“the nongraded school is the school we could have if insights from research on learning and human 
+development were applied” (p. 225). 
+
+Research on the Effectiveness and Benefits of Multiage Classrooms 
+
+A review of research on multiage classrooms is complicated by the different ways that 
+“multiage” has been operationalized and by the use of varying measurements. Nonetheless, there 
+have been many studies which have compared the effectiveness of multiage classrooms with that of 
+single grade classrooms as well as several reviews of these studies. Pavan (1992) reviewed 64 
+research studies published between 1968 and 1990 that examined various nongraded programs. The 
+author summarized the findings as follows: 
+
+1 . Research studies comparing nongraded and graded schools provide a consistent 
+pattern favoring nongradedness. 
+
+2. The nongraded groups performed better (58% [of the studies]) or as well as 
+(33%) the graded. 
+
+3. On mental health and school attitudes, 52% of the studies indicated nongraded 
+schools as better for students, 43% similar. Only 5% showed nongraded as worse 
+than graded schools. 
+
+4. The benefits to students of nongradedness increase as students have longer 
+nongraded experiences. 
+
+5. Blacks, boys, low socioeconomic level students, and underachievers benefit from 
+a nongraded program, (p. 23) 
+
+Other reviewers have supported the general conclusion that compared to students in single 
+grade classrooms, students in multiage classrooms perform the same or better in academic areas, and 
+also Pavan’s finding that they are consistently better in affective areas such as self-esteem (Miller, 
+1989; Veenman, 1995). 
+
+The benefits of multiage classrooms are related primarily to the way that instruction is 
+organized. According to Stone (1998), vertical cross-grade student groupings in multiage classrooms 
+provide both cognitive and emotional benefits. The author noted that compared to single grade 
+classrooms, children in multiage classrooms are more likely to experience Piagetian (1976) cognitive 
+
+
+
+
+2 9 
+
+
+
+conflicts and Vygotsky’s (1978) zone of proximal development, both of which benefit learning. 
+Stone also stated that socially, children have more opportunities for leadership, and the cooperative 
+environment of a multiage classroom promotes emotional stability. 
+
+Kasten and Lolli (1998) emphasized the following benefits from develop men tally appropriate 
+practices in multiage classrooms, as demonstrated by research. Older, more advanced children reap 
+cognitive benefits from cross-age tutoring. Younger children feel emotionally comfortable in 
+multiage classrooms because the setting resembles a natural family structure where there is a mix 
+of ages and opportunities for learning from modeling. Students can experience continuous progress 
+without unnatural breaks for grade promotion or retention. In Kasten and Lolli ’s view, graded 
+classrooms are the result of industrial thinking with its emphasis on uniformity rather than on what 
+is developmentally appropriate. The authors contend that the use of grade levels in schools is 
+perpetuated by publishers of grade-level materials which schools adopt as the curriculum rather than 
+as tools for a curriculum (p. 7). 
+
+Theilheimer (1993) stressed that children’s uneven cognitive and social development make 
+the different levels in a multiage classroom adaptive. The author agreed with Stone (1998) that 
+cognitive conflicts occur during problem solving when children of different ages interact, and these 
+conflicts stimulate cognitive growth. Kommer (1999) also used a developmental perspective in 
+arguing for multiage teams for the middle grades. Kommer cited evidence that older students enjoy 
+developing leadership in such a setting. In addition, because mixed-age teams of students and their 
+teachers stay together for the three-year span of middle school, there is a consistency which promotes 
+positive student attitudes. This consistency is also a benefit of looping which many multiage 
+classrooms practice. Looping is considered a developmentally appropriate practice which increases 
+students’ confidence and improves parent-teacher relationships (Little & Dacus, 1999). 
+
+Guiterrez and Slavin (1992) reviewed research on student achievement in nongraded 
+elementary schools, but they suggested that the effects depended on the type of program. They found 
+that the most positive effects occurred for simpler forms of nongrading such as cross-grade 
+groupings for reading. Programs that were multiage and emphasized completely individualized 
+instruction were not more beneficial than graded programs. In response to Pavan’s (1992) review, 
+Slavin (1992) concluded that “nongraded organization can contribute to instructional effectiveness, 
+but the curriculum and instructional methods used within a nongraded framework are as important 
+as the school organization plan in determining the ultimate effects” (p. 24). 
+
+In commenting on multiage research, McLauglin, Irvin, and Doda (1 999) pointed out that the 
+subject areas of reading and language seem to benefit the most from nongradedness. Kasten and Lolli 
+(1998) reported on research that included some qualitative measures of reading and writing (Kasten 
+& Clarke, 1993). Compared to students in single grade classrooms, children in multiage classrooms 
+had more positive attitudes toward recreational reading, were more articulate about books, and 
+produced more complex writing samples. 
+
+Other researchers of nongraded approaches have cautioned readers on the interpretation of 
+findings. Lloyd (1999) suggested that multiage classrooms are favorable for gifted children because 
+teachers are more likely to recognize diversity and provide developmentally appropriate learning 
+opportunities. However, Lloyd acknowledged that it is not the grouping per se that is beneficial, but 
+
+
+
+
+10 
+
+
+
+rather that “teachers who are committed to such an organization are likely to change their way of 
+teaching” (p. 197). Similarly, Osin and Lesgold (1996) indicated that it is difficult to separate 
+multiage effects from the global changes in experiences that occur when a school adopts 
+nongradedness in both philosophy and practice. 
+
+Research on Multiage Implementation Issues 
+
+In another discussion of mixed-age grouping, Lodish (1992) agreed that there are many 
+benefits for students, but also cited the following disadvantages: 
+
+• Teachers may have the tendency to provide fewer challenges for older 
+compared to younger children. 
+
+• Younger children may be frustrated by the gap between their work and that 
+of older students. 
+
+• Scheduling for students to work with individual teachers can be difficult. 
+
+• Teachers need more time for instructional planning due to the wide range of 
+students, (see p. 22) 
+
+Thus, while there seem to be many benefits of nongraded schools and multiage classrooms, 
+there also are challenges to implementing the approach as Lodish’s (1992) descriptions of 
+disadvantages suggest. Miller (1 996) commented that implementing a multiage program is a journey 
+in which participants must address teacher readiness, promote staff ownership, involve parents, and 
+plan collaboratively. Miller stressed that teachers need both emotional and cognitive support for the 
+changes in their instruction that mixed-age grouping will require. For Miller, the school principal 
+is key in providing this support for teachers. By having his or her own strong vision about children’s 
+learning, the principal can help create a positive school climate for changing to a multiage approach. 
+The principal also must lead efforts to gamer parental and community support for the change. 
+
+There are many practical issues to consider when implementing multiage classrooms. As 
+Gaustad ( 1 995) described, teachers need a wider range of instructional strategies compared to what 
+they need for single grade classrooms. They must be able to facilitate positive group interactions, to 
+design different kinds of student learning groups, to work together with other teachers on a team, and 
+to know many developmentally appropriate practices such as cooperative learning and thematic 
+teaching. Gaustad also emphasized the role of the school principal who must support and empower 
+teachers as they develop multiage practices. To do this effectively, the principal needs “sophisticated 
+leadership and interpersonal skills” (p. 2). The principal especially must strive to maintain a sense 
+of community within the school to avoid a division of teachers into camps of those for and against 
+multiage practices. 
+
+ERS Spectrum (1995) conducted teacher interviews to provide the perspectives of teachers 
+who had implemented one multiage program. The teachers’ comments were summarized as follows: 
+
+• Teachers need to prepare for the change, but it should be eased into without 
+changing everything at once. 
+
+• Multiage grouping is not an end in itself but rather a total instructional 
+approach with the goal of meeting students’ individual learning needs. 
+
+
+
+• Multiage grouping requires much teacher time and effort accompanied by 
+administrative support. 
+
+• Team teaching is essential, and it requires much work and time to be 
+effective. 
+
+• Not everything is new; many previously mastered instructional strategies are 
+effective in multiage classrooms, (see p. 1 1) 
+
+The teachers in this study also noted that they had planned for one year before switching to 
+a multiage program, although others have suggested that at least two years should be devoted to 
+planning (e.g., Surbeck, 1992). 
+
+Summary of Prior Research 
+
+As Anderson and Pavan (1993) indicated, there is much more to nongradedness than a 
+reorganization of students and classrooms. Compared to single grade classrooms, the multiage 
+approach is based on fundamentally different ways of viewing development and learning. For 
+nongraded classrooms to be advantageous to students, teaching and administrative staff as well as 
+parents must support this view. On the basis of research and writings on the benefits of 
+nongradedness, school districts are turning to multiage approaches. But, as Gaustad (1994) 
+emphasized, it is the instructional quality in multiage classrooms that is the key to success. 
+
+
+
+METHOD 
+
+
+
+This study evolved from a research partnership between Mid-continent Research for 
+Education and Learning (McREL) and the Monroe School District (MSD). MSD (pseudonym) is 
+located on an American Indian reservation in the Midwest. Almost all MSD students are Native 
+American (99%) and of low socioeconomic status, with 75% eligible for federal ffee/reduced lunch 
+benefits. The district serves approximately 1,100 students in four K— 8 schools with 96 teachers 
+(including special education). 
+
+At the time of the study, MSD was in its third year of implementation of multiage reform. 
+Due to low student achievement (among the 10 lowest districts in the state), the district 
+superintendent had mandated the change to multiage classrooms as a way to drastically reorganize 
+instruction. Along with this change, teachers were asked to discontinue using student textbooks in 
+their instruction due to the graded nature of these materials. At the end of the second year of 
+implementation, district officials had questions about whether to continue multiage classrooms in 
+the future. The principal and teachers at one of the four schools had been reluctant to change to 
+multiage classrooms, and at the time of this study had already reverted to single grade classrooms. 
+Although the study described in this report is primarily descriptive, the situation allowed a 
+comparison of the two classroom approaches. However, any comparison is tempered by the fact that 
+teachers were not randomly assigned to the type of classroom. 
+
+Design and Instruments 
+
+A district/McREL design team that was formed for the research partnership jointly planned 
+the study. MSD members of the design team included four teachers, two principals, and the director 
+of special education. The purposes of the design team study were to identify classroom practices that 
+were occurring in the district and to obtain information on issues related to implementation of 
+multiage classrooms. The study used three sources of data: a survey of teachers’ instructional 
+practices, which was the primary data source; classroom observations; and, administrator interviews. 
+
+The design team developed a teacher survey to measure how multiage practices were being 
+implemented and to obtain teachers' perceptions of their classroom practices and multiage 
+classrooms. Design team members first discussed the different components of instruction that should 
+occur if the multiage approach is being fully implemented. To guide their discussion, the design team 
+used Innovation Configuration Mapping (Hall & Hoard, 1987), an activity which facilitates the 
+identification of essential components of an innovation and the variations in implementation that are 
+possible for each component. Design team members then wrote survey questions that asked teachers 
+about the presence of these components in their instruction. 
+
+The resulting Instructional Practices Survey had 3 1 multi-part questions which asked teachers 
+about time devoted to planning, degree of collaboration with other teachers, types of student 
+groupings for instruction, types of student interactions, use of assessment techniques, resources used 
+for planning instruction, perceptions of preparedness, staff development experiences, and perceptions 
+about the effects of multiage classrooms and looping on student learning. There was also a question 
+about the degree of multiage characteristics in the teacher’s classroom practices. This question was 
+based on principles of nongradedness identified by Anderson and Pavan (1993). The instructional 
+
+
+
+0 
+
+ERIC 
+
+
+
+6 
+
+
+
+13 
+
+
+
+Practices Survey concluded with open-ended questions which asked for teachers opinions about the 
+advantages and disadvantages of multiage classrooms and looping and for suggestions for improving 
+instruction and student learning in the district. (See Appendix A for the Instructional Practices 
+Survey and the teacher consent form.) 
+
+McREL staff wrote the protocols for the classroom observations and the administrator 
+interviews. Both were designed to enhance the information collected from the Instructional Practices 
+Survey. The classroom observation protocols addressed general features of the classroom, 
+opportunities for student learning, curriculum and instruction, student interaction, and student 
+assessment. The interview protocols asked administrators about classroom organization, professional 
+development, improving teaching and learning, curriculum, instruction, standards, family and 
+community, and tribal culture. (See Appendix B for the classroom observation protocol and 
+Appendix C for the administrator interview protocols.) 
+
+Procedures and Participants 
+
+The sample of survey respondents was comprised of 76 MSD teachers. The sample included 
+most of the classroom teachers in the district, and there was representation from each of the four 
+schools. The author administered the Instructional Practices Survey to teachers at a group staff , 
+meeting at each school. The four staff meetings were held over a three-day span in December, 1999. 
+Each teacher completed an informed consent form which explained the purpose of the study and that 
+individual results would be kept confidential. 
+
+Multiage classrooms covered three-year grade spans: K— 2, 3—5, and 6—8. All the teachers in 
+single grade classrooms were at a school in which the principal had decided to discontinue multiage 
+classrooms. For statistical comparisons, teachers of single grade classrooms were grouped in the 
+same grade spans as teachers of multiage classrooms. For example, single grade teachers for grades 
+three, four, or five were grouped together because they were teaching similar ages of students as the 
+teachers of multiage classrooms for grades 3-5. Special education teachers (12) and other certified 
+staff such as counselors (15) also completed the survey but because many questions were 
+inapplicable to these participants, their responses were included only for the analyses regarding staff 
+development and for the open-ended questions. 
+
+McREL staff conducted classroom observations in 37 classrooms, including in each grade 
+level at each school. Teachers gave their consent to be observed after being informed about the 
+purpose of the study and the observations and that individual data would be kept confidential. All 
+the classroom observations were conducted over a five-day span in January, 2000. 
+
+Six MSD principals and three district administrators, including the superintendent, were 
+interviewed over a two-dayperiod in December, 1999. Interviewees gave their consent to participate 
+after being informed about the purposes of the study and the interviews and that the interviews would 
+be tape recorded. They also were informed that results would not attribute comments to specific 
+individuals. 
+
+For the final part of the study, data were collected from a comparison school in a neighboring 
+school district. The MSD superintendent had visited this school and was impressed with how the 
+
+er|c 7 14 
+
+
+
+multiage approach was being implemented. The principal of the school was interviewed, and seven 
+teachers of multiage classrooms at the school completed the Instructional Practices Survey. The 
+purpose for including this school in the study was to provide additional information on 
+implementation issues related to the multiage approach. Students in the comparison school are 85% 
+white, 9% Native American, and 22% of the students are eligible for federal free/reduced lunch 
+benefits. The school has a total of 26 teachers. 
+
+
+
+
+8 15 
+
+
+
+RESULTS 
+
+
+
+The results are organized into four categories: classroom and teacher characteristics, 
+classroom practices, implementation issues, and comparison school results. The primary source of 
+data is the teacher Instructional Practices Survey. Most of the statistics reported are descriptive in 
+nature. However, to determine the statistical significance of differences among teachers’ responses 
+to the Instructional Practices Survey, Multivariate Analyses of Variance (MANOVA) were 
+performed for categories of related questions on the survey. For all MANOVAs, the between- 
+subjects variable was the teacher’s type of classroom (multiage or single grade) 1 . To simplify 
+reporting of these results, only the probability levels are indicated for differences that are statistically 
+significant. 
+
+Classroom and Teacher Characteristics 
+
+The information reported in this section is based on teachers’ responses to the Instructional 
+Practices Survey. 
+
+Classroom structure. Table 1 indicates the grade level and the classroom type for the sample 
+of 76 MSD teachers who responded to the Instructional Practices Survey. (All the single-grade 
+teachers were at one of the four schools in the district.) 
+
+Table 1 
+
+MSD Teacher Respondents to Instructional Practices Survey 
+
+
+
+Classroom Type 
+
+
+Grade Level 
+
+
+Total 
+
+
+
+
+K-2 
+
+
+3-5 
+
+
+6-8 
+
+
+
+
+Single Grade 
+
+
+5 
+
+
+6 
+
+
+6 
+
+
+17 
+
+
+Multiage 
+
+
+26 
+
+
+19 
+
+
+14 
+
+
+59 
+
+
+Total 
+
+
+31 
+
+
+25 
+
+
+20 
+
+
+76 
+
+
+
+In the sample of 76 regular teachers, 59 teachers reported being in a multiage teaching 
+arrangement and 17 teachers reported teaching single grade classrooms. Approximately 67% of the 
+respondents said they are looping with their students for either two or three years. With regard to 
+participation in team teaching, teachers described their classrooms as single grade teaming ( n = 6), 
+single grade not teaming (n = 1 1), multiage teaming ( n = 28), or multiage not teaming ( n = 31). 
+
+Teacher characteristics. Respondents’ median number of years teaching experience was 
+9.5 and the median number of years teaching in MSD was 3 years. Teachers in single grade 
+
+
+
+'To determine whether effects of classroom type were related to student grade level, MANOVAs also 
+included grade level as a between-subjects variable. However, there were no statistically significant interactions 
+between classroom type and grade level obtained for any of the measures reported. Significant main effects of grade 
+levels are indicated in the text. 
+
+O 
+
+ERIC 
+
+
+
+
+classrooms had more years of teaching experience and had taught longer in the district (Ms = 17.73 
+and 1 1.27) than teachers in multiage classrooms (Ms = 10.07 and 5.33), and the differences were 
+statistically significant (both p < .03). 
+
+Approximately 52% of the teachers reported having two hours or less for instructional 
+planning per week during regular school hours, and 25% said they have 2-4 hours. Two-thirds have 
+an hour or less for collaboration with other teachers during regular school hours. Outside of school, 
+55% use five or more hours for instructional planning, and most (59%) reported no collaboration 
+with teachers outside of regular school hours. Single grade teachers reported having more planning 
+time during school (M= 4.26 hr, SD = 2.70) and using less planning time outside of school (M = 
+5.15 hr, SD = 2.92) compared to multiage teachers (M = 2.47 hr, SD = 1.78 & M= 7.12 hr, SD = 
+3.35, respectively). Despite the high amount of variability, these differences between single grade 
+and multiage classrooms were statistically significant {p < .05). 
+
+
+
+Teacher Preparedness 
+
+
+
+w 
+
+w 
+
+a) 
+
+c 
+
+XD 
+
+<D 
+
+L. 
+
+CD 
+
+Q. 
+
+a) 
+
+
+
+o 
+
+a) 
+
+a) 
+
+L. 
+
+CD 
+
+a) 
+
+O 
+
+
+
+
+Classroom Type 
+
+(j^lsingle Grade 
+Multiage 
+
+
+
+Teaching Area 
+
+Response Scale: 1=No Preparedness, 2=Some Preparedness 
+3=Much Preparedness, 4=Great Deal of Preparedness 
+
+Figure 1. Teacher perceptions of preparedness in content areas. 
+
+
+
+When asked about feelings of preparedness concerning their knowledge and skills to teach 
+in various areas (Figure 1), the majority of teachers indicated (on a 1-4 scale) only “some 
+preparedness” to teach health (2.04), science (2.22), multiage classrooms (2.20), social studies 
+(2.30), state math standards (2.45), state language arts standards (2.49), Native American students 
+(2.50), and high poverty students (2.59). Single grade teachers reported a slightly higher mean 
+perceived preparedness (2.50) than multiage teachers (2.24), but the difference was not statistically 
+significant. 
+
+
+
+O 
+
+ERIC 
+
+
+
+10 
+
+
+
+17 
+
+
+
+
+Classroom Practices 
+
+
+
+Most of the results that relate to classroom practices are based on teachers’ responses to the 
+Instructional Practices Survey. However, the last part of this section describes results from the 
+classroom observations. 
+
+
+
+Daily Instructional Activities 
+
+
+
+
+Instructional Activity 
+
+Figure 2. Teacher reports of percent of day in various instructional activities. 
+
+Instructional activities. The mean percent of the day spent on various instructional activities 
+(Figure 2) was reported by teachers as follows: one-on-one instruction, 1 6%; small groups organized 
+by grade level 1 6%; small groups organized by skills level, 22%; independent work, 22%; and, large 
+group mixed instruction, 29%. It should be noted that there was a large amount of variability among 
+the answers reported by teachers to this question (mean SD = 1 5 .97). Compared to multiage teachers, 
+single grade teachers reported more use of small groups organized by grade level and large mixed 
+groups and less use of small groups organized by skills level. However, only the difference in using 
+small groups by grade level was statistically significant (p < .04 ). In the grade level analysis, 
+reported daily percentage of large group mixed instruction was twice as large for grades 6-8 as for 
+grades K-2 and grades 3-5. This difference was statistically significant (p < .004). 
+
+
+
+
+BEST COPY AVAILABLE 
+
+u 18 
+
+
+
+Interactive Student Learning Activities 
+
+
+
+
+Response Scale: 1=AImost Never 2=Seldom 
+3=Occasiona!ly 4=Frequently 5=AI most Always 
+
+
+
+Figure 3. Distribution of interactive student learning activities. 
+
+
+
+Student interaction. Figure 3 shows that the reported frequency of type of student 
+interaction was highest for small group learning or partners, classroom projects, and cooperative 
+learning, with average frequency ratings (on a 1-5 scale) of 3.84, 3.62, and 3.57 respectively. Single 
+grade teachers reported more use of peer coaches or tutors and less use of learning centers than did 
+multiage teachers, although the differences were not statistically significant. With regard to grade 
+levels, teachers in lower grades reported significantly more use of learning centers than did teachers 
+in higher grades (p < .02) 
+
+
+
+19 
+
+O 
+
+ERLC 
+
+
+
+12 
+
+
+
+Teacher Use of Assessments 
+
+
+
+
+Assessment Method 
+Response Scale: 1=Almost Never, 2=Seldom, 
+
+3=Occasionally, 4=Frequently, 5=Almost Always 
+
+Figure 4. Teacher use of various assessment methods. 
+
+Student assessment. The student assessment method shown in Figure 4 with the lowest 
+mean reported frequency of use by all teacher respondents (on a 1—5 scale) was student self- 
+assessment (M= 2.64). Portfolios had the highest reported use (M= 3.81). Single grade teachers 
+reported more frequent use of tests and worksheets compared to multiage teachers, and both 
+differences were statistically significant ( p < .04). In the grade level analysis, teachers in grades 6-8 
+reported significantly more frequent use of worksheets and rubrics (both p < .01) than did teachers 
+in the lower grades. 
+
+
+
+Multiage Classroom Practices 
+
+
+
+4.5 
+
+
+
+
+Classroom Practices 
+
+Response Scale: 1=Almost Never, 2=Seldom, 
+
+3=Occasionally, 4=Frequently, 5=Almost Always 
+
+Figure 5. Distribution of classroom practices. 
+
+Multiage classroom practices. Figure 5 shows the frequency of selected classroom 
+practices. Means for five of the nine items which asked about the frequency (on a 1-5 scale) of 
+classroom practices associated with multiage classrooms ranged from 3 .6 to 4.0, “frequently.” These 
+practices included individual learning sequences, multiple learning opportunities, variety of 
+groupings, students assessed on an individual basis, and flexible grouping. Parent involvement, 
+student-formulated goals, student choice, and flexible student advancement were answered as 
+“occasionally” (2.61-3.28). Compared to multiage teachers, single grade teachers reported higher 
+frequencies of flexible advancement and parent involvement, differences which were statistically 
+significant (p < .001). Overall, single grade teachers reported higher frequencies of multiage 
+practices (M= 3.61) than did multiage teachers (M= 3.36), but the difference was not statistically 
+significant. 
+
+
+
+21 
+
+O 
+
+ERIC 
+
+
+
+14 
+
+
+
+■ ■ 
+
+
+
+f r\ 
+
+
+
+4.5 
+
+4.0 
+
+
+
+>> 
+
+o 
+
+c 
+
+<D 
+
+cr 
+
+<D 
+
+
+
+3.5 ■ 
+3.0 - 
+
+2.5 c 
+
+
+
+ro 2.0 « 
+
+0 ) 
+
+^ 1.5 1 
+
+
+
+. 
+
+
+
+ni«. 
+
+
+
+i i r>r*4 , »*i * ^^jon 
+
+
+
+om Type 
+
+gle Grade 
+Itiage 
+
+
+
+
+
+
+\\ 
+
+% 
+
+
+
+% 
+
+
+
+% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\ 
+
+
+
+Resource 
+
+Response Scale: 1=Almost Never, 2=Seldom, 
+3=Occasionally, 4=Frequently, 5=Almost Always 
+
+Figure 6. Teacher use of planning resources. 
+
+
+
+Instructional resources. Figure 6 shows the frequency with which various resources are 
+used to plan instruction. The resources with the highest reported frequency of use (on a 1-5 scale) 
+were standards/benchmarks and content area resources (3.6 and 3.7, both between “occasionally” 
+to “frequently”). Audiovisuals, staff development materials, and computer software were rated 
+lowest in frequency of use (2.71-2.83). The largest differences between the classroom types were 
+the higher reported use of teacher manuals and textbooks by single grade teachers compared to 
+multiage teachers. Both differences were statistically significant (p < .001). 
+
+
+
+Classroom Observation Results 
+
+
+
+Due to the small sample size of single grade classrooms within grade levels (see Table 2) and 
+because all the single grade classrooms were located at one school, observations are described in 
+detail for the different grade levels, but only general descriptions are given for observations related 
+to the type of classroom. There were 37 classrooms observed. Tables 3 through 7 indicate the 
+percentages of the observations that were recorded in each category for each grade level. 
+
+
+
+
+
+Table 2 
+
+Classrooms Observed 
+
+
+
+
+
+Grade Level 
+
+
+
+
+Classroom Type 
+
+
+K-2 
+
+
+3-5 
+
+
+6-8 
+
+
+Total 
+
+
+Single Grade 
+
+
+3 
+
+
+5 
+
+
+10 
+
+
+18 
+
+
+Multiage 
+
+
+5 
+
+
+8 
+
+
+6 
+
+
+19 
+
+
+Total 
+
+
+8 
+
+
+13 
+
+
+16 
+
+
+37 
+
+
+
+Analysis of the observation data on teachers’ instruction provided in Table 3 showed that the 
+most frequently observed instructional practice in the district was worksheets. There were more 
+observations of worksheets in single grade classrooms than in multiage classrooms. 
+
+Table 3 
+
+Percent of Observations of Instructional Practices by Grade Level 
+
+
+
+Instructional Practice 
+
+
+Grade Level 
+
+
+K-2 
+
+
+3-5 
+
+
+6-8 
+
+
+Guided Reading 
+
+
+22% 
+
+
+
+
+
+
+Discussion 
+
+
+9% 
+
+
+4% 
+
+
+15% 
+
+
+Hands-On 
+
+
+13% 
+
+
+15% 
+
+
+13% 
+
+
+Worksheet 
+
+
+13% 
+
+
+33% 
+
+
+30% 
+
+
+Oral Review 
+
+
+16% 
+
+
+15% 
+
+
+5% 
+
+
+Computer 
+
+
+13% 
+
+
+15% 
+
+
+8% 
+
+
+Miscellaneous 3 
+
+
+13% 
+
+
+15% 
+
+
+23% 
+
+
+Lecture 
+
+
+3% 
+
+
+4% 
+
+
+8% 
+
+
+Total 
+
+
+100% 
+
+
+100% 
+
+
+100% 
+
+
+
+a Instructional practices observed fewer than four times were listed as miscellaneous, e.g., journaling, story boards, 
+singing, artwork, learning centers. 
+
+
+
+With regard to student groupings, findings from the observation data shown in Table 4 
+revealed fewer small groups were being used in single grade classrooms compared to multiage 
+classrooms. While there were clusters of desks in some single grade classrooms which suggested 
+small group work, students at these desks were working independently. 
+
+
+
+
+23 
+
+.16 
+
+
+
+Table 4 
+
+Percent of Observations of Student Groupings by Grade Level 
+
+
+
+Type of Student 
+Group 
+
+
+Grade Level 
+
+
+K-2 
+
+
+3-5 
+
+
+6-8 
+
+
+Large 
+
+
+25% 
+
+
+22% 
+
+
+35% 
+
+
+Small 
+
+
+50% 
+
+
+22% 
+
+
+35% 
+
+
+Independent Work 
+
+
+25% 
+
+
+19% 
+
+
+30% 
+
+
+Total 
+
+
+100% 
+
+
+100% 
+
+
+100% 
+
+
+
+As shown in Table 5, teacher facilitation was the most frequently observed interaction 
+between teachers and students in grades K-2. When facilitating, teachers actively directed 
+assignments and encouraged student-generated questions. When monitoring, teachers were checking 
+student behaviors and student work. Teacher monitoring of students was the most frequently 
+observed interaction between teachers and students in grades 6-8. Discipline-based interactions 
+between teachers and students occurred more with monitoring interactions as well as the use of 
+worksheets. 
+
+Table 5 
+
+Percent of Observations of Teacher-Student Interactions by Grade Level 
+
+
+
+Teacher-Student 
+
+Interaction 
+
+
+Grade Level 
+
+
+K-2 
+
+
+3-5 
+
+
+6-8 
+
+
+Facilitation 
+
+
+56% 
+
+
+25% 
+
+
+16% 
+
+
+One-on-one 
+
+
+25% 
+
+
+26% 
+
+
+18% 
+
+
+Monitoring 
+
+
+16% 
+
+
+26% 
+
+
+33% 
+
+
+Total 
+
+
+100% 
+
+
+100% 
+
+
+100% 
+
+
+
+Table 6 indicates the amount of student interaction in observed classes. The levels of 
+academic interaction were defined by the number of students interacting. Overall, there were low 
+amounts of academic student interactions, particularly in grades K-2. More variability existed among 
+classrooms in social interactions compared to academic interactions. Students in the higher grades 
+socialized much more than did students in lower grades. Students in grades 3-5 interacted more in 
+terms of academic work than did students in grades 6-8. 
+
+
+
+Table 6 
+
+Percent of Observations of Student Interactions 
+
+
+
+Student Interactions 
+
+
+Grade Level 
+
+
+K-2 
+
+
+3-5 
+
+
+6-8 
+
+
+Academic- low 3 
+
+
+
+
+44% 
+
+
+28% 
+
+
+Academic- medium 
+
+
+9% 
+
+
+
+
+
+
+Academic- high 
+
+
+22% 
+
+
+
+
+13% 
+
+
+Non-Academic Social 
+
+
+
+
+7% 
+
+
+30% 
+
+
+None 
+
+
+69% 
+
+
+48% 
+
+
+30% 
+
+
+Total 
+
+
+100% 
+
+
+100% 
+
+
+100% 
+
+
+
+a Out of the total number of students in an observed class and depending on class size, 2-3 students interacting was 
+categorized as low; 4-7 students interacting as medium; and 10 or more students interacting as high. 
+
+
+
+Observed student participation in academic work is described as actively engaged, working, 
+or passive (Table 7). Actively engaged students exhibited interest and fun when completing 
+academic assignments. Working students were trying to complete assignments quickly so they could 
+play at a nonacademic task. Passive students were idle. More students were observed working (60%) 
+than were actively engaged (25%) in academic assignments, tasks, or activities. Nearly one-fourth 
+of students in grades 6-8 were passive. 
+
+
+
+Table 7 
+
+Observations of Student Participation in Academic Work 
+
+
+
+Student Participation 
+
+
+Grade Level 
+
+
+K-2 
+
+
+3-5 
+
+
+6-8 
+
+
+Actively Engaged 
+
+
+25% 
+
+
+33% 
+
+
+26% 
+
+
+Working 
+
+
+75% 
+
+
+59% 
+
+
+50% 
+
+
+Passive 
+
+
+
+
+7% 
+
+
+23% 
+
+
+Total 
+
+
+100% 
+
+
+100% 
+
+
+100% 
+
+
+
+Overall, observations indicated that multiage classrooms teachers facilitated more than 
+teachers in single grade classrooms. There were more academic-based peer interactions when paired 
+with instructional practices that included learning centers and hands-on learning activities. In 
+general, there appeared to be higher levels of active engagement by students in academic learning 
+when teachers were facilitating rather than monitoring instruction. 
+
+
+
+3 
+
+ERIC 
+
+
+
+18 
+
+
+
+25 
+
+
+
+Implementation Issues 
+
+
+
+The information presented in this section relates to teachers’ and administrators’ perceptions 
+of the results of implementing multiage classrooms in MSD, the challenges that they encountered, 
+and the staff development needs that exist. The data are based on teachers responses to the 
+Instructional Practices Survey and on interviews with MSD administrators. 
+
+Student improvement. The Instructional Practices Survey asked teachers who had one or 
+more years experience in multiage classrooms to rate six items that were based on previously 
+established desirable MSD Student Outcomes on a five-point scale from “no improvement” to “great 
+improvement” since teaching multiage classrooms. There were 42 teachers who answered this 
+question. Their mean rating was 2.65, between “very limited” to “some improvement.” Teachers who 
+had practiced looping at MSD (n = 62) rated the same student outcomes with regard to teaching 
+looped classes. The mean rating was 3.06, “some improvement.” 
+
+Advantages and disadvantages of instructional practices. The most frequently 
+mentioned advantages of multiage classrooms and the percentage of the responses to this question 
+(total responses = 51) were students helping each other (71%), continuity of structure (16%), and 
+student social comfort (14%). The most frequently mentioned disadvantages of multiage classrooms 
+(total responses = 62) were too many differences across grade levels (34%), high preparation time 
+(19%), lack of materials (13%), and not enough classroom staff (11%). The most frequently 
+mentioned advantages of looping (total responses = 33) were knowing students’ strengths and 
+weaknesses (64%) and the better quality of teacher-student relationships (36%). The most frequently 
+mentioned disadvantages of looping (total responses = 30) were personality conflicts between 
+teacher and student (43%), students’ lack of exposure to other teaching styles (30%), and the need 
+to plan materials for more than one grade level (17%). 
+
+Staff development. Of the 21 staff development topics listed on the survey, the mean 
+number of topics that teachers reported attending was 11, and the mean reported value of the 
+activities was 2.5 (between “some” and “much” value.) There were no differences between single 
+grade and multiage teachers. The strongest need for additional professional development (based on 
+45% or more of teachers indicating “definitely needed”) were in the areas of teaching multiage 
+classrooms (62%), adapting curriculum in multiage classrooms (58%), writing instruction (52%), 
+student motivation techniques (55%), computer skills training (54%), technology in the classroom 
+(51%), reading instruction (49%), and Native American language/culture (49%). 
+
+Improvement of teaching and learning. There were 98 total responses to suggestions for 
+improving instruction and student learning in MSD. The most frequently mentioned suggestions and 
+the percentages of total responses were as follows: more staff training and development for multiage 
+and looping (28%); more materials including the use of textbooks (19%); restructuring the multiage 
+approach so that kindergarten is a single grade and there are two (and not three) grades in multiage 
+classrooms (15%); more preparation and planning time (12%); more attention to special 
+education/pullout staffing (9%); and, teacher choice about multiage and/or looping (8%). 
+
+
+
+
+19 26 
+
+
+
+Administrator perspectives. Six principals and three district administrators were 
+interviewed. To protect anonymity, all respondents are referred to as “administrators.” 
+
+Administrators reported that the division among multiage and single grade teachers runs deep 
+in the district. For the past three years, administrators have experienced pressure from veteran 
+teachers (those who have taught longer in MSD) to support single grade classrooms and to 
+discontinue the multiage approach. Teachers in one school convinced the administration to permit 
+them to return to single grade classrooms. Only one school out of the four in the district has had no 
+friction among teachers and administration over the multiage issue and that is because at this rural 
+country school, multiage classrooms have been the norm. Administrators indicated that the number 
+of teachers involved in team teaching has decreased in some schools because of the multiage division 
+among teachers and unresolved personal conflicts. Most principals give teachers the choice of 
+whether to team teach and support their efforts for incorporating team teaching into their classrooms. 
+
+According to the administrators, a major barrier to the multiage approach was the lack of 
+effort on the part of many teachers to change instructional practices. Several reported that the lack 
+of sufficient training and the abrupt manner used to mandate multiage classrooms and to discontinue 
+the use of textbooks in the classrooms are the roots of teacher resistance. A common concern among 
+administrators was that the three-grade span in multiage classrooms was too great for even the most 
+experienced and willing multiage teachers. 
+
+Administrators reported that the schools and teachers were at many different stages and levels 
+of multiage implementation and had varied needs depending on the situations in their schools and 
+classrooms. They identified the following as struggles for teachers: 
+
+• Three-grade span in multiage classrooms 
+
+• Lack of curriculum resources 
+
+• Lack of sufficient planning time 
+
+• Discipline issues affecting classroom teaching 
+
+• High number of special needs students and diverse student situations 
+
+• Lack of collegiality among teachers 
+
+• Low morale of teachers 
+
+• Lack of common curriculum resources 
+
+Administrators identified the following as district needs: 
+
+• In-depth training for effective teaching practices 
+
+• Sufficient planning time for teachers and administrators 
+
+• Follow-up and continuity in teacher training programs 
+
+• Sufficient resources for classrooms and teachers 
+
+• Additional resources and training to offset the high number of students with 
+emotional needs 
+
+• Training for administrators to improve teacher evaluation 
+
+Although administrators were being pressured by teachers on both sides of the debate, they 
+generally supported the multiage approach because they had seen its potential in several classrooms. 
+
+
+
+O 
+
+ERIC 
+
+
+
+20 
+
+
+
+27 
+
+
+
+With sufficient training and teacher effort, these administrators felt that a multiage program could 
+be successful. However, they noted that the current number of multiage classrooms where teachers 
+understood multiage practices and were teaching effectively was small. Thematic units were 
+mentioned as exemplary of good teaching and learning practices in these classrooms. 
+
+Comparison School Results 
+
+The purpose of including the comparison school in this report was to examine responses to 
+the Instructional Practices Survey by teachers in a multiage program that was experiencing success 
+in a different school district. Although the primary goal was description of the resulting data, some 
+statistical comparisons using MANOVAs were made between the sample of teachers at the 
+comparison school who were all in multiage classes and team teaching ( n = 7), and the sample of 
+teachers at MSD who were in multiage classes and team teaching ( n = 28). The following sections 
+describe the main findings. 
+
+Classroom and teacher characteristics. The comparison teachers’ multiage classes each 
+covered a span of two grade levels, and all the teachers looped or were planning to loop so that 
+students would stay with the same teacher and classmates for two years. The MSD multiage team 
+teachers’ classes each covered a span of three grade levels, and 61% of the teachers were looping. 
+The comparison teachers reported having significantly more weekly instructional planning time 
+during regular school hours than did the MSD multiage team teachers ( M= 2.68, SD = 1 .11, p < .03). 
+
+When asked about preparedness to teach in various areas, the majority of comparison 
+teachers indicated (on a 1- 4 scale) “much preparedness” or a “great deal of preparedness” to teach 
+all areas asked by the question. The comparison teachers’ rated their preparedness to teach 
+significantly higher than the MSD multiage team teachers in all the content areas (all p < .03) and 
+in multiage classrooms (p < .01). The comparison teachers’ overall mean perceived preparedness 
+was 3.31 ( SD = .55), “much preparedness” which was statistically higher than the MSD multiage 
+team teachers’ mean of 2.19 (SD = .57), “some preparedness” {p < .04). 
+
+Classroom practices. The reported mean frequencies for the comparison teachers were high 
+for all the types of student interaction listed in the survey which included peer coaches or tutors, 
+cooperative learning, learning centers, classroom projects, and small group learning or partners. The 
+mean rating (on a 1-5 scale) was 3.97 or “frequently,” and was significantly higher than that ofMSD 
+multiage team teachers for which the mean rating was 3.52, between “occasionally” and “frequently” 
+( p < .01). The comparison teachers reported significantly less use of worksheets and running records 
+than the MSD multiage team teachers (both p < .03). The comparison teachers’ overall mean 
+frequency of multiage classroom practices was 4.00 (SD = .39) or “frequently” which was 
+significantly higher the MSD multiage team teachers’ mean of 3.36 or “occasionally” (SD = .11, p 
+< .04). For planning instruction, comparison teachers reported that their most frequently used 
+resource (on a 1-5 scale) was standards/benchmarks, which was unanimously reported as “almost 
+always” used (M = 5.00). The comparison teachers reported significantly more use of this resource 
+than the MSD multiage team teachers (p < .003) and also more use of computer software (p < .03). 
+
+Implementation issues. The comparison teachers’ mean rating of student outcomes (on a 
+1-5 scale) since teaching multiage classrooms was 3.55 (SD = .49), between “some improvement” 
+
+
+
+to “much improvement.” This was significantly higher than the MSD multiage team teachers’ mean 
+of 2.57, ( SD = 1.11) between “very limited improvement” to “some improvement” (p < .01). Data 
+are not reported for student outcomes with regard to teaching looped classes because only two 
+comparison teachers had been practicing looping for more than a year. 
+
+Of the 21 staff development topics listed on the survey, the mean number of topics that 
+comparison teachers reported attending was 1 4.57, and the mean reported value of the activities was 
+3.06 (SD = 2.51), “much value.” While the two groups of teachers did not differ significantly in the 
+average number of professional development activities, the comparison teachers rated the overall 
+value of their professional development significantly higher than did the MSD multiage team 
+teachers (p < .02). The MSD teachers’ reported mean value was 2.51 (SD = .53) between “some 
+value” to “much value.” 
+
+Prior to administering the Instructional Practices Survey to the comparison school teachers, 
+the author conducted an informal interview with the school’s principal. In 1991 and 1992, the 
+principal held voluntary study sessions on multiage classrooms, and in 1 993, a group of teachers at 
+the school decided to try the approach. In the same year, the school began early student release on 
+Wednesdays to provide time for staff development. The principal said there was an increase in 
+student social skills and in student test scores associated with multiage classrooms which inspired 
+the single grade teachers to improve as well. Yearly parent surveys indicate 95% satisfaction, and 
+the multiage program has a waiting list. 
+
+The principal stressed the importance of professional development for all teachers at the 
+school, commenting that staying the same is not an option for any of the teachers. Recently, the 
+school started teacher-driven study groups which meet bimonthly during release time. Teacher 
+collaboration occurs through team and whole school planning on the afternoons not devoted to study 
+groups. 
+
+
+
+All teachers in the school are implementing literacy blocks. The school has worked at 
+integrating curriculum, instruction, and assessment with content standards. Because the multiage 
+teachers teach a two-year grade span and loop with their students, the curriculum is adjusted to fit 
+into the two-year time span. The teachers initially tried a multiage span of three grades but found it 
+too difficult to manage. 
+
+Summary of Results 
+
+This section provides a summary of the main findings integrated across the different sources 
+of data. In accordance with the purposes of the study, the findings identify classroom practices that 
+are occurring in MSD and provide information on issues related to implementation of multiage 
+classrooms. 
+
+• The majority of MSD teachers have two hours or less for individual and 
+collaborative planning during regular school hours. This is less time for planning 
+during school than reported by MSD single grade teachers and the comparison 
+school multiage teachers. 
+
+• Both single grade and multiage teachers MSD teachers rated themselves as 
+
+
+
+O 
+
+ERJC 
+
+
+
+22 29 
+
+
+
+somewhat prepared to teach the various content areas. The comparison multiage 
+teachers rated their overall preparedness fairly high. 
+
+
+
+ERIC 
+
+
+
+Teachers of single grade classrooms and teachers of students in grades 6-8 
+reported using more large mixed groups in their daily instruction compared to 
+MSD teachers of multiage classes and MSD teachers of students in grades K-5. 
+
+MSD teachers reported that all the types of interactions among students addressed 
+by the survey occurred at least occasionally. However, classroom observations 
+indicated low amounts of academic student interactions in observed classes, 
+particularly in grades K-2. MSD multiage team teachers reported lower 
+frequencies of student interaction than the comparison school multiage teachers. 
+
+MSD teachers reported that their most frequently used student assessment 
+method is portfolios; their least frequent method is student self-assessment. 
+Single grade teachers reported more use of worksheets and tests than did teachers 
+of multiage classrooms. According to classroom observations, worksheets was 
+the most frequently observed instruction/assessment in the district. MSD 
+multiage team teachers reported more use of worksheets and running records than 
+the multiage teachers in the comparison school. 
+
+MSD single grade teachers reported higher frequencies of multiage classroom 
+practices than MSD multiage teachers (primarily for flexible student 
+advancement and parent involvement). The comparison school multiage teachers 
+reported higher frequencies than MSD multiage team teachers for flexible student 
+advancement, opportunities for group work, and multiple learning opportunities. 
+MSD multiage team teachers used the various classroom practices less than the 
+comparison multiage teachers. 
+
+MSD teachers’ most frequently used resources for planning instruction were 
+content area resources and standards^enchmarks. The comparison school 
+multiage teachers reported almost always using standards/benchmarks and 
+frequently using content area resources. 
+
+MSD multiage teachers reported limited improvements in student outcomes. The 
+comparison school multiage teachers rated these same outcomes much higher for 
+their students. 
+
+The amount of staff development reported by teachers did not differ among 
+groups. However, teachers in the comparison school rated their staff development 
+activities as more valuable than did other teachers. 
+
+MSD teachers were observed using instructional practices that involved 
+monitoring of student work more than facilitating of student work, except in 
+grades K-2 where the findings were reversed. Overall, MSD multiage teachers 
+did more facilitating than single grade teachers. 
+
+
+
+
+• Classroom observations indicated that more MSD students were simply working 
+than were actively engaged in their academic work. Almost one-fourth of 
+students observed in grades 6-8 were passive with regard to their academic work. 
+
+• MSD administrators and teachers agreed on the need for more teacher planning 
+time. Administrators identified morale and trust as issues among MSD teachers. 
+They cited teacher dissatisfaction with the manner in which the multiage 
+approach was implemented in the district. 
+
+• The principal of the comparison school reported that the school’s multiage 
+classrooms have been associated with improved student achievement and with 
+parent satisfaction. Key differences between MSD multiage team teachers and 
+comparison multiage teachers were that the comparison teachers had more years 
+of multiage teaching experience, more access to planing time during school, 
+greater perceptions of preparedness to teach content areas, higher frequencies of 
+student interaction in their classrooms, more frequent use of 
+standards/benchmarks to plan instruction, and a higher use of multiage classroom 
+practices. 
+
+
+
+31 
+
+o 
+
+ERIC 
+
+
+
+24 
+
+
+
+DISCUSSION 
+
+
+
+This section presents a discussion of the implications of the study findings for implementing 
+multiage programs and for the use of nongraded classrooms as a school reform strategy. 
+
+Generalizabilitv of Results 
+
+
+
+The findings from the study of instructional practices in MSD and the comparison school 
+have several implications for successful implementation of multiage programs. However, first there 
+should be a discussion about whether the results are generalizable. Prior teaching experience had an 
+influence on the results that were obtained from the Instructional Practices Survey. The MSD single 
+grade teachers had more teaching experience and had been in the district longer than MSD multiage 
+teachers. (When MSD hired new teachers, often it was with the expectation that they would teach 
+a multiage classroom.) Similarly, the comparison school multiage teachers had more teaching 
+experience than the MSD multiage team teachers. Thus, the comparisons that were made in the study 
+do not allow an evaluation of the effectiveness of classroom type (single grade or multiage). 
+However, the descriptive results, in comparison with what previous research has shown about 
+multiage classrooms, have implications for implementation. 
+
+Another factor that affects generalizability concerns the amount of time that the multiage 
+program has existed in MSD. The program was in its third year of implementation when the study 
+was conducted. Due to the many changes in instruction that are needed when teachers switch from 
+traditional classrooms to multiage, two years may not be enough time for successful implementation 
+to occur (Surbeck, 1992). 
+
+Finally, it is difficult to separate the effects of multiage classrooms from effects that occur 
+when teachers, schools, and districts adopt the philosophy about learning and development that a 
+multiage approach embraces. As described in the introduction to this report, Lloyd (1999) reminded 
+researchers that instruction is the key to improved student learning and not the multiage structure per 
+
+se. 
+
+
+
+Implications for Implementing Multiage Programs 
+
+With the above cautions in mind regarding the interpretation of results, what do the current 
+findings tell educators and researchers about implementing multiage classrooms, and how do these 
+findings relate to previous research? Results of this study are related to five implementation issues: 
+(1) collaborative planning, (2) understanding the complex changes required, (3) support from 
+principals (4) adequate resources, and (5) teacher collaboration. 
+
+Collaborative planning. In response to the open-ended questions on the Instructional 
+Practices Survey, MSD teachers expressed their dissatisfaction with the way that multiage 
+classrooms were mandated by district administrators. MSD administrators had taken this stance as 
+a way to effect immediate and drastic changes in the district in response to the urgent learning needs 
+of students. However, it created dissatisfaction among teachers who then became informal members 
+of “pro” and “con” camps, as district administrators described in interviews. Other research suggests 
+that planning and obtaining buy-in from stakeholders are critical to implementing multiage programs. 
+
+
+
+After studying multiage classrooms in Oregon in the early 1 990s, Miller ( 1 996) stated that “too many 
+educators are implementing multiage classrooms and schools with insufficient forethought, planning, 
+and participation of key stakeholders. I can think of no better way to destroy a potentially sound 
+educational practice” (p. 12). Miller also described an urban district in the Midwest where teachers 
+were having difficulty implementing multiage classrooms successfully as evidenced by student test 
+scores. Similar to MSD, the change to multiage had been mandated with little teacher involvement 
+in the decision and insufficient teacher preparation. 
+
+Miller (1996) urged that districts or schools that are considering changing to multiage 
+classrooms devote considerable time to planning and preparation. Surbeck (1992) suggested that at 
+least two years be devoted to this process. The planning process must address changes that will be 
+needed in structure such as scheduling and changes in instruction such as student groupings. 
+However, first the culture and climate of the school with regard to nongradedness must be addressed. 
+This means that all stakeholders need to be on board if the change to multiage is to be successful. 
+The stakeholders include district administrators, principals, teachers, and parents (Miller, 1996). Of 
+this group, probably the most important are the principals and the teachers. They are the ones who 
+must communicate to parents the benefits of a multiage approach for their children. But for most 
+principals and teachers, accepting the philosophy that underlies multiage practices means unlearning 
+previously held notions about how children learn (Miller, 1994), and for this to occur, new skills and 
+knowledge must be acquired (Gaustad, 1995). As a teacher in Kentucky’s mandated K— 3 multiage 
+primary program commented, “from the very beginning, teachers who did not want to teach using 
+the philosophy upon which the primary program was based found ways to circumvent teaching in 
+a multiage classroom” (McGee, 2000, p. 69). 
+
+Understanding the complex changes required. Underlying the need for adequate planning 
+and preparation is the complexity of the changes that are required of educators who are adopting 
+multiage approaches to instruction. In Gaustad’s (1995) study of multiage imp lementation, the author 
+remarked that “perfunctory planning that ignores the magnitude and complexity of the change can 
+produce disastrous results” (p. 8). Of course, all changes in education require careful consideration 
+and time, but the degree of change required of teachers in multiage classrooms is considerable. Osin 
+and Lesgold (1996) suggested that this high degree of change is the reason that more clear cut results 
+favoring student learning in multiage programs have not been obtained. “We claim that the main 
+reason for the low rate of success is that the teachers on whose shoulders (and heads) success is 
+based, were assigned a mission impossible” (p. 639). The authors referred to the review by Gutierrez 
+and Slavin ( 1 992) which found that results clearly favoring mixed-age instruction were found mainly 
+for those instances which involved less complex changes, such as multiage instruction in one subject. 
+The authors concluded by proposing the use of modem information systems and computer software 
+to redesign traditional education approaches so that the change to multiage classrooms will be easier 
+to manage and less complex. 
+
+Miller (1996) reminded districts that “teachers can be overwhelmed by a plethora of changes 
+mandated by administrators who are unmindful of the impact that such reform efforts have on 
+classroom teachers” (p. 13). Miller emphasized that because changing to multiage instruction 
+requires a “significant shift in classroom norms, major attention needs to focus on supporting the 
+emotional as well as the cognitive changes occurring to those engaged in the innovation” (p. 15). 
+Multiage teachers interviewed by ERS Spectrum ( 1 995) stated that an unexpected result of changing 
+
+
+
+to multiage instruction was that teachers lost their feelings of competence. Teachers were afraid that 
+they were not doing things right in their classrooms. Miller (1994) found that even veteran teachers 
+experienced these feelings, sometime more so than newer teachers. MSD teachers expressed similar 
+fears through their request for more training and staff development, which was the most frequently 
+mentioned suggestion for improving instruction in the district. MSD administrators also referred to 
+teachers’ needs for in-depth training on effective teaching practices. 
+
+Support from principals. The needs of teachers is one reason why strong support from 
+principals is important when districts and schools change to multiage classrooms. In a study of four 
+Northwest elementary schools that were successfully implementing multiage education, Miller 
+(1996) described the principals’ role in transforming the school environment so that it was open to 
+change and growth. Specifically, the principals helped create learning communities that empowered 
+teachers to question traditional instructional practices and assumptions about learning. Principals 
+were willing to support teachers, for example, by finding resources for them and helping them 
+prepare materials. Miller also noted that principals respected teachers’ developmental differences 
+in learning new multiage instructional practices. Mandating the multiage approach in MSD may have 
+made the formation of learning communities in the district more difficult. 
+
+Gaustad (1995) stressed that principals of multiage schools must create a sense of community 
+around the change to multiage instructional practices. Gaustad warned about the formation of 
+subgroups who are for or against the approach. As mentioned previously, the change to multiage 
+classrooms divided teachers in MSD. 
+
+Adequate resources. MSD teachers expressed a need for more materials and resources for 
+their multiage classrooms. As the Instructional Practices Survey indicated, MSD teachers in multiage 
+classrooms did not tend to use textbooks or grade-level materials because of district policy. In 
+general, the use of textbooks is a controversial issue when implementing multiage classrooms (W all, 
+1 994). MSD district administrators felt that using traditional textbooks would reinforce the tendency 
+to teach to separate grade levels in multiage classrooms. However, few classroom materials are 
+available specifically for multiage programs. Generally, authentic learning experiences and thematic 
+materials need to be substituted for standardized materials and traditional textbooks (Surbeck, 1 992). 
+However, developing new materials and thematic units that can be used for different developmental 
+levels takes time. 
+
+Multiage MSD teachers indicated that they have less planning time during school hours than 
+single grade MSD teachers and the comparison school multiage teachers. The teachers interviewed 
+by ERS Spectrum (1995) stressed that multiage classrooms require extra planning time compared 
+to traditional classrooms. Gaustad (1995) suggested that more staff, such as paraprofessionals, may 
+need to be hired for multiage programs to increase teachers’ opportunities to prepare instruction. 
+
+Professional development is a critical resource for implementing a multiage program. MSD 
+teachers’ relatively low self-ratings of preparedness to teach the content areas and in multiage 
+classrooms are indicative of their needs for additional training. The relatively low value that MSD 
+teachers attached to previous staff development activities suggest the need for changes in content and 
+delivery. As described in the introduction, teachers in multiage classrooms need to learn many new 
+skills that are not required in single grade classrooms. The use of developmentally appropriate 
+
+
+
+practices by multiage teachers requires that they understand child development and have the skills 
+to use education strategies that support children’ various learning styles (Surbeck, 1992). They also 
+need opportunities to observe other teachers who are successful at using these skills and to try them 
+out in their own classrooms, followed by feedback (Gaustad, 1995). MSD started such training by 
+having their multiage teachers observe the comparison school teachers. 
+
+Teacher collaboration. Several researchers have stressed the need for collaboration among 
+teachers of multiage classrooms (e.g., Surbeck, 1992, Gaustad, 1995). Teachers themselves have 
+indicated that teaming is essential to successful multiage instruction (ERS Spectrum, 1995). Yet 
+most teachers are not accustomed to collaborating, and single grade classrooms encourage teacher 
+isolation. MSD administrators commented that trust among teachers is an issue in the district, yet 
+little planning time is devoted to collaboration. According to Gaustad (1995), the principal of the 
+multiage school must help create conditions that foster a sense of community among teachers and 
+facilitate cooperation and positive interactions among members of teaching teams. Staff development 
+on team building also can increase teachers’ collaborative skills (Lauer, Wilkerson, Goodwin, & 
+Apthorp, in press). 
+
+Nongradedness as a Reform Strategy 
+
+MSD administrators mandated the change to multiage classrooms because of the potential 
+for this approach to reform instruction in the district. Almost all MSD students are from an ethnic 
+minority group and low socioeconomic background. As discussed in the introduction, instruction in 
+multiage classrooms is designed to meet the individual developmental needs of students and also 
+their learning styles which often are associated with cultural backgrounds. In this regard, multiage 
+programs are aligned with the Learner-Centered Psychological Principles developed by the American 
+Psychological Association and McREL (1993). The principles are based on the essential finding 
+from research and practice that students learn best in an environment whose primary focus is the 
+learner and the learning process. 
+
+A multiage approach involves community and collaboration among both students and 
+teachers. Within each MSD school, teachers and students are organized into families based on grade 
+levels. The district designed this organization to support teaming among teachers. The family 
+concept also was a way to create tiyospaye- an Indian word for family or community— within the 
+schools because many MSD students’ own families are unstable. 
+
+Thus, MSD’s reasons for restructuring classrooms into a multiage format were based on 
+practices which research has shown to be psychologically and educationally effective. However, as 
+a reform strategy, the switch to multiage classrooms requires complex changes, particularly of its 
+teachers, in both philosophy and practice. These changes need extensive support and time to be 
+effective, perhaps even as much as six years before changes in student learning can be documented 
+by achievement tests (Surbeck, 1992). Thus, as a reform strategy, nongradedness is not a quick fix 
+for low student achievement. 
+
+Lessons from Kentucky. In 1992, the Kentucky Education Reform Act mandated the 
+formation of K-3 multiage classes as one component of a new primary program for Kentucky school 
+districts. In 1 997, Guskey and Lindle reported on the effects of Kentucky’s multiage classrooms. The 
+
+
+
+O 
+
+ERIC 
+
+
+
+1 28 3 5 
+
+
+
+authors stated that “since its mandated implementation in 1992, the multi-age/multi-grade attribute 
+has remained the most controversial and most difficult for teachers. It is also the attribute teachers 
+rate as least important and the one the fewest teachers would continue if given the choice (p. 2). In 
+discussing the reasons for this result, the authors cited three problems based on an earlier report 
+(Koretz, Barron, Mitchell, & Steecher, 1996): (1) developmental differences among students are 
+magnified in multiage classrooms which intensifies teachers’ challenges to instruct effectively; (2) 
+multiage grouping overwhelms teacher’s repertoire of instructional strategies and does not inspire 
+them to create new ones; and, (3) multiage grouping causes teachers to become more concerned with 
+classroom management rather than with the quality of students’ learning. 
+
+Guskey and Lindle (1997) also expressed their concern that since the implementation of 
+Kentucky’s primary program there has been an increase in the number of fourth-grade students who 
+were classified as “exceptional.” This classification means that the students have learning difficulties 
+and need special services. The authors stated that the increase in fourth-grade “exceptional” students 
+is counter to the expectation that multiage primary teachers would be better able to identify 
+individual learning problems and to help students develop strong skills before they reach fourth 
+grade. 
+
+Instruction is key. The examples from Kentucky and now MSD indicate that in today’s era 
+of education accountability, nongraded strategies alone are unlikely to produce the kinds of quick 
+improvements in student performance that school officials are looking for. However, it is clear that 
+multiage approaches are developmentally sound and are aligned with the research on children s 
+learning. The key appears to be the quality of instruction that is occurring within multiage 
+classrooms. 
+
+Guskey and Lindle (1 997) summarized this viewpoint [also discussed by Gaustad (1995) and 
+Lloyd (1999)]: 
+
+It is not how you group students for instruction, but what you do within those groups 
+that is important to learning [italics in original]. Multi-grade classes do not 
+guarantee high quality instruction for all students, and single grade classes do not 
+prevent it. While some grouping practices are more conducive than others to the use 
+of certain instructional activities, it requires preparation and professional judgment 
+to know what strategies fit which grouping practices. The imposition of structural 
+changes can have deleterious effects on teacher self-efficacy and confidence and thus 
+affect student performance. Improvements in student learning are far more likely to 
+result from efforts that help teachers provide better and higher quality instruction 
+than from mere structural changes, (p. 10) 
+
+
+
+The quality of instruction can help explain why MSD has yet to see positive effects on 
+student performance due to multiage classrooms 2 . According to the findings of the MSD/McREL 
+
+
+
+2 In analyses of MSD student achievement in language arts and mathematics from the year prior to the study, 
+there were no statistically significant positive effects associated with multiage classrooms. 
+
+
+
+
+
+design team study, MSD teachers feel inadequately prepared to teach content areas, have few 
+instructional resources, have insufficient planning time, and are struggling to collaborate among 
+themselves. Teachers’ reported frequencies of multiage practices in MSD multiage classrooms is 
+relatively low. Classroom observations indicate that across the district teachers are relying on 
+worksheets and monitoring rather than facilitating student learning. In short, the study indicates that 
+present multiage classrooms in MSD have not yet resulted in the high quality instruction that is 
+needed in nongraded programs, as described by Anderson and Pavan (1993). 
+
+During the academic year following the completion of this study, MSD administrators made 
+changes which have the potential to positively impact student learning and to raise student 
+achievement scores. The superintendent allowed teachers to choose for themselves whether to teach 
+in single grade or multiage classrooms. The district began to focus on content standards and the 
+alignment of these with instruction and assessment. Teachers were given content-based classroom 
+materials with which to work and more planning time. Principals were given professional 
+development and guidance on how to be instructional leaders. Professional development for teachers 
+emphasized the teaching of literacy. The district implemented a pilot literacy block, with the help 
+of teachers from the comparison school and McREL technical assistance. The district has sent the 
+message to its administrators and teachers that quality instruction is key. 
+
+Conclusions 
+
+
+
+The following conclusions integrate prior research with the results of the current study: 
+
+• Multiage programs can be educationally and psychologically beneficial to 
+students when they are combined with high quality instruction. 
+
+• Multiage approaches require extensive changes in the philosophies and practices 
+of most teachers and administrators. 
+
+• Effective implementation of multiage programs requires (1) extensive planning 
+and preparation that includes stakeholder input; (2) district understanding and 
+support to help teachers make complex instructional changes; (3) support from 
+administrators for the creation of learning communities, (4) adequate resources 
+including classroom materials, planning time, and staff development; and, (5) 
+teacher collaboration that is facilitated by principals. 
+
+• Nongradedness is not a quick fix for low student achievement. 
+
+
+
+( 
+
+
+
+o 
+
+ERIC 
+
+
+
+30 
+
+
+
+REFERENCES 
+
+
+
+Anderson, R.H., & Pavan, B.N. (1993). Nongradedness: Helping it to happen. Lancaster, PA: 
+Technomic Publishing. 
+
+APA Task Force on Psychology in Education (1993, January). Learner-centered psychological 
+principles: Guidelines for school redesign and reform. Washington, DC: American 
+Psychological Association and the Mid-continent Regional Educational Laboratory. 
+
+ERS Spectrum. (1995). Establishing a multiage program: Learning from Experience. An ERS 
+interview with Robin Sweeney, Krista Olstead, and Bev Bryant. ERS Spectrum, 1 3 (2), 3-1 1 . 
+
+Gaustad, J. (1994). Nongraded education: Overcoming obstacles to implementing the multiage 
+classroom. OSSC Bulletin,, 38(3 & 4) [Special Issue], Eugene, OR: Oregon School 
+Study Council. 
+
+Gaustad, J. (1995). Implementing the multiage classroom. ERIC Digest, 97, ED381869. 
+
+Goodlad, J. I., & Anderson, R. H. (1987). The nongraded elementary school. New York: Teachers 
+College Press. 
+
+Guiterrez, R., & Slavin, R. E. (1992). Achievement effects of nongraded elementary schools: A best 
+evidence synthesis. Review of Educational Research, 62(4), 333-376. 
+
+Guskey, T. R. & Lindle, J. C. (1997). Research on multi-age/multi-grade classes: Report to the 
+Teaching and Learning Issues Group. Lexington, KY: University of Kentucky. (ERIC 
+Document Reproduction Service No. ED 420915) 
+
+Hall, G. E., & Hoard, S. M. (1987). Change in schools. New York: State University of New York 
+Press. 
+
+Kasten, W. C., & Clarke, B. K. (1993). The multi-age classroom: A family of learners. Katonah, 
+NY : Owen. 
+
+Kasten, W. C., & Lolli, E. M. (1998). Implementing multiage education: A practical guide to a 
+promising future. Norwood, MA: Christopher-Gordon Publishers. 
+
+Kommer, D. (1999). Is it time to revisit multiage teams in the middle grades? Middle School 
+Journal, 30, 28-32. 
+
+Koretz, D. M., Barron, S., Mitchell, K. J., & Steecher, B. M. (1996). Perceived effects of the 
+Kentucky Instructional Results Information system (KIRIS). Santa Monica, CA: RAND. 
+
+Lauer, P. A., Wilkerson, S. B., Goodwin, B., & Apthorp, H. S. (in press). School districts and 
+research organizations: Partners for school improvement. In S. Mitchell (Ed.), Effective 
+partnerships. Westport, CT: Praeger. 
+
+
+
+
+3 38 
+
+
+
+Little, T. S., & Dacus, N. B. (1999). Looping: Moving up with the class. Educational Leadership, 
+57(1), 42-45. 
+
+Lloyd, L. (1999). Multi-age classes and high ability students. Review of Educational Research, 
+69(2), 187-212. 
+
+Lodish, R. (1992). The pros and cons of mixed-age grouping. Principal, 71(5), 20-22. 
+
+McGee, C. D. (2000). A multi-age/multi-ability primary classroom in action. In B. L. Whitford & 
+K. Jones (Eds.), Accountability, assessment, and teacher commitment (pp. 49-70). Albany, 
+NY: State University of New York Press. 
+
+McLaughlin, H. J., Irvin, J. L., & Doda, N. M. (1999). Crossing the grade level gap: Research on 
+multiage grouping. Middle School Journal, 30, 55-58. 
+
+Miller, B. A. (1989). The multigrade classroom: A resource handbook for small rural schools. 
+Portland, OR: Northwest Regional Education lab. (ERIC Document Reproduction Service 
+No. ED 320 719). 
+
+Miller, B. A. (1996). A basic understanding of multiage grouping: Teacher readiness, planning, and 
+parent involvement required for successful practice. The School Administrator, 53(1), 12-17. 
+
+Miller, B. A. (1994). Children at the center: Implementing the multiage classroom. Portland, OR: 
+Northwest Regional Educational Laboratory. 
+
+Osin, L., & Lesgold, A. (1996). A proposal for the reengineering of the educational system. Review 
+of Educational Research, 66(4), 621-656. 
+
+Pavin, B.N. (1992). The benefits of nongraded schools. Educational Leadership, 50(2), 
+
+22-25. 
+
+
+
+Piaget, J. (1976). Symbolic play. In J. S. Bruner, A. Jolly, & K. Sylvia (Eds.), Play: Its role in 
+development and evolution. New York: Basic Books. 
+
+Slavin, R. E. (1992). The nongraded elementary school: Great potential, but keep it simple. 
+Educational Leadership, 50(2), 24. 
+
+Stone, S. J. (1998). Creating contexts for middle-age learning. Childhood Education, 74(4), 
+234-236. 
+
+
+
+Surbeck, E. (1992). Multi-age programs in primary grades: Are they educationally appropriate? 
+Childhood Education, 69(1), 3-4. 
+
+
+
+Theilheimer, R. (1993). Something for everyone: Benefits of mixed-age grouping for children, 
+parents, and teachers. Young Children, 48(5), 82-87. 
+
+
+
+ERIC 
+
+
+
+32 
+
+
+
+39 
+
+
+
+Veenman, S. (1995). Cognitive and noncognitive effects of multigrade and multiage classes: A best- 
+evidence synthesis. Review of Educational Research, 65(4), 319-381. 
+
+V ygotsky, L. ( 1 978). Mind in society: The development of psychological processes. Cambridge, MA : 
+Harvard University Press. 
+
+Wall, B. (1994). Managing your multi-age classroom. Teaching K-8, 25(1), 68,72-73. 
+
+American Association of School Administrators. (1992). The nongraded primary: Making 
+schools fit children. Arlington, VA: Author. 
+
+Additional Resources 
+
+
+
+American Association of School Administrators. (1992). The nongraded primary: Making schools 
+fit children. Arlington, VA: Author. 
+
+Hovda, R. A., Kyle, D. W., & McIntyre, E. (Eds.). (1996). Creating nongraded K—3 classrooms: 
+Teachers ’ stories and lessons learned. Thousand Oaks, CA: Corwin Press. 
+
+Hunter, M. (1992). How to change to a nongraded school. Alexandria, VA: Association for 
+Supervision and Curriculum Development. 
+
+National Education Association. (1995). Multi-age classrooms. Washington, DC: Author. 
+
+Stone, S. (1996). Creating the multi-age classroom. Glenview, IL: Good Year Books. 
+
+
+
+
+33 
+
+
+
+Appendix A 
+
+
+
+
+Classroom Observation 
+
+
+
+Name of School; 
+
+Person Conducting Observation 
+Beginning Time of Observation: 
+
+General: 
+
+1. How many students are in the class? What subject is being taught^ 
+
+
+
+Name of District 
+
+Classroom Grade 
+
+Enrjjng Time of Observation: 
+
+
+
+2. What seems to be the specific objective of the lesson(s)? What is it that students are being 
+expected to learn or do? 
+
+
+
+3. Describe what is on the walls of the classroom 
+
+
+
+1/30/00 MultUge Study 
+
+Protocol 
+
+
+
+o 
+
+
+
+
+42 
+
+
+
+General (Continued) 
+
+
+
+4. Estimate the number of classroom library (resource materials) books available to children. 
+Describe the collection. 
+
+
+
+5 What technology is available in the classroom (computers, listening posts, VCRs, 
+televisions, etc.)? Describe any evidence that suggests how the technology is generally 
+used? 
+
+
+
+1 / 30/00 
+
+Protocol 
+
+
+
+Multiagc Study 
+
+
+
+43 
+
+
+
+Providing Opportunities for All Children to Achieve: We want to find evidence that the 
+school is relentless about ensuring (hat each and every child will achieve high standards of 
+academic achievement. " Every child" includes children receiving special education and 
+bilingual education sendees, children who have exhibited behavior problems, and other 
+children who tend to fall behind academically. We are looking for evidence that the school is 
+organized in ways that reflect high academic expectations for every student. 
+
+
+
+1 . Are all children seeming to understand what is being taught? If students are working 
+
+independently or in groups, are all students or are all groups successfully demonstrating the 
+desired knowledge or skill? Describe in detail 
+
+
+
+2 If there are children or groups of children having difficulty, what kinds of assistance does 
+the teacher provide? Does the teacher seem to know that these students are having 
+difficulty? How does the teacher respond? 
+
+
+
+3. How do students interact with each other during the lesson? Do students provide assistance 
+to each other? If so, how? 
+
+
+
+4. Describe the extent to which students are engaged in the lesson? Are students passively 
+listening, are they actively working, or are they ofF-task? 
+
+
+
+Multiagc Study 
+
+
+
+
+imroo 
+
+Protocol 
+
+
+
+44 
+
+
+
+Providing Opportunities for All Children to Achieve (continued) 
+
+5. If children misbehave, how does the teacher handle the situation? 
+
+
+
+6. Describe any special support 
+who might have a disability, < 
+
+
+
+at is offered to children who are not yet proficient in English, 
+who otherwise might need special assistance 
+
+
+
+1/30/00 
+
+Protocol 
+
+
+
+MultUgc Study 
+
+
+
+4 ° 
+
+
+
+Partnerships with Parents/Families/Com munities: We want to find evidence that the 
+school is working actively to build strong relationships with families and community groups 
+We want to find evidence that the school is reaching out to parents and community m ways that 
+help create a sense of true 'partnership that is built on mutual respect and focused toward he 
+common goal of improving student achievement. We want to find evidence that parents feel that 
+they truly belong at the school and they multiple avenues for getting involved. 
+
+
+
+1. Are any volunteers working in the classroom? If so, what are they doing? 
+
+
+
+2 Describe how the teacher interacts with the volunteer(s)? Describe how the volunteer(s) 
+interact with students 
+
+
+
+3. If any parents come to visit the class during the observation, describe what happens How 
+are the parents received? How does the teacher interact with the parents'? 
+
+
+
+4. Is there anything in the classroom that gives an indication that parents visit the classroom or 
+volunteer (e.g., a special place for volunteers or visitors, pictures of volunteers)? 
+
+
+
+1 / 30/00 
+
+Protocol 
+
+
+
+Multitge Study 
+
+
+
+6 
+
+
+
+Curriculum and Instruction: We want to find evidence that curricula and instruction focus on 
+high academic standards. We want to find evidence that teachers' pursue a variety of 
+instructional strategies to help ensure that their students learn challenging skills. We want to 
+find evidence that all students, regardless of how they are grouped for instruction. ha\>e access 
+to challenging academic curricula. 
+
+
+
+1 
+
+
+
+During the lesson, list the most challenging questions or tasks to which students are 
+expected to respond 
+
+
+
+2. If students are grouped and are being taught different objectives, describe what each group 
+is being taught, participation level, and how they are interacting 
+
+
+
+3 Describe the instructional strategies the teacher uses during the lesson What does the 
+teacher do to get students to learn the content or skills? 
+
+
+
+
+100/00 
+
+Protocol 
+
+
+
+Multugc Sludy 
+
+
+
+47 
+
+
+
+Appendix B 
+
+
+
+
+48 
+
+
+
+Madison School District 
+Design Team Study of Instructional Practices 
+December 1999 
+
+
+
+Dear MSD Teacher: 
+
+The attached survey is part of the MSD Design Team’s Instructional Practices Study. The purposes 
+of the study are: 
+
+• to identify the instructional practices that are being used in MSD 
+
+• to obtain feedback from MSD staff on the effectiveness of these instructional practices 
+
+• to relate current instructional practices to student learning outcomes 
+
+• to obtain input on needed staff development 
+
+• to provide recommendations regarding district improvement plans 
+
+The Instructional Practices Study will not be used in any way to evaluate personnel. Instead, the data 
+will be used to inform only the five purposes stated above. The Design Team recognizes the 
+sensitive nature of the data that are being collected and pledges to protect the confidentiality of all 
+respondents. With regard to the Teacher Survey, it is necessary to connect teachers to their students. 
+Therefore, each survey has been assigned an ID code which is stamped on the survey and on this 
+cover sheet. Please sign the bottom of this sheet and give it to the survey administrator from 
+McREL. The master list of teacher names and ID codes will be kept in a secure file at McREL and 
+will not be shared with any other persons. The original completed surveys will be seen only by 
+McREL data analysts. (It should be noted also that although demographic information is being 
+collected on the Teacher Survey, reporting of results will be designed to avoid possible identification 
+of respondents.) The survey will take approximately one hour to complete. 
+
+Thank you for your participation in this important study which will give MSD teachers a voice in 
+their district’s future. (We hope to have the results available to share with teachers in February.) 
+
+
+
+Identification Code 
+
+I agree to participate in the Teacher Survey of the MSD Instructional Practices Study. I have been 
+informed about the purposes of the study and that the confidentiality of my responses will be 
+protected. I understand that completing the survey will take approximately one hour. 
+
+
+
+Name (Print) 
+
+Name (Signature) 
+Date 
+
+
+
+
+49 
+
+
+
+Page 1 of 9 
+
+
+
+MSD/McREL Design Team Instructional Practices Study -Teacher Survey 
+
+December 1999 
+
+Instructions: Please read each question carefully. Answer all the questions and be complete in your 
+answers. If you need additional room to write, use the back of page 9 and indicate the number of the 
+question that you are answering. When you have finished your survey, please give it to the survey 
+administrator from McREL. Thank you. 
+
+
+
+{ Which of the following best describes your current classroom structure? Check one answer. 
+
+(1) One teacher, one grade level 
+
+(2) One teacher, two grade levels 
+
+(3) One teacher, three grade levels 
+
+(4) Team teaching, one grade level 
+
+(5) Team teaching, two grade levels 
+
+(6) Team teaching, three grade levels 
+
+(7) Other (Please describe.) 
+
+
+
+2. Are you looping with the students you currently teach? Check one answer. 
+
+(1) No 
+
+(2) Yes, I will have the same students for two years. 
+
+(3) Yes, I will have the same students for three years. 
+
+3. Write a number in each space to indicate how many students you currently are teaching 
+
+(1) for the first time 
+
+(2) for the second time 
+
+(3) for the third time 
+
+4. Which of the following best describes how you share teaching responsibilities with another teacher (s)? 
+Check one answer. 
+
+(1) There is no sharing of teaching responsibilities. 
+
+(2) Two or more teachers teach different categories of subjects. 
+
+(3) Two or three teachers teach all subjects. 
+
+(4) All teachers teach all subjects. 
+
+(5) Other (Please describe.) 
+
+
+
+5. How many hours per week do you have for instructional planning time during regular school 
+
+hours? 
+
+6. Of the above, how many hours per week do you collaborate with other teachers in planning 
+
+: jv*"uction? 
+
+ERIC 50 
+
+
+
+Page 2 of 9 
+
+
+
+7. How many hours per week do you use for instructional planning time outside of regular school 
+hours ? 
+
+
+
+8. Of the above , how many hours per week do you collaborate with other teachers in planning 
+instruction? 
+
+
+
+9. To what degree does your 
+MSD “family” participate in 
+the following activities each 
+week ? Make one check for 
+each activity . 
+
+
+Almost 
+
+Never 
+
+
+Seldom 
+
+
+Occasionally 
+
+
+Frequently 
+
+
+Almost 
+
+Always 
+
+
+Planning of instruction 
+
+
+
+
+
+
+
+
+
+
+
+
+Planning of student 
+assessments 
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum planning 
+
+
+
+
+
+
+
+
+
+
+
+
+Sharing of information about 
+students 
+
+
+
+
+
+
+
+
+
+
+
+
+Sharing of information about 
+teaching strategies 
+
+
+
+
+
+
+
+
+
+
+
+
+Other (Please name and rate 
+the frequency.) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Out of the instructional day, what percent (on the average) do you instruct students in the following 
+ways? (Note — your answers do not need to add to 100%.) 
+
+
+
+% (1) One-on-one instruction 
+% (2) Independent work 
+
+% (3) Small group instruction organized by grade level 
+% (4) Small group instruction organized by skills level 
+% (5) Large group mixed instruction 
+% (6) Small group mixed instruction 
+% (7) Other {Please describe.) 
+
+
+
+1 1 On the average, what percent of each day do students in your classroom interact with each other in 
+learning activities related to instruction? (Check one answer.) 
+
+
+
+O 
+
+
+
+( 1 ) 0 - 20 % 
+
+(2) 21-40% 
+
+(3) 41-60% 
+
+(4) 61-80% 
+
+(5)81-100% 
+
+
+
+
+51 
+
+
+
+Page 3 of 9 
+
+
+
+12. When the students you 
+teach interact with each other, 
+how often are they participating 
+in the following learning 
+activities? (Make one check for 
+each activity) 
+
+
+Almost 
+
+Never 
+
+
+Seldom 
+
+
+Occasionally 
+
+
+Frequently 
+
+
+Almost 
+
+Always 
+
+
+Peer coaching or tutoring 
+
+
+
+
+
+
+
+
+
+
+
+
+Cooperative learning 
+
+
+
+
+
+
+
+
+
+
+
+
+Learning centers 
+
+
+
+
+
+
+
+
+
+
+
+
+Classroom projects 
+
+
+
+
+
+
+
+
+
+
+
+
+Small group learning or partners 
+
+
+
+
+
+
+
+
+
+
+
+
+Other (Please name and rate 
+the frequency.) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. How often do you use the 
+following methods of student 
+assessment? (Make one check 
+for each method.) 
+
+
+Almost 
+
+Never 
+
+
+Seldom 
+
+
+Occasionally 
+
+
+Frequently 
+
+
+Almost 
+
+Always 
+
+
+worksheets 
+
+
+
+
+
+
+
+
+
+
+
+
+tests 
+
+
+
+
+
+
+
+
+
+
+
+
+demonstrations 
+
+
+
+
+
+
+
+
+
+
+
+
+one-on-one conferencing 
+
+
+
+
+
+
+
+
+
+
+
+
+rubrics 
+
+
+
+
+
+
+
+
+
+
+
+
+running records 
+
+
+
+
+
+
+
+
+
+
+
+
+portfolios 
+
+
+
+
+
+
+
+
+
+
+
+
+student self-assessment 
+
+
+
+
+
+
+
+
+
+
+
+
+other (Please name and rate the 
+frequency.) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+O 
+
+ERiC 
+
+
+
+52 
+
+
+
+Page 4 of 9 
+
+
+
+14. How often is the 
+following true of your 
+instruction? (Make one check 
+for each statement.) 
+
+
+Almost 
+
+Never 
+
+
+Seldom 
+
+
+Occasionally 
+
+
+Frequently 
+
+
+Almost 
+
+Always 
+
+
+Grouping and subgrouping of 
+students are flexible. 
+
+
+
+
+
+
+
+
+
+
+
+
+Sequences of learning are 
+determined for individual 
+students. 
+
+
+
+
+
+
+
+
+
+
+
+
+Advancement, retention, and 
+promotion procedures for 
+students are flexible. 
+
+
+
+
+
+
+
+
+
+
+
+
+There are opportunities for 
+students to work with many 
+groups of different sizes and 
+that are formed for different 
+purposes. 
+
+
+
+
+
+
+
+
+
+
+
+
+Students formulate their own 
+learning goals with guidance 
+from their teachers. 
+
+
+
+
+
+
+
+
+
+
+
+
+Students participate in their 
+own learning through 
+numerous opportunities for 
+choices. 
+
+
+
+
+
+
+
+
+
+
+
+
+Multiple learning alternatives 
+are available to address 
+different learning styles of 
+students. 
+
+
+
+
+
+
+
+
+
+
+
+
+Students’ work is assessed in 
+terms of their past 
+achievements and their own 
+potentials. 
+
+
+
+
+
+
+
+
+
+
+
+
+Parents are involved (either 
+actively or indirectly) with 
+the classroom community. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53 
+
+
+
+Page 5 of 9 
+
+
+
+15. How often you use the 
+following resources to plan your 
+instruction? (Make one check 
+for each resource .) 
+
+
+Almost 
+
+Never 
+
+
+Seldom 
+
+
+Occasionally 
+
+
+Frequently 
+
+
+Almost 
+
+Always 
+
+
+Content standards and 
+benchmarks 
+
+
+
+
+
+
+
+
+
+
+
+
+Teacher manuals 
+
+
+
+
+
+
+
+
+
+
+
+
+Student textbooks 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet 
+
+
+
+
+
+
+
+
+
+
+
+
+Computer software 
+
+
+
+
+
+
+
+
+
+
+
+
+Content area resources 
+
+
+
+
+
+
+
+
+
+
+
+
+Resources on teaching 
+techniques 
+
+
+
+
+
+
+
+
+
+
+
+
+Audiovisual resources 
+
+
+
+
+
+
+
+
+
+
+
+
+Staff development materials 
+
+
+
+
+
+
+
+
+
+
+
+
+Materials from conferences 
+
+
+
+
+
+
+
+
+
+
+
+
+Other (Please name and rate the 
+frequency.) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. To what degree do you feel prepared 
+with the necessary skills and knowledge to 
+teach the following? (Make one check for 
+each category.) 
+
+
+No 
+
+Preparedness 
+
+
+Some 
+
+Preparedness 
+
+
+Much 
+
+Preparedness 
+
+
+Great Deal of 
+Preparedness 
+
+
+State Language Arts Standards 
+
+
+
+
+
+
+
+
+
+
+State Dakota Mathematics Standards 
+
+
+
+
+
+
+
+
+
+
+MSD Health Standards 
+
+
+
+
+
+
+
+
+
+
+Science 
+
+
+
+
+
+
+
+
+
+
+Social Studies 
+
+
+
+
+
+
+
+
+
+
+Native American students 
+
+
+
+
+
+
+
+
+
+
+High poverty students 
+
+
+
+
+
+
+
+
+
+
+In multiage classrooms 
+
+
+
+
+
+
+
+
+
+
+
+ERjt 
+
+
+
+54 
+
+
+
+Page 6 of 9 
+
+
+
+17. Listed below are topics of professional development activities, many of which have been offered to 
+teachers in MSD. For each topic, please respond to questions A and B. (Note - if you participated in an 
+activity, but not at MSD, you should circle Yes and answer question B .) 
+
+
+
+Staff Development 
+Topics 
+
+
+A. Did you 
+participate 
+(Circle Yes 
+
+
+? 
+
+or No) 
+
+
+B. If you participated, how effective was 
+
+participation at enhancing your teaching skills? 
+(Check one answer for each topic.) 
+
+
+
+
+
+
+
+
+No 
+
+Value 
+
+
+Some 
+
+Value 
+
+
+Much 
+
+Value 
+
+
+Great 
+
+Value 
+
+
+Teaching in Multiage 
+Classrooms 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Adapting Curriculum in 
+Multiage Classrooms 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Content Standards 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Classroom 
+
+Grading/Assessment 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Math Instruction 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Reading Instruction 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Writing Instruction 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Integrated Thematic Units 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Learning Centers 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Cooperative Learning 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Collaborative Teaming 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Team Building Techniques 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Differentiated Instruction 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Learner-Centered Practices 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Using Technology in the 
+Classroom 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Computer Skills Training 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Lakota Language/Culture 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Multiple Intelligences 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Student Motivation 
+Techniques 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Health 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Special Education 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+Other (Please describe and 
+indicate the value.) 
+
+
+Yes 
+
+
+No 
+
+
+
+
+
+
+
+
+
+
+
+ERIC 
+
+
+
+5 : 
+
+
+
+Page 7 of 9 
+
+
+
+18. Indicate your need for additional staff development on the following topics by rating each from 1 
+(definitely not needed) to 4 (definitely needed). 
+
+Teaching in Multiage Classrooms 
+
+Adapting Curriculum in Multiage Classrooms 
+
+Content Standards 
+
+Classroom Grading/Assessment 
+
+Math Instruction 
+
+Reading Instruction 
+
+Writing Instruction 
+
+Integrated Thematic Units 
+
+Learning Centers 
+
+Cooperative Learning 
+
+Collaborative Teaming 
+
+Team Building Techniques 
+
+Differentiated Instruction 
+
+Learner-Centered Practices 
+
+Using Technology in the Classroom 
+
+Computer Skills Training 
+
+Lakota Language/Culture 
+
+Multiple Intelligences 
+
+Student Motivation Techniques 
+
+Health 
+
+Special Education 
+
+Other (Please Describe) 
+
+
+
+19. How long have you been teaching multiage classrooms in MSD? 
+
+none (If none, go to question #22.) 
+
+first year of teaching a multiage classroom 
+
+second year of teaching a multiage classroom 
+
+third year of teaching a multiage classroom 
+
+Other (Please explain.) 
+
+
+
+20a. What are the advantages of multiage classrooms? 
+
+
+
+20b. What are the disadvantages of multiage classrooms? 
+
+
+
+
+5/6 
+
+
+
+Page 8 of 9 
+
+
+
+21. In general, what is the 
+degree of improvement that 
+you have seen in your students 
+in the following areas since 
+you started teaching a multiage 
+classroom? 
+
+
+No 
+
+Improvement 
+
+
+Very Limited 
+Improvement 
+
+
+Some 
+
+Improvement 
+
+
+Much 
+
+Improvement 
+
+
+Great 
+
+Improvement 
+
+
+student learning skills 
+
+
+
+
+
+
+
+
+
+
+
+
+student motivation to learn 
+
+
+
+
+
+
+
+
+
+
+
+
+student interpersonal 
+relationships 
+
+
+
+
+
+
+
+
+
+
+
+
+student respect for community 
+
+
+
+
+
+
+
+
+
+
+
+
+student decision making 
+
+
+
+
+
+
+
+
+
+
+
+
+student cultural understanding 
+
+
+
+
+
+
+
+
+
+
+
+
+
+22. How long have you been looping in MSD? 
+
+none (If none, go to question #24.) 
+
+one year 
+
+two years 
+
+three years 
+
+four or more years 
+
+Other (Please explain.) 
+
+
+
+23a. What are the advantages of looping? 
+
+
+
+23b. What are the disadvantages of looping? 
+
+
+
+O 
+
+ERIC 
+
+
+
+57 
+
+
+
+Page 9 of 9 
+
+
+
+24. In general, what is the 
+degree of improvement that 
+you have seen in your students 
+in the following areas since 
+you started looping? 
+
+
+No 
+
+Improvement 
+
+
+Very Limited 
+Improvement 
+
+
+Some 
+
+Improvement 
+
+
+Much 
+
+Improvement 
+
+
+Great 
+
+Improvement 
+
+
+student learning skills 
+
+
+
+
+
+
+
+
+
+
+
+
+student motivation to learn 
+
+
+
+
+
+
+
+
+
+
+
+
+student interpersonal 
+relationships 
+
+
+
+
+
+
+
+
+
+
+
+
+student respect for community 
+
+
+
+
+
+
+
+
+
+
+
+
+student decision making 
+
+
+
+
+
+
+
+
+
+
+
+
+student cultural understanding 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please answer the following demographic questions: 
+
+25. Current position: Teacher Other Certified Staff 
+
+Other (Please describe.) 
+
+26. Number of years teaching experience: 
+
+27. Number of years teaching in Monroe School District: 
+
+28. Grade level(s) that you currently are teaching in 1999-2000: 
+
+29. Grade level(s) that you taught last year in 1 998-1999 : 
+
+30. Grade level(s) that you taught in 1997-1998: 
+
+
+
+31. What are your suggestions for improving instruction and student learning in MSD? 
+
+
+
+
+Appendix C 
+
+
+
+
+59 
+
+
+
+Monroe School District, South Dakota 
+Design Team Study of Instructional Practices 
+December 1999 
+
+
+
+Dear MSD Administrator: 
+
+The administrator interviews are part of the MSD Design Team’s Instructional Practices Study. The 
+purposes of the study are: 
+
+• to identify the instructional practices that are being used in MSD 
+
+• to obtain feedback from MSD staff on the effectiveness of these instructional 
+practices 
+
+• to relate current instructional practices to student learning outcomes 
+
+• to obtain input on needed staff development 
+
+• to provide recommendations regarding district improvement plans 
+
+The Instructional Practices Study will not be used in any way to evaluate personnel. Instead, the data 
+will be used to inform only the five purposes stated above. The Design Team also recognizes the 
+sensitive nature of the data that are being collected and pledges to protect the confidentiality of all 
+respondents. Interviews will be tape recorded to enable consultants to provide an accurate analysis 
+for the report. If at anytime you feel uncomfortable and you wish to stop the recording during this 
+interview, please request this and we will respect your wishes. With regard to any sensitive data 
+collected for this study, it will be kept in a secure file at McREL and will not be shared with any 
+other persons. It should be noted also that although demographic information is being collected on 
+teachers and administrators, report of results will be designed to avoid possible identification of 
+respondents. The interview will take approximately one hour to complete. Please sign the bottom 
+of this sheet and give it to Dorothy Aguilera, educational consultant, McREL. 
+
+Thank you for your participation in this important study. We hope to have the results available to 
+share with everyone in February. 
+
+
+
+I agree to participate in the Interview for the MSD Instructional Practices Study. I have been 
+informed about the purposes of the study and that the confidentiality of my responses will be 
+protected. I understand that completing the survey will take approximately one hour. 
+
+
+
+Name (Print) 
+
+Name (Signature) 
+Date 
+
+
+
+
+60 
+
+
+
+Administrator Interview 
+
+
+
+Name of School: Name of District: 
+
+Person Interviewed: Person Conducting Interview: 
+
+Time of Interview Ending Time of Interview: 
+
+G’-neral: 
+
+
+
+1. How long have you been at the school district? 
+
+2. Have there been any significant changes recently? What are those changes? 
+
+3. What are your goals for this school year? How will you know if you have attained your goals? 
+
+4. What are the district’s short term and long term plans for school improvement? 
+
+Classroom Organization : These questions are designed to discover the number of teachers and schools 
+who utilize looping, multiage and other structures in /4SD. 
+
+1. Please describe the different ways teachers organize their classrooms? 
+
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+
+2. How well do you think teachers understand and practice effectively these organizational 
+approaches? 
+
+3. What percentage of schools are utilizing which types of approaches (multiage, looping, and 
+family /pod) in the district? 
+
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+
+4. How often do principals observe in classrooms? 
+
+5. How are teachers assessed? 
+
+
+
+61 
+
+
+
+1 2/14/99 
+
+
+
+Multiage Study 
+
+
+
+1 
+
+
+
+Professional Development : 
+
+1. What is the district doing to enhance the professional development of staff this year? 
+
+2. What additional resources has the district provided to teachers and principals as incentives to 
+
+incorporate new and alternative approaches in their classrooms? Such as planning time, 
+
+professional development. 
+
+3. What opportunities do teachers have to learn from each other? 
+
+4. If I'm a new teacher in the district, what kinds of assistance can I expect to receive? 
+
+6. What professional development needs do staff have that aren’t currently being met by the 
+district? 
+
+7. In terms of improving instruction and student learning (teaching and learning practices) are 
+there any unique needs in schools? 
+
+8. How effective has professional development been with improving teaching and learning 
+practices at your school? 
+
+Improving Teaching and Learning Practices; 
+
+1. What teaching and learning practices are currently being utilized in your school/s? 
+
+2. What are the most effective instructional practices used by teachers? 
+
+3. What types of student assessment is the district using? 
+
+4. What instructional practices have proved to solicit the best learning experiences for 
+students? 
+
+5. How much time do teachers spend each week for planning? 
+
+Curriculum and Instruction, and Standards: 
+
+1. How were decisions made about which reading materials and instructional strategies would 
+be used at your school/district? What about assessments? 
+
+2. How do you know if curricula and instructional strategies are working to help your students 
+achieve your school/district goals? Should other classroom approaches be offered by the 
+district at your school? What suggestions do you have? 
+
+3. In what ways are students grouped for instruction based on academic ability? For instance, 
+are students grouped by ability for reading instruction or are students who meet 
+giftedAalented criteria given different curriculum? What parameters exist in the grouping in 
+your school? Are there any differences in what each group is expected to achieve by the end 
+of the year? 
+
+
+
+62 
+
+
+
+12/14/99 
+
+
+
+Multiage Study 
+
+
+
+2 
+
+
+
+Principal Interview 
+
+
+
+Name of School: Name of District: 
+
+Person Interviewed: Person Conducting Interview: 
+
+Time of Interview Ending Time of Interview: 
+
+General: 
+
+1. How many students are enrolled this year? Size of teaching staff? Turnover of staff ? 
+
+2. How long have you been at this school? 
+
+3. Have there been any significant changes at the school recently? What are those changes? 
+
+4. What are your goals for this school year? How will you know if you have attained your goals? 
+
+Classroom Organization : These questions are designed to discover the number of teachers and schools 
+who utilize looping, multiage and other structures in M SD. 
+
+1. Please describe the different ways teachers organize their classrooms in your school/s? 
+
+
+
+grade level 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+grade level 
+
+
+multi age 
+
+
+looping 
+
+
+family 
+
+
+grade level 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+grade level 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+grade level 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+grade level 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+
+2. How well do you think teachers understand and practice effectively these organizational 
+approaches? 
+
+3. What percentage of classrooms are utilizing which types of approaches (multiage, looping, 
+and family/pod) in your school? 
+
+
+
+grade level 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+grade level 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+grade level 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+grade level 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+grade level 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+grade level 
+
+
+multiage 
+
+
+looping 
+
+
+family 
+
+
+
+4. How often do you observe in classrooms? 
+
+Professional Development : 
+
+1. What are you doing to enhance the professional development of your staff this year? 
+
+
+
+irJc • ■' I! 3 
+
+bStellS^/ 1 4 yQ 9 
+
+
+
+Multiage Study 
+
+
+
+1 
+
+
+
+2. What additional resources has your school/district provided to teachers and principals as 
+incentives to incorporate new and alternative approaches in their classrooms? Such as planning 
+time, professional development. 
+
+3. What opportunities do teachers have to learn from each other? 
+
+4. If I'm a new teacher at this school, what kinds of assistance can I expect to receive? 
+
+5. What professional development needs do your staff have that aren’t currently being met by 
+the district? In terms of improving instruction and student learning (teaching and learning 
+practices) are there any unique needs in your school? 
+
+6. How effective has professional development been with improving teaching and learning 
+practices at your school? 
+
+Improving Teaching and Learning Practices: 
+
+1. What teaching and learning practices are currently being utilized in your school/s? 
+
+2. What are the most effective instructional practices used by teachers? 
+
+3. What types of student assessment are you using at your school? 
+
+4. How do you know they are making adequate academic improvement each year? 
+
+5. What instructional practices have proved to solicit the best learning experiences for 
+students? 
+
+6. How much time do your teachers spend each week for planning? 
+
+7. Do you request lessons plans from teachers? How often? Do teachers actually turn in 
+their lesson plans as requested? 
+
+Curriculum and Instruction, and Standards: 
+
+1. How were decisions made about which reading materials and instructional strategies would 
+be used at your school/district? What about assessments? 
+
+2. How do you know if curricula and instructional strategies are working to help your students 
+achieve your school/district goals? Should other classroom approaches be offered by the 
+district at your school? What suggestions do you have? 
+
+3. In what ways are students grouped for instruction based on academic ability? For instance, 
+are students grouped by ability for reading instruction or are students who meet 
+giftedAalented criteria given different curriculum? What parameters exist in the grouping in 
+your school? Are there any differences in what each group is expected to achieve by the end 
+of the year? 
+
+
+
+12/14/9S 
+
+
+
+Multiage Study 
+
+
+
+2 
+
+
+
+64 
+
+
+
+4. In your opinion, what works best in your school for students? 
+
+5. How do you assess teachers to determine if they are utilizing the best teaching and learning 
+practices in their classrooms? 
+
+6. How well are the curriculum and instructional practices meeting the standards in your 
+school/s? 
+
+7. What curriculum resources are available in your schools? Which resources do teachers most 
+often use? 
+
+8. How is technology being utilized in classroom instruction? 
+
+9. What textbooks and resource materials are teachers currently using in your school? 
+
+10. What percentage of teachers use worksheets in their classrooms? 
+
+Families and Communities: 
+
+
+
+1. What does parent involvement look like at your school? 
+
+2. In what ways do community organizations, businesses, and agencies participate in your 
+school/s? 
+
+3. What are some strategies you’re currently using to initiate family and community 
+involvement? 
+
+4. Do you know what’s worked in the past? 
+
+Tribal Culture 
+
+1. What tribal affiliations are represented in your school community? 
+
+2. How does tribal culture influence teaching and learning practices? Assessment? 
+
+3. What are the cultural issues that most often surface in the school? 
+
+4. Do teachers receive additional professional development specific to the tribal community they 
+teach in? 
+
+5. What is the relationship between the tribal office and schools? 
+
+6 . Is there an educational office within the tribal government structure? 
+
+7. What tribal representation is there on the school board? 
+
+8. Does the tribe request any specific education be offered at the school such as language and 
+cultural history? 
+
+9. Is there anything else you would like to add? 
+
+
+
+(i5 
+
+
+
+LIS 
+
+
+
+12/14/99 
+
+
+
+' Multiage Study 
+
+
+
+3 
+
+
+
+
+U.S. Department of Education 
+
+Office of Educational Research and Improvement (OERI) 
+National Library of Education (NLE) 
+Educational Resources Information Center (ERIC) 
+
+
+
+
+NOTICE 
+
+REPRODUCTION BASTS 
+
+
+
+
+This document is covered by a signed “Reproduction Release 
+(Blanket) form (on file within the ERIC system), encompassing all 
+or classes of documents from its source organization and, therefore, 
+does not require a “Specific Document” Release form. 
+
+
+
+This document is Federally-funded, or carries its own permission to 
+reproduce, or is otherwise in the public domain and, therefore, may 
+be reproduced by ERIC without a signed Reproduction Release form 
+(either “Specific Document” or “Blanket”). 
+
+
+
+
+EFF-089 (9/97) 
+
+
+
+

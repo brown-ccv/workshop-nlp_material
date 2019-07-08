@@ -1,0 +1,3082 @@
+^AoB Plants 
+
+
+
+The open-access 
+journal for plant sciences 
+
+
+
+r 
+
+
+
+Invited Review 
+
+SPECIAL ISSUE: Phragmites australis in North America 
+and Europe 
+
+
+
+Physiological ecology and functional traits of North American 
+native and Eurasian introduced Phragmites australis lineages 
+
+Thomas J. Mozdzer 1 *, Jacques Brisson 2 and Eric L. G. Hazelton 3 ' 4 
+
+1 Biology Department, Bryn Mawr College, Bryn Mawr, PA 19010, USA 
+
+2 Departement de sciences biologiques, Institutde recherche en biologie vegetale, University of Montreal, 4101 East, Sherbrooke Street, 
+Montreal, QC, Canada H1X 2B2 
+
+3 Ecology Center and Department of Watershed Science, Utah State University, Logan, UT 84322, USA 
+
+4 Smithsonian Environmental Research Center, PO Box 28, 647 Contees Wharf Road, Edgewater, MD 21037, USA 
+
+Received: 28 June 2012; Accepted: 8 October 2013; Published: 24 October 2013 
+
+Citation: Mozdzer TJ, Brisson J, Hazelton ELG. 2013. Physiological ecology and functional traits of North American native and Eurasian 
+introduced Phragmites australis lineages. AoB PLANTS 5: plt048; doi:10.1093/aobpla/plt048 
+
+Abstract. Physiological ecology and plant functional traits are often used to explain plant invasion. To gain a better 
+understanding of how traits influence invasion, studies usually compare the invasive plant to a native congener, but 
+there are few conspecific examples in the literature. In North America, the presence of native and introduced genetic 
+lineages of the common reed, Phragmites australis, presents a unique example to evaluate how traits influence plant 
+invasion. We reviewed the literature on functional traits of P. australis lineages in North America, specifically contrasting 
+lineages present on the Atlantic Coast. We focused on differences in physiology between the lineage introduced from 
+Eurasia and the lineage native to North America, specifically seeking to identify the causes underlying the recent expan- 
+sion of the introduced lineage. Our goals were to better understand which traits may confer invasiveness, provide pre- 
+dictions of how these lineages may respond to interspecific competition or imminent global change, and provide 
+guidance for future research. We reviewed published studies and articles in press, and conducted personal communica- 
+tions with appropriate researchers and managers to develop a comparative dataset. We compared the native and intro- 
+duced lineages and focused on plant physiological ecology and functional traits. Under both stressful and favourable 
+conditions, our review showed that introduced P. australis consistently exhibited greater ramet density, height and 
+biomass, higher and more plastic relative growth rate, nitrogen productivity and specific leaf area, higher mass specific 
+nitrogen uptake rates, as well as greater phenotypic plasticity compared with the native lineage. We suggest that eco- 
+physiological and other plant functional traits elucidate potential mechanisms for the introduced lineage's invasiveness 
+under current and predicted global change conditions. However, our review identified a disconnect between field 
+surveys, experiments, natural competition and plant ecophysiology that must be addressed in future field studies. 
+Given the likelihood of hybridization between lineages, a better understanding of plant traits in native, non-native 
+and hybrid lineages is needed to manage current invasions and to predict the outcome of interactions among novel 
+genotypes. Comparative physiology and other plant functional traits may provide additional tools to predict the 
+trajectory of current and potential future invasions. 
+
+
+
+* Corresponding author's e-mail address: tmozdzer@brynmawr.edu 
+
+Published by Oxford University Press on behalf of the Annals of Botany Company. 
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/ 
+licenses/by/3.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original workis properly cited. 
+
+
+
+AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+1 
+
+
+
+Mozdzer et al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+Keywords: Conspecific; global change; invasive; nitrogen; nitrogen productivity; phenotypic plasticity; relative growth 
+rate; specific leaf area; wetland. 
+
+
+
+Introduction 
+
+Plant invasions threaten biodiversity and ecosystem ser- 
+vices worldwide (Vitousek et al. 1997). Numerous studies 
+have investigated plant invasion by comparing non-native 
+species with closely related native congeners, and subse- 
+quently relating plant invasiveness to the differences in 
+plant traits among the species compared (McDowell 
+2002; Deng et al. 2004; Drenovsky et al. 2012; Caplan 
+and Yeakley 2013). A potential issue with this approach 
+is that congeneric comparisons can be confounded by 
+phylogenetic differences (Harvey 1996). Although not 
+always possible, the ideal approach for assessing how 
+strongly plant traits contribute to invasiveness would 
+minimize phylogenetic differences, specifically by using 
+conspecific individuals that are present in the same geo- 
+graphic range. In North America, multiple conspecific 
+lineages of the common reed, Phragmites australis (here- 
+after Phragmites), co-exist (Saltonstall 2002). This pro- 
+vides a unique opportunity to identify the heritable traits 
+and ecophysiological differences that may contribute to 
+invasion success. 
+
+Cosmopolitan in distribution (Haslam 1972), P. australis 
+is one of the most studied wetland plants due in part to its 
+perceived benefits and threats to ecosystem services. In 
+North America, Phragmites is often considered a nuisance 
+species (but see Kiviat 2013) as invasion results in a loss of 
+habitat (Chambers et al. 1999; Weinstein and Balletto 
+1999), reductions in species richness and diversity 
+(Chambers etal. 1999; Bertness etal. 2002) and alterations 
+to biogeochemical cycles (Windham and Lathrop 1999; 
+Meyerson etal. 2000; Windham and Ehrenfeld 2003). Else- 
+where, Phragmites is either managed or preserved for 
+shoreline stabilization (Benner et al. 1982), faunal 
+habitat (Poulin et al. 2002) or building materials (Haslam 
+2010). It is also an important species in wetland-based 
+wastewater treatment systems (Vymazal et al. 2006; 
+Brisson and Chazarenc 2009). 
+
+Phragmites australis consists of dozens of distinct 
+genetic lineages (Saltonstall 2002), seven of which are 
+found in North America (Saltonstall 2002; Meyerson 
+et al. 2012). While the genus Phragmites has a history of 
+gene flow (Lambertini et al. 2012), North American 
+genetic lineages have been geographically separated for 
+millennia. The relatively recent introduction of the 
+Eurasian lineage (haplotype M) most likely occurred in 
+the 19th century (Saltonstall 2002). Historically, the 
+North American native subspecies (P. australis subsp. 
+americanus; hereafter 'native Phragmites') (Saltonstall 
+
+
+
+2002) was considered to be a minor component of both 
+tidal and non-tidal wetlands throughout North America 
+(Marks et al. 1994; Chambers et al. 1999). The cryptic inva- 
+sion of P. australis subsp. australis, or haplotype M (here- 
+after 'introduced Phragmites'), threatens a wide range of 
+habitats across North America, including tidal fresh wet- 
+lands (Rice et al. 2000), brackish wetlands (Windham 
+and Lathrop 1999; McCormick et al. 2010b), salt marshes 
+(Silliman and Bertness 2004), fens (Richburg et al. 2001), 
+roadside ditches (Brisson et al. 2010) and freshwater 
+coastal wetlands (Tulbure et al. 2007; Tulbure and 
+Johnston 2010). Recent work has also identified four add- 
+itional lineages of Phragmites along the North American 
+Gulf Coast, including a hybrid between the Gulf Coast 
+native lineage (P. australis subsp. berlanderii) and the 
+introduced Eurasian lineage (Lambertini et al. 2012). 
+
+The presence of conspecific lineages of Phragmites 
+along the Atlantic Coast of North America provides a 
+unique opportunity to identify the heritable traits that 
+confer success to invasive plants. Past research has 
+demonstrated that multiple introductions of Phalaris 
+arundinacea resulted in increased genetic variation and 
+contributed to invasion in the introduced range (Lavergne 
+and Molofsky 2007). Earlier studies of Phragmites in Europe 
+identified population- and/or clone-specific differences in 
+plant phenotype and physiological traits (Rolletschek et al. 
+1999; Lessmann et al. 2001; Hansen et al. 2007). However, 
+until recently, it was not possible to attribute these differ- 
+ences to a particular genetic lineage. Current molecular 
+tools now provide a framework to assess ecological ques- 
+tions based on evolutionary history, potential speciation 
+due to geographical separation and/or hybridization 
+(Meyerson et al. 2010; Lambertini et al. 2012). In North 
+America, the introduced Eurasian lineage (haplotype M) 
+is generally considered to be invasive and responsible for 
+the increased dominance of Phragmites throughout 
+the North American wetlands. At the same time, native 
+Atlantic Coast lineages are in decline (Saltonstall 2002). 
+Owing to separations in flowering phenology (which limit 
+hybridization) and lack of intermediate morphological 
+forms (Saltonstall 2003, 2011), intraspecific lineages 
+can be used to understand which plant traits may confer 
+invasiveness. 
+
+Physiological plant traits and responses to abiotic condi- 
+tions can influence the spatial distribution of plants from 
+the species to the population level (Chapin and Oechel 
+1983; Reich et al. 1999; Lavergne and Molofsky 2007). 
+When identifying plant traits that may confer invasiveness, 
+
+
+
+2 AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+Mozdzeret al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+spurious interpretations can be avoided by restricting con- 
+trasts to those within genera or species. Previous studies 
+have shown that differences in traits such as maximum 
+photosynthetic rate (A max ) (Lavergne and Molofsky 2007; 
+Mozdzer and Zieman 2010), specific leaf area (SLA) 
+(McDowell 2002; Mozdzer and Zieman 2010) and relative 
+growth rate (RGR) (Vasquez et al. 2005) can greatly in- 
+fluence the ability of a plant to be successful under a 
+variety of environmental conditions. Here we use a litera- 
+ture review to identify key differences in plant ecophysiol- 
+ogy, intraspecific competition and responses to global 
+change factors that distinguish North American native 
+from introduced lineages (haplotype M) of the common 
+reed, P. australis. We also highlight areas of future research 
+necessary to understand interactions in the field with 
+regard to intraspecific and intrageneric competition. 
+
+Methods 
+
+We reviewed the peer-reviewed literature and unpub- 
+lished theses that directly compared native and intro- 
+duced Phragmites lineages, and conducted interviews 
+with individuals involved in Phragmites research and man- 
+agement. We only included studies that focused on native 
+and non-native lineages along the Atlantic Coast, where 
+clear genetic differences between the lineages had been 
+demonstrated (Saltonstall 2011). We excluded work prior 
+to 2002 in our review because the native and introduced 
+lineages were typically not differentiated prior to that 
+date. To take into account potential differences in abiotic 
+environment, experimental set-up and differences in 
+propagule source (seed versus rhizome), we relativized 
+data for each trait by calculating the per cent difference 
+between the two lineages. This was specifically calculated 
+as the mean trait value of the introduced lineage minus 
+the mean trait value of the native lineage, divided by the 
+mean trait value of the native lineage, and multiplied by 
+100. Positive values indicated a greater advantage to the 
+introduced Phragmites and negative values indicated a 
+greater advantage to the native Phragmites. For data 
+obtained from field studies we calculated mean ramet 
+density (ramets rrT 2 ), leaf area per ramet (cm 2 ramet -1 ), 
+ramet height and aboveground biomass (g nrT 2 ). When 
+published data were available, we also calculated mean 
+SLA (cm 2 g~ a ) and mean nitrogen productivity (NP; RGR 
+per unit gram of nitrogen). 
+
+Results 
+
+Comparative morphology 
+
+While ramet densities varied, mass per ramet and mass on 
+a ground area basis were always greater in the introduced 
+lineage. Introduced Phragmites produced from 15 to 
+
+
+
+191 % more biomass under field conditions and from 69 
+to 286 % higher biomass under experimentally controlled 
+conditions (Table 1). There were no instances where the 
+native type produced more biomass than the introduced 
+type. Such differences are due to plants being taller 
+under both field (6-30%) and experimental (14-49 %) 
+conditions (Table 1); i.e. they support a larger photosyn- 
+thetic canopy (36-38 % under field conditions (Table 1) 
+and 14-314 % under experimental conditions (Table 2)). 
+
+Mean ramet densities of the introduced lineage were 
+significantly higher than those of the native lineage 
+(Fig. 1) in both field and experimental settings (Tables 1 
+and 3), although ramet densities were highly variable for 
+both lineages. Even when the densities of the native and 
+introduced Phragmites are similar, ramets of the intro- 
+duced lineage are most often taller (Table 1, Fig. 1). In 
+the field, ramets were 6-10 % taller, and had a 36-38 % 
+greater leaf area per ramet (Table 1). Density was also 
+greater in introduced versus native Phragmites (95- 
+322 %) in growth chamber experiments where carbon 
+dioxide (C0 2 ) and nitrogen (N) were manipulated 
+(Table 3). In addition, introduced plants were 13-20% 
+taller (Table 3) in both field and manipulative experiments. 
+
+Canopy differences 
+
+Phenotypic differences in colour and canopy structure are 
+indicative of physiological differences. Native Phragmites 
+is characteristically yellow-green in colour, whereas the 
+introduced lineage is more blue-green in colour through- 
+out North America (Blossey 2002; Mozdzer and Zieman 
+2010; Swearingen and Saltonstall 2010). In Atlantic 
+Coast populations, the characteristic yellow-green 
+colour of the native lineage was related to it having 
+143 % lower chlorophyll content and 14 % thicker leaves 
+(lower SLA) (Table 1) than the introduced lineage 
+(Mozdzer and Zieman 2010). We report anywhere from 
+12 to 80 % lower light-saturated rates of photosynthesis 
+Wmax) (Table 4) than the introduced population due to 
+lower chlorophyll content and lower SLA (Mozdzer and 
+Zieman 2010) translating into the observed lower RGR 
+(Vasquez et al. 2005; Mozdzer and Megonigal 2012). 
+Given the consistently observed phenotypic differences 
+among North American native populations, it is likely 
+that differences in photosynthetic physiology are similar 
+across North American native populations. 
+
+Investment in both light-harvesting capacity (leaf area 
+ramet -1 ) and fast growth (SLA and RGR) differentiates 
+the two lineages. The introduced lineage had a 14-33 % 
+greater SLA, and this difference in SLA is consistent 
+among populations for plants grown under field experi- 
+mental conditions (Tables 1 and 2). Consistent with 
+theory (Ceulemans 1989; Westoby 1998), increased SLA 
+also corresponds to higher RGRs (10-116 %; Table 2) of 
+
+
+
+AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+3 
+
+
+
+Mozdzer et al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+Table 1. Relative differences in plant trait values between North American Atlantic Coast native and Eurasian introduced Phragmites in field 
+studies. Relative difference was calculated as the mean trait value of the introduced lineage minus the mean trait value of the native lineage, 
+divided by the mean trait value of the native lineage, and multiplied by 100. 
+
+
+
+Variable 
+
+
+Habitat 
+
+
+Site 
+
+
+Relative difference 
+
+
+Citation 
+
+
+Plant density (ramets m~ 2 ) 
+
+
+Brackish 
+
+
+Choptank River, MD 
+
+
+88 
+
+
+Mozdzer and Zieman (2010) 
+
+
+
+
+Brackish 
+
+
+Choptank River, MD 
+
+
+85 
+
+
+Tulbure et al. (2012) 
+
+
+
+
+Brackish 
+
+
+Appoquinimink and St Jones, DE 
+
+
+-23 
+
+
+Meadows (2006) 
+
+
+
+
+Fresh 
+
+
+Lac Saint-Frangois, Canada 
+
+
+-28 
+
+
+J. Brisson et at. (unpubl. data) 
+
+
+Plant height (cm) 
+
+
+Brackish 
+
+
+Choptank River, MD 
+
+
+16 
+
+
+Tulbure et al. (2012) 
+
+
+
+
+Brackish 
+
+
+Appoquinimink River, DE 
+
+
+30 
+
+
+League et al. (2006) 
+
+
+
+
+Brackish 
+
+
+Appoquinimink and St Jones, DE 
+
+
+6 
+
+
+Meadows (2006) 
+
+
+
+
+Fresh 
+
+
+Lac Saint-Frangois, Canada 
+
+
+16 
+
+
+J. Brisson et al. (unpubl. data) 
+
+
+Aboveground biomass (g m~ 2 ) 
+
+
+Brackish 
+
+
+Appoquinimink and St Jones, DE 
+
+
+IS 
+
+
+Meadows (2006) 
+
+
+
+
+Brackish 
+
+
+Choptank River, MD 
+
+
+191 
+
+
+Mozdzer and Zieman (2010) 
+
+
+Leaf area (cm 2 rarnet" 1 ) 
+
+
+Brackish 
+
+
+Choptank River, MD 
+
+
+38 
+
+
+Mozdzer and Zieman (2010) 
+
+
+
+
+Brackish 
+
+
+Appoquinimink and St Jones, DE 
+
+
+36 
+
+
+Meadows (2006) 
+
+
+Leaf N content (%) 
+
+
+Brackish 
+
+
+Choptank River, MD 
+
+
+28 
+
+
+Mozdzer and Zieman (2010) 
+
+
+
+
+Brackish 
+
+
+Rappahanock River, MD 
+
+
+25 
+
+
+Mozdzer and Zieman (2010) 
+
+
+
+
+Brackish 
+
+
+Rappahanock River, MD 
+
+
+16 
+
+
+Packett and Chambers (2006) 
+
+
+
+
+Brackish 
+
+
+Multiple 
+
+
+21 
+
+
+Saltonstall (2007) 
+
+
+
+
+Fresh 
+
+
+Lac Saint-Frangois, Canada 
+
+
+7 
+
+
+J. Brisson et al. (unpubl. data) 
+
+
+Chlorophyll content (mg g _1 leaf) 
+
+
+Brackish 
+
+
+Choptank River, MD 
+
+
+143 
+
+
+Mozdzer and Zieman (2010) 
+
+
+Specific leaf area (cm 2 g -1 ) 
+
+
+Brackish 
+
+
+Rappahanock River, MD 
+
+
+14 
+
+
+Mozdzer and Zieman (2010) 
+
+
+
+the introduced lineage under current and predicted ele- 
+vated C0 2 and N pollution conditions. In addition, on a 
+per ramet basis, introduced Phragmites had anywhere 
+from 36 % to over 300 % greater leaf area than the 
+native type (Tables 1 and 2). While both lineages have 
+high photosynthetic rates (Mozdzer and Zieman 2010), 
+the introduced lineage has anywhere from 12 to 80 % 
+greater rates of photosynthesis per unit leaf area 
+(Table 4). To illustrate the potential ecological significance 
+of these photosynthetic rates on potential plant growth, 
+we used data on mean ramet density, mean size of the 
+photosynthetic canopy and mean photosynthetic rates 
+(Table 1 and Fig. 1) to calculate stand-scale photosyn- 
+thesis rates. Assuming full light penetration to all leaves 
+on an individual plant, we found that the introduced 
+lineage would fix 83 % more C0 2 per ramet per second 
+(Fig. 2) than the native lineage. By taking into account 
+the Phragmites density per unit area, our analysis suggests 
+that introduced Phragmites has the potential to fix 112 % 
+more C on a stand scale than native Phragmites (Fig. 2). 
+These differences are compounded by phenological differ- 
+ences in senescence, as the introduced lineage has the 
+potential to photosynthesize for weeks to months longer 
+
+
+
+than the native lineage (Meyerson et al. 2010; Mozdzer 
+and Zieman 2010). Congruent with greatercarbon fixation 
+potential and higher SLA, the introduced lineage consist- 
+ently exhibited a greater RGR (Table 1) than the native 
+lineage under a range of conditions (Vasquez et al. 2005; 
+Mozdzer and Megonigal 2012). 
+
+Belowground 
+
+Only a few studies have investigated belowground differ- 
+ences between native and introduced Phragmites, yet 
+trait differences associated with belowground allocation 
+have the potential to magnify differences in growth poten- 
+tial. The non-native lineage had a greater ratio of below- 
+ground : aboveground biomass, allocating 46-89 % more 
+biomass belowground both proportionally and in absolute 
+terms under ambient nutrient conditions (Table 2). The 
+belowground : aboveground ratio was not significantly 
+different under N treatment when plants were grown 
+from seed (Table 3), but when grown from rhizomes, the 
+introduced lineage allocated 54-100% more biomass 
+belowground than did the native lineage (Table 3). Of 
+this belowground allocation, Mozdzer and Megonigal 
+(2012) reported that the introduced lineage allocated 
+
+
+
+4 AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+Mozdzeret al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+Table 2. Relative differences between North American Atlantic Coast native and Eurasian introduced Phragmites from manipulative experiments 
+including common garden, transplant and greenhouse studies. Relative difference was calculated as the mean trait value of the introduced 
+lineage minus the mean trait value of the native lineage, divided by the mean trait value of the native lineage, and multiplied by 100. "Total density 
+including expansion tillers from this study was used in this calculation. b Means were not significantly different in the original study. 
+
+
+
+Variable 
+
+
+Propagule source 
+
+
+Site 
+
+
+Relative difference 
+
+
+Citation 
+
+
+Plnnt Hpn^itA/ frnmpr<; pynprimpntnl iinit - 
+
+r IU 1 IL UCI 131 Ly \ 1 <J 1 1 IC Lo CaUCI ll 1 ICI 1 LU I U 1 1 1 L / 
+
+
+Rhi7nmp 
+r\i 1 1 l\j i i ic 
+
+
+MD 
+
+
+224 
+
+
+Mr>7(H7Pr nnrl Mpnnninnl O01 ")\ 
+
+l"IUi.UZ.CI Ullu I'ICUwl I IUUI \LU±Lj 
+
+
+
+
+Seed 
+
+
+MD 
+
+
+121 
+
+
+^nltnn^trill nnrl QtpypnQnn O0f)~7\ 
+
+JU ILUl I O LU 11 KJ I \KJ JLCVCI I Owl I \L\JU 1 f 
+
+
+
+
+Rhizome 
+
+
+AZ 
+
+
+77 
+
+
+Saltonstall and Stevenson (2007) 
+
+
+
+
+rvl 1 \L\j\ 1 Itr 
+
+
+F?T 
+r\l 
+
+
+99 
+
+
+HnlrlrpHnp pf nl 00^0)° 
+nuiuicuyc cl ui. \£.\j±\j) 
+
+
+Tnfril hinmncc (r\ PYnpri mpntnl imil" - 
+IULUI UlUIIIUbb caucI II 1 lei ILUl UIIIL ) 
+
+
+Ph i7nmp 
+r\l 1 1 LU 1 1 Itr 
+
+
+MD 
+
+
+265 
+
+
+\Ar\7r\~7cr nnn Mpnnninnl ("501 ")\ 
+l v l(JZ.UZ.cl UIIU ImcUUI MULU \LU1L} 
+
+
+
+
+Seed 
+
+
+MD 
+
+
+286 
+
+
+^nltnn^tnll nnH ^tpvpn^nn f70D7) 
+
+^ULLVJIIOLUll UI IU JLCVCI I JUl 1 \ t— \J \J 1 j 
+
+
+
+
+Rhi7nmp 
+
+l\ 1 1 1 Z_ KJ 1 1 IC 
+
+
+RI 
+
+
+69 
+
+
+Holdredap pf nl (2010) 
+
+
+Plnnt hpinht (rm\ 
+
+rlUlrLllCIUIIL 1 l_l 1 1 J 
+
+
+Rhi7nmp 
+rvi 1 1 lu i i ic 
+
+
+MD 
+
+
+34 
+
+
+Mn7(H7Pr nnrl Mpnnninnl O01 J\ 
+
+l"IUi.Ui.CI UIIU I V 1CUUIIIUUL \£.\J±£.) 
+
+
+
+
+Seed 
+
+
+MD 
+
+
+49 
+
+
+Saltonstall and Stevenson (2007) 
+
+
+
+
+Rhizome 
+
+
+AZ 
+
+
+
+
+Vasquez et al. (2005) 
+
+
+Belowground : aboveground (~R : S) 
+
+
+Rhizome 
+
+
+MD 
+
+
+89 
+
+
+Mozdzer and Megonigal (2012) 
+
+
+
+
+Seed 
+
+
+MD 
+
+
+46 
+
+
+Saltonstall and Stevenson (2007) 
+
+
+Leaf area (cm 2 ramet -1 ) 
+
+
+Rhizome 
+
+
+Denmark 
+
+
+14 b 
+
+
+Hansen et al (2007) 
+
+
+
+
+Rhizome 
+
+
+MD 
+
+
+314 
+
+
+Mozdzer and Megonigal (2012) 
+
+
+Specific leaf area (cm 2 g -1 ) 
+
+
+Rhizome 
+
+
+VA 
+
+
+33 
+
+
+Mozdzer and Zieman (2010) 
+
+
+
+
+Rhizome 
+
+
+Denmark 
+
+
+15 b 
+
+
+Hansen et al (2007) 
+
+
+
+
+Rhizome 
+
+
+MD 
+
+
+33 
+
+
+Mozdzer and Megonigal (2012) 
+
+
+
+proportionally more biomass to both roots (root mass frac- 
+tion) and rhizomes (rhizome mass fraction) than the 
+native lineage. Thus, higher rates of nutrient acquisition 
+and clonal expansion may come from greater resource al- 
+location belowground to both rhizomes and roots. 
+
+Nutrient uptake, plant N demand and N metabolism 
+
+A study comparing the partitioning of glutamine synthe- 
+tase (GS) activity, a proxy for nitrogen use efficiency 
+(NUE) (see reviews by Oaks 1992; Andrews et al. 2004), 
+demonstrated that the leaf/root partitioning of GS activity 
+of a Phragm/tes-dominated habitat was the highest 
+recorded in a natural system. Although there was no sig- 
+nificant difference between Phragmites lineages, both 
+had among the highest leaf/root GS activity measured in 
+land plants, scoring higher than transgenic plants that 
+were modified to express this trait (Hazelton et al. 2010). 
+The comparably high NUE was reflected in several 
+studies that have shown similar vigour and assimilation 
+of N at low concentrations (Holdredge et al. 2010; 
+Mozdzer et al. 2010; Mozdzer and Megonigal 2012). Both 
+lineages have higher affinities for ammonium when com- 
+pared with dominant tidal wetland plants and both use 
+multiple forms of organic N. Phragmites australis may 
+
+
+
+therefore have access to a pool of nutrients that is not 
+used by competing plants (Mozdzer et al. 2010). While 
+both lineages have high affinities for N, native Phragmites 
+has a higher affinity for NHt , but uptake rates saturate at a 
+lower N concentration (Mozdzer et al. 2010). Thus, under 
+low nutrient conditions, both lineages would be expected 
+to perform equally well (Holdredge et al. 2010; Mozdzer 
+et al. 2010). However, as anthropogenic N loading 
+increases, the advantage clearly shifts to introduced 
+Phragmites (Holdredge et al. 2010; Mozdzer et al. 2010), 
+as demonstrated by the greater vigour relative to the 
+native lineage for all measured traits and metrics (Table 3). 
+
+Mozdzer and Megonigal (2012) found that only the intro- 
+duced lineage, and not the native lineage of Phragmites, 
+can alter its N metabolism to match a variety of N availabil- 
+ity conditions. In particular, under low N availability, the 
+introduced lineage changes plant NP, an integrative 
+term of nutrient use efficiency, dramatically altering N 
+metabolism to match growing conditions. In contrast, 
+the native lineage has a nearly static NP for low-N environ- 
+ments. Data from the Vasquez et al. (2005) study reveal the 
+same pattern (Table 4), with the introduced Phragmites 
+exhibiting a greater NP under ambient and high-salinity 
+conditions. 
+
+
+
+AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+5 
+
+
+
+Mozdzer et al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+A 75 
+
+
+
+
+320 
+
+
+
+200 
+
+
+
+Native 
+
+
+
+Introduced 
+
+
+
+Native 
+
+
+
+Introduced 
+
+
+
+
+D 
+
+
+
+CN 
+
+E 
+
+o 
+
+
+
+2000 
+
+
+
+1800 
+
+
+
+1600 
+
+
+
+■5 1400 
+o 
+
+
+
+1200 
+
+
+
+CD 
+Q. 
+CO 
+CD 
+
+(5 1000 
+
+TO 
+CD 
+
+
+
+800 
+
+
+
+600 
+
+
+
+
+Native Introduced Native Introduced 
+
+Figure 1. Mean values ( + SE) for density (A), biomass (B), culm height (C) and leaf area per culm (D) for P. australis lineages native to the North 
+American Atlantic Coast and introduced from Eurasia. All data come from naturally occurring ecosystems. Mean values and standard errors 
+were calculated from the studies that appear in Table 1. The number of studies summarized in (A) -(D) was n=3, n=3, n=6 and n = 2, 
+respectively. 
+
+
+
+Global change effects 
+
+The most striking differences between the North American 
+native and introduced lineages are when they are experi- 
+mentally exposed to global change factors such as an- 
+thropogenic N pollution, elevated C0 2 or salinity. In 
+particular, introduced Phragmites had a greater physio- 
+logical and morphological plasticity under both stressful 
+and resource-rich conditions, resulting in its designation 
+as a 'Jack-and-master' strategist (Mozdzer and Megonigal 
+2012). Because of this greater plasticity, introduced Phrag- 
+mites had a greater density with added N (85-168 %), sal- 
+inity (873 %) and elevated C0 2 (193-322 %); introduced 
+plants are 13-20 % taller and have 182-201 % greater 
+leaf area per ramet (Table 3). As a consequence of 
+increased density, height and leaf area, the introduced 
+
+
+
+lineage produced anywhere from 151 to 250% more 
+total biomass (aboveground + belowground) (Table 3). 
+Of the biomass produced, the introduced lineage allocated 
+54-100 % proportionally more belowground (Table 3). 
+
+Discussion 
+
+Physiological ecology and invasiveness of the 
+introduced Phragmites 
+
+Our review confirms that introduced and native Phrag- 
+mites lineages differ both physiologically and morpho- 
+logically. Introduced plants are generally taller and occur 
+in greater densities, which results in greater productivity 
+in the introduced lineage in nearly every study. The taller 
+and denser canopies (Meadows 2006; Mozdzer and 
+
+
+
+6 AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+Mozdzeret al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+Table 3. Effects of salinity, N and elevated C0 2 on relative differences between North American Atlantic Coast native and Eurasian introduced 
+Phragmites in manipulative field and greenhouse studies. Relative difference was calculated as the mean trait value of the introduced lineage 
+minus the mean trait value of the native lineage, divided by the mean trait value of the native lineage, and multiplied by 100. "Means were not 
+significantly different in the original study. 
+
+
+
+Variable 
+
+
+Propagule source 
+
+
+Treatment 
+
+
+Site 
+
+
+Relative difference 
+
+
+Citation 
+
+
+Dpn^itv (Vnmpfc; pYnprimpntnl unit - ^ 
+
+L/CI 1 Ol Ly \i U 1 1 ICLJ CAUCI II 1 ICI 1 LUI ul ML J 
+
+
+Rhi7nmp 
+
+1 \l II L.\J 1 1 IC 
+
+
+N 
+
+
+MD 
+
+
+168 
+
+
+Mr>7<H7Pr nnrl Mpnnninnl (7017) 
+
+
+
+
+Seed 
+
+
+N 
+
+
+MD 
+
+
+95 
+
+
+^nltnnc;t'nll nnrl ^tpypn^nn (700~7\ 
+
+JU LLUI 1 O LU 11 U 1 IU JLCVCI IOUI 1 \ ilWU / / 
+
+
+
+
+Rhi7nmp 
+
+1 \l II L\J 1 1 IC 
+
+
+Field 4- N 
+
+1 ICIU 1 N 
+
+
+RI 
+
+
+100° 
+
+
+Holdrpdap pf n/ (2010) 
+
+1 IUIUICUUC CL Uli \Lulu/ 
+
+
+
+
+Rhi7nmp 
+
+1 \l II L.\J 1 1 1 C 
+
+
+^nlinitv 
+
+JUll 1 1 1 L V 
+
+
+AZ 
+
+
+873 
+
+
+Vn^ni IP7 pf n/ DflOS} 
+
+
+
+
+r\l MZ.UI 1 It: 
+
+
+CO-. 
+
+
+MD 
+
+
+322 
+
+
+nnn Monnninn ("501 7) 
+l v IUZ.UZ.t:l UIIU I'lcyUI MLJUl ^Z.Uliiy 
+
+
+
+
+Rhi7nmp 
+
+1 \l 1 1 L\J 1 1 IC 
+
+
+r 0-. 4- N 
+
+
+MD 
+
+
+193 
+
+
+Mn7ri7Pr nnrl Mpnnninnl (7017) 
+
+l v IUZ.ULCI Ul IU I'ICUUI IIUUL \ £-\J -L L- / 
+
+
+Tnfnl hiomn*;^ (n nrn m — ^) 
+
+IULUI UIUI 1 IUjj \U ul UMI J 
+
+
+Rhi7nmp 
+
+1 \l 1 1 L\J 1 1 IC 
+
+
+N 
+
+
+MD 
+
+
+171 
+
+
+Mn7ri7pr nnrl Mpnnninnl (7017) 
+
+l v IUZ.ULCI UIIU I'ICUUI IIUUL \ i- \J ± L- } 
+
+
+
+
+Rhi7nmp 
+
+1 \l 1 1 L.\J 1 1 IC 
+
+
+N 
+
+
+MD 
+
+
+108 
+
+
+^nltnn^fnll nnH ^tp\/pn<;nn (700~1\ 
+
+JULLUI IjLUII UIIU JLCVCI 1 JUI 1 \L-\J\J 1 j 
+
+
+
+
+Rhi7nmp 
+
+W\ \ \L\J\ 1 IC 
+
+
+FiplH 4- N 
+
+1 ICIU | IN 
+
+
+RI 
+
+
+250 
+
+
+\-\n\drpdr\f* pf nl (7010) 
+
+1 IUIUI CUUC CL Ul. \£.\J ±\J ) 
+
+
+
+
+Rhi7nmp 
+
+1 \l 1 1 L\J 1 1 IC 
+
+
+CO-, 
+
+
+MD 
+
+
+171 
+
+
+Mr>7ri7pr nnrl Mpnnninnl f P 01 7) 
+
+I*IU^Ul.CI UIIU I'ICUUI IIUUL \ i— \J ± L. j 
+
+
+
+
+Rhi7nmp 
+
+1 \l 1 1 L\J 1 1 IC 
+
+
+CO, _|_ M 
+
+
+MD 
+
+
+151 
+
+
+Mr>7ri7Pr nnrl Mpnnninnl f P 01 7) 
+
+l v IUZ.ULCI Ul IU r ICUvl IIUUL \t-\J X ) 
+
+
+Plnnt hpinht (rml 
+r iui il i iciui it \L. i i \ j 
+
+
+Rh i7nmp 
+
+\\\ 1 \L\J\ 1 IC 
+
+
+N 
+
+
+MD 
+
+
+20 
+
+
+Mo7iH7Pr nnrl Mpnnninnl (701 7) 
+
+l"IUi.Ui.CI UIIU I'ICUUI IIUUL \£.\J±£.) 
+
+
+
+
+
+
+N 
+
+
+MD 
+
+
+16 
+
+
+^nltnn^fnll nnH ^tp\/pn<;nn (700~7\ 
+
+JU 1 LU 1 1 jLUU Ul IU JLCVCI DUI 1 \ L. UU 1 j 
+
+
+
+
+Rh i7nmp 
+r\i i ic 
+
+
+
+
+MD 
+
+
+20 
+
+
+Mr>7iH7Pr nnrl Mpnnninnl (701 7) 
+
+l v IUZ.U£.CI UIIU I'ICUUI IIUUL \i.UlL/ 
+
+
+
+
+Rhi7nmp 
+
+W\ 1 \L.\J\ 1 IC 
+
+
+CO2 + N 
+
+
+MD 
+
+
+13 
+
+
+Mn7iH7Pr nnrl Mpnnninnl (701 7) 
+
+l"IUi.Ui.CI UIIU I'ICUUI IIUUL \£.\J±£.) 
+
+
+Rplnwnrni inrl ■ nhn\/pnrni inrl [~ R • ^ 
+
+
+Rhi7nmp 
+
+1 \ 1 \ \L.\J\ 1 1 C 
+
+
+N 
+
+
+MD 
+
+
+100 
+
+
+Mn7rl7Pr nnrl Mpnnninnl 7) 
+
+rlUi.Ui.CI Ul IU I'ICUUI IIUUL \L-\J iLj 
+
+
+
+
+Seed 
+
+
+N 
+
+
+MD 
+
+
+0 
+
+
+Saltonstall and Stevenson (2007) 
+
+
+
+
+Rhizome 
+
+
+C0 2 
+
+
+MD 
+
+
+90 
+
+
+Mozdzer and Megonigal (2012) 
+
+
+
+
+Rhizome 
+
+
+C0 2 + N 
+
+
+MD 
+
+
+54 
+
+
+Mozdzer and Megonigal (2012) 
+
+
+Leaf area (cm 2 ramet -1 ) 
+
+
+Rhizome 
+
+
+N 
+
+
+MD 
+
+
+201 
+
+
+Mozdzer and Megonigal (2012) 
+
+
+
+
+Rhizome 
+
+
+C0 2 
+
+
+MD 
+
+
+196 
+
+
+Mozdzer and Megonigal (2012) 
+
+
+
+
+Rhizome 
+
+
+C0 2 + N 
+
+
+MD 
+
+
+182 
+
+
+Mozdzer and Megonigal (2012) 
+
+
+Specific leaf area (cm 2 g -1 ) 
+
+
+Rhizome 
+
+
+N 
+
+
+MD 
+
+
+28 
+
+
+Mozdzer and Megonigal (2012) 
+
+
+
+
+Rhizome 
+
+
+C0 2 
+
+
+MD 
+
+
+13 
+
+
+Mozdzer and Megonigal (2012) 
+
+
+
+
+Rhizome 
+
+
+C0 2 + N 
+
+
+MD 
+
+
+5 
+
+
+Mozdzer and Megonigal (2012) 
+
+
+
+Zieman 2010; Mozdzer and Megonigal 2012) and thick 
+litter layer (Holdredge and Bertness 2011) in stands of 
+the introduced lineage cumulatively result in reduced 
+light availability. The introduced Phragmites may also 
+transmit oxygen to rhizomes and roots more efficiently 
+(Tulbure et al. 2012), a feature that would potentially give 
+it a belowground competitive advantage by ameliorating 
+the anaerobic rhizosphere of saturated soils. As a conse- 
+quence of its greater biomass, introduced Phragmites may 
+be more effective at immobilizing N; thus it may limit the N 
+available to competitors (Meyerson et al. 2000; Windham 
+and Meyerson 2003) or facilitate invasion through competi- 
+tive exclusion (Holdredge and Bertness 2011). 
+
+
+
+The higher ramet density of the introduced lineage, 
+observed in both field and experimental settings, suggests 
+differences in clonal strategies. The introduced lineage ini- 
+tially spreads through guerilla growth, sending out individ- 
+ual stolons. It then transitions to phalanx growth, resulting 
+in the formation of dense patches that exclude other vege- 
+tation (Windham and Lathrop 1999; Amsberry eta/. 2000). 
+In contrast, the native lineage does not always exhibit 
+phalanx growth, as demonstrated by the fact that native 
+Phragmites stands are interspersed with other species 
+(E. L. G. Hazelton and V. Douhovnikoff, pers. comm.). The 
+production of a greater number of tillers by the invasive 
+lineage results in a higher ramet density and biomass 
+
+
+
+AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+7 
+
+
+
+Mozdzer et al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+Table 4. Relative physiological differences between North American Atlantic Coast native and Eurasian introduced Phragmites. Relative difference 
+was calculated as the mean trait value of the introduced lineage minus the mean trait value of the native lineage, divided by the mean trait value of 
+the native lineage, and multiplied by 100. Trait means were not significantly different in the original study. b NP was estimated from published data. 
+
+
+
+Variable 
+
+
+Experiment 
+type 
+
+
+Treatment 
+
+
+Site 
+
+
+Relative 
+difference 
+
+
+Citation 
+
+
+N uptake rate (jj,mol g" 1 h" 1 ) 
+
+
+Lab 
+
+
+NH 4 
+
+
+VA 
+
+
+50 
+
+
+Mozdzer et al. (2010) 
+
+
+
+
+Lab 
+
+
+Urea-N (DON) 
+
+
+VA 
+
+
+0 
+
+
+Mozdzer et al. (2010) 
+
+
+
+
+Lab 
+
+
+Glycine (DON) 
+
+
+VA 
+
+
+30° 
+
+
+Mozdzer et al. (2010) 
+
+
+
+
+Lab 
+
+
+Glutamic acid 
+(DON) 
+
+
+VA 
+
+
+28 a 
+
+
+Mozdzer et al. (2010) 
+
+
+Nitrogen productivity (g gN -1 day" 1 ) 
+
+
+Chamber 
+
+
+Control 
+
+
+MD 
+
+
+118 
+
+
+Mozdzer and Megonigal 
+(2012) 
+
+
+
+
+Chamber 
+
+
+N 
+
+
+MD 
+
+
+26 
+
+
+Mozdzer and Megonigal 
+(2012) 
+
+
+
+
+Chamber 
+
+
+C0 2 
+
+
+MD 
+
+
+81 
+
+
+Mozdzer and Megonigal 
+(2012) 
+
+
+
+
+Chamber 
+
+
+C0 2 + N 
+
+
+MD 
+
+
+111 
+
+
+Mozdzer and Megonigal 
+(2012) 
+
+
+
+
+Garden 
+
+
+Control (0.02 M) 
+
+
+AZ 
+
+
+21 
+
+
+Vasquez et al. (2005) b 
+
+
+
+
+Garden 
+
+
+Salinity (0.17 M) 
+
+
+AZ 
+
+
+34 
+
+
+Vasquez etal. (2005) b 
+
+
+Leaf: root GS activity 
+
+
+Field 
+
+
+None 
+
+
+ME 
+
+
+12 
+
+
+Hazeltonet al. (2010) b 
+
+
+Amax ((JLimol C0 2 m 2 s _1 ) 
+
+
+Field 
+
+
+None 
+
+
+MD 
+
+
+33 
+
+
+Mozdzer et al. (2010) 
+
+
+
+
+Greenhouse 
+
+
+None 
+
+
+VA 
+
+
+80 
+
+
+Mozdzer et al. (2010) 
+
+
+
+
+Garden 
+
+
+None 
+
+
+Denmark 
+
+
+12 b 
+
+
+Hansen et al. (2007) 
+
+
+Relative growth rate (g g -1 day -1 ) 
+
+
+Chamber 
+
+
+Control 
+
+
+MD 
+
+
+116 
+
+
+Mozdzer and Megonigal 
+(2012) 
+
+
+
+
+Chamber 
+
+
+N 
+
+
+MD 
+
+
+30 
+
+
+Mozdzer and Megonigal 
+(2012) 
+
+
+
+
+Chamber 
+
+
+C0 2 
+
+
+MD 
+
+
+57 
+
+
+Mozdzer and Megonigal 
+(2012) 
+
+
+
+
+Chamber 
+
+
+C0 2 + N 
+
+
+MD 
+
+
+36 
+
+
+Mozdzer and Megonigal 
+(2012) 
+
+
+
+
+Garden 
+
+
+Control 
+
+
+AZ 
+
+
+10 
+
+
+Vasquez etal. (2005) 
+(0.02 M) 
+
+
+
+
+Garden 
+
+
+Salinity 
+
+
+AZ 
+
+
+25 
+
+
+Vasquez etal. (2005) 
+(0.13 M) 
+
+
+Ventilation efficiency 
+
+
+Field 
+
+
+None 
+
+
+MD 
+
+
+320 
+
+
+Tulbure et al. (2012) 
+
+
+
+(mL min 1 Pa 1 m 2 ) 
+
+
+
+per unit area, which thereby increases its potential for in- 
+vasion (Holdredge et al. 2010). 
+
+Given the consistent phenotypic differences in North 
+American native populations, we hypothesize that differ- 
+ences in photosynthetic physiology are similar across 
+North American native populations. We base this on the 
+
+
+
+fact that the native population has lower A max rates com- 
+pared with the introduced population, which is due to 
+lower chlorophyll content and lower SLA (Mozdzer and 
+Zieman 2010) translating into a lower RGR (Vasquez 
+et al. 2005; Mozdzer and Megonigal 2012). More common 
+garden and field studies are needed, especially across 
+
+
+
+8 AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+Mozdzeret al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+
+Native Introduced 
+
+
+
+180 
+160 
+
+
+
+_ 140 
+
+cc 7 
+= in 
+
+c r- 
+
+IS 
+
+0 t_ 
+
+1 E 
+
+B CM 
+
+>, O 
+| o 
+
+I i 
+
+
+
+120 
+100 
+80 
+60 
+40 
+
+
+
+20 
+
+
+
+
+
+T 
+
+
+T- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Native Introduced 
+Figure 2. Estimated C0 2 assimilation rate (A) per ramet and (B) per 
+unit ground area of both North American Atlantic Coast native and 
+Eurasian introduced Phragmites. Photosynthetic potentials were esti- 
+mated from the mean trait values that appear in Tables 1 and 4. 
+
+
+
+multiple populations and study sites, to validate this 
+observation with regard to potential differences in 
+chlorophyll content, accessory pigments and SLA. 
+
+Increased light-harvesting capacity (leaf canopy per 
+ramet) and higher growth rates (SLA and RGR) are indica- 
+tive of underlying physiological strategies. In particular, 
+the greater and plastic SLA and higher RGR of introduced 
+Phragmites have been suggested as factors driving its 
+invasion (Mozdzer and Zieman 2010; Mozdzer and 
+Megonigal 2012). Although leaf-level photosynthetic 
+rates respond immediately to local environmental condi- 
+tions (Lessmann et al. 2001), traits such as SLA, which 
+combine physiological and biochemical processes, are 
+slower to respond (Callaghan et al. 1992) and are excellent 
+predictors of potential plant growth (Ceulemans 1989). 
+While the lower SLA of the native lineage should confer 
+
+
+
+some resistance to herbivory, herbivory by invertebrates 
+seems to be greater on native populations (Lambert and 
+Casagrande 2007; Lambert et al. 2007), suggesting that 
+the decreased SLA did not evolve for herbivory defence. 
+Lower SLA could be attributed to an adaptation for 
+slower growth under nutrient-limited conditions, where 
+plants invest more in longer-lived structures. 
+
+The greater resource allocation belowground (to both 
+rhizomes and roots) in the introduced lineage may result 
+in both higher rates of nutrient acquisition and high 
+rates of clonal expansion, contributing to both growth 
+and clonal expansion. Historically, clonal integration and 
+resource sharing were prominent hypotheses used 
+to explain the invasiveness of introduced Phragmites 
+(Amsberry et al. 2000). However, given the recent findings 
+of high within-patch genetic diversity (McCormick et al. 
+2010a, b), and different potential growth strategies 
+between native and introduced Phragmites (E. L. G. 
+Hazelton and V. Douhovnikof, unpubl. data), more re- 
+search is needed to conclusively determine the import- 
+ance of resource sharing, and whether there are 
+differences among native and introduced lineages. Re- 
+source sharing andagreaterabilityto efficiently exchange 
+gases between aboveground and belowground organs 
+(Tulbure etal. 2012) may provide a mechanism to facilitate 
+establishment and expansion in environments such as salt 
+marshes that have pronounced stress gradients and limit 
+plant distributions. 
+
+Our review showed that both Phragmites lineages are 
+adapted to N-limited environments, and that both 
+lineages have a similar high-affinity transport system, 
+which is an adaptation to N limitation (Crawford and 
+Glass 1998). However, the difference in performance 
+under high N indicates that the introduced lineage may 
+be shifting to a more efficient low-affinity transport 
+system than the native lineage. The ability to respond to 
+changing nutrient conditions has been suggested as one 
+of the competitive advantages of the introduced Phrag- 
+mites, while the native lineage becomes N saturated and 
+is not able to exploit eutrophic conditions (Mozdzer et al. 
+2010). Yet, the introduced Phragmites is not at a complete 
+disadvantage in low-N environments, due to its plastic N 
+productivity (Mozdzer and Megonigal 2012). These studies 
+indicate that the vigour of introduced Phragmites will in- 
+crease with anthropogenic nutrient pollution, and provide 
+evidence that the competitive ability of introduced Phrag- 
+mites may be linked to plastic nutrient use strategies 
+under lower nutrient availability. 
+
+Taken together, the physiological and other functional 
+trait advantages of the introduced lineage (greater 
+density, ramet height and biomass, higher RGR and SLA, 
+and high N uptake under high anthropogenic N loading) 
+are major factors driving its invasiveness in North America. 
+
+
+
+AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+9 
+
+
+
+Mozdzer et al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+Competition between native and introduced 
+Phragmites 
+
+The overall superior performance of introduced Phrag- 
+mites suggests that it would outcompete the native Phrag- 
+mites in mixed populations. Indeed, the increase in 
+abundance of introduced Phragmites with the concomi- 
+tant decrease in the native one at the landscape scale is 
+often interpreted as being the result of direct competition 
+(Saltonstall 2002; Lelong et al. 2007). However, processes 
+other than competitive exclusion may result in similar pat- 
+terns. For example, a disturbance causing the removal of 
+native Phragmites may facilitate the establishment of 
+the introduced lineage. In such cases, better dispersal, es- 
+tablishment and expansion of introduced Phragmites, and 
+not direct resource competition, would be responsible for 
+the observed shift in relative abundance at the landscape 
+scale. 
+
+If competitive exclusion occurs, the most direct field evi- 
+dence would come from the contact zone of adjoining 
+native and introduced stands. Competitive outcomes 
+would be revealed by the spatial dynamics at that 
+contact zone over time as one lineage progresses to the 
+detriment of the other. Such studies remain rare, and 
+their results are inconclusive or contradictory. In a study 
+in the Lac Saint-Francois Reserve of southern Quebec, 
+five contact zones of neighbouring stands growing in 
+freshwater wetlands were surveyed for up to 5 years 
+(S. de Blois et al, unpubl. data). The survey did not reveal 
+a clear pattern of progression of the introduced over the 
+native lineages, or that the introduced patches were in- 
+creasing over the course of the survey. Instead, there 
+were variations in progression or regression between 
+sites and between years, with only a slight (and non- 
+significant) net advantage for the introduced lineage. 
+Meadows (2006) surveyed five transects crossing the 
+contact zones in each of two cases of adjoining stands of 
+native and introduced Phragmites in Delaware. During 
+the 2 years of the survey, there appears to have been an in- 
+crease in the relative density of the native lineage over the 
+introduced lineage in the 'mixed' zone of one site and a 
+small decrease in the native lineage at the other site, al- 
+though interannual changes in density for either lineage 
+were not significant. Meadows (2006) also measured the 
+expansion rate of adjoining stands of native and intro- 
+duced Phragmites located in a different Delaware site. 
+Comparing the position of the most distant culm outside 
+the leading edge of the stands positioned the previous 
+year, he found that the introduced stand expanded by 
+1.11 m, while the adjoining native stand contracted or 
+was displaced by 1.59 m. 
+
+Classical garden orgreenhouse competition experiments 
+using seedlings or transplants, with various combinations 
+
+
+
+of mixed and pure populations, represent the most direct 
+approach to evaluate competitive interaction between 
+two plant species (Gibson et al. 1999; Holdredge et al. 
+2010). We found one such study in our review; Holdredge 
+et al. (2010) transplanted native and introduced Phragmites 
+plants to a common field, and manipulated both the iden- 
+tity of competitors and fertilization. Although they found no 
+evidence of suppression of the native lineage after 2 years, 
+their results suggest that, under high-nutrient conditions, 
+the invasive lineage would displace the native lineage 
+over time by producing more biomass and expanding at a 
+faster rate. 
+
+In a mesocosm competition experiment, S. de Blois etal. 
+(unpubl. data) compared the expansion of native or intro- 
+duced Phragmites grown in one half of the mesocosms 
+into the opposite, competitor-occupied half, as well as 
+expansion into mesocosms with unoccupied (control) 
+halves. While the absolute performance of introduced 
+Phragmites in terms of biomass and ramet density was 
+superior to the native one under all circumstances, there 
+was no statistical difference in the overall percentage of 
+decrease in performance caused by the presence of the 
+competitor. For example, expansion into the opposite 
+compartment 1 year after a central panel was removed, 
+as measured by aboveground biomass, was approximately 
+65 % lowerfor both subspecies in competition mesocosms 
+compared with the control. By producing more biomass 
+and a larger number of culms, the results nonetheless 
+suggest that the relative competitive effect of the intro- 
+duced Phragmites on the native one would increase over 
+time. Because a decline in the native lineage has been 
+related to an increase in the introduced lineage, there 
+is still a need for more experimental research on 
+competition between the lineages in order to clarify the 
+conditions that may lead to competitive exclusion. 
+
+Responses to global change factors 
+(anthropogenic N pollution and C0 2 ) 
+
+Our review finds that introduced Phragmites is a 
+'Jack-and-master' of change, which is a similar character- 
+ization to that of a super weed (Baker 1965). In other 
+words, the introduced lineage outperforms the conspecific 
+native lineage under both stressful and resource-rich 
+conditions. Inherently higher RGRs, greater and plastic 
+SLA, and plastic NP are suggested to be the physiological 
+mechanisms unique to the introduced lineage that enhance 
+its invasive ability under current and future conditions 
+(Mozdzer and Megonigal 2012). More research is needed 
+to elucidate the reasons behind the greater plasticity 
+and ecological fitness of introduced Phragmites. 
+Whether its plasticity and fitness are related to a 
+history of multiple introductions (Hauber et al. 2011), 
+
+
+
+AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+Mozdzeret al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+hybridization (Freeland et al. 2010; Meyerson et al. 2010; 
+Lambertini etal. 2012) or evolution of increased competi- 
+tive ability (Blossey and Notzold 1995) is still unclear (but 
+see Guo et al. 2013). This focus area would greatly 
+benefit from an investigation of heritable changes in 
+gene expression via an epigenetic approach (Nicotra 
+et al. 2010). 
+
+Our literature survey suggested that introduced Phrag- 
+mites will continue to expand its range and become 
+more abundant in response to continuing change in the 
+global environment. In particular, anthropogenic N pollu- 
+tion benefits the introduced lineage; it has a stem density 
+that is 181 % higher, produces 85-171 % more biomass 
+and has ramets that are 13-20 % taller under elevated N 
+(Table 3). In addition, N had profound effects on the intro- 
+duced lineage by producing a canopy with 200 % greater 
+photosynthetic area (Table 3). These differences in growth 
+can be attributed to the greater N uptake capacity of the 
+introduced lineage (Mozdzer et al. 2010) coupled to a 
+greater allocation belowground for nutrient acquisition 
+(Tables 2 and 3). Plastic NP (Mozdzer and Megonigal 2012) 
+may be the underlying cause for the disproportionate re- 
+sponse under current and predicted N availabilities. This is 
+congruent with correlations of introduced Phragmites ex- 
+pansion throughout New England (Bertness et al. 2002) 
+and Chesapeake Bay (King et al. 2007; Chambers et al. 
+2008) with anthropogenic N pollution. 
+
+As C 3 plants, both Phragmites lineages should benefit 
+from elevated C0 2 (Ainsworth and Long 2005). In growth 
+chamber experiments (Mozdzer and Megonigal 2012), 
+both lineages responded positively to elevated C0 2 . 
+However, the introduced lineage had the greatest 
+biomass response to C0 2 , which was about 45 % greater 
+than the control treatment. This suggests, but does not 
+demonstrate, that it is likely that elevated C0 2 will also 
+favour the introduced genetic lineage in the field. Else- 
+where, only a handful of studies have investigated C0 2 
+responses in Phragmites. Neither the growth chamber 
+study on Phragmites japonica or Phragmites communis 
+(Kim and Kang 2008) nor field experiments with Phrag- 
+mites within a Sphagnum peatland (Milla et al. 2006) 
+demonstrated any significant effects of elevated C0 2 on 
+Phragmites growth. It is most likely that the elevated C0 2 
+growth response in Kim and Kang's (2008) study was 
+limited by pot volume, which is a well-documented phe- 
+nomenon (Thomas and Strain 1991). A mini-FACE experi- 
+ment in Europe by Milla et al. (2006) concluded that 
+vascular plants in peatlands, including Phragmites, are 
+not very responsive to elevated C0 2 . The lack of C0 2 re- 
+sponse by Phragmites in the mini-FACE study was likely 
+attributable to the C0 2 concentration at the position of 
+the tall Phragmites canopy being close to ambient levels 
+and/or a combination of nutrient limitation and 
+
+
+
+immobilization by the Sphagnum layer (Milla et al. 2006). 
+Alternatively, it is also possible that the introduced Phrag- 
+mites lineages in North America are physiologically differ- 
+ent from those in Eurasia. 
+
+In short-term studies, rising C0 2 and anthropogenic N 
+pollution seem to benefit the introduced lineage with 
+respect to both expansion and establishment. In particu- 
+lar, the introduced lineage outperformed the native 
+lineage for every measurable metric (Table 4); the intro- 
+duced lineage exhibited a more plastic NP and SLA and 
+an inherently higher RGR (Richburg et al. 2001) The intro- 
+duced lineage also exhibits a 'Jack-and-master' pheno- 
+typic and physiological plasticity (sensu Richards et al. 
+2006), suggesting that it had greater ecological fitness 
+under both stressful and resource-rich conditions. These 
+results suggest that the introduced lineage will only 
+become more competitive in the future. 
+
+Conclusions 
+
+Given the high genetic diversity within native and intro- 
+duced Phragmites populations (McCormick et al. 2010a; 
+Saltonstall 2011), the underlying question is what 
+caused the introduced lineage to become so invasive in 
+North America? Our review clearly identifies gaps in our 
+knowledge. Additional studies are needed to determine 
+whether there has been an evolution of increased com- 
+petitive ability (Blossey and Notzold 1995) given potential 
+physiological differences between North American and 
+Eurasian populations. An alternative explanation is that 
+there has been gene flow among North American native 
+and introduced populations that made the introduced 
+lineage more invasive and/or plastic than it is outside of 
+North America. Given the amount of gene flow recently 
+demonstrated in Gulf Coast populations (Saltonstall 
+2011; Lambertini et al. 2012), and the discovery of new 
+genetic lineages (Lambertini et al. 2012), this possibility 
+should be further evaluated. 
+
+Finally, our review shows that direct studies of competi- 
+tive interactions between the native and the introduced 
+Phragmites are few, and that conclusions from the labora- 
+tory and field observations do not always concur. The 
+assumed superiority of introduced Phragmites does not 
+necessarily hold in mixed or adjoining populations under 
+pristine conditions, and inconclusive or even opposing 
+results have occasionally been observed. Certainly, more 
+experiments or surveys of adjoining populations are 
+necessary to examine how physiological and morpho- 
+logical characteristics translate into a competitive advan- 
+tage of the introduced lineage over the native Phragmites 
+when they are naturally co-occurring. Acknowledging the 
+disconnect between laboratory and field observations, we 
+still observe profound differences in response to global 
+
+
+
+AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+Mozdzer et al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+change factors such as C0 2 and N pollution. Thus, our ana- 
+lysis of comparative ecophysiology and functional traits 
+allows us to predict its likely trajectory. Given the differen- 
+tial response of native and introduced Phragmites, we hy- 
+pothesize that the competitive advantage will shift to 
+more strongly favour the introduced lineage, especially 
+when competition is coupled with anthropogenic N pollu- 
+tion and rising C0 2 . 
+
+Sources of Funding 
+
+This manuscript is an outcome of a Phragmites symposium 
+at the 2011 meeting of the Society of Wetland Scientists 
+with travel funding provided by AoB PLANTS to both T.J.M. 
+and E.L.G.H. Funding support for T.J.M. was provided 
+from MD Sea Grant Award SA7528114-WW and NSF 
+DEB-0950080. E.L.G.H. was funded by NOAA NA09NO 
+S4780214, a Smithsonian Predoctoral Fellowship, Utah 
+State University Ecology Center, the Society of Wetland 
+Scientists and Delta Waterfowl. 
+
+Contributions by the Authors 
+
+T.J.M. performed the meta-analysis of the published 
+studies. T.J.M., J.B. and E.L.G.H. contributed to the 
+interpretation and writing of the manuscript. 
+
+Conflicts of Interest Statement 
+
+None declared. 
+
+Acknowledgements 
+
+We thank J. S. Caplan for valuable suggestions that 
+improved the final manuscript. 
+
+Literature Cited 
+
+Ainsworth EA, Long SP. 2005. What have we learned from 15 years of 
+free-air C0 2 enrichment (FACE)? A meta-analytic review of the 
+responses of photosynthesis, canopy. New Phytologist 165: 
+351-371. 
+
+Amsberry L, Baker MA, Ewanchuk PJ, Bertness MD. 2000. Clonal inte- 
+gration and the expansion of Phragmites australis. Ecological 
+Applications 10:1110-1118. 
+
+Andrews M, Lea PJ, Raven JA, Lindsey K. 2004. Can genetic manipula- 
+tion of plant nitrogen assimilation enzymes result in increased 
+crop yield and greater N-use efficiency? An assessment. Annals 
+of Applied Biology 145:25-40. 
+
+Baker HG. 1965. Characteristics and modes of origin of weeds. In: 
+Baker HG, Stebbins GL, eds. The genetics of colonizing species. 
+New York: Academic Press, 147-169. 
+
+Benner CS, Knutson PL, Brochu RA, Hurme AK. 1982. Vegetative 
+erosion control in an oligohaline environment Currituck Sound, 
+North Carolina. Wetlands 2:105-117. 
+
+
+
+Bertness MD, Ewanchuk PJ, Silliman BR. 2002. Anthropogenic modifi- 
+cation of New England salt marsh landscapes. Proceedings of the 
+National Academy of Sciences of the USA 99:1395-1398. 
+
+Blossey B. 2002. Phragmites: common reed. Morphological differ- 
+ences between native and introduced genotypes. http://www. 
+invasiveplants.net/Phragmites/Morphology.htm. 
+
+Blossey B, Notzold R. 1995. Evolution of increased competitive ability 
+in invasive nonindigenous plants — a hypothesis. Journal of 
+Ecology 83:887-889. 
+
+Brisson J, Chazarenc F. 2009. Maximizing pollutant removal in con- 
+structed wetlands: should we pay more attention to macrophyte 
+species selection? Science of the Total Environment 407: 
+3923-3930. 
+
+Brisson J, de Blois S, Lavoie C. 2010. Roadside as invasion pathway for 
+common reed [Phragmites australis). Invasive Plant Science and 
+Management 3:506-514. 
+
+Callaghan TV, Carlsson BA, Jonsdottir IS, Svensson BM, Jonasson S. 
+1992. Clonal plants and environmental change — introduction to 
+the proceedings and summary. Oikos 63:341-347. 
+
+Caplan J, Yeakley JA. 2013. Functional morphology underlies perform- 
+ance differences among invasive and non-invasive ruderal Rubus 
+species. Oecologia 173:363-374. 
+
+Ceulemans R. 1989. Genetic variation in functional and structural prod- 
+uctivity components in Populus. In: Lambers H, Cambridge ML, 
+Konings H, Pons TL, eds. Causes and consequences of variation in 
+growth rate and productivity in higher plants. The Hague: SPB 
+Academic Publishing, 69-85. 
+
+Chambers RM, Meyerson LA, Saltonstall K. 1999. Expansion of Phrag- 
+mites australis into tidal wetlands of North America. Aquatic 
+Botany 64:261 -273. 
+
+Chambers RM, Havens KJ, Killeen S, Berman M. 2008. Common reed 
+Phragmites australis occurrence and adjacent land use along es- 
+tuarine shoreline in Chesapeake Bay. Wetlands 28:1097-1103. 
+
+Chapin FS III, Oechel WC. 1983. Photosynthesis, respiration, and 
+phosphate absorption by Carex aquatilis ecotypes along latitudinal 
+and local environmental gradients. Ecology 64:743-751. 
+
+Crawford NM, Glass ADM. 1998. Molecular and physiological aspects of 
+nitrate uptake in plants. Trends in Plant Science 3:389-395. 
+
+Deng X, Ye WH, Feng HL, Yang QH, Cao HL, Hui KY, Zhang Y. 2004. 
+Gas exchange characteristics of the invasive species Mikania 
+micrantha and its indigenous congener M. cordata (Asteraceae) 
+in South China. Botanical Bulletin ofAcademia Sinica 45:213 - 220. 
+
+Drenovsky RE, Grewell BJ, D'AntonioCM, Funk JL, James JJ, Molinari N, 
+Parker IM, Richards CL. 2012. A functional trait perspective on 
+plant invasion. Annals of Botany 110:141 - 153. 
+
+Freeland JR, Paul J, Vachon N, Garroway CJ. 2010. Molecular data 
+provide strong evidence of natural hybridization between native 
+and introduced lineages of Phragmites australis in North 
+America. Biological Invasions 12:2967-2973. 
+
+Gibson DJ, Connolly J, Hartnett DC, Weidenhamer JD. 1999. Designs 
+for greenhouse studies of interactions between plants. Journal 
+of Ecology 87:1-16. 
+
+Guo W-Y, Lambertini C, Li X-Z, Meyerson LA, Brix H. 2013. Invasion of 
+Old World Phragmites australis in the New World: precipitation 
+and temperature patterns combined with human influences re- 
+design the invasive niche. Global Change Biology 19:3406-3422. 
+
+Hansen DL, Lambertini C, Jampeetong A, Brix H. 2007. Clone-specific 
+differences in Phragmites australis: effects of ploidy level and geo- 
+graphic origin. Aquatic Botany 86:269-279. 
+
+
+
+AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+Mozdzeret al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+Harvey PH. 1996. Phytogenies for ecologists. Journal of Animal Ecology 
+65:255-263. 
+
+Haslam SM. 1972. Phragmites communis Trin. (Arundo phragmites L.,? 
+
+Phragmites australis (Cav.) Trin. ex Steudel) (in biological flora of 
+
+the British Isles). Journal of Ecology 60:585-610. 
+Haslam SM. 2010. A book of reed. Tresaith, UK: Forrest Text. 
+Hauber DP, Saltonstall K, White DA, Hood CS. 2011. Genetic variation in 
+
+the common reed, Phragmites australis, in the Mississippi River 
+
+delta marshes: evidence for multiple introductions. Estuaries 
+
+and Coasts 34:851-862. 
+Hazelton ELG, Knight TJ, Theodose TA. 2010. Glutamine synthetase 
+
+partitioning in native and introduced salt marsh grasses. Marine 
+
+Ecology Progress Series 414:57-64. 
+Holdredge C, Bertness MD. 2011. Litter legacy increases the competi- 
+tive advantage of invasive Phragmites australis in New England 
+
+wetlands. Biological Invasions 13:423-433. 
+Holdredge C, Bertness MD, von Wettberg E, Silliman BR. 2010. Nutrient 
+
+enrichment enhances hidden differences in phenotype to drive a 
+
+cryptic plant invasion. Oikos 119:1776-1784. 
+Kim SY, Kang H. 2008. Effects of elevated C0 2 on below-ground 
+
+processes in temperate marsh microcosms. Hydrobiologia 605: 
+
+123-130. 
+
+King RS, Deluca WV, Whigham DF, Marra PP. 2007. Threshold effects of 
+
+coastal urbanization on Phragmites australis (common reed) 
+
+abundance and foliar nitrogen in Chesapeake Bay. Estuaries and 
+
+Coasts 30:469-481. 
+Kiviat E. 2013. Ecosystem services of Phragmites in North America 
+
+with emphasis on habitat functions. AoB PLANTS 5:plt008; 
+
+doi:10.1093/aobpla/plt008. 
+Lambert AM, Casagrande RA. 2007. Susceptibility of native and 
+
+non-native common reed to the non-native mealy plum aphid 
+
+(Homoptera: aphididae) in North America. Environmental 
+
+Entomology 36:451 -457. 
+Lambert AM, Winiarski K, Casagrande RA. 2007. Distribution and 
+
+impact of exotic gall flies (Lipara sp.) on native and exotic 
+
+Phragmites australis. Aquatic Botany 86:163 - 170. 
+Lambertini C, Mendelssohn IA, Gustafsson MHG, Olesen B, Riis T, 
+
+Sorrell BK, Brix H. 2012. Tracing the origin of Gulf Coast Phragmites 
+
+(Poaceae): a story of long-distance dispersal and hybridization. 
+
+American Journal of Botany 99:538-551. 
+Lavergne S, Molofsky J. 2007. Increased genetic variation and 
+
+evolutionary potential drive the success of an invasive grass. 
+
+Proceedings of the National Academy of Sciences of the USA 104: 
+
+3883-3888. 
+
+League MT, Colbert EP, Seliskar DM, Gallagher JL. 2006. Rhizome 
+growth dynamics of native and exotic haplotypes of Phragmites 
+australis (common reed). Estuaries and Coasts 29:269-276. 
+
+Lelong B, Lavoie C, Jodoin Y, Belzile F. 2007. Expansion pathways of the 
+exotic common reed {Phragmites australis): a historical and 
+genetic analysis. Diversity and Distributions 13:430-437. 
+
+Lessmann JM, Brix H, Bauer V, Clevering OA, Comin FA. 2001. 
+Effect of climatic gradients on the photosynthetic responses of 
+four Phragmites australis populations. Aquatic Botany 69: 
+109-126. 
+
+Marks M, Lapin B, Randall J. 1994. Phragmites australis (P. communis) — 
+threats, management, and monitoring. Natural Areas Journal 14: 
+285-294. 
+
+McCormick MK, Kettenring KM, Baron HM, Whigham DF. 2010a. Extent 
+and reproductive mechanisms of Phragmites australis spread in 
+
+
+
+brackish wetlands in Chesapeake Bay, Maryland (USA). Wetlands 
+30:67-74. 
+
+McCormick MK, Kettenring KM, Baron HM, Whigham DF. 2010b. Spread 
+of \nvas\ve Phragmites australis m estuaries with differing degrees 
+of development: genetic patterns, Allee effects and interpret- 
+ation. Journal of Ecology 98:1369-1378. 
+
+McDowell SCL. 2002. Photosynthetic characteristics of invasive and 
+noninvasive species of Rubus (Rosaceae). American Journal of 
+Botany 89:1431 -1438. 
+
+Meadows RE. 2006. Aboveground competition between native and 
+introduced Phragmites in two tidal marsh basins in Delaware. 
+MS Thesis, Delaware State University, Dover. 
+
+Meyerson LA, Vogt KA, Chambers RM. 2000. Linking the success of 
+Phragmites to the alteration of ecosystem nutrient cycles. In: 
+Weinstein MP, Kreeger DA, eds. Concepts and controversies 
+in tidal marsh ecology. Dordrecht, The Netherlands: Kluwer 
+Academic Publishers, 827-844. 
+
+Meyerson LA, Viola DV, Brown RN. 2010. Hybridization of invasive 
+Phragmites australis with a native subspecies in North America. 
+Biological Invasions 12:103-111. 
+
+Meyerson LA, Lambertini C, McCormick MK, Whigham DF. 2012. Hy- 
+bridization of common reed in North America? The answer is 
+blowing in the wind. AoB PLANTS 2012:pls022; doi:10.1093/ 
+aobpla/pls022. 
+
+Milla R, Cornelissen JHC, van Logtestijn RSP, Toet S, Aerts R. 2006. Vas- 
+cular plant responses to elevated C0 2 in a temperate lowland 
+Sphagnum peatland. Plant Ecology 182:13-24. 
+
+Mozdzer TJ, Megonigal JP. 2012. Jack-and-Master trait responses to 
+elevated C0 2 and N: a comparison of native and introduced Phrag- 
+mites australis. PLOS One 7:e42794. 
+
+Mozdzer TJ, Zieman JC. 2010. Ecophysiological differences between 
+genetic lineages facilitate the invasion of non-native Phragmites 
+australis in North American Atlantic coast wetlands. Journal of 
+Ecology 98:451 -458. 
+
+Mozdzer TJ, Zieman JC, McGlathery KJ. 2010. Nitrogen uptake by 
+native and invasive temperate coastal macrophytes: import- 
+ance of dissolved organic nitrogen. Estuaries and Coasts 33: 
+784-797. 
+
+Nicotra AB, Atkin OK, Bonser SP, Davidson AM, Finnegan EJ, 
+Mathesius U, Poot P, Purugganan MD, Richards CL, Valladares F, 
+van Kleunen M. 2010. Plant phenotypic plasticity in a changing 
+climate. Trends in PlantScience 15:684-692. 
+
+Oaks A. 1992. A reevaluation of nitrogen assimilation in roots. Bio- 
+science 42:103-111. 
+
+Packett CR, Chambers RM. 2006. Distribution and nutrient status of 
+haplotypes of the marsh grass Phragmites australis along the Rap- 
+pahannock river in Virginia. Estuaries and Coasts 29:1222-1225. 
+
+Poulin B, LefebvreG, Mauchamp A. 2002. Habitat requirements of pas- 
+serines and reedbed management in southern France. Biological 
+Conservation 107:315-325. 
+
+Reich PB, Ellsworth DS, Walters MB, Vose JM, Gresham C, Volin JC, 
+Bowman WD. 1999. Generality of leaf trait relationships: a test 
+across six biomes. Ecology 80:1955-1969. 
+
+Rice D, Rooth J, Stevenson JC. 2000. Colonization and expansion of 
+Phragmites australis in upper Chesapeake Bay tidal marshes. Wet- 
+lands 20:280-299. 
+
+Richards CL, Bossdorf 0, Muth NZ, Gurevitch J, Pigliucci M. 2006. Jack of 
+all trades, master of some? On the role of phenotypic plasticity in 
+plant invasions. Ecology Letters 9:981-993. 
+
+
+
+AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+
+Mozdzer et al. — Ecophysiological differences between native and introduced Phragmites 
+
+
+
+Richburg JA, Patterson WA, Lowenstein F. 2001. Effects of road salt 
+and Phragmites australis invasion on the vegetation of a 
+western Massachusetts calcareous lake-basin fen. Wetlands 21: 
+247-255. 
+
+Rolletschek H, Rolletschek A, Kuhl H, Kohl JG. 1999. Clone specific 
+differences in a Phragmites australis stand II. Seasonal develop- 
+ment of morphological and physiological characteristics at the 
+natural site and after transplantation. Aquatic Botany 64: 
+247-260. 
+
+Saltonstall K. 2002. Cryptic invasion by a non-native genotype of 
+the common reed, Phragmites australis, into North America. 
+Proceedings of the National Academy of Sciences of the USA 99: 
+2445-2449. 
+
+Saltonstall K. 2003. Genetic variation among North American popula- 
+tions of Phragmites australis: implications for management. 
+Estuaries 26:444-451. 
+
+Saltonstall K. 2007. Comparison of morphological variation indicative 
+of ploidy level in Phragmites australis (Poaceae) from eastern 
+North America. Rhodora 109:415-429. 
+
+Saltonstall K. 2011. Remnant native Phragmites australis maintains 
+genetic diversity despite multiple threats. Conservation Genetics 
+12:1027-1033. 
+
+Saltonstall K, Stevenson JC. 2007. The effect of nutrients on seedling 
+growth of native and introduced Phragmites australis. Aquatic 
+Botany 86:331 -336. 
+
+Silliman BR, Bertness MD. 2004. Shoreline development drives 
+invasion of Phragmites australis and the loss of plant diversity 
+on New England salt marshes. Conservation Biology 18: 
+1424-1434. 
+
+Swearingen J, Saltonstall K. 2010. Phragmites field guide: 
+distinguishing native and exotic forms of common reed {Phrag- 
+mites australis) in the United States. In: W. G. W. Plant 
+Conservation Alliance, ed. http://www.nps.gov/plants/alien/ 
+pubs/index.htm. 
+
+Thomas RB, Strain BR. 1991. Root restriction as a factor in photosyn- 
+thetic acclimation of cotton seedlings grown in elevated carbon- 
+dioxide. Plant Physiology 96:627-634. 
+
+
+
+Tulbure MG, Johnston CA. 2010. Environmental conditions promoting 
+non-native Phragmites australis expansion in Great Lakes Coastal 
+Wetlands. Wetlands 30:577-587. 
+
+Tulbure MG, Johnston CA, Auger DL. 2007. Rapid invasion of a Great 
+Lakes coastal wetland by non-native Phragmites australis and 
+Typha. Journal of Great Lakes Research 33:269-279. 
+
+Tulbure M, Ghioca DM, Johnston CA, Whigham DF. 2012. Inventory and 
+ventilation efficiency of nonnative and native Phragmites australis 
+(common reed) in tidal wetlands of the Chesapeake Bay. Estuaries 
+& Coasts 35:1353-1359. 
+
+Vasquez EA, Glenn EP, Brown JJ, Guntenspergen GR, Nelson SG. 2005. 
+Salt tolerance underlies the cryptic invasion of North American 
+salt marshes by an introduced haplotype of the common reed 
+Phragmites australis (Poaceae). Marine Ecology Progress Series 
+298:1-8. 
+
+Vitousek PM, DAntonio CM, Loope LL, Rejmanek M, Westbrooks R. 
+1997. Introduced species: a significant component of human- 
+caused global change. New Zealand Journal of Ecology 21:1-16. 
+
+Vymazal J, Greenway M, Tonderski K, Brix H, Mander U. 2006. Con- 
+structed wetlands for wastewater treatment. In: Verhoeven JTA, 
+Beltman B, Bobbink R, Whigham DF, eds. Wetlands and natural 
+resource management. Ecological Studies 190. New York: 
+Springer, 69-96. 
+
+Weinstein MP, Balletto JH. 1999. Does the common reed, Phragmites 
+australis, affect essential fish habitat? Estuaries 22:793-802. 
+
+Westoby M. 1998. A leaf-height-seed (LHS) plant ecology strategy 
+scheme. Plant and Soil 199:213-227. 
+
+Windham L, Ehrenfeld JG. 2003. Net impact of a plant invasion on 
+nitrogen-cycling processes within a brackish tidal marsh. Eco- 
+logical Applications 13:883-896. 
+
+Windham L, Lathrop RG. 1999. Effects of Phragmites australis 
+(common reed) invasion on aboveground biomass and soil prop- 
+erties in brackish tidal marsh of the Mullica River, New Jersey. 
+Estuaries 22:927-935. 
+
+Windham L, Meyerson LA. 2003. Effects of common reed (Phragmites 
+australis) expansions on nitrogen dynamics of tidal marshes of 
+the northeastern US. Estuaries 26:452-464. 
+
+
+
+AoB PLANTS www.aobplants.oxfordjournals.org 
+
+
+
+©The Authors 2013 
+
+
+

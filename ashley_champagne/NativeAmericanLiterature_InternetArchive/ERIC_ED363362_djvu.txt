@@ -1,0 +1,7100 @@
+DOCUMENT RESUME 
+
+
+
+ED 363 362 
+
+
+
+JC 930 485 
+
+
+
+AUTHOR 
+TITLE 
+
+PUB DATE 
+NOTE 
+
+PUB TYPE 
+
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+Chu, Lap Tak 
+
+Who Are the Model Minorities among the Junior College 
+
+Asian-American Subgroups? 
+
+91 
+
+82p. 
+
+Reports - Research/Technical (143) 
+MF01/PC04 Plus Postage. 
+
+^Academic Achievement; *Asian Americans; Chinese 
+Americans; College Outcomes Assessment; Community 
+Colleges; Filipino Americans; Japanese Americans; 
+Korean Americans; ^Minority Groups; Outcomes of 
+Education; Two Year Colleges; *Two Year College 
+Students 
+
+Asian American Students; Los Angeles Community 
+College District CA 
+
+
+
+ABSTRACT 
+
+The purpose of the study reported here was to test 
+the myth that As ian-Amer i can students are a "model minority," who 
+consistently outperform Blacks, Hispanics, American Indians, Alaskan 
+Natives, and other minorities. Using 1989 data on students attending 
+the nine colleges in the Los Angeles Community College District 
+(LACCD) , the study analyzed academic achievement by the following 
+measures: ethnicity, including Chinese-, Japanese-, Korean-, 
+Filipino-, and Vietnamese-American subgroups; marital status; age; 
+gender; residence history; pre-college academic preparation; social 
+class; employment status; scholarships; student aspirations; 
+educational plans; academic involvement; and student major. Study 
+findings included the following: (1) marital status, age, academic 
+involvement, and change in major field of study affected academic 
+achievement across all ethnic groups; (2) the mean grade point 
+average (GPA) for White LACCD students was 1.86, while the 
+Asian-American aggregate was 1.76; (3) Korean- Americans had the 
+highest GPA among all As ian-Amer i can subgroups (2.02), followed by 
+Chinese-Americans (1.83) and Vietnamese-Americans (1.73); (4) 
+native-English speaking Whites and Japanese-Americans had the largest 
+proportion of respondents with GPA's of 2.99 or below; (5) Filipino- 
+and Korean-Americans had the largest percentage of students eligible 
+to enter the University of California or California State University 
+systems after high school graduation, and Japanese-Americans had the 
+least; and lo) the level of acculturation may have an impact t» 
+student performance- A review of the literature on the acade^i. 
+performance of minorities is included. Contains 81 references. 
+(MAB) 
+
+
+
+'? it it it it it it it it it it it it it it it it it it it it it it 
+
+
+
+-it 
+
+ititi 
+
+
+
+Reproductions supplied by EDRS are the best that can be made * 
+from the original document . * 
+
+'t it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it 
+
+
+
+9 
+
+ERIC 
+
+
+
+WHO ARE THE MODEL MINORITIES AMONG THE JUNIOR COLLEGE ASIAN- 
+AMERICAN SUBGROUPS? 
+
+
+
+Submitted 
+by 
+
+
+
+Lap Tak Chu 
+
+
+
+BEST COPY AVAILABLE 
+
+
+
+"PERMISSION TO REPRODUCE THIS 
+MATERIAL HAS BEEN GRANTED BY 
+
+
+
+L.T. Chu 
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC)." 
+
+
+
+2 
+
+
+
+t/rt 
+
+A,. 
+
+
+
+U.S. DEPARTMENT OF EDUCATION 
+
+Office of Eduction* I neeearch and Improvement 
+
+EDUCATIONAL RESOURCES INFORMATION 
+CENTER (ERIC) 
+
+f This document haa been reproduced aa 
+^received from |h* prion or organization 
+or iQ""* ting it 
+3 Minor change* have been mede to improve 
+reproduction quality 
+
+» Pch nt i ol view or opinion* atatad in thia docu- 
+ment do not nacaaaariiy represent otftaei 
+OERi poaitton or pobcy 
+
+
+
+Table of Contents 
+
+
+
+Introduction 1 
+
+Critical Research Questions 2 
+
+Academic Achievement of Minorities: Some Theoretical 
+
+Exp 1 anat i ons . . . 3 
+
+Related Literature on Asian American Academic Achievement . . .7 
+
+Rationale for Independent Variables 20 
+
+Demographic & Background Characteristics 20 
+
+Academic Variables 22 
+
+Control Variables 26 
+
+Research Hypothesis 26 
+
+Analysis 29 
+
+Limitations & Delimitation of the Study 30 
+
+Summary of Ma jor Findings 34 
+
+Implications & Suggestions 64 
+
+Appendix 68 
+
+Footnotes 70 
+
+Bibliography 72 
+
+
+
+Introdu ction 
+
+
+
+Past research studi es and 1 i terature often provide the 
+following reasons for explaining the high and the iow academic 
+performance of minorities. They are: (a) Genetic explanation 
+(b) Cultural Deprivation (c) Cultural Discontinuities (d) 
+"Low- "income and Status" explanation ( e) "Response to Low 
+Status" explanation (f) "Relative Functionalist" explanation 
+and (g) "Pre-College predictors" explanation. Even though 
+some of the explanations above do provide some hints for the 
+understanding of the under achievement or over performance of 
+some minorities as a whole, explanation( s ) for the success of 
+the stereotyped Asian-Americans alone still need(s) further 
+exploration. As a matter of fact, some of these explanations 
+have been refuted or proved invalid and needed reexamination 
+or testified. 
+
+The purpose of this study is to test the myth of the 
+umbrella term "model Asian minority." The main thrust is to 
+show that this term can not be applied to al\ Asian-American 
+ethnic subgroups ( Chinese , Japanese , Koreans , Fi 1 ipinos , 
+Vietnamese or Southeast Asians.) Moreover, this research 
+study also illustrates that certain combination of variables 
+are able to distinguish the high-achievers from the 
+average-achievers and the low-achievers among the Asian 
+aggregate and the Whites. 
+
+
+
+Critical Research Questions 
+
+
+
+(1) Do the demographic, background and academic 
+characteristics rel ated :o academic achievement differ by 
+ethnicity? 
+
+(2) Do the low-, the average- and the high-achievers 
+differ significantly with respect to the demographic, 
+background and academi c characteristics? 
+
+(3) Can all Asian-Americans be covered under one umbrella 
+
+term as "model minority 1 ' if judged purely on an academic 
+
+basis? Who can and who cannot? Is it a myth or a reality? 
+
+(4) What combination of variables (demographic, 
+background and academic characteristics) discriminate against 
+who are the high-achievers, the aver age- achi evers and the 
+1 ow-achi evers? 
+
+(5) Does the set of discriminating variables vary by 
+race: the majority Whites and the minority Asian aggregate? 
+
+There is without a doubt that Asian-Americans as an 
+aggregate seem to stand out as a 11 success f ul " ethnic group 
+when compared to other minorities like Black, Hispanic, 
+American Indian or Alaskan Native. Nonetheless, this myth 
+does not necessarily true for ail Asi an- Ameri can subgroups. 
+
+
+
+Academic Achievement of Minorities: Some Theoretical 
+Explanations 
+
+With regard to the explanations of academic achievement 
+among different minorities in general, there are at least six 
+theoretical explanations. The first explanation deals 
+directly with ,f heredi ty , 11 that is, a certain minority group is 
+innately superior in intelligence than others (Jensen, 1969; 
+Sowell, 1978; Lynn, 1977; Vernon, 1982). The second 
+explanation is related to the "Cultural Deficit" or "Cultural 
+Deprivation' 1 hypothesis, which postulates that poor children 
+perform poorly in school because they are deprived of the 
+stimulation of a home that emphasizes learning and a school 
+curriculum that lack in content and style of learning. (Bloom, 
+Davis, Hess 1965; Coleman, 1966; Goldberg and Tannenbaum, 
+1967; Philips, 1976). The third explanation is concerned with 
+"Cultural Discontinuities" (Ogbu, 1978; Trueba, 1983, 1987, 
+1989:146; Erickson, 1982) which hypothesizes that the major 
+differences in school experience are the difference or 
+discontinuity in the cultural background of individuals and 
+the culture of the school. The differences in academic 
+success are often a repercussion of their "culturally- or 
+psychological 1 y-determined boundaries' 1 and their responses to 
+the oppressive "societal forces." Therefore, the more 
+euphonious the school culture and one's cultural background, 
+the better the performance and the faster the integration into 
+the nost culture. In fact, this hypothesis also alludes the 
+
+3 
+
+
+
+6 
+
+
+
+importance of the cultural value which is prevalent in a group 
+(Godeon, 1964: Sue & Kitano 1973; Yamagata-No ji , 1987; Monzon, 
+1984.) The fourth explanation refers to the "Low Income and 
+Status 11 hypothesis, which assumes that the social position and 
+the economic well-being of an individual or family will affect 
+not only the knowledge and the experience of children but also 
+the way they are treated in the public institutions (Cummins, 
+1986; Cheng, 1987; Clark, 1983; Trueba, 1987a, b; Heath, 
+1983).. This explanation can be conceived as a test of the 
+"cultural Deprivation" hypothesis. They are similar in the 
+sense that both indicate that a person's social position or 
+status within a society determines the availability of public 
+funding. The fifth explanation refers to the "Minorities* 
+Response to Low Status" hypothesis. It refers to the 
+collective responses of the status ascribed to some minorities 
+which rationalize or explain the existing .social order and 
+their subordinate positions under a rigid stratified society. 
+This explanation untangles myths of why some minorities 
+succeed or fail in a capitalist society (Bowles & Ginitis, 
+197 7 ; Giroux, 1983 ; Willis , 1977 ; Ogbu & Matute-Bianchi 
+1986:87 & 93). This Neo-Marxist approach attempts to explain 
+the social inequality and injustice within the society by an 
+unequal distribution of power and authority among groups. 
+Those peopl e who have power or authority would try every 
+measure, such as education, to legitimize and maintain the 
+existing social order. The sixth explanation can be 
+
+4 
+
+
+
+ERLC 
+
+
+
+7 
+
+
+
+comprehended as a combination of some of the explanations 
+above. It is called the "Relative Functionalist" hypothesis 
+which states that unique cultural value can not be considered 
+as the sole factor that contributes to the academic 
+achievement of some minorities, there must be some mediating 
+factors such as the minority's status in the society that 
+makes this finai product (academic failure or success) 
+inevitable. It hypothesizes that the narrower the 
+
+non-educational avenue for social mobility, the greater the 
+dependence of an individual on the educational route for 
+upward mobility which is especially true among Asian-Americans 
+(Sue, Feb. 1990:16 in press,) The last explanation of 
+minority achievement is the "Pre-Col 1 ege Predictors" 
+hypothesis, it proposes that high school achievement and 
+performance are good predictors of college achievement. High 
+school records and pre-ccllege achievement or admission tests 
+are often used for this purpose (Passons, 1967; Goldman & 
+Richards, 1974; Chissom & Lanier, 1975; Aleamoni & others, 
+197 8 ; As tin , 1971 . 198 2 ; Blustein & others , 198 6 ; Doran, 
+1987; Larson & Scontrino; Mcdonald Gawkoski; Weitzman, 1982; 
+Sue & Abe, 1988. ) 
+
+However, many of these achievement explanations above 
+have been proved either deficient or wanting evidence. For 
+example, the "Genetic" explanation has been refuted for 
+lacking empirical evidence (Ogbu, 1978; Roosens , 1987; Sue, 
+1990) and so has the "Cultural Deprivation" (Shultz & 
+
+5 
+
+
+
+ERLC 
+
+
+
+8 
+
+
+
+Zrickson, 1982; Ogbu, 1973) or cultural values hypothesis 
+Hirschman & Wong , 198 6 ; Ogbu & Ma tut e-Bianchi , 1986 ; 
+Steinberg, 1981; Sue, 1990:17.) Furthermore, the "Cultural 
+Discontinuities" hypothesis is criticized for wanting 
+empirical supports (Trueba, 1989:147-148; Erickson, 1984, 
+1986) and so has the "Relative Functional ism" which demands 
+further investigation and testing. The "Pre-College 
+
+Predictors" hypothesis remains controversial (Crouse & 
+Trusheim, 1988; McCornack & Mcleod, 1983; Mccornack, 1983; 
+Nader & Nairn, 1980; Doran, 1987). Since no single 
+explanation above addresses the Asian-Americans experience 
+directly, all related concepts that explain the academic 
+achievement of other minorities might not necessarily fit the 
+Asian-Americans experience. This research study is stimulated 
+by the need to search for a model that specifically explains 
+the Asian-Americans experience. 
+
+
+
+r elated Literature on Asian Amer ic an Academic Achievement 
+
+
+
+Literature that deals direct 1 y with the academic 
+achievement of Asian-Americans and its subcategories are very 
+limited. Some of the representative works and related 
+literature include: Astin, A. (1982); Bagasao (1983); Hsia, 
+(1988); Sue & Zane (1985); Sue, 1988; Toupin and Son (1985); 
+Blustein et als., (1986); Astin & Cross (1979); Pascarella, 
+Duby and others (1981 and 1983); Tracey and Sedlacek (1985); 
+and others . 
+
+In Astin T s book of Minorities in American Higher 
+Education, 1982, his major goal is to provide some vogue and 
+current data concerning the academic progress and 
+representation of the four minority groups (Blacks, Chicanos, 
+Puerto Ricans and American Indians) in the American higher 
+education. He wants to find out what additional factors 
+influence the educational progress of these minority groups? 
+Astin's study directs more on the reasons why these minority 
+groups are under- represent ed in higher education and not on 
+the verification of the success of the Asian-Americans in 
+higher education- The Asian-Americans do not receive much 
+weight in Astin's study. 
+
+In addition to Astin's study, Bagasao's dissertation on 
+Factors Related to Science- Career -Planning Among Asian and 
+Pacific American College-Bound High School Seniors (1983), 
+which displays a profile of the Asian American/Pacific 
+
+7 
+
+
+
+ERLC 
+
+
+
+10 
+
+
+
+Islanders (APA) who head for college. Bagasao reports that no 
+matter the students are American born or foreign born but 
+raised in America or recent immigrants, APA are recurrently 
+science-oriented or quantitatively-oriented students. Her 
+major thrust is to uncover the factors that contribute to the 
+Science-Career-Planning of these college-bound high school 
+seniors. She used the High School and Beyond Study data set, 
+which was conducted by the National Center for Educational 
+Statistics in 1980, to carry out her anal ys is . Bagasao ' s 
+study is interesting in the sense that she tries to compare 
+the APA aggregate and its subgroups with the Whites. 
+Nonetheless, her interest is to identify those characteristics 
+that distinguish between the science-career planner and 
+non-science-career planner. In Bagasao's study, she has 
+difficulties in comparing different Asic.n subgroups because of 
+an insufficient sample size. In conclusion, she discovers 
+that sex and residence history affect the career plans of the 
+APAs , and verbal ability affects the career plans of the 
+Whites . 
+
+In relation to Bagasao's research, Hsia's book, Asian- 
+Americans in Higher Education and Work 1988, presents her 
+readers with more up-to-date information and literature 
+concerning Asian-Americans' performances in higher education 
+and work. Data pertaining to the demographic characteristics, 
+academic aptitude, academic ability, academic performance, 
+undergraduate admissions , col lege aspiration , degree 
+
+3 
+
+ER?C 11 
+
+
+
+attainment, career choice, and so forth, are reviewed in her 
+book. However, this book is not planned to provide a compre- 
+hensive picture of why and what specific groups of 
+Asian-Americans are doing well academically. Nonetheless, it 
+is a very informative reference for students, teachers, school 
+administrators, counselors and the public. The reason is that 
+recent studies, especially "1 arge-scai e national 
+representative" ones , on Asian-Americans achievement , ability/ 
+and aptitude Asian-Americans are inadequate. 
+
+Sue and Zane ' s article on "Acpdemic Achievement and 
+Cocio-emotional Adjustment Among Chinese University Students, 
+1985" reports the academic performance and socio- emotional 
+adaptation of the Chinese university students studying in the 
+University of California, Los Angeles (UCLA). The sample 
+includes 177 enrolled students of different class levels, 
+majors and sex. Three groups of students are compared based 
+on their length of residence in this country and place of 
+birth: American Born (AB), Early Immigrants (EI); and Recent 
+Immigrants (RI). The result shows that Chinese university 
+students' academic performances are above the university 
+average. Nevertheless, RI often use some sort of adaptive 
+strategies to maintain a high college performance. Although 
+Sue and Zane's study include: length of residence, place of 
+birth, majors, study habits, High School Grade Point Average 
+(HSGPA) and SAT scores in their study, the study is confined 
+to UCLA Chinese students and no information on Asian subgroups 
+
+9 
+
+
+
+12 
+
+
+
+are collected. 
+
+Sue & Abe's study on "Predictors of Academic Achievement 
+Among the Asian-American and the White students, 1988" is a 
+collaborative study of the University of California (8 UC 
+campuses) and the College Entrance Examination Board. They 
+attempt to examine the validity of the predictor variables 
+(HSGPA, SAT-V, SAT-M, ECT , MI , Mil) in predicting academic 
+achievement while controlling for gender and academic majors. 
+In their study , 4,113 non- foreign born Asian- American 
+freshmen, who are regrouped into 5 subcategories, are 
+investigated. This study is interested in the predictor 
+variables of academic achievement, such as: English 
+proficiency level, soc o-economic status (3ES), and level of 
+acculturation. Their generalizations, however, are 
+
+circumscribed only to the more prestigious and selective UC 
+students . 
+
+Topin & Son's paper (cited in Hsia, J. , 1988) 
+"Preliminary Findings on Asian-Americans: The Model Minority 
+in a Small Private East Coast College, 1985" compares two 
+matched groups (American born Asian American versus Non-Asian) 
+on academic performance after controlling for several 
+characteristics like class, gender, choice of college, 
+parental education, type of high schools, SAT Scores, and 
+soci o- economic factors . The resul t indicates that even 
+well-off native-' born Asian-Americans use some adaptive 
+strategies in order to maintain an above average academic 
+
+10 
+
+
+
+ERLC 
+
+
+
+13 
+
+
+
+score. Again this case study has limited predictive value. 
+
+David 1. Blustein and others 1 article on ,r Identi f ying 
+Predictors of Academic Performance of Community College 
+Students' 1 identifies two essential predictors (cognitive 
+ability and student expectations) for college GPA. A sample 
+of 50 students is drawn from two independent but randomly 
+selected groups. Nearly equal numbers of students in academic 
+difficulty are included in order to assure heterogeneous of 
+variance in the survey, and a follow-up interview of 30 
+respondents is also made in order to supp 1 ement some back- 
+ground information concerning student performance. Blustein 
+and others also notice that past research studies on retention 
+and academic performance often focus on four-year 
+institutions; seldom do they pay much attention to the 
+two-year institution. They try to include some new predictor 
+variables which are often overlooked by scholars when studying 
+two-year institution. These are: career indecisiveness , 
+learning style, student's attitude toward education, cognitive 
+ability and many others. However, their study does not look 
+into ethnic differences in performance, and factors that 
+discriminate between the high-achievers, the low-achievers, 
+and the average-achievers. 
+
+Pascareila, Duby and others' article "The Pre-enrol Iment 
+Variables and Academic Performance as Predictors of Freshman 
+Year Persistence, Early Withdrawal , And Stopout Behavior in an 
+Urban, Nonresidential University (1981)" does go a little bit 
+
+11 
+
+ERLC 14 
+
+
+
+further. They employ a multiple group discriminant analysis 
+to determine the pre-enrol Iment characteristics - and 
+first-quarter GPA in distinguishing freshmen who belong to 
+persisters, stopout or early withdrawal. The college grade 
+point average (GPA) is used as an intermediate variable in 
+this study and the dependent variable can be a withdrawal, a 
+stopout or a persistent decision. In this study, it discovers 
+that the addition of the college GPA to the pre-enrol lment 
+characteristics helps to distinguish the persisters from early 
+voluntary withdrawals sharply. Before this, the nine 
+pre-enrol lment variables (perceived likelihood of joining a 
+social fraternity, sorority, or club; being Black; perceived 
+likelihood of failing one or more courses; perceived need for 
+academic remedy; perceived likelihood of dropping permanently; 
+perceived likelihood of dropping out temporarily; perceived 
+likelihood of transferring to another college, and age) are 
+able to distinguish the stopouts as a group and the persisters 
+and withdrawal as another group. The important thing in this 
+study is that the perceived likelihood of college outcomes, 
+racial groups and age are good predictors of college 
+persistence. However, do these variables help to predict 
+college achievement (GPA) are worth studying? The paper is 
+more capable of using a more sophisticated research technique 
+(discriminant analysis) to do the analysis. 
+
+Up to this point, one can discover that past researchers 
+are more interested in the traditional academic measures than 
+
+12 
+
+
+
+ERLC 
+
+
+
+15 
+
+
+
+non- traditional indicators to investigate college performance. 
+3ut Tracey and Sedlacek in their paper "The Relationship of 
+Non-cogni ti ve Variabl es to Academi c Success : A Longi tudinal 
+Comparison by Race 11 hypothesizes that the non-cogni tive 
+dimension is more important than the traditional academic 
+measures, such as lack of ability, or poor study habits which 
+predict academic success (Pentages & Creedon, 1978.) They 
+devel op a Scale to cest this Non -Cognitive dimension . This 
+Scale contains seven variables which are considered closely 
+related to academic success". These are: "a) positive 
+self -concept , as related to future expectations b) realistic 
+sel f -appraisal , especially refers to academic abilities c) 
+understanding of and an ability to deal with racism d) 
+preference for 1 ong- term goal s over more immediate, short term 
+needs e) availability of a strong support person f) successful 
+leadership experience in both formal or informal settings and 
+g) demonstrated community service before college enrollment h) 
+academic familiarity, that is, the closeness of a student's 
+extracurricular activities and interests relate to formal 
+academic subjects." The goal of the study is to see how 
+traditional and non-traditional predictors correlate with 
+academic success beyond the first year of college. The Whites 
+and the Blacks are compared for the year 1979 and 1980. The 
+specific semesters for each period are: 1, 3, 6 for 1980 end 
+1, 3, 5, 8 for 1979. Stepwise multiple regression is used. 
+They attempt to extend the predictive validity of the Scale to 
+
+13 
+
+ERiC 
+
+
+
+four years. The two variables that are predictive of grades 
+at every semester are positive seif-concept and realistic 
+sei f -appraisal . Other variables only appear at different 
+points of time. In brief, the study reports that a positive 
+global, self-concept and sel f -appraisal and other 
+non-cognitive variables are likely to affect one's college 
+grade point average (GPA.) 
+
+College persistence and achievement are often used to 
+indicate the academic success of an individual. In Helen S. 
+Astin S Cross's study, "Factors affecting Black Students 1 
+Persistence in College, 1 979, 19 they discover that of the 69 
+potential predictors, 17 independent variables enter the 
+regression equation with a statistically significant weight, 
+the most significant "positive 11 predictors of full-time 
+persisters 1 are: past academic achievements as measured by 
+high school grade point average, SAT Scores, enrolled in the 
+college preparatory curriculum in high school, and attempting 
+to attend a four-year institution. Some of the significant 
+negative predictors are: being employed 21 or more hours per 
+week while attending college, and parental income. In this 
+study, those Blacks who come mainly from low-income families, 
+and who are more likely to get financial aid, will continue to 
+stay in college because this is their only hope. Usually the 
+financial aids that the Whites and the BlacKs received differ 
+'ittle in the two-year college. The Whiles usually get one 
+type of aid (either grants or loans) while the Blacks are more 
+
+
+
+likely to get a "package" combining grant, loan and work study 
+aid. It is found that unless the grant is a large portion of 
+the black student's financial aid package, the effect may be 
+negative to the recipient's persistence in college. In other 
+words, the larger loan does not promise college persistence of 
+low-income minority groups, because they may not feel 
+confident in paying all this money back. In such a case, 
+"they either leave or take up more hours of part-time work 
+which may make their course works harder." Finally, in their 
+study, the type of institution a black student attends also 
+proves important. The black students with approximately the 
+same input characteristics, like academic achievement, 
+freshmen expectations, hours of work while in college are 
+likely to persist full-time in college if they attend 
+predominate! y Whi te ones. Judging from the above findings, it 
+is very interesting to know whether these predictor variables 
+(like paid hours work per week, high school GPA, institution 
+type, high school track, college aspiration, and the rest) 
+influence college GPA when applied to community college 
+students . 
+
+One classic model which relates to student retention and 
+performance is Tinto's retention model. Tinto's conceptual 
+
+scheme (1975, 1985, 1987) on the retention and dropout of 
+
+college students has been tested by many researchers. Unlike 
+Anderson : , Spady, and Rootman, Tint o 1 s attrition proposition 
+has been accepted as a more empirical oriented model. His 
+
+
+
+model can be seen as an extension of Spady and Rootman's 
+model. Tinto f s model takes its root in Smile Durkheim's 
+theory of suicide. As a sociologist, Durkheim contends that 
+when peopl e are sufficiently integrated to the fabric of 
+society, especial 1 y in terms of moral e and affiliation, 
+suicide rate will decrease. Tinto also borrows from the field 
+of economic of education which concerns the cost-benefit 
+analysis of individual decision regarding investment in 
+alternative educational activities. Central to Tinto's model 
+is interaction oetween students and faculties in the formal 
+academic and informal social settings, The frequency and 
+quality of those interactions are important to modify a 
+student's college completion goals and commitment to 
+institutions. If the student-staff relation retrains strong 
+and outweighs alternatives to college, retention will occur. 
+If not, a decision will be made to withdraw. In his article 
+(1985), he also tries to distinguish academic dismissal from 
+voluntary withdrawal from col lege . According to Tinto, a 
+college often contains both the academic system and the social 
+system. A person may be able to integrate in one area but not 
+the other. One can be integrated into the social sphere of 
+the college and still dropout because of an insufficient 
+academic performance , or one may be good in academic 
+performance but f ; -ally dropout because of an inadequate 
+integration into the social life of the institution. The 
+interplay between these two relations is often very 
+
+16 
+
+
+
+intricatsd . In the case of the Asian-Americans, little is 
+known how much the first of the two constructs of Tinto's 
+conceptual scheme influence academic achievement, which forms 
+a smal 1 part of the third construct . Students 1 background 
+characteristics (that is, family background, pre-college 
+schooling, individual attributes ) and initial commitments 
+(that is, commitment to the goal of college graduation and 
+commitment to the institution) art' the first two constructs. 
+Pascarella and Others (1983) have conducted a similar study in 
+a community college setting in order to test Tinto 1 s model, 
+but again it is not an examination of the Asian-Americans, and 
+the non-white sample that they used is very small. 
+
+As mentioned above, Pascarella, Duby and others 1 article 
+M A Test And Reconceptual ization of a Theoretical Model of 
+College Withdrawal in a Commuter Institution Setting (1983)" 
+attempts to test Tinto's model and examining its applicability 
+to Non-residential institutions. The concept of social 
+integration and institutional commitment seem not to work in 
+this urban commuter institution. The basic argument is that 
+commuter students have fewer opportunities to interact with 
+faculties and student peers. Therefore, unlike the traditional 
+residential students, the environmental factors play a minor 
+role in the withdrawal or persistence decision. On the other 
+hand, the pre-enrol iment student characteristics become mere 
+important in affecting the withdrawal decision of a commuter 
+student. This study provides one wi*;h some guidelines of how 
+
+17 
+
+
+
+ERIC 
+
+
+
+^0 
+
+
+
+to predict the college persistence of commuter students. As 
+indicated by Astin (1973), and Chickeriag (1974), students who 
+commute to school or attend a non-residential college usually 
+have very different -input characteristics than students who 
+reside on campus. Chickering concludes that commuting and 
+residential students differ at least on three dimensions: 11 a) 
+commuter students are less dispose to or engage in 
+educationally and intellectually developmental activities or 
+experiences; b) they are less likely to participate in 
+non-compulsory social, cultural and intellectual activities; 
+and are less likely to interact with faculty members and other 
+students; c) and as a result, they are also less likely to be 
+influenced by their college experience as measured in terms of 
+degree aspirations, commitment to long term goals, and 
+perceived competence and ability (Pascarella and others, 
+1983:330.) In fact, this is also interesting to see how these 
+variables such as, degree aspiration and commitment to long 
+term goals change over time among different Asian subgroups 
+who study in a community college setting. 
+
+Pascarella and Chapman in another article, "A 
+Multi-Institutional, Path Analytic Validation of Tinto's 
+Theoretical Model of College Withdrawal/' continue to point 
+out that Tint o 1 s model to a large extent assumes that the 
+col lege envi ronment provides ampl e opportunities for social 
+interaction. This is more likely in a traditional residential 
+institution, but it is with hesitation to say that this also 
+
+IS 
+
+
+
+ERLC 
+
+
+
+21 
+
+
+
+holds in a non-residential setting. As we realise that 
+students who attend community college are often older, full- 
+time worker, more practically-oriented, and have a longer 
+completion period. They have a higher affiliation expectation 
+and an expectation for more major specific programs or 
+curricula, especially for higher-achieving and 
+intel lectually-orienred students (Pas car el la and others , 
+1983:97.) Therefore, these initial differences may have more 
+direct effects on college performance and persistence than the 
+college experier.ee or impact on commuter students and students 
+who att end a non- residential coi 1 age . 
+
+In brief, as for community colleges in California or 
+else where around the nation, they are accepted for their 
+openness, large size, variety of courses, heterogeneous 
+population and less selectivity; they are inclined to attract 
+a population of all ages and of all concerns. Past research 
+studies have focused on either traditional or non-traditional 
+measures in predicting student outcomes. However, many of 
+these findings are tentative and lacking concern for Asian- 
+American experience . 
+
+
+
+Rationale for Independent Variables 
+
+
+
+Demographic and Background Characteristics 
+
+In Tinto's conceptual scheme of attrition, background 
+characteristics are usual ly considered to have secondary 
+effects on college persistence than the social integration and 
+academic integration constructs. Nevertheless, in Pascarella 
+and others 1 findings (1981, 1983), pre-college enrollment 
+characteristics are found to have a more immediate effect on 
+college persistence among "commuting" students. To Tinto 
+(1987), as well as to Pascarella (1983) and Astin (1970a, 
+1970b, 1977, 1982), what students bring with them to college 
+(or the input characteristics) help to facilitate their 
+
+accomplishments in college. In other words, the pre- 
+
+enrollment academic preparation, high school track bearing and 
+personal ability (HSGPA) are often considered to be good 
+predictors of college performance. For instance, Helen S. 
+Astin mentions that enrollment in the college-preparatory 
+track is positively correlated to college performance. 
+Alexander Astin, on the other hand, also reports that input 
+characteristics must be controlled in order to study the 
+college impact on outcome variables. In Sue & Abe's study, 
+HSGPA continues to be the best positive predictor among all 
+predictor variables. 
+
+
+
+20 
+
+
+
+ERLC 
+
+
+
+23 
+
+
+
+Residence history of the student can be used to reflect 
+the level of acculturation in this country and this is 
+frequently measured in terms of the number of years resided in 
+this united nation. Sue ( 1990 ) points out that in the case of 
+Asian-Americans , education is the only sphere which they 
+perceive little limitation in social opportunities, A strong 
+educational background presumably helps them to broaden their 
+non- educational arena, and so they are more willing to put 
+more effort on educational perseverance. Conversely, this 
+idea postulates that the longer the length of acculturation, 
+the lower the reliance on academic achievement. A person will 
+perceive more open opportunities in other non- educational 
+avenues the 1 onger he/she "accul turat e , integrate and 
+assimilate" into this country. The person knows where to 
+proceed and search for opportunities other than the 
+educational one. 
+
+As for socio-economic status , it is often considered to 
+be an important background variable by many sociologists, 
+psychologists and educationists. Lareau (1987) says that the 
+uneven possession of "cultural capital" within each social 
+class creates a difference in school performance. But in 
+Astin's (1973b) study of factors related to college attrition, 
+family income is not a direct cause of attrition. However, in 
+Astin's study on minorities in higher education (1982:94), he 
+shows that parental income and education have significant 
+positive relationships with undergraduate GPA and persistence, 
+
+
+
+21 
+
+
+
+ERLC 
+
+
+
+24 
+
+
+
+especially among Chicanos, Puerto Ricans, and Blacks, The 
+lower the parental income, the lower the minority's 
+persistence in higher education. 
+
+Academic Variables 
+
+Paid Hours Work Per Week : Cross & Astin (1979) believe 
+that working during semester has a "negative" effect on 
+college performance and persistence. The longer the hours one 
+works during the semester, the more likely one is to withdraw. 
+For working prevents one to concentrate cn study. 
+
+Fellowships, Grants, Scholarships Awarded : Astin and 
+Cross (197?) also review that a larger loan does not ensure 
+college persistence for low income minority groups, because 
+they may not feel confident of paying all these money back. 
+In this case, they will prefer to leave or take up more hours 
+of part-tine work which may make their course works even 
+harder. In the case of community college students, I expect 
+that grants or scholarships awarded do help minorities 
+consolidate their studies and complement their school 
+performance . 
+
+Initial Goal Commitment (Student Aspirations): Astin 
+says that minorities' initial goal commitment is imminently 
+related to their actual degree commitment. A students 1 
+initial choice of a major or a career is nothing random. This 
+;.as a long term effect on a student's career development, 
+undergraduate GPA and persistence. Tinto and Pascarella also 
+
+
+
+ERIC 
+
+
+
+25 
+
+
+
+hold si mi 1 ar arguments. However, little is known when it 
+pertains to Asian-Americans who study in community colleges. 
+As mentioned previousl y by Pascarellaet als. (1983), students 
+attending community college are more mature, and program- 
+oriented. Many of them are working mainly full-time. They 
+attend college either for the purpose of picking up some new 
+skills or accumulating credentials for promotion and a better 
+salary. Since over three-quarters of this study sample is 
+aged 2 4 o- over, I expect that older Asian-Ameri cans are not 
+likely aspire for a higher degree. 
+
+Inst_i uti ona 1 z ommi tment : Students who have made up 
+their decisions to stay in a particular college usually 
+persist longer than those who do not. The reason is that they 
+find what they want in this college, and they have positive 
+attitudes toward their choices. This is especially true for 
+students who study in four-year institutions. Nonetheless, 
+when this variable is related to community college students, 
+the situation will be very different. Academically high- 
+achievers would like to move from a two-year college to a more 
+prestigious four-year college. Those who can successfully 
+transfer upward rely heavily on their performances in the two- 
+year college. Therefore, planning to transfer is expected to 
+have a positive correlation with college GPA. In other words, 
+institutional goal commitment is inversely related to college 
+GPA.. A high-achiever is expected -to have a lower 
+
+institutional commitment and a higer chance of transf err* 1 in 
+
+23 
+
+
+
+ERLC 
+
+
+
+26 
+
+
+
+a community college setting. 
+
+
+
+Academic participation : Chi eke ring and As tin have 
+mentioned that students enrolled in a non-residential college 
+are very distinct from traditional residential students. They 
+have less time to interact with the faculty and student peers, 
+and are less likely to be influenced by college experience. 
+For Tinto, the more harmonious the interplay between social 
+and academic integration, the better the persistence rate . 
+This is because he assumes that students have ample 
+opportunities to interact and experience with the college 
+environment. Since college GPA is only part of the academic 
+integration and so it is expected that college GPA and 
+academic participation will be positively correlated. 
+Nevertheless, this relation will be very weak among junior 
+college student. 
+
+Study Habits : Pantages S Creedon (1973) says that one of 
+the obvious factor that affect student 1 s persistence is the 
+poor study habits . Poor study habits not only affect a 
+student's persistence but also a student's school performance. 
+This is measured in terms of ones use of the existing library 
+facilities. Since a large proportion of the junior college 
+students are full-time commuting students, it is reasonable to 
+think that their study habits are very different from 
+traditional college students. Using the library for class 
+assignment and reading are expected to be low among these 
+
+24 
+
+
+
+ERIC 
+
+
+
+27 
+
+
+
+commuting students as a whole. However, there are still much 
+variations among different achievers. Poor study habits 
+usually end up in poor academic results. 
+
+Participation in Extracurricular Activities : Checkering 
+also says (1974) that "commuter students tend not to 
+participate in the various non-classroom social, cultural, and 
+intellectual offering of the university. " It is expected that 
+commuter students or students who attend a non-residential 
+college usually have less time to involve in extra-curricula 
+activities. This rr.ay limit a student's social interaction 
+with nis school environment and consequently affect his 
+educational experience (Pascarella & others 1981, 1983; Tracey 
+& Sedlacek, 1983. ) 
+
+Changing Majors : In addition, Parscarella & Others 
+(1981) also report that changing majors during the academic 
+year is helpful to a student's persistence. A college student 
+may change his major serveral times to fit .his ability, 
+interest, and possibly the market demand. A student is likely 
+to dropout if he fails to realise his potentials in the area 
+he is studying. However, the association between frequencies 
+of changing majors and academic achievement is still vague 
+among junior college students. The "time" factor is too short 
+to allow any significant changes overt. But traditional 
+college student who changes his/her majors more often is 
+likely to have a positive effect on his/her college 
+persistence even though his/her college GPA might not be the 
+
+25 
+
+
+
+ERIC 
+
+
+
+28 
+
+
+
+best . 
+
+
+
+Control Vari abl es 
+
+Control variables used in this study are: ethnic origin, 
+native 1 anguage (first 1 anguage spoke) , semesters in the 
+respective college. The first two variables are controlled to 
+identify different Asian-American subgroups: Chinese, 
+Japanese, Koreans, Filipinos and Vietnamese-Americans. The 
+number of semesters m the college is restricted to two 
+semesters or more. This will allow the respondent to 
+accumulate a diverse grade point average for evaluation. With 
+the rationale provided by each of the predictor variable 
+above, the research hypothesis can be formula -d as follows: 
+
+Research Hypothesis 
+
+a) Ethnicity 
+
+There will be a significant difference in college 
+achievement within different Non-Native English speaking Asian 
+subgroups as well as between the Whites and the Asian 
+aggregate. This also holds when controlling for sex. 
+
+b) Level of acculturation (residence history) 
+
+Among different Non-Native English speaking -Asian 
+subgroups, the longer the length of residence in this country, 
+the lower the academic score. In other words, high-achieving 
+Asians (that is, Aisan- Americans with a high college CPA) tend 
+
+
+
+ERIC 
+
+
+
+26 
+
+29 
+
+
+
+to be in this country for a shorter period of time. 
+
+c ) Pre-college academi c preparation 
+
+Pre-college academic preparation (pre-college education 
+1 evel , high school GPA , el igibl e to enter UC or CSU) is 
+positively related to college achievement among Asian- 
+Americans. In other words, high-achievers are more likely to 
+have a relatively distinguished high school GPA , pre-college 
+education level and be more eligible to enter UC or CSU upon 
+graduation from high school . 
+
+Also among Asian-Americans, those who attended the 
+college preparatory track in their high school program are 
+likely to have a higher college GPA than those who attended 
+the occupation-vocational track. 
+
+d) Social class status (Parental education, and income) 
+
+Among Asian-Americans, parental education and household 
+income have significant positive effects on college 
+achievement. Asian-Americans with high academic score usually 
+have well-educated parents and high household incomes. 
+
+e) paid hours worked per week 
+
+Among Asian-Americans, paid hours worked per week and 
+academic achievement are negatively correlated. Hence, high- 
+achievers tend to work fewer hours per week. 
+
+f) Scholarships, grants awarded 
+
+Among Asian-Americans, the more the scholarships, loans 
+or grants are awarded, the higher the college GPA score. Low- 
+achievers tend to receive fewer grants, scholarships. 
+
+27 
+
+
+
+ERLC 
+
+
+
+30 
+
+
+
+g) student aspiration (initial goal commitment ) 
+
+Among Asian-Americans, initial degree objective (such as 
+Master degree or higher ) and coll ege GPA are positive 
+cor rel ated . 
+
+h) Institutional commitment (that is, planning to transfer) 
+
+Among Asian-Americans, high-achievers tend to transfer to 
+other colleges, and have a low institutional commitment. 
+Hence, institutional commitment and college GPA are negatively 
+correlated . 
+
+i) Academic involvement, study habits and extracurricular 
+activities" 
+
+Among Asian-Americans, the academic involvement, study 
+habits and extracurricular activities college achievement are 
+positively correlated with college performance, 
+j) Changing Majors 
+
+Among Asian-Americans, changing major is more frequent 
+among high-achievers than other achievers. 
+
+All of the above research hypothes es also hoi d between 
+the Native and Non-Native English speaking Whites and the 
+Asian aggregate. 
+
+
+
+9 
+
+ERLC 
+
+
+
+28 
+
+
+
+31 
+
+
+
+Analysis 
+
+Simple univariate analysis tables will be run for each of 
+the variables mentioned above, followed by a series of 
+cross-tabulation tables between the dependent variables and 
+independent variables (refer to Appendix.) The Chi-Square 
+test, T Test, Test for Tau b, One-Way and Two-Way ANOVA are 
+used to select signi f icant variables for final analysis . In 
+order to save space, cross- tabul ati on tables or test for 
+significance tables will not be shown. Consequently, a 
+multiple discriminant analysis is used in order to distinguish 
+what combination of variables can best discriminate the 
+high-achievers, the average-achievers and the low-achievers. 
+
+All discriminating variabl es , which correlate with 
+college G?A and show statistically significant in the tests 
+(X'- test, Test for Tau b, Two-Way Anova) are included in the 
+final analysis. The multiple discriminant analysis can set up 
+patterns for each group (that is, low, average, and high) on 
+each variable and the inter-correlations of the variables. If 
+the patterns are clearly distinct, the set of variables can 
+discriminate between' the groups. 
+
+A similar analysis is conducted for the Whites. The 
+purpose is to find out whether the set of discriminators in 
+predicting the high-, the average-, and the low-achievers are 
+different across race. In the stepwise procedures, Wilks's 
+lambda" is employed as a criterion for selecting 
+
+23 
+
+
+
+ERLC 
+
+
+
+32 
+
+
+
+discriminating variables. 
+
+The final step is to include ethnicity (the five Asian 
+ethnic subgroups ) as an added predictor variabl e onto the 
+whole student sample who are classified as either the US 
+citizens or permanent residents and have been in the 
+respective college for two or more semesters. The purpose is 
+to examine whether ethnic status is able to discriminate among 
+the groups as well. 
+
+Limitations and Delimitations of the Study 
+
+This study relies on two sets of questionnaire designed 
+by the LACCD Educational Service center to do a secondary data 
+analysis. Therefore, it has two major limitations: (a) the 
+items use in the analysis can only be seen as an approximation 
+of some concepts being tested. For example, the measuring of 
+study habits by the use of library facilities might not be 
+good indicators, the number of hours used in studying may be 
+a more appropriate indicator and (b) the number of students 
+for certain subgroup, like Japanese Americans, is too small 
+for valid interpretations and generalizations. 
+
+This first limitation restricts this study to examine the 
+effects of other variables (like cognitive abilities, 
+sel f -concept , proficiency in Engl ish 1 anguage ) on academic 
+achievement . 
+
+With respect to the second limitations, the reader should 
+
+30 
+
+ERiC 33 
+
+
+
+be careful when making generalisation about the nine community 
+college students under study, especially to those community 
+colleges where there are uneven distribution of Asian ethnic 
+subgroups (Tab! e 1 . ) 
+
+
+
+
+31 
+
+
+
+34 
+
+
+
+Table 1. SELECTED POPULATION CHARACTERISTICS 3Y COLLEGE 
+SERVICE AREA , 1988 (TOTAL POPULATION=4 , 712 , 462 ) 
+
+
+
+College Ethnicity Age- 
+Service 
+
+
+
+Area 
+
+
+Asian 
+
+
+White 
+
+
+Others 
+
+
+T ft ft A 
+
+18-24 
+
+
+ft C C A 
+
+25-54 
+
+
+
+
+% 
+
+
+% 
+
+
+% 
+
+
+% 
+
+
+% 
+
+
+City 
+
+
+13 . 6 
+
+
+44.0 
+
+
+39. 9 
+
+
+52 ,488 
+
+
+293 ,163 
+
+
+East 
+
+
+8 . 2 
+
+
+20 .0 
+
+
+71.0 
+
+
+88,499 
+
+
+321,350 
+
+
+Harbour 
+
+
+9.9 
+
+
+50 .8 
+
+
+38 . 2 
+
+
+36,432 
+
+
+159,552 
+
+
+Mission 
+
+
+4.1 
+
+
+55.7 
+
+
+39 . 3 
+
+
+34,762 
+
+
+144,417 
+
+
+Pi erce 
+
+
+4.2 
+
+
+83.1 
+
+
+11.7 
+
+
+42 ,103 
+
+
+195,468 
+
+
+Southwest 
+
+
+5.9 
+
+
+7.8 
+
+
+85.7 
+
+
+41,736 
+
+
+144,201 
+
+
+Trade-Tec 
+
+
+8.3 
+
+
+8.1 
+
+
+82 . 6 
+
+
+56,386 
+
+
+211,889 
+
+
+Val ley 
+
+
+4 . 3 
+
+
+7 2.3 
+
+
+22 . 2 
+
+
+42 ,202 
+
+
+221 ,274 
+
+
+West 
+
+
+5.5 
+
+
+56.7 
+
+
+35 . 4 
+
+
+55,384 
+
+
+282 ,283 
+
+
+Whole 
+
+
+
+
+
+
+
+
+
+
+
+
+District 
+
+
+7 . 6 
+
+
+43.3 
+
+
+47 . 9 
+
+
+449,992 
+
+
+1973,597 
+
+
+
+Source: Annual Information Digest, LACCD 1989. 
+
+; Others, include Blacks and Hispanics. 
+
+- Age, 54 and over are not listed in this table. 
+
+
+
+32 
+
+35 
+
+
+
+In order to make up these deficiencies, a series of 
+f ol low -up "snowbal 1 " like interviews is conducted by the 
+researcher. He intends to collect more related information to 
+interpret and verify the data he has analyzed. Meanwhile, 
+other predictor variables which are not included in the 
+student survey form, can also be explored. 
+
+The delimitations of this study are that it includes both 
+f ul 1 -time and part-time community college students. The 
+student must enroll in one of the nine community colleges for 
+at least two semesters and he/she must be either a U.S citizen 
+or a permanent resident (Green Card holder.) 
+
+
+
+
+33 
+
+
+
+36 
+
+
+
+Summary of Major Findings 
+
+Do factors related to academic achievement differ by 
+ethnicity? 
+
+In brief, we can say that factors related to academic 
+achievement do vary by ethnicity. Relatively speaking, there 
+are things that are common across ethnicity but there are also 
+things that vary across subgroups. The common things are: 
+marital status of respondents, age, participation in 
+extra-curricular activities and changing majors. The things 
+that vary are: academic preparation, precollege education, 
+high school program, socioeconomic status, resident history, 
+paid hours worked, academic involvement, and study habits. 
+
+Recent immigrants often earn less than those who have 
+been in this country for a longer period of time. At least a 
+quarter of the students among each Asian subset is married. 
+The native-English speaking Whites and the Japanese-Americans 
+have the largest proportion of respondents who have a 2.99 or 
+lower high school GPA. Many of the respondents have attended 
+a high school before or just attained a high school diploma. 
+The "general" high school track is the average preference for 
+all groups ypt the college preparatory track is also common 
+among the native-English speaking Whites, Filipino- and 
+Korean-Americans. The Filipino- and Korean-Americans have the 
+largest percentage cf those who are eligible to enter UC 
+: University of Cai if ornia system, 3 campuses ) or CSU 
+'California State University, 2 n campuses) after high school 
+
+34 
+
+
+
+37 
+
+
+
+graduation, the Japanese-Americans, on the other hand, have 
+the least. 
+
+Basically, rr.any students are in their early twenti es in 
+this sample. Except for the Japanese-Americans, over 
+three-fifth of other Asian ethnic subgroups are aiming at 
+getting a baccalaureate or higher degree. Three out of five 
+of these students in each As ian subset have attended the 
+respective college for two to four semesters. The 
+Vietnamese-, the Korean- and the Chinese-Americans represent 
+the three largest subgroups which have the shortest resident 
+record of less than ten years while the Japanese-Americans are 
+more evenly distributed in all attributes of this variable. 
+Around half of the students in each Asian subset works more 
+than 20 hours per week. In fact, working full- or part-time 
+is a common practice among ail commuting students. By far, 
+the Vietnamese- and the Chinese-Americans receive the greatest 
+support from the grants, scholarships or fellowships. Over 
+two-third of the students are planning to transfer to a two- 
+or four-year public or private institution. In general, all 
+Asian ethnic subgroups used the library for study and class 
+assignment r?.ors frequent than the native-English speaking 
+Whites. Regardless of racial aifference, around three 
+quarters of the students never participated in any athletic 
+program. The native-English speaking Whites and Filipinos are 
+more involved in class discussion than other Asian ethnic 
+subgroups. Reading ether assigned materials are also common 
+
+
+
+35 
+
+38 
+
+
+
+among the native-English speaking Whites than other Asian 
+ethnic subgroups. A fifth of the Chinese- and 
+
+Japanese-Americans never talk to their instructors in the 
+whole semester. Except for the Japanese-Americans, over 
+three-quarters of the students never participate in the 
+Music-Theater Programs. Again, regardless of racial 
+differences, a quarter of the student has changed their majors 
+once or more times. Bearing with all these major differences 
+in mind, we can see how these Asian-American subgroups vary 
+when running the final discriminant analysis. 
+
+Do All Asian ethnic subgroups perform equally well 
+academically? Who Do and Who do not? Does this academically 
+differences also vary by race? 
+
+One way to validate the umbrella term "All Asian-Americans 
+
+are model minority" is to compare the mean college GPA 
+
+distribution of among each Asian ethnic subgroup and examine 
+
+how they deviate from the grand mean. 
+
+In table 2, with a scale of three levels, that is, a 
+
+range of one to three or ranking from low to high, the 
+
+Korean-Americans has the highest college GPA among all 
+
+Asian-American subgroups (2.02) followed by the Chinese- and 
+
+Vietnamese-Americans. If the grand mean is used as a cutting 
+
+point between the low- and the high-achievers, those who are 
+
+cl ose to the grand mean (1.809) are the average- achievers 
+
+while those above or below the grand mean are the high- and 
+
+the low-achievers respectively. In this case, the 
+
+Korean-Americans ran be classified as the high-achievers, the 
+
+36 
+
+3D 
+
+
+
+Chinese-Americans as the average-achievers, and the 
+Vietnamese- and ?i 1 ipmo- Americans as the 1 or -achievers . In 
+table 2, the F ratio is significant at p<.001 level indicating 
+that the chances of getting a sample from a population of 
+equal group means is only one out of a thousand. Therefore, 
+it is likely that the sample is coming from a population with 
+different group means. In the second half of table 2, the 
+difference between the Asian aggregate and the Whites were 
+also significant at p<.001 level (t=-3.40). The mean college 
+GPA for the Whites (1.3534) was only slightly higher than the 
+Asian aggregate (1.7598). Hence, it is hard to tell whether 
+the college GPA of the Whites are higher than the Asian 
+aggregate. However, when it is compared to the grand mean 
+(1.3297), the Whites are just above the grand mean and the 
+Asians slightly below it. In fact, there are much variation 
+within the Asian-American subgroups as indicated above. 
+Therefore, to consider the Asian aggregate as one homogeneous 
+group can easily mask the result. 
+
+
+
+37 
+
+
+
+ERiC 40 
+
+
+
+Table 2. Differences in Mean College GPA among Five 
+Asian-American Subgroups and between the Asian Aggregate 
+
+
+
+and the White with a Scale of 3 levels. 
+
+Standard 
+
+Asian Subgroups Mean Deviation Cases 
+
+
+
+Chinese 1, 838 2 0 .78 47 27 2 
+
+Japanese 1.6765 0.7270 34 
+
+Koreans 2.0236 0.8014 127 
+
+Filipino 1. 67 66 0 .7220 167 
+
+Vietnamese 1.7381 0.7713 12 6 
+
+Grand Mean 1.8085 0.7758 726 
+
+
+
+F(4,721) = 4.3305 p< .001 
+
+Eta = 0.1532 
+
+Eta Square = 0.0235 
+
+
+
+Race 
+
+
+
+Asian Aggre. 1.7598 0.7672 1016 
+
+White 1.8584 0.7808 2472 
+
+Grand Mean 1.8297 0.7780 3488 
+
+t-test (3486) = -3.40 p<.001 
+
+
+
+If college GPA is a used as the only indicator of 
+academic achievement then we can tell from table 2 that not 
+all Asian-Americans are alike. They are significantly 
+differed not only within group (five Asian-American subgroups) 
+but also across group (the Whites versus the Asian aggregate.) 
+Some of the Asian subgroups can be identified as the 
+high-achievers while others the average- and the low- 
+achievers . 
+
+
+
+38 
+
+41 
+
+
+
+What are the demographic, background and academic 
+characteristics that distinguish the high-, the average-, and 
+the low-achievers? Do these factors differ significantly 
+among the three achieving groups? And do they vary by race? 
+
+In general, we can say that the demographic, background 
+and academic characteristics among the three achieving groups 
+differ. Some of these differences also reach the significance 
+level of 0.05, 0.01, and 0.001 but these factors seem to vary 
+little across race. 
+
+Among the Asian aggregate, the low-achievers are 
+predominate 1 y sing; e rr.al e , with high parental e ducat i on but 
+low total personal household income and have been in this 
+country for a longer period of time. Their precollege academic 
+preparation are less equipped than other achievers. They 
+aspire to an AA or a baccalaureate degree and change majors 
+more frequent than other achievers. Average-achievers are 
+largely single or married female. High-achievers, on the 
+other hand, are either married or single female, with fewer of 
+them reported that English as their first language. Their 
+parents' education level are low but the personal household 
+incomes reported are high. They have been in this country for 
+a shorter period of time, usually less than 10 years. Their 
+precollege academic preparation are also more prepared than 
+other counterparts . They have relatively distinguished high 
+school GPA, and have a higher eligibility to enter the UC and 
+CSU system. They are more likely to enrol 1 in the coll ege 
+preparatory track. They aspire to a baccalaureate or a higher 
+
+39 
+
+
+
+42 
+
+
+
+degree and are less likely to change majors. 
+
+Among the Whites, the low-achievers also tend to be 
+single male, with high parental education but low total 
+household income . They are less prepared academical 1 y , and 
+aspire to a baccalaureate or 1 ower degree. Changing majors 
+are more frequent among the low-achievers. Similar to the 
+Asian aggregate, the average-achievers are likely to be single 
+female. High-achievers are either single or married female, 
+with low parental education but high personal household 
+incomes. Similar to the Asian counterparts, they are also 
+more prepared before college, aspire to a baccalaureate or 
+higher degree and less likely to change their majors. Other 
+characteristics like: scholarships or grants awarded, 
+institutional commitment, paid hours worked per week do not 
+seem to vary much across the three achieving groups for the 
+Whites . 
+
+Basical 1 y , the differences in select ed characteristics 
+among the three achieving groups look very similar between the 
+Asian Aggregate and the Whites, except that the residence 
+history in the United States among the Asian-Americans are 
+much shorter. However, the difference between the Whites and 
+the Asian Aggregate become more distinct when the set of 
+variables are considered simultaneously as indicated earlier 
+in the discriminant analysis. 
+
+There is without a doubt that inferential statistics 
+depicts information on how individual variabl e differs 
+
+40 
+
+
+
+ERLC 
+
+
+
+43 
+
+
+
+significantly between groups as well as among groups. But it 
+is more interesting to analyze the variables together than one 
+at a time. It is possible that variable which is significant 
+in a bivariate analysis might become ins igni fi cant when 
+treated as part of a set of measures. Discriminant Analysis 
+is one of the multivariate techniques uses to detect these 
+dif f erences . 
+
+What sets of variables discriminate who are high-, average- 
+and low-achievers? Does the set of discriminating variables 
+vary by race? 
+
+Results: Asian Aggregate & Whites (include both Native and 
+Non-Native English Speakers) 
+
+As indicated in table 3, the number of native-English and 
+
+non-native-English speaking Asians are 139 and 906 cases 
+
+respectively. Together they add up to 1,045 cases for 
+
+analysis. Basically, those variables which show significant 
+
+differences in the respective tests : a Two-Way Anova or 
+
+t-test , Tau B test , and Chi -square test , wi 1 1 be used to 
+
+discriminate among groups. But Tatsuoka reminds that "high 
+
+statistical significance does not necessarily imply a large 
+
+magnitude of difference or strong association especially when 
+
+the sample size is large (Tatsuoka, 1970:48)." Variable 
+
+which is significant in a univariate or bivariate analysis 
+
+does not insinuate that it is also significant in a 
+
+multivariate analysis. Discriminant analysis abets to gauge 
+
+
+
+
+T h e m e a n 
+
+
+
+standard deviation 
+
+
+
+ERIC 
+
+
+
+44 
+
+
+
+and univariate F ratio of each discriminating variable for 
+individual subgroups and for both Asian aggregate and the 
+Whites are shown in Table 4, 5 and 6. These provide some 
+ideas of how these variables differ across groups in the 
+calibration sample. 
+
+TABLE 3. SEX 3Y RACE 3Y ENGLISH LANGUAGE FOR THE SAMPLE 
+POPULATION OF THE L.A.C.C.D. 
+
+
+
+Non-English Speaking 
+Asian White 
+461 145 
+445 146 
+
+
+
+Total 133 2230 906 291 
+
+
+
+English Speaking 
+
+Asian White 
+
+Female 6 5 12 IS 
+
+Male 74 1012 
+
+
+
+
+42 
+
+
+
+45 
+
+
+
+The Asian Aggregate 
+
+Table 4 indicates how groups differ on individual 
+characteristics for the Asian Aggregate. You can see that the 
+mean age of the high-achievers is higher than the average and 
+the low-achievers and so is their high school grade point 
+average, precollege education level, paid hours worked during 
+the semester, scholarship received and academic involvement. 
+However, a reverse direction occurs when you examine the 
+variables of parental education, household income, time in the 
+United States and frequency cf changing majors. It indicates 
+that high-achievers usually have a lower annual household 
+income, a shorter residence history in this country, parents 
+with lower education level and less frequent of changing 
+majors. The dummy coded variables: sex, marital status, 
+planning to transfer to other college, high school track and 
+degree aspiration carry little information by looking at the 
+mean. (refer to table 5) 
+
+The stepwise discriminant analysis in table 7 shows the 
+relative cont ributi on of the variabl es to the discriminant 
+function I or II. Of the 21 variables used in the analysis 
+only nine variables enter the equation and of the two possible 
+discriminant functions only function 1 is significant at 
+p<.001 level. The canonical Rc : for function I (rc = 0.5082) 
+indicates a moderate positive relations between the set of 
+dummy variables which define the group membership and the 
+discriminant f ur.cz i cn . But the canonical Rc for function 1 1 
+
+43 
+
+
+
+ERIC 
+
+
+
+46 
+
+
+
+is weak (rc = 0.2} and insignificant. The Eigenvalue for 
+Pucntion II and Wilk's Lambda after Function I, which indicate 
+that the three groups had the same mean are not rejected. 
+Hence, function II can be ignored. Since Function II is not 
+likely to contribute much of the theoretical and practical 
+importance , we focus on Function I for expl ana t ion (Kleck 
+1984:17.) The first function is defined largely by a 
+distinguished high school GPA, being older female, awarded 
+with scholarships or grants, low parental education and 
+aspiring for a degree ether than AA or BA (i.e. MA.) The 
+average scores cr group centroids are "the mean discriminant 
+score for each group. 1 ' 7 Here, the low-achievers have an 
+average of -0.5893, the average-achievers have an average 
+score of 0.2063 and the high-achievers have an average score 
+of 0.9545. It indicates that function I separates the high- 
+achievers from the average- and the low-achievers more clearly 
+than the average- versus the low- or the average- versus the 
+high-achievers. The separation of groups between the average- 
+and the high- is a little bit blurred in this case. The 
+average-achievers are closer to the high-achievers than to the 
+low-achievers. When examining the results of the 
+
+classification analysis in table 7. The overall percentage of 
+rorrect classification based on the demographic, background 
+and academic equation is 57.06% for the calibration sample. 
+When the discriminant coefficient for function I, II are used 
+to classify cases to the raw data of the validation sample. 
+
+44 
+
+
+
+ERIC 
+
+
+
+47 
+
+
+
+The overall correct classification of cases is 47.17%, a drop 
+of 9.89%. Since the prior probabilities of each group are set 
+at it's own group size ( . 44/ . 37/ . 19 ) for both calibration and 
+validation samples. It is found that the correct 
+
+classification for average-achievers is no better than chance 
+and is under-represented in the validation sample. Therefore, 
+it indicates that the discriminant model which is used to 
+classify cases into the average group is less efficient. 
+Perhaps, a pairwise comparison of the three groups (low versus 
+average, average versus high, low versus high) might help to 
+clarify these differences. 
+
+
+
+45 
+
+
+
+9 
+
+ERLC 
+
+
+
+48 
+
+
+
+TABLE 4. MEANS , STANDARD DEVIATIONS, AND UNIVARIATE F 
+RATIO FOR ALL INDEPENDENT VARIABLES IN THE CALIBRATION SAMPLE 
+(ASIAN AGGREGATE ONLY) 
+
+
+
+Univariate 
+Variabl e 
+
+
+
+Low_ 
+Achievers 
+N = 102 ) 
+
+
+
+M 
+
+
+
+SD 
+
+
+
+Average_ 
+Achievers 
+( N = 36 ) 
+
+M SD 
+
+
+
+High_ 
+Achievers 
+( N = 45 ) 
+
+
+
+M 
+
+
+
+SD 
+
+
+
+F 
+
+ratio 
+
+
+
+(DEMOGRAPHIC VARIABLES) 
+
+
+
+Female 0.38 
+
+
+0 . 
+
+
+49 
+
+
+U . 
+
+
+3 o 
+
+
+u . 
+
+
+o u 
+
+
+u . DU 
+
+
+U . JU 
+
+
+K 
+>J 
+
+
+
+
+Single 0.87 
+
+
+0 . 
+
+
+33 
+
+
+U . 
+
+
+1 U 
+
+
+u . 
+
+
+
+
+-u . ou 
+
+
+ft ^ 
+
+
+7 
+
+
+ft A** 
+
+
+Married 0.12 
+
+
+0 
+
+
+32 
+
+
+0 
+
+
+. 1 9 
+
+
+0 
+
+
+.39 
+
+
+0 .31 
+
+
+A A H 
+
+U . 4 / 
+
+
+
+
+4.1^* 
+
+
+Age 23.16 
+
+
+6. 
+
+
+02 
+
+
+26 . 
+
+
+A A 
+
+4 Z 
+
+
+Q 
+
+o . 
+
+
+31 
+
+
+28 . 58 
+
+
+7.71 . 
+
+
+1 ft 
+
+
+.08** 
+
+
+(BACKGROUND VARIABLES) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 . 65@ 
+
+
+IGC(Cer) 0.06 
+
+
+0 
+
+
+.24 
+
+
+0 
+
+
+.07 
+
+
+0 
+
+
+.26 
+
+
+0 . 11 
+
+
+0 . 32 
+
+
+
+
+IGC(AA) 0.13 
+
+
+0 
+
+
+. 33 
+
+
+0 
+
+
+
+
+A 
+
+
+. 3 1 
+
+
+0.04 
+
+
+0 . 21 
+
+
+
+
+1 . 14(5 
+
+
+IGC(BA) 0.55 
+
+
+A 
+J 
+
+
+
+
+0 
+
+
+. 45 
+
+
+0 
+
+
+. 50 
+
+
+0 . 42 
+
+
+0 . 50 
+
+
+
+
+1.47Q 
+
+
+Transfer 0.88 
+
+
+0 
+
+
+. 32 
+
+
+0 
+
+
+.85 
+
+
+0 
+
+
+.36 
+
+
+0 . 69 
+
+
+0 . 47 
+
+
+
+
+4.50* 
+
+
+HS GPA# 2.96 
+
+
+A 
+
+
+A A 
+
+
+
+
+1 5 
+
+
+0 . 
+
+
+A 1 
+1 — 
+
+
+2 .39 
+
+
+0.36 
+
+
+18 
+
+
+. 43** 
+
+
+Pre Col 3.33 
+
+
+0 
+
+
+. 92 
+
+
+3 
+
+
+.59 
+
+
+0 
+
+
+. 94 
+
+
+3.82 
+
+
+1.07 
+
+
+
+
+4.51* 
+
+
+Col prep 0.25 
+
+
+0 
+
+
+. 44 
+
+
+0 
+
+
+.24 
+
+
+0 
+
+
+. 43 
+
+
+0 . 33 
+
+
+0 . 48 
+
+
+
+
+0 . 67@ 
+
+
+Occu Voc 0.13 
+
+
+0 
+
+
+.33 
+
+
+0 
+
+
+. 07 
+
+
+0 
+
+
+.26 
+
+
+0 .07 
+
+
+0 . 25 
+
+
+
+
+1.12@ 
+
+
+Eligible 0.42 
+
+
+0 
+
+
+. 50 
+
+
+0 
+
+
+. 42 
+
+
+0 
+
+
+. 50 
+
+
+0 . 47 
+
+
+0 . 50 
+
+
+
+
+0.15$ 
+
+
+Time US 2.58 
+
+
+
+
+. 14 
+
+
+2 
+
+
+. 40 
+
+
+1 
+
+
+.30 
+
+
+2 . 42 
+
+
+1 . 44 
+
+
+
+
+0 .53@ 
+
+
+Par Edu 4.11 
+
+
+1 
+
+
+.79 
+
+
+4 
+
+
+. 13 
+
+
+1 
+
+
+.79 
+
+
+3 . 49 
+
+
+1. 67 
+
+
+
+
+2 .29@ 
+
+
+Household Income 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23216.71 
+
+
+
+
+19744 
+
+
+. 69 
+
+
+
+
+17733 . 33 
+
+
+
+
+
+
+
+
+
+
+18747 
+
+
+. 38 
+
+
+
+
+
+
+1810 
+
+
+.24 
+
+
+14285 .08 
+
+
+
+
+1.716 
+
+
+Scholarship 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.65@ 
+
+
+354.35 
+
+
+782 
+
+
+.32 
+
+
+477 
+
+
+. 8 
+
+
+1038 
+
+
+. 63 
+
+
+506.03 
+
+
+848 .82 
+
+
+
+
+
+(ACADEMIC VARIABLES) 
+
+Hrswork 19.97 15.24 21.36 
+
+Aca Par 2.29 0.64 2.53 
+
+Stu Hab 2.81 1 .00 2.83 
+
+Cha Maj 1.53 0.71 1.45 
+
+
+
+L6 . 27 
+0.73 
+1.08 
+0 . 59 
+
+
+
+22 . 69 
+2 . 58 
+2 . 71 
+1.27 
+
+
+
+15.59 
+
+0 . 80 
+
+1 . 10 
+0.58 
+
+
+
+0 . 63@ 
+
+1 .486 
+0 . 21@ 
+
+2 .706 
+
+
+
+High school GPA ' 3 ' = 3 . 50_4 . 00 
+new students with no GPAs are 
+
+
+
+'2'=3.00_3.49 'l'=2 . 99_2.00 
+omitted from this analysis. 
+
+
+
+0.0! 
+
+
+
+eve] 
+
+
+
+6 not significant at 
+* p< . 05 
+** p<.0001 
+
+IGC = Initial Goal Commitment 
+
+
+
+46 
+
+4D 
+
+
+
+The Whites 
+
+When examining the simple descriptive statistics of the 
+White subsample (table 5) I discovered that the age cohort 
+among the high- achievers are much older (at 1 east 8 year 
+difference) than the low-achievers and the average-achievers 
+(at least 4 years older.) The high school GPA, precollege 
+education level , scholarship received, and academic 
+involvement also indicate lower among the low-achievers but 
+higher between the average- and the high-achievers. The 
+relation, however, is reversed when you examine the parental 
+education, paid hours worked, household income, study habits 
+and frequencies of changing majors, have parents with more 
+years of education., higher household income, working more 
+hours and strangely enough, more frequent use of library for 
+study and course assignments. The variable Time in the United 
+States were quite inconsistent across groups but the trend 
+seemed to indicate that high achieving students tend to have 
+a longer resident history. However, the contrast between the 
+low- versus the average- or the low- versus the high- 
+achievers are more cl ear-cut . 
+
+
+
+47 
+
+50 
+
+
+
+TABLE 5. MEANS, STANDARD DEVIATIONS, AND UNIVARIATE AND 
+MULTIVARIATE F RATIO FOR ALL INDEPENDENT VARIABLES IN THE 
+CALIBRATION SAMPLE (WHITES ONLY) 
+
+
+
+Low_ Average^ High_ 
+
+Achievers Achievers Achievers 
+
+
+
+( 
+
+
+N = 
+
+
+217 ) 
+
+
+( 
+
+
+N 
+
+
+= 197 ) 
+
+
+( N = 
+
+
+132 ) 
+
+
+
+
+Univariate 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+F 
+
+
+Variable M 
+
+
+
+
+SD 
+
+
+M 
+
+
+
+
+SD 
+
+
+M 
+
+
+SD 
+
+
+ratio 
+
+
+(DEMOGRAPHIC VARIABLES) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Female 0.43 
+
+
+0 . 
+
+
+50 
+
+
+0 . 
+
+
+50 
+
+
+0 . 50 
+
+
+0 . 64 
+
+
+0 . 48 
+
+
+7 . 24** 
+
+
+Single 0.81 
+
+
+0 . 
+
+
+40 
+
+
+0 . 
+
+
+64 
+
+
+0 . 48 
+
+
+0 . 40 
+
+
+0.49 
+
+
+32 . 94** 
+
+
+Married 0.12 
+
+
+0 . 
+
+
+33 
+
+
+0 . 
+
+
+24 
+
+
+0. 43 
+
+
+0 . 43 
+
+
+0 . 50 
+
+
+23 . 70** 
+
+
+Age 24.18 
+
+
+7 . 
+
+
+96 
+
+
+27 . 
+
+
+92 
+
+
+9. 90 
+
+
+32 .36 
+
+
+10 . 12 
+
+
+32 . 44** 
+
+
+(BACKGROUND VARIABLES) 
+
+
+
+
+
+
+
+
+
+
+
+
+2 . 73@ 
+
+
+IGC(Cer) 0.04 
+
+
+0 
+
+
+. 19 
+
+
+0 
+
+
+.07 
+
+
+0.26 
+
+
+0 . 10 
+
+
+0 . 30 
+
+
+IGC(AA) 0.06 
+
+
+0 
+
+
+.24 
+
+
+0 
+
+
+.07 
+
+
+0 .26 
+
+
+0.14 
+
+
+0 . 35 
+
+
+4.14* 
+
+
+IGC(BA) 0.51 
+
+
+0 
+
+
+. 50 
+
+
+0 
+
+
+.44 
+
+
+0 . 50 
+
+
+0 . 41 
+
+
+0 . 49 
+
+
+2 . 07@ 
+
+
+Transfer 0.84 
+
+
+0 . 
+
+
+39 
+
+
+0 . 
+
+
+77 
+
+
+0 . 42 
+
+
+0 .70 
+
+
+0 .46 
+
+
+4.94** 
+
+
+HS GPA# 2.89 
+
+
+0 . 
+
+
+40 
+
+
+2 . 
+
+
+99 
+
+
+0 . 43 
+
+
+3.11 
+
+
+0 .53 
+
+
+9 . 84** 
+
+
+Pre Col 3.35 
+
+
+0 . 
+
+
+74 
+
+
+3. 
+
+
+73 
+
+
+0 . 97 
+
+
+3 . 99 
+
+
+1.01 
+
+
+22 . 38** 
+
+
+Col prep 0.32 
+
+
+0 . 
+
+
+47 
+
+
+0 . 
+
+
+35 
+
+
+0 . 48 
+
+
+0 . 51 
+
+
+0 . 50 
+
+
+6 . 58** 
+
+
+Occu Voc 0.07 
+
+
+0 
+
+
+. 25 
+
+
+0 
+
+
+. 11 
+
+
+0.32 
+
+
+0 .07 
+
+
+0 . 25 
+
+
+1 . 50@ 
+
+
+Eligible 0.37 
+
+
+0 
+
+
+. 48 
+
+
+0 
+
+
+.36 
+
+
+0 . 48 
+
+
+0 . 33 
+
+
+0 . 47 
+
+
+0 . 22@ 
+
+
+Time US 4.89 
+
+
+1 
+
+
+. 39 
+
+
+5 
+
+
+.23 
+
+
+1.17 
+
+
+5 .17 
+
+
+1.24 
+
+
+4 .08* 
+
+
+Par Edu 4.55 
+
+
+1 
+
+
+. 47 
+
+
+4 
+
+
+. 40 
+
+
+1 . 54 
+
+
+4.29 
+
+
+1.57 
+
+
+1 . 34<§ 
+
+
+Household Income 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34535 .56 
+
+
+
+
+32345 
+
+
+. 68 
+
+
+31864 .14 
+
+
+
+
+
+
+19792 
+
+
+. 91 
+
+
+
+
+19463.01 
+
+
+20799. 58 
+
+
+0 . 99@ 
+
+
+Scholarship 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 .78@ 
+
+
+76.77 
+
+
+458 
+
+
+. 46 
+
+
+121 
+
+
+.30 
+
+
+417 .56 
+
+
+131 .16 
+
+
+479.01 
+
+
+(ACADEMIC VARIABLES) 
+
+
+
+
+
+
+
+
+
+
+
+
+0 . 37@ 
+
+
+Hrswork 24.54 
+
+
+14 
+
+
+. 38 
+
+
+24 
+
+
+.07 
+
+
+14 . 88 
+
+
+23 . 12 
+
+
+16 . 12 
+
+
+Aca Par 2 . 67 
+
+
+0 
+
+
+71 
+
+
+2 . 
+
+
+86 
+
+
+0.78 
+
+
+2 . 88 
+
+
+0 . 62 
+
+
+5 .02** 
+
+
+Stu Hab 2.51 
+
+
+1 
+
+
+. 10 
+
+
+2 
+
+
+.36 
+
+
+1.13 
+
+
+2 . 28 
+
+
+1.19 
+
+
+1.860 
+
+
+Cha Maj 1.59 
+
+
+0 
+
+
+. 69 
+
+
+1 
+
+
+.51 
+
+
+0 . 69 
+
+
+1 .40 
+
+
+0 . 62 
+
+
+3.07* 
+
+
+
+# High school GPA ' 3 ' =3 . 50_4 . 00 ' 2 ' = 3 . 00_3 . 49 ' 1 ' = 2 . 99_2 . 00 
+new students with no GPAs are omitted from this analysis. 
+
+@ not significant 
+
+* p< . 05 
+
+** p<.0001 
+
+
+
+48 
+
+
+
+9 
+
+ERJC 
+
+
+
+51 
+
+
+
+In table 1 , of the two possible functions, only function 
+I is significant at p<.001, the Eigenvalue (0.2746) and the 
+canonical r for function I (0.4641 ) all indicate that the 
+ability of the discriminant function to distinguish among the 
+groups. The canonical r for function is weak (r=0.1549) and 
+the insignificance of the Wilk's lambda implies that further 
+analysis using function II is of less substantive meaning. 
+The variables which have the largest contribution on Function 
+I are: having a good precollege education background, good 
+high school GPA, enrolled in college preparatory track, more 
+involved in academic participation, being married and more 
+mature. Among the Whites, of the 13 variables in the 
+discriminant equation, at least half of them (that is, with a 
+loading of 0.24 or over) are found in the equation that 
+discriminated the three achieving groups. The proportion of 
+variance explained by the discriminant function I is 22%. The 
+average score for the low-achiever in function I is -0.5525, 
+the average-achiever is 0.0819 and the high-achiever is 
+0.7860. Again, group 2 (average) is closer to group 3 (high) 
+than group 1 (low). The distinction between average- versus 
+high-achievers is not really that clear-cut when looking at 
+the distribution of scatt er-pl ot . Hence, a pairwise 
+comparison of the groups is necessary. 
+
+In summary , an equation based on the 13 variabl es 
+significantly discriminate the three groups of achievers and 
+correctly identified 51.00% of an independent validation 
+
+49 
+
+ERiC 52 
+
+
+
+sample. The overall percentage of correct classification in 
+the validation sample is a significant improvement by chance 
+(that is, .40/ .36/. 24 at p<.0001.) 
+
+
+
+
+50 
+
+
+
+53 
+
+
+
+Separate Pairwise Comparison for Different Groups Between the 
+Asian Aggregate and the Whites 
+
+As recalled from previous analysis of the three achieving 
+groups among the Asian aggregate and the Whites, not a very 
+clear picture or a separation of the three groups is made by 
+the set of discriminating variables especially between the 
+average- versus high-achievers among the Whites and the Asian 
+Aggregate. A pairwise comparison of the groups is used in 
+order to find out which set of variables distinguished the 
+low- versus the average, the average- versus the high-, and 
+the low- versus the high-achievers. In order to save space, 
+I try to summarize the result in Table 7. Interested readers 
+can review the information given in this table themselves. 
+With those variables that entered the equation, the researcher 
+considered a loading of 0.25 or above is worth discussing. 
+
+
+
+9 
+
+ERLC 
+
+
+
+51 
+
+
+
+54 
+
+
+
+Table 7. DEMOGRAPHIC, BACKGROUND AND ACADEMIC VARIABLES 
+DISTINGUISHING LOW- , AVERAGE- AND HIGH-ACHIEVERS (3 GROUPS) AS 
+WELL AS BETWEEN LOW- VERSUS AVERAGE-, AVERAGE- VERSUS HIGH-, 
+AND LOW- VERSUS HIGH-ACHIEVERS FOR THE WHITES AND ASIAN 
+AGGREGATE . 
+
+Aggregate Subsamples 
+
+
+
+AWAW AWAW 
+
+
+
+L-A-H L-A L-A A-H A-H L-H L-H 
+
+
+
+DEMOGRAPHIC VARS 
+
+Female .33 .54 .11 
+
+Age .47 .32 .55 .29 .41 .43 .30 
+
+Marital Status 
+
+Single -.23 -.21 .41 -.35 
+
+Married .25 .64 .23 
+
+BACKGROUND VARS 
+
+Time in U.S. .20 .35 -.43 .19 
+
+Precollege Edu . .24 .36 .23 .23 
+
+Eligibility -.18 -.17 .27 
+
+Hi Sch Track 
+Occup-Voc -.22 -.01 -.32 .16 -.28 
+Coll-Prep .28 .24 .09 
+
+High Sch GPA .59 .32 .39 .33 -.81 .32 .66 .33 
+
+Parent Edu -.27 
+
+Household Inc -.21 -.26 
+
+ACADEMIC VARS 
+
+Paid Hrs Wks -.15 -.15 
+
+Grants/Schrs .29 .40 .31 -.18 .11 
+
+Goal Commit. 
+
+Cert --1° 
+AA -.34 .20 -.28 .43 -.25 
+
+BA -.28 -.34 -.17 .50 -.32 -.18 
+
+Instit. Com. -.12 
+
+Acad Parti .24 .43 .25 
+
+Study Hbts - -18 
+
+Change Majors -16 -.18 
+
+Group Centroids 
+Low -.59 -.55 -.39 -.35 -.50 -.66 
+
+Average .21 .08 .47 .38 .35 -.25 
+
+High .96 .79 -.59 .37 1.21 1.06 
+
+
+
+52 
+
+
+
+9 
+
+ERJC 
+
+
+
+55 
+
+
+
+Eigen Value 
+
+
+
+(I) 
+
+
+. 35 
+
+
+. 28 
+
+
+. 18 
+
+
+.13 
+
+
+. 21 
+
+
+.09 
+
+
+. 62 
+
+
+. 70 
+
+
+(II) 
+
+
+.04 
+
+
+. 05 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk's Lambda 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canno . r(I) 
+
+
+. 51 
+
+
+. 46 
+
+
+. 39 
+
+
+. 34 
+
+
+. 42 
+
+
+. 29 
+
+
+. 62 
+
+
+. 64 
+
+
+Canno. r(II) 
+
+
+. 20 
+
+
+.16 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canno. r(I) 
+
+
+.26 
+
+
+. 22 
+
+
+.15 
+
+
+. 12 
+
+
+.18 
+
+
+. 08 
+
+
+. 38 
+
+
+. 41 
+
+
+Canno. r* (II). 0 4 
+
+
+.02 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(I) 77.04 
+
+
+143. 35 
+
+
+30 . 90 
+
+
+50.59 
+
+
+21. 20 
+
+
+29. 34 
+
+
+61.08 
+
+
+184 
+
+
+(ID 
+
+
+9.23 
+
+
+13.04 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DF (I ) 
+
+
+18 
+
+
+26 
+
+
+7 
+
+
+11 
+
+
+4 
+
+
+7 
+
+
+8 
+
+
+13 
+
+
+(II) 
+
+
+8 
+
+
+12 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sig. level 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(I) 
+
+
+.001 
+
+
+.001 
+
+
+. 001 
+
+
+.001 
+
+
+.001 
+
+
+.001 
+
+
+.001 . 
+
+
+001 
+
+
+(II) 
+
+
+NS 
+
+
+NS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overall % of 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Corr Classi. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calibra S. 
+
+
+57 
+
+
+54 
+
+
+72 
+
+
+65 
+
+
+72 
+
+
+62 
+
+
+85 
+
+
+81 
+
+
+1 ow 
+
+
+78 
+
+
+74 
+
+
+80 
+
+
+75 
+
+
+
+
+
+
+90 
+
+
+88 
+
+
+average 
+
+
+43 
+
+
+38 
+
+
+61 
+
+
+53 
+
+
+87 
+
+
+78 
+
+
+
+
+
+
+high 
+
+
+33 
+
+
+42 
+
+
+
+
+
+
+43 
+
+
+37 
+
+
+71 
+
+
+69 
+
+
+Valida S. 
+
+
+47 
+
+
+51 
+
+
+59 
+
+
+65 
+
+
+70 
+
+
+66 
+
+
+79 
+
+
+76 
+
+
+1 ow 
+
+
+65 
+
+
+76 
+
+
+68 
+
+
+77 
+
+
+
+
+
+
+86 
+
+
+85 
+
+
+average 
+
+
+32 
+
+
+34 
+
+
+45 
+
+
+53 
+
+
+87 
+
+
+81 
+
+
+
+
+
+
+high 
+
+
+24 
+
+
+38 
+
+
+
+
+
+
+37 
+
+
+42 
+
+
+64 
+
+
+62 
+
+
+Group Size 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proportion 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 ow 
+
+
+. 44 
+
+
+. 40 
+
+
+. 54 
+
+
+. 52 
+
+
+
+
+
+
+.71 
+
+
+. 61 
+
+
+average 
+
+
+.37 
+
+
+. 3 6 
+
+
+. 46 
+
+
+. 48 
+
+
+. 63 
+
+
+. 59 
+
+
+
+
+
+
+high 
+
+
+.19 
+
+
+.24 
+
+
+
+
+
+
+. 37 
+
+
+. 41 
+
+
+.29 
+
+
+.39 
+
+
+Total N 
+
+
+234 
+
+
+546 
+
+
+189 
+
+
+414 
+
+
+115 
+
+
+336 
+
+
+133 
+
+
+355 
+
+
+
+L-A-H stands for discriminant analysis with Low-Average-High 
+groups. L-A is low- versus average-achievers, A-H is average- 
+versus high-achievers and L-H is low- versus high-achievers. 
+
+
+
+53 
+
+
+
+ERIC 
+
+
+
+56 
+
+
+
+In a nutshell, the direction of all the discriminant 
+variables that differentiate groups are as expected. There 
+are variables which are common as well as unique to both the 
+Whites and the Asian aggregate. Variables which are common in 
+both ethnic groups include age, high school GPA, high school 
+track, and initial goal commitment. The variables which are 
+unique to the Asian aggregate are sex, parental education, and 
+scholarships or grants awarded. But for the Whites, the unique 
+variables are marital status, duration in the United States, 
+precollege education, college-preparatory track, household 
+income and academic involvement. 
+
+Can different Asian ethnic identities be used to predict who 
+are the high-, the average- and the low-achievers? In other 
+words, can we classify people to the high, average, or the low 
+achieving group by knowing their ethnic identities? 
+
+In table 6 and 8, the five Asian-American sub-groups are 
+
+entered simultaneously with the other twenty-one independent 
+
+variables to see whether ethnicity helps to classify group 
+
+membership. The two discriminant functions are found to be 
+
+significant at 0.05 level. Variables which have a 
+
+discriminant coefficient loading of 0.25 or higher in function 
+
+I are: age ( .51) , high school GPA ( .52) , aspiring for a 
+
+baccalaureate degree (-.30) and academic involvement (.32). 
+
+In function II, we have predictors like Chinese (-.32), Korean 
+
+'.26), Filipinos f-.25), married status (.35), rre-college 
+
+education (-.52), paid hours worked per week (-.32) and grants 
+
+cr scholarships awarded (.30). Even though demographic, 
+
+54 
+
+
+
+ERLC 
+
+
+
+57 
+
+
+
+background and academic variables all enter the equation 
+simultaneously, demographic variables tend to weigh heavily on 
+function II than on function I. In general, function I is 
+likely to describe high-achieving students as being older, 
+have a relatively distinguished high school GPA, more 
+academically involved and do not aspire only a baccalaureate 
+as their final degree objectives. But less academically 
+involved young students, with a relatively low high school 
+GPA , and aspire only an AA or a baccalaureate degree are 
+likely to be i ow-achievers . The distinction between high- and 
+1 ow-achievers is more ci ear -cut in function I . In function 
+II, however, the discriminant variables tend to be more 
+associated with the average-achievers than other groups. Being 
+Chinese or Pilipinos, working during the semester, and having 
+a good pre-college education background are likely to be 
+average-achievers. Being older Koreans, married, and 
+receiving grants or scholarships were likely to be 
+high-achievers. Around 23% of the variance in predicting 
+group membership is explained by function I and only 2% by 
+function II. The overall percent of correct classification 
+for the calibration sample and the validation sample are 
+55.35% and 51.67% respectively. In a nutshell, Asian ethnic 
+subgroups helps to classify cases into different group 
+memberships. More people are correctly classified into the 
+1 ow- and the high- achieving groups than to the average- 
+achieving group, 
+
+55 
+
+ERiC 58 
+
+
+
+In short, we can conclude that not all Asian-Americans 
+studying in the nine community colleges are the same. Some of 
+them can be identified as high- achievers whi 1 e others the 
+average- and the low-achievers. And the linear combination 
+of variables that differentiate the 3 achieving groups also 
+vary across race. 
+
+
+
+
+56 
+
+
+
+59 
+
+
+
+TABLE 6. MEANS, STANDARD DEVIATIONS, AND UNIVARIATE F RATIO 
+FOR ALL INDEPENDENT VARIABLES IN THE CALIBRATION SAMPLE 
+(ASIAN SUBGROUPS) 
+
+
+
+Univariate 
+Variabl e 
+
+
+
+Low_ 
+Achievers 
+( N = 702 ) 
+
+M SD 
+
+
+
+Average_ 
+Achievers 
+( N = 528 ) 
+
+M SD 
+
+
+
+High_ 
+Achievers 
+( N = 262 ) 
+
+
+
+M 
+
+
+
+SD 
+
+
+
+F 
+
+ratio 
+
+
+
+(DEMOGRAPHIC VARIABLES) 
+
+
+
+Femal e 
+
+
+0 . 
+
+
+50 
+
+
+0 . 
+
+
+50 
+
+
+0 . 
+
+
+57 
+
+
+0 . 
+
+
+50 
+
+
+0 . 
+
+
+59 
+
+
+0 . 
+
+
+49 
+
+
+4. 
+
+
+05 
+
+
+Singl e 
+
+
+0 
+
+
+78 
+
+
+0 
+
+
+41 
+
+
+0 
+
+
+64 
+
+
+0 
+
+
+48 
+
+
+0 
+
+
+45 
+
+
+0 
+
+
+50 
+
+
+53. 
+
+
+89 
+
+
+Married 
+
+
+0 
+
+
+14 
+
+
+0 
+
+
+34 
+
+
+0 
+
+
+23 
+
+
+0 
+
+
+42 
+
+
+0 
+
+
+40 
+
+
+0 
+
+
+49 
+
+
+41. 
+
+
+89 
+
+
+Age 
+
+
+24 
+
+
+. 23 
+
+
+7 
+
+
+.50 
+
+
+27 
+
+
+.76 
+
+
+9 
+
+
+. 26 
+
+
+32 
+
+
+. 47 
+
+
+10 
+
+
+. 63 
+
+
+88. 
+
+
+35 
+
+
+Chi 
+
+
+0 
+
+
+03 
+
+
+0 
+
+
+18 
+
+
+0 
+
+
+05 
+
+
+0 
+
+
+22 
+
+
+0 
+
+
+.03 
+
+
+0 
+
+
+18 
+
+
+1. 
+
+
+18 
+
+
+Jap 
+
+
+0 
+
+
+.01 
+
+
+0 
+
+
+.08 
+
+
+0 
+
+
+. 00 
+
+
+0 
+
+
+.06 
+
+
+0 
+
+
+. 00 
+
+
+0 
+
+
+.06 
+
+
+0. 
+
+
+38 
+
+
+Kor 
+
+
+0 
+
+
+01 
+
+
+0 
+
+
+. 10 
+
+
+0 
+
+
+01 
+
+
+0 
+
+
+. 10 
+
+
+0 
+
+
+.03 
+
+
+0 
+
+
+. 18 
+
+
+4. 
+
+
+73 
+
+
+Pil 
+
+
+0 
+
+
+.02 
+
+
+0 
+
+
+.14 
+
+
+0 
+
+
+. 03 
+
+
+0 
+
+
+. 18 
+
+
+0 
+
+
+.03 
+
+
+0 
+
+
+.16 
+
+
+0. 
+
+
+93 
+
+
+Viet 
+
+
+0 
+
+
+.02 
+
+
+0 
+
+
+. 15 
+
+
+0 
+
+
+.02 
+
+
+0 
+
+
+. 13 
+
+
+0 
+
+
+.03 
+
+
+0 
+
+
+.17 
+
+
+0 . 
+
+
+75 
+
+
+
+(BACKGROUND VARIABLES) 
+
+
+
+IGC(Cer) 
+
+
+0 . 
+
+
+03 
+
+
+0 . 
+
+
+18 
+
+
+0 . 
+
+
+07 
+
+
+0 . 
+
+
+26 
+
+
+0 . 
+
+
+09 
+
+
+0 . 
+
+
+28 
+
+
+7 
+
+
+. 38 
+
+
+IGC(AA) 
+
+
+0 . 
+
+
+13 
+
+
+0 
+
+
+33 
+
+
+0 
+
+
+09 
+
+
+0. 
+
+
+29 
+
+
+0 . 
+
+
+09 
+
+
+0 
+
+
+29 
+
+
+2 
+
+
+.27 
+
+
+IGC(BA) 
+
+
+0 . 
+
+
+50 
+
+
+0 . 
+
+
+50 
+
+
+0 . 
+
+
+29 
+
+
+0 . 
+
+
+49 
+
+
+0 . 
+
+
+30 
+
+
+0 . 
+
+
+46 
+
+
+18 
+
+
+.18 
+
+
+transf er 
+
+
+0 . 
+
+
+78 
+
+
+0 
+
+
+41 
+
+
+0 
+
+
+77 
+
+
+0 . 
+
+
+42 
+
+
+0 . 
+
+
+73 
+
+
+0 
+
+
+44 
+
+
+1 
+
+
+.47 
+
+
+HS GPA 
+
+
+2 . 
+
+
+94 
+
+
+0 
+
+
+40 
+
+
+3 
+
+
+11 
+
+
+0 . 
+
+
+42 
+
+
+3 . 
+
+
+25 
+
+
+0 
+
+
+48 
+
+
+57 
+
+
+.55 
+
+
+Pre Col 
+
+
+3 . 
+
+
+31 
+
+
+0 
+
+
+70 
+
+
+3 
+
+
+.70 
+
+
+0 
+
+
+99 
+
+
+3 
+
+
+88 
+
+
+1 
+
+
+.03 
+
+
+51 
+
+
+.86 
+
+
+Col prep 
+
+
+0 . 
+
+
+28 
+
+
+0 
+
+
+45 
+
+
+0 
+
+
+35 
+
+
+0 . 
+
+
+48 
+
+
+0 . 
+
+
+37 
+
+
+0 
+
+
+48 
+
+
+4 
+
+
+.70 
+
+
+Occu Voc 
+
+
+0 . 
+
+
+10 
+
+
+0 
+
+
+. 30 
+
+
+0 
+
+
+.10 
+
+
+0 
+
+
+30 
+
+
+0 
+
+
+11 
+
+
+0 
+
+
+. 31 
+
+
+0 
+
+
+.03 
+
+
+El igibl e 
+
+
+0 . 
+
+
+34 
+
+
+0 
+
+
+47 
+
+
+0 
+
+
+.38 
+
+
+0 
+
+
+49 
+
+
+0 
+
+
+39 
+
+
+0 
+
+
+.49 
+
+
+1 
+
+
+.38 
+
+
+Time US 
+
+
+4 . 
+
+
+16 
+
+
+1 
+
+
+. 62 
+
+
+4 
+
+
+. 30 
+
+
+
+
+. 65 
+
+
+4 
+
+
+. 42 
+
+
+1 
+
+
+.79 
+
+
+2 
+
+
+.50 
+
+
+Par Edu 
+
+
+3 . 
+
+
+74 
+
+
+1 
+
+
+.78 
+
+
+3 
+
+
+.77 
+
+
+1 
+
+
+72 
+
+
+3 
+
+
+88 
+
+
+
+
+. 70 
+
+
+0 
+
+
+.64 
+
+
+
+Household Income 
+
+23150.07 '24858.45 27103.55 
+
+19179.14 18857.11 19974.72 4.23 
+
+Schol arship 
+
+246.92 751.84 176.81 621.86 254.87 688.26 1.85 
+
+
+
+(ACADEMIC VARIABLES) 
+
+Hrswork 23.27 15.23 25.03 15.70 23.34 16.23 2.14 
+
+Aca Par 2.61 0.69 2.77 0.73 2.91 0.77 18.72 
+
+Stu Hab 2.72 1.04 2.58 1.10 2.58 1.14 3.13 
+
+Cha Maj 1.53 0.69 1.43 0.62 1.38 0.61 6.48 
+
+
+
+# High school GPA ' 3 ' =3 . 50_4 . 00 ' 2 ' = 3 . 00_3 . 49 ' 1 ' = 2 . 99_2 . 00 . 
+
+New students with no GPAs are omitted from this analysis. 
+@ not significant at 0.05 level 
+
+
+
+57 
+
+
+
+TABLE 8. ETHNICITY, DEMOGRAPHIC , BACKGROUND AND ACADEMIC 
+VARIABLES DISTINGUISHING LOW-, AVERAGE- AND HIGH-ACHIEVERS (3 
+GROUPS) 
+
+Model 1 
+
+
+
+Function I II 
+
+
+
+DEMOGRAPHIC VARS 
+
+Asian Subgroups 
+Chinese .17 -.32 
+
+Japanese 
+
+Korean .20 .36 
+
+Pilipinos .05 - . 25 
+
+Vietnamese .09 .09 
+
+Femal e 
+
+Age .51 .32 
+
+Marital Status 
+Single 
+
+Married .22 .36 
+
+BACKGROUND VARS 
+
+Time in U.S. .18 - .00 
+
+Precoilege Edu. .14 -.52 
+Eligibility -.09 .03 
+
+Hi Sch Track 
+
+Occup-Voc 
+
+Col 1 -Prep 
+High Sch GPA .52 - .04 
+
+Parent Edu .07 .20 
+
+Household Inc 
+
+ACADEMIC VARS 
+
+Paid Hrs Wks -.11 -.32 
+Grants/Schrs -.02 .30 
+Goal Commit. 
+Cert 
+
+AA -.14 .15 
+
+BA -.30 .09 
+
+Instit . Com. 
+
+Acad Parti .32 -.18 
+
+Study Hbts -.12 .18 
+
+Change Majors 
+
+
+
+58 
+
+61 
+
+
+
+Group Centroids 
+
+
+
+Low 
+
+
+
+
+51 
+
+
+.07 
+
+
+Average 
+
+
+
+
+20 
+
+
+-.18 
+
+
+High 
+
+
+
+
+95 
+
+
+.17 
+
+
+Eigen Value 
+
+
+
+
+2955 
+
+
+.0188 
+
+
+Wi Ik 1 s Lambda 
+
+
+
+
+7576 
+
+
+. 9816 
+
+
+Canno. 
+
+
+
+
+4776 
+
+
+.13 58 
+
+
+Canno. r : 
+
+
+
+
+2281 
+
+
+.0184 
+
+
+Chi - squared ( df ) 
+
+
+411 . 
+
+
+0 3 ( 34 ) 
+
+
+Sig. level 
+
+
+0 
+
+
+. 00 
+
+
+0.04 
+
+
+Overall % of 
+
+
+
+
+
+
+
+
+Corr Cl assi . 
+
+
+
+
+
+
+
+
+Calibra S. 
+
+
+55 
+
+
+. 35 
+
+
+
+
+Low 
+
+
+81 
+
+
+. 10 
+
+
+
+
+Average 
+
+
+33 
+
+
+. 50 
+
+
+
+
+High 
+
+
+28 
+
+
+. 90 
+
+
+
+
+Valida S. 
+
+
+51 
+
+
+. 67 
+
+
+
+
+Low 
+
+
+79 
+
+
+.10 
+
+
+
+
+Average 
+
+
+27 
+
+
+.50 
+
+
+
+
+High 
+
+
+25 
+
+
+.60 
+
+
+
+
+Group Size 
+
+
+
+
+
+
+
+
+Proportion 
+
+
+
+
+
+
+
+
+1 ow 
+
+
+0 
+
+
+. 47 
+
+
+
+
+average 
+
+
+0 
+
+
+. 35 
+
+
+
+
+high 
+
+
+0 
+
+
+.18 
+
+
+
+
+Total N 
+
+
+1492 
+
+
+
+
+
+ERIC 
+
+
+
+59 
+
+62 
+
+
+
+The Korean-Americans by far have the highest scores among 
+all Asian- Americans , f ol 1 owed by the Chines e-Ameri cans and 
+Pil ipino-Americans . The Vietnamese- and the Japanese- 
+Americans are close to and below average. The question here 
+is why Korean-Americans attending mior college are likely to 
+be high- achievers whil e Pil ipino- and Chines e-Ameri cans are 
+aver age- achi evers and Vietnamese-Americans are 
+lower-achievers? The answer seems to be a complicated one. 
+The common belief that all Asians can be crowned as model 
+minority does not hold in this study, especially in the 
+context of a junior college. The data indicated that the 
+col lege effects like academic involvement , extracurricular 
+activities, study habits are quite uniform among the 
+Asian-Americans. Therefore, what makes the difference in 
+college performance is more likely to come from the background 
+characteristics as mentioned above. The difference in college 
+performance reflects, to a certain extent , a socio- cul tural 
+one . 
+
+Some Asian-Americans have been in this country for two to 
+three generations while others are recent immigrants. Those 
+who have a long resident history in this country must have 
+gone through the process of adaptation: acculturation, 
+integration and assimilation (Gordon, 1964) while others may 
+still in their early stage of adjustment. For example, the 
+third generation Asian-Americans may consider themselves not 
+
+60 
+
+
+
+ERLC 
+
+
+
+63 
+
+
+
+too distinct from the majority Whites even though they look 
+physical ly different . At least , they have no language 
+barriers. As Kitano indicated when he examined the Sansei 
+(that is, third generation Japanese-Americans who are born in 
+the United States to Nisei parents), "their test results, 
+achievement and interest preferences and social values are 
+typically American" (1969:142). The recent immigrants, 
+however, are very different as recorded in my interviews. They 
+carry not only many of their ancestor's cultural values like 
+obedience, family pride, face-saving, high discipline, 
+perseverance but also they are limited in English proficiency. 
+Of course, this limitation in English proficiency can not 
+apply to the recently immigrated Pilipino-Americans in this 
+study. In addition, the cultural values that they accept also 
+depend on which Asian ethnic group they belong to 
+(Yamagata-Noji , 1987; Monzon, 1984; Thai, 1982). Hence, even 
+among the Asian-Americans there are much background variations 
+within themselves. 
+
+Nevertheless, as reviewed earlier, the writer is much 
+concerned with the social or school environment which is more 
+or less the same. What explain the difference depends on how 
+they adjust to this social environment. Some adjust more 
+quickly with the 'resource' that they possess or what they 
+brought with them when they immigrated to this country. 
+Resources like wealth, professional skills, 1 anguage ski 1 1 s or 
+
+61 
+
+
+
+ERIC 
+
+
+
+64 
+
+
+
+other abilities. Others (like recent immigrated Vietnamese 
+refugees) might have little or no 'resource 1 at all (e.g. the 
+Vietnamese Hwong tribe.) The study reflects that recent 
+immigrants with less than 10 years can perform better if they 
+come from middle upper class families where they are more 
+academically wel 1 -prepared before attending the respective 
+college. This is confirmed in my interviews. For example, 
+many recent immigrated Korean-Americans already have some sort 
+of college background and a relatively distinguished high 
+school GPA . They do not avoid the academic status differences 
+between a two-year and a four-year college as much as other 
+Asian-Americans who have been in this country for a longer 
+period of time. The Vietnamese-Americans, on the other hand, 
+do not perform as well as the Chinese-, the Korean-, and the 
+Pilipino-Americans because i) many of them come from poor 
+families ii) have weak educational background and iii) have 
+limited English proficiency. Even though the reason for the 
+poor performance of the Japanese-Americans is unclear in the 
+junior college. I presume that the level of acculturation 
+must have an effect in here. 
+
+Sue and others (1988, 1990) have once denoted that the 
+level of acculturation and the perceived limitation in social 
+opportunity are inversely related. Recent immigrants often 
+consider strong educational backgrounds essential in 
+broadening their field in the non-educational area. Many 
+
+62 
+
+65 
+
+
+
+recent immigrants in my interviews often stress the importance 
+of having more credentials when applying for a job. They like 
+to work in large "white-man company' 1 but realize that they are 
+impaired in verbal ability and so they need to emphasize on 
+their quantitative ski 1 Is in order to get hired (Bagasao , 
+1983). Without a doubt, this will create unnecessary 
+competition among themselves in the job market. A large 
+proportion of my respondents plan to transfer to a better 
+university after the completion of the required course works. 
+They strive hard to maintain an 1 A 1 average. Given enough 
+support from parents, friends, and financial programs, they 
+really want to get a baccalaureate or higher degree in order 
+to secure a better job in the future. They perceive a 
+limitation in occupation opportunity if they rely solely on an 
+Associate or a lower degree. Nonetheless, things never work 
+out nice and easy, some Asian-Americans fail to perform as 
+well as others. In my interview, they often reported parental 
+support, home environment, cultural values and personal 
+ability are closely connected with college performance. 
+Parents with higher educational background usually give more 
+attention to their children's school performance and are 
+likely to provide a favorable home environment for them to 
+study. Asian parents, in particular, prefer their children 
+not to work during the school year. They encourage them to 
+concentrate on their studies in order to get good grades for 
+
+63 
+
+
+
+ERLC 
+
+
+
+66 
+
+
+
+future "benefits." In contrast, parents with low education 
+may not necessarily value the importance of these. Besides, 
+the respondents also mention that big brothers and big sisters 
+who attended university or college also act as role models to 
+their academic success. If they have no brothers or sisters, 
+their peer groups and parental influences become more 
+essential. In addition, problems in academic studies can be 
+remedied if they know where to get assistance such as 
+brothers, sisters, friends and teachers. However, they seldom 
+consult their teachers because of language difficulties or 
+cultural barriers. Therefore, these added information has 
+broadened our knowledge in understanding the differences in 
+col lege performance among Asian*- Americans . 
+
+Implications and Suggestions 
+
+1. Since demographic and background variables are 
+considered more essential in predicting college performance in 
+both interview and secondary data analysis among community 
+college students, it would be more advantageous if we could 
+collect more background information that distinguish these 
+differences . Factors like parental support , language 
+proficiency, ethnic identity, cultural values, peer group 
+influence and home environment are worth exploring. 
+
+2 . Second 1 y , this study also discovered that not all 
+Asian-Americans are aiike, and therefore, lumping all Asians 
+
+64 
+
+
+
+into one homogeneous group will mask the results of many 
+
+
+
+represented. Financial budgets would not have been cut short 
+or programs canceled if more representative data are collected 
+from each of the ethnic subgroups. However, the researcher 
+would like to remind to ail interested readers that this study 
+can not generalize to all community college students, 
+especially among ~he Japanese-Americans who have a very low 
+college CPA m -.his study. The Japanese-Americans in this 
+study only represent a very typical sample of all Japanese- 
+Americans studying in the junior college. Japanese-Americans 
+with distinguished high school performance may be more likely 
+to choose a selective four-year college rather than a 
+community college because they have been around long enough to 
+recognize that the selective four-institutions have higher 
+status or prestige and are more useful in occupational 
+placement. Hence, that upper segment of the Japanese-American 
+population is not represented in this study. 
+
+3. This study uses college grade point average as the 
+only criterion for classifying students into different 
+achieving groups. And so, there are some limitations that 
+interested parties should be aware of. Jonathan Warren 
+(1971:8-20), in his examination of grading practices in 
+college indicates that the purposes of grades are many. The 
+purpose of grading can be used as a) a selection device for 
+
+
+
+findings . 
+
+
+
+Statistics could be underestimated or over- 
+
+
+
+65 
+
+
+
+ERIC 
+
+
+
+
+advanced education, fellowships and awards, honors, transfers 
+or employments or b) a motivator to induce students to learn 
+and c) an informative mechanism about student performance. In 
+fact, all these purposes can either be good or bad. They are 
+good because they provide criteria for administrators to 
+decide who should re-enroll in advanced education or for 
+administrators to motivate competitive-oriented students to 
+study. Nevertheless, a lot of side-effects may be overlooked 
+if GPA is used as "he mere criterion to judge a student's 
+performance. These unintended side-effects of grades may 
+result in a) distortion of teaching b) affecting student 
+attitude and behavior or c) affecting the existing social 
+:rder of a society. 
+
+Distortion of teaching can appear in several forms like 
+imposing instructional constraints on instructors to vary 
+their course contents, or setting up accomplishment standards 
+where course work can be rated easily and mechanically, or 
+stifling students to criticise old ideas by following the 
+instructor 1 s guide! ines . 
+
+Student's attitude and behavior can also be adversely 
+affected by grades. Grades can lead to cheating in 
+examination, anxiety among students, inhibition of student 
+reoperation or collaboration, and discr uragement of advance 
+s t udi es . 
+
+Grades is said to have one effect of reordering or 
+
+i 5 
+
+6.9 
+
+
+
+maintaining the existing social order. However, people also 
+argue that good grades also act as a mechanism for upward 
+mobility in our society,, this is especially true among the 
+Asian minorities. 
+
+In this study, college grade point average is the only 
+indicator used to measure college achievement. High-, 
+average-, and low-achievers are classified according to their 
+:olleae graded point average. These who have an average grade 
+point average of 'A' are identified as high-achievers, a '5' 
+as the average-achievers and a 'C or below' as the low- 
+achievers. Even though the classification is not arbitrary, 
+the readers still perceive the limitations of using GPA as the 
+only criterion for college achievement. And so readers should 
+be careful about the generalisations made in here. 
+
+4. Aside from using Discriminant Analysis, which used to 
+classify cases into different group memberships, the readers 
+might want to try logistic regression. This is a more robust 
+research tool when many of the independent variables are 
+categorical in nature (that is, either ordered or 
+dichotomous . ) It is , by far, more robust than regular 
+multiple regression analysis 'McFadden, 1376; Press and 
+others, 1378.) 
+
+
+
+ERLC 
+
+
+
+70 
+
+
+
+Appendix 
+
+
+
+DEPENDENT VARIABLE 
+College GPA 
+
+with A average, B average, C average, C- or D 
+
+average and D- or F average 
+
+(recede and reorder 3,4,5=1; 2 = 2; 1=3) 
+INDEPENDENT VARIABLES 
+
+Individual Demographic Attributes: 
+Ethnic group 
+
+( 1= White , 0=non- white) 
+
+( 1= Chinese , 0=non- Chinese ) etc . dummy coded 
+Number of Semesters 
+
+(0 to 9 or more) 
+Mari tai status 
+
+( I = singl e , 2 = mar ri ed cr divorced) 
+
+Sex 
+
+( 1 = female , 2=mai e) 
+Age (raw scores) 
+Background variab'l es : 
+Residence History 
+
+(less than 5 years to more than 3 generations) 
+
+Precollege Academic Preparation: 
+pre-college school ing 
+
+( i=ei ementary or less, to 6=4-year college or 
+higher ) 
+
+eligible to enter UC or CSU after high school 
+graduation 
+
+( l=yes , 0=no) dummy coded 
+high school track 
+
+(i=college pre track, 0=others) dummy coded 
+high school GPA 
+
+(I=beiow 2.00 to 5=2.50-4.0) 
+Fami 1 y background : 
+
+father/mother's formal education 
+
+( 1= el ementary or less, to 6=4-yr college or 
+
+Higher ) 
+
+total household income in 1988 
+
+(I=nothing, to 9=$60,000) the mid point of the 
+interval will be used for each categorical level 
+
+Academic Variables 
+
+Paid hours work per week 
+
+(l = none, to 6 = 40 or more) the mid-point of the 
+interval will be used for each categorical 1 evel 
+
+
+
+ERLC 
+
+
+
+68 
+
+71 
+
+
+
+Fei lows hips , grants scholarships awarded 
+(I = nothmg, to 10=more than $8000 ); 
+also receded into (1=1) (2 thru 10=2) 
+the mid-point of the interval will be used for each 
+categorical level 
+Initial Goal Commitment (Expected final degree objective) 
+( l=certi f icate , to 4=master or higher) recede into 
+dummy variabl es 
+Institutional Goal Commitment (Plan to Trans fer ) 
+
+(l=not planning to , 2=pianning to) recede into 
+dummy variabl es 
+Academic Invo 1 vement 
+
+frequency of semester period involved in non-class 
+contacts with faculty about ci ass mater la 1 
+
+• v l = never, to 4 -mo re than 5 times) 
+studied course materials with other students 
+
+i l = never , to 4 = mo re than 3 times) 
+participated in class discussions 
+
+( 1 = never , to 4-mo r e than 5 times ) 
+read materials other than those assigned for courses. 
+(i=never, to 4= mo re than 5 times ) 
+Study Habi t s 
+
+"used the library for study", and "used the library 
+for class assignment 
+( l = never , to 4 = mo re than 5 times ) 
+Participation in Extracurricular Activities 
+
+voluntary "participated in an athletic program" 
+"participated in music or theater programs" and 
+"participated in student government , clubs , 
+act i vi ties" 
+
+■' 1 = never , to 4-mor e than 5 times ) . 
+Changing Majors 
+
+receded into (3=1, 4=2, 5=3) 
+
+
+
+CONTROL VARIABLES 
+Ethnic background 
+
+Native Language (also recoded into dummy code with 
+
+l=English speaking 0=non-Engi ish speaking) 
+
+
+
+69 
+
+72 
+
+
+
+Footnotes: 
+
+I. This refers to age, secondary school performance, choice of this 
+•university, highest academic degree expected, perceived need for academic 
+remedy, parents 1 income, ACT conrposite score, father's education, mother's 
+education, credit hours earned, grade point average, perceived likelihood 
+of failing one or more courses, perceived likelihood of joining a social 
+fraternity, sorority, or club, racial groups, college ma jors . 
+
+2 . This inc 1 \ades ei ther academi c achi evement or academi c 
+persistence. 
+
+3. Anderson tries to modify Lev/in' s Field Theory to identify the 
+forces that produce either academic achievement and persistence or 
+academic failure and attrition. He reasons that once the forces (both 
+negative and positive) have been identified, it is possible to discover 
+the key to increase the driving forces or to decrease the restraining 
+forces in order to achieve a desired change. Spady, however, developed an 
+interactional model which emphasis the harmonious interaction between 
+personal attributes (interests, attitudes, dispositions) and environmental 
+influences (courses, family, peers, institutions), which is considered 
+important to the student's retention. Rootman, similar to Spady, 
+developed an interaction theory which explained voluntary withdrawal is 
+related to unsuccessful integration between individual and college 
+environment. Withdrawal is seen as one of the mechanisms to cope with 
+strains. 
+
+4. 3a.sed on the theoretical framework and factor loadings for 
+Q. 38-47, new variables are constructed such as academic participation, 
+study habits, and extracurricular activities. Q. 53-55 for Barriers of 
+student progress . 
+
+5. U Statistic or Wilks' lambda Statistic is "a multivariate 
+measure of group differences over several discriminating variables" 
+.Klecka, 1984:38). Since U statistic is an inverse statistic, a zero 
+means high discrimination and the group centroids are greatly separated 
+and distinct. But if Wilks' lambda equals one, the group centroids are 
+ail equal. During the stepwise discriminant analysis, we usually select 
+the Wilks' lambda which has the smallest lambda. 
+
+A = i=k+l l/l+Ai 
+k refers to the numbers of functions already derived. refers to 
+the multiplication of functions derived.^ 
+
+6. Canonical correlation n = 7\i / I + 7V where Ai is the 
+eigenvalue. 
+
+The standardized canonical discriminant function coefficients 
+represent the relative contribution of certain variable on the calculating 
+-f a discriminant score. The larger the standardized canonical 
+:oef f icient , the greater the contribution. Since tne coefficient account 
+for the simultaneous contribution of other variables, it is likely that 
+the standardized coefficient of a variable will be affected by other 
+variables which share the same discriminating information. (Keick, 
+1384:33) 
+
+^0 
+
+
+
+
+73 
+
+
+
+The total structure coefficients tell "how variable contributes to 
+discrimination along that dimension" (Kelck, 1984:43) . It indicates how 
+closely or similar the relation between a discriminating variable and a 
+canonical discriminant function. If the coefficient approaches zero, it 
+means that the two have little in cannon or else we can name that f met ion 
+based on that large coefficient variables, usually a coefficient of less 
+than 0.4 is not considered. If we want to examine how a function and a 
+variable related within a group , we can look at the pooled within group 
+structure coefficient. 
+
+7. "Group centroids are the mean discriminant scores for each group 
+on the respective functions. The centroids summarizes the group locations 
+in the space defined by the discriminant functions. M (SPSS, 1982) 
+
+
+
+ERLC 
+
+
+
+74 
+
+
+
+BIBLIOGRAPHY 
+
+
+
+Aleamoni, L. M., and Oboler, L. (1978). ACT versus SAT in 
+
+Predicting First Semester GPA ♦ Educational and 
+Psychol ogical Measurement , 38 : 393-3 99 . 
+
+Astin, A. W. (1982). M inorities in American Higher 
+Educati on . San Francisco: Jossey-Bass . 
+
+Astin, A. W. (1973b). Student Persistence: Some stay, Some 
+don't --Why? College & University, 48 : 2 98-30 6. 
+
+As tin, A. W. (1971). Predicting Academic Performance in 
+
+College: Selectivity Data for 2300 American Colleges . 
+
+The Free Press, New York. 1971. 
+
+Astin., H. S. & Cross, P. H. ( 1979). Factors Affecting 
+Black Students ' Persisten c e in Col 1 ege . 
+
+Austin , Thomas L . , and others . (1988). Class Scheduling 
+
+and Academic Achievement in a Non-Traditional Graduate 
+Program. Innovative Higher Education, 12 (2): 8-90 
+Spr-Sum. 
+
+3agasao, Paula YLdefonza. (1983). Factors Related to 
+
+Sci ence-Career-?l anning among Asi an and Pacific 
+
+American College-Bound High School Seniors . University 
+
+of California , Los Angel es . PH . D. Dissertation . 
+
+Biustem, David L. et al . (1986). Identifying Predictors 
+of Academic Performance of Community College Students. 
+Journal of College Student Personnel. May 27 ( 3 ) : 
+242-249. 
+
+Cheng , Lucie. (1986). The New Asian Immigrants in 
+
+California Department of Sociology and Asian American 
+
+Studi es Center . University of California, Los Angeles. 
+
+Chickering, A. (1974). Commuting versus Resident Students: 
+
+Overviewing Educational Ineguit ies of Living off 
+
+Campus . San Francisco, Jossey Bass. 
+
+
+
+Chissom, B. S. and Lanier, D. (1975). Prediction of First 
+Quarter Freshman GPA Using SAT Scores and High School 
+Grades . E ducational and Psychological Measurement 
+
+3_5: 461-o3. 
+
+72 
+
+
+
+ERLC 
+
+
+
+75 
+
+
+
+; 1 a r k , Burton. .1960). The Cooling Out Function in 
+Higher Education. American Journal of Sociology, 
+55( 6 ): 569-57 6 m Arthur M . Cohen and Leslie Purdy, 
+Coll eg e Curriculum and Instruction , 1971. Simon and 
+Schuste, N.Y.: A Selected Academic Readings Book. 
+
+Clark, Reignald M. (1983). Family Life and School 
+
+Achievement: Why Poor 31ack Children Succeed or Fail , 
+
+Chi cago : University of Chicago Press . 
+
+Grouse, James and Trusheim. Dale. (1988). The Case Against 
+
+the SAT . The University of Chicago Press/Chicago and 
+
+London . 
+
+Cummins, rim. '1383). Language Proficiency and Academic 
+Achievement 108-129 in Oiler. John W..Jr. (ed.) Issues 
+
+m Language Tes ti ng Research, Rowley, Ma. Newbury 
+
+House. 
+
+Cummins, Jim. (1986). Empowering Minority Students: A 
+
+Framework for Int erven ti on . Har vard E d ucational Review 
+5_6(i) : 18-35. 
+
+Doran, Neil J. (1987). Male-Female Differences in 
+SAT-Verbal Ability Among Students of High 
+SAT-Ma themat icai Ability. Journal of Educat i onal 
+
+Measurement, f Spr ing )24 ( 1 ) : 6 5 - 7 1 . 
+
+Enckson, F. ( 1984 ). School Literacy, reasoning, and 
+
+civiiity: An anthropol ogist 1 s perspective . Review of 
+E ducationa l Rese a rch 54 (4):525-544. 
+
+Enckson, ?. (198/). Transformation and School Success: The 
+
+Politics and Culture of Educational Achievement. 
+Anthrop ol ogy and Education Q uarterly, 18( 4): 335-356. 
+
+Giroux, H. (1983). Theories of Reproduction and Resistance 
+in the New Sociology of Education: A Critical Analysis. 
+Harvard Educational Review 53 ( 3 ) : 2 57 -93. 
+
+Goldman. R.D. and Richards. Regma . ( 1974 ). The SAT 
+Prediction cf 3rades for Mexican-American Versus 
+Angl o-Amencan Students At University of California, 
+Riverside. Jou rna 1 of Educat i onal Measurement , 11 
+
+( summer 2 ) ' 12 9-35. 
+
+
+
+ERLC 
+
+
+
+-i /- 
+
+
+
+3oi dman , R . D . , and Hewitt, B . N. ( 1976). Predicting the 
+
+Success of Black, Chicano, Oriental, and White College 
+
+Students . Journal of Educational Measurement 13: 
+
+1 07-117. 
+
+
+
+Goldman, Susan R. and Trueba, Henry T . ( 1987 Ed.). Becoming 
+
+Literate i n Engli sh As A S econd Language . U . C . Santa 
+
+Barbara . Abl ex Publ is her , Norwood , N.J. 
+
+Gordon, Harold W. (1988). Specialized Cognitive Function 
+
+and School Achievement . Devel opment al Neurops ychol ogy ; 
+4(3) : 239-257. 
+
+3ordon . Milton M. (1964 ), Assimilation in American Life. 
+New York : Oxford university Press . 
+
+I-ordon . Virginia N . '1984). The Undecided Col 1 ege 
+
+Student: An Academic and Career Advising Challenge . 
+
+Charles C. Thomas Publisher. 
+
+Kirschman, Charles and Wong, Morrison G. (19S6). The 
+Extraordinary Educati onal Attainment of Asian 
+Americans: A Search For Historical Evidence and 
+Expi ana t ions . Social Forces Sep. 55 ( 1 ) : 1-27 . 
+
+Hsia, Jayjia. (1988). Asian Americans m Higher Education 
+and at Work . Hills da 1 e , New Jersey : Lawerence Eribaum. 
+
+
+
+H s i a , Jayjia. ( 1987-88 ). Asian Americans Fight the Myth 
+of the Super Student . E ducational Recor d , 58(4/1 ) : 
+94-97 . Fai 1 -Win. 
+
+Hsia, Jayjia. (1987). Asian American Students: Ability, 
+Achievement and Access to Higher Education . Paper 
+
+read at American Educational Research Association, 
+
+Washington D.C. April . 
+
+Hsia , Jayjia. (March 31--April 4, 1985), The Silent 
+
+Minority : As i a n Americ ans in Education and Work. Paper 
+presented at the Annua 1 Meeting of the Ameri can 
+Educational Research Association, Chicago, IL , . 
+
+Hsia, Jayjia. f 1983) . Cognitive Assessment of Asian 
+
+Americans in Chu-Chang , Mae ( ed . introd.) Rodriguez, 
+Victor fed. ? pre i . ) Asi an and Pac ifi c Amer i can 
+
+Perspecti ves in 5i 1 mgua 1 E ducation: Compara tive 
+
+Research. jew York: Teacher College, Columbia 
+University . 
+
+7 4 
+
+
+
+ERLC 
+
+
+
+77 
+
+
+
+Xitano, Harry H. L. and Kikumura, Akemi . (1980). The 
+
+Japanese American Family in Endo , Russe 1 1 ; St an 1 ey Sue 
+and Nathaniel N. Wagner, eds . Asian Americans: Social 
+
+and Psychological Perspectives, Vol.11 Science and 
+
+Behavior books . 
+
+Kitano, Harry L . and Sue, Stanley. (1973). The Model 
+Minorities. Journal of Social Issues, 21:1-9. 
+
+Kitano, Harry L. (1969). Japanese Americans: The Evolution 
+of a Subcul ture . Prentice-Hail Inc. , Englewood Cliffs, 
+New Jersey . 
+
+Klecka, William R . (1980). Discriminant Analysis. A 
+Sage University Paper. 
+
+Lareau , Annette . ( Apn 1 , 1987 ) . Social Class Di f f erences 
+in Fami ly school Rei at ions hips : The Importance of 
+Cultural Capital, Sociology of Education 60: 73-85. 
+
+Larson, L. R . and Scontrino, M. ?. (1976). The Consistency 
+of High School Grade Point Average and of the Verbal 
+and Mathematical Portions of the Scholastic Aptitude 
+Test of the College Entrance Examination Board, as 
+Predictors of College Performance: An Eight-Year study. 
+Educational and Psychologica l Measurement , 36 : 439-43. 
+
+McCornack, Robert. L . (1983). Bias in the Validity of. 
+Predicted College Grades in B'our Ethnic Minority 
+Grouos . Educational and Psychological Measurement, 
+43( 2 ): 517-522 V" 
+
+McFadden, Daniel. (1976). A Comment on Discriminant 
+
+Ana lysis "Versus" Logit Ana i y sis . Anna ls of Economic 
+and S o cial M eas urement, 5( 4): 511-523. 
+
+McDonald, R. T. and R. S. Gawkoski . (1979). Predictive 
+Value of SAT Scores and High School Achievement for 
+Success in a College Honors Program, Educational and 
+Psyc hol ogical Measurement . 39 : 411-414. 
+
+Monzon, Reynaldo Inocente. (1984). The E f fects of the 
+Fam i 1 v Envi ronmen t on th e Academic Performance of 
+Filipi no Am eric an College St udents. Master Thesis, San 
+Diego State university. 
+
+leader, Ralph and Nairn. Allan. ( 1980 ). The Reign of ETS. 
+
+
+
+75 
+
+
+
+Ogbu , John u . (1978). Minority Education and Caste : The 
+
+American System in Cross-cultural Perspective . New 
+
+York: Academic Press. 
+
+Ogbu, John U. (1981). Origins of Human Competence: A 
+
+Cultural-Ecological Perspective. Chi Id Devel opment , 
+52.(2) : 413-429 . 
+
+Ogbu, John U. (1982). Cultural Discontinuities and 
+
+School ing . Anthropology and Education Quarterly, 
+13,(4) : 290-307 . 
+
+Ogbu, John U. (1983). Minority Status and Schooling in 
+
+Plural Societies. Comparative Education Review , 
+27_(2): 168-190. 
+
+Ogbu, John U. (1987a). Variability in Minority Responses 
+to Schooling : Nonimmigrants vs . Immigrants in 
+Interpretive Ethnography of Education : At Home and 
+
+Abroad . George Spindler and Louise Spmdler, eds ♦ 
+
+pp,255-278. Hillsdale, N.J.: Erlbaum. 
+
+Ogbu, John U. (1987b). Variability in Minority School 
+Performance: A Problem in Search of an Explanation. 
+Anthropology and Education Quarterly 18 ( 4): 312-334. 
+
+Ogbu, John U. and Matut e-Bianchi , M. E. (1986). 
+
+Understanding Sociocultural Factors : Knowl edge , Identity 
+and School Adjustment in Beyond Language: Social and 
+
+Cultural Factors m Schooling Language Minority 
+
+Students . ( pp . 7 3-142 ) . Sacramento , CA : Bi 1 ingual 
+
+Education Office, California State. Department of 
+Educat i on . 
+
+Pantages, Timonthy J. (1973). Studies of College 
+
+Attrition: 1950-75. Review of Educat i onal Research, 
+48_(i): 49-105. 
+
+Pascareila, Ernest T., Duby , Paul B., Verr.on, A. M. , and Sue 
+P. Rasher (1981). Pre-enrol Iment Variables and 
+Academic Performance as Predictors of Freshman Year 
+Persistence, Early Withdrawal and Stopout 3ehavior in 
+an Urban , Nonresidential University. Research in 
+
+Higher Education. 15 ( 4) : 32 9-349. 
+
+Pascareila, Ernest T . ; Duby, P. 3.; and Inverson, 3. K. 
+V 1983 ) . A Test and Reconceptuaiization of A 
+Theoretical Model of College Withdrawal in a Commuter 
+Institution Setting. S ociology of Education , 
+
+56_(April): 88-100. 
+
+76 
+
+
+
+ERLC 
+
+
+
+79 
+
+
+
+Passons, W. R . ( 1967 ). Predictive Validities of the ACT , 
+SAT, and High School Grades for First Semester GPA and 
+Freshman Courses . Educat 1 onal and Psychol ogi cal 
+Measurement 27 : 1143-44. 
+
+
+
+Press, S. James and Wilson, Sandra. (1978). Choosing 
+
+Between Logistic Regress i on and Discriminant Anal y si s . 
+Journal of the American Statistical Association, Dec. 
+
+73.(3 64) : 699-705 . 
+
+Shuitz, J. J.; Floriao, S.; and Erickson, F. (1982) 
+Where's The Floor? Aspects of the Cultural 
+Organization of Social Relationships in Communication 
+at Home and in School. In Perry Gilmore and Allan A. 
+Gi at thorn , Children In And Out of School : Ethnography 
+
+and Education . Center for Applied Linguistics, 
+
+Washington, D. C. 
+
+Sue, Stanley. (1980). Psychological Theory and 
+
+Implications for Asian American in Endo , Russell; 
+Stanley Sue and Nathaniel N. Wagner, eds . Asian 
+
+Ameri cans: Social and Psychological Perspectives, 
+
+Vol.11. Science and Behavior books. 
+
+
+
+Sue, Stanley. (1990). Asian American Educational 
+
+Achievements: A Phenomenon in Search of an Explanation . 
+
+unpublished article, Univ. of California, Los Angeles, 
+
+Sue, D. W., and Sue, S. (1972). Ethnic Minorities: 
+
+Resistance to being Researched . Prof essi onal 
+Psychol ogy 3 : 11-17. 
+
+
+
+Sue, Stanley; Abe, Jennifer. C1988). Predictors of 
+
+Academic Achievement among Asian American and White 
+Students. College Board Report No. 88-11 . College 
+Entrance Examination Board, New York, N. Y. 
+
+Sue, Stanley and Kitano, Harry L. (1973). Stereotypes as 
+
+a Measure of Success. Journal of Social Issues , 2 9 (2): 
+83-98 . 
+
+Sue, Stanley; Sue, Deraid Wing, and Sue, David W. (1975). 
+
+Asian Americans as a Minority Group. American 
+Psychologist, 30 : 90 6-910 . 
+
+Sue , S . and Zane , N. W. S. (1985). Academic Achievement 
+
+and Socioemotional Adjustment Among Chinese University 
+Students. Jo urnal of Counseling Psychology 32 (4): 
+570-79. 
+
+77 
+
+
+
+SO 
+
+
+
+Tatsuoka , Maurice M. ( 1971 ) . Mul tivariate Anal vsis : 
+
+Techniques for Educational and Psychological Research . 
+John Wiley & Sons, Inc. New York. 
+
+Tatsuoka , Maurice M. ( 1970 ) . Discriminant Anal ysis : 
+Study r of Group Differences. Institute for Personality 
+
+and Ability Testing. 1602-04 Coronado Drive, 
+
+Champaign, Illinois 61820. 
+
+Tinto, Vincent (1987). Leaving Col 1 eqe : Rethinking the 
+
+Causes and Cures of Student At tri tion . The Universi ty 
+
+of Chicago Press . Chicago and London. 
+
+Tinto, Vincent (1975). Dropout from Higher Education: A 
+
+Theoretical Synthesis of Recent Research. Review of 
+Educational Research, 45 ( 1 ) : 8 9-125. 
+
+Tinto, Vincent (1985). Dropping out and other Forms of 
+Withdrawal from College in Noel et al . Increasing 
+Student Retenti on . Jossey-Bass , San Francisco . 
+
+Tracey, Terence J. and William E. Sedlacek. (1985). The 
+Relationship of Noncogni ti ve Variables to Academic 
+Success: ~ Longitudinal Comparison by Race. Journal 
+
+of College Student Personnel, 26 : 405-410. 
+
+
+
+Trueba, Henry T. (1988). Culturally Based Explanations of 
+Minority Students 1 Academi c Ac hi evement . Anthropol ogy 
+and Education Quarterly, Sep. 19 ( 3 ) : 270-287 . 
+
+Trueba, Henry T. (1989). Raising Si 1 ent Voices : Educating 
+
+the Linguistic Minorities for the 21st Century . 
+
+Newbury House. 
+
+Trueba, Henry. (1987 ed. ) Success or Failure?: Learning 
+
+and the Language Minority Student . New York: Newbury 
+
+House/Harper & Row. 
+
+Vernon , Phi lip E. (1982 ). The Abilities and Achievements 
+
+of Orientals in North America , New York: Anaemic 
+
+Press . 
+
+Weitzman, R. A. (1982). The Prediction of College 
+
+Achievement by the Scholastic Aptitude Test and the 
+High Schooi Record. Journa 1 of Educa t i onal Measurement 
+
+19.(3) : 179-91. 
+
+Willis, Paul (1977). Learning to Labor : How Working Class 
+Kids Get Working Class Jobs . Col umbia Uni v . Press . 
+
+
+
+78 
+
+
+
+ERIC 
+
+
+
+Yamagata-No ji , Audrey Ayako. (1987). Academic Achievement 
+
+of Japanese Americans . PH.D dissertation. University 
+
+of California, Los Angeles. 
+
+
+
+9 
+
+ERLC 
+
+
+
+79 
+
+
+

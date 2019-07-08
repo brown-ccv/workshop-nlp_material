@@ -1,0 +1,34 @@
+ETag: "5f62faa6afb67ea6abcd9dc13a79e932"
+accept: */*
+accept-charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+accept-encoding: gzip,deflate,sdch
+accept-language: en-US,en;q=0.8
+authorization: LOW y2BdKdI1ioPZc0wG:REDACTED_BY_IA_S3
+cache-control: no-cache
+connection: close
+content-length: 69518067
+content-type: multipart/form-data; charset=UTF-8
+host: s3.us.archive.org
+origin: http://archive.org
+referer: http://archive.org/upload/
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+x-amz-acl: bucket-owner-full-control
+x-amz-auto-make-bucket: 1
+x-archive-interactive-priority: 1
+x-archive-meta-mediatype: audio
+x-archive-meta01-collection: opensource_audio
+x-archive-meta01-creator: uri(UCLA%20Students%20for%20Justice%20in%20Palestine)
+x-archive-meta01-date: uri(2013-02-26)
+x-archive-meta01-description: uri(%3Ctable%20class%3D%22uiGrid%20mvm%22%20cellspacing%3D%220%22%20cellpadding%3D%220%22%20style%3D%22word-wrap%3A%20normal%3B%20border%3A%200px%3B%20border-collapse%3A%20collapse%3B%20border-spacing%3A%200px%3B%20margin-top%3A%2010px%3B%20margin-bottom%3A%2010px%3B%20color%3A%20rgb(51%2C%2051%2C%2051)%3B%20font-family%3A%20'lucida%20grande'%2C%20tahoma%2C%20verdana%2C%20arial%2C%20sans-serif%3B%20font-size%3A%2011px%3B%20line-height%3A%2014px%3B%20background-color%3A%20rgb(255%2C%20255%2C%20255)%3B%22%3E%3Ctbody%3E%3Ctr%3E%3Ctd%20class%3D%22vTop%22%20style%3D%22vertical-align%3A%20top%3B%22%3E%3Cspan%20itemprop%3D%22description%22%3E%3Cspan%20class%3D%22fsl%22%20style%3D%22font-size%3A%2013px%3B%22%3EThis%20panel%20features%20David%20Shorter%2C%20Robin%20DG%20Kelley%2C%20and%20Saree%20Makdisi%20speaking%20about%20the%20similarities%20and%20intersections%20between%20social%20movements%20for%20equality%20and%20human%20rights.%20David%20Shorter%20teaches%20in%20the%20World%20Arts%20and%20Cultures%20Department%2C%20Robin%20DG%20Kelley%20is%20a%20professor%20of%20History%2C%20and%20Saree%20Makdisi%20teaches%20English%20and%20Comparative%20Literature%20at%20UCLA.%3Cbr%3E%3Cbr%3EThis%20event%20occurred%20on%20February%2026%2C%202013%2C%20and%20was%20hosted%20by%20UCLA%20Students%20for%20Justice%20in%20Palestine.%20Visit%20us%20at%20www.sjpbruins.com.%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftbody%3E%3C%2Ftable%3E)
+x-archive-meta01-scanner: Internet Archive HTML5 Uploader 1.3
+x-archive-meta01-subject: palestine
+x-archive-meta01-title: uri(Justice%20Is%20Universal)
+x-archive-meta02-subject: solidarity
+x-archive-meta03-subject: african american
+x-archive-meta04-subject: native american
+x-archive-meta05-subject: indigenous
+x-archive-size-hint: 69518067
+x-file-name: Justice is Universal.m4a
+x-file-size: 69518067
+x-requested-with: XMLHttpRequest
+x-upload-date: 2013-03-27T03:04:57.000Z

@@ -1,0 +1,781 @@
+
+by Kimberley A. M. Boyer and Susan M.Tracz 
+
+
+By 2040, Asian Americans are expected to account for 
+10 percent of the country's total population (Lee, 1999). 
+However, few studies focus on afterschool interventions for 
+Asian-American young people or examine how afterschool 
+programming affects them. One reason may be the myth 
+of the model minority, the stereotype that Asian-American 
+students are all high-achieving conformists (Olsen, 1999; 
+Walker-Moffat, 1995). However, Asian Americans are 
+far from being a monolithic group. For one thing, their 
+backgrounds are highly diverse. 
+
+The Asian population is made up of 31 different ethnic 
+groups who speak close to 300 languages and dialects 
+(Olsen, 1999). Among these groups, wide differences in 
+experiences are common. Recent immigrants, particularly 
+those from underprivileged areas where education levels 
+are low, are less likely to have the resources to support 
+their children’s learning than are immigrants from more 
+
+
+affluent regions. Experience of trauma before and dur¬ 
+ing immigration likewise takes its toll. For example, the 
+families of the Hmong students who are the focus of this 
+study came to the U.S. as refugees, often after long and 
+debilitating stays in refugee camps. The children of such 
+immigrant families must cope not only with language 
+and cultural differences but also with recent trauma and 
+with all the challenges of living in poverty. Contrary to 
+
+
+KIMBERLEY A. M. BOYER, Ed.D., is executive director at Central 
+Valley Afterschool Foundation, a technical assistance and capac¬ 
+ity building organization that supports high-quality afterschool 
+and summer programs through training and coaching, curricu¬ 
+lum development, community partnership development, special 
+events, and public policy initiatives. For the past 16 years, she 
+has worked as an elementary school teacher, afterschool director, 
+and consultant. Her research focuses on expanded learning and on 
+Asian-American youth. 
+
+SUSAN M. TRACZ, Ph.D., is a professor at California State Uni¬ 
+versity, Fresno, where she teaches graduate research and statistics 
+courses and guides doctoral students in their research methods. As 
+graduate programs coordinator, she assists with the administration 
+of the university's master's degree programs. She is on the editorial 
+board of several journals and has served as program evaluator for 
+National Science Foundation grants and others. 
+
+
+
+
+
+
+
+the “model minority” stereotype, these young people face 
+at least as many barriers to educational and social success 
+as do members of other minority groups in this country. 
+
+Afterschool programs can support Asian-American 
+young people by providing academic support and cultur¬ 
+ally specific programming designed to help them bridge 
+their native and adopted cultures. However, little is known 
+about the effect of afterschool participation on academic 
+and social outcomes for Asian-American students. This 
+causal-comparative study helps to fill this gap by studying 
+the differences in achievement, behavior, and self-esteem 
+between Hmong students who did and did not participate 
+in afterschool programs in two high schools in the Central 
+Valley of California. The focus on a specific ethnic group is 
+a reminder that Asian Americans are not a single entity but 
+a diverse set of groups. Our study helps to fill another gap in 
+the literature by focusing on the high school level, where the 
+effects of afterschool programming are much less well doc¬ 
+umented than at the elementary and middle school levels. 
+
+The Experience of Hmong Students 
+
+Beginning in 1975, the Hmong from northern Laos be¬ 
+gan to immigrate to the United States (Bliatout, Downing, 
+Lewis, & Yang, 1988). Recruited by the CIA during the 
+Vietnam War, many Hmong later fled from Laos to Thai¬ 
+land, where large numbers lived in refugee camps for up to 
+20 years (Goodkind, 2006). Between 1975 and 1999, about 
+1.2 million Southeast Asian refugees resettled in the U.S. 
+(U.S. Department of Health and Human Services, Office of 
+Refugee Resettlement, 1999). Some of these families expe¬ 
+rienced catastrophic losses during the Vietnam War and in 
+the refugee camps. These losses were further compounded 
+by the losses involved in emigrating. 
+
+The total Hmong population in the U.S. is esti¬ 
+mated at more than 235,000 people (California State 
+University, Fresno, 2011). California’s Hmong popula¬ 
+tion is estimated to be nearly 85,000; in the Central 
+Valley, the population is about 47,000. The adjustment 
+issues these immigrants faced in the U.S. included poor 
+health, post-traumatic stress disorder, poor English 
+language skills, lack of formal education, conflicted in- 
+tergenerational relations, unemployment, poverty, and 
+identity confusion about family and other roles (Beiser, 
+Turner, & Ganesan, 1989; Pernice & Brook, 1996). 
+
+According to Lee (2001), the proportion of Hmong 
+who are 17 years or younger is 44.1 percent; the U.S. aver¬ 
+age is 24.3 percent. Initially, when Hmong students began 
+to attend U.S. schools, their achievement rate was perceived 
+to be low, and Hmong students had high dropout rates, in 
+part because of the early marriages of girls. To compound 
+
+
+the burden, newly educated English-speaking children of¬ 
+ten did not respect their elders as their culture expected, 
+perceiving their parents and grandparents as clinging to 
+traditional ways. Later this pattern was broken as two dis¬ 
+tinct types of Hmong students emerged. Some students 
+were highly successful in school, reinforcing the stereo¬ 
+type of the model minority. Girls were higher achievers 
+than boys. However, for other students, low achievement, 
+early marriages and pregnancies, dropping out, and gang 
+membership continued to be problems. 
+
+A Shortage of Research 
+
+The positive effects of afterschool programs generally are 
+well documented. Teens in afterschool tend to have higher 
+achievement, higher test scores in high school, better at¬ 
+tendance, better study habits, and better psychosocial 
+indicators (American Youth Policy Forum, 2006; Espino, 
+Fabiano, & Pearson, 2004; Fabiano, Pearson, Reisner, & 
+Williams, 2006; Goerge, Cusick, Wasserman, & Gladden, 
+2007; Vandell, Reisner, & Pierce, 2007; Welsh, Russell, 
+Williams, Reisner, & White, 2002). These positive out¬ 
+comes are especially important for young teens and high 
+school students, who are increasingly likely to drop out 
+of school or engage in risky behaviors as they grow older. 
+
+Most of the research on the effect of afterschool pro¬ 
+grams on high school students examines programs in 
+middle school, where the foundation is laid for academic 
+and social success in high school. For example, Vandell 
+and colleagues (2007) found that middle school students 
+in high-quality afterschool programs experienced signifi¬ 
+cant gains in mathematics achievement. They also found a 
+reduction in incidence of misconduct, with a correspond¬ 
+ing increase in positive work habits. Similarly, researchers 
+(Espino et al., 2004, Fabiano et al., 2006) examined the 
+high school outcomes of eighth grade students who attend¬ 
+ed Citizen School afterschool programs in Boston. Fabiano 
+and colleagues (2006) found that participating students 
+had better school attendance, better English and math 
+grades, and fewer school suspensions than did students 
+who did not attend afterschool programs. In a study of LA’s 
+BEST programs for students in grades 6-9, Huang and col¬ 
+leagues (2005) followed four cohorts of students through 
+grade 12. LA’s BEST students were reported to have higher 
+self-esteem and lower dropout rates than did matched 
+nonparticipants (Huang, Kim, Marshall, & Perez, 2005). 
+
+Studies of afterschool programs in high schools are 
+less numerous because fewer students attend high school 
+programs. Indeed, as students drop out, fewer even attend 
+high school. The studies on the effects of afterschool pro¬ 
+grams on high school youth that do exist generally show 
+
+
+Boyer & Tracz 
+
+
+HMONG HIGH SCHOOL STUDENTS IN AFTERSCHOOL 45 
+
+
+positive results. For example, a study of the After School 
+Matters program in Chicago (Goerge et al., 2007) found 
+that participants had fewer absences, fewer course fail¬ 
+ures, better high school graduation rates, and lower 
+dropout rates than nonparticipants. A report by Flipps 
+and Diaz (2007) on the After School Safety and Enrich¬ 
+ment for Teens (ASSETs) program—also the setting of 
+our research—revealed that ASSETs had some signifi¬ 
+cant effects on students and schools. Participants passed 
+California’s English language arts and mathematics exit 
+exams at significantly higher rates than did similarly 
+situated students not involved in afterschool programs. 
+The program also increased students’ awareness of options 
+after high school and facilitated positive relationships 
+with adults and peers. 
+
+Ethnicity is rarely mentioned 
+in these studies of the effects of 
+middle and high school afterschool 
+programs. In those that do spec¬ 
+ify the ethnicities of the student 
+samples, the percentages of Asian- 
+American students are predictably 
+low, from 3 percent (Vandell et al., 
+
+2007) to 9 percent (Welsh et al., 
+
+2002). In the LA’s BEST study, Asian- 
+American students were the third 
+largest group after Hispanic and 
+African-American students (Huang 
+et al., 2005). Even in these studies, 
+however, the effects of afterschool programs specifically 
+on Asian-American students go essentially unexamined. 
+
+We know of no research that examines afterschool 
+programming for Hmong high school students. The only 
+study we have found of afterschool programs serving 
+low-income Hmong immigrant youth is that of Lee and 
+Hawkins (2008), who conducted a qualitative study of 
+community-based programs in Lakeside, Michigan, serving 
+children ages 6-12. Through observations and interviews, 
+Lee and Hawkins examined how these programs sup¬ 
+ported students’ development of their cultural identity by 
+drawing on Hmong culture, history, and family structure 
+as well as mainstream American culture. Children were 
+encouraged to learn English while continuing to speak the 
+Hmong language. The director advised students to adopt 
+aspects of the dominant American culture that were neces¬ 
+sary for social mobility and success but not to give up their 
+cultural identities. Lee and Hawkins concluded that par¬ 
+ticipants felt safe and comfortable in trying out their new 
+Hmong-American identities, so that they developed their 
+self-esteem and could be successful in school. However, 
+
+
+the study did not quantify academic and psychosocial out¬ 
+comes among participating Hmong youth. 
+
+Methods 
+
+In order to begin to quantify the effect of afterschool 
+programming on Hmong high school students, we 
+conducted a causal-comparative study of the differ¬ 
+ences in academic outcomes, academic behavior, and 
+self-esteem between such students who attended and 
+did not attend afterschool programs. 
+
+Setting 
+
+The setting for our study was the After-School Safety and En¬ 
+richment for Teens (ASSETs) program in two high schools 
+in the Central Valley of California. 
+These two high schools average ap¬ 
+proximately 2,600 students apiece in 
+grades 9-12; both have high Hmong 
+enrollments. These schools were 
+chosen for this study because they 
+were early ASSETs program grant¬ 
+ees, beginning the ASSETs program 
+during the 2007-2008 academic 
+year. Our research covered the 
+2008-2009 academic year. 
+
+ASSETs is a 21st Century Com¬ 
+munity Learning Centers program 
+established by the California Legis¬ 
+lature in 2002 as part of a statewide 
+effort to address the underachievement of California youth 
+(California Department of Education, 2008). Priority is giv¬ 
+en to projects that serve students in schools that, like the 
+two schools in this study, ranked in the lowest three deciles 
+of the Academic Performance Index (Hipps & Diaz, 2007). 
+
+The ASSETs programs we studied offered academic 
+support activities every day. Academic programs included 
+mentoring, tutoring, and workforce readiness training, 
+as well as frequent and extensive training to prepare stu¬ 
+dents for academic testing. Students could drop in and out 
+depending on their schedules and participation in other 
+ASSETs activities. Cultural enrichment and awareness ac¬ 
+tivities like dance and cooking were offered in modules 
+so students could pick and choose. These classes typically 
+met three to five times a week. Program facilitators were 
+school teachers or college students. 
+
+At each of the two schools, about 200 students at¬ 
+tended the ASSETs program each day. Roughly 15 percent 
+of the attendees were Hmong. In both schools, all students 
+were invited to attend, but program facilitators and men¬ 
+tors purposefully recruited struggling students who were 
+
+
+Ethnicity is rarely 
+mentioned in these studies 
+of the effects of middle 
+and high school afterschool 
+programs, in those that do 
+specify the ethnicities of 
+the student samples, the 
+percentages of Asian- 
+American students are 
+predictably low. 
+
+
+46 Afte rschool Matters 
+
+
+Spring 2014 
+
+
+referred by teachers and administrators to take advantage 
+of the academic help the ASSETs programs offered. 
+
+Participants 
+
+We recruited from among all Hmong-American students 
+in the two high schools chosen for this study. The final 
+sample consists of 226 Hmong high school students. Ap¬ 
+proximately one-third (77) participated in the afterschool 
+program, and two-thirds (149) did not. 
+
+Of the 176 students for whom gender information 
+was available, 42 percent were male and 58 percent 
+were female. Nearly equal numbers of students were in 
+all four grades, 9-12. According to the student surveys, 
+parental education levels were low, with 36 percent of 
+students’ parents having only an elementary school 
+education or less and another 41 percent having some 
+high school education. We did not have demographic 
+data for all students because some students did not 
+answer those questions on the survey. 
+
+Data Sources 
+
+To measure academic performance, we used student 
+scores from the California High School Exit Exam for Eng¬ 
+lish language arts (ELA) and mathematics. Only 11th- and 
+12th-grade students take these tests, so scores were not 
+available for students in grades 9 and 10. We assessed aca¬ 
+demic performance using cumulative grade point average 
+(GPA) and academic behavior using individual attendance 
+rates. The attendance rate was calculated as the number 
+of days a student was present in school divided by the 
+number of days that student was enrolled. All of these 
+data came from school district records. 
+
+To measure the affective outcome of interest, we used 
+the Rosenberg Self-Esteem Scale (Rosenberg, 1989), the 
+most widely used self-esteem measure in social science 
+research. The Rosenberg scale contains 10 items that are 
+rated on a four-point Likert scale ranging from “strongly 
+agree” to “strongly disagree.” We administered this 
+assessment to participating students along with a survey 
+of pertinent demographic information. 
+
+Procedures 
+
+In order to examine differences between Hmong youth 
+who did and did not participate in the ASSETs pro¬ 
+gram, we took several steps. First, we secured approval 
+from the institutional review board of California State 
+University, Fresno. At one school the principal assisted 
+with recruiting students from their homerooms. In the 
+other school, students were recruited with announce¬ 
+ments asking them to come to the library for further 
+
+
+information. As an incentive, participating students 
+were entered into a lottery for an iPod. Once students 
+volunteered, we gave them informational packets that 
+included an introductory letter; a consent form; and a 
+DVD that educated the students and their parents about 
+the purpose of the study, the surveys, and other relevant 
+materials. After permission was secured, we brought 
+students together to take our survey, which included 
+self-esteem and demographic measures. 
+
+We then divided the 224 Hmong students whose par¬ 
+ents gave consent and who responded to our survey into 
+two groups: students who had participated in the ASSETs 
+program for at least 30 days since August 2008 and stu¬ 
+dents who had not. We identified members of these groups 
+based on their answers to our survey questions and then 
+checked the afterschool site attendance databases. We 
+chose 30 days as the cutoff point based on research by 
+Hipps and Diaz (2007) indicating that significant increases 
+in student achievement took place at 30 days or more of 
+participation in the ASSETs program. Furthermore, stu¬ 
+dents who dropped out of ASSETs tended to leave within 
+the first 30 days, so that those who persisted past 30 days 
+tended to continue in the program. 
+
+Next, we collected archival 2008-2009 data for stu¬ 
+dents in both groups, including exit exam scores in ELA 
+and math, cumulative GPAs, and school attendance. 
+Using student ID numbers as identifying information, 
+we merged our survey data with the archival data for 
+analysis. We ran a variety of statistical tests to deter¬ 
+mine significance. For example, we ran chi-square tests 
+of independence to determine whether gender, grade, or 
+parent education level affected whether or not students 
+participated in the afterschool program. We calculated 
+average results for each of the dependent variables— 
+ELA scores, math scores, GPA, attendance rate, and 
+self-esteem—by afterschool participation and by grade 
+and then ran tests to determine whether these results 
+were significant at the 0.05 level. 
+
+Effects of Afterschool Participation on Hmong 
+High School Students 
+
+We found no significant differences in afterschool par¬ 
+ticipation by gender or parent education level. Students 
+whose parents had only an elementary school educa¬ 
+tion, for example, were no more or less likely to attend 
+the afterschool program than students whose parents 
+had college degrees. However, we did find a significant 
+chi-square value between grade and afterschool partici¬ 
+pation: a higher proportion of students in grade 12 than 
+in other grades participated in ASSETs. 
+
+
+Boyer &■ Tracz 
+
+
+HMONG HIGH SCHOOL STUDENTS IN AFTERSCHOOL 47 
+
+
+Tests comparing the effect of afterschool participation 
+on academic outcomes showed some statistically signifi¬ 
+cant differences. We found that the difference in GPA by 
+ASSETs participation was in the negative direction: Stu¬ 
+dents who participated had an average GPA of 2.05, lower 
+than the average GPA of nonparticipants, 2.47. However, 
+on the California High School Exit Exam, 11th- and 12th- 
+graders who participated in the afterschool program had 
+a higher average ELA score than did nonparticipants. The 
+average ELA score was 371 for participants and 355 for 
+nonparticipants, a statistically significant difference. (The 
+passing score is 350.) Participants also had higher math 
+scores than did nonparticipants, though the difference 
+was not statistically significant. 
+
+In our measure of academic behavior, ASSETs partici¬ 
+pants had significantly better average attendance rates, at 
+99 percent, than did nonparticipants, at 95 percent. 
+
+The findings for self-esteem were mixed. Ninth-grade 
+students who did not participate in ASSETs had higher 
+scores for self-esteem than did participants. However, for 
+all other grades, participants had higher self-esteem scores 
+than did nonparticipants, with participating seniors hav¬ 
+ing the highest self-esteem score of all. 
+
+Understanding the Results 
+
+In contrast to much of the pub¬ 
+lished research on afterschool 
+programming for middle and high 
+school students (Fabiano et al., 
+
+2006; Goerge et al, 2007), which 
+reports higher achievement rates 
+for afterschool students than for 
+non-participating peers, our find¬ 
+ings were mixed. Though students 
+in the ASSETs program achieved 
+higher scores on the ELA exit exam 
+than did non-participating stu¬ 
+dents, participating students had 
+lower GPAs. It must be noted that GPAs for both groups of 
+Hmong students were relatively low: just 2.05 for partici¬ 
+pating students and 2.47 for non-participating students. 
+In this respect, Hmong students in this study apparently 
+experienced an achievement gap comparable to the often- 
+cited gap experienced by Hispanic and African-American 
+students. Clearly the Hmong students in our study did 
+not fit the model minority stereotype of Asian Americans. 
+
+The relatively low GPAs of all Hmong students may 
+be at least partially explained by cultural and educational 
+background. Formal schooling in all subjects relies on 
+reading and writing. Hmong is an ancient culture, but, 
+
+
+unlike many Asian cultures, its language has only recently 
+acquired a system of writing (Bliatout et al., 1988). Mean¬ 
+while, about 40 percent of the parents of the students in 
+our study had, at best, only a grade school education— 
+a finding consistent with their backgrounds as refugees. 
+Parents with little education themselves, and particularly 
+those raising children in marginal settings such as refu¬ 
+gee camps, are not likely to engage in the child-rearing 
+practices that prepare children to excel in school, such as 
+reading aloud. As a group, then, the Hmong students in 
+our sample may have started with an educational deficit 
+that helps to explain their relatively low grades. 
+
+The fact that afterschool participants had lower 
+average GPAs than did nonparticipants may also be 
+attributed to the students’ starting point before the 
+afterschool intervention. Students with low GPAs 
+were targeted for recruitment into the ASSETs pro¬ 
+grams so that they could benefit from the specialized 
+academic support the programs offered. Tutoring in 
+core subject areas, credit recovery classes, and exit 
+exam tutorials were designed to help ASSETs students 
+get and stay on track to graduate. As a group, ASSETs 
+students are likely to have started out with lower GPAs 
+than their non-participating peers. 
+
+Two areas in which the ASSETs 
+program does seem to have helped 
+participating students are prepara¬ 
+tion for the high school exit exam 
+and school attendance. Test prepa¬ 
+ration was offered to all students in 
+the high schools in our study, but 
+it was offered only sporadically, 
+and students often did not take 
+advantage of the opportunity or 
+use it regularly. Meanwhile, ASSETs 
+students received targeted tutor¬ 
+ing to help them with the exam. 
+Evidence of the effectiveness of this 
+exit exam training is that participants had significantly 
+higher mean scores on the ELA exam than did nonpar¬ 
+ticipants. ASSETs students also had better attendance 
+rates than did non-participating students. These Endings 
+echo the research described above that found higher re¬ 
+sults on some measures of academic achievement and 
+behaviors for afterschool participants. 
+
+The ASSETs program also seems to have had pos¬ 
+itive effects on self-esteem. In the ninth grade, students 
+attending the afterschool program had lower average 
+self-esteem scores than those who did not attend. Per¬ 
+haps these students were experiencing more freedom 
+
+
+Hmong students in this study 
+apparently experienced an 
+achievement gap comparable 
+to the often-cited gap 
+experienced by Hispanic and 
+African-American students. 
+Clearly the Hmong students 
+in our study did not fit the 
+model minority stereotype 
+of Asian Americans. 
+
+
+48 Afte rschool Matters 
+
+
+Spring 2014 
+
+
+as they started high school, while 
+the ASSETs students felt confined 
+by their participation in a school- 
+related activity after school. 
+
+However, students in grades 10- 
+12 who participated in ASSETs 
+had higher self-esteem scores than 
+did those who did not participate. 
+
+The highest self-esteem rating 
+was for seniors who were assisted 
+academically by ASSETs as they 
+neared the achievement of a high 
+school diploma. Program partici¬ 
+pants may have benefitted from 
+the positive adult relationships, 
+academic support, and Hmong 
+cultural enrichment provided by ASSETs, similar to the 
+students in Lee and Hawkins’s (2008) qualitative study. 
+
+Implications for Policy and Practice 
+
+The ASSETs afterschool program produced positive 
+outcomes for the Hmong high school students in our 
+sample. The implication is that other Hmong high 
+school students could also benefit from afterschool 
+programs. If they receive intensive test preparation, 
+students are likely to improve their test scores. They 
+may be more likely to attend during the regular school 
+day if they are motivated to attend the afterschool 
+program. Furthermore, exposure to experiences 
+related to their home culture with the support of car¬ 
+ing afterschool staff may improve their self-esteem. 
+
+Self-esteem is one possible indicator of mental 
+health status. The process of acculturation—the cog¬ 
+nitive and behavioral changes brought about by close 
+contact with a different culture—can be stressful 
+for acculturated individuals, often producing de¬ 
+pression, anxiety, and low self-esteem (Rhee, Chang, 
+& Rhee, 2003). As Rhee and colleagues (2003) found, 
+professionals must recognize the importance of com¬ 
+munication, within families and across cultural groups, 
+in promoting self-esteem among adolescents. School 
+and afterschool educators who work with Hmong stu¬ 
+dents should pay particular attention to the students’ 
+distinct cultural context. These professionals need to 
+understand the ecological realities and ethno-cultural 
+dynamics faced by Hmong students in order to help 
+them more effectively. Many afterschool programs like 
+ASSETs strive to address these realities. Afterschool 
+programs’ ongoing efforts along these lines can pro¬ 
+duce positive social-emotional outcomes not only 
+
+
+among Hmong students but also 
+among students from any disad¬ 
+vantaged immigrant group. 
+
+As with all studies, this one 
+leads to future research possibili¬ 
+ties. Future studies that address 
+academic differences among 
+Asian subgroups, including the 
+Hmong, may be useful in dis¬ 
+pelling the myth of Asians as the 
+model minority. Studies comparing 
+the academic and social outcomes 
+of Hmong students and of mem¬ 
+bers of other non-Asian minorities 
+may find more similarities than 
+differences. Other research could 
+compare outcomes among Hmong students whose 
+families have lived in the U.S. for longer and shorter 
+periods of time. This avenue of research could provide 
+useful insights into Hmong students’ educational 
+and acculturation processes. 
+
+References 
+
+American Youth Policy Forum. (2006, January). 
+Helping youth succeed through out-of-school time 
+programs. Retrieved from http://www.aypf.org/ 
+publications/HelpingYouthOST2006.pdf 
+
+Beiser, M., Turner, R., & Ganesan, S. (1989). 
+Catastrophic stress and factors affecting its consequences 
+among Southeast Asian refugees. Social Science 
+Medicine, 28, 195. 
+
+Bliatout, B., Downing, B., Lewis, J., & Yang, D. (1988). 
+Handbook for teaching Hmong-speaking students. 
+Sacramento, CA: Folsom Cordova Unified School 
+District, Southeast Asia Community Resource Center. 
+
+California Department of Education. (2008). 21st 
+Century Community Learning Centers. Retrieved from 
+www. cde. ca. gov/ls/ba/cp 
+
+California State University, Fresno. (2011). Hmong and 
+Southeast Asian demographics. Retrieved from http:// 
+www.csufresno.edu/hsari/demographics/index.html 
+
+Espino, J., Fabiano, L., & Pearson, L. M. (2004). 
+
+Citizen Schools: Evidence from two student cohorts on the 
+use of community resources to promote youth development. 
+Washington, DC: Policy Studies Associates. 
+
+Fabiano, L., Pearson, L. M., Reisner, E. R., & Williams, 
+I. J. (2006). Preparing students in the middle grades to 
+succeed in high school. Washington, DC: Policy Studies 
+
+
+School and afterschool 
+educators who work with 
+Hmong students should 
+pay particular attention to 
+the students' distinct 
+cultural context. These 
+professionals need to 
+understand the ecological 
+realities and ethno-cultural 
+dynamics faced by Hmong 
+students in order to help 
+them more effectively. 
+
+
+Boyer &■ Tracz 
+
+
+HMONG HIGH SCHOOL STUDENTS IN AFTERSCHOOL 49 
+
+
+Associates. Retrieved from http://www.emcf.org/ 
+fileadmin/user/PDF/Results/evalCitizenSchools 
+Evaluation2006.pdf 
+
+Goerge, R., Cusick, G. R., Wasserman, M., & Gladden, R. 
+M. (2007). After-school programs and academic impact: A 
+study of Chicago’s After School Matters. (Issue Brief 112). 
+Retrieved from http://www.chapinhall.org/sites/default/ 
+files/publications/ChapinHallDocument(2)_0.pdf 
+
+Goodkind, J. R. (2006). Promoting Hmong refugees’ 
+well-being through mutual learning: Valuing knowledge, 
+culture, and experience. American Journal of 
+Community Psychology, 37(1/2), 77-93. 
+
+Hipps, J., & Diaz, M. (2007, January). California 21st 
+Century high school After School Safety Enrichment for 
+Teens (ASSETs) program: Independent evaluation. 
+Retrieved from http://www.wested.org/online_pubs/ 
+eval-07-02.pdf 
+
+Huang, D., Kim, K. S., Marshall, A., & Perez, P. (2005, 
+December). Keeping kids in school: An LA’s BEST example. 
+A study examining the long-term impact of LA’s BEST on 
+students’ dropout rates. Los Angeles: Center for Research 
+on Evaluation, Standards, and Student Testing, 
+University of California, Los Angeles. Retrieved from 
+http://www.lasbest.org/download/keeping-kids-in-school 
+
+Lee, S. J. (2001). More than “model minorities” or 
+“delinquents”: A look at Hmong American high school 
+students. Harvard Educational Review, 71(3), 505-528. 
+
+Lee, S. J., & Hawkins, M. R. (2008). “Lamily is here”: 
+Learning in community-based after-school programs. 
+Theory into Practice, 47(1), 51-58. 
+
+Lee, S. K. (1999, January). The relationship between 
+cultural identity and academic achievement of Asian 
+American students. Paper presented at the 28th Annual 
+International Bilingual/Multicultural Education 
+Conference, Denver, CO. 
+
+Olsen, L. (1999). An invisible crisis: The educational 
+needs of Asian Pacific American youth. New York, NY: 
+Asian Americans/Pacific Islanders in Philanthropy. 
+
+Pernice, R., & Brook, J. (1996). Refugees’ and immigrants’ 
+mental health: Association of demographic and post¬ 
+migration factors. Journal of Social Psychology, 136, 511— 
+519. 
+
+Rhee, S., Chang, J., & Rhee, J. (2003). Acculturation, 
+communication patterns, and self-esteem among Asian and 
+Caucasian American adolescents. Adolescence, 38, 749-768. 
+
+Rosenberg, M. (1989). Society and the adolescent self-image 
+(Rev. ed.). Middletown, CT: Wesleyan University Press. 
+
+
+U.S. Department of Health and Human Services, 
+
+Office of Refugee Resettlement. (1999). Annual ORR 
+Reports to Congress - 1999. Retrieved from http:// 
+archive.acf.hhs.gov/programs/orr/data/99arc8.htm 
+
+Vandell, D. L., Reisner, E. R., & Pierce, K. M. (2007, 
+October). Outcomes linked to high-quality afterschool 
+programs: Longitudinal findings from the study of promising 
+afterschool programs. Report to the Charles Stewart Mott 
+Loundation. Retrieved from http://www.gse.uci.edu/ 
+childcare/pdf/afterschool/PP%20Longitudinal%20 
+Lindings%20Linal%20Report.pdf 
+
+Walker-Moffat, W (1995). The other side of the Asian 
+American success story. San Francisco, CA: Jossey-Bass. 
+
+Welsh, M. E., Russell, C. A., Williams, I., Reisner, E. R., 
+& White, R. N. (2002). Promoting learning and school 
+attendance through after-school programs: Student-level 
+changes in educational performance across TASC’s first three 
+years. Washington, DC: Policy Studies Associates. 
+Retrieved from http://www.tascorp.org/files/1436_file_ 
+promoting_learning_attendance_TASC_3years_2002.pdf 
+
+
+50 Afte rschool Matters 
+
+
+Spring 2014 
+
+

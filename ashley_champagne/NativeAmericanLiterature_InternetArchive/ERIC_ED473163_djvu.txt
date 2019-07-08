@@ -1,0 +1,2962 @@
+DOCUMENT RESUME 
+
+
+
+ED 473 163 
+
+
+
+CG 032 178 
+
+
+
+AUTHOR 
+
+TITLE 
+
+PUB DATE 
+NOTE 
+
+PUB TYPE 
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+Vargas, Elide M. ; Veach, Laura J. 
+
+Analysis of Multicultural Counseling Articles Published by 
+the American Counseling Association July 1980 to June 1996. 
+2002 - 00-00 
+23p . 
+
+Information Analyses (070) — Reports - Research (143) 
+
+EDRS Price MF01/PC01 Plus Postage. 
+
+American Indians; Asian Americans; Blacks; ^Counseling; 
+Counselor Training; ^Ethnic Groups; Hispanic Americans; 
+
+* Journal Articles; Literature Reviews; ^Scholarly Journals; 
+*Trend Analysis 
+^Multicultural Counseling 
+
+
+
+ABSTRACT 
+
+
+
+The purpose of this research was to assess and analyze the 
+frequency and trends of multicultural counseling articles in thirteen 
+journals published by the American Counseling Association (ACA) from 1980 to 
+1996, with specific focus on four racial and ethnic groups prevalent in the 
+United States: African American, Asian American, Latino, and Native American. 
+The results of the research show that all thirteen journals published 
+articles on racial and ethnic groups; however, the greatest number of these 
+articles were published by the "Journal of Counseling and Development" and 
+the "Journal of Multicultural Counseling and Development." The majority of 
+these articles dealt with racial and ethnic groups in general, followed by 
+articles with specific focus on African Americans. Less attention was given 
+to Latinos, Native Americans, and Asian Americans. There was a balance 
+between empirical and nonempirical contributions. The subject focus of all 
+the articles concentrated mainly on counselor training issues. (Contains 24 
+references and 3 tables.) (Author) 
+
+
+
+
+Reproductions supplied by EDRS are the best that can be made 
+from the original document. 
+
+
+
+332178 
+
+
+
+co 
+
+
+
+ro 
+
+
+
+Q 
+
+w 
+
+
+
+Analysis of Multicultural Counseling 
+Articles Published 
+
+by the American Counseling Association 
+July 1980 to June 1996 
+
+
+
+Elide M. Vargas, M.A. Ed. 
+
+Wake Forest University 
+Department of Politics 
+P.O. Box 7568 
+
+Winston-Salem, North Carolina 27 109 
+
+Laura J. Veach,* Ph.D. 
+
+Wake Forest University 
+Counselor Education 
+P. O. Box 7266 
+
+Winston-Salem, North Carolina 27109 
+Email: veachlj@wfu.edu 
+
+
+
+* To whom correspondence should be addressed at Wake Forest University, P. O. Box 
+7266, Winston-Salem, North Carolina 27109. 
+
+The authors thank Sam Gladding, Donna Henderson, James Raper, Emily Simpson, 
+Dionne Smith, and Deborah Weiner for their assistance. 
+
+
+
+U.S. DEPARTMENT OF EDUCATION 
+Oflice of Educational Research and Improvement 
+
+EDUCATIONAL RESOURCES INFORMATION 
+CENTER (ERIC) 
+
+□ This document has been reproduced as 
+received from the person or organization 
+originating it. 
+
+□ Minor changes have been made to 
+improve reproduction quality. 
+
+
+
+• Points of view or opinions stated in this 
+document do not necessarily represent 
+official OERI position or policy. 
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL HAS 
+BEEN GRANTED BY 
+
+
+
+\ 
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+1 
+
+
+
+
+o 
+
+4 # 
+
+
+
+BEST COPY AVAILABLE 
+
+
+
+Multicultural Articles 
+
+
+
+11 
+
+
+
+Analysis of Multicultural Counseling 
+Articles Published 
+
+by the American Counseling Association 
+July 1980 to June 1996 
+
+
+
+ABSTRACT 
+
+
+
+The purpose of this research was to assess and analyze the frequency and trends of 
+multicultural counseling articles in thirteen journals published by the American Counseling 
+Association (AC A) from 1980 to 1996, with specific focus on four racial and ethnic groups 
+prevalent in the United States: African American, Asian American, Latino, and Native American. 
+
+The results of this research show that all thirteen journals published articles on racial and 
+ethnic groups; however, the greatest numbers of these articles were published by the Journal of 
+Counseling and Development and the Journal of Multicultural Counseling and Development. 
+The majority of the articles dealt with racial and ethnic groups in general, followed by articles 
+with specific focus on African Americans. Less attention was given to Latinos, Native 
+Americans, and Asian Americans. There was a balance between empirical and nonempirical 
+contributions. The subject focus of all the articles concentrated mainly on counselor training 
+issues. 
+
+
+
+
+3 
+
+
+
+Multicultural Articles 
+
+
+
+1 
+
+
+
+Introduction 
+
+Multicultural counseling literature has increased enormously in the past 30 years. During 
+the 1980s there was concern as to the amount and direction of the literature in journal articles. 
+Some authors considered the field of multiculturalism to be in its infancy and that it lacked a 
+clear identity and solid direction at a critical juncture (Heath, Neimeyer, & Pedersen, 1988; 
+Ponterotto, Casas, Suzuki, & Alexander, 1995). The direction of change was not clear (Heath et 
+al., 1988; Pedersen, 1985; Ponterotto, 1986; Ponterotto & Sabnani, 1989). In 1988, a Delphi poll 
+on the future of multicultural counseling (Heath et al.) predicted an increase in training and 
+preparation of practitioners, particularly in the number of counselor education programs 
+incorporating skill development. The panel of experts also predicted an increase in areas related 
+to theory and research, as well as an increase in publications related to Latinos, Asians, and 
+African Americans, with Native Americans being the group least likely to be the focus of 
+articles. A ranking of the journals most likely to publish multicultural counseling articles was 
+obtained. The ranking was comprised from the nominations of experts in the field. The three 
+highest-ranked journals were the Journal of Counseling Psychology, the Journal of Counseling 
+and Development, and the Journal of Multicultural Counseling and Development. This poll 
+constituted an important frame of reference for the future since it identified major trends in 
+multicultural counseling and paved the way for changes where needs were identified. A later 
+study by Perez, Constantine, and Gerard (2000) identified an increase in multicultural articles 
+(12%) published in the Journal of Counseling Psychology (JCP) spanning 1988 until 1997. 
+
+Ponterotto (1986) conducted a content analysis of the Journal of Multicultural 
+Counseling and Development. His recommendations included more diversified articles on ethnic 
+minorities, more special issues, particularly on career development, and a special focus on 
+
+
+
+
+4 
+
+
+
+Multicultural Articles 2 
+
+individual ethnic minorities. Five years later, another study (Bennett, Rowe, & Hill, 1991) on 
+the contents of the same journal yielded an increase in articles on minority personality 
+development and research utilizing multivariate analysis. However, the authors observed that 
+there was still a lack of ethnic representation among Asian Americans, Latinos, and Native 
+Americans. A recent analysis including articles published in the Journal of Multicultural 
+Counseling and Development between 1985 and 1999 (Pope-Davis, Ligiero, Liang, & 
+Codrington, 2001) identified a continued need for articles focusing on Asian American and 
+Latino counseling issues. Ernst and Ramirez (1994) conducted a similar study of the Journal of 
+Mental Health Counseling during the first 10 years of publication (1979 -1988). Results 
+indicated that minimal attention was given to minority groups and multiculturalism in general. 
+Furthermore the literature consistently shows an imbalance, since most of the existing research 
+studies published in scholarly journals were based on African Americans and to a lesser extent on 
+Asian Americans, Latinos, and Native Americans (Leung, 1995; Ponterotto, 1986; Pope-Davis et 
+al., 2001; Sue & Sue, 1990). 
+
+Das (1995) noted that since the mid-1960s a substantial amount of literature dealing with 
+the mental health needs of racial and ethnic groups has been published. This literature provides a 
+useful base of knowledge for practitioners. Nonetheless, some experts in the field think that 
+further research is needed, particularly in the areas of counselor education and training programs, 
+counseling and mental health, and counseling process and practice (Ponterotto et al., 1995; Sue & 
+Sue, 1999). There has been a call for more directed research that may, in turn, give the 
+profession a better understanding of more appropriate counseling interventions specific to 
+various ethnic groups (Sue & Sue, 1990,1999). Published reviews have been identified 
+numerous multicultural publications pertaining to multicultural counseling issues (Atkinson & 
+
+
+
+Multicultural Articles 3 
+
+Lowe, 1995; Bennett et al., 1991; Ernst & Ramirez, 1994; Ponterotto, 1986; Ponterotto & 
+
+Sabnani, 1989; Sue & Sue, 1990,1999). A large number of published books contain information 
+with the aim of aiding practitioners in counseling ethnic minority groups (Aponte, Rivers, & 
+
+Wohl, 1995; Paniagua, 1994; Pedersen, 1985, 1994; Ponterotto, et al., 1995; Sue & Sue, 1990, 
+
+1999). However, authors (Bennett et al., 1991; Ernst & Ramirez, 1994; Essandoh, 1996; 
+Holcomb-McCoy & Myers, 1999; Leung, 1995) continue to stress the need for more studies on 
+minority personality development; career development; the effects of race and ethnicity on 
+diagnosis, process, treatment, and outcome; multicultural counseling competencies; and 
+professional issues and ethics. 
+
+Currently, a major concern among counseling professionals is the amount and strength of 
+empirical research regarding ethnic and racial groups: "After three and a half decades of research on 
+cross-cultural issues in counseling, it seems appropriate to ask if there is empirical support for training 
+more ethnic therapists, acquiring knowledge of ethnic cultures, and modifying traditional forms of 
+treatment" (Atkinson & Lowe, 1995, p.389). Comprehensive definitions of multiculturalism have 
+included information about race, ethnicity, sexual orientation, and disabilities, to name a few. Sue 
+(2001) stressed the need for a better balance for all “group identities related to culture” (p. 792) 
+pertaining to race. When clinicians experience discomfort related to race issues and focus on other 
+group differences “...race becomes less salient and allows us to avoid addressing problems of racial 
+prejudice, racial discrimination, and systemic racial oppression” (Sue, p.792). The issue of empirical 
+research and attention given to multicultural counseling, particularly to the four ethnic and racial 
+groups prevalent in the United States, becomes even more important in view of the current cultural 
+diversity in the United States and its projected increase. By 2005 the U.S. Census Bureau (2000) 
+projects that 13.3 percent of the U.S. population will be Latino, 13.1 percent African American, 4.6 
+
+
+
+
+6 
+
+
+
+Multicultural Articles 4 
+
+percent Asian American, and 0.9 percent Native American. By the year 2050 Latinos, African 
+Americans, Asian Americans, and Native Americans are estimated to reach 24.3, 14.7, 9.3, and 1.1 
+percent of the population, respectively. The largest increase in population is estimated to be among 
+Latinos and Asian Americans. It is expected that by the year 2050 the Latino population will 
+outnumber the nation’s combined number of African Americans, Asian Americans, and Native 
+Americans (U.S. Census Bureau, 2000). 
+
+In addition to the many authors from various disciplines who referred to the importance of 
+multicultural competencies, professional associations have also increased their efforts toward 
+reaching this purpose. The American Personnel and Guidance Association (APGA) was established in 
+1952 and assumed its present name in 1992, the American Counseling Association (AC A). One 
+identified goal of ACA is to promote organizational changes “to create an organizational structure 
+that is more responsive to the multicultural and developmental needs of those counseling 
+practitioners, researchers, educators, and students who play a pivotal role in the present and future 
+mental health care system in the United States” (D’ Andrea & Daniels, 1995, p. 22). 
+
+The Journal of Counseling and Development is the flagship journal of the ACA. One 
+purpose of the ACA, through its divisions and their publications is to enhance professional identity. 
+Divisions are organized around specific interest and practice areas to provide specialized knowledge. 
+The Association for Multicultural Counseling and Development (AMCD), a division of ACA, was 
+created to “improve cultural, ethnic and racial empathy and understanding by programs to advance 
+and sustain personal growth” (American Counseling Association, 1997). 
+
+Although the contents of the Journal of Multicultural Counseling and Development and 
+the Journal of Counseling and Development were reviewed comprehensively (Bennett et al., 
+
+1991; Ponterotto, 1986; Ponterotto & Sabnani, 1989; Pope-Davis et al., 2001), as well as the 
+
+
+
+
+7 
+
+
+
+Multicultural Articles 5 
+
+contents of the Journal of Mental Health Counseling (Ernst & Ramirez, 1994; Streicher & 
+Gerstein, 1994), ten other journals published by ACA have not been assessed solely on their 
+multicultural content. These journals tend to have a specific focus that attracts specialized 
+practitioners in mental health, school counseling, measurement and evaluation, family counseling 
+therapy, and group work. 
+
+The purpose of our analysis was to determine the inclusion of articles pertaining to racial 
+and ethnic counseling issues within selected ACA journals over a 16-year period: A review of 
+counseling articles addressing needs of other groups with diverse cultural identities was beyond 
+the scope of this analysis and hence, was not included. Furthermore, the inclusion of articles on 
+specific minority groups was assessed noting the empirical nature of the articles. Finally, this 
+analysis evaluated whether the articles focused on vocational counseling, counselor training, or 
+counseling techniques. 
+
+Methodology 
+
+This research analyzes the publication frequency of multicultural articles published in 
+thirteen journals of the American Counseling Association (ACA) from July 1980 to June 1996, 
+with particular focus placed on African Americans, Asian Americans, Latinos, and Native 
+Americans. The thirteen journals reviewed were the following: Career Development Quarterly 
+(CDQ), Counseling and Values (C & V), Counselor Education and Supervision ( CE & S), 
+Elementary School Guidance and Counseling (ESG & C), The Family Journal: Counseling and 
+Therapy for Couples and Families (FJ), The Journal for Specialists in Group Work (JSGW), 
+Journal of Counseling and Development (JC & D), The Journal of Humanistic Education and 
+Development (JHE & D), Journal of Mental Health Counseling (JMHC), Journal of 
+Multicultural Counseling and Development (JMCD), Rehabilitation Counseling Bulletin ( RCB '), 
+
+
+
+
+8 
+
+
+
+Multicultural Articles 6 
+
+Measurement and Evaluation in Counseling and Development (MEC & D), and School 
+Counselor (SC). All of these journals were published prior to 1980, with the exception of The 
+Family Journal: Counseling and Therapy for Couples and Families, which began publication in 
+March 1993. 
+
+Only full-length articles dealing with ethnic and racial groups were taken into 
+consideration. The lead author, a Latina female, reviewed all articles to determine inclusion and 
+categorizing for this analysis based on content pertaining to multicultural counseling issues. A 
+reliability check by another rater was not included at the time of this analysis. Messages from 
+presidents and editorial pages were excluded. A review of books or texts related to multicultural 
+counseling was beyond the scope of this analysis and was not included. The subject focus of 
+each article and whether the articles were of an empirical or nonempirical nature were analyzed. 
+The articles were carefully tallied both by individual journal and by all thirteen journals to obtain 
+the total number of multicultural articles published. They were also arbitrarily divided among 
+four-year spans from July 1980 to June 1984, July 1984 to June 1988, July 1988 to June 1992, 
+and July 1992 to June 1996, to provide a closer examination of any trends within the sixteen year 
+period. Percentages were drawn from the numbers of articles obtained merely to facilitate the 
+understanding of the data and for comparisons. 
+
+For the purpose of this study, the articles were considered empirical when the authors 
+dealt directly with a population and processed their information using statistical analysis. Case 
+studies were also considered to be empirical. The remaining articles were considered to be 
+nonempirical when the authors offered conclusions and suggestions based on nonstatistical 
+studies. 
+
+
+
+
+9 
+
+
+
+Multicultural Articles 7 
+
+This analysis defined articles that addressed multicultural counseling issues in a broad 
+sense without being specifically focused on any one racial or ethnic group as “Ethnic and Racial 
+Groups in General.” The remaining ethnic groupings were derived from the specific foci of the 
+articles. For example, an article that addressed counseling issues of Latinos, African Americans 
+and Whites was classified as “Latino, Af-Am, and White” (see Table 1). 
+
+Regarding subject focus, articles about vocational issues were considered “career.” 
+Specific treatment techniques were considered “counseling techniques.” Articles about ethnic 
+and racial groups with nonempirical research contributing to the knowledge of practitioners due 
+to their conclusions were considered “counselor training.” 
+
+The data were then added individually per journal for the period July 1980 to June 1996. 
+The total number of articles grouped by ethnic groups, research focus, and subject focus was 
+separately tallied for all 13 journals, (see Tables 1-3). 
+
+Results 
+
+
+
+July 1980- June 1996 
+
+Table 1 shows the overall number of multicultural articles of the thirteen ACA journals 
+selected for this analysis. All journals published articles on multiculturalism, yielding a total of 
+588. Predictably, the largest numbers of articles were consistently published by the Journal of 
+Multicultural Counseling and Development (41%) and the Journal of Counseling and 
+Development (20%). 
+
+In general there is a good balance between empirical and nonempirical articles. From the 
+period of July 1980 to June 1996 300 articles were empirical (51%) and 288 were nonempirical 
+(49%) (see Table 1). 
+
+
+
+Multicultural Articles 8 
+
+Of the 588 articles written on multicultural ism from July 1980 to June 1996, 319 
+
+focused on counselor training (54%), 159 were devoted to counseling techniques (27%) and 1 10 
+were on career and vocational counseling (19%) (see Table 1). 
+
+Racial and Ethnic Groups in General had the highest number of articles (299), 
+representing 51% of all the articles (see Table 2). There were 145 articles (25%) written about 
+African Americans; this group consistently received the highest attention after Racial and Ethnic 
+Groups in General. Less attention was given to Native Americans with 43 articles (7%) and 
+Latinos with 42 articles (7%). Asian Americans received the least attention with 21 articles 
+published (4%). Twenty-two articles were devoted to comparison studies between African 
+Americans and Whites, four articles compared Latinos and Whites, and five compared Asian 
+Americans and Whites. Two articles were published in which African Americans, Native 
+Americans, and Whites were used for comparison studies (see Table 2). 
+
+An interesting trend can be observed in the overall publication pattern (see Table 3). 
+
+There was a steady increase in the number of articles in general over 16 years. Also, during 
+1992-1996 all of the journals included in this analysis published articles on multiculturalism. 
+
+This increase attests to a heightened interest in multiculturalism. Furthermore, more articles 
+were written on Racial and Ethnic Groups in General rather than on specific ethnic and racial 
+groups. The majority of the articles examined counselor training (see Table 1). This pattern is 
+encouraging because these articles are useful in assisting practitioners in becoming aware of the 
+needs of ethnic and racial groups in general as well as issues in the field of multicultural 
+counseling. 
+
+The Career Development Quarterly , the Journal of Counseling and Development, the 
+Journal of Multicultural Counseling and Development, Measurement and Evaluation of 
+
+
+
+
+l 
+
+
+
+Multicultural Articles 9 
+
+Counseling and Development, and School Counselor published articles on all the individual 
+ethnic and racial groups from July 1980 to June 1996. However, the Journal of Multicultural 
+Counseling and the Journal of Counseling and Development consistently published more articles 
+on African Americans, Asian Americans, Latinos, and Native Americans (see Table 2). The 
+other six ACA journals included in this analysis did not include articles on specific groups. 
+
+Discussion 
+
+Despite the fact that all journals published articles on diverse groups, there is a higher 
+number of articles pertaining to ethnic and racial groups in general than on a specific group. 
+African Americans received the most specific attention in the past 16 years with 145 articles 
+(25%) written. In addition, 4% of the articles were based on comparison studies between African 
+Americans and Whites, compared to only 0.9% of the articles comparing Asian Americans and 
+Whites, and 0.7% comparing Latinos and Whites. There were no studies comparing Native 
+Americans and Whites. 
+
+The fact that 51% of the multicultural counseling articles analyzed concern ethnic and 
+racial groups in general emphasizes the trend in the literature addressing multiculturalism issues 
+in general. These articles supplied information to providers regarding more generic multicultural 
+training, skill development, competencies, and general strategies for counselors. However, the 
+number of articles written and published on specific groups (25% on African Americans, 4% on 
+Asian Americans, 7% on Latinos, and 7% on Native Americans), compared with those of ethnic 
+and racial groups in general (5 1 %), unfortunately remains limited and points to the need for more 
+specific counseling focus with respect to specific ethnic and racial groups. 
+
+In view of the projected increases in ethnic and racial populations in the United States by 
+the year 2050 (U.S. Census Bureau, 2000), particularly among Latinos (24.3%), Asian Americans 
+
+
+
+O 
+
+ERLC 
+
+
+
+12 
+
+
+
+Multicultural Articles 1 0 
+
+(9.3%), and to a lesser degree Native Americans (1.1%), the paucity of articles written (7% on 
+Latinos, 4% on Asian Americans, 7% on Native Americans) in relation to within-group 
+differences is compelling. Ponterotto (1986) recommended an increased representation of 
+diversified ethnic groups in the Journal of Multicultural Counseling and Development, calling 
+for more special issues dedicated to Latinos and other ethnic and racial groups on particular 
+subject areas. This analysis supports the identified need for increased attention towards effective 
+strategies and information about counseling Latinos. Bennett et al., (1991) identified a need for 
+broader representation of ethnic group inclusion. One main reason for the importance of more 
+studies on specific minority groups is that it is important to recognize that African Americans, 
+Latinos, Asian Americans, and Native Americans have unique cultures. Generalizing counseling 
+techniques or counselor training without specific knowledge pertinent to different groups can 
+limit counseling effectiveness. Several subgroups, for example, based on generational status, 
+acculturation levels, and socio-economic status, as well as language differences, particularly 
+among Asian Americans, exist (Paniagua, 1994). These within-group differences merit more 
+specific studies in order to provide more effective counselor training and techniques. However 
+minimal the publications, each journal consistently published articles on one or two ethnic and 
+racial groups but gave no attention to the other two groups, which caused a disproportionate 
+imbalance. All of the journals except The Family Journal, the Journal of Mental Health 
+Counseling, and Rehabilitation Counseling Bulletin included articles on Native Americans. 
+Counselor Education and Supervision and the Journal of Humanistic Education and 
+Development did not publish any articles focused specifically on African Americans. Perhaps an 
+increase in African American scholars within counselor education programs contributed to the 
+increased proportion of articles with particular focus on African American counseling issues. 
+
+
+
+
+*3 
+
+
+
+Multicultural Articles 1 1 
+
+Conversely the lower number of articles with a Latino, Asian American, and Native American 
+counseling focus might be attributed to fewer scholars representing particular groups. 
+
+Another point worthy of attention was the inclusion of special issues on multiculturalism 
+published in eight of the ACA journals. These special issues attest to the support of the 
+counseling profession’s goal to promote cultural, ethnic, and racial sensitivity. 
+
+Finally, this analysis could be enhanced with additional categorizing by at least one 
+additional researcher. An expanded focus towards the counseling needs of other diverse groups, 
+such as, Gay and Lesbians clients, is also needed. 
+
+Conclusions and Recommendations 
+
+This article sought to analyze the frequency of multicultural counseling articles in thirteen 
+journals published by the ACA from July 1980 to June 1996. It is evident that the most attention 
+was given to ethnic and racial groups in general. However, the number of articles focused on 
+specific groups, with the exception of African Americans, were consistently low. In view of the 
+projected population increases of Latinos and Asian Americans by the year 2050, along with 
+predictions that these populations will tax more mental health providers, it is important for 
+counseling journals to include a greater balance of articles on specific minorities, as well as to 
+publish more research related to subgroup cultural differences and their commonalties. As found 
+in the Delphi poll conducted by Heath et al., (1988), it was predicted that there would be an 
+increase of 50% in the number of publications related to Latinos, a 25% increase in those related 
+to Asians, and a 32% increase related to African Americans, with Native American publications 
+remaining least likely to change. At this juncture more than 10 years later, this prediction seems 
+to have been realized for African Americans (29%) and Native Americans (7%), but articles on 
+
+
+
+
+14 
+
+
+
+Multicultural Articles 12 
+
+Latinos (7%) and Asian Americans (4%) published in the ACA journals have not reached the 
+predicted percentages. More research is needed to better understand and rectify this trend. 
+
+Perhaps the diverse journals of the ACA should solicit articles on specific populations. 
+
+On a larger scale, the ACA might also promote, through its divisions, the importance of 
+multiculturalism in the different areas of counseling services. Systematic assessments should 
+also be conducted in different journals at regular time intervals survey their inclusion of various 
+ethnic and racial groups. Additional attention can be devoted to within-group needs. 
+
+Specifically, in the Latino culture, Mexican Americans, Cuban Americans, Puerto Ricans, 
+
+Central and South Americans have much intracultural diversity. This could be better addressed 
+with focused attention on various counseling issues for certain subgroups rather than an all- 
+inclusive generalizing of Latino counseling needs. 
+
+As the minority population continues to grow, coupled with socioeconomic changes and 
+pressures, it is of paramount importance that counselors be sensitive and prepared to work with 
+more populations effectively. Although books related to this subject are very useful, journals 
+contribute greatly to the profession when practitioners need to access the most current 
+information on specific areas. For this purpose journal articles should address counseling and 
+relevant multicultural issues. 
+
+
+
+
+15 
+
+
+
+Table 1 
+
+
+
+Multicultural Articles 
+
+
+
+13 
+
+
+
+Number of Articles Published in ACA Journals (July 1980 to June 1996) 
+
+
+
+Research Focus 
+
+
+
+Journal 
+
+
+No. 
+
+Articles 
+
+
+Empirical 
+
+
+Non- 
+
+empirical 
+
+
+Career 
+
+
+Techniques 
+
+
+Training 
+
+
+CDQ 
+
+
+41 
+
+
+24 
+
+
+17 
+
+
+38 
+
+
+
+
+3 
+
+
+
+
+
+
+(59%) 
+
+
+(41%) 
+
+
+(93%) 
+
+
+
+
+(7%) 
+
+
+C&V 
+
+
+13 
+
+
+5 
+
+
+8 
+
+
+1 
+
+
+3 
+
+
+9 
+
+
+
+
+
+
+(39%) 
+
+
+(61%) 
+
+
+(8%) 
+
+
+(23%) 
+
+
+(69%) 
+
+
+CE&S 
+
+
+38 
+
+
+16 
+
+
+22 
+
+
+3 
+
+
+5 
+
+
+30 
+
+
+
+
+
+
+(42%) 
+
+
+(58%) 
+
+
+(8%) 
+
+
+(13%) 
+
+
+(79%) 
+
+
+ESG&C 
+
+
+20 
+
+
+5 
+
+
+15 
+
+
+
+
+10 
+
+
+10 
+
+
+
+
+
+
+(25%) 
+
+
+(75%) 
+
+
+
+
+(50%) 
+
+
+(50%) 
+
+
+FJ 
+
+
+7 
+
+
+5 
+
+
+2 
+
+
+
+
+4 
+
+
+3 
+
+
+
+
+
+
+(71%) 
+
+
+(29%) 
+
+
+
+
+(58%) 
+
+
+(42%) 
+
+
+JSGW 
+
+
+23 
+
+
+4 
+
+
+19 
+
+
+1 
+
+
+12 
+
+
+10 
+
+
+
+
+
+
+(17%) 
+
+
+(83%) 
+
+
+(4%) 
+
+
+(52%) 
+
+
+(44%) 
+
+
+JCD 
+
+
+116 
+
+
+71 
+
+
+45 
+
+
+14 
+
+
+39 
+
+
+63 
+
+
+
+
+
+
+(61%) 
+
+
+(39%) 
+
+
+(12%) 
+
+
+(34%) 
+
+
+(54%) 
+
+
+JHEA&D 
+
+
+15 
+
+
+4 
+
+
+11 
+
+
+1 
+
+
+4 
+
+
+10 
+
+
+
+
+
+
+(26%) 
+
+
+(74%) 
+
+
+(7%) 
+
+
+(26%) 
+
+
+(67%) 
+
+
+JMHC 
+
+
+13 
+
+
+3 
+
+
+10 
+
+
+
+
+7 
+
+
+6 
+
+
+
+
+
+
+(23%) 
+
+
+(77%) 
+
+
+
+
+(54%) 
+
+
+(46%) 
+
+
+JMCD 
+
+
+244 
+
+
+133 
+
+
+111 
+
+
+44 
+
+
+59 
+
+
+141 
+
+
+
+
+
+
+(55%) 
+
+
+(45%) 
+
+
+(18%) 
+
+
+(24%) 
+
+
+(58%) 
+
+
+RCB 
+
+
+9 
+
+
+7 
+
+
+2 
+
+
+3 
+
+
+1 
+
+
+5 
+
+
+
+
+
+
+(78%) 
+
+
+(22%) 
+
+
+(33%) 
+
+
+(12%) 
+
+
+(55%) 
+
+
+MEC&D 
+
+
+19 
+
+
+17 
+
+
+2 
+
+
+2 
+
+
+1 
+
+
+16 
+
+
+
+
+
+
+(89%) 
+
+
+(11%) 
+
+
+(11%) 
+
+
+(5%) 
+
+
+(84%) 
+
+
+SC 
+
+
+30 
+
+
+6 
+
+
+20 
+
+
+3 
+
+
+14 
+
+
+13 
+
+
+
+
+
+
+(24%) 
+
+
+(80%) 
+
+
+(10%) 
+
+
+(47%) 
+
+
+(43%) 
+
+
+TOTAL 
+
+
+588 
+
+
+300 
+
+
+288 
+
+
+110 
+
+
+159 
+
+
+319 
+
+
+
+
+
+
+(51%) 
+
+
+(49%) 
+
+
+(19%) 
+
+
+(27%) 
+
+
+(54%) 
+
+
+
+ERIC 
+
+
+
+16 
+
+
+
+Multicultural Articles 
+
+
+
+14 
+
+
+
+Note. Career Development Quarterly (CDQ), Counseling and Values (C & V), Counselor Education and 
+Supervision (CE & S), Elementary School Guidance and Counseling (ESG & C), The Family Journal: 
+Counseling and Therapy for Couples and Families (FJ), The Journal for Specialists in Group Work 
+(JSGW), Journal of Counseling and Development (JCD), The Journal of Humanistic Education and 
+Development (JHE & D), Journal of Mental Health Counseling ( JMHC '), Journal of Multicultural 
+Counseling and Development (JMCD), Rehabilitation Counseling Bulletin (RCB), Measurement and 
+Evaluation in Counseling and Development (MEC & D), and School Counselor (SC). 
+
+
+
+
+17 
+
+
+
+Table 2 
+
+
+
+Multicultural Articles 
+
+
+
+15 
+
+
+
+Representation of Ethnic Groups in AC A Publications (July 1980 - June 1996) 
+
+
+
+
+
+
+
+
+
+
+
+Journal 
+
+
+
+
+
+
+
+
+Ethnic Group 
+
+
+CDQ 
+
+
+C&V 
+
+
+CE&S 
+
+
+ESG&C 
+
+
+FJ 
+
+
+JSGW 
+
+
+JC&D 
+
+
+African 
+
+
+11 
+
+
+2 
+
+
+
+
+5 
+
+
+2 
+
+
+7 
+
+
+17 
+
+
+American 
+
+(AfAm) 
+
+
+(27%) 
+
+
+(15%) 
+
+
+
+
+(25%) 
+
+
+(29%) 
+
+
+(30%) 
+
+
+(14%) 
+
+
+AfAm & 
+
+
+4 
+
+
+
+
+
+
+
+
+
+
+
+
+4 
+
+
+Whites 
+
+
+(10%) 
+
+
+
+
+
+
+
+
+
+
+
+
+(3%) 
+
+
+AfAm, Native 
+
+
+1 
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+Am & Whites 
+
+
+(2%) 
+
+
+(8%) 
+
+
+
+
+
+
+
+
+
+
+
+
+Asian 
+
+
+4 
+
+
+
+
+
+
+
+
+
+
+4 
+
+
+6 
+
+
+American 
+
+
+(9%) 
+
+
+
+
+
+
+
+
+
+
+(17%) 
+
+
+(5%) 
+
+
+Asian Am & 
+
+
+1 
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+Whites 
+
+
+(2%) 
+
+
+(8%) 
+
+
+
+
+
+
+
+
+
+
+
+
+Latino 
+
+
+2 
+
+
+
+
+
+
+2 
+
+
+2 
+
+
+
+
+9 
+
+
+
+
+(5%) 
+
+
+
+
+
+
+(10%) 
+
+
+(29%) 
+
+
+
+
+(8%) 
+
+
+Latino & 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+Whites 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2%) 
+
+
+Latino, Af 
+
+
+2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Am & Whites 
+
+
+(5%) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latino & 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+Asian Am 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2%) 
+
+
+Native 
+
+
+1 
+
+
+2 
+
+
+3 
+
+
+3 
+
+
+
+
+2 
+
+
+5 
+
+
+American 
+
+
+(2%) 
+
+
+(15%) 
+
+
+(8%) 
+
+
+(15%) 
+
+
+
+
+(9%) 
+
+
+(4%) 
+
+
+Ethnic and 
+
+
+15 
+
+
+7 
+
+
+35 
+
+
+10 
+
+
+3 
+
+
+10 
+
+
+73 
+
+
+Racial Groups 
+in General 
+
+
+(37%) 
+
+
+(54%) 
+
+
+(92%) 
+
+
+(50%) 
+
+
+(42%) 
+
+
+(44%) 
+
+
+(62%) 
+
+
+
+
+18 
+
+
+
+Multicultural Articles 
+
+
+
+16 
+
+
+
+Table 2 (cont.) 
+
+
+
+
+
+
+
+
+
+
+
+Journal 
+
+
+
+
+
+
+
+
+Ethnic 
+
+Group 
+
+
+JHE&D 
+
+
+JMHC 
+
+
+JMCD 
+
+
+RCB 
+
+
+MEC&D 
+
+
+SC 
+
+
+TOTAL 
+
+
+African 
+
+American 
+
+
+
+
+4 
+
+(30%) 
+
+
+84 
+
+(34%) 
+
+
+2 
+
+(22%) 
+
+
+6 
+
+(32%) 
+
+
+5 
+
+(18%) 
+
+
+145 
+
+(25%) 
+
+
+African 
+Am & 
+Whites 
+
+
+
+
+1 
+
+(8%) 
+
+
+11 
+
+(5%) 
+
+
+1 
+
+(12%) 
+
+
+
+
+1 
+
+( 3 %) 
+
+
+22 
+
+(4%) 
+
+
+African 
+
+Am, 
+
+Native Am 
+& Whites 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 
+
+(0.3%) 
+
+
+Asian 
+
+American 
+
+
+
+
+
+
+5 
+
+(2%) 
+
+
+
+
+1 
+
+(5%) 
+
+
+1 
+
+( 3 %) 
+
+
+21 
+
+(4%) 
+
+
+Asian Am 
+& Whites 
+
+
+
+
+
+
+3 
+
+(1%) 
+
+
+
+
+
+
+
+
+5 
+
+(0.9%) 
+
+
+Latino 
+
+Latino & 
+Whites 
+
+
+1 
+
+(7%) 
+
+
+
+
+17 
+
+(7%) 
+
+2 
+
+(1%) 
+
+
+3 
+
+(33%) 
+
+
+3 
+
+(16%) 
+
+
+4 
+
+(13%) 
+
+
+42 
+
+(7%) 
+
+4 
+
+(0.7%) 
+
+
+Latino, 
+African 
+Am & 
+Whites 
+
+
+
+
+
+
+2 
+
+(1%) 
+
+
+
+
+
+
+
+
+4 
+
+(0.7%) 
+
+
+Latino & 
+Asian Am 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+(0.2%) 
+
+
+Native 
+
+American 
+
+
+2 
+
+(13%) 
+
+
+
+
+19 
+
+(8%) 
+
+
+
+
+2 
+
+(11%) 
+
+
+4 
+
+(13%) 
+
+
+43 
+
+(7%) 
+
+
+Ethnic and 
+Racial 
+Groups in 
+General 
+
+
+12 
+
+(80%) 
+
+
+8 
+
+(62%) 
+
+
+101 
+
+(41%) 
+
+
+3 
+
+(33%) 
+
+
+7 
+
+(36%) 
+
+
+15 
+
+(50%) 
+
+
+299 
+
+(51%) 
+
+
+
+
+9 
+
+
+
+Table 3 
+
+
+
+Multicultural Articles 
+
+
+
+17 
+
+
+
+Four Year Trends by Ethnic Groups - All Journals in Analysis 
+
+
+
+ETHNIC GROUP 
+
+
+JULY 
+
+1980 
+
+JUNE 
+
+1984 
+
+
+JULY 
+
+1984 
+
+JUNE 
+
+1988 
+
+
+JULY 
+
+1988 
+
+JUNE 
+
+1992 
+
+
+JULY 
+
+1992 
+
+JUNE 
+
+1996 
+
+
+JULY 
+
+1980 
+
+JUNE 
+
+1996 
+
+
+African American 
+
+
+42 
+
+
+33 
+
+
+27 
+
+
+43 
+
+
+145 
+
+
+
+
+(30%) 
+
+
+(35%) 
+
+
+(18%) 
+
+
+(21%) 
+
+
+(25%) 
+
+
+African American & Whites 
+
+
+7 
+
+
+2 
+
+
+7 
+
+
+6 
+
+
+22 
+
+
+
+
+(5%) 
+
+
+(2%) 
+
+
+(4%) 
+
+
+( 3 %) 
+
+
+(4%) 
+
+
+African American, Native American 
+& Whites 
+
+
+2 
+
+(1%) 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+2 
+
+(.3%) 
+
+
+Asian American 
+
+
+1 
+
+
+4 
+
+
+8 
+
+
+8 
+
+
+21 
+
+
+
+
+(.7%) 
+
+
+(4%) 
+
+
+(5%) 
+
+
+(4%) 
+
+
+(4%) 
+
+
+Asian American & Whites 
+
+
+0 
+
+
+1 
+
+(1%) 
+
+
+1 
+
+(.7%) 
+
+
+3 
+
+(2%) 
+
+
+5 
+
+(.9%) 
+
+
+Latino 
+
+
+12 
+
+
+5 
+
+
+7 
+
+
+18 
+
+
+42 
+
+
+
+
+( 9%) 
+
+
+(5%) 
+
+
+(4%) 
+
+
+(9%) 
+
+
+(7%) 
+
+
+Latino & Whites 
+
+
+0 
+
+
+1 
+
+(1%) 
+
+
+0 
+
+
+3 
+
+(2%) 
+
+
+4 
+
+(.7%) 
+
+
+Latino, African American & Whites 
+
+
+1 
+
+
+1 
+
+
+1 
+
+
+1 
+
+
+4 
+
+
+
+
+(.7%) 
+
+
+(1%) 
+
+
+(.7%) 
+
+
+(.5%) 
+
+
+(.7%) 
+
+
+Latino & Asian American 
+
+
+0 
+
+
+0 
+
+
+1 
+
+(.7%) 
+
+
+0 
+
+
+1 
+
+(.2%) 
+
+
+Native American 
+
+
+11 
+
+
+5 
+
+
+11 
+
+
+16 
+
+
+43 
+
+
+
+
+(8%) 
+
+
+(5%) 
+
+
+(7%) 
+
+
+(8%) 
+
+
+(7%) 
+
+
+Ethnic and Racial Groups in General 
+
+
+62 
+
+
+44 
+
+
+90 
+
+
+103 
+
+
+299 
+
+
+
+
+(45%) 
+
+
+(46%) 
+
+
+(59%) 
+
+
+(51%) 
+
+
+(51%) 
+
+
+
+
+20 
+
+
+
+Multicultural Articles 
+
+
+
+18 
+
+
+
+References 
+
+American Counseling Association. (1997). All about AC A. Washington, DC: Author. 
+
+Retrieved March 17, 1997, from: http://www.counseling.Org/aboutaca.htm#intro 
+
+Aponte, J. F., Rivers, R. Y., & Wohl, J. (Eds.). (1995). Psychological interventions and 
+cultural diversity. Boston, MA: Allyn & Bacon. 
+
+Atkinson, D. R., & Lowe, S. (1995). The role of ethnicity, cultural knowledge, and 
+
+conventional techniques in counseling and psychotherapy. In J. G. Ponterotto, J. M. 
+Casas, L. A. Suzuki, & C. M. Alexander (Eds.), Handbook of multicultural counseling 
+(pp. 387-414). Thousand Oaks, CA: Sage Publications, Inc. 
+
+Bennett, S. K., Rowe, W., & Hill, T. L. (1991). A content analysis of the JMCD revisited: How 
+are we doing five years later? Journal of Multicultural Counseling and Development, 19, 
+98-104. 
+
+D ’ Andrea, M. & Daniels, J. (1995). Promoting culturalism and organizational change in the 
+counseling profession: A case study. In J. G. Ponterotto, J. M. Casas, L. A. Suzuki, and 
+C. M. Alexander (Eds.), Handbook of multicultural counseling (pp. 17-33). Thousand 
+Oaks, CA: Sage Publications, Inc. 
+
+Das, A. K. (1995). Rethinking multicultural counseling: Implications for counselor education. 
+Journal of Counseling & Development, 74, 45-52. 
+
+Ernst, J. & Ramirez, J. J. (1994). Frequency of minority group topics during the first 10 years 
+of the American Mental Health Counselors Association’s journal. Journal of Mental 
+Health Counseling, 16(2), 275-278. 
+
+Essandoh, P. K. (1996). Multicultural counseling as the “fourth force”: A call to arms. The 
+Counseling Psychologist, 24(1), 126-137. 
+
+
+
+Multicultural Articles 1 9 
+
+Heath, A. E., Neimeyer, G. J., & Pedersen, P. B. (1988). The future of cross-cultural 
+counseling: A Delphi poll. Journal of Counseling and Development, 67, 27-30. 
+
+Holcomb-McCoy, C.C. & Myers, J. (1999). Multicultural competence and counselor training: A 
+national survey. Journal of Counseling and Development, 77, 294-302. 
+
+Leung, S. A. (1995). Career development in counseling: A multicultural perspective. In J. G. 
+Ponterotto, J. M. Casas, L. A. Suzuki, & C. M. Alexander (Eds.), Handbook of 
+multicultural counseling (pp. 549-566). Thousand Oaks, CA: Sage Publications, Inc. 
+
+Paniagua, F. A. (1994). Assessing and treating culturally diverse clients: A practical guide. 
+Thousand Oaks, CA: Sage Publications. 
+
+Pedersen, P. (Ed.). (1985). Handbook of cross-cultural counseling and therapy. Westport, CT: 
+Greenwood Press. 
+
+Pedersen, P. (1994). A handbook for developing multicultural awareness, (2nd ed.). 
+
+Alexandria, VA: American Counseling Association. 
+
+Perez, R.M., Constantine, M.G., & Gerard, P.A. (2000). Individual and institutional productivity 
+of racial and ethnic minority research in the Journal of Counseling Psychology. Journal 
+of Counseling Psychology, 47, 223-228. 
+
+Ponterotto, J.G. (1986). A content analysis of the Journal of Multicultural Counseling and 
+Development. Journal of Multicultural Counseling and Development, 14(3), 98-107. 
+
+Ponterotto, J. G., Casas, M. J., Suzuki, L. A., & Alexander, C. M. (1995). Handbook of 
+multicultural counseling. Thousand Oaks, CA: Sage Publications, Inc. 
+
+Ponterotto, J. G. & Sabnani, H. B. (1989). "Classics" in multicultural counseling: A systematic 
+five-year content analysis. Journal of Multicultural Counseling and Development, 1 7, 
+23-37. 
+
+
+
+
+22 
+
+
+
+Multicultural Articles 20 
+
+Pope-Davis, D.B., Ligiero, D.P., Liang, C., & Codrington, J. (2001). Fifteen years of the 
+
+Journal of Multicultural Counseling and Development : A content analysis. Journal of 
+Multicultural Counseling and Development, 29(4), 226-238. 
+
+Streicher, P. J. & Gerstein, L. (1994). Publication patterns in the AMHCA Journal and the 
+
+Journal of Mental Health Counseling. Journal of Mental Health Counseling, 16(3), 369- 
+374. 
+
+Sue, D.W. (2001). Multidimensional facets of cultural competence. The Counseling 
+Psychologist, 29(6), 790-821. 
+
+Sue, D. W. & Sue, D. (1990). Counseling the culturally different: Theory and practice, (2nd 
+ed.). New York: John Wiley 8c Sons. 
+
+Sue, D. W. 8c Sue, D. (1999). Counseling the culturally different: Theory and practice, (3rd ed.). 
+
+New York: John Wiley 8c Sons. 
+
+U.S. Census Bureau. (2000). National population projections: Projections of the resident 
+
+population by race, Hispanic origin, and nativity: Middle series 1999 to 2100. Retrieved 
+May 25, 2000, from: http://www.census.gov/population/www/projections/ natsum- 
+T5.html 
+
+
+
+23 
+
+
+
+
+
+U.S. Department of Education 
+
+Office of Educational Research and Improvement (OERI) 
+National Library of Education (NLE) 
+
+Educational Resources Information Center (ERIC) 
+
+REPRODUCTION RELEASE 
+
+(Specific Document) 
+
+
+
+
+I. 
+
+
+
+DOCUMENT IDENTIFICATION: 
+
+
+
+Title: 
+
+
+
+of //( ux T> /LP-rio^s 
+
+Author(s): -4 ol_<c 
+
+
+
+Corporate Source: 
+
+
+
+Publication Date: 
+
+
+
+II. REPRODUCTION RELEASE: 
+
+In order to disseminate as widely as possible timely and significant materials of interest to the educational community, documents 
+announced in the monthly abstract journal of the ERIC system, Resources in Education (RIE), are usually made available to users in microfiche, 
+reproduced paper copy, and electronic media, and sold through the ERIC Document Reproduction Service (EDRS). Credit is given to the source 
+of each document, and, if reproduction release is granted, one of the following notices is affixed to the document. 
+
+If permission is granted to reproduce and disseminate the identified document, please CHECK ONE of the following three options and sign 
+at the bottom of the page. 
+
+
+
+The sample sticker shown below will be 
+affixed to all Level 1 documents 
+
+
+
+The sample sticker shown below will be 
+affixed to all Level 2A documents 
+
+
+
+The sample sticker shown below will be 
+affixed to all Level 2B documents 
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL HAS 
+BEEN GRANTED BY 
+
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL IN 
+MICROFICHE, AND IN ELECTRONIC MEDIA 
+FOR ERIC COLLECTION SUBSCRIBERS ONLY, 
+HAS BEEN GRANTED BY 
+
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL IN 
+MICROFICHE ONLY HAS BEEN GRANTED BY 
+
+
+Aq 
+
+
+
+
+Ae 
+
+
+
+
+Aq 
+
+
+
+
+
+
+
+etfpP 
+
+
+
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+1 
+
+
+
+
+2A 
+
+
+
+
+2B 
+
+
+
+Level 1 Level 2A Level 2B 
+
+
+
+
+Check here for Level 1 release, permitting Check here for Level 2A release, permitting reproduction Check here for Level 2B release, permitting reproduction 
+
+reproduction and dissemination in microfiche or and <jj SSe mination in microfiche and in electronic media for and dissemination in microfiche only 
+
+other ERIC archival media (e.g., electronic) and ERIC archjva| collection subscribers only 
+
+paper copy. 
+
+
+
+Documents will be processed as indicated provided reproduction quality permits. 
+
+If permission to reproduce is granted, but no box is checked, documents will be processed at Level 1 . 
+
+
+
+1 hereby grant to the Educational Resources Information Center (ERIC) nonexclusive permission to reproduce and disseminate this document 
+as indicated above . Reproduction from the ERIC microfiche or electronic media by persons other than ERIC employees and its system 
+contractors requires permission from the copyright holder. Exception is made for non-profit reproduction by libraries and other service agencies 
+to satisfy information needs of educators in response to discrete inquiries. 
+
+
+Signature/: /) H 
+
+
+Printed Name/PositionrTi tie: / /] - * * 
+
+
+Organization/ Abdre^ ~ (J P<? 7^^ 
+
+
+Te.ephone:^3k75£/ 0 W 
+
+
+
+
+E-Mail Address: , ^ p \ 
+
+
+“V ISloi- 
+
+
+
+
+III. DOCUMENT AVAILABILITY INFORMATION (FROM NON-ERIC SOURCE): 
+
+
+
+If permission to reproduce is not granted to ERIC, or, if you wish ERIC to cite the availability of the document from another source, 
+please provide the following information regarding the availability of the document. (ERIC will not announce a document unless it is 
+publicly available, and a dependable source can be specified. Contributors should also be aware that ERIC selection criteria are 
+significantly more stringent for documents that cannot be made available through EDRS.) 
+
+
+
+Publisher/Distributor: 
+
+
+
+Address: 
+
+
+
+Price: 
+
+
+
+IV. REFERRAL OF ERIC TO COPYRIGHT/REPRODUCTION RIGHTS HOLDER: 
+
+
+
+If the right to grant this reproduction release is held by someone other than the addressee, please provide the appropriate name and 
+address: 
+
+
+
+
+V. WHERE TO SEND THIS FORM: 
+
+
+
+Send this form to the following ERIC Clearinghouse: 
+
+
+
+However, if solicited by the ERIC Facility, or if making an unsolicited contribution to ERIC, return this form (and the document being 
+contributed) to: 
+
+
+
+ERIC Processing and Reference Facility 
+4483-A Forbes Boulevard 
+Lanham, Maryland 20706 
+
+
+
+Telephone: 301 -552-4200 
+
+Toll Free: 800-799-3742 
+
+FAX: 301-552-4700 
+
+e-mail: info@ericfac.piccard.csc.com 
+
+WWW: http://ericfacility.org 
+
+
+
+EFF-088 (Rev. 2/2001) 
+
+
+

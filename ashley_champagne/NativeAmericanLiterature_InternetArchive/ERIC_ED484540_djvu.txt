@@ -1,0 +1,1816 @@
+RESEARCH ON MATHEMATICS PEDAGOGY 
+FOR AMERICAN INDIAN STUDENTS: PHASE III 
+
+Connecting Practices with Outcomes 
+
+
+
+Regional Educational Laboratory 
+Contract #ED-01-CO-0006 
+Deliverable #2004-04 
+
+
+
+Prepared by 
+
+Helen S. Apthorp, Ph.D. 
+
+Principal Researcher 
+
+
+
+September 27, 2004 
+
+
+
+
+Af97EL 
+
+© 2004 McREL 
+
+
+
+This document has been funded at least in part with federal funds from the U.S. 
+Department of Education under contract number ED-Ol-CO-0006. The content of this 
+publication does not neeessarily reflect the views or policies of the Department of Education nor 
+does mention of trade names, eommereial produets, or organizations imply endorsement by the 
+U.S. Government. 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+Foreword ii 
+
+Introduction 1 
+
+Statement of the Problem 2 
+
+Overview of Report 2 
+
+Research Context: Phase I and II Findings 3 
+
+Phase I Activities 3 
+
+Key Variables 3 
+
+Research Partnership and Advisory Panel 5 
+
+Phase I Outcomes 6 
+
+Phase II Findings 7 
+
+Mathematics Curricula and Approaches 7 
+
+Demographic and Achievement Characteristics 10 
+
+Data Collection Tools 12 
+
+Phase III Research Design 13 
+
+Overall Strategy and Rationale 13 
+
+Research Questions 14 
+
+Research Methods 14 
+
+Sampling Frame 14 
+
+Data Collection and Instrumentation 15 
+
+Mathematics Achievement 15 
+
+Teacher Questioning and Classroom Mathematics Talk 15 
+
+Participatory Learning Environments 15 
+
+Student Background 16 
+
+School and Community Context 16 
+
+Rival Instructional Factors 16 
+
+Data Analysis 16 
+
+Verification 17 
+
+Anticipated Benefits and Outcomes 18 
+
+Appendix A: Lists of Research Partnerships and Advisory Panel Members 23 
+
+Appendix B: Mathematics Curriculum Materials Used in North Dakota Schools 
+
+Serving Native American Students 24 
+
+
+
+1 
+
+
+
+
+FOREWORD 
+
+
+
+This report presents a research design for the third and final phase of a project examining 
+effective practices for American Indian students in mathematics. The project is part of one line of 
+work being conducted by Mid-continent Research for Education and Learning (McREL) in the 
+area of standards-based education. The research addresses priority issues in the Central Region, 
+including quality of curricula and instruction and effective practices for student subgroups. The 
+purpose of this research is to expand the evidence-based knowledge about effective standards- 
+based practices for improving American Indian student achievement. 
+
+In this report, we present the rationale, purpose, design, and methodology of the phase III 
+study. The audience for this report includes leaders and researchers in American Indian 
+education, and representatives of the project’s funding agency, the Institute of Education 
+Sciences in the U.S. Department of Education. Ultimately, McREL intends to use the knowledge 
+gained from the proposed research to inform product development in the form of a teacher’s 
+guide and/or case examples. Such a product is intended to help teachers adopt standards-based 
+mathematics instruction that enables students from culturally diverse backgrounds to meet 
+standards important to their future success in school and life. 
+
+
+
+
+INTRODUCTION 
+
+
+
+American Indian students make up a substantial subgroup of the K-12 student population 
+in two Central Region states. In South Dakota and North Dakota, American Indian students make 
+up over seven percent of the student population, placing these states fifth and sixth highest 
+among all states (U. S. Department of Education, 2002). In North Dakota, only 24 percent of the 
+American Indian students performed at or above proficiency on the 2002 fourth-grade state 
+assessments in mathematics (Dooley, 2003). If we are to take the goals of the No Child Left 
+Behind Act (NCLB) seriously, such subgroup outcomes need to improve dramatically. 
+Unfortunately, only a limited research base exists to inform practitioners and policymakers about 
+how to make these improvements. 
+
+In the 1990s, Deyhle and Swisher (1997) recounted the history of research in American 
+Indian and Alaska Native education. Prior to the 1960s, research was steeped in “a legacy of 
+deficit thought and guided by assimilation ideology” (Deyhle & Swisher, 1997, p. 117). Native 
+language and culture were viewed as barriers rather than resources. Few studies attended to 
+social environment and school structures as essential factors in understanding student success or 
+failure. And, generally, the voices and perspectives of American Indians were not included and 
+researchers ignored tribal policies of self-determination. Improvements in American Indian 
+education research occurred in and around the 1960s: 
+
+The 1960’s seem to define a point of demarcation in Indian education. This 
+decade marked the emergence of strong Indian leadership that led to a policy of 
+self-determination. Consistently over the past two decades, the voices of Indian 
+people have become stronger in determining all aspects of their children’s 
+education, including educational research. More schools on reservations are now 
+locally controlled, and research, once the domain of university researchers, has 
+been demystified to include research partnerships with local people asking their 
+own questions and constructing appropriate paradigms for finding solutions. 
+
+(Deyhle & Swisher, 1997, pp. 180-181) 
+
+This report is one of a series of reports produced by a research partnership supported by 
+Mid-continent Research for Education and Learning (McREL) involving researchers, teachers, 
+local administrators, and state education and tribal officials. The partnership is engaged in a 
+long-term research project that includes reviewing research and related literature on effective 
+standards-based practices for American Indian and Alaska Native students, supporting 
+professional development in research for American Indian educators through an intern and 
+visiting scholar program, and establishing and maintaining a core group of partners to help direct 
+and implement relevant and rigorous research for improving the educational outcomes of 
+American Indian students. Current efforts focus on effective teaching practices for American 
+Indian students in North Dakota. However, McREL plans to expand its partnership to include 
+schools and educators from South Dakota and other Great Plains states. 
+
+In this report, a summary of project findings to date is presented, followed by a proposal 
+for the Phase III study. Phases I and II, establishing the partnership and conducting initial 
+studies, have been completed. Phase III work, which will be conducted from October 2004 to 
+November 2005, builds on the preliminary work and findings of the prior phases. 
+
+
+
+1 
+
+
+
+
+Statement oe the Problem 
+
+
+
+Our initial review of research for this line of work (Apthorp, Debassige D’ Amato, & 
+Richardson, 2003) led to conclusions similar to those reached by Deyhle and Swisher (1997). 
+American Indian education research had made a difference in some contexts, resulting in 
+significant achievement gains for American Indian students in some schools and some 
+communities, notably, for example, in Rough Rock, Arizona (Deyhle & Swisher, 1997). 
+Nonetheless, as Deyhle and Swisher argue: 
+
+Still needed ... is the interpretation of what this research means in the way 
+teachers are trained, schools are organized, curriculum is designed, and 
+instruction is delivered, (p. 182) 
+
+Researchers, practicing educators, and community members in Navajo and Hawaiian 
+schools collaborated to conduct a comparative case study and two quasi-experimental studies. In 
+these studies, students who received culturally based education with an emphasis on developing 
+language and critical thinking performed significantly higher on tests of academic achievement 
+in both language arts and mathematics than students in comparison groups (Holm & Holm, 1995; 
+Rosier & Farella, 1976; Tharp, 1982). Whether or not similar approaches bring about similar 
+outcomes in different communities, however, remains unexplored. In the studies cited, Hawaiian 
+Native (Tharp, 1982) or Navajo students (Holm & Holm, 1995; Rosier & Farella, 1976) made up 
+the majority in the participating schools. Many if not most American Indian students, however, 
+attend schools where they are in the minority (U.S. Department of Education & U. S. 
+
+Department of the Interior, 2001). 
+
+Without a strong research base, educators have had to rely more on ideological, rather 
+than theoretically sound, empirical guidance when looking for ways to improve the achievement 
+of American Indian students. The present research seeks to extend the relevance of the 
+knowledge to groups of American Indian students not well represented in the extant research 
+literature. This inquiry focuses on the effectiveness of promising practices in mathematics 
+pedagogy for American Indian students in North Dakota. In the long run, data collection tools 
+and analytic procedures developed and refined in this study can be used in research focused on 
+other groups and local and state contexts beyond North Dakota. McREL is assessing the efficacy 
+of some of the potential solutions available to educators — solutions that are theoretically sound, 
+have promise for improving American Indian student achievement, but are short on research- 
+based evidence regarding their effectiveness. The intended audience for this research design 
+includes education researchers and representatives of this project’s funding agency, the Institute 
+of Education Sciences of the U.S. Department of Education. 
+
+Overview oe Report 
+
+This report begins with a brief summary of Phase I activities as well as findings related to 
+the Phase II research questions. This summary provides the context for the focus on mathematics 
+pedagogy and achievement for American Indian students in North Dakota schools. Next, the 
+research design for the Phase III study is presented, including the overall design strategy, 
+rationale, and methodology. The methods section provides details on sampling and data 
+
+
+
+2 
+
+
+
+
+collection and analysis. The design section concludes with a timeline of events and report 
+deadlines. 
+
+
+
+RESEARCH CONTEXT: PHASE I AND II EINDINGS 
+
+As shown in Table 1, Phases I and II involved establishing collaborative relationships, 
+developing preliminary instruments, and conducting descriptive field studies. This section of the 
+report briefly summarizes Phase I and II findings and highlights conclusions and implications for 
+the design of Phase III work. 
+
+
+
+Table 1. Overall Timeline for Three Phases of Research 
+
+
+
+Phase I: 
+
+Establishing Relationships 
+
+Year 1: Dec 2002-Nov 2003 
+
+
+Phase II: 
+Conducting 
+
+Descriptive and Pilot Studies 
+
+Year 2: Dec 2003-Aug 2004 
+
+
+Phase III: 
+Conducting an 
+Effectiveness Study 
+
+Year 3: Oct 2004-Nov 2005 
+
+
+• Establish collaborative 
+relationships 
+
+• Form advisory panel 
+
+• Conduct informal survey 
+
+
+• Summarize descriptive findings 
+
+• Develop/adopt instrumentation 
+
+• Collect & analyze pilot data 
+
+
+• Design effectiveness study 
+
+• Conduct effectiveness study 
+
+• Produce report 
+
+• Disseminate report 
+
+
+
+Phase I Activities 
+
+Phase I activities resulted in (1) a literature review (Apthorp, 2003) that identified key 
+variables in American Indian student achievement and a research design for Phase II, and (2) a 
+research collaborative comprised of two groups. This section begins by identifying and 
+discussing key variables. This is followed by a presentation of the purpose, membership, roles, 
+and responsibilities of two groups that were formed for this project, the Research Partnership and 
+the Research Advisory Panel. 
+
+Key Variables 
+
+A major premise of this research is that learning is “best built on the experience, values 
+and knowledge of students and their families, both personal and community-based” (Demmert & 
+Towner, 2003, p. 8). Making connections between prior knowledge and experience and new 
+learning, however, is not a simple matter of association. As described by Beals (1998, as cited in 
+Tharp, Estrada, Dalton, & Yamauchi, 2000), “it is an active process of sorting, analysis, and 
+interpretation” (p. 29). This research focuses on the use of instructional conversations or 
+mathematics talk as a way for teachers to help students extend prior knowledge to develop 
+understanding of the new. 
+
+The ability to facilitate mathematical discourse is a core mathematics teaching standard 
+(National Council of Teachers of Mathematics [NCTM], 1991). Conversations are used to 
+emphasize, model, and practice mathematical reasoning (Florian, 2001; Kilpatrick, Swafford & 
+Findell, 2001; Stein, Grover & Henningsen, 1996). Tharp and Yamauchi (1994) define 
+instructional conversation as “a dialog between teacher and learner in which prior knowledge 
+and experiences are woven together with new material to build higher understanding” (p. 1). 
+According to these authors, the dialogue is interesting, extended, and rational. It has a 
+
+
+
+3 
+
+
+
+
+
+substantive focus, involving in-depth exploration of complex and abstract ideas and reasoning, 
+and results in a new level of understanding on the part of both the student and teacher. In 
+addition to its academic and intellectual value, dialogue can reduce the distance between teachers 
+and their students. Through the exchange of ideas, teachers and students construct lessons “from 
+common understandings of each others’ experiences and ideas” and the teaching-learning 
+process becomes “a warm, interpersonal and collaborative activity” (Dalton, 1989, as cited in 
+Tharp et ah, 2000, p. 33). 
+
+For instructional conversations to be interesting, extended, and rational, the questions 
+posed and addressed need to be high-cognitive-demand questions. Low-cognitive-demand 
+questions elicit factual recall, whereas high-cognitive-demand questions are probing and open- 
+ended, seek meanings and interpretation, and elicit reasoning and explanations. Using a 
+quantitative comparative study, Ben-Ari (1997) examined relationships between teacher 
+behaviors, student verbal interactions in the classroom, and academic outcomes. The study was 
+part of a larger research and development effort that extended the theory and research of 
+Elizabeth Cohen (1994) on group work in heterogeneous classrooms. Using classroom 
+observation data and results from a test of thinking that required defining, categorizing, and 
+formulating conclusions, Ben-Ari (1997) found that the extent to which teachers posed 
+intellectual challenges to students and encouraged them to engage in higher order thinking (e.g., 
+asking, “What other ways could you approach the problem?”) was significantly and positively 
+related to the extent of students’ verbal interactions, which mediated their performance on the 
+test of thinking. Conversely, more teacher time spent disciplining or directing students, or 
+hovering over groups, was associated with less verbal interaction among students and lower 
+performance on the test of thinking. 
+
+A participatory learning environment is necessary for every student to feel inclined to 
+engage in and benefit from instructional conversations. Qualities of a participatory learning 
+environment are identified and discussed by Tharp et al. (2000) in their proposal for 
+transforming teaching to achieve excellence, fairness, inclusion, and harmony. A participatory 
+classroom has an explicit system of shared values and beliefs regarding inclusion, helpfulness to 
+others, and mutual respect, all of which may be necessary conditions for effective instructional 
+conversations, especially in culturally and linguistically diverse classrooms (Tharp et ah, 2000). 
+
+To encourage participation of American Indian students, teachers might need to adopt 
+different social conventions and norms. Swisher and Deyhle (1992) suggest that Indian children 
+tend to avoid situations that challenge harmonious relations and individual humility: “For Indian 
+children from certain groups, public display of knowledge that is not in keeping with community 
+or group norms may be an unreasonable expectation” (p. 90). To create greater cultural 
+congruence, diads and triads can be used for cooperative work and conversation rather than 
+singling out students in front of the whole class. According to Tharp and Yamauchi (1994), other 
+considerations important for creating cultural congruence for American Indian students include 
+increased wait time, an emphasis on peer- and activity -based versus teacher-oriented discussions, 
+slowed tempo of events and conversations, indirect eye gaze, and engagement when ready 
+instead of by teacher command. 
+
+In academically successful and culturally and linguistically diverse schools and 
+classrooms, teachers and school leaders adapt practices and structures to students’ interests and 
+
+
+
+4 
+
+
+
+
+cultures and students feel a sense of belonging (Allexsaht-Snider & Hart, 2001; Jamieson & 
+Wikeley, 2000). Other research and perspectives, however, are equally clear that an over- 
+emphasis on personalizing instruction is not effective (Chall, 2000). Effective mathematics 
+instruction is academically dense and structured to include clear statements of goals and explicit 
+definitions, explanations, and modeling, followed by guided and independent practice with 
+corrective feedback in multiple contexts (Baker, Gersten, & Lee, 2002; Cardelle-Elawar, 1990; 
+Chapin, O’Connor, & Anderson, 2003; Ysseldyke, Spieuzza, Kosciolek, & Boys, 2003). 
+Therefore, not only are shared values of helpfulness and inclusion and students’ sense of 
+belonging key variables in this research, alternative explanations for success, such as use of 
+structured, explicit teaching, also are addressed. 
+
+To summarize, research literature on the academic achievement of students in culturally 
+and linguistically diverse classrooms and schools identified four key variables that are 
+considered in our research: 
+
+■ Quality and duration of mathematics talk 
+
+■ Cognitive demand of teacher questioning 
+
+■ Nature of participation structures and learning environment 
+
+■ Extent to which teaching is structured 
+
+Research Partnership and Advisory Panel 
+
+In September 2003, McREL formed two groups to conduct research relevant to the needs 
+of education practitioners and policymakers serving American Indian students in Central Region 
+states. One group is a hands-on working group, the Research Partnership; the other is an 
+Advisory Panel of researchers and American Indian education leaders. The membership lists of 
+both the Research Partnership and Advisory Panel are provided in Appendix A. 
+
+The purpose of the Researeh Partnership is to conduct meaningful, methodologieally 
+sound research to improve the quality and outcomes of education for American Indian students 
+in North Dakota elementary schools.^ The Research Partnership is a hands-on work group 
+comprised of teachers and administrators from local, tribal, and state education agencies in North 
+Dakota and researchers from Me REE. At least one member of the Research Partnership also 
+serves on the Research Advisory Panel. Each member of the Research Partnership serves on a 
+subcommittee and is responsible for assisting with the conduct of one or more aspects of the 
+study (e.g., assuring protection of rights of human subjects and complying with tribal research 
+policies, developing/selecting student assessments and other instruments, interpreting and using 
+findings). 
+
+
+
+* Although the intended scope of this work originally included schooling and outcomes for American 
+Indian students in South Dakota, momentum and active membership currently represents North Dakota almost 
+exclusively. Discussion of how to recruit and expand into South Dakota or other states and regions is an activity 
+planned for the conclusion of Phase III. 
+
+
+
+5 
+
+
+
+
+The Advisory Board is a group of scholars and state and national leaders in American 
+Indian education and research. The purpose of the Advisory Board is to guide the work of the 
+Research Partnership through research plan and report reviews. Members of the Advisory Board 
+have knowledge of and use high standards of quality in research. In addition to their research 
+expertise, they bring to the project knowledge and experience in American Indian education and 
+mathematics education. 
+
+Phase I Outcomes 
+
+Phase I activities and outcomes influenced Phase II work in several ways. Based on a 
+survey of participants in a 2003 professional development workshop sponsored by the Bureau of 
+Indian Affairs, McREL identified mathematics textbooks and approaches commonly used with 
+American Indian students in North Dakota schools (see Appendix B). Three of these textbooks 
+(Saxon, Everyday Mathematics, and Scott Eoresman- Addison Wesley) and one approach 
+(Cognitively Guided Instruction) became the focus of studies conducted in Phase II. 
+
+Networking and meetings between Research Partnership members and others confirmed 
+and extended the identification of key variables and attributes of classroom interactions 
+supportive of American Indian students’ learning and achievement. Participants at a planning 
+meeting in Bismarck in Eebruary 2004 discussed the adequacy of the conceptual model 
+presented in Eigure 1 as a preliminary way of relating key teaching variables to success in 
+mathematics. 
+
+
+
+
+Figure 1. Conceptual model. 
+
+Participants added explanatory details to the conceptual model, such as language 
+experience at home and residential stability as background factors contributing to prior 
+knowledge. Distinctions were made between variables teachers had control over and those they 
+
+
+
+6 
+
+
+
+did not. Thus, the connection between students’ prior knowledge and teachers’ pedagogical 
+reasoning was added to show that teachers use their assessment of students’ prior knowledge to 
+inform their pedagogical decisions. In particular, during the Research Partnership Meeting in 
+February 2004, participants elaborated on the attributes of teacher- student mathematics talk that 
+are effective for American Indian students, as follows: 
+
+• Is often based on experiences teachers have in common with students outside of 
+school 
+
+• Makes connections for students by using students’ experience and knowledge 
+outside of school (e.g., conversations and problem-solving content include 
+Indian tacos vs. egg rolls vs. brownies) 
+
+• Encourages and extends students’ thinking (e.g., by asking students to explain 
+their thinking and offering a variety of response modes, such as “show me,” 
+
+“draw it,” “tell me,” “write it,” or “teach your partner how you did it”) 
+
+• Is non-judgmental in comments or observations (does not put students down) 
+
+• Expresses high expectations (e.g., two-word responses from students are not 
+acceptable) 
+
+
+
+Phase II Findings 
+
+The purpose of the Phase II work was to describe contextual factors important to 
+mathematics pedagogy and achievement for American Indian students in North Dakota schools. 
+The following Phase II research questions were specified: 
+
+1. To what extent are selected mathematics curricula and approaches used with 
+American Indian students in North Dakota elementary schools aligned with 
+content standards in mathematics? 
+
+2. What are the demographic and achievement characteristics of elementary 
+schools serving American Indian students in North Dakota? 
+
+3. What data collection tools are reliable and valid for studying teaching 
+practices and student achievement in mathematics in schools serving 
+American Indian students? 
+
+Mathematics Curricula and Approaches 
+
+Standards documents specify and sequence learning targets in terms of the knowledge and .skills 
+expected of students and for which schools hold themselves accountable. The North Dakota state 
+mathematics standards (North Dakota Department of Public Instruction, 2004) specify the 
+mathematics knowledge and skills intended to represent what a person needs to know and be 
+able to do to succeed in later schooling, at work, and in his or her community. Our first Phase II 
+analysis was designed to evaluate the extent to which students had opportunities to learn these 
+standards in the area of mathematics at grade four. We analyzed the alignment of content 
+
+
+
+7 
+
+
+
+
+between mathematics textbooks used in schools serving American Indian students and North 
+Dakota’s mathematics standards (North Dakota DPI, 2004). 
+
+
+
+Study Sample. McREL selected three mathematics textbooks from a list of curricular 
+resources used by teachers in North Dakota schools serving American Indian students (see 
+Appendix B for complete list); these were Saxon, Scott Foresman-Addison Wesley, and 
+Everyday Mathematics. Grade 4 mathematics content as specified in 44 benchmarks was 
+selected for analysis because of the significance of performance at the end of grade 4 in state and 
+federal accountability systems. 
+
+Review and Analysis Methods. Eesson by lesson (or chapter by chapter), the analyst first 
+identified all knowledge and skills covered in the teacher’s manual for each mathematics 
+textbook even if not explicitly included in the student pages. Then, the knowledge and skills 
+were compared to the North Dakota grade four mathematics benchmarks. If no matches were 
+found at grade 4, the alignment was conducted with benchmarks specified for grade levels above 
+and below grade 4. 
+
+Findings. The analysis revealed equally comprehensive coverage of grade four 
+mathematics benchmarks for the three textbooks. Each textbook covered 39 of the 44 
+benchmarks (89%) specified for the five North Dakota grade four mathematics standards. Figure 
+2 shows that (1) there is generally good alignment of the textbooks and the North Dakota 
+standards and (2) no one textbook aligns perfectly with content standards. 
+
+
+
+
+Everyday Math Scott Foresman Saxon 4/5 
+
+
+
+■ Numbers and Operations (20 benchmarks) 
+
+H Geometry (5 benchmarks) 
+
+□ Data (9 benchmarks) 
+
+□ Measurement (6 benchmarks) 
+
+□ Algebra (4 benchmarks) 
+
+Figure 2. Selected textbook coverage of Grade 4 North Dakota content standards and 
+benchmarks in Mathematics. 
+
+
+
+8 
+
+
+
+
+
+
+Although comprehensive, each textbook omitted some benchmarks. Across the 
+textbooks, the missing benchmarks varied. As can be seen in Figure 2, Everyday Mathematics 
+had the lowest coverage of Measurement benchmarks, but the highest coverage (100%) of the 
+Algebra benchmarks. Although both Scott Foresman and Saxon covered three of the four 
+Algebra benchmarks, each textbook omitted a different benchmark. Scott Foresman content did 
+not include “use parentheses in solving simple equations,” and Saxon content did not include 
+“determine the missing elements of complex repeating patterns.” (Uncovered benchmarks are 
+identified for each textbook in the complete report [McREF, 2004].) 
+
+In standards-based systems, textbooks should not be viewed as drivers of the curriculum; 
+rather, they should be viewed as resources from which to purposively select units and activities 
+to help children learn important knowledge and skills. Curriculum maps and pacing charts help 
+teachers organize instruction over the course of the academic year so that children have 
+opportunities to learn critical knowledge and skills (Reichardt, 2002). An area for future inquiry 
+is to determine the extent to which schools and teachers use pacing charts or other alignment and 
+curriculum design tools to help ensure that American Indian students in North Dakota have 
+opportunities to learn critical knowledge and skills. 
+
+Cognitively Guided Instruction. Cognitively Guided Instruction (CGI) is an approach to 
+teaching developed by researchers who systematically studied and described children’s 
+mathematical development and their intuitive problem solving (Peterson, Fennema, & Carpenter, 
+1991). CGI builds on children’s accomplishments and complements rather than contradicts what 
+children already know and can do. Teachers trained in CGI develop a clear understanding of how 
+students learn. 
+
+Along many dimensions, CGI is compatible with American Indian culture (Hankes & 
+Fast, 2002). In CGI, for example, paired or group problem solving and solution sharing is 
+emphasized and instruction is time generous rather than time driven. Also, the fact that CGI 
+builds on children’s accomplishments and complements rather than contradicts what children 
+already know is congruent with Native American pedagogy. In contrast to the metaphor of 
+teaching where students are viewed as “blank slates onto which information is etched,” from the 
+CGI and Native American perspective each student “is a born thinker,” constructing and revising 
+emerging theories about the world (Hankes & Fast, 2002, p. 44). Furthermore, CGI is recognized 
+as an approach particularly effective for culturally and linguistically diverse students (Tharp et 
+al., 2000; Hankes, 1998). 
+
+North Dakota educators, including both local leaders and state officials, are interested in 
+the potential of CGI, especially for developing American Indian students’ confidence, skills, and 
+knowledge in mathematics (FaFromboise & Rasmussen, personal communications, 2004). 
+Evidence from a study conducted in spring 2004 supports these appraisals of CGI. Teachers 
+using CGI in North Dakota classrooms serving American Indian students report increased 
+student confidence as problem solvers, increased excitement about learning mathematics through 
+a “makes sense” approach, improved verbal skills for presenting in front of groups, and better 
+understanding of numbers (Apthorp & Woempner, 2004). The problem is that no assessments of 
+students’ knowledge and skills were made to verify the teachers’ reports. State and national 
+regard for the possibilities of CGI (e.g., Tharp et al., 2000) warrant further study of its 
+implementation and effectiveness. 
+
+
+
+9 
+
+
+
+
+Additionally, Apthorp and Woempner (2004) asked teachers how they perceived CGI’s 
+role in helping students meet standards. If a standards-based system is to impact achievement as 
+intended — by clearly establishing what student must learn and holding students, teachers, 
+administrators accountable — then curriculum and instruction must reflect or align with what is 
+required in the standards (Clune, 2001; Ravitch, 1995). Teachers reported that CGI was an asset 
+for helping students meet particular mathematics standards and benchmarks, namely, developing 
+understanding of numbers, problem solving and communicating solutions to others (Apthorp & 
+Woempner, 2004). As found for the alignment analysis above, where no one textbook aligned 
+perfectly with content standards, CGI, as a pedagogical approach, did not align perfectly with 
+every type of learning required by all content standards. Teachers supplemented their use of CGI 
+with more explicit instructional strategies as appropriate depending on what students needed to 
+learn. This purposeful alignment between instructional strategies and particular content was 
+described by a teacher of combined-second and third- grade classroom as follows: 
+
+Benchmarks such as identifying triangles or other shapes still have to be taught. 
+
+Likewise, rounding, graphing, identifying coins, measurement, and the like need 
+to be shown to the students for them to understand. The beauty of CGI is that 
+once these concepts are established, story problems can be written to include 
+these as well. The benchmarks involving number sense and number relationships 
+are covered completely through CGI. Place value is a difficult concept, and I use 
+a combination of CGI and demonstration for that. (As quoted in Apthorp & 
+
+Woempner, 2004, p. 10) 
+
+Demographic and Achievement Characteristics 
+
+According to 2003 state data, there are 321 elementary schools in North Dakota, 
+including public and Bureau of Indian Affairs (BIA) schools. Half of these schools serve student 
+populations in which 1.5 percent or less are American Indian students. As shown in Figure 3, in 
+about one-quarter (81) of these schools, American Indian students made up 1.6 to 5.3 percent of 
+the student population, and in another quarter of the schools (80), American Indian students 
+comprised 5.4 to 100 percent of the student population. 
+
+
+
+
+Percent of American Indian Students 
+
+
+
+Figure 3. North Dakota elementary schools with different percentages of American Indian 
+students. 
+
+
+
+10 
+
+
+
+
+
+The 80 schools with the highest percentage of American Indian students have an average 
+free or reduced-price lunch (FRL) rate of 50 percent (ranging from zero to 98%). This is 
+considerably higher than the state average FRL rate of 35 percent. The majority (78%) of schools 
+with the highest percentage of American Indian students are either in rural locales (e.g., a 4-hour 
+drive from Bismarck) or in mid-size cities (e.g., Bismarck or Grand Forks). 
+
+Mathematics achievement data aggregated at the school level were obtained from the 
+North Dakota Department of Public Instruction. These data are the results of the state’s criterion- 
+referenced, standards-based assessment for grade four. The performance of American Indian 
+students as a subgroup was available for 17 schools. In these schools, proportionally fewer 
+American Indian students, compared to all students combined, performed at or above the 
+proficient level. The gap between the achievement of American Indian students as a subgroup 
+and all students combined is shown graphically in Figure 4. The average percentage of American 
+Indian students who scored at or above proficient was 33 percent or less compared to nearly 60 
+percent for all students combined. 
+
+
+
+c 
+
+
+
+
+□ All Students (2002 n=209; 2003 
+n=204) 
+
+□ American Indian Students (2002 
+n=13; 2003 n=15) 
+
+
+
+Figure 4. School average percentage proficient in grade 4 mathematics for all students and 
+for American Indian students as a subgroup. 
+
+In five of the 17 schools with available subgroup data, the percentage of American Indian 
+students who scored at or above the proficient level was relatively high. Descriptive information 
+about each of these high-performing schools is presented in Table 2. These schools are potential 
+study sites that will help extend the evidentiary knowledge base about effective practices in 
+mathematics for American Indian students. Their demographic characteristics are comparable to 
+the 80 schools represented by the right-hand bar in Figure 3 where American Indian students 
+comprise over five percent of the student population. As potential study sites, they may offer 
+lessons to be learned about how to effectively teach mathematics to culturally diverse groups of 
+students, in particular, groups of students that include students with American Indian heritage. 
+
+
+
+II 
+
+
+
+
+Table 2. North Dakota Schools with High Percent Proficient or Above American 
+Indian Students in Grade 4 Mathematics 
+
+
+
+
+
+Grade 4 Mathematics 
+Percent Proficient or Above 
+
+
+2002 
+
+School Composition 
+
+
+2002 
+
+
+2003 
+
+
+American 
+
+Indian 
+
+
+Overall 
+
+
+American 
+
+Indian 
+
+
+Overall 
+
+
+Total 
+
+Enrollment 
+
+
+American 
+
+Indian 
+
+
+FRL 
+
+
+Jeannette 
+
+Myhre 
+
+Elementary 
+
+
+” 
+
+
+31% 
+
+
+50% 
+
+
+57% 
+
+
+433 
+
+
+10% 
+
+
+53% 
+
+
+Parshall 
+
+Elementary 
+
+
+38% 
+
+
+47% 
+
+
+47% 
+
+
+55% 
+
+
+158 
+
+
+68% 
+
+
+73% 
+
+
+St. John 
+
+Public 
+
+School 
+
+
+43% 
+
+
+47% 
+
+
+46% 
+
+
+46% 
+
+
+144 
+
+
+81% 
+
+
+83% 
+
+
+Minnie H. 
+Elementary 
+
+
+- 
+
+
+64% 
+
+
+45% 
+
+
+63% 
+
+
+111 
+
+
+34% 
+
+
+51% 
+
+
+Lake 
+
+Agassiz 
+
+Elementary 
+
+School 
+
+
+36% 
+
+
+47% 
+
+
+44% 
+
+
+70% 
+
+
+412 
+
+
+26% 
+
+
+60% 
+
+
+
+Data Collection Tools 
+
+Two Phase II activities examined the viability of data collection tools for assessing 
+student mathematics achievement and classroom learning environment and practices. 
+
+Appropriate student assessment was discussed at the February 28, 2004 Research Partnership 
+meeting in Bismarck, North Dakota; particular student surveys and teacher logs were jointly 
+examined on June 16 and 17, 2004, by educators and McREL researchers working with 
+
+'y 
+
+American Indian students. 
+
+With regard to student assessments. Research Partnership members identified criteria for 
+assessments of mathematics knowledge and skills, including that (1) items represent a balance 
+between reasoning, conceptual understanding, and computation; (2) assessment items are aligned 
+with curriculum content; and (3) reading demands are minimized as long as cognitive demand is 
+not compromised. Released items from NAEP Grade 4 Mathematics and MAEP (Michigan) 
+Grade 4 Mathematics meet the first and third criteria. 
+
+Teachers in Bismarck and Twin Buttes reviewed two surveys that asked students about 
+their perceptions of their classroom learning environments. These two surveys were My Class 
+Inventory (Fraser & Fisher, 1983) and the Constructivist Learning Environment Survey (Fraser, 
+
+
+
+^ Educators included Jen Janecek, Director of United Tribes Technical College Rural Science Systemic 
+Initiative; Teresa Delorme, Principal, and Denise Fulston, sixth-grade teacher, Pioneer Elementary School; Willa 
+Incognito, sixth-grade teacher, Twin Buttes Elementary School. 
+
+
+
+12 
+
+
+
+
+1998). The teachers’ review concluded that important features of participatory learning 
+environments were covered but that students would need several of the terms clarified. The 
+reviewers suggested that researchers first ask students’ teachers to identify potentially confusing 
+terms in the surveys and to jointly develop definitions. Also, reviewers suggested administering 
+the surveys as a structured group interview with two or three students at a time. 
+
+Teachers also reviewed the Mathematics Daily Log (RAND #01 1003) and agreed that 
+teachers would be willing and able to complete such a log daily. Recommendations included 
+clarifying certain terms with concrete examples and adding a request to list mathematics 
+vocabulary used. 
+
+
+
+PHASE III RESEARCH DESIGN 
+
+The purpose of the Phase III study is to better understand connections between teaching 
+practices and mathematics achievement for American Indian students in North Dakota. These 
+students represent a substantial subgroup attending both tribal and public schools about whom 
+there is concern but little research-based evidence to guide efforts at improvement. The Phase III 
+study is designed to examine the implementation of, and outcomes associated with, an approach 
+to teaching mathematics valued by professional educators participating in this Research 
+Partnership, specifically. Cognitively Guided Instruction. A mixed methods comparative case 
+study will be used for the Phase III study. 
+
+This study will extend prior research by including assessment of student achievement at 
+its core and operationalizing ideas about why and how mathematics talk and participatory 
+learning environments appear to be important dimensions of effective pedagogy for American 
+Indian students. In addition to measuring student achievement and documenting mathematics 
+talk and participatory learning, the study design includes procedures for addressing rival 
+explanations. Sampling procedures involve identifying both a CGI site and a comparison site not 
+using CGI but with similar student population demographics. Data collection procedures address 
+rival explanations, including student, school, and community background factors and 
+instructional practices that are not typically characteristic of CGI. 
+
+Overall Strategy and Rationale 
+
+The overall strategy of Phase III is to develop “thorough understanding” (Stake, 1995) 
+through a case study. For the purposes of this study, the central phenomenon, mathematics 
+achievement, will be generally defined as progress toward or proficiency in fourth-grade 
+mathematics. Similarly, an American Indian fourth-grade student generally will be defined as a 
+fourth grader enrolled in a tribal or public school in North Dakota and identified as a member of 
+a recognized tribe or Indian community. Our purpose is to tell the stories of teachers whose 
+students are advancing toward or beyond proficiency in meaningful mathematics standards so 
+that others can imagine a role for themselves in similar types of experiences. This project 
+complements experimental, what works research in culturally based education (i.e.. Yapp, 2004) 
+by using a mixed methods case study design to address what is and what could be. Moreover, the 
+present study sample complements the study sample proposed in Yapp’s (2004) research, which 
+includes schools where at least half of the student population is American Indian. In the present 
+
+
+
+13 
+
+
+
+
+study, the sample will inelude schools where less than half of the student population is American 
+Indian. 
+
+
+
+Research Questions 
+
+The overarching research question for this study is “What are the primary ways in which 
+American Indian students succeed in mathematics in North Dakota grade four classrooms and 
+schools?” 
+
+Related sub-questions include the following: 
+
+a. To what extent are there systematic relationships between patterns of teacher 
+questioning and student mathematics achievement? 
+
+b. To what extent are there systematic relationships between indicators of a 
+participatory learning environments and student mathematics achievement? 
+
+c. To what extent and in what manner are teacher questioning strategies and 
+indicators of a participatory learning environment supported by or in conflict 
+with standards-based policies and practices? 
+
+RESEARCH METHODS 
+
+A comparative case study design including mixed methods will be used, including 
+quantitative analyses of relationships between student achievement and key pedagogical 
+variables and practices and student background factors. Site visits involving interviews, 
+observations, and document review will be used, and qualitative data will be analyzed using 
+constant comparative methods. 
+
+
+
+Sampling Erame 
+
+A purposive sampling strategy will be used to identify two study sites and two to four 
+classrooms. Initial site selection criteria, used to ensure that sites are representative of schools 
+serving American Indian students in North Dakota, are (I) grade levels from Pre-K to six, (2) at 
+least 10 percent of the student population is American Indian, and (3) an FRL rate of 40 percent 
+or more. One site will be using CGI for teaching mathematics; a comparison site will not be 
+using CGI but will have comparable demographic characteristics and a record of relatively high 
+performance for American Indian students as a subgroup. 
+
+Teachers and students in all fourth-grade classrooms at the study sites will make up the 
+sample of teachers and students. Three target students in each classroom will be identified to 
+obtain student-level data on participation in instructional activities and conversations and 
+achievement. These students will be American Indian students identified by the classroom 
+teacher as low, medium, and high achievers. 
+
+
+
+14 
+
+
+
+
+Data Collection and Instrumentation 
+
+
+
+Data will be collected to measure key variables and address rival explanations. Key 
+variables as indicated in the research questions are mathematics achievement, level of cognitive 
+demand in teacher questioning, and indicators of participatory learning environments. Rival 
+explanations involve demographic and context factors and alternative theoretical perspectives. 
+
+Mathematics Achievement 
+
+To measure student achievement, mathematics subtest(s) of an achievement test will be 
+administered to students in study classrooms. Two achievement tests, not used in the North 
+Dakota State Assessment system, are being considered for this purpose: Wide Range 
+Achievement Test-Expanded (WRAT-E) Group Eorm (Robertson, 2003) and Iowa Tests of Basic 
+Skills® (ITBS)® (Hoover, Dunbar, & Frisbie, 2001). One of these tests will be selected for use 
+based on meeting three of four criteria: (1) aligned with North Dakota fourth-grade mathematics 
+standards and benchmarks, (2) scoring tum-around time fits project timeline, (3) American 
+Indian students are represented in the norming sample, and (4) adequate reliability and validity. 
+If available and psychometrically sound, both criterion-referenced and norm-referenced scores 
+will be used as measures of achievement. 
+
+Teacher Questioning and Classroom Mathematics Talk 
+
+A teacher survey, a daily activity log, and classroom observations will be used to obtain 
+data on teacher questioning and conversations with students. Data sources, variables, and scores 
+for each of these tools are presented in Table 3. 
+
+
+
+Table 3. Data Collection for Teacher Questioning and Interactions 
+
+
+
+Tool 
+
+
+Data Sources 
+
+
+Variables 
+
+
+Scores and other Data 
+
+
+Teacher 
+Survey of 
+Practices 
+
+
+Teacher self-assessment in 
+response to Likert-type and 
+open-ended questions 
+
+
+Level of cognitive demand 
+Encouraging talk 
+Developing vocabulary 
+
+
+Extent to which press for 
+justification, explanation, 
+and meaning is sustained 
+
+
+Daily 
+
+Activity 
+
+Log 
+
+
+Teacher self-report 
+
+
+Corrective feedback 
+Expectations (high or low) 
+
+
+Erequency of instances of 
+different categories of 
+talk format (e.g., 
+initiation, response, 
+evaluation [IRE]; 
+re voicing or restating; 
+developing common 
+understanding of each 
+other’s experiences) 
+
+
+Observation 
+
+Protocol 
+
+
+Researcher field notes from 
+interviews and classroom 
+observations 
+
+
+
+
+
+Participatory Learning Environments 
+
+My Class Inventory (MCI) (Fraser & Fisher, 1983) and Constructivist Learning 
+Environment Survey (Fraser, 1998) will be used in a structured interview format with student 
+participants in study classrooms. Both have adequate reliability and evidence of validity (Fraser 
+& Fisher, 1983; Fraser, 1998). Prior elementary school research has shown significant positive 
+
+
+
+15 
+
+
+
+
+
+correlations between MCI ratings and the extent to which teachers create a climate of acceptance 
+and active participation in their classrooms (Apthorp, 2000). 
+
+Student Background 
+
+Student’s prior knowledge in mathematics will be measured by performance on the most 
+recent North Dakota grade-level assessment in mathematics (administered annually in the fall). 
+Student demographic data (gender, years in present school, eligibility for free or reduced-lunch 
+lunch, American Indian/non- American Indian) will be collected from school records. The extent 
+to which students identify themselves as American Indian will be determined by asking students, 
+“Do you see yourself as American Indian”? using the scale “not at all” (0), “a little” (1), “some” 
+(2), and “a lot” (3) (Zimmerman et ah, 1995, p. 209). 
+
+School and Community Context 
+
+Data on school-level standards-based policies and practices will be collected through 
+document review and interviews with school administrators and teachers and community elders. 
+Documents and information to be gathered include school and district curricula, pacing charts, 
+content standards and benchmarks, and definitions of proficiency levels. Information on 
+community context will include frequency of activities of American Indian families in the 
+community, such as attending Pow Wows, seasonal feasts, and naming ceremonies. 
+
+Rival Instructional Factors 
+
+Data will be collected related to the extent to which teaching is structured. For this 
+purpose, a set of survey items used to measure structured teaching in the McREL Teacher Survey 
+of Policies and Practices will be used (see Apthorp et ah, 2004). Additionally, the classroom 
+observation protocol will include recording whether or not the three target students are engaged 
+in academic talk (e.g., answering or asking academic questions), task management (e.g., looking 
+for or setting up materials, asking for clarification on task or activity directions), or non- 
+academic or task management behaviors (e.g., looking around, playing or talking 
+inappropriately, being disruptive). 
+
+
+
+Data Analysis 
+
+To answer the research questions, several stages of data analysis will be used. For the 
+qualitative data, categories of teacher questioning and patterns of student participation in 
+learning and in mathematics talk will be identified during data collection. As new data are 
+collected, they will be compared to the categories and patterns, and the two steps will be repeated 
+until all data fit into categories and patterns. Second, conditional matrices, chronologies, and 
+other forms of tabular presentations of data will be used to examine possible patterns or 
+relationships between practices and student achievement. Finally, a cross-case analysis will be 
+conducted to further develop an interpretation of the ways in which teaching practice and student 
+achievement are related. 
+
+Using the achievement data, class averages, American Indian student averages, and non- 
+American Indian student averages will be computed for each classroom. We will conduct a linear 
+
+
+
+16 
+
+
+
+
+regression between prior achievement and current achievement and identify /count students 
+(American Indian and non- American Indian) who perform above predicted levels. Finally, we 
+will conduct comparative analyses across classrooms and student groups using teacher and 
+classroom practice data to determine if evidence suggests connections between practices and 
+achievement above predicted levels. 
+
+
+
+Verification 
+
+Four procedures will be used to establish credibility of findings and interpretations 
+(Creswell, 1998). First, multiple and different sources of data, methods, and perspectives will be 
+used to corroborate or refine interpretation of data from any one single source. Second, active 
+searching and consideration of negative or disconfirming evidence will be conducted and initial 
+hypotheses revised until all cases, including exceptions and outliers, are accounted for. Third, 
+member checks will be conducted; this will include having participant teachers and others on-site 
+in the study schools review the accuracy of data categories and interpretations. Fourth, members 
+of the Research Partnership will be involved in peer review and/or debriefing periodically 
+throughout the study and formally for review of the first draft of the report of findings. 
+
+The project timeline involves four overlapping stages of work, as reviewed in Table 4. 
+During the first two months (October and November), study sites and participants will be 
+selected and prepared and instrumentation finalized. Data will be collected and analyzed during 
+the following months. Draft and final reports will then be written; the final report will be 
+completed by June 15, 2005. Subsequently, McREL will utilize the knowledge gained from the 
+project in a product for teachers, such as a teacher’s guide and/or case examples of how to 
+implement standards-based practices in mathematics instruction for culturally diverse groups of 
+students. 
+
+
+
+Table 4. Project Timeline 
+
+
+
+Task 
+
+
+Activities 
+
+
+October 4 to November 30, 2004 
+
+
+Site Selection 
+and Preparation 
+
+
+Review site selection with Research Partners. 
+
+
+Gather background info on study sites. 
+
+
+Invite site and classroom teacher participation. 
+
+
+Assure protection of rights of human subjects and tribal sovereignty. 
+
+
+Finalize 
+
+Instrumentation 
+
+
+Review mathematics content, psychometric and norming properties, and 
+scoring turn-around time of achievement tests; select/purchase one (ITBS 
+and WRAT-E Group). 
+
+
+Adapt MCI and GEES for diad or triad interview. 
+
+
+Adapt RAND daily log and McREE Teacher Survey of Policies and 
+Practices. 
+
+
+Einalize interview and document review protocols for gathering 
+information on standards-based policies and practices. 
+
+
+Einalize classroom observation protocol. 
+
+
+Define variable measures. 
+
+
+
+17 
+
+
+
+
+
+Task 
+
+
+Activities 
+
+
+December 2004 to February 2005 
+
+
+Data Collection 
+
+
+Teachers complete daily log 
+
+
+Site visits to establish Memoranda of Agreement and collect student and 
+school-level data 
+
+
+Site visits to interview and survey students and teachers; collect student 
+work, lesson artifacts; observe classrooms; recruit and train achievement 
+test examiners 
+
+
+Test examiners administer student achievement tests 
+
+
+February, March, and April 2005 
+
+
+Data Analysis 
+
+
+Descriptive summaries of (1) teacher daily log, (2) classroom observations, 
+(3) school context and standards-based policies and practices, (4) student 
+perceptions of learning environment, and (5) student achievement 
+
+
+Verification/triangulation - (1) with (2), (1) with (4), (2) with (4) above 
+
+
+Code data for patterns and emphases in practices. 
+
+
+Examine data for relationships between practices and student achievement. 
+
+
+March, April, and June 2005 
+
+
+Report Writing 
+
+
+Write appendices: (A) Daily log summary, (B) Student perceptions 
+summary, C) Classroom observations summary. 
+
+
+Draft report answering research questions (due to external reviewers, 
+5/15/05). 
+
+
+Finalize report (due June 15, 2005). 
+
+
+
+ANTICIPATED BENEFITS AND OUTCOMES 
+
+This research is being designed in part in response to the needs of educators and 
+policymakers in the Central Region states for evidence-based knowledge about effective 
+practices and achievement outcomes for American Indian students in elementary schools. The 
+process of designing the study, conducting the study in North Dakota schools, and interpreting 
+findings through the Research Partnership offers multiple opportunities for professional 
+development. As members of this partnership, American Indian educators are involved in clearly 
+communicating valued education goals, operationalizing progress toward goals through 
+instrument development, identifying and creating representative research samples, and 
+interpreting and using findings appropriately. In addition, it is anticipated that this project will 
+result in rich, case-based knowledge about implementing standards in mathematics instruction 
+for culturally diverse groups of students. 
+
+
+
+18 
+
+
+
+
+
+REFERENCES 
+
+
+
+Allexsaht-Snider, M., & Hart, L. E. (2001). “Mathematics for all”: How do we get there? Theory 
+into Practice, 40(2), 93-101. 
+
+Apthorp, H. (2000). Dimensions of Learning Evaluation for Kirkland School District. Aurora, 
+CO: Mid-continent Research for Education and Eeaming. 
+
+Apthorp, H. (2003). Research on mathematics pedagogy for Native American students: Research 
+Design for Phase 11. (Deliverable #2003-05). Aurora, CO: Mid-continent Research for 
+Education and Eearning. 
+
+Apthorp, H., Barley, Z., Englert, K., Eauer, P., Gamache, E., Van Buhler, B., and Martin-Glenn, 
+M. (2004). High-performing, high-needs schools model development report. Aurora, CO: 
+Mid-continent Research for Education and Eeaming. 
+
+Apthorp, H., DeBassige D’Amato, E., & Richardson, A. (2003). Effective standards-based 
+practices for American Indian students: A review of research literature. Aurora, CO: 
+Mid-continent Research for Education and Eeaming. 
+
+Apthorp, H., & Woempner, C. (2004). Use of Cognitively Guided Instruction in a sample of 
+North Dakota classrooms. Aurora, CO: Mid-continent Research for Education and 
+Eeaming. 
+
+Baker, S., Gersten, R. & Eee, D. (2002). A synthesis of empirical research on teaching 
+
+mathematics to low-achieving students. The Elementary School Journal, 103(\), 51-73. 
+
+Ben-Ari, R. (1997). Complex instmction and cognitive development. In E. G. Cohen & R. A. 
+Eotan (Eds.), Working for equity in heterogeneous classrooms: Sociological theory in 
+practice, (pp. 193-206). New York: Teachers College Press. 
+
+Cardelle-Elawar, M. (1990). Effects of feedback tailored to bilingual students’ mathematics 
+needs on verbal problem solving. The Elementary School Journal, 91(2), 165-170. 
+
+Chall, J. S. (2000). The academic achievement challenge: What really works in the classroom. 
+New York: Guilford Press. 
+
+Chapin, S., O’Connor, C., & Anderson, N. (2003). Classroom discussions: Using math talk to 
+help students learn grades 1-6. Sausalito, CA: Math Solutions Publications. 
+
+Clune, W. H. (2001). Toward a theory of standards-based reform: The case of nine NSE 
+statewide Systemic Initiatives. In S. H. Euhrman (Ed.), Erom the capital to the 
+classroom: Standards-based reform in the states (pp. 13-38). Chicago: University of 
+Chicago Press. 
+
+Cohen, E. G. (1994). Designing group work: Strategies for heterogeneous classrooms (2"‘^ ed.). 
+New York: Teachers College Press. 
+
+
+
+19 
+
+
+
+
+Creswell, J. W. (1998). Qualitative inquiry and research design: Choosing among five 
+traditions. Thousand Oaks, CA: Sage Publications. 
+
+Demmert, W. J., & Towner, J. C. (2003, February 10). A review of the research literature on the 
+influence of culturally based education on the academic performance of Native American 
+students. Portland, OR: Northwest Regional Educational Laboratory. 
+
+Deyhle, D., & Swisher, K. (1997). Research in American Indian and Alaska Native education: 
+From assimilation to self-determination. In Michael W. Apple (Ed.), Review of Research 
+in Education (Vol. 22, pp. 113-194). Washington, DC: American Educational Research 
+Association. 
+
+Dooley, S. (2003, August 17). Indian students struggling: Teachers, parents hope to keep kids 
+from being left behind. Bismarck Tribune. 
+
+Florian, J. (2001). Mathematics standards in classroom practice. In H. Apthorp, C. Dean, J. 
+
+Florian, P. Lauer, R. Reichardt, N. Sanders, & R. Snow-Renner, Standards in classroom 
+practice research synthesis (pp. 63-106). Aurora, CO: Mid-continent Research for 
+Education and Learning. 
+
+Fraser, B. J., & Fisher, D. L. (1983). Science education assessment instruments: Development 
+and validation of short forms of some instruments measuring student perceptions of 
+actual and preferred classroom learning environment. Science Education, <57(1), 1 15-131. 
+
+Fraser, B. J. (1998). Appendix A: Constructivist Learning Environment Survey. In R. J. Fraser & 
+K. G. Tobin (Eds.), International Handbook of Science Education (pp. 562-564). Great 
+Britain: Kluwer. 
+
+Hankes, J. (1998). American Indian pedagogy and cognitive-based mathematics instruction. 
+
+New York: Garland Publishing. 
+
+Hankes, J., & Fast, G. R. (2002). Changing the Eaces of Mathematics: Perspective on 
+
+Indigenous people of North America. Reston, VA: National Council of Teachers of 
+Mathematics. 
+
+Hoover, H. D., Dunbar, S. B., & Frisbie, D. A. (2001). Iowa Test of Basic Skills® (ITBS®). 
+Itasca, IF: Riverside Publishing. 
+
+Holm, A., & Holm, W. (1995). Navajo language education: Retrospect and prospects. The 
+Bilingual Research Journal, 79(1), 141-167. 
+
+Jamieson, L, & Wikeley, F. (2000). Is consistency a necessary characteristic for effective 
+schools? School Effectiveness and School Improvement, 77(4), 435-452. 
+
+Kilpatrick, J., Swafford, J., & Findell, B. (Eds.). (2001). Adding it up: Helping children learn 
+mathematics. Washington, DC: National Academy Press. 
+
+
+
+20 
+
+
+
+
+Mid-continent Research for Education and Learning. (2004, February). Fourth- grade 
+
+mathematics textbooks aligned to the North Dakota mathematics content standards for 
+grade K-12. Aurora, CO: Author. Report presented at the meeting of the McREL 
+Research Partnership for Mathematics Teaching and Native American Student 
+Achievement, Bismarck, ND. 
+
+National Council of Teachers of Mathematics. (1991). Professional standards for teaching 
+mathematics. Reston, VA: Author. 
+
+North Dakota Department of Public Instruction. (2004, January). The North Dakota standards 
+and benchmarks content standards - Draft. Mathematics: Grades K-12 - content only. 
+Retrieved September 12, 2004, from 
+
+http://www.dpi.state.nd.us/standard/content/math/math Jan04.pdf . 
+
+Peterson, P. L., Fennema, E., & Carpenter, T. (1991). Using children’s mathematical knowledge. 
+In B. Means, C. Chelemer, & M. S. Knapp (Eds.), Teaching advanced skills to at-risk 
+students: Views from research and practice (pp. 68-101). San Francisco: Jossey-Bass. 
+
+Ravitch, D. (1995). National standards in American education: A citizen's guide. Washington, 
+DC: Brookings Institution. 
+
+Reichardt, R. (2002). Opportunity to learn policies and practices in high-performing, high-needs 
+schools and districts. Aurora, CO: Mid-continent Research for Education and Learning. 
+
+Robertson, G. J. (2003). Wide Range Achievement Test-Expanded (WRAT-E). Austin, TX: 
+Pro-ed. 
+
+Rosier, P. & Farella, M. (1976). Bilingual education at Rock Point - Some early results. TESOL 
+Quarterly, 10{A), 379-388. 
+
+Stake, R. (1995). The art of case study research. Thousand Oaks, CA: Sage. 
+
+Stein, M., Grover, B. & Henningsen, M. (1996). Building student capacity for mathematical 
+thinking and reasoning: An analysis of mathematical tasks used in reform classrooms. 
+American Educational Research Journal, 33(2), 455-488. 
+
+Swisher, K. & Deyhle, D. (1992). Adapting instruction to culture. In J. Reyhner (Ed.), Teaching 
+American Indian students. Norman: University of Oklahoma Press. 
+
+Tharp, R. G. (1982). The effective instruction of comprehension: Results and description of 
+
+Kamehameha Early Education Program. Reading Research Quarterly, 77(4), 503-527. 
+
+Tharp, R. G., Estrada, P., Dalton, S. S., & Yamauchi, L. A. (2000). Teaching transformed: 
+Achieving excellence, fairness, inclusion and harmony. Boulder, CO: Westview. 
+
+
+
+21 
+
+
+
+
+Tharp, R. G., & Yamauchi, L. A. (1994). Effective instructional conversation in Native American 
+classrooms. National Center for Research on Cultural Diversity and Second Language 
+Learning (Educational Practice Report: 10). Retrieved May 22, 2002, from 
+http ://www .ncela. gwu.edu/miscpubs/ncrcdsll/epr 1 0.htm 
+
+U. S. Department of Education. (2002). National Center for Education Statistics, Common Core 
+of Data (CCD) Build a table: Table by state school year 2002-2003 . Retrieved 
+September 29, 2004, from 
+
+http://nces.ed.gov/ccd/bat/viewreport.asp?id=364359170&tvpe=f&ft=l . 
+
+U.S. Department of Education & U.S. Department of the Interior. (2001, November). American 
+Indian and Alaska Native education research agenda in response to Executive Order 
+13096. Washington, DC: Author. 
+
+Yapp, K. O. (2004). Experimental research in culturally based education: An assessment of 
+feasibility. Portland, OR: Northwest Regional Educational Eaboratory. 
+
+Ysseldyke, J., Spicuzza, R., Kosciolek, S. & Boys, C. (2003). Effects of a learning information 
+
+system on mathematics achievement and classroom structure. The Journal of Educational 
+Research, 9(5(3), 163-173. 
+
+Zimmerman, M. A., Ramirez, J., Washienko, K. M., Walter, B. & Dyer, S. (1995). Enculturation 
+hypothesis: Exploring direct and protective effects among Native American youth. In H. 
+
+I. McCubbin, E. A. Thompson, A. I. Thompson, & J. E. Eromer (Eds.), Resiliency in 
+ethnic minority families: Native and Immigrant American Eamilies. Volume I. Madison: 
+The University of Wisconsin System Center for Excellence in Eamily Studies. 
+
+
+
+22 
+
+
+
+APPENDIX A 
+
+
+
+Lists of Research Partnership and Advisory Panel Members 
+Research Partnership 
+
+Rose-Marie Davis, School Improvement Specialist, Turtle Mountain Agency, ND 
+
+Teresa Delorme, Principal, Pioneer Elementary School, Bismarck, ND 
+
+Lori Gibson, Math Staff Developer, Bismarck Public Schools, ND 
+
+Jean M. Hall, Principal, Edwin Loe Elementary School, New Town Public School 
+
+District, ND 
+
+Kathy Jo Henry, Instructional Coordinator, Ojibwa Indian School, Belcourt, ND 
+
+Elaine Incognito, Principal, Twin Buttes School, Three Affiliated Tribes, ND 
+
+Willa Incognito, Sixth-Grade Teacher, Twin Buttes School, Three Affiliated Tribes, ND 
+
+Jen Janecek, UTRSI Director, United Technical Tribal College, Bismarck, ND 
+
+Ellen Knudson, Math Staff Developer, Bismarck Public Schools, ND 
+
+Gene La Eromboise, Superintendent, Standing Rock Community Schools, ND 
+
+Advisory Panel 
+
+Donna Dehyle, Ph.D., University of Utah 
+
+Gerald R. East, Ph.D., University of Wisconsin-Oshkosh 
+
+Cheryl M. Kulas, Director, North Dakota Indian Affairs Commission 
+
+Minority Interns 
+
+2002 - Nicole Bowman, Owner Bowman Consulting, Wisconsin 
+
+2003 - Teresa Delorme, Pioneer Elementary School, Bismarck, North Dakota 
+
+2003 - Gene La Eromboise, Turtle Mountain RSI, Belcourt, North Dakota 
+
+2004 - RunningHorse Livingston, Middleton, Wisconsin 
+
+Visiting Scholar 
+
+2004 - Judith Hankes, Ph.D., University of Wisconsin-Oshkosh 
+
+
+
+23 
+
+
+
+
+APPENDIX B 
+
+
+
+Mathematics Curriculum Materials Used in North Dakota Schools 
+Serving Native American Students 
+
+
+
+Textbook and Approach 
+
+
+Schools 
+
+
+Houghton Mifflin 
+
+
+Twin Buttes Day School, Halliday 
+White Shield School, Roseglen 
+
+
+Accelerated Math 
+
+
+Twin Buttes Elementary, Halliday 
+Standing Rock Schools, Fort Yates 
+
+
+Saxon 
+
+
+Dunseith Elementary, Dunseith 
+Ojihwe Indian School, Belcourt 
+White Shield School, Roseglen 
+Fort Eincoln Elementary, Mandan 
+
+
+Everyday Math 
+
+Developing Mathematical Ideas (DMI) 
+
+
+Bismarck Public Schools 
+
+
+SRA 
+
+
+Dunseith Indian Day School, Dunseith 
+
+
+Others: 
+
+
+
+
+Cognitively Guided Instruction 
+
+Investigations 
+
+Scott Forseman 
+
+Changing Faces of Mathematics: Perspectives 
+on Indigenous Peoples of North America 
+(NCTM, 2002) 
+
+
+
+
+
+Note: Information for this exhibit was gathered from a survey of teachers (including many Special Education 
+teachers) who attended a regional Bureau of Indian Affairs professional development session held on May 2, 2003. 
+This information has been supplemented by information provided by Mr. Gene LaFromboise and Dr. Teresa 
+Delorme 11/11/03. 
+
+
+
+24 
+
+
+
+
+

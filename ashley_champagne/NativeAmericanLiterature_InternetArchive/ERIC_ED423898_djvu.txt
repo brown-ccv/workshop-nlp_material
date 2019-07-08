@@ -1,0 +1,4632 @@
+DOCUMENT RESUME 
+
+
+
+ED 423 898 
+
+
+
+IR 057 200 
+
+
+
+AUTHOR 
+
+TITLE 
+
+
+
+PUB DATE 
+NOTE 
+PUB TYPE 
+
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+Klein, Margaret E. 
+
+A Comparison of Multicultural Characters in the Annotations 
+of Two Recommended High School Reading Lists Published 
+Thirty-One Years Apart . 
+
+1998-05-00 
+
+48p . ; Master's Research Paper, Kent State University. 
+Dissertations/Theses (040) -- Numerical /Quantitative Data 
+
+(110) -- Reports - Research (143) 
+
+MF01/PC02 Plus Postage. 
+
+♦Adolescent Literature; American Indians; Asian Americans; 
+Bibliographies; Blacks; Books; *Census Figures; 
+♦Characterization; *Culturally Relevant Education; 
+Educational Trends; Ethnic Stereotypes; High Schools; 
+Hispanic Americans; *Multicultural Education; Pacific 
+Islanders; *Reading Materials; Role 
+Multicultural Materials; *Reading Lists 
+
+
+
+ABSTRACT 
+
+
+
+This content analysis sought to examine the annotations in 
+two editions of "Books for You" (a recommended reading list for high school 
+students) published thirty-one years apart (1964 and 1995) to determine if 
+the roles, settings, and importance of multicultural characters has changed 
+in any way. The percentage of annotations was compared to United States 
+Census population, including the following ethnic groups: African American, 
+Native American, Asian/Pacific Islanders, Hispanic Americans, and those of 
+mixed race. The results of the study show that the percentage of 
+multicultural literature on this recommended reading list increased from 1964 
+to 1995 for all but Asian/Pacific Islanders. There was a dramatic increase in 
+the number of books with settings in the United States. With the exception of 
+Asian/Pacific Islanders, multicultural characters increased in importance. In 
+general, the roles these characters occupied became somewhat less 
+stereotypical, but not necessarily more varied. The results of the comparison 
+to the United States Census were mixed, with some groups being 
+overrepresented and others being underrepresented. A literature review is 
+included. Data are represented in table form. Two appendices contain long and 
+short forms of annotation coding sheets. (DLS) 
+
+
+
+******************************************************************************** 
+
+* Reproductions supplied by EDRS are the best that can be made * 
+
+* from the original document . * 
+
+******************************************************************************** 
+
+
+
+
+A COMPARISON OF MULTICULTURAL CHARACTERS IN THE ANNOTATIONS 
+OF TWO RECOMMENDED HIGH SCHOOL READING LISTS PUBLISHED 
+
+THIRTY-ONE YEARS APART. 
+
+
+
+A Master's Research Paper submitted to the 
+Kent State University School of Library Science 
+in partial fulfillment of the requirements 
+for the degree Master of Library Science 
+
+
+
+by 
+
+Margaret E. Klein 
+May, 1998 
+
+
+
+ij c DEPARTMENT OF EDUCATION 
+
+Office of Educational Research and Improvement 
+
+DUCATIONAL RESOURCES INFORMATION 
+CENTER (ERIC) 
+
+1 This document has been reproduced as 
+received from the person or organization 
+originating it. 
+
+] Minor changes have been made to 
+improve reproduction quality. 
+
+► Points of view or opinions stated in this 
+document do not necessarily represent 
+official OERI position or policy. 
+
+
+
+2 
+
+
+
+“PERMISSION TO REPRODUCE THIS 
+MATERIAL HAS BEEN GRANTED BY 
+
+R. Du Mont 
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC)." 
+
+
+
+Margaret E. Klein 
+"A Comparison of 
+Multicultural Characters in 
+the Annotations of Two 
+Recommended High School 
+Reading Lists Published 
+Thirty-one Years Apart." 
+May 1998 
+Dr. Lois Buttlar 
+
+
+
+ABSTRACT 
+
+For over thirty years educators and parents have been concerned about the 
+quantity and quality of multicultural literature available to children. Many wrote to say 
+that literature for and about "children of color" was necessary for the development of their 
+self-esteem and self-identity. This content analysis sought to examine the annotations in 
+two editions of Books for You (a recommended reading list for senior high school 
+students) published thirty-one years apart (1964 and 1995) to determine if the roles, 
+settings, and importance of multicultural characters had changed in any way. The 
+percentage of annotations was compared to United States Census population. The ethnic 
+groups included are African American, Native American, Asian/Pacific Islanders, Hispanic 
+Americans and those of mixed race. The results of the study show that the percentage of 
+multicultural literature on this recommended reading list increased from 1964 to 1995 for 
+all but Asian/Pacific Islanders. There was a dramatic increase in the number of books with 
+settings in the United States. With the exception of Asian/Pacific Islanders, multicultural 
+characters increased in importance. In general, the roles these characters occupied 
+became somewhat less stereotypical, but not necessarily more varied. The results of the 
+comparison to the United States Census were mixed, with some groups being 
+overrepresented and others being underrepresented. 
+
+
+
+
+3 
+
+
+
+Adviser 
+
+
+
+ERLC 
+
+
+
+Master's Research Paper by 
+Margaret E. Klein 
+B.S., Marshall University, 1968 
+M.L.S., Kent State University, 1998 
+
+
+
+Approved by 
+Date 
+
+
+
+11 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+List of Tables iv 
+
+I. Introduction 1 
+
+Purpose of Study 5 
+
+Definition of Terms 5 
+
+Limitations of Study 6 
+
+II. Literature Review 7 
+
+III. Methodology 13 
+
+IV. Analysis of Data 15 
+
+V. Conclusions 32 
+
+Appendix A 35 
+
+Appendix B 36 
+
+Notes 37 
+
+Bibliography 40 
+
+
+
+in 
+
+
+
+
+5 
+
+
+
+LIST OF TABLES 
+
+
+
+I. Distribution of Racial and Ethnic Groups by Date 16 
+
+II. Distribution of Ethnic Groups by Setting 18 
+
+III. Distribution of Multicultural Characters by Importance and Date 19 
+
+IV. Comparison of Occurence of Racial Groups Versus Representation 
+
+in US Census 21 
+
+V. Comparison of Occurence of Hispanic Americans versus Representation 
+
+in US Census 23 
+
+VI. Roles of Characters with African Origins 25 
+
+VII. Roles of Native Americans 26 
+
+Vm. Roles of Asian/Pacific Islanders 28 
+
+IX. Roles of Hispanic Americans 29 
+
+X. Roles of Multiethnic Characters 31 
+
+
+
+iv 
+
+
+
+
+6 
+
+
+
+CHAPTER I 
+
+
+
+Introduction 
+
+For over thirty years educators and parents have been concerned about the 
+quantity and quality of multicultural literature available to children. The number of books 
+published in the United States contained very few images of non-white characters and 
+those that did were filled with misconceptions and stereotypes and were written by those 
+who had very little or no first hand knowledge of the cultures they were writing about. 
+This was seen as being very detrimental to non-white children. "Consistent negative, 
+stereotypical images can literally strip the impressionable child of his or her self-esteem ." 1 
+The importance of creating a body of literature that did not contain misconceptions and 
+stereotypes and that included non-white children became the focus of several essayists. 
+Nancy Larrick was one of the first to point out the almost complete lack of "Negroes" in 
+children's books, calling it "one of the most critical issues in American education today ..." 2 
+When Naomi Caldwell-Wood was speaking of historical works about Native Americans 
+she called many of them distorted and full of omissions. 
+
+...Native people are somehow transformed into half-naked, inarticulate savages 
+who stole horses, plundered, and burned wagon trains of white settlers who were 
+only in search of the American Dream— a dream that included land ownership and 
+removal of the Indians from their homelands to barren, seemingly worthless 
+reservations. Rarely are any statistics given about the hundreds of broken treaties 
+that promised the Indians would have their lands "as long as the grass grows and 
+the river flows." 3 
+
+Virginia Henderson, a psychologist, wrote that multicultural children's literature, 
+literature about "children of color," is necessary for the development of their self-esteem 
+and self-identity. Growing up they need to see positive images of themselves reflected in 
+all facets of life. It is more complicated than having good role models at home and in the 
+community. Children need to see people like themselves represented in the world outside 
+
+
+
+their homes, on TV, and in the books they read. 4 When "children of color," those that 
+belong to one of the minority groups called African American, Hispanic American, Asian 
+American, or Native American, look out into a world of all-white faces, it is impossible 
+for them to view their color and culture as significant. At the same time it would be easy 
+for children in the white majority to view themselves as superior because they rarely see 
+people of color represented in textbooks and literature. If they don't live in the same 
+neighborhoods, they have no chance to observe the cultural and ethnic heritage of these 
+minority groups and therefore come to understand and respect their differences. 
+
+Growing up in Spanish Harlem in the 1940s and 1950s, the daughter of Puerto 
+Rican parents, Nicholasa Mohr was surrounded by her own culture. Everyone spoke 
+Spanish and ate Puerto Rican food, but they all knew that if they wanted to achieve any 
+success in the United States, they had to acquire the white European culture that was 
+dominant in this country. She says: 
+
+All too often, the price of this success was paid by discarding our own history 
+and never seeking the truth of our past. Anglo-American values demanded that 
+we had to reject our parents' language and change our way of thinking.. Even our 
+clothes and food were seen to be foreign. Going as far as changing our name 
+from Jivera to Rivers wasn't such a bad idea either. 5 
+
+There were no positive role models for me out there in the Great Society when I 
+was growing up. When I searched with a need to emulate a living person— 
+preferably a woman with whom I could identify— my efforts were futile. As a 
+Puerto Rican female in the US, my legacy was one of either a negative image or 
+invisibility. My knowledge of myself, of the history of the Puerto Rican people, 
+and of the Hispanic contribution to the United States were to come later when I 
+would seek and find those works and books that held the truth. 6 
+
+Multicultural literature is important because it allows young people of color the 
+opportunity to see their own history, traditions, culture and present way of life on the 
+pages of the books they read. This allows them to take pride in their heritage, thus 
+supporting their growing self-esteem. It also can provide positive role models for growing 
+
+2 
+
+
+
+O 
+
+
+
+
+8 
+
+
+
+up, getting along with others in the world, and choosing a career. Children who read 
+about cultures other than their own will not only be able to learn about and enjoy those 
+varied cultures, they will come to respect and appreciate them, becoming all the more 
+better equipped to function in a pluralistic world. 
+
+Not everyone agrees as to what groups should be included when the subject of 
+multicultural literature comes up. Joseph Bruchac, a Native American writer of children s 
+books, believes that all cultures should be included and that reading about various cultures 
+can "empower" all children . 7 As an educator Junko Yokota includes Jewish and Russian 
+stories, among others, on her reading lists and believes any distinct cultural group should 
+be included . 8 On the other hand Elizabeth Martinez, an educator and reviewer of 
+children's books with Latino characters, feels that multicultural literature is a "rejection" of 
+the pervasive Euro- American view of culture and history and that it should focus on other 
+groups . 9 This does not mean just a sprinkling of color in an otherwise white story. "It is a 
+manner of recognizing different perspectives based on different historical experiences ...' 10 
+While a few maintain that multiculturalism includes all cultural groups, most, like educator 
+Karen Smith, have the opinion that it should be limited to those groups who, while they 
+have long been residents of the United States, have been "disenfranchised politically as 
+well as socially ." 11 For the purposes of this paper, the latter view will be taken. Those 
+who have been underrepresented and misrepresented in the literature and history of this 
+country, and who have been tabulated by the US Census as African American, Asian 
+American, Hispanic American, Native American and multiethnic, will be the focus of this 
+study. 
+
+There is another controversy surrounding multicultural literature that writers, 
+reviewers, and publishers can't agree on. Who is best able to write a story about a 
+particular cultural group that is realistic and authentic? Thelma Seto, a Japanese American 
+writer and poet, feels 
+
+
+
+
+3 
+
+
+
+9 
+
+
+
+very strongly that it is morally wrong for Euro-American writers to 'steal' from 
+other cultures in order to jump on the multicultural bandwagon, unless they have 
+direct, personal experience in the country where that culture originates . 12 For 
+centuries Euro- Americans have defined us, re-written our histories, our cultures, 
+our religions, even our languages--and profited handsomely from these efforts. 
+
+For centuries in this country we have found caricatures of ourselves in Euro- 
+American books . 13 
+
+Marc Aronson, a Jewish- American editor, believes that anyone who cares enough 
+about another culture to study and write about it, should be allowed to do so. "I am 
+challenging all authors to trust their passions, while still demanding the highest standards 
+of artistry, honesty, and understanding. I want to create more options and opportunities 
+for all talented and committed artists, no matter how they fill out their census forms ." 14 
+Phoebe Yeh, a Chinese- American book editor, believes it is unfair to ask writers to only 
+write about their own culture. "We expect all writers to approach their work with 
+scholarship and authenticity." If they are writing in a culture that is not their own, they 
+simply have to "work harder to achieve an 'ethnic' voice ." 15 Speaking to writers who want 
+to use Native American themes Caldwell-Wood states that since Native cultures are 
+"strongly rooted in oral traditions" non-Native writers must visit with the culture in 
+question to gain proper knowledge . 16 
+
+To sum it all up would be to say that children of color, in order to gain self-esteem 
+and to succeed in life, need to see themselves reflected in the literature they read. That 
+literature, for the most part, should be written by those who are bom to the culture of 
+which they are writing, or at least by those who will take the time to intensely study it and 
+seek the advice of someone within that culture. All children can use this literature to learn 
+about people from diverse cultures and backgrounds in order to understand how others 
+are different as well as similar. In this way can they learn to get along with people from 
+different backgrounds in their adult lives. 
+
+
+
+Purpose of the Study 
+
+
+
+The purpose of this study is to examine the roles, settings and importance of 
+minority characters mentioned in the annotations of two different editions of Books for. 
+You published thirty-one years apart to determine if these two parameters changed in any 
+way. Bonks for You is an annotated booklist created by the National Council of Teachers 
+of English for senior high school students. A second aspect to be examined is how closely 
+the percentage of books which depict minority characters compares to the minority 
+population according to the US Census. The hypothesis is that from 1964 to 1995 the 
+importance and percentage of minority characters will have increased, that more of the 
+books will have settings in the US, and that the roles played by those characters will have 
+become less stereotypical and true to reality. 
+
+Definition of Terms 
+
+The books annotated in both editions of Books for You are intended for high 
+school students. In the 1964 edition this is specified as grades 9-12. No mention of grade 
+level is made in the 1995 edition. The terms multicultural, cultural, ethnic and minority 
+refer to individuals who are counted by the 1990 United States Census as Black, American 
+Indian, Eskimo or Aleut, Asian or Pacific Islander, Hispanic, or those of mixed race 17 . 
+When referring to these ethnic groups, the author elected to use the terms preferred by 
+these individuals, African American, Native American, Asian/Pacific Islander, and 
+Hispanic American. Hispanic Americans can be of any race and are counted twice on the 
+US Census. The term Caucasian refers to people of the white race who are of European, 
+North African, or southwest Asian ancestry and are sometimes referred to as Euro- 
+American in this paper. 
+
+
+
+ERJC 
+
+
+
+11 
+
+
+
+Limitations of the Study 
+
+
+
+The findings of this study are influenced by and limited to the annotations that are 
+listed in the two editions of Rooks for You and for the time periods represented by these 
+editions. The books chosen for annotations do not include all the works published with 
+multicultural characters and therefore the findings of this study cannot be used to 
+generalize about all multicultural literature. Works were noted as multicultural if the 
+annotation expressed the racial or ethnic heritage of one or more of the characters, or this 
+author sensed that the character or characters may be of a minority culture and searched 
+other sources for this information. All those characters were placed into one of the five 
+groups, African American, Native American, Asian/Pacific Islander, Hispanic American or 
+multiethnic. All other works are considered to be about Caucasians. 
+
+
+
+
+6 
+
+
+
+12 
+
+
+
+CHAPTER II 
+
+
+
+Literature Review 
+
+Several databases were used in the search for related literature in which the roles, 
+image, representation, authenticity, and/or importance of minority characters in children's 
+and young adult literature were studied. They include Educational Resources Information 
+Center (ERIC), Library Literature, Dissertation Abstracts International and research 
+paper database for the School of Library and Information Science at Kent State 
+University. Various investigators have explored these issues. Some concentrated on and 
+examined literature written about one specific ethnic group, while others included the four 
+major ethnic groups, African American, Hispanic American, Asian/Pacific Islander, and 
+Native American. Two studies involved comparing books published in one time period to 
+another and two others concentrated on reviews of works featured in journals. 
+
+Nancy Larrick started it all in 1965 by asking why, with many schools in large 
+cities of the United States having a student population consisting of over 50% "Negroes" 
+and with roughly 16% "Negro" students nationwide, are there almost no children's books 
+featuring their likeness. In a study of the 5,206 children's trade books issued by sixty-three 
+publishers in the years 1962-1964, she found that only 349, or 6.7%, contained one or 
+more African Americans. In 60% of those, the action takes place outside of the United 
+States or before World War II. Some only show a dark face or two in a crowd. Only 
+four-fifths of one percent depict a story of modem African Americans. 18 
+
+Twenty years later the Cooperative Children's Book Center began documenting 
+the number of books published for children and young adults that were written or 
+illustrated by African Americans. For the years 1985 and 1986, only 36 or 1.4% of the 
+approximately 2,500 books published were written or illustrated by African Americans. In 
+1987 the number was 30 out of approximately 3,000, or 1%. There was a slight increase 
+
+
+
+
+7 
+
+
+
+13 
+
+
+
+in 1988 when the percentage rose to 1.3%. The increase was short-lived as in 1989 and 
+1990 the number of books published rose to 4,500 and 5,000, respectively, while the 
+percentage of books written or illustrated by African Americans fell back to 1%. The 
+number of books written of illustrated by other ethnic groups was much lower. 19 
+
+More recently Cobb examined the percentage and roles of multicultural characters 
+in children's books published by the members of the Children's Book Council between the 
+years 1989-1991. She found that of the total number published, 104 titles or 2.7%, 
+contained African American characters and 24 or 0.6% contained Hispanic American 
+characters. 20 These percentages are far less than the number these groups hold in the 
+population. She also examined selected fictional books to determine the roles played by 
+the adult characters. There was evidence of "occupational stereotyping" in that 63.3% of 
+the African Americans were either unemployed or employed in low paying jobs and that 
+17 out of 18 Hispanic Americans were shown in low paying jobs. 21 
+
+Around the same time Reimer examined books present on three recommended 
+reading lists and two basal reading series, recording the number of multicultural main 
+characters in a randomly selected sample. She also recorded the number of multicultural 
+characters featured in the illustrations. The lists and series are for elementary students. In 
+the books selected from the recommended reading lists, over 90% of the main characters 
+and approximately 90% of those pictured in the illustrations are Caucasian. The basal 
+reading books contain many more multicultural characters. In one, 50% of the main 
+characters and 63% of those in the illustrations are Caucasian. In the other 67% and 69%, 
+respectively, are Caucasian. 22 
+
+Many studies have been conducted to determine the amount of stereotyping 
+present in children's and young adult literature. In an attempt to ascertain the "attitudes 
+and values being ... fed to young readers," 23 Betty Morgan found that while there was an 
+"enormous amount" of children's literature about the "Indians" and "Negroes," 
+
+
+
+and an "extremely small amount" about the Chinese and Japanese, most of it contained 
+stereotypes. Biographies about "Indians" were available, but were predominantly about 
+leaders in the past. There were very few biographies about the Chinese, Japanese or 
+Puerto Ricans. 24 
+
+Louie examined eight young adult novels published between 1987 and 1992 that 
+contain Asian American characters. She found many typical Asian American stereotypes 
+such as characters who were weak and indecisive, or the "Suzy Wong" and "Model 
+Minority" types. Three characters rejected their Asian American heritage. Only three 
+stories contained characters who were mature and realistic. The author felt that there 
+were not enough Asian American stories in general and too few that contain male 
+characters. 25 
+
+Another study examined the portrayal of Hispanic American people in children's 
+and young adult fiction books that were published between the years 1975-1992. No 
+effort was made to compare earlier to later works. Ten evaluative categories were used 
+including socio-economic status, authenticity, and social/cultural customs. Koran found 
+that 40% of the families or characters in the works studied were middle class, while 30% 
+were in the lower class and were described as poor. Many of these were domestic 
+workers. Only one book depicted a wealthy family. In none of the works were characters 
+shown doing professional work. The author judged 90% of the books to have an 
+authentic or positive impression of Hispanic American people. 26 
+
+Violet Harada focused on Asian/Pacific Islanders and their portrayal in picture 
+books for young readers. In contrast to Louis's study above, she found that in 90% of the 
+works the characters were presented as positive and nonstereo typical. In almost 80% of 
+the works the characters assumed a proactive role in solving their own problems and did 
+not rely on others to do this. There was no specific mention of characters being of 
+primary or secondary importance, but, in the descriptions of many of the works, Asians 
+
+
+
+
+9 
+
+
+
+15 
+
+
+
+seemed to be of main or major importance in the story. Some of the roles of the 
+characters were matador, student, railroad worker, prisoner of a concentration camp, and 
+businessman. Harada believed these to be a nonstereotypical representation. The author 
+does criticize the fact that of the more than sixty ethnic and racial groups that make up the 
+Asian/Pacific Island people, only five groups were found in the literature, Chinese, 
+Japanese, Koreans, Filipinos, and Vietnamese. 27 
+
+There have been a few studies comparing literature of one period to that of 
+another, later period to ascertain if changes have occurred. One such study done by 
+Pankratz compared the works of fiction that portray minority characters and were 
+recommended for young adults in the Bulletin of the Center for Children's Books and were 
+published in the years 1980 and 1990. Two of the aspects of the books studied were 
+character importance and economic status. Distinct differences were found between the 
+books published in 1980 and those published in 1990. The incidence of minority 
+characters more than doubled from 1980 to 1990, with the largest increase being for 
+African Americans. There was also a drastic change of the importance played in the story 
+by African Americans. In 1980 all of the characters played a minor role, but of those 
+published in 1990, 20% were main characters, 60% were major characters and only 20% 
+were minor characters. On the other hand, African Americans had a 20% decline in their 
+socio-economic status from 1980 to 1990. All Asian/Pacific Islanders were depicted as 
+impoverished in 1980, while in 1990 25% were of average wealth and 75% were 
+impoverished. No Asian/Pacific Islanders appeared as main characters in 1980, but by 
+1990 66.6% played major roles, and 33.3% held minor roles. A similar finding was 
+discovered with Native Americans. All were depicted as impoverished in the books 
+published in 1980, but in 1990 two-thirds appeared to have average incomes while one- 
+third remained impoverished. Native Americans fared the best when it came to 
+importance in the story. In 1980 the representation was equally divided between main and 
+
+
+
+0 
+
+ERIC 
+
+
+
+10 
+
+
+
+16 
+
+
+
+minor importance and in 1990 it was again equally divided, but this time between all three 
+roles of main, major, and minor. The study did not include any results for Hispanic 
+Americans. 28 
+
+Another study that compared one time period to another is a master's thesis by 
+Julie Mueller that shows a significant change in the image of Native Americans in books 
+published for young adults between the years 1960 and 1985. The books were chosen 
+from the card catalog at the Center for Children's Books at the University of Chicago and 
+therefore did not come from a selected list of recommended books. Most of the works 
+published in the 1960s show Native American women in minor roles, if at all. Throughout 
+the 1970s and 1980s the roles of women became more important and diverse, and 
+characters of mixed ethnic heritage are shown. These characters positively confront the 
+problems and prejudice that come with being of mixed heritage. The author noted that 
+most works throughout the time period show a unified, extended family unit, but lack 
+variety in settings and roles. Mueller expressed a need for Native American writers to 
+publish more literature about their people and culture. 29 
+
+All the previous works discuss some aspect of minority groups in children's and 
+young adult literature; however none of them deal with the content of reviews of the 
+literature. Rapp compared the reviews of multicultural young adult fiction appearing in 
+Voices of Ynnth Advocates tVOYAl for the years 1984 and 1994. The study found that 
+minority representation, as a percentage of the total, increased from 6.2% in 1984 to 
+16.3% in 1994. The importance of the characters in the books reviewed also changed. In 
+1984 there were a total of eight minority individuals represented as primary characters. In 
+1994 this increased to fourteen, but the entire increase was by African American 
+individuals. All other ethnic groups either stayed at the same level or decreased in number 
+as primary characters. Minorities as secondary characters also increased, going from 2.1% 
+in 1984 to 6.0% in 1994. This increase was seen for African Americans and Native 
+
+
+
+ERIC 
+
+
+
+17 
+
+
+
+Americans. Although this study shows that there was a significant increase in the 
+representation and importance of some minority characters in these reviews, the author 
+feels that these characters are still underrepresented compared to the percentages they 
+hold in the general population. 30 
+
+Another study was done to determine the percentage of reference books with 
+multicultural topics 31 reviewed in three volumes of Choice . The volumes were published 
+ten years apart. In volume 10 (March 1973-February 1974) 17% of the reviews were in 
+the multicultural category. Volume 20 (September 1 982-July/ August 1983) had 19% and 
+volume 30 (September 1 992- July/ August 1993) contained 24%. These numbers look 
+promising until one looks at the individual ethnic groups about which this paper is written. 
+In volume 10 only seven out of 102 reference books that were reviewed had topics 
+pertaining to these minorities. Five or 0.84% had African American topics, while two or 
+0.34% were about "Latinos." None were listed for Asian or Native Americans. In volume 
+20, out of 100 reference books reviewed, eleven or 2.03% had African American themes. 
+Six or 1 . 1 0% were about Native Americans and one or 0. 1 8% were about "Latinos. " No 
+reference books of Asian American topics were reviewed. By volume 30 all ethnic groups 
+were represented. Out of 157 reference books reviewed, eight or 1.21% had African 
+American topics. Two or 0.30% had Asian American, their first appearance, six or 0.91% 
+were Native American and four or 0.60% were "Latino." The numbers were far greater 
+for the mother countries of these groups, Latin America, Africa and Asia. Balay explained 
+that it takes a while for publishers to arrive at a level of publishing that matches reader 
+interest and that writing and editing a reference source take a long time. 32 
+
+
+
+
+12 
+
+
+
+18 
+
+
+
+CHAPTER III 
+
+
+
+Methodology 
+
+A content analysis was performed on the annotations listed in two editions of 
+Bonks for Y 011 one published in 1964 and the other in 1995. Only annotations of fiction, 
+nonfiction and biography are included in this study. Annotations of science fiction, poetry, 
+and drama are not included. All annotations that mention multicultural characters were 
+coded for the following categories: 
+
+1. ) Date. 
+
+2. ) Race or Ethnic group. 
+
+3. ) Setting. 
+
+4. ) Importance. 
+
+5. ) Role. 
+
+Date refers to the edition of Books for You in which the annotations appear, either 
+1964 or 1995. Race or ethnic group refers to the four categories, besides White, that are 
+tabulated by the U. S. Census, African American, Native American, Asian/Pacific Islander 
+and Hispanic American. Hispanic Americans are considered an ethnic group and can be of 
+any race. They are counted twice on the Census, once for Hispanic ethnicity and once for 
+race. Setting is the country or continent in which the action took place. Importance refers 
+to the significance the multicultural character has in the story, and is counted as either 
+primary or secondary. Role refers to the occupation, position, or situation of the 
+multicultural character mentioned in the annotation. Some explanation is necessary to 
+understand the various roles assigned to the characters. None means no role is mentioned. 
+Self-sufficient stands for occupations like farming, fishing, hunting, etc. Artist includes 
+writer, singer, musician, etc. Professional means an occupation that requires a college or 
+higher degree, like teacher, doctor, engineer, etc. Nonprofessional means a job for which 
+
+
+
+
+13 
+
+
+
+19 
+
+
+
+no college degree is needed, like auto-worker and cowboy. Tradesman means an 
+occupation for which special training is needed, like plumber, carpenter, etc. Leader 
+stands for royalty, chief, or high elected government office like president. Slave also 
+stands for ward or a second class citizen with no rights. Culture signifies folklore, 
+customs, holidays, and festivals. If two roles are mentioned for the same character, such 
+as child and civilian in war, or slave and later occupation, then only the later role was 
+counted. 
+
+A coding sheet was used to compile the data; then the results from the 1 964 
+edition were compared to the results from the 1995 edition. A second aspect of the study 
+was to compare the percentage of books listed in Books for You to the actual percentages 
+all racial and ethnic groups held in the 1960 and 1990 United States Census. An 
+explanation of how some of the census figures were tabulated is necessary. 
+
+
+
+1960 United States Census— Persons of Spanish Surname 
+From the data collected in five Southwestern states— Arizona, California, 
+Colorado, New Mexico and Texas, coders were asked to tabulate the number of 
+persons with Spanish surnames. This is where the figure 3.46 million Hispanic 
+Americans was derived. No other states were counted, so the result is lower than 
+the actual population of Hispanic Americans throughout the United States. As far 
+as race is concerned, people of Spanish ancestry, unless of mixed race, are 
+considered white. 33 
+
+1960 United States Census— Multiethnic 
+
+"Persons of mixed racial parentage were classified according to the race of the 
+nonwhite parent, and mixtures of nonwhite races were classified according to the 
+race of the father..." 34 
+
+
+
+1990 United States Census 
+
+Respondents were asked to designate the racial group to which they belonged. 
+
+The categories were "White," "Black," "American Indian, Eskimo or Aleut," 
+"Asian or Pacific Islander," or "Other Race." "Other Race" is assumed to be 
+those of mixed race. People of Hispanic origin can be of any race and are counted 
+twice, once for their Hispanic ethnicity and once for race. 35 
+
+
+
+
+14 
+
+
+
+20 
+
+
+
+CHAPTER IV 
+
+
+
+Analysis of Data 
+
+A content analysis was performed on the annotations in two editions of Bo oks jot 
+You published thirty-one years apart, from 1964 to 1995. Annotations that mentioned 
+multicultural characters, African Americans, Native Americans, Asian/Pacific Islanders, 
+and Hispanic Americans, and multiethnic were coded according to the importance, setting, 
+and roles of those characters. Also calculated was the percentage of representation of 
+multicultural and white characters in the annotations with the percentage of population 
+reported in the U. S. Census for the years closest to the Books for You publication. The 
+hypothesis was that the importance and percentage of minority characters would increase 
+from the 1964 to the 1995 edition and that the roles played by those characters would 
+have become less stereotypical and true to reality. 
+
+Number of annotations citing the various racial and ethnic groups: 
+
+Table 1 shows the number of annotations that mention multicultural and white 
+characters. The total number of books annotated decreased from 1522 in the 1964 edition 
+to 630 in the 1990 edition. White Americans dominated with 1277 or 83.96% of the total 
+books annotated in 1964, while the number dropped to 418 or 66.24% in 1995. The 
+percentage of annotations containing multiethnic characters increased form 0.33% in 1964 
+to 1.90% in 1995, while those containing African Americans increased from 3.81% to 
+16.80%. Native and Hispanic American characters increased 4.08% and 1.84% 
+respectively, to 6.34% and 3.01%. Asian/Pacific Islanders had a small decrease in 
+representation, going from 91 books or 5.98% in 1964 to 36 books or 5.71% in 1995. 
+
+
+
+TABLE I 
+
+
+
+Distribution of Racial and Ethnic Groups by Date 
+
+
+
+
+
+1964 Books for You 
+
+
+1995 Books for You 
+
+
+Ethnic Group 
+
+
+f 
+
+
+% 
+
+
+f 
+
+
+% 
+
+
+White 
+
+Americans 
+
+
+1277 
+
+
+83.96% 
+
+
+418 
+
+
+66.24% 
+
+
+African 
+
+American 
+
+
+58 
+
+
+3.81% 
+
+
+106 
+
+
+16.80% 
+
+
+Native 
+
+American 
+
+
+62 
+
+
+4.08% 
+
+
+40 
+
+
+6.34% 
+
+
+Asian/Pacific 
+
+Islanders 
+
+
+91 
+
+
+5.98% 
+
+
+36 
+
+
+5.71% 
+
+
+Hispanic 
+
+Americans 
+
+
+28 
+
+
+1 .84% 
+
+
+19 
+
+
+3.01% 
+
+
+Multi- 
+
+ethnic 
+
+
+5 
+
+
+0.33% 
+
+
+12 
+
+
+1.90% 
+
+
+Total 
+
+
+1521 
+
+
+100% 
+
+
+631 
+
+
+100% 
+
+
+
+16 
+
+
+
+
+22 
+
+
+
+Settings: 
+
+
+
+Annotations containing multicultural characters were coded as to whether the 
+action took place in the United States or another country. It would be expected that the 
+change from 1964 to 1995 would be a movement from the country of origin for recent 
+immigrants to one where the action takes place in this country as the children of these 
+immigrants are now teenagers. This was true in all cases. As Table II shows, the action in 
+41.4% of the stories with characters of African origins in the 1964 edition took place in 
+another country, usually Africa. By 1995 only 17.9% of the action took place outside the 
+US. In the 1964 edition 19.4% of the action for Native Americans took place outside the 
+US, in Canada, Central and South America, while in 1995 this decreased to 10.0%. 
+
+Eighty or 87.9% of the 91 books in 1964 with Asian/Pacific Islander characters placed the 
+action in another country. This had changed by 1995 to where 21 or 58.3% of the 36 
+books depicted the action in another country. Of the books annotated that contain 
+Hispanic Americans, 16 or 57. 1% have action outside the United States in 1964. In 1995 
+this dropped dramatically to 26.3%. Although few books pertaining to characters with 
+multiple ethnicity are annotated, two of the five or 40.0% in the 1964 edition had settings 
+outside the United States. In the 1995 edition, only two of the 12 books or 16.7% had 
+settings outside the Unites States. 
+
+
+
+Importance: 
+
+Another element studied was the importance of the multicultural characters in the 
+annotations. They were considered to be of primary importance if they are a major 
+character or subject in the work and of secondary importance if they are a minor or 
+incidental character or subject in the work. Table III shows that in the annotations, all but 
+
+
+
+
+17 
+
+
+
+23 
+
+
+
+TABLE II 
+
+
+
+Distribution of Ethnic Group by Setting 
+
+
+
+
+
+
+
+1964 
+
+Books for You 
+
+
+
+
+
+
+
+
+
+
+
+
+USA 
+
+
+
+
+Other Country 
+
+
+
+
+Ethnic Group 
+
+
+f 
+
+
+% 
+
+
+
+
+f 
+
+
+% 
+
+
+Total 
+
+
+African 
+
+Origin 
+
+
+34 
+
+
+58.6% 
+
+
+
+
+24 
+
+
+41 .4% 
+
+
+58 
+
+
+Native 
+
+American 
+
+
+50 
+
+
+80.6% 
+
+
+
+
+12 
+
+
+19.4% 
+
+
+62 
+
+
+Asian/Pacific 
+
+Islanders 
+
+
+11 
+
+
+12.1% 
+
+
+
+
+80 
+
+
+87.9% 
+
+
+91 
+
+
+Hispanic 
+
+Origin 
+
+
+12 
+
+
+42.9% 
+
+
+
+
+16 
+
+
+57.1% 
+
+
+28 
+
+
+Multi- 
+
+ethnic 
+
+
+3 
+
+
+60.0% 
+
+
+
+
+2 
+
+
+40.0% 
+
+
+5 
+
+
+
+
+
+
+1995 
+
+Books for You 
+
+
+
+
+
+
+
+
+
+
+
+
+USA 
+
+
+
+
+Other Country 
+
+
+
+
+Ethnic Group 
+
+
+f 
+
+
+% 
+
+
+
+
+f 
+
+
+% 
+
+
+Total 
+
+
+African 
+
+Origin 
+
+
+87 
+
+
+82.1% 
+
+
+
+
+19 
+
+
+17.9% 
+
+
+106 
+
+
+Native 
+
+American 
+
+
+36 
+
+
+90.0% 
+
+
+
+
+4 
+
+
+10.0% 
+
+
+40 
+
+
+Asian/Pacific 
+
+Islanders 
+
+
+15 
+
+
+41.7% 
+
+
+
+
+21 
+
+
+58.3% 
+
+
+36 
+
+
+Hispanic 
+
+Origin 
+
+
+14 
+
+
+73.7% 
+
+
+
+
+5 
+
+
+26.3% 
+
+
+19 
+
+
+Multi- 
+
+ethnic 
+
+
+10 
+
+
+83.3% 
+
+
+
+
+2 
+
+
+16.7% 
+
+
+12 
+
+
+
+18 
+
+
+
+
+24 
+
+
+
+TABLE III 
+
+
+
+Distribution of Multicultural Characters by Importance and Date 
+
+
+
+
+
+
+
+1964 
+
+
+
+
+1995 
+
+
+
+
+Books for You 
+
+
+Books for You 
+
+
+African Americans 
+
+
+f 
+
+
+% 
+
+
+f 
+
+
+% 
+
+
+Primary Importance 
+
+
+42 
+
+
+72.4% 
+
+
+94 
+
+
+88.7% 
+
+
+Secondary Importance 
+
+
+16 
+
+
+27.6% 
+
+
+12 
+
+
+11.3% 
+
+
+Total 
+
+
+58 
+
+
+100% 
+
+
+106 
+
+
+100% 
+
+
+Native Americans 
+
+
+f 
+
+
+% 
+
+
+f 
+
+
+% 
+
+
+Primary Importance 
+
+
+37 
+
+
+59.7% 
+
+
+30 
+
+
+75.0% 
+
+
+Secondary Imprtance 
+
+
+25 
+
+
+40.3% 
+
+
+10 
+
+
+25.0% 
+
+
+Total 
+
+
+62 
+
+
+100% 
+
+
+40 
+
+
+100% 
+
+
+Asian/Pacific Islanders 
+
+
+f 
+
+
+% 
+
+
+f 
+
+
+% 
+
+
+Primary Importance 
+
+
+70 
+
+
+76.9% 
+
+
+27 
+
+
+75.0% 
+
+
+Secondary Importance 
+
+
+21 
+
+
+23.1% 
+
+
+9 
+
+
+25.0% 
+
+
+Total 
+
+
+91 
+
+
+100% 
+
+
+36 
+
+
+100% 
+
+
+Hispanic Origin 
+
+
+f 
+
+
+% 
+
+
+f 
+
+
+% 
+
+
+Primary Importance 
+
+
+20 
+
+
+71 .4% 
+
+
+17 
+
+
+89.5% 
+
+
+Secondary Importance 
+
+
+8 
+
+
+28.6% 
+
+
+2 
+
+
+10.5% 
+
+
+Total 
+
+
+28 
+
+
+100% 
+
+
+19 
+
+
+100% 
+
+
+Multi-ethnic 
+
+
+f 
+
+
+% 
+
+
+f 
+
+
+% 
+
+
+Primary Importance 
+
+
+4 
+
+
+80.0% 
+
+
+11 
+
+
+91 .7% 
+
+
+Secondary Importance 
+
+
+1 
+
+
+20.0% 
+
+
+1 
+
+
+8.3% 
+
+
+Total 
+
+
+5 
+
+
+100% 
+
+
+12 
+
+
+100% 
+
+
+
+
+19 
+
+
+
+25 
+
+
+
+one of the multicultural groups increased in primary importance and decreased in 
+secondary importance from 1964 to 1995. Multiethnic characters have the highest 
+percentage rate for primary importance both in 1964 and 1995 at 80.0% and 91.7% 
+respectively. Characters of African and Hispanic origins have similar percentage rates for 
+primary importance, rising from 72.4% and 71.4% respectively in 1964, to 88.7% and 
+89.5% in 1995. In the 1964 edition the lowest percentage rate of primary importance, 
+59.7%, is held by the Native Americans, rising to 75.0% in 1995. Asian/Pacific Islanders 
+were the only group to decrease in primary importance, falling from 76.9% in 1964 to 
+75.0% in 1995. 
+
+
+
+Representation in the United States Census: 
+
+This part of the study, shown in Table IV, compared the percentage of characters 
+in the annotations to the percentage each of these racial groups held in the United States 
+Census. Percentages of African Americans, Native Americans, Asian/Pacific Islanders, 
+multiethnic, and Caucasian characters in the annotations of the 1964 edition of Books for 
+You were compared to the 1960 Census and characters in the annotations of the 1995 
+edition were compared to the 1990 Census. Annotations that mention both Caucasian and 
+multicultural characters were counted as multicultural only. Hispanic Americans are 
+shown in Table V as they are counted differently by the Census than the other groups. 
+
+In the 1960 Census, 88.57% of the 179.32 million Americans were tabulated as 
+Caucasians, while 1277 or 85.53% of the annotations in the 1964 edition of Books for 
+You were counted as Caucasians. Multiethnic Americans comprised 0. 12% of the 
+population and have 0.33% of the annotations. Asian/Pacific Islanders and Native 
+Americans comprised 0.49% and 0.29% of the population, respectively, but were 
+disproportionately represented by 6. 10% and 4. 1 5% of the annotations. African 
+
+
+
+
+20 
+
+
+
+26 
+
+
+
+TABLE IV 
+
+
+
+Comparison of Occurence of Racial Groups in Annotations Versus Representation in US Census 
+
+
+
+
+
+1 960 Census 
+
+
+1964 Books for You 
+
+
+
+
+# in Millions 
+
+
+% 
+
+
+# of Books 
+
+
+% 
+
+
+White Americans 
+
+
+158.83 
+
+
+88.57% 
+
+
+1277 
+
+
+85.53% 
+
+
+African Americans 
+
+
+18.87 
+
+
+10.52% 
+
+
+58 
+
+
+3.88% 
+
+
+Native Americans 
+
+
+0.52 
+
+
+0.29% 
+
+
+62 
+
+
+4.15% 
+
+
+Asian/Pacific Islanders 
+
+
+0.88 
+
+
+0.49% 
+
+
+91 
+
+
+6.10% 
+
+
+Other/Multiethnic 
+
+
+0.22 
+
+
+0.12% 
+
+
+5 
+
+
+0.33% 
+
+
+TOTAL 
+
+
+179.32 
+
+
+100% 
+
+
+1493 
+
+
+100% 
+
+
+
+
+1 990 Census 
+
+
+1995 Books for You 
+
+
+
+
+# in Millions 
+
+
+% 
+
+
+# of Books 
+
+
+% 
+
+
+White Americans 
+
+
+199.69 
+
+
+80.29% 
+
+
+418 
+
+
+68.30% 
+
+
+African Americans 
+
+
+29.99 
+
+
+12.06% 
+
+
+106 
+
+
+17.32% 
+
+
+Native Americans 
+
+
+1.96 
+
+
+0.79% 
+
+
+40 
+
+
+6.54% 
+
+
+Asian/Pacific Islanders 
+
+
+7.27 
+
+
+2.92% 
+
+
+36 
+
+
+5.88% 
+
+
+Other/Multiethnic 
+
+
+9.80 
+
+
+3.94% 
+
+
+12 
+
+
+1 .96% 
+
+
+TOTAL 
+
+
+248.71 
+
+
+100% 
+
+
+612 
+
+
+100% 
+
+
+
+
+21 
+
+
+
+27 
+
+
+
+Americans were 10.52% of the 1960 population, but have only 3.88% of the annotations. 
+
+In the 1990 Census, Caucasian Americans had decreased to 80.29% of the 248.71 
+million United States population. Their representation in the 1995 edition of Books for 
+You had also decreased to 418, or 68.30% of the annotations. African Americans 
+increased to 12.06% of the population and to 17.32% of the annotations. Native 
+American population had more than doubled to 0.79%, while their percentage increased to 
+6.54% of the annotations. Asian/Pacific Islander population increased almost six fold to 
+2.92%, while the number of annotations decreased slightly to 5.88%. People who are 
+multiethnic accounted for 3.94% of the population, buy only had 1.96% of the 
+annotations. 
+
+Representation in the United States Census— Hispanic Americans: 
+
+Table V represents a comparison of annotations containing Hispanic American 
+characters in the 1964 and 1995 editions of Books for You versus the United States 
+Census. In this study, Hispanic Americans were treated separately because they are 
+counted twice in the Census, once for Hispanic origin and once for race. For this table the 
+author simply subtracted the number of people reported to be Hispanic from the total 
+number of United States residents, thus arriving at the number of "other Americans." In 
+the 1960 Census, Hispanic Americans madeup 1.93% of the United States population. In 
+the 1964 edition of Books for You 1.84%, or 28, of the annotations mention characters of 
+Hispanic origin. In the 1990 Census Hispanic Americans had increased to 8.99% 
+of the population, while the number of annotations is 19, or 3.01%. 
+
+
+
+
+22 
+
+
+
+28 
+
+
+
+TABLE V 
+
+
+
+Comparison of Annotations with Hispanic Americans versus Representation in US Census 
+
+
+
+
+
+I960 Census 
+
+
+1964 Books for You 
+
+
+
+
+# in Millions 
+
+
+% 
+
+
+# of Books 
+
+
+% 
+
+
+Hispanic Americans 
+
+
+3.46 
+
+
+1 .93% 
+
+
+28 
+
+
+1 .84% 
+
+
+Other Americans 
+
+
+175.86 
+
+
+98.07% 
+
+
+1493 
+
+
+98.16% 
+
+
+TOTAL 
+
+
+179.32 
+
+
+100% 
+
+
+1521 
+
+
+100% 
+
+
+
+
+1990 Census 
+
+
+1995 Books for You 
+
+
+
+
+# in Millions 
+
+
+% 
+
+
+# of Books 
+
+
+% 
+
+
+Hispanic Americans 
+
+
+22.35 
+
+
+8.99% 
+
+
+19 
+
+
+3.01% 
+
+
+Other Americans 
+
+
+226.36 
+
+
+91.01% 
+
+
+612 
+
+
+97.00% 
+
+
+TOTAL 
+
+
+248.71 
+
+
+100% 
+
+
+631 
+
+
+100% 
+
+
+
+
+23 29 
+
+
+
+Roles of characters with African origins: 
+
+
+
+Of the total number of annotations mentioning multicultural characters in both 
+editions of Books for You. African Americans have the largest representation, at 35.9%, 
+and the most variety in character roles. African American character roles are shown in 
+Table VI. The percentage of characters who are "freedom fighters" increased from 
+10.34% in the 1964 edition to 20.75% in the 1995 edition. "Coming of age," a popular 
+topic in young adult novels in the 90s, grew from 3.34% in 1964 to 14.15% in 1995. The 
+always celebrated "sportsman" increased from 12.07% to 18.87% in thirty-one years. 
+Decreasing in percentage was "professional," going from 18.97%, the highest percentage 
+in 1964 for African Americans, to only 1 .89% in 1995. The role on "none," in which the 
+character is mentioned but no role is given, went from 17.24%, the second highest in 
+1964, to 7.55% in 1995. No African American character was given the role of "romance" 
+in either edition. Of all the annotations mentioning multicultural characters, the role of 
+"convict" was given only once, in the 1995 edition to an African American. 
+
+Roles of Native Americans: 
+
+Native American character roles are shown in Table VII. The role of "none" was 
+the most common given to Native Americans. In the 1964 edition, 27.42% of Native 
+American characters were mentioned, but had no role. In 1995 the role of "none" had 
+decreased to 15.00%. "Coming of age" decreased from 6.45% in 1964 to 5.00% in 1995. 
+Also decreasing was the stereotypical "warrior," changing from 17.74% in the earlier 
+edition to 12.50% in the latter. Another role that is sometimes mentioned as stereotypical 
+of Native Americans, is "leader" or chief. Only 6.45% of the roles in 1964 were that of 
+"leader." In 1995 this decreased to 2.50%. "Romance" was the topic of 9.68% of the 
+
+
+
+
+24 
+
+
+
+30 
+
+
+
+TABLE VI 
+
+
+
+Roles of Characters with African Origins 
+
+
+
+
+
+1964 
+
+Books for You 
+
+
+1995 
+
+Books for You 
+
+
+Roles 
+
+
+f 
+
+
+% 
+
+
+f 
+
+
+% 
+
+
+None 
+
+
+10 
+
+
+17.24% 
+
+
+8 
+
+
+7.55% 
+
+
+Romance 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+Self-sufficient 
+
+
+3 
+
+
+5.17% 
+
+
+3 
+
+
+2.83% 
+
+
+Warrior 
+
+
+1 
+
+
+1 .72% 
+
+
+4 
+
+
+3.77% 
+
+
+Artists 
+
+
+5 
+
+
+8.62% 
+
+
+11 
+
+
+10.38% 
+
+
+Profrssiona! 
+
+
+11 
+
+
+18.97% 
+
+
+2 
+
+
+1 .89% 
+
+
+Nonprofessional 
+
+
+1 
+
+
+1 .72% 
+
+
+1 
+
+
+0.94% 
+
+
+Freedom Fighter 
+
+
+6 
+
+
+10.34% 
+
+
+22 
+
+
+20.75% 
+
+
+Tradesman 
+
+
+1 
+
+
+1 .72% 
+
+
+0 
+
+
+0 
+
+
+Leader 
+
+
+2 
+
+
+3.45% 
+
+
+2 
+
+
+1 .89% 
+
+
+Coming of Age 
+
+
+2 
+
+
+3.45% 
+
+
+15 
+
+
+14.15% 
+
+
+Sportsman 
+
+
+7 
+
+
+12.07% 
+
+
+20 
+
+
+18.87% 
+
+
+Slave 
+
+
+6 
+
+
+10.34% 
+
+
+12 
+
+
+11.32% 
+
+
+Captor 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+Gang Member 
+
+
+1 
+
+
+1.72% 
+
+
+1 
+
+
+0.94% 
+
+
+Civilian in War 
+
+
+0 
+
+
+0 
+
+
+1 
+
+
+0.94% 
+
+
+Culture 
+
+
+2 
+
+
+3.45% 
+
+
+3 
+
+
+2.83% 
+
+
+Convict 
+
+
+0 
+
+
+0 
+
+
+1 
+
+
+0.94% 
+
+
+Total 
+
+
+58 
+
+
+100% 
+
+
+106 
+
+
+100% 
+
+
+
+
+25 
+
+
+
+31 
+
+
+
+TABLE VII 
+
+
+
+Roles of Native Americans 
+
+
+
+
+
+1964 
+
+Books for You 
+
+
+
+
+1995 
+
+Books for You 
+
+
+
+
+Roles 
+
+
+f 
+
+
+% 
+
+
+f 
+
+
+% 
+
+
+None 
+
+
+17 
+
+
+27.42% 
+
+
+6 
+
+
+15.00% 
+
+
+Romance 
+
+
+6 
+
+
+9.68% 
+
+
+0 
+
+
+
+
+Self-sufficient 
+
+
+5 
+
+
+8.06% 
+
+
+5 
+
+
+12.50% 
+
+
+Wanior 
+
+
+11 
+
+
+17.74% 
+
+
+5 
+
+
+12.50% 
+
+
+Artists 
+
+
+0 
+
+
+
+
+1 
+
+
+2.50% 
+
+
+Profrssional 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Nonprofessional 
+
+
+0 
+
+
+
+
+1 
+
+
+2.50% 
+
+
+Freedom Fighter 
+
+
+3 
+
+
+4.84% 
+
+
+0 
+
+
+
+
+Tradesman 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Leader 
+
+
+4 
+
+
+6.45% 
+
+
+1 
+
+
+2.50% 
+
+
+Coming of Age 
+
+
+4 
+
+
+6.45% 
+
+
+2 
+
+
+5.00% 
+
+
+Sportsman 
+
+
+2 
+
+
+3.23% 
+
+
+2 
+
+
+5.00% 
+
+
+Slave 
+
+
+1 
+
+
+1.61% 
+
+
+4 
+
+
+10.00% 
+
+
+Captor 
+
+
+1 
+
+
+1.61% 
+
+
+2 
+
+
+5.00% 
+
+
+Gang Member 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Civilian in War 
+
+
+2 
+
+
+3.23% 
+
+
+2 
+
+
+5.00% 
+
+
+Culture 
+
+
+6 
+
+
+9.68% 
+
+
+9 
+
+
+22.50% 
+
+
+Convict 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Total 
+
+
+62 
+
+
+100% 
+
+
+40 
+
+
+100% 
+
+
+
+tKIC 
+
+
+
+26 3 2 
+
+
+
+annotations in 1964. There were no annotations in the 1995 edition that mentioned 
+"romance." "Culture," the second most popular topic for Native American books, 
+increased from a percentage of 9.68% in the 1964 edition to 22.50% in 1995. "Self- 
+sufficient" rose from 8.06% to 12.50%. "Slave" and "captor" both comprised 1.61% in 
+1964, but increased to 10.00% and 5.00%, respectively, in 1995. In neither edition were 
+the roles of "professional" or tradesman" presented. Only one annotation, in the 1995 
+edition, gives the role of "artist" to a Native American. 
+
+Roles of Asian/Pacific Islanders: 
+
+The roles of Asian/Pacific Islanders are presented in Table VIII. The most 
+common role, "coming of age," is present in 14.29% of annotations in 1964 and 33.33% in 
+1995. "Warrior" is the role given to 5.49% of the characters in the 1964 edition, while in 
+1995 the percentage rate was 19.44%. Another role that increased is "civilian in war," a 
+topic popular after Japanese citizens were placed in concentration camps on the West 
+Coast during World War II. This role has a percentage rate of 6.69% in 1964, but jumps 
+to 13.89% in 1995. An increase was seen in the "professional" role, going from 3.30% in 
+the early edition to 5.56% in the latter. Decreasing were "leader," going from 18.68% to 
+zero in thirty-one years, "culture," from 8.79% to 5.56%, and "romance," going from 
+14.29% to 2.78%. Another role to decrease in percentage was "none," with 14.29% in 
+the 1964 edition and 11.11% in the 1995 edition. "Self-sufficient" holds 6.59% in 1964, 
+but zero in 1995. As with Native Americans, only one annotation mentions the role of 
+"artist" for Asian/Pacific Islanders. This annotation is also in the 1995 edition. 
+
+
+
+
+27 
+
+
+
+33 
+
+
+
+TABLE VIII 
+
+
+
+Roles of Asian/Pacific Islanders 
+
+
+
+Roles 
+
+
+1964 
+
+Books for You 
+
+
+1995 
+
+
+
+
+f 
+
+
+% 
+
+
+f 
+
+
+% 
+
+
+None 
+
+
+13 
+
+
+14.29% 
+
+
+4 
+
+
+11.11% 
+
+
+Romance 
+
+
+13 
+
+
+14.29% 
+
+
+1 
+
+
+2.78% 
+
+
+Self-sufficient 
+
+
+6 
+
+
+6.59% 
+
+
+0 
+
+
+
+
+Warrior 
+
+
+5 
+
+
+5.49% 
+
+
+7 
+
+
+19.44% 
+
+
+Artists 
+
+
+0 
+
+
+
+
+1 
+
+
+2.78% 
+
+
+Professional 
+
+
+3 
+
+
+3.30% 
+
+
+2 
+
+
+5.56% 
+
+
+Nonprofessional 
+
+
+1 
+
+
+1.10% 
+
+
+0 
+
+
+
+
+Freedom Fighter 
+
+
+1 
+
+
+1.10% 
+
+
+0 
+
+
+
+
+Tradesman 
+
+
+1 
+
+
+1.10% 
+
+
+0 
+
+
+
+
+Leader 
+
+
+17 
+
+
+18.68% 
+
+
+0 
+
+
+
+
+Coming of Age 
+
+
+13 
+
+
+14.29% 
+
+
+12 
+
+
+33.33% 
+
+
+Sportsman 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Slave 
+
+
+0 
+
+
+
+
+2 
+
+
+5.56% 
+
+
+Captor 
+
+
+3 
+
+
+3.30% 
+
+
+0 
+
+
+
+
+Gang Member 
+
+
+1 
+
+
+1.10% 
+
+
+0 
+
+
+
+
+Civilian in War 
+
+
+6 
+
+
+6.59% 
+
+
+5 
+
+
+13.89% 
+
+
+Culture 
+
+
+8 
+
+
+8.79% 
+
+
+2 
+
+
+5.56% ' 
+
+
+Convict 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Total 
+
+
+91 
+
+
+100% 
+
+
+36 
+
+
+100% 
+
+
+
+
+28 
+
+
+
+34 
+
+
+
+Roles of Hispanic characters: 
+
+
+
+Roles of Hispanic Americans are represented in Table IX. Hispanic Americans 
+have a limited variety of roles in the annotations. There are only eight different roles 
+mentioned in the 1964 edition and seven in 1995. Three roles of particular interest to 
+young adults, "romance," "professional," and " "leader," are not present at all. Nor is the 
+stereotypical "gang member." "Nonprofessional" and "tradesman" are mentioned only 
+once. Only two annotations, 7. 14% of the total for 1964, refer to "sportsmen." The very 
+popular "coming of age" role was found in 7.14% of the annotations in the 1964 edition, 
+but that percentage has increased to 26.32% in 1995. "Warriors" are found in 14.29% of 
+the annotations in 1964, but there are none in 1995. "Culture" is the topic of 14.29% of 
+the annotations in the earlier edition and 10.53% of the latter. "Self-sufficient" decreased 
+from 21.43% to 5.26%. Percentage of annotations that mention Hispanic Americans but 
+give them no role is 28.57%, the highest in 1964, and 21.05% in 1995. No "artists" were 
+observed in the 1964 edition, but 26.32% of the annotations in 1995 give "artist" as the 
+role. 
+
+Roles of multiethnic characters: 
+
+The roles of multiethnic characters are presented in Table X. Only five annotations 
+in the 1964 edition of Rooks for You mention multiethnic characters and only two roles 
+are given. One annotation speaks of "romance" and another is about "culture." The other 
+three annotations, 60.00% of them, give no role for the multiethnic character. In the 1995 
+edition 41.67% of the roles are "coming of age," 25.00% are no role given, and the rest, 
+"Warrior," "artists," "sportsman," and gang member" have a percentage of 8.33. 
+
+
+
+
+29 
+
+
+
+35 
+
+
+
+TABLE IX 
+
+
+
+Roles of Hispanic Americans 
+
+
+
+
+
+1964 
+
+Books for You 
+
+
+
+
+1995 
+
+Books for You 
+
+
+
+
+Roles 
+
+
+f 
+
+
+% 
+
+
+f 
+
+
+% 
+
+
+None 
+
+
+8 
+
+
+28.57% 
+
+
+4 
+
+
+21.05% 
+
+
+Romance 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Self-sufficient 
+
+
+6 
+
+
+21 .43% 
+
+
+1 
+
+
+5.26% 
+
+
+Warrior 
+
+
+4 
+
+
+14.29% 
+
+
+0 
+
+
+
+
+Artists 
+
+
+0 
+
+
+
+
+5 
+
+
+26.32% 
+
+
+Profrssional 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Nonprofessional 
+
+
+1 
+
+
+3.57% 
+
+
+0 
+
+
+
+
+Freedom Fighter 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Tradesman 
+
+
+0 
+
+
+
+
+1 
+
+
+5.26% 
+
+
+Leader 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Coming of Age 
+
+
+2 
+
+
+7.14% 
+
+
+5 
+
+
+26.32% 
+
+
+Sportsman 
+
+
+2 
+
+
+7.14% 
+
+
+0 
+
+
+
+
+Slave 
+
+
+1 
+
+
+3.57% 
+
+
+0 
+
+
+
+
+Captor 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Gang Member 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Civilian in War 
+
+
+0 
+
+
+
+
+1 
+
+
+5.26% 
+
+
+Culture 
+
+
+4 
+
+
+14.29% 
+
+
+2 
+
+
+10.53% 
+
+
+Convict 
+
+
+0 
+
+
+
+
+0 
+
+
+
+
+Total 
+
+
+28 
+
+
+100% 
+
+
+19 
+
+
+100% 
+
+
+
+O 
+
+ERIC 
+
+
+
+30 
+
+
+
+36 
+
+
+
+TABLE X 
+
+
+
+Roles of Multiethnic Characters 
+
+
+
+
+
+1964 
+
+Books for You 
+
+
+1995 
+
+Books for You 
+
+
+
+
+Roles 
+
+
+f % 
+
+
+f 
+
+
+% 
+
+
+None 
+
+
+3 60.00% 
+
+
+3 
+
+
+25.00% 
+
+
+Romance 
+
+
+1 20.00% 
+
+
+0 
+
+
+
+
+Self-sufficient 
+
+
+0 
+
+
+0 
+
+
+
+
+Warrior 
+
+
+0 
+
+
+1 
+
+
+8.33% 
+
+
+Artists 
+
+
+0 
+
+
+1 
+
+
+8.33% 
+
+
+Profrssional 
+
+
+0 
+
+
+0 
+
+
+
+
+Nonprofessional 
+
+
+0 
+
+
+0 
+
+
+
+
+Freedom Fighter 
+
+
+0 
+
+
+0 
+
+
+
+
+Tradesman 
+
+
+0 
+
+
+0 
+
+
+
+
+Leader 
+
+
+0 
+
+
+0 
+
+
+
+
+Coming of Age 
+
+
+0 
+
+
+5 
+
+
+41 .67% 
+
+
+Sportsman 
+
+
+0 
+
+
+1 
+
+
+8.33% 
+
+
+Slave 
+
+
+0 
+
+
+0 
+
+
+
+
+Captor 
+
+
+0 
+
+
+0 
+
+
+
+
+Gang Member 
+
+
+0 
+
+
+1 
+
+
+8.33% 
+
+
+Civilian in War 
+
+
+0 
+
+
+0 
+
+
+
+
+Culture 
+
+
+1 20.00% 
+
+
+0 
+
+
+
+
+Convict 
+
+
+0 
+
+
+0 
+
+
+
+
+Total 
+
+
+5 100% 
+
+
+12 
+
+
+100% 
+
+
+
+
+31 
+
+
+
+37 
+
+
+
+CHAPTER V 
+
+
+
+Summary and Conclusions 
+
+
+
+A content analysis was performed on the annotations found in two editions of 
+Rooks for You published thirty-one years apart in 1 964 and 1 995 . Any annotation that 
+mentioned multicultural characters, African Americans, Native Americans, Asian/Pacific 
+Islanders, Hispanic Americans, or those of mixed race, were coded for date, ethnic group, 
+country setting, importance and role. The percentage of annotations found to have 
+multicultural characters was compared to United States Census population in the year 
+closest to publication. The total number of annotations coded for the 1 964 edition was 
+244 and the total number coded for the 1995 edition was 213. 
+
+Overall the percentage of annotations mentioning multicultural characters has 
+increased significantly from 1964 to 1995. Along with the increased importance these 
+characters hold in the literature in 1995, the action in these books is taking place more 
+often in the United States, as opposed to the mother country in the 1964 edition. 
+Comparing the percentage of annotations featuring each ethnic group to the United States 
+Census population reveals mixed results for both editions, with some ethnic groups being 
+overrepresented and some being underrepresented. The roles these characters played 
+became somewhat less stereotypical in the latter edition, but some stereotypes still remain. 
+The most promising improvement came with the role of "none." With every ethnic group 
+this percentage decreased from 1964 to 1995. That was the only consistent finding. 
+
+African Americans were underrepresented in the 1 964 edition, but overrepresented 
+in 1995. There was great improvement in the number of books with settings in the United 
+States and the characters have greater importance. The stereotypical role of "gang 
+member" was low in both years, but the roles of "artists" and "sportsman" together in 
+1995 make up almost 30% of the total, showing the need for more variety in this area. 
+
+
+
+
+32 
+
+
+
+38 
+
+
+
+The roles of "professional," "nonprofessional" and "tradesman" need to be greatly 
+increased. 
+
+In both editions. Native Americans are largely overrepresented, probably due to 
+popularity of the caricature of native peoples that has always been present in literature that 
+was written by non-natives. Images of the stereotypical "noble savage" or "bloodthirsty 
+warrior" have been abundant ever since Europeans first arrived in America. In the 
+annotations. Native Americans hold the lowest percentage of primary importance in 1964 
+and are tied for the lowest in 1995. The variety of roles in somewhat limited, with the 
+absence of "professional" and "tradesman" and only one each of "artist" and 
+"nonprofessional" showing the need for change. While there was a decrease in the 
+percentage of "warrior," a further decline would be an improvement. 
+
+Asian/Pacific Islanders were the only ethnic group to decrease, if only slightly, in 
+percentage of annotations from 1964 to 1995. They are also the only group to still have a 
+majority of settings taking place in another country and to have their characters not 
+increase in importance in the later edition. On the other hand, according to their 
+population in the United States Census, they were overrepresented in both editions. On a 
+positive note, they have the lowest percentage of "none" for a role and they tie with 
+African Americans for the greatest variety in roles for the 1 964 edition. The greatest 
+number of characters in the earlier edition have the role of "leader." These are mostly 
+biographies featuring kings, princes, emperors and presidents. There were no leaders in 
+the later edition. "Romance" was a popular role in the earlier edition, probably due to the 
+stereotype of the Asian woman as "geisha," or white man's subservient helpmate. 
+
+"Coming of age" was present at a high rate in both editions. In the case of the 
+Asian/Pacific Islanders, these stories usually revolve around the children of immigrants 
+trying to break away from their parents old world customs and manners. The high number 
+
+33 
+
+
+
+
+33 
+
+
+
+of "warriors" in the second edition was largely due to samurai warriors of Japan and the 
+Vietnam War. 
+
+Hispanic Americans were slightly underrepresented in 1964, but this would be 
+even more so if the entire Hispanic population had been counted in the Census. By 1995 
+they were underrepresented by 300%. More of the settings are in other countries in 
+Central and South America in the earlier edition, but by 1995 almost three-quarters of the 
+action takes place in the United States. Altogether only 47 annotations featuring Hispanic 
+Americans are in both editions and the roles are limited to ten, not counting "none." Most 
+numerous in 1964 are "self-sufficient," as fisherman, shepherd, diver and ranchers, 
+"warrior," mostly fighting for independence from Spain, and "culture." "Coming of age," 
+a very popular young adult theme in the nineties, and "artists" are the most numerous roles 
+in 1995. Those that make up the role of "artist" include a dancer, a musician, and painter 
+and two writers. The stereotypical Hispanic roles of housekeeper and handyman did not 
+appear in the annotations. 
+
+All of the annotations that were coded as multiethnic contained characters who are 
+from a variety of ethnic groups. There are no individual characters who have mixed 
+parentage. These annotations are very few in number, but did more than double from 
+1964 to 1995. The greatest percentage is for the role of "coming of age." More books 
+need to be written about children who are of mixed racial parentage because these 
+children, more than anyone else, usually don't fit in with any group and it would help if 
+they could read about others like themselves. 
+
+This study shows that there are promising signs that multicultural literature is 
+becoming an important part of young adult literature. As more and more writers of 
+various ethnic groups write books about their own culture and people, the field will surely 
+improve. 
+
+
+
+
+34 
+
+
+
+40 
+
+
+
+APPENDIX A 
+
+
+
+Annotation Coding Sheet 
+
+
+
+A. Citation # . (3 digits) 
+
+B. Date in Books for You : . (4 digits) 
+
+1964(1) 1995 (2) 
+
+C. Ethnic Group: . (1 digit) 
+
+African American (1) Native American (2) Asian/Pacific Islander (3) Hispanic 
+American (4) Multiethnic (5) 
+
+D. Country Setting: . (1 digit) 
+
+United States (1) Other (2) 
+
+E. Importance: . (1 digit) 
+
+Primary (1) Secondary (2) 
+
+F. Role: . (2 digits) 
+
+None(l), Girlfriend, Wife, Romance (2), Self-sufficient (3), Warrior (4), 
+Artist (5), Professional (6), Nonprofessional (7), 
+
+Freedom Fighter, Civil Rights (8), Tradesman (9), Leader (10), 
+
+Coming of Age (11), Sportsman (12), Slave, Second-Class Citizen (13), 
+Captor (14), Gang Member (15), Civilian in War (16), 
+
+Folklore, Culture, Customs, Arts, Festivals (17), Convict (18). 
+
+
+
+35 
+
+
+
+
+41 
+
+
+
+APPENDIX B 
+
+
+
+Short Annotation Coding Sheet 
+
+
+
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+Role: 
+Citation # 
+
+
+. Date: 
+
+
+. Ethnic Group: 
+
+
+. Setting: 
+
+
+Importance 
+
+
+
+Role: 
+
+
+
+36 
+
+
+
+
+42 
+
+
+
+NOTES 
+
+
+
+Waomi Caldwell-Wood, "Picture Books and Native Americans: An Interview 
+with Naomi Caldwell-Wood," Wilson Library Bulletin 67 (Feb. 1993): 33. 
+
+2 Nancy Larrick, "The All-White World of Children's Books," in The All-White 
+World of Children's Books and African American Children's Literature , ed. Osayimwense 
+Osa (Trenton, NJ: Africa World Press, 1995), 1. (First published in Saturday Review of 
+Books, 1965). 
+
+3 Naomi Caldwell-Wood, "Native American Images in Children's Books," School 
+Library Journal 38 (May 1992): 47. 
+
+4 Virginia M. Henderson, "The Development of Self-esteem in Children of Color," 
+in The Multicolored Mirror: Cultural Substance in Literature for Children and 
+Young Adults ed. Merri V. Lindgren (Fort Atkinson, WI: Highsmith, 1991), 20. 
+
+5 Nicholasa Mohr, "A Journey Toward a Common Ground: The Struggle and 
+Identity of Hispanics in the U S A," in Many Faces, Many Voices : Multicultural Literary 
+Experiences for Youth, eds. Anthony L. Manna and Carolyn S. Brodie, 
+
+(Fort Atkinson, WI: Highsmith, 1992), 61-2. 
+
+6 Ibid., 63. 
+
+7 Joseph Bruchac, "All Our Relations," Horn Book Magizine 71 (March/ April 
+1995): 158. 
+
+8 Junko Yokota, "Issues in Selecting Multicultural Children's Literature," 
+
+Language Arts 79 (March 1993): 157. 
+
+9 Elizabeth Martinez, "The Politics of Multicultural Literature for Children and 
+Adolescents: Combining Perspectives and Conversations," interview by Dan Madigan, 
+Language Arts 70 (March 1993): 169. 
+
+10 Ibid., 171. 
+
+n Karen Smith, "The Multicural Ethic and Connections to Literature for Children 
+and Young Adults," Library Trends 41 (Winter 1993): 341. 
+
+12 Thelma Seto, "Multiculturalism Is Not Halloween," The Horn Book Magazine 
+71 (March/April 1995): 169. 
+
+13 Ibid., 172. 
+
+
+
+
+37 
+
+
+
+43 
+
+
+
+14 Marc Aronson, "A Mess of Stories," The Horn Book Magazine 71 
+(March/ April 1995): 167. 
+
+15 Phoebe Yeh, "Multicultural Publishing: The Best and the Worst of Times." 
+Journal of Youth Services in Libraries 6 (Winter 1993): 160. 
+
+16 Caldwell-Wood, "Picture Books and Native Americans," 30. 
+
+17 1990 Census of Population and Housing. Summary Population and Housing 
+Characteristics (Washington, D C. : U S. Dept, of Commerce, Bureau of the Census, 
+1992): B-ll-B-14. 
+
+18 Larrick, 1-3. 
+
+19 Ginny Moore Kruse and Kathleen T. Homing, " Multicultural Literature for 
+Children and Young Adults: A Selected Listing^ Books 1980-1990 by and about 
+People of Color, " ERIC Document # 346 869: 13. 
+
+20 Jeanne B. Cobb, "Images and Stereotyping of African Americans and Hispanic 
+Americans in Contemporary Children's Fiction," ERIC Document # 392 062, (May 3, 
+1995): 12. 
+
+21 Ibid., 15. 
+
+22 Kathryn Meyer Reimer, "Multiethnic Literature: Holding Fast to Dreams," 
+Language Arts 69 (January 1992) 14-21. 
+
+23 Betty Morgan, "An Investigation of Children's Books Containing Characters 
+from Selected Minority Groups Based on Specified Criteria" (Ph D. diss.. Southern 
+Illinois University, 1973) 1. 
+
+24 Ibid., 266-267. 
+
+25 Ai-Ling Louie, "Growing Up Asian American: A Look at Some Recent Young 
+Adult Novels," Journal of Youth Services in Libraries 6 (Winter 1993): 115-27. 
+
+26 Michelle R. Koran, "Content Analysis of the Treatment of Hispanics in Children's 
+and Young Adult Literature," (Masters research paper. School of Library and 
+Information Science, Kent State University, 1992). 
+
+27 Violet H. Harada, "Issues of Ethnicity, Authenticity, and Quality in Asian 
+American Picture Books, 1983-93," Youth Services in Libraries 8 (Winter 1995): 135- 
+49. 
+
+
+
+
+38 
+
+
+
+44 
+
+
+
+28 Polly Pankratz, "The Nature and Incidence of Minority Representation in Young 
+Adult Literature: A Comparison of Works Reviewed in 1980 and 1990" (Masters 
+research paper. School of Library and Information Science, Kent State University, 
+
+1995). 
+
+
+
+29 Julie M. Mueller, "The Image of Native Americans in Young Adult Fiction 
+(1960-1985)," (Master's thesis, Univ. of Chicago, 1986). 
+
+30 Melanie A. Rapp, "A Study of Book Reviews in Voices of Youth Advocates 
+(VOYAI Pertaining to Multiculturalism, 1984 and 1994" (Masters research paper. School 
+of Library and Information Science, Kent State University, 1996). 
+
+3, In this case the author used a very broad definition of the term multiculturalism. 
+Included are women, religions other than Christian, ethnic groups within the US, i.e. Irish, 
+and the handicapped. Robert Balay, "Multiculturalism in the Reference Books," Choice 
+31 (Noverber 1993): 401. 
+
+32 Ibid., 401-2. 
+
+33 Persons of Spanish Surname: U.S. Census of Population. 1960 (Washington, 
+DC: U.S. Dept, of Commerce, Bureau of the Census, 1960): VII-XL 
+
+34 Nonwhite Population by Race: U.S. Census of Population: 1960 (Washington, 
+DC: U.S. Dept, of Commerce, Bureau of the Census, 1960): XI. 
+
+35 Ibid. 
+
+
+
+
+39 
+
+
+
+45 
+
+
+
+BIBLIOGRAPHY 
+
+
+
+Aim, Richard S., ed. Books for You: A Reading List for Senior High School Students . 
+New York: Washington Square Press, 1964. 
+
+Aronson, Marc. "A Mess of Stories." The Horn Book Magazine 71 (March/ April 
+1995): 163-168. 
+
+Balay, Robert. "Multiculturalism in the Reference Books," Choice, 3 1 (November 
+
+1993): 401-2. 
+
+Bruchac Joseph. "All Our Relations." in Horn Book Magazine 71 (March/ April 1995): 
+158. 
+
+Caldwell-Wood, Naomi. "Native American Images in Children's Books." School Library 
+Journal 38 (May 1992): 47-8. 
+
+. "Picture Books and Native Americans: An Interview with Naomi Caldwell- 
+
+Wood." Wilson Library Bulletin 67 (Feb. 1993): 30-4+. 
+
+Christenbury, Leila, ed. Books for You: An Annotated Booklist for Senior High 
+Students . Urbana, IL: National Council of Teachers of English, 1995. 
+
+Cobb, Jeanne B. "Images and Stereotyping of African Americans and Hispanic Americans 
+in Contemporary Children's Fiction." ERIC Document # 392 062, (May 3, 1995). 
+
+Harada, Violet H. "Issues of Ethnicity, Authenticity, and Quality in Asian- American 
+
+Picture Books, 1983-93." Youth Services in Libraries 8 (Winter 1995): 135-49. 
+
+Henderson, Virginia M. "The Development of Self-esteem in Children of Color." In 
+The Multicolored Mirror: Cultural Substance in Literature for Children and 
+Young Adults , ed. Merri V. Lindgren, 15-30. Fort Atkinson, WI: Highsmith, 
+1991. 
+
+Koran, Michelle R. "Content Analysis of the Treatment of Hispanics in Children's and 
+Young Adult Literature." Masters research paper. School of Library and 
+Information Science, Kent State University, 1992. 
+
+Kruse, Ginny Moore, and Kathleen T. Homing. Multicultural Literature for Children 
+and Young Adults: A Selected Listing of Books 1980-1990 by and about 
+People of Color . 1991. ERIC Document # 346 869. 
+
+
+
+
+40 
+
+
+
+
+Larrick, Nancy. "The All-White World of Children's Books." Chap, in The All-White 
+World of Children's Books and African American Children's Literature , ed. 
+Osayimwense Osa, 1-12. Trenton, NJ: Africa World Press, 1995. 
+
+Louie, Ai-Ling. "Growing Up Asian American: A Look at Some Recent Young Adult 
+Novels." Journal of Youth Services in Libraries 6 (Winter 1993): 115-27. 
+
+Martinez, Elizabeth. "The Politics of Multicultural Literature for Children and 
+
+Adolescents: Combining Perspectives and Conversations." interview by Dan 
+Madigan. Language Arts 70 (March 1993): 169. 
+
+Mohr, Nicholasa. "A Journey Toward a Common Ground: The Struggle and Identity of 
+Hispanics in the U.S.A." In Many Faces. Many Voices : Multicultural Literary 
+Experiences for Youth , eds. Anthony L. Manna and Carolyn S. Brodie, 61-67. 
+Fort Atkinson, WI: Highsmith, 1992. 
+
+Morgan, Betty. "An Investigation of Children's Books Containing Characters from 
+Selected Minority Groups Based on Specified Criteria." Ph.D. diss.. 
+
+Southern Illinois University, 1973. 
+
+Mueller, Julie M. "The Image ofNative Americans in Young Adult Fiction (1960-1985)." 
+Master's thesis. University of Chicago, 1986. 
+
+1990 Census of Population and Housing. Summary Population and Housing 
+
+Characteristics . Washington, DC . US Dept, of Commerce, Bureau of the 
+Census, 1992. 
+
+Nonwhite Population by Race: U S. Census of Population: 1960 . Washington, DC: 
+
+U.S. Dept, of Commerce, Bureau of the Census, 1960. 
+
+Pankratz, Polly. "The Nature and Incidence of Minority Representation in Young Adult 
+Literature: A Comparison of Works Reviewed in 1980 and 1990." Masters 
+research paper. School of Library and Information Science, Kent State 
+University, 1995. 
+
+Persons of Spanish Surname: US. Census of Population: 1960 . Washington, DC: 
+
+U.S. Dept, of Commerce, Bureau of the Census, 1960. 
+
+Rapp, Melanie A. "A Study of Book Reviews in Voices of Youth Advocates (VOYA) 
+Pertaining to Multiculturalism, 1984 and 1994." Masters research aper. School 
+of Library and Information Science, Kent State University, 1996. 
+
+Reimer, Kathryn Meyer. "Multiethnic Literature: Holding Fast to Dreams." Language 
+Arts 69 (January 1 992): 1 4-2 1 . 
+
+
+
+
+41 
+
+
+
+47 
+
+
+
+<■ 
+
+
+
+Seto, Thelma. "Multiculturalism Is Not Halloween." The Horn Book Magazine 71 
+(March/April 1995): 169-174. 
+
+t 
+
+Smith, Karen. "The Multicultural Ethic and Connections to Literature for Children and 
+Young Adults." Library Trends 41 (Winter 1993): 341. 
+
+Yeh, Phoebe. "Multicultural Publishing: The Best and the Worst of Times." Journal of 
+Youth Services in Libraries 6 (Winter 1993): 157-160. 
+
+Yokota, Junko. "Issues in Selecting Multicultural Children's Literature." Language Arts 
+79 (March 1993): 157. 
+
+
+
+
+42 
+
+
+
+48 
+
+
+
+
+U.S. DEPARTMENT Uh tUUUAIIUN 
+
+
+
+
+1 Offlca of Educational Research and Improvement (OERI) 
+
+1 Educational Resources Information Center (ERIC) 
+
+
+ERIC 
+
+
+
+NOTICE 
+
+REPRODUCTION BASIS 
+
+
+
+
+This document is covered by a signed “Reproduction Release 
+(Blanket)” form (on file within the ERIC system), encompassing all 
+or classes of documents from its source organization and, therefore, 
+does not require a “Specific Document” Release form. 
+
+
+
+This document is Federally-funded, or carries its own peimission to 
+reproduce, or is otherwise in the public domain and, therefore, may 
+be reproduced by ERIC without a signed Reproduction Release 
+form (either “Specific Document” or “Blanket”). . 
+
+
+

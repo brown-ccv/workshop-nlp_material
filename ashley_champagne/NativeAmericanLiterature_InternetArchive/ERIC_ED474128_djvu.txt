@@ -1,0 +1,442 @@
+DOCUMENT RESUME 
+
+
+
+ED 474 128 
+
+
+
+RC 023 978 
+
+
+
+AUTHOR 
+
+TITLE 
+
+
+
+INSTITUTION 
+SPONS AGENCY 
+PUB DATE 
+NOTE 
+PUB TYPE 
+
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+Demmert, William G. , Jr.; Towner, John C. 
+
+A Review of the Research Literature on the Influences of 
+Culturally Based Education on the Academic Performance of 
+Native American Students. Final Paper. 
+
+Northwest Regional Educational Lab., Portland, OR. 
+
+Department of Education, Washington, DC. 
+
+2003-02-10 
+143p . 
+
+Information Analyses (070) — Reference Materials - 
+Bibliographies (131) 
+
+EDRS Price MF01/PC06 Plus Postage. 
+
+* Academic Achievement; Alaska Natives; * American Indian 
+Education; American Indian Students; Annotated 
+Bibliographies; ^Bilingual Education; Cultural Context; 
+■^Culturally Relevant Education; ^Educational Research; 
+Elementary Secondary Education; Hawaiians; Literature 
+Reviews; Research Needs; Research Problems; School Community 
+Relationship 
+
+
+
+ABSTRACT 
+
+There is a widespread, firm belief among Native American 
+communities (American Indians, Alaska Natives, Native Hawaiians) and among 
+professional Native educators that meaningful educational experiences require 
+an appropriate language and cultural context. From their perspective, such 
+context supports the traditions, knowledge, and language (s) of the community 
+as a starting place for learning new knowledge. This review collects, reports 
+on, and critically analyzes the research literature to determine whether a 
+culturally based education (CBE) curriculum improves the school performance 
+of American Indian, Alaska Native, and Native Hawaiian students. Introductory 
+sections discuss events of the past three decades supporting development of 
+CBE, three theories underlying CBE interventions, an operational definition 
+of the elements of CBE, definitions of experimental and quasi-experimental 
+research, and the difficulties in conducting such research. The review found 
+only four studies that could legitimately be classified as experimental or 
+quasi-experimental. Because of these limited numbers, a small number of non- 
+experimental comparative studies were added. Only one research project was 
+found that provides insights on how researchers might show a direct’ . 
+connection between CBE and improved academic performance. Recommendations are 
+presented for improving the research base on CBE for Native Americans. Data 
+tables summarize the studies examined. Appendices describe the resources used 
+in the literature search and present a lengthy annotated bibliography. 
+(Contains 41 references.) (SV) 
+
+
+
+Reproductions supplied by EDRS are the best that can be made 
+from the original document. 
+
+
+
+'RjkJ' 2 3 9 7 8 
+
+
+
+oo 
+
+<N 
+
+
+
+r- 
+
+n- 
+
+
+
+
+Final Paper 
+
+
+
+A REVIEW OF THE RESEARCH LITERATURE ON THE 
+INFLUENCES OF CULTURALLY BASED EDUCATION 
+ON THE ACADEMIC PERFORMANCE OF NATIVE 
+AMERICAN STUDENTS 
+
+
+
+iui I 1WJUUI N-J 1 ai iu 
+
+EDUCATIONAL RESOURCES INFORMATION 
+xS CENTER (ERIC) 
+
+[Jr This document has been reproduced as 
+received from the person or organization 
+originating it, 
+
+□ Minor changes have been made to 
+improve reproduction quality. 
+
+
+
+• Points of view or opinions stated in this 
+document do not necessarily represent 
+official OERt position or policy. 
+
+
+
+February 10, 2003 
+
+
+
+
+Northwest Regional Educational Laboratory 
+101 SW Main Street, Suite 500 
+Portland, Oregon 97204 
+(503) 275-9500 
+
+
+
+3 
+
+=KLC 
+
+
+
+2 
+
+
+
+i BEST COPY AVAILABLE 
+
+
+
+Final Paper 
+
+
+
+A REVIEW OF THE RESEARCH LITERATURE ON THE 
+INFLUENCES OF CULTURALLY BASED EDUCATION 
+ON THE ACADEMIC PERFORMANCE OF NATIVE 
+AMERICAN STUDENTS 
+
+
+
+William G. Demmert, Jr., Ed.D., and John C. Towner, Ph.D. 
+
+
+
+February 10, 2003 
+
+
+
+Kim O. Yap, Ph.D. 
+Project Director 
+
+
+
+
+Northwest Regional Educational Laboratory 
+101 SW Main Street, Suite 500 
+Portland, Oregon 97204 
+(503) 275-9500 
+
+
+
+3 
+
+ERLC 
+
+
+
+3 
+
+
+
+This publication is a product of work sponsored by the U.S. Department of Education 
+under contract number ED-01 -CO-003 8/0002. The publication’s authors are responsible 
+for its content, and the views expressed herein are not necessarily those of the department 
+or any other agency of the U.S. Government. 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+Preface and Acknowledgments iii 
+
+Foreword iv 
+
+Introduction 1 
+
+Overview of the Literature Search on Culturally Based Education 
+
+Programs 6 
+
+Definitions of Culturally Based Education Interventions 7 
+
+Definitions of Experimental and Quasi-Experimental Research 9 
+
+Difficulties in Implementing Experimental and Quasi-Experimental Research.. 10 
+
+Experimental or Quasi-Experimental Studies 12 
+
+The Effective Instruction of Comprehension: Results and 
+
+Description of the Kamehameha Early Education Program 12 
+
+Guided Affective and Cognitive Imagery to Enhance 
+
+Self-Esteem Among Hawaiian Children 16 
+
+Effects of a Computer-Assisted Instruction Program on 
+
+Aboriginal Student Achievement 17 
+
+Art Activities to Improve Self-Esteem Among Native Hawaiian Children 17 
+
+Improving Alaska Native Rural and Urban Students’ Mathematical 
+Understanding of Perimeter and Area 18 
+
+Families and Schools Together: An Experimental Analysis of a 
+
+Parent-mediated Early Intervention Program for At-risk American 
+
+Indian Children 19 
+
+Discussion 20 
+
+Non-Experimental Comparative Studies 23 
+
+
+
+O 
+
+ERLC 
+
+
+
+1 
+
+
+
+TABLE OF CONTENTS (Continued) 
+
+
+
+Creole and English as Languages of Instruction in Bilingual Education With 
+
+
+
+Aboriginal Australian: Some Research Findings 23 
+
+Alaska Rural Systemic Initiative: Year Three Annual Progress Report 24 
+
+
+
+The Effectiveness of Bilingual Instruction With Cherokee Indian Students 24 
+
+
+
+Using the Gap Reduction Model to Evaluate a Successful 
+
+Bilingual/ESL Program 25 
+
+The Rock Point Experience: A Longitudinal Study of a Navajo 
+
+School Program 26 
+
+Subtractive Bilingualism and the Survival of the Inuit Language: 
+
+Heritage Versus Second-Language Education 27 
+
+Adding Cognition to the Formula for Culturally Relevant Instruction 
+in Mathematics 28 
+
+Bilingual Education in San Juan County, Utah: A Cross Cultural Emphasis 29 
+
+Discussion 30 
+
+Improving the Research Base on Culturally Based Education 
+
+For Native Americans 34 
+
+Observations on the Quantitative Research on Bilingual Education: 
+
+An Annotated Bibliography 38 
+
+Concluding Remarks 40 
+
+Bibliography 47 
+
+Appendix I: Resources Utilized in the Literature Search 51 
+
+Appendix II: Annotated Bibliography of the Research Literature on 
+
+
+
+Culturally Based Education (CBE) Programs Serving Native American Students.. 5 8 
+
+
+
+
+ii 6 
+
+
+
+Preface and Acknowledgments 
+
+
+
+This review of the research literature on the influences of culturally based education 
+(CBE) on the academic performance of Native American students focuses on the 
+quantitative and select qualitative research identified through a number of sources, 
+including: 1) the ERIC Clearinghouse on Rural Education and Small Schools 
+(ERIC/CRESS); 2) Digital Dissertations, DIALOG, ProQuest, and Info&Leaming; 3) a 
+variety of other resources and select individuals (e.g., Center for Applied Linguistics; 
+Center for Research on Education, Diversity, and Excellence (CREDE); the effective 
+schooling research from the Northwest Regional Education Laboratory (NWREL); 
+Cambridge Scientific Abstracts; 4) Anthropological Abstracts, Psychological Abstracts, 
+Social Sciences Index, Sociological Abstracts; and 5) reports on bilingual programs that 
+include non-Native students. 1 
+
+Special thanks must go to Patricia Cahape Hammer of ERIC/CRESS for her personal 
+attention to ensure that a wide variety of sources were covered in the search. In addition, 
+special thanks to Western Washington University students Renee Barut and Kelly Smith 
+for their work in tracking down and accessing articles selected to be used in this study. 
+Kelly must also be recognized for the excellent work she did in reviewing and reporting 
+information on the different reports on bilingual education included in this document. 
+Recognition must also be expressed for the significant support given by Roland Tharp in 
+reviewing the document and providing a detailed description of the methodology, 
+expectations, and results of the KEEP study conducted under his direction. 
+
+This review of the literature uses footnotes at the bottom of each page. The citations are a 
+combination of reports of research on Native American, as well as non-Indian or other 
+groups and a number of secondary sources such as literature reviews. A separate 
+bibliography is included at the end of this document. Appendix II includes an updated 
+annotated bibliography originally published in ERIC (Demmert, 2001), and expanded for 
+a RAND Study (Demmert & Towner, 2002). 
+
+The availability of quantitative research literature on culturally based education programs 
+for Native American children is severely limited. Possible experimental or quasi- 
+experimental research models appropriate for a national quasi-experimental and/or 
+experimental study of Native education are also in short supply. In spite of these 
+shortcomings, this report does provide suggestions, with the addition of a select number 
+of qualitative studies, on what might be possible, what would be necessary, and what 
+might not be appropriate to use in a search for research models appropriate for a national 
+study of Native education. 
+
+
+
+i 
+
+
+
+See Appendix I for a complete listing of descriptors and search sources used. 
+
+
+
+
+ill 
+
+
+
+7 
+
+
+
+Foreword 
+
+
+
+A partnership has been formed to work on this project that includes the Northwest 
+Regional Educational Laboratory, a leading institution in the field of school reform and 
+the effective schooling movement; the Center for Research on Education, Diversity, and 
+Excellence, with Roland Tharp as the director, and member researchers and institutions 
+that excel in their individual fields; and David Grissmer, from the RAND Corporation, 
+recognized for excellent work in educational research and in other fields. 
+
+In addition to partnering with well-established research institutions, the coalition includes 
+Native American organizations as well as Native professionals and non-Native 
+professionals who have extensive experience in working with Native people. The 
+National Congress of American Indians, the National Indian Education Association, and 
+the National Indian School Boards Association are all partners in this endeavor. Their 
+collective support and cooperation are critical if a national study of Indian education is to 
+be planned and implemented. Individual researchers who are members of this coalition 
+include Professor David Beaulieu, University of Wisconsin-Milwaukee; Professor John 
+Tippeconnic, Pennsylvania State University; Joseph Trimble, Professor, Western 
+Washington University; Professor Karen Swisher, President of Haskell Indian Nations 
+University; Professor Rick St. Germaine, University of Wisconsin, Eau Claire; Professor 
+Gerald Mohatt, University of Alaska, Fairbanks; and William Demmert, Professor of 
+Education, Western Washington University. 
+
+An internal review panel will monitor the information, progress, and process used in 
+developing this report. This group includes Joseph Trimble, Ph.D., Western Washington 
+University; Karen Swisher, Ph.D., Haskell Indian Nations University; and John 
+Tippeconnic, Pennsylvania State University. 
+
+An external review committee to monitor progress and quality includes Diane August, 
+Center for Applied Linguistics; David Grissmer, RAND Corporation; and Lee Sechrest, 
+University of Arizona. 
+
+
+
+ERIC 
+
+
+
+IV 
+
+
+

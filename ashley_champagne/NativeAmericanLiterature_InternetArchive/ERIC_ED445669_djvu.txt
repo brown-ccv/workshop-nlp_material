@@ -1,0 +1,5728 @@
+DOCUMENT RESUME 
+
+
+
+ED 445 669 
+
+
+IR 020 269 
+
+
+AUTHOR 
+
+
+McDermott, Laurie; Murray, Julie 
+
+
+TITLE 
+
+
+A Study on the Effective Use and Integration of Technology 
+into the Primary Curriculum. 
+
+
+PUB DATE 
+
+
+2000-05-00 
+
+
+NOTE 
+
+
+77p . ; Master's Action Research Project, Saint Xavier 
+University and Skylight Professional Development Field-Based 
+Masters Program. 
+
+
+PUB TYPE 
+
+
+Dissertations /Theses (040) 
+
+
+EDRS PRICE 
+
+
+MF01/PC04 Plus Postage. 
+
+
+DESCRIPTORS 
+
+
+♦Computer Assisted Instruction; Computer Attitudes; 
+♦Computer Uses in Education; Curriculum Development; 
+♦Educational Technology; Grade 1; Grade 2; Instructional 
+Effectiveness; Primary Education; School Surveys; Teacher 
+Attitudes 
+
+
+IDENTIFIERS 
+
+ABSTRACT 
+
+
+Access to Technology; *Technology Integration 
+This report details a plan to effectively integrate 
+
+
+
+technology into the classroom. The targeted population consisted of one first 
+grade class and one multi-age first and second grade class housed in a K-2 
+building. The school is located in a middle class suburban city in the 
+Midwest. Although technology was readily available in the school, its 
+non-effective use was documented by teacher surveys, student 
+self -assessments , technology sign-out sheets and a classroom computer use 
+checklist. Analysis of the probable cause indicated that classroom computers 
+were not used regularly, nor were teachers comfortable integrating technology 
+into the curriculum. Due to the lack of ongoing teacher training, teachers 
+felt ill prepared to integrate technology into the curriculum. This situation 
+had an adverse effect on students who therefore were not receiving 
+opportunities to use the available technology to its fullest potential. A 
+review of the literature combined with a year long technology integration 
+class suggested that ongoing teacher training is essential to changing 
+philosophies and increasing the comfort level of teachers. Regular 
+in-classroom access to technology is critical to increasing its effectiveness 
+with students. Post intervention data indicated that the students' ability to 
+use technology as an effective tool for learning was greatly increased. 
+Although targeted students scored higher on the self assessment rubric than 
+non- targeted students, more research is necessary to determine whether the 
+improved technology skills are a result of the intervention. Appendices 
+include the teacher survey, student self evaluation survey, engaged learning 
+framework for Native American unit, and student work samples. Contains 28 
+references . (Author/MES) 
+
+
+
+Reproductions supplied by EDRS are the best that can be made 
+from the original document. 
+
+
+
+IR020269 
+
+
+
+A STUDY ON THE EFFECTIVE USE AND INTEGRATION 
+OF TECHNOLOGY INTO THE PRIMARY CURRICULUM 
+
+
+
+Laurie McDermott 
+Julie Murray 
+
+
+
+o 
+
+ERIC 
+
+
+
+An Action Research Project Submitted to the Graduate Faculty of the 
+School of Education in Partial Fulfillment of the 
+Requirements for the Degree of Master of Arts in Teaching and Leadership 
+
+
+
+Saint Xavier University & SkyLight Professional Development 
+Field Based Masters Program 
+
+
+
+Chicago, Illinois 
+May, 2000 
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL HAS 
+BEEN GRANTED BY 
+
+
+
+L. McDerm ott 
+
+
+
+
+□ Minor changes have been made to 
+improve reproduction quality. 
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+
+BEST COPY AMICABLE 
+
+
+
+SIGNATURE PAGE 
+
+
+
+This project was approved by 
+
+
+
+
+
+DEDICATION 
+
+
+
+We dedicate this project to all the men in our lives; Rich, Dan, Doomis, Seymour, Spencer, 
+Elmo and Chewy. Whether human or animal, they were always around to provide support 
+and encouragement. 
+
+
+
+ABSTRACT 
+
+
+
+This report details a plan to effectively integrate technology into the classroom. The 
+targeted population consisted of one first grade class and one multi-age first and second 
+grade class housed in a K-2 building. The school is located in a middle class suburban city 
+in the Midwest. Although technology was readily available in the school, it’s non-effective 
+use was documented by teacher surveys, student self-assessments, technology sign-out 
+sheets and a classroom computer use checklist. 
+
+Analysis of the probable cause indicated that classroom computers were not used 
+regularly, nor were teachers comfortable integrating technology into the curriculum. Due to 
+the lack of ongoing teacher training, teachers felt ill prepared to integrate technology into the 
+curriculum. This situation had an adverse effect on students who therefore were not 
+receiving opportunities to use the available technology to its fullest potential. 
+
+A review of the literature combined with a year long technology integration class has 
+suggested that ongoing teacher training is essential to changing philosophies and increasing 
+the comfort level of teachers. Regular in classroom access to technology is critical to 
+increasing its effectiveness with students. 
+
+Post intervention data indicated that the students’ ability to use technology as an effective 
+tool for learning was greatly increased. Although targeted students scored higher on the 
+self assessment rubric than non targeted students, more research is necessary to determine 
+whether the improved technology skills are a result of the intervention. 
+
+
+
+V 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+CHAPTER 1 - PROBLEM STATEMENT AND CONTEXT 1 
+
+General Statement of the Problem 1 
+
+Immediate Problem Context 1 
+
+The Surrounding Community 3 
+
+National Context of the Problem 5 
+
+CHAPTER 2 - PROBLEM DOCUMENTATION 6 
+
+Problem Evidence 6 
+
+Probable Causes 10 
+
+CHAPTER 3 - THE SOLUTION STRATEGY 17 
+
+Literature Review ; 17 
+
+Project Objectives and Processes 26 
+
+Project Action Plan 26 
+
+Methods of Assessment 28 
+
+CHAPTER 4 - PROJECT RESULTS 29 
+
+Historical Description of the Intervention 29 
+
+Presentation and Analysis of Results 31 
+
+Conclusions and Recommendations 40 
+
+REFERENCES 43 
+
+APPENDICES 46 
+
+A TEACHER SURVEY 46 
+
+B STUDENT SELF EVALUATION SURVEY 49 
+
+C NATIVE AMERICAN UNIT FRAMEWORK 51 
+
+D STUDENT WORK SAMPLES 54 
+
+
+
+
+- U - 6 
+
+
+
+1 
+
+
+
+CHAPTER 1 
+
+PROBLEM STATEMENT AND CONTEXT 
+General Statement of the Problem 
+
+The students in the targeted kindergarten through second grade building are not 
+using technology as an effective tool for learning. Evidence for the existence of the 
+problem includes, a lack of technology use by students and teachers as documented 
+through the monitoring of computer use and sign out sheets, teacher surveys reflecting their 
+comfort level using and teaching technology, and student assessments of skills and ability to 
+problem solve. 
+
+Immediate Problem Context 
+
+The site used in the following research is a kindergarten through second grade 
+building. This building is part of a small elementary school district. Classroom A is a first 
+grade room. Classroom B is a first and second grade multi-age class. The students in class 
+B stay with the teacher for two full years. The school day begins at 8:25 am and ends at 
+2:25 pm. The following information is taken from the 1998 School Report Card. 
+
+This district serves 1 ,716 students, 349 of which are housed in the school. The 
+students in this district are predominately white. Table 1 shows the racial background and 
+total enrollment of this school. 
+
+Table 1 
+
+Racial/Ethnic Background and Total Enrollment 
+
+
+
+
+
+White 
+
+
+Black 
+
+
+Hispanic 
+
+
+Asian 
+
+
+Native American 
+
+
+Total Enrollment 
+
+
+School 
+
+
+78.8% 
+
+
+2.0% 
+
+
+8.6% 
+
+
+10.6% 
+
+
+0.0% 
+
+
+349 
+
+
+District 
+
+
+84.3% 
+
+
+1 .6% 
+
+
+5.7% 
+
+
+8.2% 
+
+
+0.2% 
+
+
+1716 
+
+
+
+There are few students from a limited English proficient setting and fewer from low- 
+income families. The school’s enrollment of low-income and limited English proficiency 
+
+
+
+0 
+
+
+
+
+2 
+
+
+
+students is slightly higher than the district’s percentages. Table 2 indicates these 
+percentages. 
+
+Table 2 
+
+Low-Income and limited English proficient 
+
+
+
+
+
+Low- Income 
+
+
+Limited English Proficient 
+
+
+School 
+
+
+6.6% 
+
+
+10.9% 
+
+
+District 
+
+
+5.5% 
+
+
+5.9% 
+
+
+
+This district has a high attendance rate, with little student mobility. The school also 
+has a high attendance rate, however the student mobility rate is slightly higher than the 
+district . The district and school have no chronic truancy. Table 3 reflects these 
+percentages. 
+
+Table 3 
+
+Attendance. Mobility and Chronic Truancy 
+
+
+
+
+
+Attendance 
+
+
+Student Mobility 
+
+
+Chronic Truancy 
+
+
+School 
+
+
+95.3% 
+
+
+10.6% 
+
+
+0.0% 
+
+
+District 
+
+
+96.0% 
+
+
+6.2% 
+
+
+0.0% 
+
+
+
+The 1998 School Report Card also states that this site spends $6,748 per pupil. 
+This is $467 more than the state average. Fifty-eight percent of the district’s expenditure is 
+spent from the education fund, compared to 73% which is the state average. Large 
+proportions (23.6%) of the monies are spent on operations and maintenance. 
+
+There are 15 single teacher classrooms in the school: 1 early childhood , 3 
+kindergarten, 4 first grade, 3 second grade, and 4 first and second grade multi-age rooms. 
+
+All specialist and resource teachers have their own rooms. Classrooms are 
+heterogeneously grouped. Most of the first graders loop to second grade with their teacher 
+and classmates. All multi-age students stay with their teacher for two years. The 
+classrooms have one teacher with the exception of early childhood, which also has one 
+speech and language pathologist and a full time teacher aide. There are three classrooms 
+
+
+
+ERIC 
+
+
+
+- w , 
+
+
+
+8 
+
+
+
+L 
+
+
+
+3 
+
+
+
+which contain students whose Individualized Education Plan (IEP) requires them to have a 
+full time aide. 
+
+First and second grade students receive 90 minutes of gym, 40 minutes of art, 40 
+minutes of library instruction and 50 minutes of music per week. Students with social, 
+academic, or behavioral concerns are served by a full-time social worker, and full-time 
+teachers specializing in Title 1 , Learning Disabled/Behavior Disordered resource services, 
+speech and language, and ESL (English as a Second Language). 
+
+All schools within the district are linked by a local area network (LAN) server. The 
+school library houses Macintosh computer lab containing 25 desktop computers. There are 
+various models and not all are compatible with the software used by the district. All of the 
+computers have printer connections. Nine of the 25 computers have internet connections. 
+
+Each classroom has one Power Macintosh computer connected to the internet and 
+district server, and one color printer. In addition, some classrooms have other computers, 
+which are older models and are not internet or server compatible. For the 1999-2000 
+school year the district offered a Technology Integration Program (TIP). Teachers who 
+volunteered to participate received an additional 3 to 4 iMac computers with internet 
+capability in their classrooms. The school owns 8 digital cameras, 1 scanner, 2 multi-media 
+presentation centers, 2 lap top computers, 2 video cameras, and 5 VCRs on carts. The 
+district technology plan calls for each classroom to be equipped with one 27” video / 
+computer monitor and a video cassette player for the 1999-2000 school year. Finally, the 
+district has hired a full time technology facilitator whose responsibilities include training 
+teachers to integrate technology into the curricula. 
+
+The school encourages community involvement. Parents and senior citizens 
+volunteer regularly and work with students. Each school in the district has a School 
+Improvement Committee made up of parents, teachers and administrators who work to 
+improve the quality of the schools. Community members also serve on the district 
+technology committee. A future goal of the technology committee is to open the district 
+computer labs for the community to use. 
+
+The Surrounding Community 
+
+The school is part of a small Midwest suburban school district, 20 miles outside of a 
+
+
+
+
+
+9 
+
+
+
+4 
+
+
+
+major metropolitan center. According to the 1990 census, the population of the school 
+community is 15,239 . Average per household income for the school community is 
+$43,101 as of the 1990 census. The average resident is 32 years old. Housing ranges in 
+price from $60,000 for the less expensive condominiums to $450,000 for the higher price 
+single-family homes (Wexcel, 1995). Crime is extremely low in this school’s community 
+with a crime rate of 2.552% (Wexcel, 1 995). The district serves four local communities, 
+which are comprised of light industry, single-family homes, townhomes and apartments. 
+Various racial and ethnic backgrounds make up this community of professionals and blue- 
+collar workers. 
+
+The district is made up of one middle school, one K-5 building, one K-2 building and 
+one 3-5 building. According to the 1998 School Report Card, the teaching staff employed 
+by this district consists of 87.3% female, and 12.7% male teachers, all of white ethnic 
+background. The average teaching experience in the district is 12.9 years. Table 4 shows 
+that there is evidence of teachers’ commitment to advance themselves educationally. 
+
+Table 4 
+
+T eacher/Administrator Characteristics 
+
+
+
+Average Years Teaching 
+
+
+Teachers with BA 
+
+
+Teachers with MA and above 
+
+
+District 12.9 years 
+
+
+50.6% 
+
+
+49.4% 
+
+
+
+The School Board consists of seven elected members who serve for four years. 
+The district’s administrative staff is made up of eight individuals: a superintendent, an 
+assistant superintendent, a business administrator, four principals, and one assistant 
+principal. During the 1998-1999 school year, the administrative staff increased by one. A 
+full time technology coordinator was hired. The technology coordinator’s responsibilities 
+include the maintenance of all equipment, the writing of a state mandated district technology 
+plan, applying for technology grants and heading the district’s technology team. The 
+creation of this position reflects the administrative and School Board’s growing awareness 
+for the need of technology assistance. 
+
+
+
+
+10 
+
+
+
+5 
+
+
+
+National Context of the Problem 
+
+The past decade has seen a great increase in the number of computers found in 
+early childhood and primary classroom settings. In 1 984, the computer to student ratio was 
+1:125. By 1997 this ratio had improved to 1 computer for every 10 children (Clements, 
+1998). The term technology is not limited to computers. Technology encompasses all 
+equipment such as printers, scanners, monitors, digital cameras, VCRs, tape recorders, CD 
+players, etc. Although the amount of technological equipment in schools has greatly 
+increased, students are not using technology as an effective tool for learning. 
+
+More technology in the classroom is still needed. In a recent NEA (National 
+Education Association) Communication Survey it was found that more than two-thirds of 
+elementary teachers had access to a single computer in their classroom (McKenzie, 
+
+1998b). One computer per classroom is not enough technology “for most students to 
+have their schooling experiences significantly and frequently affected” (Becker, 1 994) . 
+President Clinton has recognized this need and is “calling for modern equipment in all 
+classrooms and relevant training and support for teachers (Coley, Cradler, & Engel, in 
+Latham, 1999). 
+
+Standards for student achievement in technology also need to be established. The 
+International Society For Technology in Education (ISTE) has initiated the National Education 
+Technology Standards (NETS) project. The main goal of NETS is to develop national 
+technology standards for students in grades Pre K-12. Over the next three years these 
+standards will continue to be developed and refined. It is hoped that these goals will 
+facilitate school improvement throughout the United States. (National Education 
+Technology Standards Project, 1999). 
+
+The targeted school has an average of two computers per classroom. Although this 
+is slightly higher than the national average, it is still not enough computers for technology to 
+be used effectively. Along with the lack of technology available, there are other obstacles 
+that teachers face when integrating technology into the curriculum. 
+
+
+
+O 
+
+tKJC 
+
+
+
+11 
+
+
+
+6 
+
+
+
+CHAPTER 2 
+
+PROBLEM DOCUMENTATION 
+Problem Evidence 
+
+Although technology is readily available at the targeted school, it is not being used 
+effectively. This has been documented through teacher surveys evaluating how teachers 
+are using the available technologies, student self assessment rubrics, and technology 
+usage checklists. Data was collected from 41 children ranging in ages from six to eight years 
+old. The teacher survey was given to 14 classroom teachers and was completed and 
+returned by 13 teachers. 
+
+Teacher Survey 
+
+The teachers were surveyed on how they use technology with their students. This 
+survey can be found in Appendix A. The results of the survey confirmed that technology is 
+not being effectively integrated into most classrooms on a daily or weekly basis. Effective 
+technology use is demonstrated when students are using the technology to solve 
+problems, find information, or publish writing that relates to their curricular studies (McKenzie, 
+1998a & 1998b). Results showing that technology is not being used on a weekly or daily 
+basis are listed in Table 5. 
+
+Table 5 indicates that technology is most frequently used for free time. Free time is 
+given when students have completed the required work and are allowed to choose an 
+activity. Most frequently this activity is a ”game-like” computer program which may or may 
+not relate to the curriculum. Teachers do not monitor or direct the activity. Therefore, free 
+time is not considered to be an effective use of technology. 
+
+Table 5 also shows that 30% or approximately one third of teachers do not integrate 
+technology into their curricular units more than once a month. Furthermore, 75% of the 
+teachers used technology for journal writing once a month or less. Only 9% of students are 
+given opportunities to use word processing for publishing their writing on a weekly basis. 
+The areas of word processing and publishing are important life skills and most students are 
+
+
+
+O 
+
+ERIC 
+
+
+
+12 
+
+
+
+7 
+
+
+
+not receiving practice. These survey results are evidence that technology is not being used 
+effectively at the given school. 
+
+Table 5 
+
+Frequency of Technology Use 
+
+
+
+
+
+Never 
+
+
+Once a trimester 
+
+
+Monthly 
+
+
+Weekly 
+
+
+Daily 
+
+
+Frequency of Curricular 
+Technology Integration 
+
+
+0% 
+
+
+15% 
+
+
+15% 
+
+
+46% 
+
+
+24% 
+
+
+Frequency of Free Time 
+Use 
+
+
+0% 
+
+
+0% 
+
+
+0% 
+
+
+46% 
+
+
+54% 
+
+
+Frequency of Student 
+Word Processing for 
+Journal writing 
+
+
+15% 
+
+
+32% 
+
+
+30% 
+
+
+23% 
+
+
+0% 
+
+
+Frequency of Student 
+Word Processing for 
+Publishing 
+
+
+32% 
+
+
+13% 
+
+
+46% 
+
+
+9% 
+
+
+0% 
+
+
+
+Students come to the classroom with a variety of technological skills. Some children 
+have been exposed to technology and feel comfortable using it. On the other hand, there 
+are children who have little or no experience using technology. Students in the targeted 
+classrooms were asked to self-evaluate their ability levels using technology. Surveys were 
+given on an individual basis, with a trained volunteer clearly explaining each item. The 
+results are listed in Table 6. The student self evaluation survey can be found in Appendix 
+B. 
+
+This survey was given to two classrooms of children. One class contained 21 first 
+graders. The second class contained 1 1 first graders and 9 second graders. This survey 
+was conducted in the first trimester of the school year. Most of the first grade students 
+would not have had exposure to the surveyed skills. The second grade students were 
+exposed to the surveyed skills during the previous year. During the current school year, 
+the children in the two classrooms surveyed had been exposed to turning the computer on 
+and off as well as the application programs, Kid Pix and ClarisWorks. These skills were all 
+directly taught by the classroom teacher and as a result, have the highest number of 
+proficient children. 
+
+
+
+O 
+
+ERIC 
+
+
+
+13 
+
+
+
+8 
+
+
+
+Table 6 
+
+Student Self Assessment 
+
+
+
+Skill 
+
+
+% Proficient 
+
+
+% Familiar 
+
+
+% Incapable 
+
+
+1 can draw a picture 
+using Kid Pix. 
+
+
+61% 
+
+
+32% 
+
+
+7% 
+
+
+1 can e-mail a friend or 
+teacher. 
+
+
+21% 
+
+
+21% 
+
+
+58% 
+
+
+1 can type a journal page, 
+save it and print it using Claris. 
+
+
+42% 
+
+
+32% 
+
+
+26% 
+
+
+1 can turn the computer on 
+and shut it down. 
+
+
+79% 
+
+
+5% 
+
+
+16% 
+
+
+1 can find things that 1 have 
+saved on a disk or the server. 
+
+
+29% 
+
+
+26% 
+
+
+45% 
+
+
+1 can find research on the 
+internet. 
+
+
+21% 
+
+
+21% 
+
+
+58% 
+
+
+1 can use WiggleWorks. 
+
+
+24% 
+
+
+8% 
+
+
+68% 
+
+
+1 can download pictures from 
+the internet. 
+
+
+3% 
+
+
+34% 
+
+
+63% 
+
+
+1 can use the digital camera and 
+put pictures in the news. 
+
+
+10% 
+
+
+37% 
+
+
+53% 
+
+
+
+When comparing student rubric results with teacher anecdotal records, a discrepancy 
+was found. It appears that students indicated a familiarity using the technology skills when in 
+reality they had knowledge that the technology existed, but could not demonstrate its use. 
+After completion of the survey, the teachers of the targeted classrooms reviewed the 
+student surveys and found 85% of them to be accurate with their own anecdotal records. 
+
+Table 6 indicates that there are only two skills areas in which a majority of the 
+students feel proficient. In support that technology is not being used effectively, the survey 
+revealed that there are five areas where the majority of the students ranked themselves as 
+incapable of using the technology. The user checklist further revealed that technology is 
+simply not being used by the students in the targeted school. 
+
+
+
+
+14 
+
+
+
+9 
+
+
+
+Usage Checklist 
+
+To establish if technology is being used in the 14 regular education classrooms and 
+computer lab, random usage checks were initiated. Beginning the fifth week of school, 
+random checks for usage of every classroom computer were taken. Using the Apple 
+Network Administrative Toolkit, the Building Technology Facilitator was able to monitor 
+which computers were turned on and what applications, if any, were running. When 
+programs were running, the technology facilitator could view the monitor and see what work 
+was being done. For example, a check could determine that ClarisWorks was running and 
+a permission slip was being composed. The nature of this document indicates that an adult 
+was creating it. Because the targeted school is a K-2 building, the typing speed, grammar 
+and spelling indicate whether a child or an adult is using the computer. Checks were done on 
+a random schedule over a five week period. In total, 15 checks were made. The results are 
+listed in Table 7. 
+
+Table 7 
+
+Classroom Technology Usage 
+
+
+
+% Turned Off 
+
+
+% Used by Students 
+
+
+%Used by Teachers 
+
+
+% On but Not Used 
+
+
+31% 
+
+
+14% 
+
+
+12% 
+
+
+43% 
+
+
+
+Table 7 shows that on average 31 % of the computers in classrooms were turned off 
+during the school day. The average was calculated by recording the number of computers 
+turned off at any given check and dividing it by the total number of computers in the 
+classrooms. The average percent of use was found the same way. Of those that were 
+turned on, 43% were not in use. One hundred percent use of computers is not expected, 
+nor possible in a school day. The goal is not to replace current curriculum with technology, 
+but rather to enhance it. However, when only 14% of students are using technology at any 
+given time, it would imply that most students are not receiving daily exposure to 
+technology. 
+
+Usage was also monitored in the computer lab. Teachers are encouraged to sign up 
+for a 40 minute weekly time slot in the lab. Once signed-up, it is not mandatory to attend. 
+
+
+
+O 
+
+ERIC 
+
+
+
+15 
+
+
+
+10 
+
+
+
+The classroom teacher is responsible for all technology lessons conducted in the lab. There 
+is no technology teacher or support personnel present. 
+
+During the eighth week of school the Building Technology Facilitator conducted hourly 
+checks to determine if the computers in the lab were being used. This information was 
+compared with the lab schedule to see if teachers were using the lab during their reserved 
+time slots. During the week monitored, the lab was used only once by a classroom 
+teacher, and once by a special services teacher. Ten teachers had signed up to use it. It is 
+evident that the computer lab is not being used effectively. 
+
+It has been established that technology is not being used effectively. Teacher 
+surveys at this site revealed that teachers are not using technology to support their 
+curriculum nor for increasing student word processing and publishing skills. Rather, the most 
+frequent use of technology is for free time. Students surveys reflected that the majority of 
+children are not proficient in most skill areas. It has also been found that the technology 
+available is not always used. To effectively assist teachers in improving their technology 
+skills and the teaching of technology to students, there must be an attempt to understand 
+the underlying causes for the lack of effective technology usage. 
+
+Probable Causes 
+
+There are many factors that affect the lack of technology use with primary students. 
+First, teachers are simply not comfortable using or teaching the technologies. Teachers are 
+not receiving the exposure to technology that is vital both during pre-service and in-service 
+training. When technology is used, it is not always used as an effective tool for learning. 
+Finally, many districts have not created technology benchmarks. Where there is no 
+expectation to teach technology, it is not taught. 
+
+Teacher Comfort 
+
+The teachers at the targeted site were requested to rate their comfort level in both 
+using and teaching various forms of technology available at the school. All teachers 
+surveyed have had the opportunity, whether through mandatory staff development or 
+voluntary workshops, to learn about the surveyed technologies. The survey asked 
+teachers to rate their comfort level from 1 through 5, 1 representing very uncomfortable and 
+5 representing very comfortable. When interpreting the survey, the ratings of 1 through 3 
+
+
+
+O 
+
+ERIC 
+
+
+
+16 
+
+
+
+11 
+
+
+
+indicate discomfort. Discomfort is defined as being unsure of how to use the technology 
+independently and to its full potential. 
+
+The survey revealed that teachers are uncomfortable both using and teaching the 
+technologies available to them through the school and in the classroom. Table 8 displays 
+the percentage of teachers who are personally uncomfortable using the specified 
+technologies. The table also displays the number of years the given technology has been 
+available in the classroom. Teachers are generally more comfortable with technologies that 
+have been around 6 or more years. However, there are a few exceptions. 
+
+A district initiative to minimize paper waste has made the use of e-mail mandatory, 
+therefore a high percentage of teachers have become comfortable with this technology in a 
+short amount of time. The survey found that 46% of teachers stated that they felt 
+comfortable saving to a server. The technology facilitator was asked to report the number 
+of teachers who had logged onto the server within a one month period. Of the 14 
+classroom teachers, only three had done so. The validity of this self-report is therefore 
+questionable. 
+
+Table 8 
+
+Teacher Comfort Levels Using Technology 
+
+
+
+Technology 
+
+
+Years Available 
+
+
+%Comfortable 
+
+
+% Uncomfortable 
+
+
+Using CD ROMS 
+
+
+6 
+
+
+85% 
+
+
+15% 
+
+
+Saving to a disk 
+
+
+6 
+
+
+85% 
+
+
+15% 
+
+
+Using ClarisWorks 
+
+
+6 
+
+
+85% 
+
+
+15% 
+
+
+Using Kid Pix 
+
+
+6 
+
+
+54% 
+
+
+46% 
+
+
+Using WiggleWorks 
+
+
+4 
+
+
+54% 
+
+
+46% 
+
+
+Using digital cameras 
+
+
+4 
+
+
+38% 
+
+
+62% 
+
+
+Using scanners 
+
+
+4 
+
+
+15% 
+
+
+85% 
+
+
+Using the internet 
+
+
+2 
+
+
+46% 
+
+
+54% 
+
+
+Using e-mail 
+
+
+2 
+
+
+62% 
+
+
+38% 
+
+
+Saving to a server 
+
+
+2 
+
+
+46% 
+
+
+54% 
+
+
+Creating web pages 
+
+
+2 
+
+
+15% 
+
+
+85% 
+
+
+
+
+17 
+
+
+
+12 
+
+
+
+Table 9 shows how teachers feel about teaching their students the aforementioned 
+technologies. However, some teachers feel that it is not developmentally appropriate for 
+their students to use the specified technologies therefore, the option of Not Applicable was 
+given in addition to the rating scale from 1 to 5. Table 9 shows that teachers exhibit a much 
+higher level of discomfort when teaching the same technologies to their students. The 
+percent who felt the technology was not developmentally appropriate to their grade level is 
+also indicated. 
+
+Table 9 
+
+Teacher Comfort Levels In Teaching Technology 
+
+
+
+Technology 
+
+
+Years 
+
+Available 
+
+
+% 
+
+Comfortable 
+
+
+O/ 
+
+/o 
+
+Uncomfortable 
+
+
+0/ 
+
+/o 
+
+Not Applicable 
+
+
+Using CD ROMs 
+
+
+6 
+
+
+77% 
+
+
+23% 
+
+
+0% 
+
+
+Saving to a disk 
+
+
+6 
+
+
+67% 
+
+
+25% 
+
+
+8% 
+
+
+Using ClarisWorks 
+
+
+6 
+
+
+77% 
+
+
+23% 
+
+
+0% 
+
+
+Using Kid Pix 
+
+
+6 
+
+
+54% 
+
+
+46% 
+
+
+0% 
+
+
+Using WiggleWorks 
+
+
+4 
+
+
+50% 
+
+
+42% 
+
+
+8% 
+
+
+Using digital cameras 
+
+
+4 
+
+
+12% 
+
+
+73% 
+
+
+15% 
+
+
+Using scanners 
+
+
+4 
+
+
+0% 
+
+
+77% 
+
+
+23% 
+
+
+Using the internet 
+
+
+2 
+
+
+30% 
+
+
+55% 
+
+
+15% 
+
+
+Using e-mail 
+
+
+2 
+
+
+13% 
+
+
+56% 
+
+
+31% 
+
+
+Saving to a server 
+
+
+2 
+
+
+23% 
+
+
+69% 
+
+
+8% 
+
+
+Creating web pages 
+
+
+2 
+
+
+3% 
+
+
+82% 
+
+
+15% 
+
+
+
+When teachers are personally uncomfortable using and teaching with technology, 
+students are not learning technology skills. In comparing Student Self Assessment and 
+Teacher Comfort Levels in Teaching Technology (Tables 6 and 9) it is found that students 
+excel in the areas that teachers are most comfortable teaching. For example, 77% of 
+teachers felt confident in their abilities to use ClarisWorks and 42% of students were also 
+comfortable in using the same program. Conversely, 38% of teachers felt comfortable 
+using digital cameras and 10% of students surveyed felt comfortable using the same 
+
+
+
+ERIC 
+
+
+
+18 
+
+
+
+13 
+
+
+
+technology. In order for student achievement in the area of technology to be further 
+increased, teachers must be comfortable with using the technology. The likelihood of 
+teachers introducing a skill that they do not feel proficient in, is slim. It is not enough for 
+teachers to know how to use the technology, it must be used regularly. In order for teachers 
+to become comfortable in using technology, continual training must be provided. 
+
+Lack of Pre-Service Training 
+
+Many of the teachers surveyed felt that more training and staff development is 
+necessary. Research has found that universities do not incorporate technology into their 
+methods courses for pre-service teachers (Persichitte, Tharp & Caffarella, 1997; Education 
+Technology News, March 1998). Richard W. Riley, Education Secretary, stated to 
+eSchool News (1999) “Teacher education and professional development programs are 
+not addressing the realities found in today’s classrooms .” Many teacher education 
+programs do not have the hardware or software to properly prepare aspiring teachers. 
+
+They are also lacking in faculty members who are trained in using technology (Education 
+Technology News, March 1998). In 1996, a technology survey was given to all National 
+Council for Accreditation of Teacher Education (NCATE) member colleges responsible for 
+teacher education programs. The survey disclosed that 31% of students have no 
+requirements to incorporate technology into their instruction during their student teaching 
+experience (Persichitte, Tharp & Caffarella, 1997). Cooper in Education Technology News 
+(March 1998, paragraph 10) has advised NCATE to “develop a vision of technology as an 
+integrated part of reform.... (and) develop a plan for hardware, software and technology 
+integration across the curriculum.” With this, it is hoped that new teachers will be able to use 
+technology effectively in the classroom and that current teachers will seek training in areas of 
+need. 
+
+Lack of In-service Training 
+
+Because technology changes so rapidly and many teachers are not abreast of 
+technology updates, staff development and training opportunities need to be continuously 
+provided (Roberts, 1999). A national survey done by eSchool News online reports that 
+“less than one quarter of the teachers surveyed said they felt prepared to use computers in 
+their classroom” (Feb. 22, 1999). At the targeted site, technological equipment preceded 
+
+
+
+ERIC 
+
+
+
+19 
+
+
+
+14 
+
+
+
+training. When training was provided, it frequently was optional. The training provided 
+emphasized how to use the equipment and not how to use it with children. Teachers were 
+never given direction on how to integrate the new technology into the curriculum. 
+Furthermore, teachers were not given instruction on how to problem solve when equipment 
+did not work as expected. 
+
+There continues to be a lack of professional development opportunities in 
+technology for teachers once they are in the classroom. Rosen and Weil (in Latham, 1999) 
+estimate that between one and two thirds of all teachers are lacking the confidence to use 
+technology to it’s full potential. According to McKenzie , “Most professional development 
+for technology still centers around how to use the tools, the software applications and the 
+resources. There is little focus on strategic teaching or guidance.. .”(1 998b, paragraph 39). 
+To be most effective, computers must not be solely used for drill and practice, but rather 
+strategically integrated into the curriculum (McKenzie, 1998b). 
+
+Research has found that teachers receiving less than ten hours of training will not be 
+impacted positively (Ryan, as cited in Clements, 1998). Too often school districts quickly 
+install the latest equipment without preparing teachers in how to use it and without 
+considering how these technologies will be integrated into the curriculum. In order for new 
+technologies to be effective, teacher training and curriculum development must come 
+before the installation of hardware and software (McKenzie, 1998b). According to Barker 
+(1994), mandatory, non threatening staff development, where teachers progress at their 
+own pace, needs to be provided. In many situations teachers are fearful of the technology 
+they have been given and are expected to teach. Increased training and support gives 
+teachers a fearless attitude toward technology and allows them the confidence they need to 
+take on new challenges (Education Technology News, March 1 998). In order for comfort 
+levels to increase, at least 30% of a district’s technology budget should be spent on training 
+its staff (Latham, 1999). Teachers need to know that there is support when problems or 
+questions arise. Studies indicate that few districts hire enough technicians to support their 
+equipment (McKenzie, 1998a). Not only do teachers need to be trained to use 
+technology, they must be trained to use technology effectively. 
+
+
+
+ERiC 
+
+
+
+20 
+
+
+
+15 
+
+
+
+Ineffective Use of Technology 
+
+For technology to be used more effectively, teachers will have to change many of 
+their teaching philosophies (Maurer & Davidson, 1999). According to Becker (1994), many 
+teachers view technology / computers as an isolated subject area. Technology is rarely 
+integrated into other subject areas. Because programs geared for the primary level are 
+often of a game format, many teachers at the site use the computer for drill and practice 
+games. For technology to be effective it is recommended that it be seamlessly integrated 
+into all curricular areas. 
+
+Research has also shown that children learn best when they are actively involved 
+and the content is meaningful to them. Too often computers are used as a tool for drill and 
+practice work, which is neither meaningful nor engaging to students (Bowman, 1998). 
+
+Maurer and Davidson (paragraph 6) suggest that many teachers’ current philosophy would 
+be stated as ”1 have the power, and I will give you bits of it as I see fit” (1999). With this 
+philosophy teachers are the dispensers of knowledge. McKenzie continues: “So long as 
+the majority of teachers value teaching above learning, we are unlikely to see dramatic 
+changes in student performance” (1998b, paragraph 33). At the targeted school, teachers 
+are not using technology as a tool for learning, nor do they have curricular benchmarks to 
+guide them. 
+
+Lack of Technology Benchmarks 
+
+When referencing the targeted district’s curriculum guide, no mention of technology 
+was found. With no formal curriculum plan, teachers are unsure of what skills their students 
+are required to posses. There is great disparity in how technology is used among the 
+teachers at the targeted elementary school. Of the teachers surveyed, 38% felt that a 
+formal technology curriculum would enhance their comfort level in using technology. The lack 
+of district directives leaves teachers uncertain of what to teach. 
+
+At the given site, technology is not used to it’s fullest potential. Causes may be 
+attributed to any of the following: teacher discomfort in using and teaching technology, lack of 
+pre-service and in-service teacher training, ineffective use or lack of use of existing 
+technology and a lack of district technology benchmarks. These causes were evident in the 
+literature reviewed and at the targeted school. 
+
+
+
+o 
+
+ERiC 
+
+
+
+21 
+
+
+
+16 
+
+
+
+Teachers have the power to use technology as a tool for learning, however they 
+must be empowered to do so. Teachers must take ownership that they are not using and 
+teaching technology effectively. The fear of technology must be overcome and teachers 
+must be provided with training in areas of need. Teachers, administrators, parents and 
+students should view technology as a vital tool that enhances curriculum. Most importantly, 
+technology needs to be used. 
+
+
+
+o 
+
+ERIC 
+
+
+
+
+
+
+22 
+
+
+
+17 
+
+
+
+CHAPTER 3 
+
+THE SOLUTION STRATEGY 
+Literature Review 
+
+Technology has rapidly become a prevalent tool in schools. One can expect 
+technology’s presence to continue to increase exponentially. Therefore, it is necessary for 
+schools to make many changes so that technology can be used effectively by students, 
+teachers, and the surrounding community. These changes include a shift in teacher 
+philosophy, the integration of technology throughout the curriculum, increased pre-service 
+and in-service technology training and the limitless access to technology. 
+
+Teacher Philosophy 
+
+Changing teacher philosophy is a key element in making any technology 
+implementation successful (McKenzie, 1998a). Both student and teacher roles will have to 
+change. Teachers need to become more learner centered, focusing on a child’s individual 
+needs and learning style. Their role will also change from being the director of learning, to 
+being the facilitator of learning. Students will no longer simply receive knowledge, rather 
+students will be taught problem solving skills and will be encouraged to construct 
+knowledge (Flake, 1999). Students will be encouraged to act as teachers, as well as 
+learners. 
+
+Research in multiple intelligences by Howard Gardner and others has shown that 
+students gain knowledge in many different ways (Lazear, 1992). Gardner’s research has 
+found seven areas of human intelligence. They are: verbal/linguistic, musical/rhythmic, 
+logical/mathematical, visual/spatial, bodily/kinesthetic, naturalistic, intrapersonal, and 
+interpersonal. In order to reach all students, teachers must present material addressing all 
+the intelligences. When teachers teach with all the intelligences in mind, students 
+possessing different learning styles are more likely to learn. Many of the intelligences can 
+be addressed with the use of technology. For example, on-line virtual museums allow 
+students to visually and auditorily explore places they may have only read about. 
+
+
+
+o 
+
+ERIC 
+
+
+
+23 
+
+
+
+18 
+
+
+
+Computers, grouped side-by-side, naturally encourage children to share their findings and 
+work together (Thouvenelle, 1999a). This appeals to interpersonal learners. 
+
+Content areas are also becoming more integrated. One lesson could include 
+elements of math, science, literacy, and social studies. Technology should also be 
+integrated into the curriculum. “We use technology to learn, not just to learn how to use 
+technology” (Conyers, Kappel & Rooney, 1999, p. 83). By using technology in all areas 
+of curriculum, it becomes a tool for learning. It’s presence has purpose. It then becomes 
+the role of the teacher to provide open ended projects that allow their students to construct 
+knowledge (Clements, 1998; Tapscott, 1999). The teacher facilitates his/her students’ 
+learning. Davis and Shade (1999) define the role of the teacher in a computer enriched 
+classroom to be “instructor, coach, model and critic” (paragraph 10). 
+
+Computers will never replace the teacher, rather computers will enhance a teacher’s 
+resources (Pool, 1997). CD ROM encyclopedias and the internet are excellent tools for 
+research. Students have the opportunity to share what they have learned with their peers 
+by creating digital slide shows or films that use pictures, sounds, and facts to bring to life the 
+concepts learned. Graphing and spread sheet programs can help students organize and 
+understand data. 
+
+The role of students also needs to change. Students should not be viewed solely 
+as recipients of information. Children should be seen as experts, peer coaches and 
+teachers (Deaton, 1991). By giving children opportunities to share their learning with their 
+peers, they are empowered as learners (Maurer & Davidson, 1999; Doyle, 1999). No 
+longer are the days when curriculum is driven by scope and sequence charts, rather 
+curriculum is determined by children’s needs and interests. Students must be given choices 
+in their learning. By giving students choices, there is a greater opportunity for children to 
+make a personal connection with the material and make the material meaningful. McKenzie 
+(1998b) suggests that teachers work to create a classroom of engaged learners. He says 
+that engaged learners are “responsible for their own learning, energized by learning, 
+strategic, and collaborative” (McKenzie, 1998b, paragraph 7). In an engaged learning 
+setting “teams of students employ information technologies to investigate authentic 
+problems which parallel curriculum questions and topics” (McKenzie, 1998b, paragraph 7). 
+
+
+
+
+u 24 
+
+
+
+19 
+
+
+
+The two classrooms participating in this study began a unit on Native Americans. 
+Rather than the teachers dispensing knowledge, the students were given the cooperative 
+task of choosing a tribe or a geographical region where their tribe would live. Each group 
+would be responsible for researching their tribe to find out about it’s regional climate, the 
+types of homes that were built, a craft or artwork from the tribe, and a food that was 
+prepared. Students did research via internet, CD ROM encyclopedias, e-mailing 
+questions to experts, watching videos, and by finding appropriate books in the school 
+library. One classroom chose to share their discoveries with other students during a 
+classroom pow-wow. The other classroom elected to host a Native American museum and 
+have other students visit. Students had ownership of their learning because of the many 
+choices they were given. In all cases, the children performed well beyond the teacher’s 
+expectations. They were excited about what they were doing. A framework for the Native 
+American unit can be found in Appendix C. 
+
+Both teachers discovered that their students were willing and able to stay on task 
+and work up to an hour and a half, which is well beyond the average attention span of a first 
+or second grader. Also, several curricular areas were naturally integrated into this engaged 
+learning project. Once teachers have begun to make changes in their teaching philosophy, 
+they will be better prepared to begin integrating technology into the curriculum. 
+
+Curricular Integration 
+
+Computers are a powerful tool for learning. They can be used to help students 
+solve problems on their own and allow students “to act as doers and thinkers rather than 
+recipients of information” (Bowman, 1998, p. 9). Using the example of the Native 
+American project, a visitor to the classroom would see children working on many different 
+activities at once. Groups may be researching on the internet, making a model hogan out of 
+clay, creating an informative poster or video on how to make a concho belt or reading a 
+book about their chosen tribe. The teacher meanwhile, is facilitating each group by making 
+sure they are on task. Questions are asked to spark students thinking and direction is given 
+when necessary. 
+
+In order for this type of project to occur, students must have experience in using 
+these technologies. Just as one would give direct instruction on how to solve addition 
+problems, lessons on how to use technology must be given. In math, children must solve 
+
+
+
+O 
+
+ERIC 
+
+
+
+
+
+
+25 
+
+
+
+20 
+
+
+
+many addition problems before the concept is understood. Finally, children are ready to 
+apply their basic math skills to solve more complex problems. Similarly, students must 
+have many opportunities to practice technology skills, so that they are prepared and 
+comfortable to use them as a resource for problem solving. For example, a new skill such 
+as centering a title in ClarisWorks would be modeled on a large screen monitor and children 
+would then have the opportunity to try it. As children accumulate word processing, internet, 
+and multimedia skills, they will be able to apply what they have learned to create published 
+works or multimedia presentations. 
+
+Integrating technology this way does take time and effort on the part of the teacher, 
+but usually results in increased student achievement (Clements, 1998). In order to 
+integrate, technology must be readily available. In some instances this requires teachers to 
+coordinate with each other, because technology must be shared. Once technology is 
+acquired, teachers must have the time to experiment with the equipment, programs, and 
+management of the lesson (Conyers, Kappel & Rooney, 1999). It is difficult to help a 
+classroom of young children all at once, especially if the teacher is unsure of his or her own 
+technological skills. Therefore, a teacher must have the time to learn how to use the 
+technology and train parent helpers or student mentors in order to successfully integrate 
+technology into their curriculum (Roberts, 1999). 
+
+School curriculums must also be revised to ensure that computers are being used to 
+their full benefit. Technology is not a tool that is designed to stand alone, and therefore 
+should not be viewed as a separate subject. Technology must be integrated throughout 
+the curriculum (McKenzie, 1998). 
+
+Only when computers are integrated into the curriculum as a vital element for 
+instruction and are applied to real problems for a real purpose will children 
+gain the most valuable computer skill, the ability to use computers as natural 
+tools for learning (Shade & Watson, as cited in Davis & Shade, 1994). 
+
+The National Educational Technology Standards (NETS) Project has recognized the 
+need to integrate technology throughout the curriculum and is creating basic standards 
+(National Educational Technology Standards Project, 1999). The six standards are: Basic 
+operations and concepts, Social, ethical, and human issues, Technology productivity tools, 
+Technology communications tools, Technology research tools, and Technology problem- 
+
+
+
+
+
+
+
+26 
+
+
+
+21 
+
+
+
+solving and decision-making tools. In developing these standards, it was assumed that 
+students would gain expertise through technology-based activities in the classroom. 
+Examples of activities for the primary grades may include writing and illustrating tongue 
+twisters using Kid Pix (a primary multimedia program), composing a daily newsletter on 
+ClarisWorks with inserted digital photos, or keeping an electronic journal. These activities 
+promote life skills, rather than drill and practice. They also reinforce basic technology 
+operating skills, require social interaction and problem solving. 
+
+The NETS Project has also created Profiles for Technology Literate Students which 
+gives performance indicators by grade level for each of the standards. Included below are 
+the performances that all students should be able to demonstrate by the end of second 
+grade (National Educational Technology Standards Project, 1999). 
+
+1 . Use input devices (e.g., mouse, keyboard, remote control) and output 
+devices (e.g., monitor, printer) to successfully operate computers, VCRs, 
+audio tapes, and other technologies. 
+
+2. Use a variety of media and technology resources for directed and 
+independent learning activities. 
+
+3. Communicate about technology using developmentally appropriate and 
+accurate terminology. 
+
+4. Use developmentally appropriate multimedia resources (e.g., interactive 
+books, educational software, elementary multimedia encyclopedias) to 
+support learning. 
+
+5. Work cooperative and collaboratively with peers, family members, and 
+others when using technology in the classroom. 
+
+6. Demonstrate positive social and ethical behaviors when using technology. 
+
+7. Practice responsible use of technology systems and software. 
+
+8. Create developmentally appropriate multimedia products with support 
+from teachers, family members, or student partners. 
+
+9. Use technology resources (e.g., puzzles, logical thinking programs, writing 
+tools, digital cameras, drawing tools) for problem solving, communications, 
+and illustration of thoughts, ideas, and stories. 
+
+1 0. Gather information and communicate with others using 
+
+
+
+
+
+
+
+27 
+
+
+
+22 
+
+
+
+telecommunications, with support from teachers, family members, or student 
+partners. 
+
+The major goal of these standards and profiles is to create students who are able to use 
+technology in their daily lives and have a life long thirst for knowledge (National Educational 
+Technology Standards Project, 1999). Teachers can use these standards as guidelines for 
+planning technology-based activities where students are responsible for learning how to 
+effectively communicate, and solve real life problems. These standards can also be used 
+in creating district technology benchmarks. In order to integrate technology effectively into 
+the curriculum, teachers must be trained. 
+
+Teacher Training 
+
+Change does not occur naturally or quickly. It has to develop over time and requires 
+great amounts pre-service and in-service training. Many of today’s teachers did not 
+experience technology as part of their undergraduate program (Persichitte, Tharp & 
+Caffarella, 1997). Most college faculty members do not have technology training, and most 
+teacher education programs are severely lacking both software and hardware (Education 
+Technology News, March 1998). Currently, certification standards for schools of education 
+are being revised to include an increased emphasis on technology use (Education 
+Technology News, March 1998). With a greater emphasis on technology in undergraduate 
+teacher education programs, hopefully tomorrow’s teachers will be better prepared to use 
+and teach technology to it’s full extent. 
+
+To update today’s teachers, in-service training is a necessity. According to 
+McKenzie: 
+
+The challenge is not about training. It is about learning. If we expect 
+teachers to turn around and use technologies daily with students they 
+need to discover personally the power of the new technologies when 
+combined with rich information. We also need to provide more informal 
+support structures such as mentors, coaches and “just in time help” which 
+often do more to promote risk taking and growth than formal class 
+offerings. (1998b, paragraph 34) 
+
+A peer technology mentor or coach can provide ongoing support (McKenzie, 1998b). 
+Support may include ways to integrate technology into the curriculum, how to use software, 
+
+
+
+
+- ^ 
+
+
+
+28 
+
+
+
+23 
+
+
+
+or just basic troubleshooting. Mentors can have scheduled meetings or meet as needed. 
+As teachers we encourage our students to share their knowledge with each other. We must 
+remember, as teachers we also need to share our technological wisdom with each other. 
+
+Teacher support is also available via satellite. The Educational Resources company 
+lets teachers access a number of video training modules from a desktop computer at any 
+time (Pierce, 1999). Additionally, teachers should be given the opportunity to take 
+computers home over the summer and weekends. With more computer contact, teachers 
+will become familiar with the machines and their comfort levels will increase (Deaton, 1991). 
+When teachers know how to use the technology they are more likely to integrate into the 
+curriculum. 
+
+To further support the need for staff development, a study by Barker (1994) found 
+that teacher attitude towards technology impacts student learning. She found that teachers 
+who taught with a positive attitude produced students who developed a higher level of 
+performance (Barker, 1994). In order to maintain high morale, teachers’ efforts and 
+successes need to be celebrated (Thouvenelle, 1999b). A celebration could include the 
+sharing of projects and knowledge with mentors and peers. Teachers in the primary grades 
+recognize that small successes are an indicator of greater things to come. The teacher- 
+researchers involved in this project feel that positively reinforcing one’s own successes both 
+encourages one to continue their own learning and lends to the enthusiasm that will be 
+shared with students. 
+
+The Technology Integration Program (TIP) was created by the targeted district for 
+the 1999-2000 school year. TIP is a year long staff development opportunity where 
+participants create and implement an engaged learning project, The class was offered to all 
+K-5 classroom teachers and was to be limited to 25 participants. A total of 20 classroom 
+teachers agreed to participate. All participants received 3 new iMac computers, computer 
+tables and a $500.00 stipend. The funding for this class came from a grant and the monies 
+were matched by the Board of Education. TIP is planned to be offered again the following 
+year, if funding is available. Current participants will then facilitate in the learning of new 
+participants. 
+
+This is the computer age. Today’s children have grown up with home computers 
+and digital technologies (Tapscott, 1999). They are not intimidated or anxious about using 
+
+
+
+
+29 
+
+
+
+24 
+
+
+
+them. In order to foster this excitement, today’s teachers must enthusiastically embrace 
+what technology has to offer. They must meet this challenge by overcoming their fears. 
+The easiest way to overcome fear is by facing the fear itself. Teachers who accept the 
+challenge to learn how to use technology, seek out the necessary assistance, and have the 
+courage to learn from their mistakes, will experience the greatest success (Tapscott, 1999). 
+Children have the desire to use technology. It is the school’s responsibility to make 
+technology readily available for student’s to use. 
+
+Location of Technology 
+
+The last challenge of making technology a prosperous tool for learning, is making 
+sure that it is used. The location of technology plays a large role in it’s success. By placing 
+two chairs in front of a computer, or placing two computers next to each other, children are 
+invited to share ideas and teach each other (Thouvenell, 1999a; Clements, 1998). It is also 
+important that technology be used all day long, not only for centers or free time 
+(Labbo,1996). Technology can be used in every area of the curriculum. Digital cameras 
+can be used by students to document their daily events. Word processing programs can 
+supplement written work. Technology should be located where learning takes place. If 
+technology is limited, plans should be made to rotate it through the classrooms. When 
+technology is removed from the classroom and placed in an isolated computer lab, it 
+becomes more difficult to seamlessly integrate technology into the curriculum (Becker, 
+1994). 
+
+Summary 
+
+There are schools that are using technology to its full potential. They have changed 
+teacher philosophies and provided teacher training in the area of technology. They have 
+developed curriculums in which technology is integrated and readily available to be used 
+by staff and students. Willow Bend, in Rolling Meadows, Illinois, is such a school. 
+
+Over a five year period, Willow Bend’s administrators, staff and students worked 
+towards the goal of achieving a technology enriched school. They had the resources, 
+commitment and common goal to make it happen. According to principal T. Kappel 
+(personal communication, October 21 , 1999), the most important step was embracing the 
+movement towards change. This meant all issues were dealt with up-front. Questions, 
+concerns and fears were openly discussed. The option of transferring schools was made 
+
+
+
+
+
+
+
+30 
+
+
+
+25 
+
+
+
+available for those unable to support the changes being made. Teachers worked 
+cooperatively to write a curriculum that would align with their new technology philosophy and 
+meet state goals. This curriculum assures hands-on learning where children are engaged in 
+problem solving and teachers are facilitating. Every classroom was equipped with 7-9 
+student computers, one computer for teacher use, a color printer, a telephone, internet 
+access, a VCR, and a 32 inch monitor. The school also hosts a video production lab, a 
+computer mini-lab, several laser disk players and student laptop computers. Most 
+importantly, teachers received and continue to receive training and support. 
+
+T ransitioning into a technology literate school is neither cheap nor easy. Schools who 
+have implemented technology successfully have had teachers who are dedicated to 
+making the change, support from the school community, and the financial resources to make 
+it happen (Conyers, Kappel & Rooney, 1999). Technology is at the forefront of change. 
+Roberts realizes this and advises; “you will never catch up, so stop trying” (1999, p.76). 
+Technology is here to stay and must not be ignored. It is vital to provide our children with 
+the tools they will need to build a successful future. Technology is the most important tool. 
+Therefore, our schools must welcome changes to the curriculum and the way in which it is 
+taught. They must also be willing to invest the time and money to train the teachers to use 
+the technology properly. Finally, technology must be placed in the most accessible 
+location for students. With these criteria met, it is possible to give students a solid 
+foundation in the use of technology that will carry them throughout life. 
+
+In the targeted classrooms, teachers are making a conscious effort to effectively 
+integrate technology into the curriculum. Both teachers are participating in the TIP program 
+offered by the school district. Efforts are being made to teach with a child centered approach 
+and integrate technology whenever appropriate. Both teachers are seeking technology 
+assistance from the District Technology Facilitator, whose help includes finding relevant 
+internet sites, installing software and working with children in the classroom on technology 
+skills. In addition, the teachers are using each other and fellow TIP members for support 
+and ideas. They are also seeking out of district staff development opportunities. 
+
+
+
+ERIC 
+
+
+
+31 
+
+
+
+26 
+
+
+
+Project Objectives and Processes 
+
+As a result of the addition of six computers to the targeted first and first and 
+second grade multiage classrooms and a year long staff development course in 
+technology integration the students will increase their technology skills and problem 
+solving ability during the months of September 1999 through January 2000. This 
+will be measured by a student self assessment rubric, teacher anecdotal records, 
+and student artifacts. 
+
+In order to accomplish the targeted objective the following processes are necessary. 
+
+1 . Technology in the classroom will be increased by the addition of six computers, a 
+28 inch digital monitor, a video cassette player, and a remote control. 
+
+2. Teachers will model technology as a tool for learning, facilitate the students’ 
+acquisition of knowledge and integrate technology throughout the curriculum. 
+
+3. A student self assessment rubric developed from Technology Foundation 
+Standards for Students will be designed and used. 
+
+4. Teachers will participate in the Technology Integration Program. 
+
+Project Action Plan 
+
+I. Technology in the classroom will be increased by the addition of three computers, a 28 
+inch digital monitor, a video cassette player (VCP), and a remote control. 
+
+A. The Board of Education has agreed to increase technology in the classrooms of 
+
+teachers who have volunteered to participate in the Technology Integration 
+Program (TIP). Computers will be in the classrooms for the start of the 1999- 
+2000 school year. With the additional technology, teachers will be better able 
+to implement what they have learned in the staff development program. 
+
+B. Teachers who requested a digital monitor, cart, and VCP will receive them. 
+
+II. Teachers will model technology as a tool for learning, facilitate the students’ acquisition of 
+knowledge, and integrate technology throughout the curriculum. 
+
+A. Using the existing district curriculum, teachers will incorporate technology on a 
+daily basis. Means of integration may include but are not limited to the following: 
+1 . Daily newsletter - Teacher interactively models word processing skills on 
+the monitor as students share their daily experiences in the classroom. 
+This sharing of events is then sent home on Fridays in the form of a 
+classroom newsletter. After modeling how to use the digital camera, a 
+
+
+
+
+
+
+
+32 
+
+
+
+27 
+
+
+
+classroom photographer is selected each day to take photos and select 
+one photo to accompany the news. As skills strengthen, students will be 
+independently responsible for composing news on the computer. (The 
+length of a news “article” will vary from one sentence to one paragraph 
+depending on the students’ abilities.) 
+
+2. Each student will create their own “journal” folder on the server and/or to a 
+disk. Through modeling and peer coaching students will learn to save 
+their work into their folders. Students will have weekly opportunities to 
+add to their digital journal. 
+
+3. Every thematic unit will contain several technology components. Students 
+may learn to create a slide show using Kid Pix Deluxe. Slide shows will 
+first be done as a whole class and later done in cooperative groups. 
+Students may also use CD-Roms, digital encyclopedias and other 
+software applications to enhance their learning. 
+
+4. Students will be introduced to e-mail and will set up a class account. 
+Weekly correspondence with partner classroom will take place. 
+Correspondence may include riddles, interesting trivia, plans to meet to 
+do activities together, or students may e-mail another teacher to ask 
+permission to read to their class. 
+
+5. Students will be shown how to use the internet and given opportunities to 
+use child centered search engines (such as www.yahooligans.com or 
+www.askjeeves.com) to find information. This will first be modeled and 
+then done in small groups with groups with adult supervision (as per 
+district policy.) 
+
+6. Children will be given opportunities to strengthen their literacy skills by 
+using Wiggle Works, an interactive reading program which allows students 
+to read, respond, develop vocabulary skills, and use a letter board. 
+
+7. Students will learn how to create and interpret graphs using Graph Club. 
+Students may graph daily weather conditions, temperature, classroom 
+tooth loss, etc. 
+
+B. Staff development will be provided by technology coordinator, workshops, 
+
+
+
+ERIC 
+
+
+
+33 
+
+
+
+28 
+
+
+
+and TIP meetings. TIP meets from 3:00 pm to 5:00 pm approximately twice a 
+month for a total of 13 meetings. The Willow Bend experience workshop lasted 
+two full days. One district wide teacher institute day is planned with a focus on 
+technology. 
+
+III. A student self assessment rubric developed from Technology Foundation 
+Standards for Students will be designed and used. 
+
+A.The students will assess themselves three times a year. The rubric will follow 
+recommended technology benchmarks. Students will gain skills through their 
+daily computer experiences. Benchmarks may include but are not limited to the 
+following: 
+
+• use of painting and drawing tools 
+
+• use of e-mail 
+
+• compose, save and print using ClarisWorks 
+
+• turn computer on and off 
+
+• retrieve saved items from disk and server 
+
+• access internet and locate search engines 
+
+• download graphics from the internet 
+
+• use digital camera to take pictures and insert them into a document 
+
+IV. Teachers will participate in the Technology Integration Program. 
+
+A. Teachers of the targeted classroom will attend a year long technology 
+integration class. The class meets thirteen times during the course of the 
+1999-2000 school year. Each class two hours long. Teachers will also attend an 
+all day technology conference. 
+
+Methods of Assessment 
+
+In order to assess the effects of these interventions, students will complete a self- 
+evaluation rubric at the beginning and end of the project. This will determine where growth 
+has been made in using technology skills. Using anecdotal notes and student self 
+assessments, teachers will assess the progress children have made in problem solving. 
+Teachers will assess their comfort level with technology and teaching skills by completing a 
+survey. Computers will be monitored in each classroom, usage will be noted in order to 
+calculate the average use of computers at both the beginning and end of the project. 
+
+
+
+
+- O ^ 
+
+
+
+34 
+
+
+
+29 
+
+
+
+CHAPTER 4 
+PROJECT RESULTS 
+Historical Description of the Intervention 
+
+The objective of this project was to have students use technology as an effective 
+tool for learning. This was accomplished through teacher training, assessment of teacher 
+philosophy, direct technology instruction to the students and an awareness and effort on 
+behalf of the teachers to integrate technology into every curricular area. The targeted 
+classrooms were comprised of first and second grade students, in a single age first grade 
+classroom and a multi-age first and second grade classroom. 
+
+The first intervention was teacher training. The teachers involved in the study were 
+enrolled in The Technology Integration Program (TIP) sponsored by the targeted school 
+district. Upon enrollment, the teachers were given 3 iMac computers, computer tables, and 
+a $500 stipend. The class met on a bimonthly basis. Teachers were required to research 
+software, websites and other technologies outside of the class. Each TIP class began with 
+a sharing of information in grade level groups. Teachers also designed and implemented 
+an engaged learning unit, incorporating technology throughout. Additional components of 
+the class included mini lessons on using digital cameras, e-mail, web design, and conducting 
+effective internet searches. 
+
+In addition to the TIP classes the district provided one technology related institute 
+day. The morning consisted of a presentation. It focused on how technology will be used 
+in the future, as well as how it will change the content and the way that teachers teach. The 
+district technology coordinator gave a brief presentation on the progress and future plans of 
+the district. The afternoon consisted of break out training sessions. Participants chose 2 
+sessions each lasting one hour. Options included web page design, internet searches, 
+digital camera use, scanner use, or training on specified software. The targeted school has 
+also had three sessions for web page training, each lasting one hour. 
+
+
+
+
+
+
+
+35 
+
+
+
+30 
+
+
+
+The philosophy of each participating teacher was carefully reviewed. Throughout the 
+literature it was stated that teachers must be willing to give students choices in their learning, 
+opportunities to teach one another and the chance to use technology on a daily basis. The 
+teachers reflected and discussed their own philosophies. Within the TIP class, the teachers 
+were exposed to many of their colleagues’ philosophies. The targeted teachers 
+developed a firm belief that technology should be integrated into the curriculum. 
+
+That philosophy was then implemented into the classrooms. Basic skills were 
+introduced and directly taught at the start of the school year. These skills included, turning the 
+computer on and off, saving to the “documents” folder on the desktop, using Kid Pix to 
+make a picture and insert text, word processing using ClarisWorks, using bookmarks on the 
+internet, and using the reading program WiggleWorks. Both teachers introduced the 
+aforementioned skills within the first 2 months of the school year. 
+
+Once students were comfortable using these technologies, further technology skills 
+could be added. The two targeted teachers differentiated in the order and type skills that 
+were next introduced. The curriculums between teachers varied, as did the technological 
+experience, therefore different skills were introduced in each classroom. By February of 
+2000 both classrooms had received instruction in selecting printers on the network and had 
+established active classroom e-mail accounts. One classroom had students conduct 
+independent internet searches using child friendly search engines, while the other class had 
+conducted teacher led searches on the same search engines. 
+
+There were some skills that were only done in one of the classrooms. These 
+included creating slide shows in the Kid Pix application, using the digital camera, 
+downloading pictures off of the internet and saving to the district server. 
+
+Deviations from the original plan existed. The plan had called for individual desktop 
+folders to be created for each student. Instead, students in both classrooms saved to a 
+single folder created for the specific project. Weekly e-mail between classrooms did not 
+occur, however students did e-mail teachers, principal, families, and experts in the 
+community. Students were also never taught to save to a disk. This task was found to be 
+obsolete. The iMacs are designed to be networked and do not have a floppy disk drive. 
+To save work on an iMac, one must save to the harddrive or the district server. 
+
+
+
+O 
+
+ERIC 
+
+
+
+W \J , 
+
+
+
+36 
+
+
+
+31 
+
+
+
+To assess the effects of the intervention, the teacher-researchers used a student self 
+assessment rubric, a teacher survey, and a classroom usage checklist. Each assessment 
+was administered at the beginning and the end of the study. On the student rubric, students 
+were asked to identify themselves as proficient, familiar or incapable of using technology in 
+a variety of skill areas. Teachers were also asked on their survey to rate their comfort in both 
+using and teaching technology. Additionally, they were asked questions about the 
+frequency and purpose of their computer use. Finally, teachers were asked to identify 
+factors that would help them to become technology proficient. The usage checklist was 
+conducted to determine the frequency and kind of use of computers in the classrooms and 
+computer lab. 
+
+Presentation and Analysis of Results 
+
+In order to assess whether students are using technology effectively, the student self 
+assessment rubric, teacher survey and usage checklist were administered in September 
+1999 and February 2000. Students from non-targeted classes were also surveyed in 
+February to determine and compare their technological skills. Finally, teacher anecdotal 
+journals were reviewed. 
+
+Student Surveys 
+
+Because of student mobility, the rubric was given to 41 students in September and 
+only 39 in February. After comparing the rubric results with their own anecdotal records both 
+teachers found this survey to be much more accurate than the one given in September. 
+
+The teachers believe this self assessment to be 95% accurate, as compared to their own 
+records. The assessment results are listed in Table 10. 
+
+When comparing the results from September to February, it was found that the 
+level of student proficiency had increased in all skill areas. Likewise, the percent of students 
+who felt incapable of doing a task decreased in all areas except for using the digital camera. 
+This indicates that the majority of the computer skills assessed showed significant increase 
+during the course of this study. Using Kid Pix, ClarisWorks and WiggleWorks, researching 
+online and turning the computers on and off were skills that over 50% of the students were 
+proficient at. The teacher researchers felt that these skill areas were most regularly reinforced 
+in their classrooms. 
+
+
+
+ERIC 
+
+
+
+37 
+
+
+
+32 
+
+
+
+Table 10 
+
+Student Self Assessment Rubric - February 2000 
+
+
+
+Skill 
+
+
+% Proficient 
+
+
+% Familiar 
+
+
+% Incapable 
+
+
+1 can draw a picture 
+using Kid Pix. 
+
+
+74% 
+
+
+21% 
+
+
+5% 
+
+
+1 can e-mail a friend or 
+teacher. 
+
+
+33% 
+
+
+31% 
+
+
+36% 
+
+
+1 can type a journal page, 
+save it and print it using Claris. 
+
+
+74% 
+
+
+15% 
+
+
+11% 
+
+
+1 can turn the computer on 
+and shut it down. 
+
+
+82% 
+
+
+15% 
+
+
+3% 
+
+
+1 can find things that 1 have 
+saved on a disk or the server. 
+
+
+41% 
+
+
+31% 
+
+
+28% 
+
+
+1 can find research on the 
+internet. 
+
+
+51% 
+
+
+23% 
+
+
+26% 
+
+
+1 can use WiggleWorks. 
+
+
+97% 
+
+
+3% 
+
+
+0% 
+
+
+1 can download pictures from 
+the internet. 
+
+
+28% 
+
+
+49% 
+
+
+23% 
+
+
+1 can use the digital camera and 
+put pictures in the news. 
+
+
+18% 
+
+
+28% 
+
+
+54% 
+
+
+
+Students rated themselves as proficient in an area if they were able to complete the 
+given task on their own, without any assistance. Although all skills levels showed an 
+increase, they were most dramatic in the areas of drawing in ClarisWorks or Kid Pix, word 
+processing using Claris, researching and downloading pictures from the internet and using 
+Wiggle Works. Using the digital camera showed the least amount (less than 10%) of 
+growth. Because manipulating the digital camera requires more refined motor skills, the 
+teacher researchers felt it was not developmentally appropriate to introduce this skill at the 
+start of the year. It is anticipated that by the end of the year, this area will see greater 
+growth. Figure 1 compares the student self evaluated proficiency levels for targeted skill 
+areas in September and February. 
+
+
+
+o 
+
+ERLC 
+
+
+
+38 
+
+
+
+33 
+
+
+
+H September 1999 
+PH February 2000 
+
+
+
+I can draw a picture in Claris or 
+Kid Pix. 
+
+I can e-mail a friend or a teacher. 
+
+I can type, save and print a 
+journal page in Claris. 
+
+I can turn the computer on and 
+off. 
+
+I can find things I have saved. 
+
+I can find research on the internet. 
+
+I can use Wiggle Works. 
+
+I can download pictures from the 
+internet. 
+
+l can use tne digital camera and 
+put me pictures in me news. 
+
+
+
+
+Figure 1 . Comparison of student proficiency levels 
+
+
+
+After charting the growth made in the targeted classrooms, the teacher researchers 
+felt it necessary to determine whether the growth made was due to their interventions. 
+Questions arose about whether growth would naturally take place due to age and out of 
+school experiences. Therefore, two additional classrooms of children were surveyed using 
+the same student self assessment rubric. The selected classrooms matched the 
+characteristics of the targeted classrooms. One was a single age first grade room and the 
+second was a first and second grade multi-age classroom. Neither of the additional teachers 
+had participated in the TIP program, nor had they received any additional training or 
+computers. In total 33 students were asked to evaluate their own skills. The results are 
+listed in Table 1 1. 
+
+
+
+O 
+
+ERLC 
+
+
+
+39 
+
+
+
+Table 1 1 
+
+Student Self Assessment of Non Targeted Classrooms 
+
+
+
+34 
+
+
+
+Skill 
+
+
+% Proficient 
+
+
+% Familiar 
+
+
+% Incapable 
+
+
+1 can draw a picture 
+using Kid Pix. 
+
+
+31% 
+
+
+56% 
+
+
+13% 
+
+
+1 can e-mail a friend or 
+teacher. 
+
+
+18% 
+
+
+18% 
+
+
+64% 
+
+
+1 can type a journal page, 
+save it and print it using Claris. 
+
+
+61% 
+
+
+6% 
+
+
+33% 
+
+
+1 can turn the computer on 
+and shut it down. 
+
+
+70% 
+
+
+21% 
+
+
+9% 
+
+
+1 can find things that 1 have 
+saved on a disk or the server. 
+
+
+24% 
+
+
+36% 
+
+
+40% 
+
+
+1 can find research on the 
+internet. 
+
+
+33% 
+
+
+27% 
+
+
+40% 
+
+
+1 can use WiggleWorks. 
+
+
+39% 
+
+
+9% 
+
+
+52% 
+
+
+1 can download pictures from 
+the internet. 
+
+
+3% 
+
+
+18% 
+
+
+79% 
+
+
+1 can use the digital camera and 
+put pictures in the news. 
+
+
+9% 
+
+
+27% 
+
+
+64% 
+
+
+
+When comparing the targeted and non-targeted students, it was found that students 
+receiving the technology intervention had higher self evaluated skills than those who had 
+received no intervention. The results of the comparison are found in Figure 2. 
+
+The September and November student self evaluations show substantive growth 
+in the assessed areas. When compared to other students at the school, the targeted 
+students also showed a significantly higher confidence in their technology development. 
+Teachers also showed growth in their skills and willingness to integrate technology into their 
+curriculums. Since first surveyed, all teachers had received more training and had several 
+more months to increase their technology awareness. 
+
+
+
+ERIC 
+
+
+
+.40 
+
+
+
+35 
+
+
+
+I can draw a picture in Claris or 
+Kid Pix. 
+
+I can e-mail a friend or a teacher 
+
+I can type, save and print a 
+|oumaJ page in Claris. 
+
+I can turn the computer on and 
+off. 
+
+I can find things I have saved. 
+
+I can find research on the 
+internet. 
+
+I can use Wiggle Worts. 
+
+I can download pictures from 
+the internet. 
+
+I can use the digital camera and 
+put the pictures in the news. 
+
+
+
+| Targeted Students 
+Non -Targeted Students 
+
+
+
+
+non-targeted students 
+
+
+
+Teacher Surveys 
+
+Teacher surveys were again given in February of 2000. The surveys asked 
+teachers to rate their comfort levels using and teaching technology. Specific questions on 
+how technology is used were also asked. As with the previous survey, 13 out of the 14 
+surveys given were returned. During the months since the first survey was given, 5 of the 
+14 classroom teachers had been participating in the TIP project and had received the 
+additional 3 iMacs for their classroom. All teachers had participated in one technology 
+based institute day and all were given training opportunities in web page design. Table 12 
+reports the results of the teacher comfort levels in using technology resulting from the 
+February 2000 teacher survey. 
+
+
+
+ERIC 
+
+
+
+41 
+
+
+
+
+
+
+36 
+
+
+
+Table 12 
+
+Teacher Comfort Levels Using Technology - February 2000 
+
+
+
+Technology 
+
+
+Years Available 
+
+
+%Comfortable 
+
+
+% Uncomfortable 
+
+
+Using CD ROMs 
+
+
+6 
+
+
+85% 
+
+
+15% 
+
+
+Saving to a disk 
+
+
+6 
+
+
+100% 
+
+
+0% 
+
+
+Using Claris Works 
+
+
+6 
+
+
+92% 
+
+
+8% 
+
+
+Using Kid Pix 
+
+
+6 
+
+
+69% 
+
+
+31% 
+
+
+Using WiggleWorks 
+
+
+4 
+
+
+54% 
+
+
+46% 
+
+
+Using digital cameras 
+
+
+4 
+
+
+46% 
+
+
+54% 
+
+
+Using scanners 
+
+
+4 
+
+
+15% 
+
+
+85% 
+
+
+Using the internet 
+
+
+2 
+
+
+62% 
+
+
+38% 
+
+
+Using e-mail 
+
+
+2 
+
+
+85% 
+
+
+15% 
+
+
+Saving to a server 
+
+
+2 
+
+
+46% 
+
+
+54% 
+
+
+Creating web pages 
+
+
+2 
+
+
+15% 
+
+
+85% 
+
+
+
+The results of the survey show that no comfort levels have decreased. Teachers 
+have become slightly more comfortable in saving to a disk, using ClarisWorks, using Kid 
+Pix, using digital cameras, using the internet, and using e-mail. Comfort levels have 
+remained constant in using CD ROMs, scanners, and WiggleWorks, saving to a server and 
+creating web pages. Teachers listed that more time, support, training and equipment were 
+important factors in increasing their comfort with technology. 
+
+With teachers showing some increased comfort in using technology, the survey next 
+asked about their comfort in teaching technology. The comfort level in teaching some skill 
+areas dropped since September. The February results are reported in Table 13. 
+
+The greatest change in the results from September to February is the number of 
+teachers who no longer find that the skill is not applicable to their students. Comfort levels in 
+teaching the following skills increased: using WiggleWorks, digital cameras, scanners, the 
+internet, e-mail, and creating web pages. Using CD ROMs, ClarisWorks, and saving to a 
+
+
+
+
+42 
+
+
+
+37 
+
+
+
+server remained constant. However, the comfort levels in teaching Kid Pix and saving to a 
+disk decreased. 
+
+Table 13 
+
+Teacher Comfort Levels In Teaching Technology 
+
+
+
+Technology 
+
+
+Years 
+
+Available 
+
+
+% 
+
+Comfortable 
+
+
+% 
+
+Uncomfortable 
+
+
+% 
+
+Not Applicable 
+
+
+Using CD ROMs 
+
+
+6 
+
+
+77% 
+
+
+23% 
+
+
+0% 
+
+
+Saving to a disk 
+
+
+6 
+
+
+62% 
+
+
+30% 
+
+
+8% 
+
+
+Using Claris Works 
+
+
+6 
+
+
+77% 
+
+
+23% 
+
+
+0% 
+
+
+Using Kid Pix 
+
+
+6 
+
+
+46% 
+
+
+46% 
+
+
+8% 
+
+
+Using WiggleWorks 
+
+
+4 
+
+
+54% 
+
+
+38% 
+
+
+8% 
+
+
+Using digital cameras 
+
+
+4 
+
+
+38% 
+
+
+54% 
+
+
+8% 
+
+
+Using scanners 
+
+
+4 
+
+
+15% 
+
+
+77% 
+
+
+8% 
+
+
+Using the internet 
+
+
+2 
+
+
+62% 
+
+
+38% 
+
+
+0% 
+
+
+Using e-mail 
+
+
+2 
+
+
+54% 
+
+
+38% 
+
+
+8% 
+
+
+Saving to a server 
+
+
+2 
+
+
+23% 
+
+
+69% 
+
+
+8% 
+
+
+Creating web pages 
+
+
+2 
+
+
+15% 
+
+
+85% 
+
+
+0% 
+
+
+
+The final section of the teacher survey was used to determine the frequency and 
+purpose of technology use. The greatest increase was found in the frequency of 
+technology integration into the curriculum. The results of this section of the teacher survey 
+are listed in Table 14. 
+
+When comparing the results in Table 14 to those completed in September (Table 
+5), it is observed that free time, a non curricular use of technology, remains the most 
+frequent way of using computers in the classroom. However, all teachers reported 
+integrating technology into the curriculum at minimum, on a monthly basis. While in 
+September, 15% of teachers surveyed were only integrating technology once a trimester. 
+Using word processing programs for student writing and publishing continues to be done 
+on an infrequent basis. The computer usage checklist will determine how frequently 
+technology is being used within the building. 
+
+
+
+O 
+
+ERIC 
+
+
+
+43 
+
+
+
+38 
+
+
+
+Table 14 
+
+Frequency of Technology Use 
+
+
+
+
+
+Never 
+
+
+Once a trimester 
+
+
+Monthly 
+
+
+Weekly 
+
+
+Daily 
+
+
+Frequency of Curricular 
+Technology Integration 
+
+
+0% 
+
+
+0% 
+
+
+23% 
+
+
+69% 
+
+
+8% 
+
+
+Frequency of Free Time 
+Use 
+
+
+0% 
+
+
+0% 
+
+
+0% 
+
+
+46% 
+
+
+54% 
+
+
+Frequency of Student 
+Word Processing for 
+Journal writing 
+
+
+31% 
+
+
+8% 
+
+
+15% 
+
+
+23% 
+
+
+23% 
+
+
+Frequency of Student 
+Word Processing for 
+Publishing 
+
+
+38% 
+
+
+15% 
+
+
+23% 
+
+
+23% 
+
+
+0% 
+
+
+
+Usage Checklist 
+
+To see if the available technologies were being used more frequently, the 
+technology usage checklist was again implemented in February 2000. The building 
+technology facilitator was asked to complete 10 more random checks to see how many 
+computers were on and being used by students and teachers. The checks were done at 
+random times during the day over the course of one week. A comparison of September 
+and February usage is listed in Table 15. 
+
+Table 15 
+
+Classroom Technology Usage - September vs. February 
+
+
+
+% Turned Off 
+
+
+% Used by Students 
+
+
+%Used by Teachers 
+
+
+% On but Not Used 
+
+
+Sep. 
+
+
+Feb. 
+
+
+Sep. 
+
+
+Feb. 
+
+
+Sep. 
+
+
+Feb. 
+
+
+Sep. 
+
+
+Feb. 
+
+
+31% 
+
+
+8% 
+
+
+14% 
+
+
+25% 
+
+
+12% 
+
+
+14% 
+
+
+43% 
+
+
+53% 
+
+
+
+Table 15 indicates that there has been an increase in both student and teacher use of 
+the computers. The most noticeable increase is found in the amount of computers turned 
+off. In February almost one third of the classroom computers were not even being turned 
+
+
+
+erJc 
+
+
+
+44 
+
+
+
+39 
+
+
+
+on. With more computers being turned on, it is not surprising to see that both student use 
+and teacher use of the computer has increased. 
+
+The usage of the computer lab was once again monitored. During the selected week 
+four classroom teachers used the computer lab. Special area teachers, such as English as a 
+Second Language and Early Childhood, also used the lab. The numbers of children using 
+the lab has increased since September. Although the lab is being used more frequently, it 
+is still not being used to its full capacity and often sits vacant. The teacher survey, revealed 
+that many teachers felt that the computers were “out of date.” Their comments suggested 
+that if the equipment was more “up to date” they would use the lab more frequently. When 
+reviewing their journals, the teacher researchers have found that their own classroom “mini 
+labs” were highly effective in fostering peer interactions with technology. 
+
+Teacher Anecdotal Journals 
+
+The teacher journals revealed that as students acquired skills, they readily took on the 
+role of peer mentors. The students were eager and willing to help each other as 
+technological problems arose. Teachers did facilitate this interaction initially by encouraging 
+students to ask peers for help before coming to the teacher. As time passed, students 
+seamlessly took on the role of problem solver. During class lessons, children would often 
+shout out suggestions to solve problems as they saw them arise. Students were even 
+able to aid other teachers who encountered technological problems. The biggest challenge 
+now for the teacher researchers was to show students how to teach others, without solving 
+the problems for them. The teachers developed “the hands off policy.” When helping 
+others, students must use their words rather than their hands. This will allow the child 
+receiving help to take ownership of the task. 
+
+Students are also realizing the role technology can play in their education. The 
+internet has become a logical source of information. Just as children would go to the library 
+for a book, they use the internet to find answers to their questions. The children in the 
+targeted classrooms now go online independently. E-mail has become a resource for 
+communicating with experts. Students view e-mail as being as easily accessed as the 
+telephone or mail. To demonstrate what they have learned, students are choosing 
+multimedia tools. Posters now include graphics down loaded from the internet, interesting 
+fonts, and have been checked for correct spelling. Children also appreciate that eraser 
+
+
+
+ERIC 
+
+
+
+45 
+
+
+
+40 
+
+
+
+marks cannot be found on word processed documents. Slide shows, video clips and 
+digital photos are all found in student projects. 
+
+The teachers as well as the students have experienced the thrill of technology. 
+During this process an unanticipated aspect of teacher training became readily apparent. A 
+mentor relationship was developed between the two participating teachers. One teacher 
+was skilled in the use of technology. That teacher was able to guide, train and facilitate in the 
+learning of the second teacher. The second teacher brought many fresh ideas to the 
+partnership and was often responsible for the creative side of projects. Both teachers felt 
+that their use of technology was improved and expanded because of this partnership. The 
+staff of the targeted school began to see both teachers as technology experts and would 
+turn to both when problems arose. Further conclusions and recommendations will be 
+discussed. 
+
+Conclusions and Recommendations 
+
+This research showed that when integrated into the curriculum on a regular basis, 
+technology becomes a powerful tool for learning. In order for this to occur teachers must 
+receive ongoing training, be committed to using the technology and have the equipment 
+necessary within the walls of the classroom. The children naturally posses the curiosity and 
+desire to use technology. 
+
+The most effective form of teacher training found was mentoring. The key to 
+mentoring is time and trust. Both teachers felt comfortable asking questions of each other, 
+no matter how simplistic they may seem. Both were also committed to the goal of 
+increasing the effective use of technology in their curriculums and investing the time needed 
+to help one another. As their skill levels increased, the teachers found more and more ways 
+to integrate technology into the curriculum. Their open-minded approach allowed them to 
+absorb what researchers suggested about giving students more choices, freedom to 
+explore, and time to problem solve independently. They very quickly found themselves 
+facilitating the learning of their students. Technology talk filled their conversations. Both were 
+excited about what their students were doing, their independence, and their enthusiasm. 
+Together, the teachers brainstormed ways to exercise their teaching philosophy and 
+worked together to solve technology problems as they occurred. 
+
+
+
+
+46 
+
+
+
+41 
+
+
+
+In the past, the teacher researchers had participated in various workshops and in- 
+services both in and out of district. They hoped to increase their technological skills. The 
+teachers usually left with a few new concepts or ideas. Although the information received at 
+these workshops was useful, it did not always meet their immediate needs. Mentoring, on 
+the other hand, allows teachers to receive immediate feedback on the issues that are most 
+important and relevant to them. When answers are not immediate, good ideas are often 
+left uncompleted or discarded. 
+
+The mentor relationship allowed a greater variety of technology enhanced projects to 
+occur, as the mentors often fed off of each other’s ideas. Both teachers had committed 
+themselves to teaching technology skills within the curriculum. Technology was never 
+viewed as a separate entity. When planning their curriculum, a technological component 
+was always included. Skills were taught as they became necessary to complete tasks 
+within curricular areas. This integration allowed students to see technology as a tool. 
+
+Many teachers at the targeted building indicated on the teacher survey a desire for a 
+separate technology curriculum. This curriculum would be taught by a “technology teacher", 
+just as music is taught by the music teacher, in a separate classroom. When technology is 
+taught separately, it’s application in the classroom is not readily apparent. Students may 
+develop technology skills, but there is no authentic application of those skills. Therefore, it is 
+recommended that technology is taught within the classroom, in every area of the curriculum. 
+In order for technology to be taught within the walls of the classroom, there must be 
+adequate equipment available. 
+
+Along with the original PowerMac computer, the 3 additional iMacs allowed more 
+students to access technology on a regular basis. With the aid of the 27” monitor, group 
+lessons could be taught and implemented within the classroom. The monitor gives all 
+students a visual reference when directions are being given. The monitor also gives 
+students the opportunity to share their work with the class. With several computers in the 
+classroom, students are able to complete tasks on a rotating basis. Also several tasks can 
+occur during the course of the day. For example, during the length of an average day some 
+students may create a math story problem using Kid Pix, research their desert animal on- 
+line, watch a Living Books CD ROM, and type a journal page. In a week’s time, most 
+students will have completed all of the above tasks. In a lab situation, students in the 
+
+
+
+o 
+
+ERLC 
+
+
+
+47 
+
+
+
+42 
+
+
+
+targeted building would have only one hour a week to work on the computer. 
+
+Accomplishing all of these tasks in a week would be impossible. Examples of student 
+work done on the computer can be found in Appendix D. 
+
+Technology enables students to become problem solvers. As teachable moments 
+arise, students and teachers have the internet, CD ROMs, virtual tours, etc. at their disposal. 
+Having technology available in the classroom allows students to find solutions to their 
+questions as they occur. There is immediate access to information. A weekly lab time does 
+not support student problem solving. When computers are not in the classroom, 
+technology cannot be used as an effective tool for learning. 
+
+Recommendations to others include: teacher mentoring, complete integration of 
+technology within the curriculum, and the availability of technology in the classroom. The TIP 
+program provided the much needed equipment. This allowed for daily integration to occur. 
+Although the TIP program provided the opportunity for growth, it was not as effective as 
+mentoring. Because the TIP program only met once a month, it did not provide immediate 
+feedback to teacher questions and problems, which a mentor was able to provide. 
+
+In conclusion, technology is an appropriate and effective tool for learning with primary 
+students. Technology is intrinsically motivating to students. It has been demonstrated that 
+regular use of technology strengthens students’ problem solving and communication skills. 
+For this reason, training teachers on how to use technology effectively is essential School 
+districts must provide staff development opportunities. Additionally, it is necessary for 
+teachers to view technology as an essential tool in their classroom. Books, paper and 
+pencil, are the basic tools of all subject areas. The computer can and should be used as 
+such a tool. Therefore, classrooms must be provided with enough equipment to allow all 
+students regular access. When all of these components are implemented students will 
+develop highly successful technology skills. 
+
+
+
+ERIC 
+
+
+
+48 
+
+
+
+43 
+
+
+
+References 
+
+
+
+Barker, F., G. (1994, June). Integrating computer usage in the classroom curriculum 
+through teacher training Florida: Nova Southeastern University. (ERIC document 
+Reproduction Service No. ED 372 751) 
+
+Becker, H. J. (1994, March). Analysis and trends of school use of new information 
+technologies [On-line]. Available: htttp://www.gse.uci.edu/EdTechUse [May 1999]. 
+
+Bowman, B. T. (1998). Math, science, and technology in early childhood education. 
+(Report No. BBB21954). Chicago, IL: Erikson Institute for Advanced Study in Child 
+Development. (ERIC Document Reproduction Service No. ED 418 774) 
+
+Clements, D., (1998, February 6-8). Young children and technology. Paper 
+presented at the Forum on Early A Childhood Science, Mathematics, and Technology 
+Education, Washington, DC. (ERIC Document Reproduction Service No. ED 416 991) 
+
+Conyers, J. G., Kappel, T., & Rooney, J. (1999, February). How Technology Can 
+Transform a School. Educational Leadership. 56 (5), 82-84. 
+
+Davis, B. Caruso, & Shade, D. D. (1994, December). Integrate, don’t isolate!— 
+computers in the early childhood curriculm. [On-line] 
+
+Available: http://ericeece.org/pubs/digests/1994/shade94.html Champaign, IL : 
+
+Children’s Research Center. (ERIC Document Reproduction Service No. EDO-PS-94-17) 
+
+Deaton, M. P. (1991, May) Computer integration in the primary grades Virginia. 
+(ERIC Document Reproduction Service No. ED 337 137) 
+
+Doyle, A. (1999, February). A practitioner’s guide to snaring the net. Educational 
+Leadership [On-line serial], 56 (5). Available: 
+http://www.ascd.org/pubs/el/feb99/extdoyle.html 
+
+Flake, J. L. (1999). Visioning about technology and learning. Unpublished 
+manuscript, University of Florida. [On-line] available: 
+http://mailer.fsu.edu/~jflake/AVISION.html 
+
+Labbo, L. D. (1996). Incorporating a computer into the classroom: lessons learned 
+in kindergarten. Instructional Resource No. 20. (Report No. BBB30638). Athens, GA: 
+National Reading Research Center. (ERIC Document Reproduction Service No. ED 393 
+079) 
+
+Latham, A. S. (1999). Computers and achievement. Educational Leadership. 56 
+(5) , 87-88. 
+
+Lazear, D. (1992). Seven ways of knowing. In A. Costa, J. Bellanca, & R. Fogarty 
+(Eds.), If minds matter: a foreward to the future voume II designs for change (pp. 135- 
+ISO). Arlington Heights, IL: Skylight. 
+
+Maurer, M. M., & Davidson, G. (1999, February). Technology, children, and the 
+
+
+
+O 
+
+ERLC 
+
+
+
+49 
+
+
+
+44 
+
+
+
+Maurer, M. M., & Davidson, G. (1999, February). Technology, children, and the 
+power of the heart [23 paragraphs]. Phi Delta Kappan International . [On-line serial], 
+Available: http://www.kiva.net/~pdkintl/kappan/kmau9902.htm 
+
+McKenzie, J. (1998a, Summer). Ending the seige: introcucing technologies to the 
+regular classroom. From Now On The Educational Technology Journal . [On-line]. 
+
+Available: http://www.fno.Org/seige.html#anchor1 11229 
+
+McKenzie, Jamie. (1998b, November). Learning digitally [46 paragraphs]. From 
+Now On The Educational Technology Journal [On-line serial], 8 (13). Available: 
+http://www.fno.org/nov98/digital.html 
+
+National Educational Technology Standards Project. (1999). Standards for 
+students. [On-line], Available: http://cnets.iste.org 
+
+NCATE says teacher accreditation to include tech minimums by 2000. (1998, 
+March 18). [15 paragraphs]. Education Technology News. [On-line serial] Available: 
+http://xp.bpinews.com/xp/p-etn/i-1998031801/a-890941771/article.view 
+
+Persichitte, K. A., Tharp, D. D., & Carrarella, E. P. (1997) The use of technology bv 
+school, colleges and departments of education. 1996. (Report No. BBB14763). 
+Washington DC: American Associaation of Dolleges for Teacher Education. (ERIC 
+Document Reporduction Service No. ED 422 268) 
+
+Pierce, D. (1999, May 3). On-demand professional development comes via 
+satelite. eSchool News online [On-line serial]. Available: http://www.eschoolnews.com/- 
+archive/1 999050301 .html 
+
+Pool, C., R. (1997, November). A new digital literacy. Educational Leadership 
+[On-line serial]. 55 (3). Available: http://www.ascd.org/pubs/el/nov97/extgilst.html 
+
+Roberts, G. (1999, February). Lessons From Sisyphus in a technological age. 
+Educational Leadership. (51 . 75-77. 
+
+Survey: Teachers feel unprepared for technology. (1999, February 22). [15 
+paragraphs]. eSchool News online. [On-line serial] Available: 
+http://www.eschoolnews.eom/~archive/1 999022201 .html 
+
+Tapscott, D. (1999, February). Educating the net generation. Educational 
+Leadership 56 (5), 7-11. 
+
+Thouvenelle, S. (1999a). Do computers belong In early childhood settings? [On- 
+line]. Available: http://www.earlychildhood.com/articles/artcbec.html 
+
+Thouvenelle, S. (1999b). Planning for technology in the classroom. [On-line]. 
+Available: http://www.earlychildhood.com/articles/artpft.html 
+
+United States Census (1990). [ On-line], Available: 
+http://sasquatch.library.orst.edu/cgi-birVbuildit2?filenam=1a-62016.ilp 
+
+
+
+O 
+
+ERIC 
+
+
+
+50 
+
+
+
+45 
+
+
+
+Wexcel, Inc. (1999). Town Profile. [On-line], Available: 
+http://blue.wexcel.com/a2z/stat/prspkt.html 
+
+
+
+o 
+
+ERIC 
+
+
+
+51 
+
+
+
+APPENDIX A 
+
+
+
+TEACHER SURVEY 
+
+
+
+
+52 
+
+
+
+47 
+
+
+
+Teachers, 
+
+We are doing research for our masters program and would like 
+your help in gathering information about technology use at Ross. Just 
+so you know, the results of this are for our own private use and is no way 
+linked to any school related issues. We appreciate your honesty and 
+thoroughness. Please return to Laurie or Julie by September 10, 1999. 
+Thank You! 
+
+Julie Murray and Laurie McDermott 
+
+
+
+Using 1 as very uncomfortable and 5 as very comfortable. 
+
+
+
+I. Rate your comfort level on the following: 
+
+
+
+• creating web pages 1 2 
+
+• using e-mail 1 2 
+
+• using the internet 1 2 
+
+• using CD ROMs 1 2 
+
+• saving to a disk 1 2 
+
+• saving to the server 1 2 
+
+• using Claris 1 2 
+
+• using Kid Pix 1 2 
+
+• using Wiggle Works 1 2 
+
+• using digital cameras 1 2 
+
+• using the scanner 1 2 
+
+
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+
+
+4 5 
+4 5 
+4 5 
+4 5 
+4 5 
+4 5 
+4 5 
+4 5 
+4 5 
+4 5 
+4 5 
+
+
+
+II. Using the same scale please rate your comfort level when 
+
+teaching vour students to use the following: 
+
+
+
+creating web pages 
+
+
+1 
+
+
+2 
+
+
+3 
+
+
+4 
+
+
+5 
+
+
+n/a 
+
+
+using e-mail 
+
+
+1 
+
+
+2 
+
+
+3 
+
+
+4 
+
+
+5 
+
+
+n/a 
+
+
+using the internet 
+
+
+1 
+
+
+2 
+
+
+3 
+
+
+4 
+
+
+5 
+
+
+n/a 
+
+
+using CD ROMs 
+
+
+1 
+
+
+2 
+
+
+3 
+
+
+4 
+
+
+5 
+
+
+n/a 
+
+
+saving to a disk 
+
+
+1 
+
+
+2 
+
+
+3 
+
+
+4 
+
+
+5 
+
+
+n/a 
+
+
+saving to the server 
+
+
+1 
+
+
+2 
+
+
+3 
+
+
+4 
+
+
+5 
+
+
+n/a 
+
+
+using Claris 
+
+
+1 
+
+
+2 
+
+
+3 
+
+
+4 
+
+
+5 
+
+
+n/a 
+
+
+
+ERIC 
+
+
+
+53 
+
+
+
+48 
+
+
+
+• using Kid Pix 
+
+• using Wiggle Works 
+
+• using digital cameras 
+
+• using the scanner 
+
+
+
+1 2 3 
+1 2 3 
+1 2 3 
+1 2 3 
+
+
+
+4 5 n/a 
+
+4 5 n/a 
+
+4 5 n/a 
+
+4 5 n/a 
+
+
+
+III. Please circle the one that best applies. 
+
+How frequently do you integrate technology into your 
+curriculum? (Ex. Technology is part of a thematic unit or 
+project.) 
+
+never once a trimester once a month weekly doily 
+
+How frequently do you use technology as free time? (Ex. when 
+work is finished ) 
+
+never once a trimester once a month weekly daily 
+
+How frequently do you use technology for journal writing? 
+
+(Ex. students are creating on the computer.) 
+
+never once a trimester once a month weekly doily 
+
+How frequently do you use technology for editing? 
+
+(Ex. Students type a good copy of handwritten work?) 
+
+never once o trimester once o month weekly doily 
+
+Where do your students use computers more? 
+
+Lob classroom equally in both 
+
+
+
+IV. Check all that apply. 
+
+What factors would increase your comfort levels in using 
+technology? 
+
+□ in district staff development 
+
+□ out of district staff development 
+
+□ more technology support 
+
+□ more equipment 
+
+□ a formal technology curriculum 
+
+□ other 
+
+
+
+
+54 
+
+
+
+APPENDIX B 
+
+
+
+STUDENT SELF EVALUATION SURVEY 
+
+
+
+
+55 
+
+
+
+50 
+
+
+
+
+ERIC 56 
+
+
+
+APPENDIX C 
+
+ENGAGED LEARNING FRAMEWORK 
+FOR NATIVE AMERICAN UNIT 
+
+
+
+
+57 
+
+
+
+52 
+
+
+
+An Engaged Learning Study of Native Americans 
+Unit Framework 
+
+
+
+‘Social Studies/Multidisciplinary 
+‘First and Second Grade 
+
+Learner Description 
+
+Students are heterogeneously grouped, regular education first and second graders from a 
+suburban middle-class community. Some students are not English proficient; others may 
+receive Title 1 reading and/or other assistance. 
+
+Overview 
+
+Children from the first grade and first and second grade multiage class were involved in a 
+study of Native Americans. Classes were divided into small groups. Each group 
+researched a specific region of Native Americans. The classes brainstormed what elements 
+were important to a culture. Children were then encouraged to discover the food, housing, 
+art, transportation, clothing, music, dance, and beliefs of their region’s Native Americans. 
+
+Rationale 
+
+The goal of this unit was to showcase the similarities and differences between Native 
+Americans from different regions of the United States. It was important to end the 
+stereotypes that children have of all Native Americans. 
+
+This unit qualifies as an engaged learning unit because the students are responsible for 
+choosing their region of study, collaboratively obtaining information, recreating the culture in 
+the classroom and sharing their information with other classmates. 
+
+Students were given many opportunities to study their region by using the internet, videos, 
+e-mail, and other available technological resources. 
+
+This project is authentic, meaningful, and challenging for students because students 
+“became the Native Americans” They knew they had to have food, tools, and shelter to 
+stay alive. Once they had the basic elements to maintain life they could learn more about 
+their culture. Each class had a culminating activity that students were preparing for. The first 
+grade students created a Native American museum in their classroom to share their findings. 
+Students from other classrooms came to learn from their findings. The children in the 
+multiage classroom were preparing for a Powwow, where they too would celebrate and 
+share their newly discovered culture. The challenge comes from the open-ended nature of 
+the project as well as from the expectation that the students will be required to teach what 
+they've learned. The students could take it as far as they wanted to. 
+
+Goals - Content, Cognitive and Social 
+
+Students will: 
+
+‘become more aware of the diversity and commonalities of Native American cultures, 
+‘begin to develop research skills using available resources. 
+
+‘begin to develop presentation skills. 
+
+‘begin to develop skills needed to collaborate within a group setting. 
+
+Learning Activities 
+
+1 . Teachers introduced Native American life by reading both fictional and nonfiction books to 
+students. 
+
+2. Students gave themselves Native American names. 
+
+
+
+
+58 
+
+
+
+53 
+
+
+
+3. Students collectively decided on a region that their group would study. 
+
+4. Students created a list of cultural elements to refer to as well as a rubric to assess the 
+acquired information and presentation skills. 
+
+5. With teachers as facilitators, regional groups developed ongoing goals about what they 
+needed to accomplish/learn. 
+
+6. In their groups, students found information about their topic using a variety of resources. 
+
+7. Students created tools, food, housing, dances, musical instruments, baskets, fishing 
+baskets, canoes, dog sleds, to demonstrate their chosen culture. 
+
+8. Cultures were shared either in a classroom museum or a classroom Pow Wow. 
+
+Assessment 
+
+Students were assessed on an ongoing basis. The accuracy and the amount of information 
+was regularly reviewed. The teachers, acting as facilitators, conferenced with groups to 
+assure that all members were actively participating and that the groups continued to make 
+progress. Students were encouraged to refer back to the class made list of cultural 
+elements and be sure that all elements were represented in their research. Student 
+presentations and written reflections served as an excellent assessment tool. 
+
+Management 
+
+Groups were managed through teacher conferences. Teachers acted as facilitator to make 
+sure that each individual is engaged. Each group was given a plastic tub to hold their 
+research materials and artifacts. As students created more artifacts, tables and shelves had 
+to be cleared to store their things. Students had access to all classroom and library 
+materials. The school library is set up for flexible access with help. Parents also helped in 
+the room with internet searches, and reading the found research. 
+
+
+
+
+59 
+
+
+
+APPENDIX D 
+
+
+
+STUDENT WORK SAMPLES 
+
+
+
+O 
+
+ERLC 
+
+
+
+60 
+
+
+
+55 
+
+
+
+Work samples include: 
+
+• A reading response using the WiggleWorks application 
+
+• Math stories using the University of Chicago Math Program format- created on Kid Pix 
+
+• Classroom newsletter created in ClarisWorks- text and digital photos by students 
+
+• Calendar to mark monthly classroom events- created using Super Print 
+
+• Big Cheese - student peer interviews created on ClarisWorks 
+
+• Tongue Twisters - created on Kid Pix 
+
+• Crocodile Research - students searched on-line for answers to questions using 
+www.google.com 
+
+• Student journal entry- created in ClarisWorks 
+
+• Learning Reflection- created in ClarisWorks 
+
+• Graphic number sentences- stamped in Kid Pix 
+
+• Desert research - research found on-line, pictures downloaded, final project created in 
+ClarisWorks 
+
+• Digital Photo Album 
+
+• Do You Believe in Leprechauns? Graph - created in Graph Club 
+
+
+
+o 
+
+ERIC 
+
+
+
+61 
+
+
+
+56 
+
+
+
+Reading Response in WiggleWorks 
+
+oo 
+
+CD 
+
+
+
+
+
+
+
+57 
+
+
+
+Math Stories in KidPix 
+
+
+
+
+58 
+
+
+
+Classrom Newsletter in ClarisWorks 
+
+
+
+
+The Investigative 
+Reporter 
+
+March 17, 2000 
+
+
+
+
+Monday 
+
+
+
+Tuesday 
+
+
+
+Today we had lots of e- 
+mail. We got e-mail from 
+Mrs. Warner, Mrs. Fixler, 
+Mike's mom and Mike's 
+aunt. We read the e-mail 
+after calendar. We like to 
+read e-mail. 
+
+By Kelsey 
+
+
+
+
+Photo by Nobue 
+
+
+
+Today we did author 
+studies. In author studies we 
+made posters. It is about one 
+book that the author wrote. 
+We did it in the room. 
+
+By Atara 
+
+I do math. We got a new 
+math book in math. We did a 
+paper that was of pluses. 
+
+By Janett 
+
+
+
+Today we wrote about 
+our author study. Some of 
+the groups had to stay inside 
+and they had to finish. Mrs. 
+Murray went around the 
+room to see our work. 
+
+By Nicole 
+
+
+
+
+Photo by Eric 
+
+
+
+In Dear time Friday tutors 
+tutored today because on 
+Friday we don't have school. 
+Right after Dear time we 
+went to music. In Dear time 
+we had about 25 minutes to 
+read. In Dear time we didn't 
+have partner time. We 
+started Dear time about 
+1 2:40 and we stopped at 
+1:15. 
+
+By Mike 
+
+
+
+o 
+
+ERIC 
+
+
+
+66 
+
+
+
+
+
+59 
+
+
+
+Calendar Created in SuperPrint 
+
+
+
+
+Q. 
+
+< 
+
+
+
+CO 
+
+
+
+( A 
+
+D 
+
+|S 
+
+
+
+■o 
+
+0) 
+
+
+
+</) 
+
+0) 
+
+(2 
+
+
+
+3 
+
+K> 
+
+
+
+
+
+03 
+
+
+uo 
+
+
+22 
+
+
+29 
+
+
+
+
+r^- 
+
+
+
+
+21 
+
+good friday 
+no school 
+
+
+28 
+
+walk to the 
+PUBLIClibary 
+
+
+
+
+CO 
+
+
+CO 
+
+
+O 
+
+
+N. 
+
+
+
+
+
+
+
+
+CM 
+
+
+cm<S 
+
+
+
+
+
+
+
+
+
+
+73 
+
+
+
+
+
+
+
+
+
+
+£ 
+
+
+
+
+
+
+
+
+
+
+£ 
+
+
+
+
+
+
+
+
+
+
+<0 
+
+
+
+
+
+
+
+
+
+
+c 
+
+
+
+
+
+
+
+
+
+
+> 
+
+
+
+
+
+
+
+
+
+
+CD 
+
+
+
+
+
+
+
+
+
+
+€ 
+
+
+
+
+
+
+
+
+
+
+B 
+
+
+
+
+to 
+
+
+CM 
+
+
+O) 
+
+
+CO 
+
+
+
+
+
+
+
+
+
+
+CM 
+
+
+
+
+
+
+> 
+
+
+
+
+
+
+
+
+
+
+05 
+
+
+
+
+
+
+
+
+
+
+73 
+
+
+
+
+
+
+
+
+
+
+€ 
+
+
+
+
+
+
+
+
+
+
+Id 
+
+
+
+
+
+
+
+
+
+
+CO 
+
+
+
+
+75 
+
+
+
+
+
+
+’c 
+
+
+
+
+CD 
+
+
+
+
+
+
+(5 
+
+
+
+
+8 
+
+
+
+
+
+
+t— 
+
+
+03 
+
+
+LQ 
+
+
+
+
+
+
+_ od 
+
+■a 
+
+
+
+
+CM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CD 
+
+
+
+
+
+
+
+
+
+
+C V- 
+
+
+
+
+
+
+
+
+
+
+ga 
+
+
+
+
+75 
+
+
+
+
+
+
+*8 
+
+
+
+
+CD 
+
+
+
+
+
+
+s §_ 
+
+
+
+
+8 
+
+
+
+
+CO 
+
+
+o 
+
+
+N. 
+
+
+
+
+
+
+
+
+T— 
+
+
+t— >> 
+
+
+CM 
+
+
+
+
+
+
+
+
+05 
+
+
+
+
+
+
+
+
+
+
+73 
+
+
+
+
+
+
+
+
+
+
+si 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-p=i (D 
+
+
+
+
+
+
+
+
+
+
+2 O) 
+
+
+05 
+
+CJ) 
+
+
+
+
+
+
+
+
+m ~0 
+
+Z= LU 
+
+
+8 
+
+
+
+
+CM 
+
+
+O) 
+
+
+CO 
+
+
+O 
+
+
+
+
+
+
+
+
+T— 
+
+
+C2 
+
+
+
+
+
+
+
+
+
+
+CO 
+
+
+
+
+
+
+
+
+
+
+CM 
+
+
+
+00 
+
+CD 
+
+
+
+!> 
+
+CD 
+
+
+
+O 
+
+ERIC 
+
+
+
+Big Cheese 
+
+Student Peer Interviews in ClarisWorks 
+
+Karo line 
+
+Pink is Karoline's favorite color. 
+
+Blue is Karoline's second favorite 
+color. 
+
+Karo line has no pets. Karo line 
+likes turtles. 
+
+Karoline's nickname is String. 
+
+Spaghetti is Karoline's favorite 
+food. 
+
+
+
+Dan drew dynomite dinosaurs. 
+
+
+
+61 
+
+
+
+Tongue Twisters 
+
+P.rontoH in Wi H Piv 
+
+
+
+
+o 
+
+D- 
+
+
+
+
+
+Crocodile Research 
+Answers found online 
+
+
+
+62 
+
+
+
+Names 
+
+Crocodile Research Project 
+
+1. Do a search on google.com for crocodiles. 
+
+2. Pick a website and answer these questions. 
+
+Can crocodiles see well? 
+
+
+
+How do crocodiles use their teeth? 
+
+
+
+What is crocodile skin like? 
+
+
+
+Write a research question. 
+
+
+
+The answer to my question is... 
+
+
+
+
+72 
+
+
+
+63 
+
+
+
+Student Journal Entries 
+
+
+
+Me and tv>y friend* went hike ridlns 
+to,?et^er. Ater we ha d a ^Icfcntefc and 
+my dad read to o*. T^en we rlded 
+a^en wM my frier)4s*The £nd 
+By t>ana 
+
+
+
+My 
+
+Brothers 
+
+Accident 
+
+I was timing my brother around 
+the block and he fell on the 
+corner.He brokethe biggest 
+bone.lt is the femur bone.He fell 
+off his bike. The End 
+
+By Matt 
+
+
+
+
+73 
+
+
+
+64 
+
+
+
+
+
+
+Student Learning Reflections 
+
+All about owls. 
+
+I learned owls cough up owl pelist. 
+
+I learned that in owl pelist there are 
+bones and fur. I learned some big 
+owls eat little owls. With out owls the 
+rodents would eat the food from the 
+farms. I like learning about owls. 
+
+The Oct/12/99 
+
+Netherlands 
+
+In the Netherlands I learned that they have 
+different money. I also learned that thier houses 
+are surrounded by water. I learned that they 
+yous dams so the water doesn't flood the vilig. 
+Mrs.Murray read a book.lt was called the hole in 
+the dam. BY VANESSA 
+
+
+
+
+74 
+
+
+
+65 
+
+
+
+Desert Research 
+
+Tarantulas live in a tunnel under 
+ground. Some females may live 
+long as 25 years. Tarantulas 
+eat grass hoppers and they eat 
+beatles and they eat bugs. 
+They are friendy but some 
+bite, 
+by 
+
+Steven 
+
+
+
+
+o 
+
+ERIC 
+
+
+
+75 
+
+
+
+BEST COPY AVAILABLE 
+
+
+
+
+
+
+
+
+Digital Photo Album 
+
+
+
+Native American Research 
+
+
+
+
+$?;. best copy available 76 
+
+ERIC 
+
+
+
+
+
+
+
+
+How Many? 
+
+
+
+Do You Believe In Leprechauns? 
+Created in Graph Club 
+
+
+
+Do you Believe in Leprechau... 
+
+
+What? 
+
+
+How Many? 
+
+
+© 
+
+
+1 0 
+
+
+
+
+8 
+
+
+
+
+o 
+
+ERIC 
+
+
+
+77 
+
+
+
+
+U.S. Department of Education 
+
+Office of Educational Research and Improvement (OERI) 
+National Library of Education (NLE) 
+
+Educational Resources Information Center (ERIC) 
+
+REPRODUCTION RELEASE 
+
+(Specific Document) 
+
+
+
+
+
+
+I. DOCUMENT IDENTIFICATION: 
+
+
+
+ntie: K Use, or\A Xnlo 
+
+Primary CiAMfi 
+
+
+jrari&r\ o-f 
+
+
+Author(s): hKc b^CV>rvQ V\ . L&lirlf. MUfOlM . sialic 
+
+
+■ " ” ■ ■■ n 
+
+Corporate Source: 
+
+Saint Xavier University 
+
+
+Publication Date: 
+ASAP 
+
+
+
+II. REPRODUCTION RELEASE: 
+
+In order to disseminate as widely as possible timely and significant materials of interest to the educational community, documents announced in the 
+monthly abstract journal of the ERIC system, Resources in Education (RIE), are usually made available to users in microfiche, reproduced paper copy, 
+and electronic media, and sold through the ERIC Document Reproduction Service (EDRS). Credit is given to the source of each document, and, if 
+reproduction release is granted, one of the following notices is affixed to the document. 
+
+
+
+If permission is granted to reproduce and disseminate the identified document, please CHECK ONE of the following three options and sign at the bottom 
+of the page. 
+
+
+
+Level 1 
+
+m 
+
+
+
+The sample sticker shown below will be 
+affixed to all Level 1 documents 
+
+
+The sample sticker shown below will be 
+affixed to all Level 2A documents 
+
+
+The sample sticker shown below will be 
+affixed to all Level 2B documents 
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL HAS 
+BEEN GRANTED BY 
+
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL IN 
+MICROFICHE, AND IN ELECTRONIC MEDIA 
+FOR ERIC COLLECTION SUBSCRIBERS ONLY, 
+HAS BEEN GRANTED BY 
+
+$ 
+
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL IN 
+MICROFICHE ONLY HAS BEEN GRANTED BY 
+
+/ 
+
+
+
+
+
+
+r <K 
+
+
+
+
+J 
+
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+1 
+
+
+
+
+2A 
+
+
+
+
+2B 
+
+
+
+Level 2A 
+
+T 
+
+□ 
+
+
+
+Level 2B 
+
+
+
+□ 
+
+
+
+Check here for Level 1 release, permitting 
+reproduction and dissemination In microfiche or other 
+ERIC archival media (e.g., electronic) and paper 
+copy. 
+
+
+
+Check here for Level 2A release, permitting Check here for Level 2B release, permitting 
+
+reproduction and dissemination in microfiche and in reproduction and dissemination in microfiche only 
+
+electronic media for ERIC archival collection 
+subscribers only 
+
+
+
+Documents will be processed as indicated provided reproduction quality permits. 
+
+If permission to reproduce is granted, but no box Is checked, documents will be processed at Level 1 . 
+
+
+
+Sign 
+
+here,-* 
+
+please 
+
+
+
+
+/ hereby grant to the Educational Resources Information Center (ERIC) nonexclusive permission to reproduce and disseminate this document 
+as indicated above. Reproduction from the ERIC microfiche or electronic media by persons other than ERIC employees and its system 
+contractors requires permission from the copyright holder. Exception is made for non-profit reproduction by libraries and other service agencies 
+to satisfy information needs of educators in response to discrete inquiries. 
+
+
+
+
+Printed Name/Positionn'itle: r , , , . . rrU i n 
+
+Student/s FBMP 
+
+
+“’■“■““"■S.lnt Xavier University E. Mosaic (1 
+3700 W. 103rd St. Cfigo, IL 60655 
+
+
+T ffi8^02-6214 
+
+
+F/ ft)8-802-6208 
+
+
+lilWaifcSxu.edu 
+
+
+“• i)-n-oo 
+
+
+
+(over) 
+
+
+
+
+r 
+
+
+
+III. DOCUMENT AVAILABILITY INFORMATION (FROM NON-ERIC SOURCE): 
+
+If permission to reproduce is not granted to ERIC, or, if you wish ERIC to cite the availability of the document from another source, please 
+provide the following information regarding the availability of the document. (ERIC will not announce a document unless it is publicly 
+available, and a dependable source can be specified. Contributors should also be aware that ERIC selection criteria are significantly more 
+stringent for documents that cannot be made available through EDRS.) 
+
+
+
+Publisher/Distributor. 
+
+
+
+Address: 
+
+
+
+Price: 
+
+
+
+IV. REFERRAL OF ERIC TO COPYRIGHT/REPRODUCTION RIGHTS HOLDER: 
+
+If the right to grant this reproduction release is held by someone other than the addressee, please provide the appropriate name and 
+address: 
+
+
+
+
+V. WHERE TO SEND THIS FORM: 
+
+
+
+Send this form to the following ERIC Clearinghouse: 
+
+
+ERIC/REC 
+
+
+
+
+2805 E. Tenth Street 
+
+
+
+
+Smith Research Center, 150 
+
+
+
+
+Indiana University 
+
+
+
+
+Bloomington, IN 47408 
+
+
+
+ERIC 
+
+
+

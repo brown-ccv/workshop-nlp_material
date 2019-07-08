@@ -1,0 +1,2428 @@
+DOCUMENT RESUME 
+
+
+
+ED 396 901 
+
+
+
+RC 020 662 
+
+
+
+AUTHOR Alarcon, Rafael 
+
+TITLE Proposition 187: An Effective Measure To Deter 
+
+Undocumented Migration to California? 
+INSTITUTION META (Multicultural Education, Training and 
+
+Advocacy), Inc, San Francisco, CA. 
+
+PUB DATE Oct 9A 
+
+NOTE 39p. 
+
+AVAILABLE FROM META, Inc., 225 Bush Street, Suite 751, San 
+
+Francisco, CA 9A10A ($5). 
+
+PUB IxsjL Information Analyses (070) — Reports ~ 
+
+Evaluative/Feasibility (1A2) 
+
+
+
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+MF01/PC02 Plus Postage. 
+
+Access to Education; ^Economic Factors; Elementary 
+Secondary Education; Higher Education; Human 
+Services ; ^Immigration; Labor Market ; Mexican 
+American Education; Mexican Americans ; Migrant 
+Education; *Migrant Workers; Misconceptions; Public 
+Education; Public Policy; School Law; ^Social 
+Networks ; ^Undocumented Immigrants 
+
+Access to Services ; *Cal i f ornia ; Immigration Impact ; 
+Mexico; *Proposi tion 187 (California 199 A) 
+
+
+
+ABSTRACT 
+
+In 199A, California voters approved Proposition 187, 
+which prohibits provision of publicly funded education and social 
+services to undocumented immigrants, and which requires public 
+schools to verify the legal status of students and their parents. 
+
+This paper examines socioeconomic and immigration trends leading to 
+the emergence of Proposition 187, and challenges assumptions about 
+its ability to deter undocumented immigration. Analysis of two 
+cost-benefit studies in San Diego and Los Angeles Counties finds that 
+they invariably overstate the negative fiscal impacts of immigrants 
+on local and state governments and omit parallel computations showing 
+that native-born residents have a larger tax use "deficit” than 
+immigrants. Effectiveness of the proposition depends upon assumptions 
+that illegal immigrants are not well integrated into society and 
+could be easily deported, that education and social services serve as 
+a magnet for immigrants, and that "illegal families" could be easily 
+detected when they apply for services. A social science literature 
+review shows that labor migration is a social process. Permanent 
+settlement has been encouraged by social networks, changes in 
+California labor markets, and worsening Mexican economic conditions. 
+Undocumented workers residing in California have deepened their roots 
+in their communities and are unlikely to go back to their countries 
+of origin even if education were denied. Also, many families have a 
+complex legal status and contain a mixture of U.S. citizens, legal 
+residents, and undocumented persons. Finally, the "unstoppable flow" 
+of undocumented immigration is largely the result of policies 
+implemented by the U.S. and Mexican governments. Contains 63 
+references. (SV) 
+
+
+
+ED 396 901 
+
+
+
+
+
+
+CM t 
+CO 
+
+co 
+
+o 
+
+CM • 
+
+O i 
+
+A 
+
+
+
+Proposition 187: An Effective Measure to Deter Undocumented 
+
+Migration to California ? 
+
+
+
+U.S. OCPARTMCNT or EDUCATION 
+
+Offica o< Educational Raaaarcn and lmpfOvam«nt 
+
+EDUCABONAL RESOURCES INFORMATION 
+CENTER (ERIO 
+
+documant hat b#«n raproducad at 
+facaivad Irom tha p*fton or ocoamzation 
+ong<natmg it 
+
+O Minor changat hava baen mtda to impcova 
+raproduction quality 
+
+
+
+a Poinitol viaw or optnionaatatad in this docu- 
+mant do not nacassarily rapraaant official 
+OERl position or policy 
+
+
+
+PERMISSION TO REPRODUCE AND 
+DISSEMINATE THIS MATERIAL 
+HAS BEEN GRANTED BY 
+
+T^uT Vn 
+
+If^ciw jski 
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC) 
+
+
+
+Rafael Alarcdn 
+
+Department of City and Regional Planning 
+University of California, Berkeley 
+
+
+
+A REPORT PREPARED FOR META, INC. MULTICULTURAL EDUCATION, 
+
+training AM) ADVOCACY 
+
+
+
+San Francisco, California 
+October 1994 
+
+BEST COPY AVAILABLE 
+
+2 
+
+
+
+INTRODUCTION 
+
+
+
+The U.S. Immigration and Naturalization Service has estimated that as of October 1992, 
+there were 3.379 million undocumented persons in the United States (Warren, 1994). According 
+to this study, California was the place of residence of the largest portion of the undocumented 
+population: 1.441 million persons or 43 percent of the total. Mexico, the largest contributor, 
+provided 786,000 undocumented persons to California, followed by El Salvador with 205,000, 
+Guatemala with 88,000 and the Philippines with 60,000. 
+
+The arrival to California of a large number of unauthorized migrants from Mexico, Central 
+America and Asia has ^gered a large sector of the state’s population which fears that illegal 
+immigrants are taking jobs away from citizens and lawful residents. Similarly, the increased 
+demand for public services has become the main concern for those who argue that California's 
+fiscal deficit is caused by the arrival of a great number of undocumented immigrants, whom they 
+perceive as public service consumers. 
+
+Indeed, Governor Wilson on the basis of a report issued by the California Department of 
+Finance in 1991, blamed the state's financial problems on the combination of the emigration of 
+working taxpayers and the increasing demand for expensive government services by poor people 
+and immigrants. This report stated that the imbalance between the number of tax payers and "tax 
+receivers" was jeopardizing the state’s ability to maintain funding levels for state programs. 
+According to the report, much of the growth of the tax receiver group reflected increases in the 
+number of school age children resulting from immigration and a recent surge in the birth rate. The 
+report also noted the slowdown in the growth of the working population, reflecting low birth 
+rates during the 1960s and 1970s and a net domestic out-migration in the high-earning 45 to 64 
+age group (California Department of Finance, 1991). 
+
+Using the U.S. Census Bureau unofficial estimates. Governor Wilson stated in his 1994-95 
+budget, that the number of illegal immigrants between the ages of 5 and 17 will be approximately 
+456,000 in January 1995, with 392,000 of those estimated to attend public schools in California. 
+According to the Governor, these children will be educated daily in the public schools at a cost of 
+$ 1.7 billion'. 
+
+
+
+' The unofficial estimate of the U. S. Census Bureau indicates that by April 1 993 the total undocumented 
+immigrant population was 2.083 million in California. Interestingly enough, the Immigration and 
+Naturalization Service’s estimate of California’s unauthorized population is lower; 1.441 million for October 
+1992. Thus, if one uses this figure and follows the methodology of the Department of Finance to estimate the 
+number of undocumented children attending public schools in California, one finds that there is an excess of 
+1 1 1,528 undocumented children in the DOF's estimate. 
+
+
+
+
+3 
+
+
+
+2 
+
+
+
+
+Proposition 187, the “Save our State” initiative originated in this political context in which 
+political actors with a commitment to make undocumented immigration a priority electoral issue 
+were successful in taking advantage of a negative public opinion concerning this problem. 
+Supporters of Proposition 187 seek to challenge the Supreme Court’s 1982 decision in Plyler vs. 
+Doe. In a 5 to 4 decision, the Supreme Court ruled that states could not deny public education to 
+children who were not legally admitted to this country. 
+
+Proposition 187 prohibits the provision of publicly funded social services to 
+undocumented persons residing in California. In order to achieve this purpose, it contains five 
+important measures regarding the provision of education, health care and other social services, 
+law enforcement and the use of false immigration or citizenship documents. 
+
+Public Elenicntary and Secondary Schools 
+
+Proposition 187 includes provisions that prohibit public schools from admitting and 
+allowing the attendance of children who are not: (1) citizens of the United States; (2) aliens 
+lawfully admitted as permanent residents; and, (3) aliens admitted lawfully for a temporary period 
+of time. Starting in January 1, 1995, each school district must verify the legal status of each child 
+enrolling in the district for the first time. By January 1, 1996, each school district must also verify 
+the legal status of every child already enrolled in the district as well as that of the parents or 
+guardians of those students. If the district determines or “reasonably suspects” that a student, 
+parent or guardian is not legally in the United States, then the district must take the following 
+steps: (1) Within 45 days, it must report the apparent undocumented status of the person to the 
+Superintendent of Public Instruction, the Attorney General, the Immigration and Naturalization 
+Service and the affected parent or guardian. (2) Provide 90 days of additional instruction to 
+undocumented students in order to accomplish an orderly transition to a school in the student’s 
+country of origin. 
+
+Public Postsecondarv Education 
+
+The measure also prohibits public postsecondary educational institutions from enrolling or 
+permitting the attendance of students who are not in the United States legally. Under the 
+measure, each institution would be required to verify the legal status of every student at the 
+beginning of every term after Januaiy 1, 1995. 
+
+
+
+Health Care and Social Services 
+
+
+
+The measure limits the provision of public social services and of publicly funded health 
+care (except emergency care required by federal law) only to those persons who are citizens of the 
+United States or lawfully admitted aliens. Agencies must notify the state Department of Social 
+Services or the Department of Health Services as well as the state Attorney General and the 
+Immigration and Naturalization Service regarding the applicant’s undocumented status and 
+provide any additional requested information. 
+
+Law Enforcement Agencies 
+
+The measure requires every law enforcement agency in the state to attempt to verify the 
+legal status of every arrestee who is suspected of being in the United States illegally, to notify the 
+Attorney General and the Immigration and Naturalization Service of the apparent illegal status of 
+arrestees. 
+
+New Crimes 
+
+
+
+Proposition 187 creates two new state crimes. Specifically, it makes the manufacture of 
+false immigration or citizenship documents a felony punishable by a fine of $ 75,000 or 
+imprisonment for five years. It also makes the use of false immigration or citizenship documents a 
+felony punishable by a fine of $ 25,000 or a five-year prison term. 
+
+The purpose of this pap'^r is threefold: (1) to describe the socioeconomic causes that led 
+to the emergence of proposition 187; (2) to examine the assumptions behind the proposition and 
+its alleged effectiveness as a deterrent to undocumented immigration; and (3) to review the 
+current social science literature that challenges the assumptions of the proposition in the current 
+socioeconomic context of California. 
+
+
+
+5 
+
+
+
+4 
+
+
+
+O 
+
+
+
+I 
+
+
+
+PROPOSITION 187: AN ANALYSIS OF ITS CAUSES 
+
+
+
+In addition to the role played by restrictionist individuals and organizations with record of 
+presenting proposals to legislature, the emergence of Proposition 187 has been also partly the 
+result of the following trends; 
+
+
+
+1 ) The changing geographic patterns of immigration to the United States that took place 
+in the last two decades. 
+
+2) Failure of immigration law to deter illegal immigration, especially the Immigration 
+Reform and Control Act of 1986 (IRCA). 
+
+3) The publication of advocacy reports to support the alleged negative economic impact 
+of illegal immigration on the U.S. economy. 
+
+
+
+1) Changing geographic patterns of immigration to the United States (1970 - 1990) 
+
+
+
+International immigration to the United States has experienced a dramatic change in the 
+last twenty years. Unlike in the past when most immigrants arrived from Europe, the vast 
+majority now comes from developing countries in Asia and Latin America. Table 1 shows that 
+legal immigration from Europe has declined substantially while legal immigration from Central 
+America, Mexico, Africa, and Asia has grown rapidly in the period 1971-1990. 
+
+
+
+b 
+
+
+
+I i jai ^ w P I g iio g.. J.i.. . j.j im A ii j 
+
+
+
+
+
+
+Tabic 1 
+
+Legal Immigration to the US by Region of Last Residence, 
+1971-80 and 1981-90. 
+
+
+
+
+
+1971-80 
+
+
+1981-90 
+
+
+% Change 
+
+
+Europe 
+
+
+800,368 
+
+
+761,550 
+
+
+-4.9 
+
+
+Asia 
+
+
+1,588,178 
+
+
+2,738,157 
+
+
+72.4 
+
+
+North America 
+
+
+
+
+
+
+
+
+Mexico 
+
+
+640,294 
+
+
+1,655,843 
+
+
+158.6 
+
+
+Canada 
+
+
+169,939 
+
+
+156,938 
+
+
+-7.7 
+
+
+Caribbean 
+
+
+741,126 
+
+
+872,051 
+
+
+17.7 
+
+
+Central America 
+
+
+134,640 
+
+
+468,088 
+
+
+247.7 
+
+
+South America 
+
+
+295,741 
+
+
+461,847 
+
+
+56.2 
+
+
+Other in America 
+
+
+995 
+
+
+458 
+
+
+-54.0 
+
+
+Africa 
+
+
+80,779 
+
+
+176,893 
+
+
+119.0 
+
+
+Oceania 
+
+
+41,242 
+
+
+45,205 
+
+
+9.6 
+
+
+Not specified 
+
+
+12 
+
+
+1,032 
+
+
+8500.0 
+
+
+Total 
+
+
+4,493,314 
+
+
+7,338,062 
+
+
+63.3 
+
+
+
+Source: Statistical Yearbook, of the Immigration and Naturalization Service. 1 991. 
+(INS, 1992). 
+
+
+
+A more liberal immigration legislation that began in the mid-1965s has given rise to a more 
+diversified pool of legal immigrants as shown in Table 1 . In 1965, the Immigration and 
+Nationality Act abolished the national origins quota system established in 1924, thus eliminating 
+national origin, race or ancestry as a basis for immigration to the United States. However, this 
+legislation maintained the principle of numerical restriction, limiting Eastern Hemisphere 
+immigration to 170,000 persons per year and for the first time placing a ceiling on Western 
+Hemisphere immigration of 120,000 persons. In addition, the act provided a 20,000 persons per 
+country limit and also established seven categories for relatives of US. citizens and permanent 
+residents (fov the reunification of families) and for persons with special occupational skills needed 
+in the US. Immediate relatives of US. citizens and special immigrants (certain ministers of 
+religion, certain former employees of the US., etc.) were not subject to numerical restrictions. 
+However, at the end, neither the preference system nor the per-country limit were applied to the 
+Western Hemisphere (U.S. Immigration and Naturalization Service, 1992; A. 1.14-1 5). 
+
+During the 1980s, legal immigration from Central America reached the highest rate of 
+growth of all regions primarily because of the civil wars in El Salvador, Nicaragua and 
+Guatemala. In addition to this, during this period of time a large number of immigrants from 
+Mexico and other countries became legal residents thanks to the enactment of the Immigration 
+
+
+
+
+
+
+
+
+
+Reform and Control Act of 1986 (IRC A) that included a liberal legalization program that 
+benefited a substantial portion of the undocumented population already living in the United States 
+
+
+
+2) Failure of immigration law to deter illegal immigration especially IRCA^ 
+
+
+
+The image of the unstoppable flow of undocumented immigrants has intensified with the 
+realization that IRCA failed to reduce illegal immigration. In 1986, US Congress enacted IRCA 
+that contained three principal measures: (1) an amnesty for undocumented workers already 
+residing in the United States, (2) sanctions against employers who knowingly hire undocumented 
+workers, and (3) increased enforcement at US. borders. The amnesty was administered under 
+two programs: The Section 245A program commonly known as the "general amnesty" program 
+that was intended for persons who had lived continuously in the United States since January 1, 
+1982 , and, the Special Agricultural Workers (SAW) program was designed for people who 
+worked 90 days in perishable agriculture between May 1985 and May 1986. 
+
+Congress passed IRCA to stem the flow of illegal immigration. Its supporters argued that 
+this legislation would solve the illegal immigration problem since it contained measures that would 
+affect both the supply and the demand side of the process, besides providing a generous amnesty 
+program that would benefit a large number of undocumented people who were already in this 
+countp. However, there is a growing consensus that IRCA has not brought about the sought- 
+after reduction of undocumented immigration from Mexico. Apprehensions at the border —an 
+imprecise measure of actual flows but a good indicator of trends— rose sharply in 1990, showing 
+that the reduction in the number of apprehensions observed between 1987 and 1989 was only a 
+fleeting result of legalization. 
+
+In addition, several academic studies have found little evidence that the new law has 
+deterred illegal immigration. In a study conducted in three traditional sending communities in 
+Western Mexico in 1988, Cornelius (1990) found no evidence that IRCA had reduced the 
+traditionally heavy flow of workers to the United States; on the contrary, he found that IRCA 
+seemed to have augmented that flow, at least in the short term, through the legalization programs. 
+Bean, Edmonston and Passel (1990) concluded that the studies they collected generally suggested 
+a decrease in the flow of illegal migrants as a result of IRCA. However, they indicated that a 
+large proportion of this decrease was due to the legalization programs and that some recent data 
+suggested that undocumented migration flows continued to grow in the post-IRCA period. 
+Donato and her associates (1992) more emphatically stressed the failure of IRCA. Their study 
+
+^ This section is taken from Alarcon (1994a). 
+
+
+
+0 
+
+
+
+7 
+
+
+
+based in seven Mexican communities showed little evidence that IRCA had significantly deterred 
+undocumented Mexican migration. In their view, the few small effects that they uncovered were 
+little to show for the millions of dollars and thousands of hours that IRCA invested in an effort to 
+stem the tide of Mexican migrants to the United States. 
+
+In this context, President Carlos Salinas de Gortari in 1991 proposed the establishment of 
+a North American Free Trade Agreement (NAFTA) that, among other things, would bring about 
+a reduction of immigration from Mexico because "Mexico prefers to export its products rather 
+than its people." President Salinas considered NAFTA essential for the creation of jobs in Mexico 
+that would reduce the pressures for emigration to the United States. 
+
+The debate over the ratification of NAFTA, which Congress narrowiy approved in 
+November of 1993, generated a number of studies that examine the agreement's effects on 
+migration patterns from Mexico. Calva (1991), for instance, foresees a chaotic situation for 
+Mexico as a result of NAFTA. In his opinion, free trade in agricultural and livestock products 
+will cause the virtual demise of Mexico's domestic production of its most important grains (corn 
+and beans) since their production costs in Mexico are higher than those in the United States and 
+Canada. Calva predicts that this liberalization of agricultural trade \vill eliminate 10 million 
+cultivated hectares in Mexico, which in turn will lead to the emigration of three million campesino 
+families who depend on the production of these grains. In Calva's view, if NAFTA permitted the 
+free mobility of those expelled from the rural areas, nearly 15 million people would go to the 
+United States and Canada. But since these governments are not willing to receive these displaced 
+workers, they will emigrate clandestinely or go to Mexican cities where there are already 9 million 
+people unemployed. 
+
+On the other hand, Cornelius and Martin (1993) argue that, even with the anticipated 
+dislocations in small-scale agriculture, future levels of total Mexican migration to the United 
+States (both legal and illegal) tvill increase in the absence of trade liberalization. The authors 
+provide four reasons to explain why Mexican emigration may not increase significantly despite 
+restructuring and displacement from traditional agriculture. First, many rural dwellers already 
+have diversified their sources of income, making them less dependent on income earned from 
+producing agricultural commodities. Second, a free trade zone \vill induce more U.S. agricultural 
+producers to expand in Mexico in the 1990s, creating additional jobs there, instead of in the 
+United States as they did in the 1980s. Third, the links between internal and international 
+migration are not as direct as is often assumed, so that, even if economic restructuring increases 
+internal migration, this shift may not translate into a great deal of international migration. Finally, 
+following the European experience, free trade and economic integration can be staictured so as 
+not to cause significant emigration. 
+
+
+
+
+
+
+8 
+
+
+
+o 
+
+
+
+Hinojosa-Ojeda and Robinson (1992), analyzing economic models that address the 
+potential effects of NAFTA on wages and employment in Mexico and the United States, conclude 
+that while complete liberalization will increase U.S. agricultural exports to Mexico, this will also 
+speed up out-migration from rural areas of people who will show up in Mexican urban and U.S. 
+labor markets. For this reason they propose a long transition period for Mexican agriculture to 
+allow time for needed infrastructure investments in rural areas and to smooth the process of labor 
+absorption in the Mexican industrial sector. 
+
+
+
+3) The publication of advocacy reports to support the alleged negative economic 
+impact of illegal immigration on the U.S. economy 
+
+
+
+, Unlike several studies in the past that argued that immigrants in general have a positive 
+effect in the U.S. economy, several economists have begun to change this image. In particular, 
+George Boijas, an economist from UC San Diego, has been very influential in changing the 
+perception of the impact of legal and illegal immigrants on the U.S. economy. He argues that the 
+United States has become an importer of relatively unskilled labor and that ir migrants in recent 
+waves, have relatively less schooling, weaker labor market attachment, higher unemployment 
+rates, lower wage rates, higher poverty rates, and higher rates of welfare participation than 
+immigrants in the waves that arrived in the 1950s and 1960s. In sum, according to Boijas (1990: 
+219) immigrants do not perform as well in the U.S. labor market as do natives, or as did earlier 
+immigrants. 
+
+Boijas (1990: 97-1 14) contends that the pioneering study contrasting the earnings of 
+immigrants to those of their native counterparts, conducted by Chiswick (1978) gave a tvrong 
+impression of the assimilation process of immigrants. According to Boijas, the Chiswick's study 
+and other similar works were extremely influential in forming the current conventional wisdom 
+that legal immigrants perform quite well in the U.S. economy and therefore assimilate "too well." 
+
+The results of Chiswick's study indicate that at the time of entry into the United States, the 
+annual earnings of men are 1 5 percent lower than the earnings of natives with the same 
+demographic characteristics. However, the earnings of immigrants grow at a much faster rate 
+than earnings parity between the two groups is reached about fourteen years after amval. After 
+thirty years, the typical immigrant actually earns 10 percent more than a demographically 
+comparable native. Boijas argues that the results of this study came from a comparison of the 
+! 969 earnings of newly arrived immigrants with the 1969 earnings of immigrants who arrived ten 
+or twenty years earlier. He questions whether the cross section observation reflects immigrant 
+
+
+
+I 0 
+
+o 
+
+ERIC 
+
+
+
+9 
+
+
+
+assimilation or the possibility that recent immigrant waves are substantially different from earlier 
+waves. A statistical analysis that tracks specific immigrant cohorts across various censuses shows 
+that at the time of entry into the United States (at age twenty) men who migrated between 1975 
+and 1979 earned 21 percent less than comparable natives. After twenty years the wage gap vvdll 
+narrow to 13 percent, but even after forty years in the United States the predicted wage 
+differential will be 12 percent. By contrast, immigrants who arrived in the United states between 
+1960 and 1964 entered the labor market with a wage disadvantage of 10 percent, and the wage 
+gap disappeared after about two decades. Wage parity remains until retirement age. 
+
+Based on his own research, Boijas argues that the socioeconomic characteristics of 
+immigrants (mainly education, English-language proficiency, etc.) have deteriorated significantly 
+in the last two or three decades and for this reason the actual wage of recent immigrants will 
+remain far below that of natives throughout their entire working lives. 
+
+Boijas (1990:151) also argues that a relatively generous welfare system increases the 
+attractiveness of America's offer in the immigration market particularly for those potential 
+migrants most likely to qualify for public assistance. "America of the 1980s is vastly different 
+from America of the 1880s. Now we have social service and welfare programs that are easy to 
+deceive and exploit. We have a cash-wage economy with high unemployment, vastly different 
+from the empty frontier that greeted previous immigrants. And we have a new social phenomenon 
+wherein all groups can "demand" almost instant entry into the American middle class, not as a 
+result of hard work but as a matter of entitlement (Boijas, 1990:151). 
+
+In this vein. Huddle (1993b) argues that the 7.4 million immigrants settling legally and 
+illegally in California since 1970 caused total net public assistance costs to California taxpayers in 
+1992 of $ 18.1 billion in excess of the $ 8.9 billion immigrants paid in taxes. Included in the 
+$18.1 billion is $ 4.2 billion for costs of assistance to 914,000 California residents unemployed in 
+1992 because of immigration. Passel (1994) provides a very intelligent critique of the studies 
+conducted by Huddle (1993a and 1993b). 
+
+The fiscal impact of undocumented persons on local and state governments has been 
+examined in two cost-benefit studies conducted in San Diego and Los Angeles Counties. 
+
+The San Dieeo Countv Study fRea and Parker. 1992) 
+
+This study found that the cost to State and local governments associated vvath processing 
+undocumented immigrants through the criminal justice system and with providing health services, 
+education and social services for this population is $ 206,41 1,969. The state and local 
+governments’ revenues associated vvith tax receipts derived from the employment and consumer 
+
+
+
+11 
+
+
+
+10 
+
+
+
+o 
+
+
+
+spending of undocumented immigrants is $ 60,490, 124. Thus, the excess of costs over revenues 
+is equal to $ 145,921,845. 
+
+According to this study, an average of 1 1 ,954 undocumented immigrant children are being 
+educated in public elementary and secondary schools in San Diego County annually. These 
+students represent 3.1% of the total San Diego Cointy student population and 19.0 % of all 
+students categorized as Limited English Proficient (LEP). The annual average costs of providing 
+basic education to these undocumented immigrant students is $ 49,214,61 8. 
+
+
+
+The Los Angeles County Study (ISD. 19921 
+
+Based on demographic estimates, this study found that recent immigrants, legal 
+immigrants, amnesty persons, undocumented persons and the citizen children of undocumented 
+persons accounted for about 25 percent of total population in Los Angeles County as of January 
+1992, as shown in the next table: 
+
+
+
+Size of Immigrant Groups and the Rest of Population in Los Angeles County, 
+January 1, 1992. 
+
+
+
+Recent Legal "mmigrants 
+
+
+630,000 
+
+
+6.9% 
+
+
+Amnesty Persons 
+
+
+720,000 
+
+
+7.8% 
+
+
+Undocumented Persons 
+
+
+700,000 
+
+
+7.6% 
+
+
+Citizen Children of Undocumented 
+
+
+250,000 
+
+
+2.7% 
+
+
+SUBTOTAL 
+
+
+2,300,000 
+
+
+25.0% 
+
+
+Rest of Population 
+
+
+6,890,000 
+
+
+75.0% 
+
+
+TOTAL 
+
+
+9,190,000 
+
+
+100% 
+
+
+
+The study found that estimated net county costs for services provided to recent legal 
+immigrants, amnesty persons, undocumented persons and their citizen children exceeded 
+estimated county revenues generated from them in fiscal year 1991-92, as shown below. When 
+comparing net County costs with revenues, it should be noted .hat revenues paid by businesses 
+were not counted: 
+
+
+
+Net County costs experienced 
+County revenues generated 
+Difference 
+
+
+
+$ 946,706,000 
+$ 139,100,000 
+$ 807,606,000 
+
+
+
+1 
+
+
+
+‘y 
+
+
+
+o 
+
+
+
+11 
+
+
+
+Educational costs for the three immigrant groups accounted for $ 1.5 billion, (23%) of 
+total school districts cost in Los Angeles County. ^ The estimated costs for the studied 
+populations compared to the rest of the population in 1991-1992 were as follows: 
+
+
+
+According to the study, the three immigrant groups and the citizen children of 
+undocumented persons’ share of total net county costs was 3 1 percent which exceeds both their 
+25 percent share of County’s population and 10 percent share of total County revenues. 
+
+Fix and Passel (1993: 5) state that these studies have been produced by government 
+agencies interested in "recovering” the costs of immigrants and non-profit groups committed to 
+reducing levels of immigration. The results of these studies uniformly find that immigrants impose 
+fiscal burdens on governments and native-born taxpayers. Their own review has found that the 
+studies vary in quality, but the results invariably overstate the negative impacts of immigrants for 
+the following reasons; 
+
+- They systematically understate tax collections from immigrants 
+
+- They systematically overstate service costs for immigrants 
+
+- None credit immigrants for the impact of immigrants-owned businesses or the fiall 
+economic benefits generated by consumer spending from immigrants 
+
+- Job displacement impacts and costs are overstated 
+
+- They omit parallel computations for natives that, when done, show natives are net 
+tax users, too 
+
+- The size of the immigrant population - particularly the undocumented immigrant 
+population - is overstated. 
+
+^ Overall, an estimated 61 percent of school district's funding come from state funds, 2 percent from lotter>’ 
+
+funds, 2 1 percent from local propertj’ tax levies, 8 percent from federal funds and 9 percent from other local 
+sources. 
+
+
+
+Recent Legal Immigrant Children 
+Amnesty Children 
+Undocumented Children 
+Citizen Children of Undocumented Persons 
+
+
+
+$331,100,000 
+$ 123,500,000 
+$ 367,900,000 
+$ 662,300,000 
+
+
+
+5.1% 
+
+1.9% 
+
+5.7% 
+
+10.3% 
+
+
+
+SUBTOTAL 
+
+
+
+$ 1,484,800,000 
+
+
+
+23.0% 
+
+
+
+All Other Children 
+
+
+
+$ 4,972,700,000 
+
+
+
+77.0% 
+
+
+
+TOTAL 
+
+
+
+$ 6,457,500,004 
+
+
+
+100 . 0 % 
+
+
+
+12 
+
+
+
+
+O 
+
+
+
+Of the studies reviewed, the Los Angeles County study (ISD, 1992) seems to be the most 
+careful and uses the best demographic assumptions regarding, for example, the number of illegal 
+immigrants. Still, when evaluated, the study: 
+
+- Understated revenues from immigrants by much as 30 percent because the study 
+underestimated the income of recent legal immigrants; 
+
+- Omitted the contribution of long-term legal immigrants, who represent 1 5 percent of the 
+population and pay 18 percent of the taxes; 
+
+- Overstated costs for recent legal immigrants by 60 percent or about $140 million 
+
+- Failed to clarify the county-level "deficit" for natives is larger than for immigrants. 
+
+In the same vein. Fix and Passel (1993) argue that the two studies of San Diego County by 
+Rea and Parker (1992,1993) employ methods and assumptions that overstate costs and 
+underestimate revenues. In this sense, the authors of the San Diego study assume that there are 
+far more undocumented aliens in San Diego Coumy - over 200,000 - than is plausible or can be 
+supported by data. This figure would imply, by the authors' own reasoning, over 4 million 
+undocumented in California and 8-12 million in the United States, numbers which exceed by far 
+any creditable estimates. 
+
+
+
+II A CRITIQUE OF THE GENERAL ASSUMPTIONS BEHIND PROPOSITION 187 
+
+
+
+The effectiveness of Proposition 187 to deter undocumented immigration to California lies 
+on three main assumptions about the immigration process to California; 
+
+
+
+1) Illegal immigrants are not well integrated into society in California, therefore they can 
+easily be deported to their countries of origin. 
+
+2) Since education and social services in general function as a magnet for large 
+numbers of undocumented immigrants, limiting the access of undocumented 
+persons to these services will discourage further undocumented immigration. 
+
+3) There are “illegal families” in California which can be detected and easily deported when 
+they apply for public education or any other social service. 
+
+
+
+13 
+
+
+
+O 
+
+
+
+These assumptions contradict some of the most important features of current immigration 
+patterns to California. Research in the social sciences has revealed that: (1) Labor migration is 
+fundamentally a social process based on social networks. As a result of the formation of 
+personal, social, and economic ties with the receiving society, increasingly legal and 
+undocumented migrants are becoming “settlers” rather than sojourners” in California. This 
+change also reflects transformations in labor markets in sending and receiving regions. (2) The 
+denial of education will not force the return of many undocumented persons because 
+undocumented migrants primarily come to work to California. In addition, the disparity in 
+economic conditions between the United States and sending countries not only encourages further 
+migration but also prevents the return of already settled immigrants in the United States. (3) 
+
+Many immigrant families in California are mixed-status families in which there are citizens, legal 
+residents and undocumented persons. This process has been accelerated by the legalization 
+brought about by IRCA. 
+
+As a result of all these trends, a large segment of the undocumented workers residing in 
+California are people who are here for a more permanent stay because they have deep roots in 
+their communities. Consequently, it is unlikely that these people would go back to their countries 
+of origin even if education were denied in California. In light of the assumptions implied in 
+proposition 187, these three arguments are developed in depth in the following section. 
+
+
+
+1. Labor Migration; A Social Process based on Social Networks'* 
+
+
+
+According to Massey et al (1987: 5) the idea that social networks are central to migration 
+is not new. Research in the 1920s, demonstrated a tendency for migrants from particular sending 
+areas to be channeled to specific districts in American cities (Zorbaugh, 1929; Gamio, 1930). 
+Similarly, Tilly and Brown (1967) refer to the “auspices” of migration by which they mean “social 
+structures which establish relationships between the migrant and the receiving community before 
+he moves.” Others have called these relationships “migration chains.” (Me Donald and Me 
+Donald, 1974; Graves and Graves, 1974; Tilly, 1978). Anthropological studies have long 
+emphasized the importance of assistance provided to migrants by relatives and friends (Magnin 
+1959, 1970; Jongkind, 1971; Lomnitz, 1975; Arizpe, 1978; Roberts, 1973, 1974, 1978). 
+Economists have also demonstrated the importance of network connections in household 
+migration decisions (Stark and Levhari, 1982; Taylor, 1984). 
+
+
+
+This analysis of migration as a social process is a summary of hlasscy ct al. (1987). 
+
+
+
+O 
+
+ERIC 
+
+
+
+15 
+
+
+
+14 
+
+
+
+Social Networks and the Formation of Linkages with the Host Society 
+
+
+
+From this perspective, it has been observed that once international migration begins, social 
+networks develop to make foreign employment increasingly accessible to all classes of the sending 
+society. Similarly, the maturation of migrant networks is facilitated by an ongoing process of 
+settlement, whereby migrants build personal, social, and economic ties to the receiving society as 
+they accumulate time abroad. 
+
+Migrant networks consist of social ties that link sending communities to specific points of 
+destination in receiving societies. These ties bind migrants and nonmigrants within a complex web 
+of complementary social roles and interpersonal relationships that are maintained by an informal 
+set of mutual expectations and prescribed behaviors. The social relationships that constitute 
+migrant networks are not unique to migrants but develop as a result of universal human bonds 
+that are molded to the special circumstances of international migration These social ties are not 
+created by the migratory process but are adapted to it and over time are reinforced by the 
+common experience of migration itself 
+
+The most important network relationships are based on kinship, friendship, and paisanaje 
+(common origin) which are reinforced though regular interaction in voluntary associations. In 
+moving to a strange and often hostile land, migrants naturally draw upon these familiar bonds to 
+share the hazards and hardships of life in exile, and those left behind rely on the same ties to 
+mitigate the loneliness and anxiety of having a loved one far away. As migration continues, 
+however, these well-known social connections acquire new meanings and functions. They are 
+transformed into a set of social relationships whose content and meaning are defined about what it 
+means to be a friend, relative or paisano within a community of migrants. Eventually these 
+understandings crystallize into a set of interrelationships that define the migrants network. 
+
+Kinship forms one of the most important bases of migrant social organization and family 
+connections are the most secure bonds within the networks. The strongest relationship are 
+between male migrants interacting as fathers and sons. Faced with a hostile and alien 
+environment, father and sons develop well-established conventions of mutual aid and cooperation 
+in the United States, practices that transcend the stream household itself Long after sons have 
+grown up to form their own families, fathers travel with them to El Norte, sharing the hardships 
+and risks of undocumented life. From this common experience, the paternal bond is strengthened, 
+and a new relationship between migrant fathers and sons develops, one that carries over into the 
+home community. Throughout their lives, migrant fathers and sons are more likely to offer 
+assistance, information, and services to one another. 
+
+
+
+lb 
+
+
+
+15 
+
+
+
+Migrants brothers also establish a mutual collaboration that builds on and strengthens the 
+fraternal tie. Facing many demands for assistance, from various friends and relatives while 
+abroad, migrants naturally display a preference for the tie of brotherhood. Between brothers there 
+is continual exchange of favors and help, one that cannot be measured in money alone. To a 
+brother arriving in the United States without money, job, or documents, a series of obligations is 
+owed. A place to stay, help in getting a job, the loan of money, or payment for the trip are just a 
+few examples of how the ties of brotherhood are extended and tested in the migrant context. The 
+next most important family tie within migrants networks is that between a man and his brother's 
+sons. The strong relationships that brothers expect and maintain with respect to each other also 
+extends to their sons. Nephews are thus given preference over other relations in the offering of 
+assistance. Arriving in the United States for the first time a young man can generally count on the 
+aid of his uncle; or an uncle may take it upon himself to accompany a young man on his first trip 
+to el Norte. These ties also carry over to relationships between cousins. Among cousins linked 
+though a common male relative there is a strong family identification, one reinforced by traditional 
+practices of coresidence and mutual assistance between brothers . 
+
+These kinship connections are reinforced though frequent interactions on important 
+ceremonial occasions. Ritual associated with life milestones are specially important in linking 
+settled migrants in the United States with their relatives back home. A wedding, a baptism, or the 
+quince anos (fifteenth birthday) of a daughter provide opportunities for reuniting family members 
+separated by migration. Relatives from Mexico are invited to share in the festivities, and friends 
+and acquaintances from the home community who happen to be in the United States are also 
+asked to join in, expanding the possibilities for communication and interchange. In this way, 
+settled U.S migrants lend greater permanence and coherence to the networks. 
+
+Kin assistance is generally extended freely and openly up through parallel cousins. Among 
+relatives more distant than these, the strength of ties falls off rapidly, however, and their roles in 
+the migratory process are correspondingly smaller. The most important kin relationship in migrant 
+networks are those between fathers and sons, uncles and nephews, brothers and male cousins. 
+Beyond these relationships, expectations more appropriate to friendship are relevant in governing 
+behavior between two migrants. 
+
+Friendship . Because of its explosive growth, migration has outgrown a social 
+organization based solely on the limited confines of kinship, and networks have increasingly 
+incorporated other close social relationships. The closest bonds outside the family are those 
+formed between people as they grow up together. These are typically friendships between people 
+of roughly the same age who lived near one another and joined together in play and shared 
+formative experiences in church, school, or organized sports. If migration becomes frequent 
+
+
+
+among a group of friends from the same community, their relationship will eventually overlap with 
+other circles of friends with whom they are brought into frequent contact. 
+
+Paisanaie. The feeling of belonging to a common community of origin or paisanaje is 
+different from the other social relationships we have discussed in that it is dimension of 
+association in the home community. Origin from the same place is not a meaningful basis of 
+social organization for people while they are at home. In general, within the community itself, the 
+concept of paisanaje does not imply any additional rights and responsibilities to other paisano that 
+are not already included in the relationships of friend, family member or neighbor. It is not 
+meaningful concept until two paisanos encounter each other outside their home community. Then 
+the strength of the paisanaje tie depends on the strangeness of the environment and the nature of 
+their prior relationship in the community. 
+
+Given the cultural distance between Mexico and the United States and the large number of 
+Mexican migrants living and working abroad, it is not surprising that paisanaje has become an 
+important social relationship in recent years. Common origin creates a strong communal identity 
+among migrants in the United States. In an unknown, alien, and often threatening milieu, migrants 
+share a variety of life experiences that draw them together in the pursuit of common goals. 
+Although this sense of paisanaje naturally depends on the nature of migrants' past interactions, 
+they often produce new forms of association that not only promote the cohesion of migrants in 
+the United States but also facilitate their reintegration into the community. 
+
+The best example of how the paisanaje operates as integrative force is the annual fiesta 
+held in honor of each town's patron saint. The patron saint, of course, is the personification of 
+paisanaje, the symbolic representation of the town for all its citizens. The celebration held each 
+year to commemorate the patron saint is thus more than a religious holiday. It is a reaffirmation 
+of the community and its people. As such, fiestas have always represented an important 
+integrative mechanism in rural Mexican society. With the advent of U.S. migration, however, the 
+symbolic value of the patron saint has been shaped to the new reality of a migrant community, and 
+the traditional importance of the fiesta has been greatly enhanced. 
+
+
+
+Voluntary organizations 
+
+Thus far we have considered various social relationships that make up the migrant 
+networks, but not less important are certain institutional mechanisms that facilitate the formation 
+and maintenance of social ties. A variety of voluntary associations established by migrants in the 
+United States promote regular interpersonal contact, greatly facilitating the process of adaptation 
+and mutual assistance. Although migrants belong to many organizations, probably the most 
+
+
+
+important is the soccer club that has risen to support international migration in many communities 
+of Western Mexico, the traditional sending region. 
+
+Soccer games break up the routine of work and isolation and provide a forum for 
+communication and interchange. Migrants share experience of the past week, discuss events of 
+general interest in the town or in other places where paisanos go in the United States, and 
+exchange information about job opportunities. Everyone enjoys the conviviality, and they all share 
+expenses for refreshments and foods. 
+
+
+
+Formation of Daughter Communities 
+
+The emergence of established communities in the United States is a crucial step in the 
+maturation of the migrant networks. The settlement of a few families from the same place in 
+Mexico transforms the migration process by directing the streams to work sites in particular U.S. 
+towns and cities. Around these families a socioeconomic organization grows, drawing subsequent 
+migrants in ever increasing numbers to the specific points of destination. 
+
+The channeling of migrants occurs as social networks focus increasingly on specific 
+communities. As “daughter” settlements of Mexican out-migrants develop, the social 
+infrastructure linking them to the parent communities becomes more directed and reified and the 
+network becomes self-perpetuating. More migrants move to a particular place because that is 
+where the networks lead, and because that is where the social structure affords them the greatest 
+opportunities for success. As more migrants arrive, the range of social connections is further 
+extended, making subsequent migration to that place even more likely. 
+
+Social networks are essential elements in the integration to a new host society. However, 
+Menjivar (1994: 22) has found that the particular characteristics of immigration from El Salvador 
+prevented the formation of social networks that ultimately explain why Salvadorians have had 
+many problems adjusting to life in San Francisco, in addition to exacerbated impoverished 
+conditions. According to the author, recent immigrants from El Salvador have come to face a 
+recessionary economy that offers bleak opportunities for employment for themselves as well as for 
+their relatives already in the U.S. who otherwise might have supported them. In addition, the 
+community is highly divided politically. This explains why compatriots and others with whom 
+migrants could establish community networks are also struggling to cope with difficult aspects of 
+life in the United States. Consequently, those upon whom they expected to rely for aid, are not 
+always in a position to support them financially or emotionally. In many cases, once Salvadorian 
+migrants join family members in the United States, the assistance they had received in the early 
+stages of migration process disappear and instead, a series of hostile relations develop. 
+
+
+
+This section has shown that networks, a form of social capital, is an essential part of the 
+migration process and that the maturation of social networks leads to the creation of daughter 
+communities in the United States that in turn facilitate the process of settlement, whereby 
+migrants build personal, social and economic ties to the receiving community as they accumulate 
+time abroad. In the next section I will argue that the settlement process is a natural consequence 
+of the development of labor migration, as migrants over time, establish strong socioeconomic 
+linkages in the United States. These ties prevent migrants from returning to their countries of 
+origin. 
+
+
+
+The Settlement Process 
+
+Mexico provides the largest number of undocumented people to the United States. The 
+proximity between the two countries has allowed the development of a temporary pattern of 
+migration in which males, usually young, have worked for a certain period of time or seasonally 
+for a few years and then they usually return to Mexico. However, several studies have suggested 
+that since the 1980s, migration from Mexico has become more permanent and heterogeneous in 
+terms of settlement patterns, gender, legal status and employment experience (Cornelius, 1992; 
+Chavez, 1988, Alarcon, 1992). 
+
+Between the mid 1960s, after the termination of the Bracero Program, and up to the mid 
+1980s, Mexican migrants followed a pattern of migration that resembled that of the Braceros. 
+Cornelius (1992; 156-157), describes this pattern as a circular flow of mostly undocumented 
+young adult males who left their families behind in a rural community to work in seasonal U.S. 
+agriculture for six months or less and then returned to their community of origin. Most came 
+from a small subset of communities, located in seven or eight Mexican states that for many years 
+had sent the bulk of Mexican migrants to the United States. Cornelius (1992:157) argues that the 
+erosion of the stereotypic illegal alien population, which probably began in the late 1960s or early 
+1970s has been intensified during the last ten years by four principal factors: (1) changes in the 
+U.S. economy that have affected the nature and magnitude of the demand for Mexican immigrant 
+labor, (2) the long-running economic crisis in Mexico, (3) the 1986 U.S. Immigration Reform and 
+Control Act (ERCA), and, (4) the maturation of transnational migrant networks, whose formation 
+was initiated by earlier waves of migrants to the United States. 
+
+How can we understand the settlement process of migrants ? 
+
+In his seminal work Birds of Passage, Piore (1979) defines settlement as the development 
+of a permanent commitment to the industrial society on the part of the migrants. The migration 
+stream that starts out as temporary seems to develop over time into settlement of more or less 
+
+
+
+
+19 
+
+
+
+
+
+
+permanent residents. For this reason, although migration has a temporary character a nucleus of 
+more or less permanent migrants seems inevitably to occur. In a superficial perspective, 
+settlement can be understood in terms of the success or failure of the migrants in the industrial 
+society. The conventional view tends to see settlement as success, people who do well stay. 
+However settlement can also be the product of failure since migrants stay when they can not 
+accumulate enough funds for whatever project at home. 
+
+In this process, the individual migrant evolves from being homo economicus to a stage in 
+which a permanent community of immigrant families establishes stable linkages with the labor 
+market in their demand for permanent jobs. In the first stage, immigrants view work as purely 
+instrumental; a means to gather income that can be taken to the home community, however as 
+time passes the need for community grows among immigrants and begin to anticipate their 
+inability to maintain the ascetic existence they had originally planned and they begin to bring their 
+wives and children from home. 
+
+Massey (1986; 671-683) believes that data collected from migrants in four Mexican 
+communities confirms the model postulated by Piore. Mexican immigrants become progressively 
+enmeshed in a web of social connections in the United States as they build up time in this country 
+and, in this process, they eventually settle in the United States. While migrants form friendship 
+outside the group and family members begin traveling with them, they become more involved with 
+public institutions and informal organizations. At the same time, migrants acquire more stable 
+urban jobs and the share of earnings sent home falls as they shift their focus from Mexico to the 
+United States. 
+
+In addition to this, Chavez (1988) argues that even for undocumented workers, the 
+formation of a family begins a process that leads to eventual settlement. These families become 
+binational with the arrival of children who are American citizens and therefore have the right to 
+obtain social services and education that reinforce the links to the United States. Taking this 
+further, Hondagneu (1990) has found that within the household, men and women express different 
+preferences with respect to settlement. Men generally indicate a desire to return to Mexico while 
+women express their intention of staying in the United States. This author believes that men 
+dream of the ultimate return to Mexico because through the process of migration and 
+resettlement, they lose control over family resources, decisions, and privileges. 
+
+Massey and his associates (Massey et al. 1987) found that ethnographic data and 
+regression analysis show that time spent in the United States is the single most important variable 
+that explains settlement and that this process is strongly affected by urban origin, non-farm 
+employment in the United States and legal status. In this study, a "settler" is defined as a migrant 
+who has been in the United States for three continuous years. 
+
+
+
+2 
+
+
+
+L 
+
+
+
+
+20 
+
+
+
+
+As migrants make additional trips and stay longer in the United States, they accumulate 
+experience in the United States which increase the likelihood of permanent settlement. As 
+migration continues, a growing number of families settle down forming "daughter communities" 
+These communities in turn greatly facilitate migration by providing a stable anchor in the receiving 
+community. After ten years of migrant experience, 42 percent of rural migrants and 53 percent of 
+urban migrants from the sample of four Mexi' an communities have settled, with the figures rising 
+to 79 percent and 76 percent after twenty years 
+
+Determinants of the settlement process were studi ;d by a logistic regression analysis of 
+men's migrant experience. The results show that factors .elated to the household economic 
+position are not very important. Among personal characteristics, settlement is considerably 
+enhanced by a lack of children as well as age. Settlement is then most likely to occur at early 
+stages of the life cycle, just before or just after marriage. The most striking finding was that 
+migrant experience ultimately overcomes the effect of other variables to render settlement 
+virtually inevitable in the long run. As indicated before, possession of legal documents but no 
+children and the status of being a nonfarmworker from an urban background all substantially 
+increase the probability of settlement early in the migrant career, as experience progresses, 
+however, these variables matter less and less. In sum, the people most likely to settle are young 
+childless men from urban areas who posses legal documents and have accumulated extensive 
+experience in the United States. 
+
+This overview of some of the studies that have focused on the settlement process shows 
+very interesting and useful insights as well as limitations. First, as observed in the work of Piore 
+(1979) and Massey (1986) and Massey et al. (1987), time spent in the United States seems to be 
+the key factor that determines settlement: the more time a migrant spends in the United States the 
+more likely she will become a “settler”. However, it is very limiting to define a “settler” as 
+someone who has been in the United States for three continuous years (Massey et al. 1987). 
+Although this definition is useful for a statistical analysis it lacks sociological meaning, for this 
+reason it seems strange that, according to the authors oi Return to Aztlan, the people most likely 
+to settle are young urban men without children who posses legal documents and have 
+accumulated extensive experience in the United States. This image contradicts the prevalent 
+assumption in the literature that states that family formation leads to settlement. In this sense, it is 
+useful to incorporate in the analysis the sociological/anthropological approach (Chavez, 1988, 
+Hondagneu, 1990; Massey et al. 1987; and. Rouse, 1992) that states that family formation, the 
+participation of women, and the maturation of social networks play fundamental roles in 
+encouraging settlement in the United States. However, most of these studies, based only on 
+ethnographic data, focus on the demographic characteristics, attitudes, opinions and practices of 
+migrants; assuming ultimately that settlement is only the result of the decision of migrants. This 
+
+22 be:, ST COPY available" 
+
+
+
+o 
+
+
+
+view seems to suggest that settlement takes place in a vacuum. It is crucial to analyze the 
+political and economic context of reception of immigration as suggested by Fortes and Borocs 
+(1989). 
+
+
+
+Transformation of Labor Markets in California: A New Demand for Immigrant Labor 
+
+Settlement has been encouraged by the transformation of labor markets in the United 
+States. Global restructuring has led to the consolidation of two-tier labor markets. Sassen (1991) 
+argues that in "global cities" like New York and London, immigrants provide low-wage labor to 
+declining backward sectors of capital but also to jobs that support the highly specialized service 
+sector and the high-income lifestyles of those employed in this sector. From a similar perspective, 
+Castells (1989) has found that economic restructuring has caused the differentiation of labor in 
+two equally dynamic sectors: the information-based formal economy and the downgraded labor- 
+based informal economy that employs ethnic minority workers and immigrants. 
+
+As a result of this, recent immigrants to the United States are mostly locating in only a few 
+metropolitan cities, especially New York and Los Angeles. For this reason these metropolises are 
+becoming fractured cities that are inhabited by a two-tier society. New York has been referred to 
+as a "dual city" (Mollenkopf and Castells, 1991) and Los Angeles has been named the primary 
+homeland of a largely Third World labor force (Soja, 1991). 
+
+According to Cornelius (1991:167-168) California's attractiveness to the most recent 
+wave of Mexican migrants reflects a more robust, more diversified employment growth in that 
+state, relative to other potential destinations. Following the 1980-82 recession, a boom occurred 
+in most sectors of the highly diversifi d California economy. Since 1 986, this boom has coincided 
+with a sharp contraction in employment opportunities in "oil bust" Texas, whose economy only 
+recently has begun to revive. In the last two decades, employment growth in California has been 
+far more robust than in the United States as a whole. During the 1970s, for example, blue collar 
+jobs increased in California at twice the national rate, and manufacturing employment expanded at 
+nearly four times the national rate. In addition to its overall dynamism and diversity, there are 
+certain structural features of the contemporary California economy that increase the demand for 
+immigrant labor. For example, the system of contracting out labor-intensive tasks to small, 
+largely nonunion, immigrant dominated firms in such industries as apparel, electronics, and 
+construction appears to be advancing more rapidly in California than in other parts of the nation. 
+And while the demand for entry-level workers is likely to rei ;ain strong, the largest numbers of 
+new jobs to be created in California during the next twenty years will be relatively low-paying, 
+low skill, low status jobs in restaurants, hotels, and other parts of the urban service sectors - 
+
+
+
+
+22 
+
+
+
+O 
+
+
+
+precisely the kinds of jobs that are increasingly shunned by young, better educated, native-born 
+Californians. The need for personal services among the rapidly expanding business-financial- 
+professional elite has been a significant source of jobs for female immigrants in Los Angeles in 
+recent years. Similarly, Roger Rouse has described the most recent emigrants from Aguililla, 
+Michoacan to Redwood City, California (a bedroom suburb of northern California's high-tech 
+"Silicon Valley" as that community’s janitors, dishwashers, gardeners, hotel workers, and house 
+cleaners- "proletarian servants in the paragon of post-industrial society". 
+
+On the debate over the effects of immigration on the U.S. labor markets, there are three 
+theories ‘hat seek to explain this process: displacement, segmentation, and "queuing" theories 
+(Valenzuela, 1993). The neoclassical displacement theory argues that immigrants arrive to the 
+U.S. in the face of declining wages. As a result, an increased supply of foreign workers further 
+pushes domestic wages down by expanding the aggregate labor supply despite a stable demand 
+for labor. Immigrants displace native-born workers because the former are assumed to be perfect 
+substitutes for the latter and skill-differences are ignored. According to segmentation theory , the 
+U.S. labor market is sufficiently divided between immigrant and non-immigrant jobs so that 
+domestic workers are insulated from direct displacement effects of employing migrants. Although 
+native workers may be employed in unskilled jobs, they are nevertheless protected from 
+competition because their jobs may be covered by union contracts. The queuing theory , that is 
+related to the segmentation theory, argues that immigrants take jobs that native workers no longer 
+want; that is, a job ladder, or queue, for immigrant workers exists. Over time, U.S. -bom labor 
+moves onto better occupations, vacating "lower-mng" and less desirable jobs that various groups 
+of newcomers then take. To the extent that such a queue is developing in secondary occupations 
+or peripheral industries where immigrants and other disadvantaged groups are concentrated, 
+immigrant labor may work at the expense of Black and other U.S. -bom labor. 
+
+In relation with the "queue" theory of labor markets, Scott (1988; 226) argues that labor 
+markets in American metropolises requ’re the continual recreation of pools of cheap and malleable 
+labor suitable for employment in the disintegrated complexes of labor-intensive manufacturing and 
+service industries. Similarly, Zabin et al. (1993) argue that California’s agricultural industry has 
+historically experienced an ethnic replacement process. This concept is used to describe how 
+agricultural employers in California have relied on the sequential entry of groups of foreign 
+workers for most of the last hundred years. In general, a more settled group of farm workers is 
+replaced by a new group who is willing to accept worse working conditions. California 
+farmworkers have been successively Chinese, Japanese, Filipinos, and mestizo Mexicans. Only 
+during the Great Depression, white workers "Okies" and "Arkies" formed the major pait of the 
+harvest labor force. Interestingly enough, beginning in the 1980s, this replacement process is 
+
+
+
+24 
+
+
+
+23 
+
+
+
+
+
+
+occurring within the Mexican migrant group since Mixtecos, indigenous people from Oaxaca, are 
+replacing mestizo farmworkers in many rural areas of California. 
+
+
+
+2. Labor Migration and Economic Crisis in Mexico 
+
+
+
+This section focuses on Mexico ar.\d seeks to relate migration patterns that developed in 
+the 1980s with the emergence of the economic crisis. The main contention is that the denial of 
+social services will not force the return of many undocumented persons because the hard 
+economic conditions in Mexico prevent the return of already settled immigrants in California. 
+
+
+
+Impact of the Economic Crisis on Employment and Wages 
+
+Cordera (1991) has found that between 1982 and 1988, domestic production was 
+practically stagnant in Mexico and that the concomitant per capita decline in production caused 
+that Mexican's standard of living was 15 percent lower in 1989 than at the beginning of the 
+decade. The impact of the economic crisis within the labor market had three distinct aspects: the 
+loss of employment-generation dynamism, particularly in the more modem industrial sectors (the 
+manufacturing sector traditionally accounting for almost 20 percent of total employment, was 
+stagnant tlirough the decade); the lower quality of the jobs that were created; and the decline in 
+real wages. According to Lustig (1990) between 1982 and 1984 employment contracted sharply 
+in manufacturing and constmction, which together comprise about 20 percent of total 
+employment and 27 percent of nonagricultural employment. The largest drop occurred in 
+constmction. In 1984 the wage bill was 45 percent below its 1981 level. However, between 
+1982 and 1985, in the midst of overall economic decline, the agricultural sector faired relatively 
+well in terms of output performance. The average growth rate of total GDP in the period from 
+1982 to 1985 was close to zero, while for agriculture was over 2 percent. In this sector, while 
+large-scale producers using hired labor probably benefited from the combination of rising crop 
+prices and decreasing real wages, smallholder peasants who produce an agricultural surplus may 
+have been able to protect their real income and food consumption. However, mral families who 
+depend on wage income must have experienced significant deterioration in their purchasing 
+power. 
+
+Cordera (1991) argues that individual responses to the practical impossibility of obtaining 
+formal emj .oyment led to an increase in legal and illegal migration to the United States, a 
+
+25 
+
+
+
+o 
+
+
+
+considerable increase in criminal activity, the entrance of more family members into the labor 
+market; and an increase in marginal employment, particularly self-employment-in part motivated 
+by government’s "empleate a ti mismo" (be your own employer) ad campaign. In this sense, the 
+informal sector to some extent offset the negative job-creation and employment-rate tendencies of 
+the Mexican economy in the 1980s. According to the National Urban Employment Survey 
+(Encuesta Nacional de Empleo Urbano, ENEU), between 1982 and 1987 the proportion of self- 
+employed workers and family members worldng without remuneration increased from 1 6 to 2 1 
+percent of the entire economically active population; the proportion of workers earning a wage, 
+salary, or commissions dropped from 81 to 74 percent over the same period. 
+
+Cornelius (1991) found that in the 1980s, migration to the United States from Mexican 
+cities grew substantially. This phenomenon is consistent with the widely held notion that, in 
+relative terms, the economic crisis has affected urban dwellers (especially residents of the largest 
+cities) even more severely than the rural population. Prior to the economic crisis and the 
+government austerity measures that it provoked, Mexico City and other large urban centers were 
+heavily subsidized as places to live and work. Moreover, they were major centers of government 
+employment, and the wages of government workers filtered back into the general urban economy. 
+Therefore, crisis-induced austerity has disproportionately impacted Mexico's large cities. 
+
+
+
+Economic Crisis and the Standard of Living of Mexicans 
+
+According to Tello (1991 : 58) the crisis initiated in the early 1980s has not only affected 
+negatively the living standards of people but has also widened inequality. In his view, although 
+Mexico in the early 1980s was a primary example of sustained economic growth in Latin America, 
+the country's low marks in social well-being and pervasive economic inequality fell far short of 
+what this "economic miracle" would suggest. 
+
+While the poorest 10 percent of Mexican families earned 2.4 percent of national income in 
+1958 they only earned 1.1 percent in 1977. At the other extreme, the richest 20 percent of 
+families received 50 percent of the country's available income in 1977, just as they had thirty years 
+earlier. In 1985, the poorest 40 percent of the Mexican population received 9.9 percent of GDP. 
+Economic inequality continues to be more marked in Mexico than in countries with comparable, 
+or even lower, levels of per capita income. 
+
+Mexico's crisis years (1982-89) further impoverished the population. During this period 
+of time, the country's poor grew in both absolute and relative terms. Per capita GDP fell 14 
+percent, and the decline in earnings was very unevenly distributed. While the country's population 
+expanded from 71 .4 million in 1981 to 81 .2 million in 1987, the country's poor grew from 32. 1 to 
+
+
+
+O 
+
+ERIC 
+
+
+
+2b 
+
+
+
+25 
+
+
+
+
+41 .3 million. In this six year period, nine of every ten Mexicans added to the national population 
+were to be found in the ranks of the poor. Today forty-one million Mexicans are unable to satisfy 
+their basic needs, and seventeen million live in extreme poverty. 
+
+The portion of GDP which corresponds to wage earnings, which had always been low 
+in Mexico compared to more advanced countries, dropf ed from 36 percent in 1980 to 28.6 
+percent in 1986. This decline reflects the behavior of real minimum wage; from an index of 100 in 
+1970, the real minimum wage rose to 109 in 1980 and then dropped precipitously to 56.6 percent 
+in 1988. Over the same period, unemployment rose from 6 to 12.1 percent of the economically 
+active population. 
+
+In the same vein, Cordera (1991 ; 30) has found that while in 1980 wages and salaries 
+accounted for 36 percent of national income by 1986 that figure had dropped to 28 percent. 
+
+Several factors interacted to place the brunt of the economic adjustment on wage earners: a 
+stagnant job market; uncontrolled inflation that outpaced all attempts at wage and salary 
+adjustment, so that by 1988 the legal minimum wage was worth only half its 1981 value; and the 
+combined effect of flexible exchange rates and repressive wage policies, designed to transfer much 
+of the burden of inflation control and international price competitiveness to wage earners. 
+
+The economic crisis and the adjustment policies to control it have affected the quality of 
+education, nutrition and health among the Mexican population. As a result of reduced 
+government spending on education there were fewer jobs and lower wages for educators, leading 
+to stagnation and deterioration in both the quality and availability of public education. Spending 
+on education declined in real terms from 1981 to 1987 and, as a percentage of GDP, was lower in 
+1987 than it had been in eleven years. A corollary effect of the crisis, with serious implications for 
+education, is that household strategies for confronting economic hardship included the integration 
+of children and adolescents into the labor market. 
+
+The declining investment in education halted construction of educational infrastructure. 
+Budget constraints also reduced the availability of free text books and increased the student- 
+teacher ratio, even as overall enrollment levels fell. This last consideration is reflected in the 
+graduation rates at the different educational levels. For example, only ten of every hundred 
+students en.ering university receive degrees. Moreover, there have been sharp declines in high 
+school and junior college graduation rates. In 1987, fully 10 percent of the population over age 
+15 (approximately five million people) was illiterate, and the remaining 90 percent had, on 
+average, only at six. grade education. 
+
+The decline in nutritional levels has multiple roots: a contracting job market and reduced 
+household incomes; regressive tendencies in social spending; a fiscal policy, characterized since 
+1982 by shrinking subsidies and increased prices for public goods and services; and lagging 
+minimum-wage rates relative to prices for basic goods. For example, the average cost of a basket 
+
+
+
+
+2V 
+
+
+
+26 
+
+
+
+of basic goods was almost 50 percent of the legal minimum wage in 1987, compared to about 30 
+percent in 1981 . Similarly, according to Cordera, government spending on health and social 
+security in 1987 was lower than in 1970, whether measured as per capita expenditures, percent of 
+GDP, or percent of total public expenditures. 
+
+Economic Crisis and Migration to the United States 
+
+Cornelius (1991) in his article LosMigrantes de la Crisis argues that the economic crisis 
+in Mexico of the 1980's propelled into the migratory flow people from families, communities, and 
+states without a long history of U.S. bound migration. Similarly, the extensive publicity 
+surrounding IRCA's legalization and Replenishment Agricultural Worker (RAW) programs seems 
+to have attracted into the migratory flow persons from communities and states that had not 
+participated significantly. In general, the 1980s saw the rapid growth in the migration of people 
+from new regions, including urban areas, and more women. 
+
+Mexican migrants to the United States in the 1980's included skilled, urban-bom Mexican 
+workers from Mexico's principal cities as well as destitute campesinos from some of Mexico's 
+most underdeveloped states, such as Guerrero, Oaxaca, Hidalgo, and Puebla. These states all 
+have large indigenous populations. It is significant that several of the nontraditional areas now 
+sending migrants to the United States are among the Mexican states most adversely impacted by 
+the t conomic crisis of the 1980's (The Federal District, Morelos, and Hidalgo, all of whose 
+economies contracted by more than 2 percent during the 1980-85 period; and Guerrero and 
+Puebla, whose economies contracted by 0. 1-2.0 percent in the same years). 
+
+The shift from a migrant population consisting mainly of highly mobile, seasonally employed "lone 
+males" (unmarried or unaccompanied by dependents) toward a more socially heterogeneous, year- 
+round, de facto permanent Mexican immigrant population in the United States accelerated in the 
+1980s. To be sure, the absolute number of young, temporary Mexican male farmworkers in the 
+United State did not decline during the 1970s and 1980s, but it grew slowly in absolute terms and, 
+in relative terms, this fraction of the Mexican immigrants population was overtaken and 
+overwhelmed by migrants who remained in the United States for long periods, accompanied by 
+their dependents. Ethnographic and survey studies of both sending and receiving communities, 
+interviews with would-be illegal migrants at the border, and INS apprehension statistics all show 
+that there is now considerably more migration by whole family units (moving together), more 
+family-reunification migration (women and children joining heads already established in the United 
+States), and more migration by single women than there was a decade ago. 
+
+Increased female migration to the United States reflects, in part, generational changes in 
+the attitudes and expectations of Mexican women. Gonzalez de la Rocha (1989) has summarized 
+
+27 
+
+2b 
+
+
+
+her findings from a high-migration town in Jalisco as follows: “During the last three years more 
+women have left the town to be reunited with their husbands in the United States... Upon getting 
+married, the woman no longer stays in the town. . . . The young women do not want to repeat the 
+loneliness that their mothers experienced nor the hardships that they had to endure (while their 
+husband worked in the United States”. (Cornelius, 1991 : 171). 
+
+The higher propensity of females to migrate to the United States in recent years is also a 
+consequence of Mexico's economic crisis, which has driven more wives, single women, and 
+children into the work force. Especially among Mexico's urban poor, the male family head's 
+income is not nearly sufficient now to meet the family's needs. 
+
+Female emigration to the United States has also been increasing because of the abundance 
+of new employment opportunities for which women are the preferred labor source. For example, 
+there is a booming market in California's largest urban areas for undocumented female Mexican 
+labor to provide child care, clean houses and offices, and iron clothes. In the San Diego area, 
+recently arrived female Mexican migrants now find housecleaning work by going door to door, as 
+males have done (for gardening work) for many years. 
+
+
+
+3. Mixed-Status Families vs. “Undocumented Families” 
+
+
+
+Supporters of Proposition 187 assume that the undocumented population of California is 
+composed of families in which all of their members lack legal documents. In their view they can 
+be found when they apply for public education or any other social service. Research has found 
+that this is not true because there is a large number of mixed-status families which include US 
+citizens, legal residents and undocumented people. This trend has been expanded by the ample 
+legalization brought about by IRCA. 
+
+More than 3 million people applied for the two legalization programs (1.8 million for the 
+"general amnesty" and 1.3 million for the SAW program) contained in IRCA. The approval rate 
+for decided cases was 94 percent and 93 percent respectively. As a result of the implementation 
+of the "general amnesty" more than 1.6 million people (the majority from Mexico) were granted 
+legalization. This legalized population included immigrants from 179 countries. Table 2 shows 
+that as of February 1991, the vast majority came from Mexico (nearly 70 percent) and Central 
+America (13 percent). The four nations that provided the most applicants were Mexico (1,162, 
+461), El Salvador (136,073), Guatemala (49,942) and Colombia (24,596) (INS, 1992: 8). 
+
+
+
+Table 2. 
+
+Region of Origin for the Legalized 
+Population under the "General Amnesty" 
+Program of IRCA, 1991. 
+
+
+
+Region 
+
+
+Number 
+
+
+Percentage 
+
+
+Europe 
+
+
+33,359 
+
+
+2.01 
+
+
+Asia 
+
+
+75,529 
+
+
+4.54 
+
+
+North America 
+
+
+
+
+
+
+Mexico 
+
+
+1,162,461 
+
+
+69.88 
+
+
+Canada 
+
+
+10,422 
+
+
+0.63 
+
+
+Other 
+
+
+1 
+
+
+0.00 
+
+
+Caribbean 
+
+
+55,279 
+
+
+3.32 
+
+
+Central America 
+
+
+224,089 
+
+
+13.47 
+
+
+South America 
+
+
+69,447 
+
+
+4.17 
+
+
+Africa 
+
+
+28,880 
+
+
+1.74 
+
+
+Oceania 
+
+
+3,880 
+
+
+0.23 
+
+
+Unknown 
+
+
+248 
+
+
+0.01 
+
+
+Total 
+
+
+1,663,595 
+
+
+100.00 
+
+
+
+Source: Table Adapted from Table 3 (Ib/S. 1992: 8) 
+
+
+
+The legalized population was highly concentrated in several regions and major urban 
+centers. Overall, 86 percent resided in four states: California, Texas, Illinois and New York. 
+California was the place of origin of the majority of applicants since more than half of the 
+legalized immigrants (54.7 percent) filed their application in this state. While one US resident in 
+81 applied for legalization, one Californian in 17 did so. Similarly, while 910,235 people applied 
+for legalization in California - the largest number - only 14 did so in North Dakota. (INS, 1992; 
+18). 
+
+As a result of the legalization of more than 3 million people, a large number of families in 
+California have US citizens, legal residents and undocumented persons among their members. 
+This has been revealed in three studies conducted in Los Angeles, San Diego and Madera County 
+
+
+
+The Los Angeles Countv Study (ISD. 1992 ) 
+
+The Los Angeles County Study provides valuable data to estimate the importance of the 
+mixed-status families in California’s population. The r,tudy found that recent immigrants, legal 
+immigrants, amnesty persons, undocumented persons and the citizen children of undocumented 
+
+
+
+persons accounted for about 25 percent of total population in Los Angeles County as of January 
+1992. In this estimate, the U.S. citizen children bom to undocumented persons accounted for 
+250,000 or 2.7 percent of total population in the county. 
+
+Since the study defines the citizen children of the undocumented as “children under the 
+age of 18 bora in the United States whose mothers are undocumented persons” (ISD, 19y2;15), 
+this implies that a large number of the 700,000 estimated undocumented persons living in the Los 
+Angeles County are the parents or sibling of these U.S. citizens. Therefore, there is a large 
+number of mixed-status families in Los Angeles County that will be difficult to deport. It is also 
+unlikely that these families will leave the United States voluntarily as a result of the denial of 
+education and other social services because some of their members are U.S. citizens. 
+
+The authors of this study state that based on the Westat survey^ they derived that the 
+average number of children bom in the United States per female amnesty person who had entered 
+after 1978 was .90. Then, this ratio was used with their estimate of undocumented females to 
+estimate the number of citizen children of the undocumented. The authors caution “that in 
+evaluating this estimate, it needs to be remembered that the proportion of undocumented 
+immigrants who are married or cohabiting is lower than average and that at this time most of them 
+have been in the United States less than 10 years. The ratio would be expected to go up over 
+time as the proportion in family unions increases and the average number of years in the United 
+States increases. The women in this subsample of the Westat survey had been in the United 
+States 8 to 10 years at the time of the survey. Ten years had also elapsed from the pre-1982 entry 
+cut-off date of our January 1, 1992 estimate. Some of the undocumented women, however, have 
+been in the United States much less than 10 years, while others entered prior to 1982 and did not 
+apply for amnesty. Nationwide, the number of pre-1982 amnesty applicants was 15 % lower than 
+the number of undocumented persons estimated to have been counted in the 1980 Census. We 
+do not know the degree of bias caused by differences between the Westat subsample and the 
+current population of undocumented women.” (ISD, 1992:22) 
+
+
+
+San Diego: Settlers and Sojourners 
+
+Leo Chavez (1988) in his article Settlers and Sojourners: Tlw Case of Mexicans in the 
+United States based on his study in San Diego, argues that migrants tvith families were much 
+more likely to reside more permanently in the United States than those who migrated alone 
+
+* The Westat survey was a sample survey of the amnesty population commissioned by the Immigration and 
+
+Naturalization Service and conducted by Westat, Inc. in 1989. The number of cases for Los Angeles County was 
+2,129). 
+
+
+
+(63.8% to 39.5% respectively) because migrating with a fantily appears to influence continued 
+residence rather than returning to Mexico. 
+
+In this context, Chavez contends that popular terms such as "undocumented family" and 
+"illegal family" are generalities which disregard the fact that many of these families have at least 
+one child bom in the U.S. and is therefore a citizen. Out of 603 households headed by 
+undocumented immigrants in the San Diego sample, 42. 1% contained at least one member who 
+was a citizen by birth in the United States. This proportion compares favorably with similar data 
+collected in Texas. 
+
+An analysis of the ages of undocumented interviewees provides further evidence that 
+undocumented settlers are in the early childbearing years: 46% of the children were five years old 
+or younger. Consequently, the chances that a family headed by an undocumented immigrant will 
+have a child bom in the U.S. increase the longer that family resides in the United States. 
+
+The evidence also indicates another pattern that is important for considering the future of 
+long-term undocumented residents: many eventually become legal residents. Of the 151 legal 
+interviewees who had a previous history of migration to the U.S., 59.4% were at one time 
+undocumented migrants. 
+
+In sum, many of the undocumented who are long-term residents of the U.S. must be 
+considered "immigrants" rather than "migrants". This is especially true for those who have taken 
+the cmcial step of forming a family in the U.S. , either by marrying here or by bringing their family 
+from Mexico. Such families will not necessarily follow previous migration patterns based upon 
+the mobility of a single individual. There is scant evidence that most of such families would 
+willingly return to Mexico after a brief "season" in the United States. Many will remain in the 
+U.S. unless they are apprehended and returned to Mexico by INS authorities. Even then, these 
+families will have incentives to return to the home community and equity (both economic and 
+social) they have built up, sometimes over several years, in the United States. 
+
+
+
+Madera County: Transnational or Immigrant Workers ? 
+
+Similarly, in my study in California’s San Joaquin Valley (Alarcon, 1994b), I found that as 
+a result of the ample legalization brought about by IRC A the legal status of migrant families 
+became very complicated with the predominance of mbced-status families. This study that 
+examined the integration of Mexican immigrants into rural California focused on the migration 
+experience of a group of families who are originally from a town in Michoacan (Mexico) and live 
+in Madera County. As part of the research project, I conducted a survey of a random sample of 
+
+
+
+3 ^ 
+
+
+
+31 
+
+
+
+this immigrant population living in Madera County. For this reason I selected 30 families which 
+constitutes nearly 20 percent of the total number of families. 
+
+In 80 percent of the families there were not any undocumented persons. In all of these 
+families there were different combinations of US citizens, “green-card” holders, and the so-called 
+“Rodinos”, that is, people who became legal residents as a result of IRCA. In 17 percent of the 
+rest of families there were also combinations of US citizens, “green-card” holders, and “Rodinos 
+living with undocumented persons. Finally, only 3 percent were “undocumented families” where 
+all of the members were undocumented. 
+
+
+
+CONCLUSIONS 
+
+
+
+This study has shown that the assumptions that support Proposition i 87 contradict some 
+of the most important characteristics of current immigration patterns to California. These trends 
+have been uncovered by research in the different disciplines of the social sciences. Research has 
+shown that labor migration is a social process and that social networks over time lead to 
+permanent settlement in the receiving country. Similarly, changes in labor markets in California 
+have encouraged the permanent stay of immigrants. Settlement has also been reinforced by the 
+worsening economic conditions in countries like Mexico. Finally, unlike supporters of 
+Proposition 187 who assume the existence of immigrant families in California, research has shown 
+that the legal status of families is a complicated issue with the presence of a large number of 
+mixed-status families in which there are U.S citizens, legal residents and undocumented persons. 
+
+As a result of all these trends, it seems that Proposition 187 instead of solving the problem 
+of undocumented immigration, it will create social conflicts and economic disruption in California. 
+It is evident that many undocumented workers residing in California are people who are here for a 
+more permanent stay because they have deepened their roots in their communities. Consequently, 
+it is unlikely that these people would go back to their countries of origin even if education were 
+denied in California. 
+
+Lastly, it is crucial to emphasize that current undocumented migration to the United States 
+that seems to be an unstoppable flow, is largely the result of polices implemented by the United 
+States and Mexico governments. The historical review of the policies implemented by the two 
+governments on labor migration reveals that the United States has always taken the initiative in 
+the policy making process through a well-defined immigration legislation that is often used to 
+favor particular interests. Mexico's policies have largely emerged as a response to U.S. 
+
+
+
+
+33 
+
+
+
+32 
+
+
+
+immigration policies. In the case of Mexico, a short period of a nationalist stand that opposed 
+emigration to the United States ended in the 1940s and gave way to a policy that tacitly has 
+sought to maintain the migration process. Despite this long-standing laissez-faire stance that 
+keeps the "back door" open to emigration, Mexican officials have recently proclaimed that 
+Mexico prefers to create jobs rather than export people. This argument was used as one of the 
+principal justifications for the establishment of NAFTA 
+
+From the turn of the century to the mid-1960s, U.S. immigration policy encouraged 
+temporary Mexican labor migration. This was the overall intention despite the deportations that 
+took place in the 1930s and 1950s. The restrictionist push to limit immigration crystallized in 
+IRC A, but this legislation still contains many concessions for employers in their search for cheap 
+labor (Alarcon, 1994a). 
+
+
+
+
+34 
+
+
+
+33 
+
+
+
+BIBLIOGRAPHY 
+
+
+
+Alarcon, Rafael. "Nortenizacion. Self-Perpetuating Migration from a Mexican Town". 
+Bustam^te, Jorge., Clark Reynolds and Raul Hinojosa (eds). U S.- Mexico Relations. Labor 
+Market Interdependence. Stanford: Stanford University Press, 1992. 
+
+Alarcon Rafael. "Labor Migration from Mexico and Free Trade; Lessons from a Transnational 
+Community" Working Paper 1 (IV Chicano/Latino Policy Project. University of California, 
+Berkeley, 1994a. 
+
+Alarcon Rafael. “Immigrants or Transnational Workers ?: The Settlement Process among 
+Mexicans in Rural California.” Report for the California Institute for Rural Studies. 1994b. 
+
+Arizpe Lourdes. Migracion. Etnicismo v Cambio Econ o mico: Un Estudio Sobre Migrantes 
+Campesinos a la Ciudad de Mexico. El Colegio de Mexico. Mexico, 1978. 
+
+Arizpe Lourdes. “The Rural Exodus in Mexico and Mexican Migration to the United States.” 
+International Migration Review 15, 1981. 
+
+Bean Frank D., Barry Edmonton, and Jeffrey S. Passel (Eds). Undocumented Migration to 
+United States. IRC A and the Experience of the 1980s . Lanham and London. RAND Corporation 
+and The Urban Institute, 1990. 
+
+Boijas George. Friends or Strangers: The Impact of Immigrants on the U S. Econorny. New 
+York; Basic Books, 1990. 
+
+California Department of Finance. California's Growing Taxpayer Squeeze. Finance Report. 
+
+1991. 
+
+Calva Jose Luis. Probables Efectos de un Tratado de Libre Comercio en el C ampo Mexicano. 
+Mexico: Distribuciones Fontamara S.A, 1991. 
+
+Castells Manuel The Informational Citv. Information Technology, Econom ic Restructuring and 
+the Urban Regional Process . Oxford; Blackwell, 1989. 
+
+Chavez Leo. Settlers and Sojourners: The Case of Mexicans in the United States. Human 
+Organization. 47 (2) 1988. 
+
+Chiswick Barry. "The Effect of Americanization on the Earnings of Foreign-Bom Men." Journ al 
+of Political Economy 86. 1978. 
+
+Cordera Rolando and Ennque Gonzalez. "Crisis and Transition in the Mexican Economy.^ in 
+Gonzalez de la Rocha Mercedes and Agustin Escobar (eds). Social Responses to M^co's 
+Economic Crisis of the 1980s . U.S. - Mexico Contemporary Perspectives Senes 1. Center for 
+U.S. - Mexican Studies. University of California, San Diego. 1991. 
+
+
+
+
+3b 
+
+
+
+34 
+
+
+
+Cornelius, Wayne. "Impacts of the 1986 Immigration Law on Emigration from Rural Mexican 
+Sending Communities" in Bean, Frank D., Barry Edmonton, and Jeffrey S. Passel (eds). 
+Undocumented Migration to United States. IRC A and the Exper ience of the 1980s. Lanham and 
+London. RAND Coiporation and The Urban Institute, 1990. 
+
+Cornelius Wayne. "Los Migrantes de la Crisis. The Changing Profile of Mexican Migration to the 
+United States." in Gonzalez de la Rocha Mercedes and Agustin Escobar (eds). Social Responses 
+to Mexico*s Economic Crisis of the 1980s . U.S. - Mexico Contemporary Perspectives Series 1 
+Center for U.S. - Mexican Studies. University of California, San Diego. 1991. 
+
+Cornelius Wayne. "From Sojourners to Settlers: The Changing Profile of Mexican Migration to 
+the United States" in Bustamante, Jorge., Raul Hinojosa and Clark Reynolds, (eds.) LL^ 
+Mexico Relations: Labor Market Interdependence . Stanford: Stanford University Press, 1992. 
+
+Cornelius Wayne and Philip Martin. The Uncertain Connecttion. Free Trade and Me>dco - U.S ^ 
+Migration . Center for U.S. - Mexican Studies. San Diego; University of California, San Diego 
+1993. 
+
+De la Rocha Mercedes “El Poder de la Ausencia; Mujeres y Migracion en una Comunidad de los 
+Altos de Jalisco.” Paper Presented at the XI Coloquio de Antropologia e Historia Regionales. El 
+Colegio de Michoacan. Zamora: October 1989. 
+
+Donato, Katherine, Jorge Durand, and Douglas Massey. "Stemming the Tide ?. Assessmg the 
+Deterrent Effects of the Immigration Reform and Control Act . Demography 29 (2), 1992. 
+
+Fix Michael and Jeffrey Passel. Immigrants and Welfare: New M>hhs, New Realities. Testimony 
+before the U.S. House of Representatives Committee on Ways and Means Subcommittee on 
+Human Resources. November 1993. 
+
+Gamio Manuel. Mexican Immigration to the United States . Chicago: University of Chicago 
+Press, 1930. 
+
+Graves Nancy and Theodore Graves. “Adaptive Strategies in Urban Migration. Annual Review 
+of Anthropology 3. 1974. 
+
+Hinojosa-Ojeda Raul and Sherman Robinson. "Labor Issues in a North American Free Trade 
+Area" Assesing the Impact: North American Free Trade . Edited by Nora Lustig, Barry 
+Bosworth and Robert Lawrence. Washington; The Brookings Institution, 1992. 
+
+Hondagneu-Sotelo Pierrete. Gender and the Politics of Mexican Undocumented Imnaigrant 
+Settlement. Doctoral Dissertation. Department of Sociology. University of California, Berkeley. 
+
+1990. 
+
+Huddle Donald. “The Net National Costs of Immigration.” Carrying Capacity Network, July 
+1993a. 
+
+Huddle Donald. “The Net Costs of Immigration to California.” Carrying Capacity Network. 
+November 1993b. 
+
+Internal Services Division (ISD). Impact of Undocumented Persons and Other I^igrant on 
+Costs. Revenues and Services in Los Angeles County . Report Prepared for Los Angeles County 
+Board of Supervisors. November 1992. 
+
+
+
+35 
+
+
+
+O 
+
+
+
+36 
+
+
+
+Jongkind C.F. “La Supuesta Funcionalidad de Los Clubes Regionales in Lima, Pem“ Boletin de 
+Estudios Latino Americanos . 11,1971. 
+
+Loninitz Larissa. Como Sobreviven los Marginados . Mexico: Siglo XXI Eds. 1975. 
+
+Lustig Nora. “Economic crisis, adjustment and living standards in Mexico, 1982-85.” World 
+Development 18 (10) 1990. 
+
+MacDonald John and Leatrice D. MacDonald. “Chain Migration. Ethnic Neighbohood 
+Formation, and Social Networks.” in Charles Tillv ed. An Urban World . Little Brown. 1974. 
+
+Magnin William. “The Role of Regional Associations in the Adaption of Rural Population in 
+Peru.” Sociologicus 9. 1959. 
+
+Magnin William. Peasants in Cities . Boston: Houghton Mifflin. 1970. 
+
+Massey Douglas. "The Settlement Process Among Mexican Immigrants to the United States." 
+American Sociological Review 51, 1986. 
+
+Massey Douglas, Rafael Alarcon, Jorge Durand and Humberto Gonzalez. Return to Aztlan. The 
+Social Process of International Migration from Western Mexico. Berkeley and Los Angeles. 
+University of California Press, 1987. 
+
+Menjivar Cecilia. “Social Networks Dynamics: Implications for Salvadoreans in San Francisco.” 
+Working Paper 2 (1). Chicano/Latino Policy Project. University of California, Berkeley, 1994. 
+
+Mollenkopf John and Manuel Castells. Dual City. Restructuring New York. New York: Rusell 
+Sage Foundation, 1991. 
+
+Passel Jeffrey. “Immigrants and Taxes: A Reppraisal of Huddle’s ‘The Cost of Immigmts” How 
+Much Do Immigrants Really Cost ? . The Tomas Rivera Center. February 1994. 
+
+Piore Michael. Birds of passage. Migrant labor and industrial societies. Cambridge: Cambridge 
+University Press, 1979. 
+
+Portes Alejandro and Jozsef Borocs. Contemporary Immigration. Theoretical Perspectives on Its 
+Determinants and Modes of Incorporation. International Migration Review 23 (3) Fall 1989. 
+
+Portes Alejandro and Robert Bach. Latin Journey. Cuban and Mexican Immigrants in the United 
+States. Berkeley. University of California Press. 1985. 
+
+Portes Alejandro and Ruben Rumbaut. Immigrant America. A Portrait. Berkeley: University of 
+California Press, 1990. 
+
+Rea Louis and Richard Parker. A Fiscal Impact i^alvsis of Undocumented Immigrants Residing 
+in San Diego County. Costs and Revenues of Significant State and Local Government Programs . 
+San Diego: Report by the Office of the Auditor General of California, 1992. 
+
+Rea Louis and Richard Parker. Illegal Immigration in San Diego County: An Analysis of Costs 
+and Revenues . San Diego: Report to the California State Senate Special Committee on Border 
+Issues, 1993. 
+
+Roberts Bryan. Organizing Strangers: Poor Families in Guatemala City . Austin: University of 
+Texas Press, 1973. 
+
+
+
+37 
+
+
+
+36 
+
+
+
+O 
+
+
+
+Roberts Biyan. “The Interrelation of City and Provinces in Peru and Guatemala.” Latin American 
+Urban Research 4, 1974. 
+
+Roberts Bryan. Cities of Peasants: The Political Economy of Urbanization in The bird World . 
+London: Edward Arnold. 1978. 
+
+Rouse Roger. "Making Sense of Settlement: Class Transformation, Cultural Struggle, and 
+Transtiondism among Mexican Migrants in the United States." Click Schiller Nina, Linda Basch, 
+and Cristina Blanc-Szanton (eds) Towards a Transnational Perspective on Migration. Race, 
+
+Class. Ethnicity, and Nationdism Reconsidered. Annals of the New York Academy of Sciences 
+Vol. 645, 1992. 
+
+Sassen Saskia. The Global Citv. New York. London. Tokio . Princeton: Princeton University 
+Press, 1991. 
+
+Sassen Saskia. The Mobility of Labor and Capital. A Study in International Investment and 
+Labor Flow. Cambridge. Cambridge University Press, 1988. 
+
+Stark Oded. “Migration Decision Making: A Review Essay” Migration and Development 
+Program Discussion Paper 3 Cambridge: Migration and Development Program, Harvard 
+University, 1983 
+
+Stark Oded, and D. Levhari. “On Migration and Risk in LCD’s.” Economic Development and 
+Cultural Change 31, 1982. 
+
+Scott Allen. New Industrial Spaces . London: Pion, 1988. 
+
+Soja Edward. "Poles Apart. Urban Restructuring in New York and Los Angeles". Mollenkopf 
+John and Manuel Castells (eds). Dual Citv. Restructuring New York. New York: Rusell Sage 
+Foundation, 1991. 
+
+Taylor J. Edward. “Differential Migration, Networks, Information, and Risk.” Migration and 
+Development Program Discussion Paper 1 1 Cambridge: Migration and Development Program, 
+Harvard University, 1984. 
+
+Tello Carlos. "Combating Poverty in Mexico." in Gonzalez de la Rocha Mercedes and Agustin 
+Escobar. Social Responses to Mexico's Economic Crisis of the 1980s . U.S. - Mexico 
+Contemporary Perspectives Series 1. Center for U.S. - Mexican Studies. University of 
+California, San Diego. 1991. 
+
+Tilly Charles. “Migration in Modem European History.” in William H. McNeil and Ruth S. 
+Adams (eds). Human Migration . Bloomington: Indiana University Press, 1978. 
+
+Tilly Charles, and C.H. Brown. ”On Uprooting, Kinship, and the Auspices of Migration.” 
+International Journal of Comparative Sociology 8, 1967. 
+
+U.S. Immigration and Naturalization Service. 1991 Statistical Yearbook of the Immigration and 
+Naturalization Service. Washington, D.C: U.S. Government Printing Office. 1992. 
+
+Valenzuela Abel. “Compatriots or Competitors ? A Study of Job Competition between the 
+Foreign-bom and Native in Los Angeles, 1970-1980.” Working Paper 1(2). The Chicano Latino 
+Policy Project. University of California, Berkeley, 1993. 
+
+
+
+O 
+
+ERIC 
+
+
+
+36 
+
+
+
+37 
+
+
+
+Warren Robert. “Estimates of the Unauthorized Immigrant Population Residing in the United 
+States, by Country of Origin and State of Residence; October 1992.” US. Immigration and 
+Naturalization Service, April 1994. 
+
+Zabin, Carol, Michael Kearny, Anna Garcia, David Runsten, and Carol Nagengast. A New Cycle 
+of Poverty. Mixtec Migrants in California Agriculture. Davis. California Institute for Rural 
+Studies. 1993. 
+
+Zorbaugh Harvey. The Gold Coast and the Slu m. Chicago: University of Chicago Press. 1929. 
+
+
+
+39 
+
+38 
+
+
+
+O 
+
+
+

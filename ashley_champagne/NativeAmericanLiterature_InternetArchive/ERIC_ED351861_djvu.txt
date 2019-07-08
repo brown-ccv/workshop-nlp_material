@@ -1,0 +1,1922 @@
+DOCUMENT RESUME 
+
+
+
+ED 351 861 
+
+
+
+FL 020 615 
+
+
+
+AUTHOR 
+TITLE 
+
+PUB DATE 
+NOTE 
+
+
+
+PUB TYPE 
+
+EDRS PRICE 
+DESCRIPTORS 
+
+IDENTIFIERS 
+
+
+
+ABSTRACT 
+
+
+
+de Reuse, Willem J« 
+
+A Bibliography on Incorporation and Polysjmthesis in 
+
+Native American and Paleosiberian Languages. 
+
+92 
+
+33p.; In: Linn, Mary Sarah, Ed. and Oliverio, Giulia, 
+R. M, , Ed. Kansas Working Papers in Linguistics, 
+Volume 17, Numbers 1 and 2; see FL 020 603. 
+Reference Materials ~ Bibliographies (131) 
+
+MF01/PC02 Plus Postage. 
+
+'^American Indian Languages; Structural Analysis 
+(Linguistics) 
+
+Incorporation (Linguistics) ; ^Paleosiberian 
+Languages ; Polys ynthes is 
+
+
+
+This bibliography of linguistic literature, including 
+unpublished papers, contains citations on Native American and 
+Paleosiberian languages discussing or relevant to the phenomena 
+called incorporation (including, not only noun incorporation, but 
+also verb incorporation, causative incorporation, passive 
+incorporation, preposition incorporation, applicative incorporation, 
+pronoun or pronominal affix incorporation, loose incorporation, 
+etc.), and the generally related phenomenon of polysynthesis . The 
+entries are organized by geographical area and language family. 
+(JL) 
+
+
+
+* Reproductions supplied by EDRS are the best that can be made " 
+
+JL 
+
+from the original document. * 
+
+
+
+U.S. DCFAfTTMCNT OF EDUCATION 
+
+Office 0* EducUtonai Researcn and «mofovement 
+
+EDUCAHONAL RESOURCES INFORMATION 
+A CENTER (ERiCt 
+
+tfahis document has been reproduced as 
+vreceived from the person or organization 
+
+originating it 
+C Minor changes have been made to improve 
+
+reproduction quality 
+
+• Points o( view or opiriions stated m this docu- 
+ment do not necessarily represent offiC»ai 
+OERI position or pol'CV 
+
+
+
+"PERMISSION TO REPRODUCE THIS 
+MATERIAL HAS BEEN GRANTED BY 
+
+
+
+TO THE EDUCATIONAL RESOURCES 
+INFORMATION CENTER (ERIC)." 
+
+
+
+A Bibliography on Incorporation and Polysynthesis in 
+Native American and Paleosiberian Languages. 
+
+
+
+Willem J. de Reuse 
+
+00 
+
+^ Abstract: This is a bibliography of materials 
+
+CC relevant to the phenomena called incorporation and 
+
+(Z:^ polysynthesis in the linguistic literature on Native 
+
+PjQ American and Paleosiberian languages. The items 
+
+are classified by area and family. 
+
+
+
+v9 
+
+
+
+O 
+
+
+
+ERIC 
+
+
+
+This is a bibliography of linguistic literature (including 
+unpublished papers) on Native American and Paleosiberian 
+languages discussing, or relevant to, the phenomena called 
+incorporation (including, not only noun incorporation, but also 
+verb incorporation, causative incorporation, passive 
+incorporation, preposition incorporation, applicative 
+incorporation, pronoun or pronominal affix incorporation, loose 
+incorporation, etc.), and the generally related phenomenon of 
+polysynthesis. 
+
+In order to limit the length of this bibliography, I decided 
+not to include book-length grammars of particular 
+incorporating and/or polysynthetic languages, even though 
+such monographs usually contain chapters or sections which 
+would be relevant to this bibliography. Article-length 
+treatments of particular incorporating and/or poiysynthetic 
+languages, as well as book-length monographs focusing on the 
+incorporating and polysynthetic properties of a particular 
+language are included. 
+
+
+
+This bibliography is organized into one general subdivision, 
+dealing with discussions of more than one Native American or 
+^ Paleosiberian language family, and four subdivisions 
+
+^ corresponding to geographical areas. Within these areas I have 
+
+
+
+BSSTCOPYSVMABIE 
+
+
+
+^^^^^^ Working Papers in LinguisliLS, Volume 17, Number 2, 1992, pp. 77-108 
+
+
+
+classified items into a general subsection, which is followed by 
+noncontroversial language family or language headings. For 
+convenience, I will give below an outline of the areas and 
+headings. 
+
+1. General 
+
+2. Paleosiberian 
+
+2.1. General 
+
+2.2. Chukotan 
+
+2.3. Nivkh (Gilyak) 
+
+3. North American 
+
+3.1. General 
+
+3.2. Algonquian 
+
+3.3. Athapaskan 
+
+3.4. Caddoan 
+
+3.5. Chinookan 
+
+3.6. Eskimo-Aleut 
+
+3.7. Iroquoian 
+
+3.8. Kalapuya 
+
+3.9. Muskogean 
+
+3.10. Natchez 
+
+3.11. Salish 
+3 12. Siouan 
+
+3.13. Takelma 
+
+3.14. Tanoan 
+
+3.15. Tlingit 
+
+3.16. Tsimshian 
+
+3.17. Wakashan 
+
+3.18. Yuman 
+
+3.19. Zuni 
+
+4. Mesoamerican (including Uto-Aztecan) 
+
+4.1. General 
+
+4.2. Mayan 
+
+4.3. Otomangean 
+
+4.4. Uto-Aztecan 
+
+5 . South American 
+
+5.1. General 
+
+5.2. Kuna 
+
+5.3. Nadeb 
+
+5.4. Quechua 
+
+5.5. Tupi-Guarani 
+
+5.6. Yagua 
+
+I wish to thank Ken Miner for sharing his own bibliography 
+with me, and Kameron Cole, my research assistant while I was 
+with the Department of Linguistics, University of Iowa, who 
+diligently typed in many of the items. I alone am responsible 
+
+
+
+for all remaining errors of judgment, inaccuracies and 
+inconsistencies. 
+
+1. General 
+
+Adam, Lucien. 1386. De rincorporation dans quelques langues 
+americaines. Revue de Unguistique et de Philologie Compare e 
+268, 348-360. 
+
+Aissen, Judith, and William A. Ladusaw. 1988. Agreement and 
+Multistratalitv . Paper read at the Chicago Linguistic Society 
+Meeting. Chicago: University of Chicago. 
+
+Baker, Mark C. 1984. Incorporation: where morphology and syntax 
+meet. Paper presented at the Annual meeting of the Linguistic 
+Society of America, Baltimore, Maryland, December 1984. 
+
+Baker, Mark C. 1988. Incorporation: A Theory of Grammatical Function 
+Changing . Chicago: University of Chicago Press. 
+
+Biermann, A. 1980. Nominalincorporation . Arbeitspapier Nr. 38, 
+Institut fur Sprachwissenschaft der Universitat zu Koln. Cologne. 
+
+By bee, Joan. 1985. Morphology . Amsterdam: John Benjamins. 
+
+Craig, Colette, and Kenneth L Hale. 1988. Relational Preverbs in some 
+lanjiuages of the Americas. Language 64.312-344. 
+
+Denny, J. Peter. 1984. Lexical semantics and logical form: locatives, 
+event arguments and conditionals. Papers from the Parasession on 
+
+Lexical Semantics, ed. by David Testen, Veena Mishra, and Joseph 
+
+Drogo, 107-116. Chicago: Chicago Linguistic Society. 
+
+Di Sciullo, Anna Maria and Edwin S. Williams. 1986. Noun Incorporation 
+versus Cliticization. Proceedings of the Northeastern Linguistics 
+Society 16.126-35. Amherst, Mass.: Graduate Linguistic Student 
+Association. 
+
+Dik, Simon C. 1980. Studies in Functional Grammar. New York: 
+Academic Press. 
+
+Dixon, Robert M. W. 1979. Ergativity. Language 55.59-138. 
+
+Everaert, Martin, Arnold Evers, Riny Huybrechts, and Mieke 
+
+Trommelen, eds. 1988. Morphology and modularity: In honour of 
+Henk Schultink. (Publications in language sciences 29.) Dordrecht 
+and Providence: Foris. [Several articles in this collection are 
+
+
+
+relevant.] 
+
+
+
+Faltz, Leonard M. 1977. Reflexivization: a study in universal syntax . 
+Ph. D. diss., University of California, Berkeley. 
+
+Frantz, Donald G. 1976. Equi-Subject Clause Union. Proceedings of the 
+Berkeley linguistics Society 2.179-187. 
+
+Frantz, Donald G, 1979. Grammatical relations in universal grammar. 
+Summer Institute of linguistics Work papers 23, supplement. Grand 
+Forks: University of North D'-Jkota. [Also published by Indiana 
+University Linguistics Club, Bloomington, 1981.] 
+
+van Geenhoven, Veerle. 1992. Noun Incorporation from a Semantic 
+Point of View. Paper presented at the 18th Meeting of the Berkeley 
+Linguistics Society. Berkeley. 
+
+Givon, Talmy. 1984. Syntax. A functional-typological introduction . 
+Volume I. Amsterdam: John Benjamins. 
+
+Hale, Kenneth L 1989. The syntax of lexical word formation. 
+Proceedings of the Fourth Meeting of the Pacific linguistics 
+Conference . 190-217. Eugene: University of Oregon. 
+
+Haudricourt, Andre. 1885. Polysynthetisme. Revue de UnguistiQue et 
+de Philologie Compare e 18.27-29. 
+
+von Humboldt, Wilhelm. 1836. Uber die Verschiedenheit des 
+menschlichen Sprachbaues und ihren Einfluss auf die geistige 
+Entwickelung des Menschengeschlechts . Berlin: Royal Academy of 
+Sciences of Berlin. [Two translations of this are:] 
+
+von Humboldt, Wilhelm, 1971. Linguistic variability and intellectual 
+development, translated by George C. Buck and Frithjof A. Raven. 
+Philadelphia: University of Pennsylvania Press. 
+
+von Humboldt, Wilhelm. 1988. On Language: The Diversity of Human 
+Language-Structure and its Influence on the Mental Development of 
+Mankind , translated by Peter Heath, with an introduction by Hans 
+Aarsleff. Cambridge: Cambridge University Press. 
+
+Jespersen, Otto. 1964. Language: its nature, development, and origin . 
+New York: W.W. Norton & Company. 
+
+Kibrik, Andrej A. [1990.] Relativization in Polysynthetic Languages . 
+To be published in: International Tournal of American Linguistics, 
+
+
+
+Lapointe, Steven G. 1987. Some Extensions of the Autolexical Approach 
+
+
+
+81 
+
+
+
+to Structural Mismatches. Syntax and Semantics 20 (Discontinuous 
+Constituency ), ed. by Geoffrey J. Huck and Almerindo E Ojeda, 152- 
+183. Orlando: Academic Press. 
+
+Lapointe, Steven G. 1989. A Commentary on Baker's Incorporation 
+from anAutolexical Perspective . Paper read at the Chicago Linguistic 
+Society Workshop on Autolexical Syntax, April 26, 1989. University of 
+Chicago Department of Linguistics. 
+
+Mardirussian, Galust. 1975. Noun incorporation in universal grammar. 
+Proceedings of the Chicago Linguistic Society 11.383-389. 
+
+Miner, Kenneth L 1989. A Note on Noun Stripping. International 
+Toumal ofAmerican Linguistics 55.476-7. 
+
+Mithun, Marianne. 1983. The genius of polysynthesis. Papers in 
+Anthropology 24(2). 22 1-242. Department of Anthropology, 
+University of Oklahoma, Norman. 
+
+Mithun, Marianne. 1984. How to avoid subordination. Proceedings of 
+the Berkeley Linguistics Society 10.493-509. 
+
+Mithun, Marianne. 1984a. The evolution of noun incorporation. 
+Language 60.847-894. 
+
+Mithun, Marianne. 1986. On the nature of noun incorporation. 
+Language 62.32-37. 
+
+Mithun, Marianne. 1986a. The convergence of noun classification 
+systems. Noun classes and categorization , ed. by Colette Craig. 
+Amsterdam: John Benjamins. 
+
+Mithun, Marianne. 1989. The subtle significance of the locus of 
+morphologization. International journal of American Linguistics 
+55.265-282. 
+
+Mithun, Marianne. 1989a. Historical Linguistics and Linguistic Theory: 
+Reducing the Arbitrary and Constraining Explanation. Proceedings 
+of the Berkeley Linguistics Society 15.391-408. 
+
+Mithun, Marianne. 1990. The role of typology in American Indian 
+historical linguistics. Linguistic Change and Reconstruction 
+Methodologv . ed. by Philip BaldL Berlin: Mouton de Gruyter, 33-55. 
+
+de Reuse, Willem J. [1990.] Noun Incorpoi«ition. Ms. submitted to: The 
+Encyclopedia of language and Linguis t ics. Edinburgh: Pergamon 
+Press. 
+
+Rosen, Sara Thomas. 1989. Two types of noun incorporation: A lexical 
+
+
+
+6 
+
+
+
+82 
+
+
+
+analysis. Language 65.294-317. 
+
+Sadock, Jerrold M. 1983. The necessary overlapping of grammatical 
+components. Papers from the Parasession on the Interplay of 
+Phonology, Morphology, and Syntax, ed. by John F. Richardson, 
+Mitchell Marks, and Amy Chukerman, 198-221. Chicago: Chicago 
+Linguistic Society. 
+
+Sadock, Jerrold M. 1985. Autolexical syntax: A theory of noun- 
+incorporation and similar phenomena. Natural Language and 
+Linguistic Theory 3.379-440. 
+
+Sadock, Jerrold M. 1986. An autolexical view of pronouns, anaphora, 
+and agreement. University of Chicago Working Papers in 
+Linguistics 2.143-163. 
+
+Sadock, Jerrold M. 1986a. Some notes on noun incorporation. Language 
+62.1^31. 
+
+Sadock, Jerrold M. 1987. Discontinuity in Autolexical and Autosemantic 
+Syntax. Syntax and Semantics 20 (Discontinuous Constituency), ed. by 
+Geoffrey J. Huck and Almerindo E Ojeda, 283-301. Orlando: 
+Academic Press. 
+
+Sadock, Jerrold M. 1988 The autolexical classification of lexemes. 
+Theoretical Morphology > ed. by Michael Hammond and Michael 
+Noonan, 271-290. San Diego: Academic Press. 
+
+Sadock, Jerrold M. 1989. The delights and dilemmas of Autolexical 
+
+analysis . Paper presented at the Chicago Linguistic Society Workshop 
+on Autolexical Syntax, April 26, 1989. University of Chicago 
+Depanment of Linguistics. 
+
+Sadock, Jerrold M. 1990. Autolexical Syntax. A Theory of Parallel 
+
+Grammatical Representations . Chicago: University of Chicago Press. 
+
+Sapir, Edward. 1921. Language . New York: Harcoun, Brace, and 
+Jovanovich. 
+
+Simpson, J., and Meg Withgott. 1986. Pronominal clitic clusters and 
+templates, Syntax and Semantics 19 (The Syntax of pronominal 
+Clitics) . New York: Academic Press. 
+
+Skalicka, Vladimir. 1968. Die Inkorporation und ihre Rolle in der 
+Typologie. Travaux Linguistiques de Prag ue 3.275-279. 
+
+Thompson, Sandra A. 1988. language universals and discourse 
+
+patterns . Paper presented at the Western Conference On Linguistics, 
+
+
+
+ERIC 
+
+
+
+83 
+
+
+
+Fresno, California. 
+
+Whorf, Benjamin Lee. 1956. Language, Thought and Reality: Selected 
+Writings of Benjamin Lee ^orf, ed. by J. Carrol. Cambridge, Mass.: 
+The MIT Press. 
+
+Woodbury, Anthony C. [1991]. On restricting the role of morphology 
+in Autolexical Syntax. To appear in: Developments in Autolexical 
+Syntax, ed. by Eric Schiller and Hisa Steinberg. Berlin: Mouton de 
+Gruyter. 
+
+2* Paleosiberian 
+2.1. General 
+
+Comrie, Bernard. 1981. The Languages of the Soviet Union. Cambridge: 
+Cambridge University Pre.^s. 
+
+Jakobson, Roman. 1942. The Paleosiberian languages. American 
+Anthropologist 44.602-620. 
+
+Mescaninov, 1. 1. 1962. Aggljutinacija i inkorporirovanie. Voprosy 
+iazvkoznaniia 11(5). 24-31. 
+
+Panfilov, E A. 1954. K voprosu ob inkorporirovanii. Voprosy 
+iazvkoznaniia 3(6). 
+
+Shibatani, Tomomi. 1990. Nonhem Languages from the Viewpoint of 
+'Incorporation' . Paper presented at the symposium on Languages of 
+the North: Types and History. Department of Linguistics, Hokkaido 
+University, Sapporo, Japan. 
+
+Skorik, Pjotr Ja. 1952. Teorija stadial'nosti i inkorporacija v 
+
+paleoaziatskix jazykax. Protiv vul'garizacii izvra sc eniia marksizma v 
+iazvkoznanii. Sbomik statei 2.136-156. Moscow. 
+
+Worth, Dean. 1963. Paleosiberian. Current Trends in Linguistics, vol. 
+1: Soviet and East European Linguistics ^ ed. by Thomas A. Sebeok. The 
+Hague: Mouton. 
+
+2.2. Chukotan 
+
+Comrie, Bernard. 1973. The ergative: variations on a theme. Lingua 
+32.239-253. 
+
+Comrie, Bernard. 1978. Ergativity. Syntactic Tvpologv: Studies in the 
+
+
+
+
+84 
+
+
+
+Phenomenology of Language, ed. by Winfred P. Lehmann, 329-432. 
+Austin: University of Texas Press. 
+
+Comrie, Bernard. 1981. Language universals and linguistic typology. 
+Chicago: University of Chicago Press. 
+
+Kozinsky, Isaac Vladimir R Nedjalkov, and Maria S. Polinskaja. 
+
+1988. Antipassive in Chukchee: oblique object, object incorporation, 
+zero object. Passive and Voice, ed. by Masayoshi Shibatani, 65 1-706. 
+Amsterdam: John Benjamins, 
+
+Moll, T. A. 1954. K voprosu o vspomogatel'nyx glagolax v cukotskom 
+jazyke. U cenye zapiski, Leningradskogo pedagogiceskogo instituta 
+imeni A. L Gercena 101.281-291. Leningrad: Fakul'tet Narodov 
+Severa. 
+
+Nedjalkov, Vladimir P. 1976. Diathesen und Satzstruktur im 
+
+Tschuktschischen. Satzstruktur und Genus verbi . ed. by R. Lotzsch 
+
+and R. Ruzicka. Studia Granmiatica 8.181-21 1. Berlin: Akademie- 
+Verlag. 
+
+Nedjalkov, Vladimir P. 1977. Posessivnost' i inkorporacija v cukotskom 
+jazyke (inkorporacija podlezascego). Problemv lingvisticeskoi 
+tipologii i struktury iazvka. ed. by V. S. Xrakovskij, 108-138. 
+Leningrad. [Possessive relations and Incorporation in Chukchi 
+(Subject Incorporation), in Aspects of linguistic typology and 
+language structure.] 
+
+Nedjalkov, Vladimir p. 1979. Cukotskij antipassiv i vtoricnaja 
+
+tranzitivacija. Proceedings of the 14th Pacific scientific congress . 
+Comminee L, Vol. 2, 266- 268. Moscow. [Chukchi antipassive and 
+secondary transitivization.] 
+
+Nedjalkov, Vladimir P. 1982. Cukotskije glagoly s inkorporirovannym 
+podlezascim (tip: gegnd ^dl-d-mle«g?i 's gory obvalilsja sneg\ bukv. 
+'gora snego=obvalilas". Kategoriia subiekta i obiekta v iazykax 
+razlicnyx tipov . ed. by S. D. Kacnel son. 135-153. Leningrad. [Chukchi 
+verbs permitting Subject Incorporation (type gegnd ^sl-s-mle-g^i 'the 
+hill lost the snow*, lit. 'the hill snow=slipped).l 
+
+Polinskaja, Maria S. 1990. Incorporation of Is and 3s: Evidence from 
+Chukchee . Paper presented at the 5lh Biennial Conference on 
+Grammatical Relations. University of California, San Diego. January, 
+1990. 
+
+
+
+ERIC 
+
+
+
+85 
+
+
+
+Polinskaja, Maria S., and Vladimir P. Nedjalkov. 1987. Contrasting the 
+absolutive in Chukchee: syntax, semantics, and pragmatics. Lingua 
+71.239-269. 
+
+Skorik, Pjotr Ja. 1947. Inkorporacija v cukotskom jazyke kak sposob 
+vyrazenija sintaksiceskix otnosenij. Izvestiia Akademiia Nauk, 
+Otdelenie literaturv i iazvka 6/6.520-532. Moscow-Leningrad. 
+
+Skorik, Pjotr Ja. 1948. O cerki po sintaksisu cukotskogo iazvka 
+(inkorporacila). ed. by L L Mescaninov. Ph. D. dissertation, 
+Leningrad. [Essays in Chuckchi syntax (incorporation).] 
+
+Skorik, Pjotr Ja. 1958. K voprosu o klassifikacii cukotsko-kamcatskix 
+jazykov. Voprosv lazvkoznaniia 1.21-35. 
+
+Skorik, Pjotr Ja. 1958. K voprosu o sravniternom izucenii cukotsko- 
+kamcatskix jazykov. Izvestiia Akademiia Nauk, Otde)enie literaturv i 
+iazvka 17(6). 534-546. Moscow and Leningrad. 
+
+Stebnickij, S. N. 1941. Iz istorii padeznvx sufflksov koriakskogo i 
+cukotskogo iazvkov , Leningrad. 
+
+Zukova, Alevtina N. 1954. E>/a osnovnyx sposoba svjazi opredeJenija s 
+opredeljaemym v korjakskom jazyke. Ucenve zaoiski. 
+Leningradskopo pedagogiceskogo instituta imeni A. L Gercena 
+101.293-304. Leningrad: FakuPtet ^'-^rodov Severa. 
+
+23. Nivkh (GUyak) 
+
+Bondarenko, L V., and L R. Zinder. 1962. Foneticeskaja xarakteristika 
+razlicnyx tipov sintaksiceskix socetanij v nivxskom jazyke. Voprosv 
+iazvkoznaniia 11(4). 84-89. 
+
+Krejnovic, E A. 1958. Ob inkorporirovanii v nivxskom jazyke. Voprosv 
+iazvkoznaniia 7(6).21-33. 
+
+
+
+ERIC 
+
+
+
+86 
+
+
+
+3. North American 
+3.1. General 
+
+Chafe, Wallace. 1976. The Caddoan. IroQuoian. and Siouan Languages . 
+Trends in linguistics, State-of-the-An Reports 3- The Hague: 
+Mouton. 
+
+Denny, J. Peter. 1989. The nature of polysynthesis in Algonquian and 
+Eskimo. Theoretical Perspectives on Native American Languages, ed. 
+by Donna B. Gerdts and Karin Michelson, 230-257. Albany: SUNY 
+Press. 
+
+Du Ponceau, Peter S. 1819. Repon to the corresponding secretary. 
+Transactions of the American Philosophical Society 1, XVII-XLVI. 
+
+Du Ponceau, Peter S. 1838. M emolre sur le svsteme grammatical de 
+quelques nations indiennes de I'AmeriQue du nord . Paris. 
+
+Hymes, Dell. 1955. Positional analysis of categories: a frame for 
+reconstruction. Word 11.10-23. 
+
+Jelinek, Hoise. 1990. Grammatical Relations and Coindexing in Inverse 
+Systems . Paper presented at the 5th Biennial Conference on 
+Grammatical Relations. University of California, San Diego. 
+January, 1990. 
+
+Krauss, Michael E 1990. Typology and Change in .Maskan Languages. 
+Language Typology 1987. Systematic Balance in Language^ ed. by 
+Winfred P. Lehman, 147-156. Amsterdam and Philadelphia: John 
+Benjamins. 
+
+Kroeber, Alfred L 1910. Noun Incorporation in American Languages. 
+Proceedings of the 16th International Congress of Americanists , ed. 
+by Franz Heger, 569-576. Vienna and Leipzig: A. Hartleben. 
+
+Kroeber, Alfred L 1911. Incorporation as a linguistic process. 
+American Anthropologist 13.577-584. 
+
+Mithun, Marianne. 1991. The Development of Bound pronominal 
+Paradigms. Language Typology 1988. Typological Models in 
+Reconstruction, ed. by Winfred P. Lehmann and Helen-Jo Jakusz 
+Hewitt. Amsterdam: John Benjamins, 85-104. 
+
+Sapir, Edward. 1911. The problem of noun incorporation in American 
+languages. American Anthropologist 1 3.250-282. 
+
+
+
+ERIC 
+
+
+
+87 
+
+
+
+Voegelin, Carl R, and Florence M. Voegelin. 1976. Some recent (and not 
+so recent) attempts to interpret semantics of Native American 
+languages in North America. American Indian Languages and 
+American Linguistics. (Papers of the Second Golden Anniversary 
+Symposium of the Linguistic Society of America), ed. by Wallace L 
+Chafe, 75-98. Lisse: Peter de Ridder Press. 
+
+3.2. Algonquian 
+
+Bloomfield, Leonard. 1914. Sentence and Word. Transactions of the 
+Am' ' can Philological Association 45.65-75. [Reprinted in A Leonard 
+Bloomfield Anthology, ed. by Charles F. Hockett, 61-69, Bloomington: 
+Indiana University Press.] 
+
+Bloomfield, Leonard. 1927. The Word-Stems of Central Algonquian. 
+Festschrift Meinhof: Beitrage zur afrikanischen 
+Sprachwissenschaft. 393-402. Hamburg. [A section of this is 
+reprinted in A Leonard Bloomfield Anthology, ed. by Charles F. 
+Hockett, 139-140, Bloomington: Indiana University Press.] 
+
+Dahlstrom, Amy. 1988. A typology of incorporation in Fox . Paper 
+presented at the 27th Conference on American Indian languages at 
+the American /Anthropological Association meeting. Phoenix, 
+Arizona. 
+
+Denny, J. Peter. 1977. Process and state meanings of the abstract finals 
+in Ojibway inanimate intransitive verbs. University of Western 
+Ontario Depanment of Psychology Research Bulletin 414. 
+
+Denny, J. Peter. 1978. The semantic roles of medials within Algonquian 
+verbs. International loumal of American Linguistics 44.1 S.'^-l SS, 
+
+Denny, J. Peter. 1981. Algonquian word structure from the viewpoint of 
+logical semantics. Linguistique Amerindienne II (Etudes 
+Algonquiennes.), ed. by Lynn Drapeau. Recherches Linguistiques a 
+Montreal 16.21-29. 
+
+Denny, J. Peter. 1983. Sc nantics of abstract finals in Algonquian 
+transitive inanimate verbs. Canadian loumal of Linguistics 28 133- 
+148. 
+
+Df^nny, J. Peten 1985. Semantic verb classes and abstract finals. Papers 
+of the 15th Algonqui an Conference, ed. by William Cowan, 241-271. 
+Ottawa: Carleton University. 
+
+Goddard, R. Ives. 1988. Post-transformational stem derivation in Fox. 
+Papers and Studies i n Contrastive Linguistics 22.SQ-7? Poznan, 
+
+
+
+ERIC 
+
+
+
+Poland. 
+
+
+
+Goddard, R. Ives. 1990» Primary and Secondary Stem Derivation in 
+Algonquian. International Journal of American Lir ' uistics 56.449- 
+484. 
+
+Hewson, John. 1988. Some Proto-Algonquian Word Formatives . Paper 
+presented at the 20th Algonquian Conference, Hull, Qjiebec. 
+
+JoUey, Catherine A. 1982. On the Plains Cree passive: an analysis of 
+syntactic and lexical rules. Ohio State University Working Papers in 
+Linguistics 26.1-33. 
+
+Jones, William. 1904. Some principles of Algonquian word-formation. 
+American Anthropolopst 6.369-411. 
+
+Lecoutere, C. P. F. 1934. Inleidin^ tot de taalkunde en tot de 
+geschiedenis van het Nederlandsch . Heverlee-Leuven: 
+Zuidnederlandsche Dialectcentrale, Groningen-den Haag: J. B. 
+Wolters. 
+
+Mellow, Dean, [n.d.] On triggers: a parameter-setting approach to the 
+acquisition of Cree, a free word order language . Ms., McGill 
+Urxiversity. 
+
+Mellow, Dean. 1988. A Syntactic Approach to Noun Incorporation in 
+Cree. Paper presented at the 20th Algonquian Conference, Hull, 
+Quebec. 
+
+Mellow, J. Dean. 1990. Asymmetries Between Compounding and Noun 
+Incorporation in Plains Cree. Papers of the 21st Aigonouian 
+Conference, ed. by William Cowan, 247-257. Department of 
+Linguistics, Carleton University. 
+
+Michelson, Truman. 1917. Notes on Algonkian languages. 
+International Tournal of American Linguistics 1.50-57. 
+
+Michelson, Truman. 1917a. The so-called stems of Algonquian verbal 
+complexes. Proceedings of the 19th International Congress of 
+Americanists . 541-544. 
+
+Miner, Kenneth L 198L A note on ergativity in Algonquian. 
+Algonquian and Iroquoian Linguistics 6(2). 9-10. 
+
+Miner, Kenneth L 1981a. Algonquian medials as incorporated 
+
+nominals . Paper presented to the Annual Meeting of the American 
+Anthropological Association, Los Angeles. 
+
+Miner, Kenneth L 1982. A note on noun incorporation. Algonquian 
+
+
+
+89 
+
+
+
+and Iroquoian Linguistics 7(3).36-'37. 
+
+Piggott, Glyne L 1989. Argument Structure and the Morphology of the 
+Ojibwa Verb. Theoretical Perspectives on Native American 
+Languages , ed. by Donna B. Gerdts and Karin Michelson, 176-208. 
+Albany: SUNY Press. 
+
+Swiggers, Pierre. 1987. Compounding in Blackfoot. Papers of the 28th 
+Algonquian Conference , ed. by William Cowan, 355-362. Ottawa: 
+Carleton University. 
+
+Taylor, Allan R. 1988. MeJjals in Gros Ventre . Paper presented at the 
+27th Conference on American Indian Languages, at the American 
+Anthropological Association meeting. Phoenix, Arizona. 
+
+Whorf, Benjamin Lee. 1 940. Gestalt technique of stem composition in 
+Shawnee. Shawnee stems and the Jacob P. Dunn Miami dictionary, ed. 
+by Carl F. Voegelin. Indiana Historical Society Prehistory Series 
+1.393-406. 
+
+Voegelin, Carl F., and Florence M. Voegelin. 1973. The Syntax and 
+Semantics of Possession in Shawnee . Paper presented at the 
+Algonquian Conference, Green Bay, Wisconsin. 
+
+Wolfarl, H. Christoph, 1971. Plains Cree Internal Syntax and the 
+Problem of Noun-Incorporation. Proceedings of the 38th 
+International Congress of Americanists 3.5 11 -SI 8. Munich: 
+Kommissionsverlag Klaus Renner, 
+
+3.3- Athapaskar 
+
+Axelrod, Melissa. 1990. Incorporation in Koyukon Athapaskan. 
+International Journal of American Linguistics 56.179-195. 
+
+Barrs, Andy, Kenneth L Hale, Hlavina Tsosie Perkins, and Margaret 
+Speas. 1989. Aspects of Logical Form in Navajo. Athapaskan 
+Linguistics: Current Perspectives on a Unguage Family, ed. by Eung- 
+Do cook and Keren Rice. Berlin: Mouton de Gruyter. 
+
+Bart ell, Guillermo. 1988. Cognitive Processes in Apachean English. 
+Papers and Studies in Contrastive Linguistics 24.183-198. Poznan, 
+Poland. 
+
+Collins, James. 1988. Syntactic structures and word-formation in 
+
+Tolowa. Paper presented at the 27th Conference on American Indian 
+Languages at the American Anthropological Association meeting. 
+Phoenix, Arizona. 
+
+
+
+90 
+
+
+
+Cook, Eung-Do. 1988. Postsvntactic morphological rule s in Athapaskan. 
+Paper presented at the 27th Conference on American Indian 
+Languages at the American Anthropological Association meeting. 
+Phoenix, Arizona. 
+
+Elgin, P. A. Suzette. 1973, Some Topics in Navaio Syntax . University of 
+California, San Diego Ph. D. Dissertation. 
+
+Hale, Kenneth L 1987, Agreement and incorporation in Athabaskan 
+and in general, Ms,, MIT. 
+
+Hargus, Sharon. 1986, Infixation and bracketing erasure in Sekani, 
+University of Washington Working Papers in linguistics 9.83-117, 
+
+Hoijer, Harry. 1949. The Apachean Verb, Part V: The Theme and Prefix 
+Complex. International Journal of American linguistics 15.12-22. 
+
+Hymes, Dell. 1956. Na-Dene and positional analysis of categories. 
+American Anthropologist 58.624-38. 
+
+Jelinek, Eloise. 1989a. Argument Type in Athabaskan: Evidence from 
+Noun Incorporation . Paper presented at the 28th Conference on 
+American Indian Languages at the American Anthropological 
+Association meeting. Washington, D.C. 
+
+Kari, James. 1975. The disjunct boundary in the Navajo and Tanaina 
+verb prefix complexes. International lournal of American 
+linguistics 41.330-46. 
+
+Kari, James. 1989. Affix Positions and Zones in the Athapaskan Verb 
+complex: Ahtna and Navajo. International lournal of American 
+linguistics 55.424-454. 
+
+Kari James. 1992. Some Concepts in Ahtn?. Athabaskan Word Formation. 
+Morphology Now > ed. by Mark Aronoff. Albany: State University of 
+New York Press, 107-13L 
+
+McDonough, Joyce M. 1990. Topics in the Phonology and Morphology of 
+Navaio Verbs. University of Massachusetts Ph. D. dissertation. 
+
+Mele, Joseph. 1990. Non-Configurationalitv in the Navaio Verb . Paper 
+presented at the Athapaskan Languages Conference. Vancouver, B.C. 
+
+Morice, A. G. 1910. Le verbe dans les langues denees. Proceedings of 
+the 16ih International Congress of Americanists , ed. by Franz Heger, 
+577-595. Vienna and Leipzig: A. Hartleben. 
+
+Rice, Keren. 1988. Some Aspects of Noun Incorporation in Athabaskan: 
+
+
+
+ERLC 
+
+
+
+91 
+
+
+
+The Case of Subjects . Colloquium Presentation, University of Arizona, 
+Tucson. 
+
+Rice, Keren. 1990. The Ordering of Disjunct Prefixes . Paper presented 
+at the Athapaskan Languages Conference. Vancouver, B.C. 
+
+Rice, Keren. 1991. Intransitives in Slave (Northern Athapaskan): 
+Arguments for Unaccusatives. International Journal of American 
+linguistics 57.51-69. 
+
+Saxon, Leslie. 1989. Agreement in Dogrib: Inflection or Cliticization? 
+Theoretical Perspectives on Native American Languages, ed. by 
+Donna B. Gerdts and Karin Michelson, 149-162. Albany: SUNY Press. 
+
+Saxon, Leslie. 1989a. Lexical vs. Syntactic Projection: The 
+Configurationality of Slave. Athapaskan Linguistics: Current 
+Perspectives on a Language Family, ed. by Eung-Do cook and Keren 
+Rice. Berlin: Mouton de Gruyter. 
+
+Speas, Margaret. 1982. Navajo verbal prefixes in current 
+
+morphological theory. Coyote Papers (Working Papers in Linguistics 
+from A to Z) 3, ed. by Thomas G. Larson, 115-144. Tucson: University 
+of Arizona. 
+
+Speas, Margaret, 1984. Navajo Prefixes and Word Structure Typology. 
+MIT Working Papers in Linguistics 7.86-109. 
+
+Speas, Margaret. 1986. Adjunctions and Projections in Syntax . MIT 
+Ph.D. dissertation. 
+
+Speas, Margaret. 1987. Position classes and morphological universals. 
+Native Languages and Grammatical Typology , ed. by Paul Kroeber and 
+Robert Moore, 199-215. Bloomington: Indiana University Linguistics 
+Club. 
+
+Speas, Margaret. 1988. Agreement and Incorporated Pronouns in 
+Navajo . Paper presented at the Annual Meeting of the Linguistic 
+Society of America, New Orleans. [Also presented at the University 
+of Iowa Department of Linguistics, October 19th, 1988.] 
+
+Speas, Margaret. 1990. Incorporation Theory and the Mirror Principle. 
+Proceedings of the First Meeting of the Formal linp ui5; tics Society of 
+Midamerica. ed. by Denise Meyer, Satoshi Tomioka, and Leyla Zidani- 
+Eroglu. Madison: University of Wisconsin, Department of Linguistics 
+238-253. 
+
+Speas, Margaret. 1991. Functional Heads and Inflectional Morphemes. 
+The Linguistic Review 8(2-4). 
+
+
+
+ERIC 
+
+
+
+92 
+
+
+
+Uyechi, linda. 1991. The Navaio Third-Person Alternation and the 
+Pronoun Incorporation Analysis , Paper presented at the Athabaskan 
+Linguistics Conference. Santa Cruz, CA, July 2nd, 1991. 
+
+Whorf, Benjamin Lee. 1932. The structure of the Athabascan languages . 
+Ms. Sterling Memorial Library, Yale University. 
+
+Willie, Mary Ann. 1988. A Survey of the Navaio Fourth Person . 
+Unpublished MA Paper, University of Arizona. 
+
+Willie, MaryAnn. 1991. Navaio Pronouns and Obviation. University of 
+Arizona Ph.D. Dissertation. 
+
+Wright, Martha. 1984. The CV Skeleton and Mapping in Navajo Verb 
+Phonology. Proceedings of the North Eastern Linguistics Society 
+14.461-477. 
+
+Wright, Martha. 1987. Mapping and Movement of Partial matrices in 
+Navajo. Proceedings of the Northeastern Linguistics Society 16.27-41. 
+
+3.4. Caddoan 
+
+Rood, David S. 1971. Agent and Object rn Wichita. Lingua 28.100107. 
+
+Rood, David S. 1986. Morphology and polvsvnthetic languag es. Paper 
+presented at the Conference on American Indian Languages, at the 
+American Anthropological Association meeting. Philadelphia, 
+December 1986. 
+
+Rood, David S. 1989. Case and Argument Structure in Wichita . Paper 
+presented at the NSF Conference on Non-standard Case and Argument 
+Structure. Linguistic Institute, University of Arizona, Tucson. 
+
+3.5. Chinookan 
+
+Silverstein, Michael. 1984. Wasco- Wishram lexical derivation processes 
+vs. word-internal syntax. Papers from the Parasession on Lexical 
+Semantics > ed. by David Testen, Veena Mishra, and Joseph Drogo, 270- 
+288. Chicago: Chicago Linguistic Society. 
+
+3 .6. Eskimo-Aleut 
+
+Allen, Shanley E. M., and Martha B. Crago. 1989. Acquisition of Noun 
+Incorporation in Inuktitut. P apers and Reports on Child Language 
+Development 28.49-56. 
+
+Allen, Shanley E. M., and Martha B. Crago. 1990. First Language 
+
+
+
+ERIC 
+
+
+
+93 
+
+
+
+Acquisition of Inuktitut Paper read at the Inuit Studies Conference, 
+University of Alaska, Fairbanks, August 23, 1990. 
+
+Bergsland, Knut. 1989. Comparative aspects of Aleut syntax, 
+Aikakauskiria. Tournal de la Societe Finno-Ougrienne 82.7-80. 
+
+Bittner, Maria. 1988. The Antipassive Construction and Distributivitv. 
+Paper presented at the Annual Meeting of the linguistic Society of 
+America, Symposium on Cross-linguistic Quantification, New Orleans. 
+
+Bittner, Maria. 1989. Domain Selection: Evidence from Greenlandic 
+Eskimo. Paper presented at the Conference on Cross-linguistic 
+Quantification, Linguistic Institute, University of Arizona, Tucson. 
+
+Denny, J. Peter. 1981a. The logical semantics of only: tuaq , innaq , and 
+tuinnaq . (The Language of the Inuit: Historical, Phonological and 
+Grammatical Issues.) Etudes/Inuit/Studies 5.115-124. 
+
+Fortescue, Michael D. 1979. The relation of derivation to external syntax 
+in West Greenlandic. Proceedink"^ of the 5th Annual Scandinavian 
+Conference of Linguistics , ed. by T. Petterson, 23-28. Stockholm: 
+Almqvist & Wiksell. 
+
+Fortescue, Michael D. 1980. Affix ordering in West Greenlandic 
+derivational processes. International journal of American 
+Linguistics 46.259-278. 
+
+Fortescue, Michael D., and Lise Lennen Olsen. [Forthcoming.] The 
+acquisition of West Greenlandic. The crosslinguistic study of 
+language acquisition, vol. 3, ed. by Dan Slobin. Hillsdale, NJ: 
+Lawrence Erlbaum. 
+
+Grimshaw, Jane and Ralf-Armin Mester. 1985. Complex verb formation 
+in Eskimo. Natural Language and Linguistic Theory 3.1-19. 
+
+Jenkins, Carolyn J. 1984. Some aspects of word-formation in a 
+polysynthetic language. Proceedings of the Berkeley Linguistics 
+Society 10.104-115. 
+
+Jensen, John T., and Alana Johns. 1989. The Morphosyntax of Eskimo 
+Causatives. Theoretical Perspectives on Native American languag es, 
+ed. by Donna B. Gerdts and Karin Michelson, 209-229. Albany: SUNY 
+Press. 
+
+de Reuse, Willem J. 1988. Contact-induced typological change in 
+Siberian Yupik Eskimo. Paper presented at the 27th Conference on 
+American Indian Languages at the American Anthropological 
+Association meeting. Phoenix, Arizona. 
+
+
+
+ERIC 
+
+
+
+94 
+
+
+
+de Reuse, Willem J. 1988a. Studies in Siberian Yupik Eskimo 
+
+morphology and syntax . Ph.D. diss., University of Texas, Austin. 
+
+de Reuse, Willem J. 1988b. Detecting Pidgin Influence on a 
+
+Polysynthetic Language . Paper presented at the Annual Meeting of 
+the linguistic Society of America, New Orleans. 
+
+de Reuse, Willem J. 1989. Morphological Change and Internal Syntax in 
+Eskimo. Proceedings of the 25th Meeting of the Chicago linguistic 
+Society , 56-67. Department of Linguistics, University of Chicago* 
+
+de Reuse, Willem J. 1992. The Role of Internal Syntax in the Historical 
+Morphology of Eskimo. Morphology Now, ed. by Mark Aronoff. 
+Albany: State University of New York Press, 163-178. 
+
+Rischel, Jargen. 1971. Some characteristics of noun phrases in West 
+Greenlandic. Acta Linguistica Hafniensia 12.213-245. 
+
+Rischel, Jargen. 1972. Derivation as a syntactic process in Greenlandic. 
+Derivational Processes, ed. by Ferenc Kiefer, 60-73. Stockholm: 
+Research Group for Quantitative linguistics. 
+
+Sadock, Jerrold M. 1980. Noun incorporation in Greenlandic: a case of 
+syntactic word-formation. Language 56.300-319. 
+
+Sadock, Jerrold M. [1988.] Noun incorporation in Keewatin Inuktitut . 
+Unpublished ms., University of Chicago, Department of linguistics. 
+
+Smith, Lawrence R. 1978. A survey of the derivational postbases of 
+Labrador Inuttut (Eskimo) . Ottawa: National Museum of Man. 
+
+Smith, Lawrence R. 1978a. Some properties of Labrador Inuttut verbal 
+derivation. Etudes/lnuit/Studies 2(2). 37-48. 
+
+Smith, Lawrence R. 1979. Incorporation as a cyclic process in Labrador 
+Inuttut. Etudes/lnuit/Studies 3(2). 85-101. 
+
+Smith, Lawrence R. 1980. Som*^ categories and processes of Labrador 
+Inuttut word formation. International lournal of American 
+Linguistics 46.279-288. 
+
+Smith, Lawrence R. 1981. Propositional nominalization in Labrador 
+Inuttut (Eskimo). linguistics 19.63-99. 
+
+Smith, Lawrence R. 1982. An Analysis of Affixal Verbal Derivation and 
+Complementation in Labrador Inuttut. Linguistic Analysis 10.161-189. 
+
+
+
+ERLC 
+
+
+
+Smith, Lawrence R. 1982a. Labrador Inuttut (Eskimo) and the theory of 
+morphology. Studie*: in Language 6(2). 22 1-244, 
+
+Swadesh, Morris. 1946. South Greenlandic (Eskimo). Linguistic 
+Structures of Native America . (Viking Fund Publications in 
+Anthropology 6), ed. by Harry Hoijer et al., 30-54. New York: Viking 
+Fund. 
+
+Woodbury, Anthony C. 1985. Marginal agent clauses in Central Alaskan 
+Yupik Eskimo internal and external syntax. Papers from the 
+Parasession on Causatives and Agentivitv . ed. by William H. Hlfort, 
+Paul D. Kroeber, and Karen L Peterson, 271-292. Chicago: Chicago 
+Linguistic Society. 
+
+Woodbury, Anthony C, and Jerrold M. Sadock. 1986. Affixial [sic] verbs 
+in syntax: a reply to Grimshaw and Mester (1985). Natural Language 
+and Linguistic Theory 4.229-244. 
+
+3.7. Iroquoian 
+
+Abbott, Clifford. 1980. Noun incorporation in Oneida . Paper presented 
+at the 1980 Conference on Iroquois research. [See Algonquian and 
+Iroquoian Linguistics 6.1(2).] 
+
+Baker, Mark C. 1987. Incorporation in Mohawk . [Not the exact title]. 
+Paper presented at the Wenner-Grenn Conference on The Role of 
+Theory in Language Description. Ocho Rios, Jamaica, November 1-7, 
+1987. 
+
+Baker, Mark C. 1989. Non-standard Agreement in Mohawk Paper 
+presented at the NSF Conference on Non-standard Case and Argument 
+Structure. Linguistic Institute, University of Arizona, Tucson. 
+
+Baker, Mark C. 1992. Structure Preservation and Mohawk Inchoative 
+Verbs . Paper presented at the 18th Meeting of the Berkeley 
+Linguistics Society. Berkeley. 
+
+Baker, Mark C, and Kenneth L Hale. 1990. Relativized Minimality and 
+Pronoun Incorporation. Linguistic Inouirv 2 1(2). 289-297. 
+
+Beatty, John. 1974. Mohawk Morphology . Occasional Publications in 
+Anthropology, Linguistics Series 2, Greeley: University of Northern 
+Colorado. 
+
+Bonvillain, Nancy. 1974. Noun incorporation in Mohawk. Papers in 
+linguistics from the 1972 Conference on Iroquoian Research , ed. by 
+Michael K. Foster, 18-26. ( Mercury Series 10.) Ottawa: National 
+
+
+
+ERIC 
+
+
+
+96 
+
+
+
+Museum of Man. 
+
+Bonvillain, Nancy. 1989. Body, Mind, and Idea: Semantics of Noun 
+Incorporation in Akwesasne Mohawk. International Toumal of 
+American Linguistics 55.341-58. 
+
+Bonvillain, Nancy. 1989a. Noun Incorporation and Metaphon Semantic 
+Process in Akwesasne Mohawk. Anthropological Linguistics 31. 
+
+Chafe, Wallace. 1970. A Semantically Based Sketch of Onondaga. 
+International Tournal of American Linguistics 36(2), Part 2. 
+
+Feurer, Hanny. 1980. The acquisition of Mohawk: preliminary 
+observations of first language development. Studies on Iroquoian 
+Culture , ed. by Nancy Bonvillain. Occasional Publications in 
+Northeastern Anthropology 6. Department of Anthropology, 
+Franklin Pierce College, Rindge, New Hampshire. 
+
+Hill, Archibald A. 1952. A note on primitive languages. International 
+loumal of American Linguistics 18.172-177. 
+
+Hopkins, Alice W. 1988. Topics in Mohawk Grammar . Ph.D. 
+dissertation, CUNY. 
+
+Lounsbury, Floyd. 1953. Oneida Verb Morphology . Yale Unix'ersity 
+Publications in Anthropology 48. New Haven, Conn.: Yale 
+University. 
+
+Lounsbury, Floyd. 1968. One Hundred Years of Anthropological 
+Linguistics. One Hundred Years of Anthropology, ed. by J. O. Brew, 
+150-225. Cambridge, Mass.: Harvard University Press. 
+
+Lounsbury, Floyd. 1978. Iroquoian Languages. Handbook of North 
+American Indians, Vol. 15, Northeast, ed. by Bruce Trigger, 334-343. 
+Washington, D.C.: Smithsonian Institution. 
+
+Mithun, Marianne. 1989. The acquisition of polysynthesis. lournal of 
+Child language 16.285-312. 
+
+Mithun, Marianne. 1989a. The incipient obsolescence of polysynthesis: 
+Ca>'uga in Ontario and Oklahoma. Investigating obsolescence. Studies 
+in language contraction and death« ed. by Nancy C. Dorian, 243-257. 
+Cambridge: Cambridge University Press. 
+
+Mithun, Marianne, and Wallace Chate. 1979. Recapturing the Mohawk 
+language. languages and Their Status, ed. by Timothy Shopen, 3-33. 
+Cambridge, Mass.: Winthrop. 
+
+Scancarelli, janinc, 1988. Another Look at a 'Primitive Unguagc\ 
+
+
+
+ERIC 
+
+
+
+Paper read at the 1988 Conference on Iroquoian Research, 
+Rensselaerville, New York. 
+
+Woodbury, Hanni J. 1975. Onondaga noun incorporation: some notes 
+on the interdependence of syntax and semantics* International 
+Tournal of American Linguistics 41.10-20. 
+
+Woodbury, Hanni J. 1975a. Noun incorporation in Onondaga. Ph.D. 
+dissertation, Yale University. 
+
+Woodbury, Hanni J. 1976. Noun incorporation and Onondaga relative 
+constructions. Papers in linguistics from the 1972 Conference on 
+IroQuoian Research , ed. by Michael X. Foster, 1-17 (Mercury Series 
+10.) Ottawa: National Museum of Man* 
+
+3.8. Kalapuya 
+
+Rude, Noel. 1987. Noun stripping in Central Kalapuya. Proceedings of 
+the 2nd Annual Pacific Linguistics Conference, ed. by Scott Delancey 
+and Russell Tomlin, 423-433. 
+
+3.9- Muskogean 
+
+Booker, Karen. 1981. Incorporation in Muskogean. Kansas Working 
+Papers in Linguistics 6.55-69. 
+
+Broadwell, George A. 1988. Reflexive Agreement . Paper presented at 
+the 63rd Linguistic Society of America Meeting, New Orleans. 
+
+Davis, Philip W., and Heather K. Hardy. 1988. Absence of noun marking 
+in Alabama. International loumal of American Linguistics 54.279- 
+308. 
+
+Haas, Mary R. 1941. Noun incorporation in the Muskogean languages. 
+Language 17.311-315. 
+
+3.10. Natchez 
+
+Haas, Mary R. 1982. Noun incorporation in Natchez. Kansas Working 
+Papers in Linguistics 7.1-4. 
+
+3.11. SaUsh 
+
+Carlson, Barry F. 1989. Compounding and Lexical Affixation in Spokane. 
+Anthropological Linguistics 31. 
+
+
+
+'/2 
+
+
+
+98 
+
+
+
+Czaykowski, Ewa. 1982. An investigation of the lexical suffix in 
+Columbian Salish . Paper presented at the 17th International 
+Conference of Salish Linguistics. 
+
+Davis, Philip W., and Ross Saunders. 1973. Lexical suffix copying in 
+Bella Coola. Glossa 7.231-252. 
+
+Egesdal, Stephen M. 1981. Some ideas on the origin of Salish 
+substantival suffixes. University of Hawaii Working Papers in 
+Linguistics 13.4-19. 
+
+Gerdts, Donna B. 1989. Object Agreement in the Halkomelem Salish 
+Passive: a Morphological Explanation. General and Amerindian 
+Ethnolinguistics: In Remembrance of Stanley Newman, ed. by Mary 
+Ritchie Key and Henry M. Hoenigswald. Berlin: Mouton de Gruyter. 
+
+Hagege, Claude. 1977. Incorporation nominale et suf fixation lexicale: 
+Essai de typologie et cas particulier du comox (Langue amerindienne 
+de Colombie Britannique). Bulletin de la Societe de linguistique de 
+Paris 72(1).3 19-340. 
+
+Hagege, Claude. 1978. Lexical suffixes and incorporation in Mainland 
+Comox. Forum linguisticum 3.57-71. 
+
+Hagege, Claude. 1980. On noun incorporation in universal grammar 
+(further comments on a previous article). Forum Linguisticum 4.241- 
+245. 
+
+Kroeber, Paul D. 1987. Coast Salish and Incorporative Accounts of 
+Person-Number Marking. University of Chicago Papers in 
+Linguistics 3.145-150. 
+
+Mattina, Anthony. 1987. On the origin of Salish lexical suffixes . Paper 
+presented at the 26th Conference on American Indian Languages, 
+American Anthropological Asssociation Meeting, Chicago. 
+
+Newman, Stanley. 1967. A comparative study of Salish lexical suffixes . 
+Paper presented at the 3rd International Conference on Salish 
+Languages. 
+
+Saunders, Ross, and Philip W. Davis. 1975. The internal syntax of lexical 
+suffixes in Bella Coola. International lournal of American 
+Linguistics 41.106-113. 
+
+Saunders, Ross, and Philip W. Davis. 1975a. Bella Coola referential 
+suffixes. International lournal of American Linguistics 41.355-368. 
+
+
+
+ERIC 
+
+
+
+99 
+
+
+
+Saunders, Ross, and Philip W. Davis. 1975b. Bella Coola lexical suffixes. 
+Anthropological Linguistics 17.154-189. 
+
+Saunders, Ross, and Philip W. Davis. 1989. Lexical Morphemes in Bella 
+Coola. General and and Amerindian Ethnolinpuistics: In 
+I^emembrance of Stanley Newman, ed. by Mary Ritchie Key and 
+Henry M. Hoenigswald. Berlin: Mouton de Gruyter. 
+
+Thompson, M. Terry, ed. 1974. Herman Haeberl'n's distiibution of the 
+Salish Substantival [Lexical] suffixes. Anthrr polopical Linguistics 
+16{6).3l9-?5a 
+
+3-12. Siouan 
+
+Adam, Lucien. 1876, De la Derivation verbale speciFique, de 
+remboitement et du polvsvnthetisme dans la langue dakota . 
+
+Chambers, Jack. 1978. Dakota accent. Linguistic Studies of Native 
+
+Canada, ed. by Jonathan Kaye, 3-18. Vancouver: University of British 
+Columbia Press. 
+
+Martin, Jack. 1988. On the Interaction of Agreement and Verb 
+
+Incorporation in Crow Syntax. Paper read at the Annual Meeting of 
+the Linguistic Society of America, New Orleans. 
+
+de Reuse, Willem J. [1991.] Noun incorporation in Lakota (Siouan). To 
+appear in: International lournal of American Linguistics . 
+
+Wallace, Karen. 1991. xQ "Bindin^> Verb Incorporation, and Agreement 
+in Crow . Paper presented at the 65th Annual Meeting of the 
+Linguistic Society of America. Chicago. 
+
+White Eagle, Josephine. 1988. A Lexical Study of Winnebago. Lexicon 
+Project Working Papers 26. Center for Cognitive Science, MIT- 
+
+3.13. Takelma 
+
+Sako, Tomomi. 1988. Sapir's Takelma grammar and the notion of 
+
+'incorporation'. Newsletter of the Edward Sapir Society of lapan 2.5- 
+10. 
+
+3.14. Tanoan 
+
+Allen, Barbara J. 1978. Goal advancement and verb agreement in 
+Southern Tiwa. Workpapers of the Summer Institute of Linguistics 
+22.86-97. Grand Forks: University of Nonh Dakota, 
+
+
+
+ERIC 
+
+
+
+100 
+
+
+
+Allen, Barbara J., and Donald G. Frantz. 1978. Verb agreement in 
+
+Southern Tiwa. Proceedings of the Berkeley Ling uistics Society 4.11- 
+
+17. 
+
+Allen, Barbara J., and Donald G. Frantz. 1983. Advancements and verb 
+agreement in Southern Tiwa. Studies in relational grammar, ed. by 
+David M. Perlmutter, 303-316. Chicago: Chicago University Press. 
+
+Allen, Barbara J., and Donald G. Frantz. 1983a. An impersonal passive in 
+Southern Tiwa. Workpapers of the Summer Institute of l inguistics 
+27.1-9. Grand Forks: University of North Dakota. 
+
+Allen, Barbara J., and Donald G. Frantz. 1986. Goal advancement in 
+Southern Tiwa. International fournal of American Linguistics 
+52.388-403. 
+
+Allen, Barbara J., Donald G. Frantz, and Donna B. Gardiner. 1981. 
+
+Phantom Arcs in Southern Tiwa. Workpapers of the Su mmer Institute 
+of Linguistics 25.1-10. Grand Forks: University of North Dakota. 
+
+Allen, Barbara J., and Donna B. Gardiner. 1977. Noun incorporation in 
+Isleta. Work Papers of the Summer Institute of Linguistics 21.45-60. 
+Grand Forks: University of North Dakota. 
+
+Allen, Barbara J., and Donna B. Gardiner. 1981. Passive in Southern 
+Tiwa. Proceedings of the Ninth Annual Southwestern Areal 
+Language and Linguistics Workshop , ed. by Charles Herick, 291-302. 
+H Paso: University of Texas at H Paso. 
+
+Allen, Barbara J., Donna B. Gardiner, and Donald G. Frantz. 1984. Noun 
+incorporation in Southern Tiwa. International Journal of American 
+Linguistics 50.292-311. 
+
+Allen, Barbara J., Donna B. Gardiner, and David M. Perlmutter. [In 
+press.] Verb agreement, possessor ascension, and multistratal 
+representation in Southern Tiwa. Studies in Relational Grammar 3, 
+ed. by Brian Joseph and Paul Postal. Chicago: University of Chicago 
+Press. 
+
+Churchyard, Henry. 1992. Towards a Constrained Theory of 
+Morphological Discongruities: "Tops-together" Parallel 
+Representations . Paper presented at the 1 8th Meeting of the 
+Berkeley Linguistics Society. Berkeley. 
+
+Frantz, Donald G. 1981. Reflexives in Southern Tiwa . Paper presented to 
+the Canadian Linguistics Association. Halifax, Nova Scotia. 
+
+Frantz, Donald G. 1985, Syntactic constraints on noun incorporation in 
+
+
+
+ERIC 
+
+
+
+101 
+
+
+
+Southern Tiwa. Proceedings of the Berkeley Linguistics Society 
+11.107-116. 
+
+Frantz, Donald G. 1991. Null Heads and Noun Incorporation in Southern 
+Tiwa. Proceedings of the Berkeley Linguistics Society 16S: General 
+Topics in American Indian Linguistics. 
+
+Gerdts, Donna. 1987. A union analysis of noun incorporation. Paper 
+presented at the 3rd Biennial Conference on Relational Grammar. 
+University of Iowa. 
+
+Hale, Kenneth L 1972. A new perspective on American Indian 
+
+linguistics. New Perspectives on the Pueblos, ed. by Alfonso Ortiz, 
+87-110. Albuquerque: University of New Mexico Press. 
+
+Klaiman, Mimi H. 1989. Inverse Voice and Head-Marking in Tanoan 
+Languages. Proceedings of the 25th Meeting of the Chicago 
+Linguistic Society . 258-271. Depanment of Linguistics, University of 
+Chicago. 
+
+Kroskrity, Paul V. 1985. A holistic understanding of Arizona Tewa 
+passives. Language 61.306-328. 
+
+Ladusaw, William. 1989. Verb agreement in Southern Tiwa: a 
+monostratal account . Paper presented at the 8th West Coast 
+Conference on Formal Linguistics, February 24-26, 1989. 
+
+Leap, William L 1974. On Grammaticality in Native American English: 
+The Evidence from Isleta. International Toumal of the Sociology of 
+Language 2.79-89. 
+
+Leap, William L 1974a. Grammatical Structures in Native American 
+English: The Evidence from Isleta. Southwest Areal Linguistics , ed. 
+by Garland Bills, 175-188. San Diego: Institute for Cuhural Pluralism. 
+
+Leap, William L 1977. Two Examples of Isletan English Syntax. Papers 
+in Southwestern English II: Studies in Southwestern Indian English. 
+ed. by William L Leap, 64-78. San Antonio, Texas: Trinity University. 
+
+Perlmutter, David. 1986. Antipassive and Incorporation in Southern 
+Tiwa . Paper presented at the 2nd Biennial Conference on Relational 
+Grammar. The Ohio State University. 
+
+Rosen, Carol. 1990. Rethinking Southern Tiwa: The Geometry of a 
+Triple- Agreement Language. Language 66.669-713. 
+
+Sadock, Jerrold M. 1985b. The Southern Tiwa incorporability 
+
+hierarchy. Internatio nal lournal of American Linguistics 51.S68- 
+571. 
+
+
+
+ERIC 
+
+
+
+102 
+
+
+
+Trechsel Frank R 1990. Hierarchy of Feature s and Tnrorporation in 
+c;n„rh'ern Tiwa . Paper read at the SSILA Meeting, American 
+Anthropological Association Conference, New Orleans. [Ms. 
+Universidad de las Americas, Puebla, Mexico, 1988.] 
+
+Watkins, Laurel J. 1990. Tr^»,c, Vf^rhal Morphology. Paper presented at 
+the SSILA Summer Meeting. Vancouver, B.C. 
+
+Yumitani, Yukihiro. 1990. A Note on Noun Incorporation in .owa. 
+
+Paper presented at the 25th Mid-America Linguistics Conference. 
+
+University of Kansas, Lawrence. 
+ZaharUck, Amy. 1982. Taaoan studies: passive sentences in Picuris. 
+
+OhioJViTr Iljiinir-^ W--^'"f! ^^V^^^ 1" I-mguistics 26.34-48. 
+
+
+
+3.15. Tlingit 
+
+Leer leff 1989 Com parison of Noun and V erb Temp lates in Tlingit . 
+Paper presented at the Athabaskan Conference, Unguistic Institute. 
+University of Arizona, Tucson. 
+
+Velten, H. V. 1932. Two Southern Tlingit Tales. International journal > 
+American linguistics 10.65-74. 
+
+
+
+3.16. Tsimshian 
+
+Dunn, John A. 1983. Coast Tsimshian Non-basal Suffixes. 
+AnthroDOlr >f;iral l inguistics 25.1-18. 
+
+Dunn John A 1 990. Tnrorr^orativ p Inflection: The Lower Tsimshianic 
+Evidence . Paper presented at the 25th Mid-America Unguistics 
+Conference. University of Kansas, Lawrence. 
+
+Rigsby Bruce. 1975. Nass-Gitksan: an analytic ergative language. 
+Tntemational Toumal of American Linguistics 41.346-354. 
+
+Rigsby Bruce 1989. A later view of Gitksan syntax. General and. 
+^^IrinHi^n Fthnolinguis tirs: In Remembrance of Stanley Newman. 
+ed. by Mary Ritchie Key and Henry M. Hoenigswald, 245-259. Berhn: 
+Mouton de Gruyter. 
+
+
+
+
+3.17. Wakashan 
+
+Bach Emmon. 1989. Cases and 'Pa ssives' in North Wakashan. Paper 
+presented at the NSF Conference on Non-standard Case and Argument 
+Structure. Unguistic Institute, University of Arizona, Tucson. 
+
+
+
+^7 
+
+
+
+Bach, Emmon. 1989a. Morphological Categories . Paper presented at the 
+Conference on Advances in Categorial Grammar. Linguistic Institute, 
+University of Arizona, Tucson. 
+
+Levint, Robert D. 1980. On the lexical origin of the Kwakwala passive. 
+International Journal of American Linguistics 46.240258. 
+
+Swadesh, Morris. 1939. Nootka internal syntax. International Toumal 
+of American Linguistics 9.6-102. 
+
+3.18. Yuman 
+
+Katz, Joshua. 1990. Noun Incorporation in Yuman: Functional Cognates 
+and the wa/va Opposition . Paper presented at the Hokan-Penutian 
+Workshop. University of California, San Diego. 
+
+3.19. Zuni 
+
+Miner, Kenneth L 1986. Noun Stripping and Loose Incorporation in 
+Zuni. International journal of American Linguistics 52.242-254. 
+[Also in Kansas Working Papers in Linguistics 8(2), 1983.] 
+
+4. Mesoamerican (including Uto-Aztecan) 
+
+4.1. General 
+
+Campbell, Lyle, Terrence Kaufman and Thomas C. Smith-Stark. 1986. 
+Meso-America as a linguistic Area. Language 62.530570. 
+
+Suarez, Jorge A. 1983. The Mesoamerican Indian languages . Cambridge: 
+Cambridge University Press. 
+
+4.2. Mayan 
+
+Bricker, Victoria R. 1978. Antipassive constructions in Yucatec Maya. 
+Papers in Mavan Linguistics, ed. by Nora C. England. University of 
+Missouri Miscellaneous Publications in Anthropology 6. Columbia. 
+
+Bricker, Victoria R. 1985. Noun incorporation in the Dresden Codex. 
+Anthropological Linguistics 27.413-423. 
+
+Dayley, Jon P. 1981. Voice and Ergativity in Mayan Languages. lournal 
+of Mavan Linguistics 2(2). 3-82. 
+
+Miner, Kenneth L 1983a. Noun stripping in Chamorro and Jacaltec. 
+
+
+
+Papers of the 18th Annual Mid-America Linguistics Conference. 303- 
+31Z 
+
+
+
+Myhill, John. 1983. A comparative study of topic and focus 
+
+constructions with special reference to Tzotzil. Proceedings of the 
+Berkeley Linguistics Society 9.155-169. 
+
+Owen, Michael. 1968. The Semantic Structure of Yucatec Verb Roots . 
+Ph. D. diss. Yale University, Depanment of Anthropology. 
+
+Robertson, John S. 1980. The structure of pronoun incorporation in the 
+Mayan verbal complex. New York: Garland Press. 
+
+Sullivan, PauL 1984. Noun incorporation in Yucatec Maya. 
+Anthropological Linguistics 26.138-60. 
+
+4.3. Otomangean 
+
+Agee, Daniel, and Stephen Marlett. 1986. Indirect Objects and 
+
+Incorporation in Mazatec. Work Papers of the Summer Institute of 
+Linguistics, University of North Dakota Session 30.59-76. 
+
+Ecker, Lawrence. 1939. La Incorporacion del Objeto al Verbo en Otomi y 
+Mexicano. Proceedings of the 27th International Congress of 
+Americanists. 269-277. Mexico City. 
+
+4.4. Uto-Aztecan 
+
+Ecker, Lawrence. 1939. La Incorporacion del Objeto al Verbo en Otomi y 
+Mexicano. Proceedings of the 27th International Congress of 
+Americanists 269-277. Mexico City. 
+
+Escalante, Fernando. 1990. Voice and Argument Structure in Yaqui . 
+University of Arizona Ph.D. dissertation. 
+
+Escalante, Fernando, and Hoise Jelinek. 1989. Double Accusatives in 
+Yaqui. Proceedings of the Fourth Meeting of the Pacific Linguistics 
+Conference , 120-132. Eugene: University of Oregon. 
+
+Hill, Jane H. 1987. Women's speech in modem Mexicano. Language, 
+Gender, and Sex in Comparative Perspective , ed. by Susan U. Philips, 
+Susan Steele, and Christine Tanz, 121-160. Cambridge: Cambridge 
+University Press. 
+
+Hill, Jane H., and Kenneth C. Hill. 1986. Speaking Mexicano. Dynamics 
+of Svncretic Language in Central Mexico. Tucson: Uni\orsity of 
+
+
+
+Arizona Press. 
+
+
+
+Jelinek, Boise. 1989. Predicate Type and Incorporation in Yaqui. Paper 
+presented at the Conference on Cross-Linguistic Quantification, 
+Linguistic Institute, University of Arizona, Tucson. 
+
+Jelinek, Hoise. 1991. Noun and Verb in YaQui Possess ive Sentences. 
+Paper presented at the 65th Annual Meeting of the Linguistic Society 
+of America. Chicago. 
+
+Jelinek, Hoise, and Fernando Escalante. 1988. Incorporation in Yaqui. 
+Paper presented at the 27th Conference on American Indian 
+Languages at the American Anthropological Association meeting. 
+Phoenix, Arizona. 
+
+Jelinek, Boise, and Fernando Escalante. 1988a. 'Verbless' possessive 
+sentences in Yaqui. In Honor of Marv Haas: From the Haas Festival 
+Conference on Native American Linguistics, ed. by William Shipley, 
+41 1-430. Berlin: Mouton de Gruyter. 
+
+Langacker, Ronald W. 1976. Semantics of native languages in North 
+America. American Indian Languages and American Linguistics. 
+(Papers of the Second Golden Anniversary Symposium of the 
+Linguistic Society of America), ed. by Wallace L Chafe, 99-104. Usse: 
+Peter de Ridder Press. 
+
+Langacker, Ronald W. 1977. An overview of Uto-Aztecan Grammar . 
+(Studies in Uto-Aztecan Grammar 1.) Arlington: Summer Instuute of 
+Linguistics. 
+
+Lehmann, Walter. 1909. Methods and Results in Mexican Research . 
+Paris: H. Clarke. 
+
+Merlan, Francesca. 1976. Noun incorporation and discourse reference 
+in modern Nahuatl. International Toumal of American Linguistics 
+42.177-191. 
+
+Munro, Pamela. 1989. Postposition Incorporation in Pima. Southwest 
+loumal of Linguistics 9(1). 108-127. 
+
+Steele . Susan. 1976. A law of order: Word order change in Classical 
+Aztec. International loumal of American Linguisti cs 42.31-45. 
+
+Tuggy, David. 1981. The transitivity-related verbal morphology of 
+Tetelcingo Nahuatl: an exploration in space grammar . Ph.D. 
+Dissertation, University of California at San Diego. 
+
+Tuggy, David. 1087. La Incorporacion de Sustantivos en el Nahuatl. 
+
+
+
+106 
+
+
+
+Summer Institute of linguistics Mexico Work Papers 8.1-13. 
+
+Tuggy, David. 1987a. Noun incorporations in Nahuatl. Proceedings 
+from the 2nd Annual Pacific linguistics Conference. 455-480, 
+
+Tuggy, David. 1988. Nahuatl Causative/Applicatives in Cognitive 
+Grammar. Topics in Cognitive linguistics, ed. by Brygida Rudzka- 
+Ostyn, 587-618. Amsterdam: John Benjamins. 
+
+5. Sout±L American 
+
+5.1. General 
+
+Derbyshire, Desmond C, and Geoffrey K. PuUum, eds. 1986. Handbook of 
+Amazonian Languages , Vol 1. Berlin: Mouton de Gruyter. 
+
+Derbyshire, Desmond C, and Doris L Payne. 1990. Noun Classification 
+Systems of Amazonian Languages. Amazonian Linguistics. Studies in 
+Lowland South American languages, ed. by Doris L Payne, 243-271. 
+Austin: University of Texas Press. 
+
+Payne, Doris L 1988. Position, location, direction and movement in 
+Western Amazonian verbs . Paper presented at the 27th Conference 
+on American Indian Languages, at the American Anthropological 
+Association Meeting. Phoenix, Arizona. 
+
+Payne, Doris L 1990. Morphological Characteristics of Lowland South 
+American Languages. Amazonian Linguistics: Studies in Lowland 
+South American Languages, ed. by Doris L Payne, 213-241. Austin: 
+University of Texas Press. 
+
+5.2. Kuna 
+
+Sherzer, Joel. 1989. The Kuna verb: a study in the interplay of 
+grammar, discourse, and style. General and Amerindian 
+Ethnolinguistics: In Remembrance of Stanley Newman, ed. by Mary 
+Ritchie Key and Henry M. Hoenigswald, 261-272. Berlin: Mouton de 
+Gruyter. 
+
+5.3. Nadeb 
+
+Weir, E. M. Helen. 1990. Incorporation in Nadeb. Amazonian 
+
+Linguistics: Studies in Lowland South American Languages, ed. by 
+Doris L Payne, 321-363. Austin: University of Texas Press. 
+
+
+
+ERIC 
+
+
+
+5.4. Quechua 
+
+
+
+Mannheim, Bruce. 1981. Quechua internal syntax. Paper presented at 
+the Workshop on Iconicity and Arbitrariness in Language, Ithaca, 
+New York, April 1981. 
+
+Muysken, Pieter. 1981. Quechua word structure. Binding and Filtering , 
+ed. by F. Heny, 279-327. Cambridge: MIT Press. 
+
+Muysken, Pieter. 1981a. The Theory of Morphological Control. 
+Proceedings of the North Eastern linguistics Society 11. 219-234. 
+
+Muysken, Pieter. 1986. Approaches to affix order. Linguistics 24, 
+629-643. 
+
+Muysken, Pieter. 1988. Affix Order and Interpretation: Quechua. 
+Morphology and Modularity, ed. by Martin Everaen, Arnold Evers, 
+Riny Huybregts and Mieke Trommelen. Dordrecht: Foris. 
+
+5.5. Tupi-Guarani 
+
+Dietrich, Wolf. 1990. Chiriguano and Guarayo Word Formation. 
+Amazonian Linguistics: Studies in Lowland South American 
+Languages, ed. by Doris L Payne, 293-320. Austin: University of 
+Texas Press. 
+
+Jensen, Cheryl. 1987. Object-prefix incorporation in Proto Tupi- 
+Guarani verbs. Comparative linguistics of South American Indian 
+languages ^ ed. by Mary Ritchie Key, 45-55. (Language Sciences, 9(1)) 
+Tokyo: International Christian University. 
+
+Rodrigues, Danielle. 1987. Incorporation in Ancient Guarani. Paper 
+
+presented at the Working Conference on Amazonian Languages, 
+Eugene, Oregon. 
+
+Schleicher, Charles. 1989. The development of the Guarani verb svstem . 
+M.A. thesis, University of Kansas. 
+
+Schleicher, Charles. 1990. The Development of Noun Incorporation in 
+Guarani . Paper presented at the 19th Annual Linguistics Symposium, 
+University of Wisconsin-Milwaukee. 
+
+Velasquez, Maura. 1 986. A lexical approach to syntax and noun 
+incorporation in Guaran i. M.A. thesis. University of Kansas. 
+
+Velasquez, Maura. 1989. Guarani Possessive Constructions. Proceedings 
+
+
+
+of The Fourth Meeting of the Pacifir T inguist irs Conference. 489-506. 
+Eugene: University of Oregon. 
+
+5.6. Yagua 
+
+Everett, Daniel L 1989. Clitic doubling, reflexives, and word order 
+alternations in Yagua. Language 65.339-372. 
+
+Payne, Doris L 1986. Derivation, internal sv ntax. and external syntax 
+in Yagua . Paper presented at the 15th Annual University of 
+Wisconsin, Milwaukee Linguistics Symposium, Milwaukee 
+Morphology Meeting. 
+
+
+

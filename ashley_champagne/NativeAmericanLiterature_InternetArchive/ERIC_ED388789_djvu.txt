@@ -1,0 +1,10521 @@
+DOCUMENT RESUME 
+
+
+
+ED 388 789 
+
+
+
+CE 070 173 
+
+
+
+AUTHOR 
+TITLE 
+
+
+
+INSTITUTION 
+SPONS AGENCY 
+
+
+
+PUB DATE 
+CONTRACT 
+NOTE 
+
+PUB TYPE 
+
+
+
+Lewandowski, Carol 
+
+English as a Second Language in the Workplace. 
+P.R.I.D.E. People Retraining for Industry 
+Excel lence . 
+
+Mercer County Community Coll., Trenton, N.J. 
+Office of Vocational and Adult Education (ED), 
+Washington, DC. National Workplace Literacy 
+Program. 
+95 
+
+VA198A301A2-93 
+
+160p.; For related documents, see ED 351 578-599, ED 
+368 968-988, and CE 070 164-183. 
+Guides - Classroom Use - Teaching Guides (For 
+Teacher) (052) 
+
+
+
+EDRS PRICE MF01/PC07 Plus Postage. 
+
+DESCRIPTORS Adult Basic Education; Adult Literacy; Behavioral 
+
+Objectives; Competency Based Education; Curriculum 
+Guides; "English (Second Language); Vf Grammar; 
+*Idioms; Instructional Materials; Job Skills; Labor 
+Force Development; Language Skills; Learning 
+Activities; "Literacy Education; Second Language 
+Instruction; Student Evaluation 
+
+IDENTIFIERS "Workplace Literacy 
+
+ABSTRACT 
+
+This workplace skills course in English as a Second 
+Language in the workplace identifies English problems for non-native 
+speakers and encourages students to practice speaking, writing, 
+listening, and reading skills using company literature such as 
+procedures, lists, policies, and safety information- Introductory 
+material includes pre- and post-class exercises, a course outline, 
+objectives, topical outline, evaluation, evaluation applicable in the 
+workplace, and teacher tips. The course consists of 29 sessions, each 
+of which has these components: objectives, topics, methods, materials 
+list, and information sheets and handouts. Topics covered in the 
+sessions include English pronunciation, sentence structure, verb 
+tenses, American idioms, work vocabulary (such as commands for giving 
+instructions), role plays, and critical language skills. (YLB) 
+
+
+
+Vc it Vc Vc Vf Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vr Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc V? Vc Vc Vc Vf Vc Vc V? Vc >V Vc V»* Vf Vc Vc Vc 
+
+,v Reproductions supplied by EDRS are the best that can be made * 
+* from the original document. * 
+
+Vc * V? Vc >V Vc Vc Vc V? Vc Vc Vc Vc Vc V? V? Vc Vc Vc V? Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc 
+
+
+
+9 
+
+ERIC 
+
+
+
+as 
+
+00 
+
+tr- 
+ee 
+
+00 
+
+en 
+
+Q 
+W 
+
+
+
+
+MERCER COUNTY 
+COMMUNITY 
+COLLEGE 
+
+TRENTON • NEW JERSEY 
+
+
+
+
+U DEPARTMENT OF EDUCATION 
+On<e ol Education* Research and improvement 
+EDUCATIONAL RESOURCES INFORMATION 
+
+/ CENTER (ERIC) 
+
+ru4n documeni n»s been reproduced m 
+^iTe-ved from me P««on or org«n.Ml.o« 
+
+ongmeting it 
+C M.nor chenges heve been m.de io .mprove 
+reproduction Quehiy ____ 
+
+* Pftima ol vnw 0/ op«n.on» steied m tms docu 
+
+OERi position or policy 
+
+
+
+O 
+
+
+
+
+ERJC 
+
+
+
+People Retraining 
+J* Industry Excellence 
+
+
+
+English as a Second 
+Language in the Workplace 
+
+
+
+
+Mercer County Community College 
+
+Division of Corporate and Community Programs 
+1200 Old Trenton Road 
+Trenton, NJ 08690 
+
+Elaine S. Weinberg 
+Director, Workplace Skills 
+
+Developed with funds from the United States Department of Education 
+National Workplace Literacy Program 
+
+1995 
+
+
+
+ACKNOWLEDGMENT 
+
+
+
+Mercer County Community College thanks Carol Lewandowski, Senior 
+Education Specialist/Curriculum Developer for creating this manual. Through 
+her valuable contributions employees in manufacturing and service industries 
+learned concepts relevant to their existing jobs and strategies for learning other 
+tasks if that opportunity should arise. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wc 
+
+
+WKPLAC 
+
+
+ESK1 
+
+
+it 
+
+
+
+
+
+
+% 
+
+
+■Gi 
+
+
+wit 
+
+
+OS 
+
+
+'OPh 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A factory or service center creates a classroom that is very different from the one 
+we are used to seeing in colleges and adult schools, so it only follows that our approach to 
+teaching in the factory should also differ. 
+
+Our goal is to teach employees skills that they need in order to be functional and 
+successful in their work environment, and encourage them to apply those skills on the job 
+and at home. For example, we motivate students to do the following: 
+
+• work more efficiently and more safely 
+
+• make fewer mistakes 
+
+• solve problems working interactively 
+
+• take greater responsibility for their jobs 
+
+• recognize the interconnectedness of the various jobs in their workplace 
+
+• be better communicators in the workplace 
+
+Company needs are revealed through a needs assessment. At that time, we also 
+determine the basic skills needs of the employees. We are learner centered, as the 
+individual employee's needs are considered alongside those of the company. 
+
+Once we have determined those needs, we develop curricula that incorporate basic 
+skills, using the workplace literature (e.g. forms, applications, codes, abbreviations, charts 
+and tables, handbooks, regulations, procedures, policies, memos, letters) of the company. 
+Because each company is different, the needs and literature are also different; hence, we 
+develop new materials for every company in which we teach. By utilizing these 
+workplace items, we help students transfer and apply their skills directly to their jobs. 
+
+We rely on the classroom techniques of problem solving, cooperative learning, 
+and group discussion. Our overall approach is concept based, with the emphasis on 
+application, such as in role plays, dialogues, and group work. Despite the specific course 
+titles, we incorporate the elements of math, English, and communication skills into all of 
+our sessions. 
+
+In terms of students evaluation, after initial testing we give a pre-test and post-test 
+in order to determine comprehension. Students receive feedback throughout the course 
+from the instructor, as well as from fellow students as we sincerely believe in the 
+powerful positive reinforcement of peer critiques and cooperative exchanges. 
+
+In essence, we believe that although we make the materials for the students with 
+which to work, it is the students who truly make the class. 
+
+
+
+
+J 
+
+
+
+Page 1 
+
+
+
+ESL f PRE AND POST-GLASS EXERCISES 
+
+
+
+NAME: 
+
+
+
+Part I: 
+
+Fill in the correct verb tenses in these sentences using the verb that appears at the 
+end of the sentence. 
+
+
+
+EXAMPLE: Paul always 
+(to bring) 
+
+
+
+his lunch. 
+
+
+
+1. Tom usually 
+(to read) 
+
+
+
+the instructions first. 
+
+
+
+2. Right now, Susan . 
+(to use) 
+
+
+
+the hammer. 
+
+
+
+3. Tomorrow, we 
+(to have) 
+
+
+
+class in the conference room. 
+
+
+
+4. Yesterday, I 
+(to talk) 
+
+
+
+to my supervisor. 
+
+
+
+5. Karen 
+
+
+
+(to work) 
+
+
+
+very hard this month. 
+
+
+
+ERLC 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 2 
+
+
+
+ESL f PRE AND POST-CLASS EXERCI^ 
+
+PART II: 
+
+Fill in the correct words in these sentences. 
+
+6. I keep my pencil the desk, and when I am finished I put it the 
+
+box. 
+
+7. I live Trenton, Hamilton Street. Actually, I live 
+
+#45 Hamilton Street. 
+
+
+
+8. Where do you come ? Puerto Rico or Ecuador? 
+
+9. We come to work 8:00 and we work the production area. 
+
+PARTIli: ; 
+
+Fill in the correct quantity word in the sentences below. 
+
+Examples: a) How chairs do we need? 
+
+b) They have time to study. 
+
+10. How units does he have? 
+
+1 1 . How ; coffee does she drink? 
+
+12. At the store, I will buy fruit. 
+
+1 3. Because they are rich, they have , money. 
+
+
+
+Mercer County Community College 
+
+
+
+E$L 1 PRE AND POST-CLASS EXERCISES 
+
+PART IV: 
+
+Make questions to get these sentences as answers. 
+
+EXAMPLE: He lived in Trenton. 
+
+Question: Where did he live? 
+
+14. She worked &t that company for a long time. 
+
+Question: 
+
+15. We will come to work at 8:00. 
+
+Question: . 
+
+16. They have eaten lunch today. 
+
+Question: 
+
+17. He has a lot of work to do. 
+
+Question: 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 4 
+
+
+
+ESL f PRE AND POST-CLASS EXERCISES 
+
+
+
+PART V: Codes and Schedules 
+
+Answer these questions, using the schedule and list below. 
+
+
+
+Item 
+
+
+Quantity 
+
+
+Deadline 
+
+
+XY221 
+
+
+592 
+
+
+1/3/95 
+
+
+XY212 
+
+
+331 
+
+
+7/7/95 
+
+
+
+Item List: 
+
+=> X Y2 1 2 blue paint tubes 
+
+=> XY215 orange paint tubes 
+
+=> XY200 black paint tubes 
+
+=> XY221 green paint tubes 
+
+
+
+1 8. What item is due at the beginning of the year? 
+
+
+
+19. How many green tubes of paint do you need? 
+
+
+
+20. What is the code for blue paint? 
+
+
+
+O . 
+
+E RJC Mercer County Community College 
+
+
+
+Page 5 
+
+
+
+ESL f PRE AND POST-CLASS EXERCISES 
+
+
+
+PART VI: Dictation 
+
+Listen to the teacher for the first reading. Then, as the teacher reads a second time, 
+write down what she says. She will read the paragraph a third time - make 
+corrections then. 
+
+
+
+ERIC 
+
+
+
+P.R.l.D.E. 
+
+
+
+ESLINTHK 
+
+
+
+COURSE OUTLINE: 
+
+This course identifies English problems for non-native speakers and encourages 
+students to practice speaking, writing, listening, and reading skills using company 
+literature such as procedures, lists, policies, and safety information. This class will 
+also motivate students to improve pronunciation, sentence structure, verb tenses, 
+American idioms, and enhance their work vocabulary. 
+
+OBJECTIVES: 
+
+Upon completion of this course, students will be able to: 
+
+• Ask grammatically correct questions in various tenses 
+
+• Give grammatically correct answers in various tenses 
+
+• Ask for and understand oral instructions 
+
+• Read and interpret written instructions 
+
+• Read and use the literature in the workplace 
+
+• Report important workplace events in a clear and concise manner 
+(written and spoken) 
+
+• Communicate effectively with co-workers 
+
+• Use improved language skills to problem solve in the workplace 
+
+• Build a working English vocabulary for the workplace and beyond 
+
+
+
+TOPICAL OUTLINE: 
+
+
+
+• Simple present tense 
+
+• Present Progressive tense 
+
+• Simple past tense - regular and irregular verbs 
+
+• Expression "It takes me" 
+
+• Cardinal and Ordinal Numbers 
+
+• Codes, Abbreviations, and Symbols 
+
+• Nouns and Pronouns 
+
+• Prepositions 
+
+
+
+E RJC Mercer County Community College 
+
+
+
+Page 2 
+
+
+
+ESL IN THE WORKPLACE 
+
+
+
+TOPICAL OUTLINE (CON'T): 
+
+
+
+Commands for giving instructions 
+MSDS sheets and safety vocabulary 
+
+Role plays: introducing yourself and others; asking for information; 
+reporting information and incidents; implementing safety rules and 
+disciplinary procedures; asking for and giving instructions 
+Work vocabulary 
+
+• Work literature: forms, labels, instructions; MSDS sheets; disciplinary 
+and safety policies. 
+
+Team building activities: brainstorming, building, consensus, and 
+problem solving 
+
+Critical language skills: dialogues; role plays; idioms; situations for 
+various levels of speech (formal, informal) 
+
+
+
+EVALUATION: 
+
+
+
+• students will be evaluated for written and spoken language skills with 
+interviews and analysis of pre and post-tests 
+
+• improvement in learning techniques will be evaluated based on 
+performance in class and on worksheets 
+
+• students will perform self-evaluations based on correct completion of 
+worksheets 
+
+
+
+1 - , 
+
+
+
+:RJC Mercer County Community College 
+
+
+
+Page 3 
+
+
+
+ESLIN THE WORKPLACE 
+
+
+
+EVALUATION APPLICABLE IN THE WORKPLACE: 
+
+At the end of this course, students will perform more effectively in the workplace: 
+
+• Students will be more competent at number use and discrimination. 
+This competency will reduce the number of job errors that revolve 
+around the use of forms, material code numbers, labels, and directions. 
+
+• Students will be more effective communicators in that they will be able 
+to use correct verb tenses and time expressions, which will reduce the 
+occurrence of misunderstanding or miscommunication. 
+
+• Students will be more adept at giving and receiving instructions, both 
+written and oral. This will enhance their ability to perform jobs on the 
+line and make fewer errors in completion of those tasks. 
+
+
+
+lo 
+
+o 
+
+ERIC PRIDE. 
+
+
+
+Page 4 
+
+
+
+^TEACHER TIPS&S 
+
+
+
+This class has been designed with an interactive learning environment in mind. In 
+other words, students should be encouraged to work together and to express 
+themselves as often as possible. 
+
+These terms are used to suggest these activities in t he workplace classroom: 
+DIALOGUES 
+
+♦ students take turns reading the parts of the dialogue 
+
+♦ students break into pairs and practice the dialogue together 
+
+♦ students are taped reading and listen to themselves at playback time 
+
+
+
+ROLE PLAYS 
+
+
+
+♦ students take ideas for role plays and develop them into dialogues 
+
+♦ students write out their own dialogues to fit the situations 
+
+♦ students break into pairs and practice the dialogue together 
+
+♦ students are taped reading their dialogues 
+
+
+
+WORKSHEETS 
+
+♦ students practice questioning each other with worksheets 
+
+♦ students come up with their own questions for each other 
+
+♦ real life questions and answers are practiced 
+
+
+
+LISTS OF CODES, VOCABULARY, ABBREVIATIONS, ETC. 
+
+♦ lists broken down on notecards to facilitate student organization 
+
+♦ lists broken down into sections and given to groups 
+
+♦ lists left half completed and the rest generated by students 
+
+
+
+O . 
+
+£ J^JjC Mercer County Community College 
+
+
+
+Page 5 
+
+
+
+ESL IN THE WORKPLACE ♦ SESSION 1 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use the present tense correctly in both statements and questions 
+
+• recognize use of DOES and DO with present tense 
+
+• read and understand a job description 
+
+• take action on a job offering if interested 
+
+• introduce themselves 
+
+TOPICS: 
+
+• simple present tense 
+
+• Question and Answer (Q/A) review 
+
+• job description 
+
+• introductions 
+
+METHODS: 
+
+• class discussion 
+
+• dialogues 
+
+• Q/A session 
+
+MATERIALS: 
+
+• worksheets 
+
+• tape recorders 
+
+
+
+ERjC P.R.I.D.E. 
+
+
+
+Page 6 
+
+
+
+pREsmrmmB 
+
+
+
+As a review of the simple present tense, fill in the correct verbs to complete these 
+paragraphs. 
+
+1. Every day, Louise to work. She her 
+
+blue Mazda to work and she it in the company parking 
+
+lot. Then, she into the building. Sometime she 
+
+to the cafeteria to get a cup of coffee. She 
+
+her coffee on the way to her department, and she 
+
+
+
+work at 8:15. Louise in the packing 
+
+
+
+area. Later, at 10:00, she a break and sometimes she 
+
+another cup of coffee. Then she 
+
+back to work, until lunch. Louise's lunch __ at 12:15. She 
+
+usually in the cafeteria because she 
+
+her own lunch. She with her co- 
+workers and they about their jobs and the weather. At 
+
+the end of the day, Louise work at 4:00. She really 
+
+her job, even if it hard work! 
+
+
+
+lb 
+
+
+
+E RJC Mercer County Community College 
+
+
+
+VERB TENSES 
+
+
+
+♦ Practice the present tense with students, using Q/A technique. 
+
+
+
+♦ Practice question: WHAT DOES [ MEAN? 
+
+Practice answer: MEANS 
+
+
+
+Use following company vocabulary: 
+
+work order 
+product code 
+start time 
+down time 
+mixing 
+filling 
+spiral 
+tabbing 
+tube 
+
+traying in 
+
+
+
+labor 
+
+operator sequence 
+
+stop time 
+
+milling 
+
+shrinking 
+
+packing 
+
+collate 
+
+lab 
+
+traying out 
+3 hole punch 
+
+
+
+Students will ask each other these questions and get definitions: Keep track of 
+their definitions and use as review in session 2. 
+
+
+
+P.R.LD.E. 
+
+
+
+X i 
+
+
+
+Page 8 
+
+
+
+>>> Employment Opening <« 
+
+
+
+Job Title: Hi-Lo Operator Positions: 1 
+
+Department: Tube Filling Supervisor: J. Lewis 
+
+Rate: $7.82 - $8.32 hr. Shift: 8-4:30 
+
+
+
+Position Summary: - Kits work orders for tube filling 
+
+- Returns unused materials to proper location 
+
+- Performs counts and completes forms 
+
+- Moves finished product to warehouse 
+Qualifications: - Ability to operate Hi-Lo 
+
+- Capable of lifting 50 lbs. 
+
+- Good math skills 
+
+Interested candidates please print name below no later than March 30, 1994. 
+Print name Print name 
+
+
+
+is 
+
+
+
+© • 
+
+ERIC — Mercer County Community College 
+
+
+
+Page 9 
+
+
+
+JOB DESCRIPTIONS 
+
+
+
+1 . What is the title of the job listed? 
+
+
+
+2. Which department is this position in? Who is the supervisor? 
+
+
+
+3. How many positions are available at this time? 
+
+
+
+4. What are the hours for this job? 
+
+
+
+5. How much does the job pay? 
+
+
+
+6. What is the deadline for application? 
+
+
+
+7. What does a hi-lo operator do? Look for the VERBS. 
+
+
+
+8. What abilities should a hi-lo operator have? Look for the NOUNS. 
+
+
+
+jl J 
+
+
+
+ERiC PR ' DE 
+
+
+
+Page 10 
+
+
+
+
+
+Introducing yourself: 
+Dialogue 1 
+
+a: Hello, my name is . 
+
+b: Hello, I am . 
+
+a: Nice to meet you, . 
+
+b: Same here! 
+
+Dialogue 2 
+
+a: Hello, my name is . What's your name? 
+
+b: My name is . Nice to meet you. 
+
+a: Nice to meet you too. 
+
+a: What do you do in this company? 
+
+b: I work in the warehouse. Where do you work? 
+
+a: I work in the shipping area. 
+
+b: Oh, that's right. You do look familiar! 
+
+a: Maybe we can have lunch together tomorrow. 
+
+b: Sounds good. See you tomorrow then. 
+
+a: Yep, see you then. 
+
+
+
+ERLC 
+
+
+
+Mercer County Community College 
+
+
+
+GREETINGS 
+
+Dialogue 3 
+
+a: Hello. Are you Bob, the new worker? 
+
+b: No, I'm not. I'm . 
+
+a: Oh, hello . Nice to meet you. 
+
+b: And what's your name? 
+
+a: Oh, I'm sorry. My name is . 
+
+b: Hello, . Nice to meet you. 
+
+a: Same here. 
+
+
+
+ERJC PRIDE. 
+
+
+
+Page 12 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use pronouns correctly in both statements and questions 
+
+• use a selection of work related vocabulary correctly 
+
+• read and understand a labor/time card 
+
+
+
+TOPICS: 
+
+
+
+• pronoun review 
+
+• labor/time card 
+
+
+
+METHODS: 
+
+
+
+• class discussion 
+
+• Q/A session 
+
+
+
+MATERIALS: 
+
+
+
+• worksheets 
+
+• labor/time cards 
+
+
+
+Mercer County Community College 
+
+
+
+Page 13 
+
+
+
+PRONOUNS 
+
+
+
+As a review of pronouns, write the correct pronoun in the space to complete the 
+sentence. 
+
+
+
+1 . Clara really enjoys her job. 
+
+
+
+always comes to work on time. 
+
+
+
+2. Steve works in a different place everyday, 
+around a lot! 
+
+
+
+sure moves 
+
+
+
+3. The packages are sitting on the scale. 
+
+
+
+are being weighed. 
+
+
+
+4. Do you have the keys to the cabinet? I'm sorry, but I don't know where 
+are. 
+
+
+
+5. The supervisor always makes a schedule, 
+board. 
+
+
+
+puts 
+
+
+
+on the 
+
+
+
+6. This is a nice company. Actually, 
+have worked for. 
+
+
+
+is the nicest company I 
+
+
+
+7. Our computer is not working today, so 
+mailing labels. 
+
+
+
+can't check the 
+
+
+
+o ^ 
+
+
+
+ERJC PR.io.E. 
+
+
+
+Page 14 
+
+
+
+VERB TENSES AND VOCABUI^^mVIEW 
+
+
+
+♦ Practice the vocabulary from session 1: use notecards generated from previous 
+class. 
+
+
+
+♦ Students draw card and practice question: 
+
+WHAT DOES MEAN? 
+
+Practice answer using pronoun: IT MEANS 
+
+
+
+Use following company vocabulary cards: 
+
+
+
+work order 
+product code 
+start time 
+down time 
+mixing 
+filling 
+spiral 
+tabbing 
+tube 
+
+traying in 
+
+
+
+labor 
+
+operator sequence 
+
+stop time 
+
+milling 
+
+shrinking 
+
+packing 
+
+collate 
+
+lab 
+
+traying out 
+3 hole punch 
+
+
+
+o , 
+
+
+
+Mcrccr County Community College 
+
+
+
+Page 15 
+
+
+
+WORK ORDER & LABOR REPORTING CARD 
+
+
+
+Name: #: 
+
+Week of: Dept. 
+
+
+
+Date 
+
+
+In 
+
+
+Out 
+
+
+Hrs. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ERjC P.R.I.D.E. 
+
+
+
+Page 16 
+
+
+
+WORK ORDER & LABOR REPORTING CARD 
+
+
+
+ROWS go across 
+
+horizontal 
+
+COLUMNS ^ go down 
+
+vertical 
+
+
+
+LABELS or the names that appear on top of a 
+
+TITLES column or in front of a row 
+
+
+
+♦ How many rows are there in this form? 
+
+
+
+♦ How many columns are there in this form? 
+
+
+
+♦ What is the title or label of the first column? 
+
+
+
+♦ What is the label for the third column? 
+
+
+
+♦ What is the label for the last column? 
+
+
+
+O . — 
+
+£ J^IC Mercer County Community College 
+
+
+
+Page 17 
+
+ESL IN THE WORKPLACE + SESSIO^^ 
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use articles correctly 
+
+• use the "What for?" question and answer correctly 
+
+• recognize and explain tool uses 
+
+• introduce another person 
+
+TOPICS: 
+
+• articles 
+
+• Question and Answer 
+
+• job tools and uses 
+
+• introductions 
+
+METHODS: 
+
+• class discussion 
+
+• role plays 
+
+MATERIALS: 
+
+• worksheets 
+
+• tape recorders 
+
+
+
+ERJC PRIDE. 
+
+
+
+Page 18 
+
+
+
+As a review, fill in the articles (a/an/the) to complete these paragraphs. 
+
+1. I have red car. car is 6 years old. I like 
+
+car I have, but I really want to buy new one. 
+
+2. He doesn't use air gun, but he uses rivet gun. 
+
+gun he uses has long wire and many switches. At 
+
+night, he puts in tool box. 
+
+3. Quality control is not easy job. Sometimes machines 
+
+break down and we have to call repairman. When we do, 
+
+repairman usually comes same day. 
+
+4. I read for hour at night before I go to bed. I usually read 
+
+magazine, or sometimes good book. For example, 
+
+book I am reading now is mystery. 
+
+
+
+2o 
+
+
+
+
+Mercer County Community College 
+
+
+
+Page 19 
+
+
+
+ARTICLES 
+
+
+
+Machines and tools at the company 
+
+
+
+
+WHAT FOR and TO DO WHAT? 
+
+
+
+Q: What do we use a spatula for? 
+
+A: We use a spatula to scrape paint from containers. 
+
+
+
+Q: What do we use pallets for? 
+
+A: We use pallets to stack materials. 
+
+
+
+Practice with these words: 
+
+
+
+mill 
+
+hole punch 
+push wheel 
+totes 
+
+versate machine 
+
+
+
+paper counter 
+presser machine 
+skids 
+
+mineral spirits 
+viscometer 
+
+
+
+ERLC 
+
+
+
+2j 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 20 
+
+
+
+
+Introducing someone else to another person: 
+
+a: Hello, . Let me introduce you to 
+
+b: Hello, . My name is 
+
+c: Nice to meet you, . 
+
+b: Same here. 
+
+
+
+a: Hey, . I don't think you have met my friend. Let me 
+
+introduce you to . This is . 
+
+b: Hello . Nice to meet you. Where do you work? 
+
+c: I work in the shipping department. And you? 
+b: I work in the packing area, 
+c: Oh, yeh. Nice to meet you. 
+b: Same here. 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 21 
+
+
+
+ROLE PLAYS 
+
+
+
+
+1 . You take a co-worker to a friend's BBQ. Introduce him to your friend. 
+
+
+
+2. You are new to the department and do not know everyone. Introduce yourself 
+to someone new. 
+
+
+
+3. Find out if that person next to you is the new employee. 
+
+
+
+4. You are waiting in the lobby for your ride. Someone else comes in to wait for 
+his wife to come out from work. How would you introduce yourself? 
+
+
+
+ERIC PRIDE. 
+
+
+
+31 
+
+
+
+Page 22 
+
+
+
+; :; E^:1N&HE WORKPLACE W^^SIim4 
+
+
+
+OBJECTIVES: 
+
+
+
+At the end of this session, students will be able to do the following: 
+
+• use "this" and "these" correctly 
+
+• make plurals 
+
+• use subjects and verbs in agreement (there is, there are) 
+
+• describe their workplace surroundings 
+
+
+
+TOPICS: 
+
+
+
+this/these 
+plurals 
+
+subject and verb agreement 
+surroundings 
+
+
+
+METHODS: 
+
+
+
+• class discussion 
+
+• dialogues 
+
+• Q/A session with surroundings 
+
+
+
+MATERIALS: 
+
+
+
+• worksheets 
+
+
+
+
+eric 
+
+
+
+Mercer County Community College 
+
+
+
+Page 23 
+
+
+
+v THIS AND : THESEP^ ? ^ 
+
+Review the use of THIS (singular) and THESE (plural). 
+
+Use either THIS or THESE to make sentences for these ideas. Make sure that your 
+verb (IS/ARE) matches. 
+
+Examples: my wires (more than one = these are) 
+These are my wires. 
+
+her schedule (only one = this is) 
+This is her schedule. 
+
+1. their glasses 
+
+2. our classroom 
+
+3. your notebook 
+
+4. her timecard 
+
+5. the company's machine 
+
+
+
+ERIC PRID.E. 
+
+
+
+Page 24 
+
+
+
+Review the use of THIS (singular) and THESE (plural). 
+6. our forms 
+
+
+
+7. the teacher's blue pair of glasses 
+
+
+
+8. his time cards 
+
+
+
+9. their paint 
+
+
+
+10. their tubes of paint 
+
+
+
+3<i 
+
+
+
+o . 
+
+E RJC Mercer County Community College 
+
+
+
+Page 25 
+
+
+
+PLURALS 
+
+
+
+© Most plurals in English are made by adding S: 
+
+
+
+cats 
+
+machines 
+
+
+
+cars 
+tools 
+
+
+
+jobs 
+pens 
+
+
+
+© If you hear an EZ sound, then you have to add ES: 
+
+
+
+matches 
+batches 
+
+
+
+witches 
+switches 
+
+
+
+© If the word ends in consonant Y, change the Y to I and add ES: 
+
+
+
+fly 
+spy 
+
+
+
+> 
+> 
+
+
+
+flies 
+spies 
+
+
+
+© If the word ends in vowel Y, keep the Y and add just S: 
+
+
+
+tray 
+
+
+> 
+
+
+trays 
+
+
+day 
+
+
+> 
+
+
+days 
+
+
+boy 
+
+
+> 
+
+
+boys 
+
+
+attorney 
+
+
+> 
+
+
+attorneys 
+
+
+
+© Beware the irregular plurals in English!! They are very strange, and the only 
+way to remember them is to memorize them. 
+
+man > men 
+
+woman > women 
+
+child > children 
+
+person > people (or persons) 
+
+
+
+ERLC 
+
+
+
+P.R.I.D.E. 
+
+
+
+r, » • 
+
+
+
+Page 26 
+
+
+
+
+
+. ■■ ■' ■■ — - rr- v.-v... . 
+
+
+PLURALS ^ 
+
+
+
+
+
+
+
+Make the plural word for these singular words. Be careful!! 
+
+
+
+1 . hour 
+
+2. machine 
+
+3. batch 
+
+4. clay 
+
+5. tube 
+
+6. sheet 
+
+7. fly 
+
+8. man 
+
+9. watch 
+
+10. pace 
+
+
+
+3u 
+
+
+
+E RJC Mercer County Community College 
+
+
+
+Page 27 
+
+
+
+PLURALS 
+
+
+
+What is there? 
+
+Go around the room and talk about what there is, or what there are. 
+
+* Be sure to use correct plurals 
+
+* Be sure to use the correct verb (is/are) 
+
+
+
+ERIC PRIDE. 
+
+
+
+o ■ ■ 
+
+
+
+Page 28 
+
+
+
+ESLW THE WORKPLACE ♦ SESSION S 
+
+
+
+At the end of this session, students will be able to do the following: 
+
+• decode and understand abbreviations 
+
+• write abbreviations correctly 
+
+• read and understand a set of instructions with abbreviations 
+
+TOPICS: 
+
+• general abbreviations 
+
+• abbreviations in the workplace 
+
+• instructions with abbreviations 
+
+METHODS: 
+
+• class discussion 
+
+• Q/A session 
+
+• team work to decode 
+
+MATERIALS: 
+
+• worksheets 
+
+
+
+3o 
+
+
+
+
+Mercer County Community College 
+
+
+
+Page 29 
+
+
+
+ABBREVIATIONS 
+
+Abbreviations are used to replace frequently used words or expressions. For 
+example, if you send a package using the United Parcel System, then you have to 
+call UPS to pick it up for you. 
+
+♦ Some abbreviations are made from parts of the word that they mean: 
+
+Mo. = MONTH 
+Yr. = YEAR 
+
+♦ Other abbreviations are made from taking the first letters from the words that it 
+relates to or means: 
+
+QC = Quality Control 
+
+JIT = Just in Time 
+
+♦ If you are not sure what an abbreviation means, then ask! 
+"What does UPS mean ?" 
+
+" UPS means United Parcel Service ." 
+
+
+
+Page 30 
+
+
+
+
+i i ■ " ■ ' . Z j ,, rji -•, — " 
+
+ABBREVIATIONS 
+
+
+
+See if you can think of what these abbreviations might mean. Then, practice 
+asking and telling what these abbreviations mean. 
+
+1. Qty- 
+
+2. No. 
+
+3. Cm. 
+
+4. ASAP 
+
+5. lb. 
+
+6. wt. 
+
+7. Loc. 
+
+8. MSDS 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 3 1 
+
+
+
+ABBREVIATIONS 
+
+
+
+Very often it is easy to figure what an abbreviation means by the context, or the 
+surrounding words. 
+
+Read this set of instructions below. Figure out what the abbreviations mean, and 
+then rewrite the instructions using the complete words. 
+
+Then, think of what you could title these instructions: 
+
+HOW TO __ . 
+
+
+
+♦ 
+
+
+
+Take the ctns. and get their wt. 
+
+Calc. total amt. of wt. 
+
+Transfer amt. to doc. In. 4 under total 
+clmn. 
+
+Make sure labels are on ctn. and 
+brackets are on ctn. cms. 
+
+Put no. on boxes, such as 1/5, 2/5 to 
+record qty. 
+
+Do QC on addresses to make sure 
+they have zips. 
+
+FYI: give final cnt. to ship. dept. 
+A.S.A.P.!! 
+
+
+
+ERiC 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 32 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• decode and understand abbreviations 
+
+• write abbreviations correctly 
+
+• read and understand memo with abbreviations 
+
+TOPICS: 
+
+• general abbreviations 
+
+• abbreviations in the workplace 
+
+• memo with abbreviations 
+
+METHODS: 
+
+• class discussion 
+
+• Q/A session 
+
+• team work to decode 
+
+MATERIALS: 
+
+• worksheets 
+
+
+
+
+Mercer County Community College 
+
+
+
+Page 33 
+
+
+
+ABBREVIATIONS 
+
+
+
+This company has specific abbreviations. See if you can figure out what these 
+mean. Then practice asking and telling what they mean. 
+
+
+
+1. A.V.O. 
+
+
+
+2. G.M.P. 
+
+
+
+3. PE 
+
+
+
+4. PP 
+
+
+
+5. PS 
+
+
+
+6. PET 
+
+
+
+7. S.P.C. 
+
+
+
+8. Shift A 
+
+
+
+9. Shift B 
+
+
+
+10. Shift C 
+
+
+
+11. Shift D 
+
+
+
+•■i o 
+
+
+
+9 
+
+ERIC 
+
+
+
+P.R I.D.E. 
+
+
+
+Page 34 
+
+
+
+
+ABBREVIATIONS 
+
+
+
+
+This company has specific abbreviations. See if you can figure out what these 
+mean. Then practice asking and telling what they mean. 
+
+1. lqd. 
+
+2. oz. 
+
+3. ml. 
+
+4. HRD 
+
+5. OSHA 
+
+6. min. 
+
+7. wgt. 
+
+8. incl. : 
+
+
+
+ERIC 
+
+
+
+Mcrccr County Community College 
+
+
+
+Page 35 
+
+
+
+
+
+This company has specific abbreviations. See if you can figure out what these 
+mean. Then practice asking and telling what they mean. 
+
+1. Per 
+
+2. Mach. 
+
+3. Bat. 
+
+4. Bat./Hr. 
+
+5. Lbs./Hr. 
+
+6. Oper. 
+
+7. Tx. 
+
+8. N-Tx. 
+
+9. tech. 
+
+
+
+ERIC 
+
+
+
+4^ 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 36 
+
+
+
+
+10. OSHA 
+
+
+
+11. lqd. 
+
+
+
+12. oz. 
+
+
+
+13. Wt. 
+
+
+
+14. QC 
+
+
+
+15. Mat. 
+
+
+
+|:R?C 
+
+
+
+4o 
+
+
+
+Mercer County Community College 
+
+
+
+Page 37 
+
+
+
+
+Decode this memo. 
+
+
+
+TO: All Employees 
+
+FROM: Stan Lewis, Safety Director 
+
+DATE: August 4, 1994 
+
+RE: OSHA Visit 
+
+
+
+OSHA is planning a visit to our factory on 8/23/94. All mach. oper. 
+are expected to be present. The purpose of the visit is to ensure that 
+we are following reg. and proc. correctly. The VP has spoken to me 
+and instructed that if we are breaking any OSHA policies, we will 
+have to correct that situation ASAP in order that we remain on good 
+standing. 
+
+
+
+
+P.R.I.D.E. 
+
+
+
+4 ! 
+
+
+
+Page 38 
+
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+
+
+• use tool names correctly 
+
+• explain what tools are used for 
+
+• use the present progressive correctly 
+
+
+
+TOPICS: 
+
+
+
+• tools 
+
+• use of tools 
+
+• presem progressive 
+
+
+
+METHODS: 
+
+
+
+• c'ass discussion 
+
+• Q/A session 
+
+• dialogues 
+
+
+
+MATERIALS: 
+
+
+
+• worksheets 
+
+• tape recorders 
+
+
+
+4o 
+
+
+
+9 
+
+:RIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 39 
+
+
+
+
+
+
+
+TOOLS 
+
+
+
+
+^* ; ->'v.rn:> v .-: \: 
+
+
+
+
+
+Look at the tools we have brought to class. What are they? Write a complete 
+sentence using this or these to explain what tool it is. 
+
+Examples: hammer / This is a hammer. 
+
+pliers / These are pliers. 
+
+Tool 1: 
+Tool 2: 
+Tool 3: 
+Tool 4: 
+Tool 5: 
+Tool 6: 
+Tool 7: 
+Tool 8: 
+
+ERIC pHd! 
+
+
+
+Page 40 
+
+
+
+What tools do you use in the workplace? Make a list below and then write what 
+you do with those tools. 
+
+
+
+Example: stapler 
+
+I use a stapler to shut the boxes. 
+
+
+
+
+TOOL 
+
+
+
+WHAT FOR ? 
+
+
+
+9 
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 4 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESENimi 
+
+
+om 
+
+
+
+
+
+
+
+As a review of this tense, complete these sentences using the present progressive. 
+Then make questions for each. 
+
+
+
+Examples: She is wearing gloves, (to wear) 
+Q: What is she wearing? 
+
+They are not wearing aprons, (to wear) 
+Q: Are they wearing aprons? 
+
+
+
+1 . The teacher . 
+Q: 
+
+
+
+on the board, (to write) 
+
+
+
+2. The units 
+Q: 
+
+
+
+on the belt, (to move) 
+
+
+
+3. The pens 
+Q: 
+
+
+
+next to the binders, (to sit) 
+
+
+
+4. The supervisors 
+Q: 
+
+
+
+a new schedule this morning. 
+
+
+
+5. Today is (date) , so it 
+Q: 
+
+
+
+.. (to snow) 
+
+
+
+0 i. 
+
+
+
+ERjC PRIDE. 
+
+
+
+Page 42 
+
+
+
+
+
+Dialogue 1 
+
+A: Good morning, Pat. What are you doing? 
+
+B: Good morning, Karen. I'm working on the labels. 
+
+A: Is this your usual job? 
+
+B: No/but today I'm working here. Kathy is not here today, so I am taking her 
+place. 
+
+A: That's good. Now you know how to do the labels. 
+B: Yes, I do. And I am learning a lot about this area. 
+A: Well, have a good day. 
+B: You too. Catch you later. 
+
+
+
+Dialogue 2 
+
+A: What in the world are you doing? 
+B: I'm working on this new project. 
+A: Are you doing it right? 
+B: I think so. Why? Doesn't it look right? 
+
+A: I don't know. It looks like you are holding the instructions upside down, 
+
+B: OOPS! You're right! 
+
+A: Good thing I have good eyesight. 
+
+B: You're telling me! 5^ 
+
+
+
+
+Mcrccr County Community College 
+
+
+
+Page 43 
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• discriminate between numbers 
+
+• write and read numbers correctly 
+
+TOPICS: 
+
+• number writing 
+
+• listening to numbers 
+
+METHODS: 
+
+• class discussion 
+
+• Q/A session 
+
+MATERIALS: 
+
+• worksheets 
+
+
+
+
+Page 44 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How you would say these numbers? 
+1. 609-583-9826 
+
+
+
+2. 664 West Country Drive 759 
+
+
+
+3. ELX8876 
+
+
+
+4. $592.53 
+
+
+
+5. 201 - 359- 5375 ext. 7761 
+
+
+
+6. XLM218TC8665 
+
+
+
+54 
+
+© . 
+
+E RJC Mcrccr County Community College 
+
+
+
+Page 45 
+
+
+
+NUMBER DISCRIMINATION 
+
+
+
+Having good number discrimination skills means that you can read numbers 
+correctly and tell them apart. Sometimes when we are reading quickly we change 
+the numbers in our heads, or we flip them around. This mistake in reading a 
+number can lead to a big mistake in your work! So, we have to read numbers 
+carefully and slowly. 
+
+Look at these groups of numbers. Each group has one identical pair. Find that 
+identical pair and circle it. 
+
+Example: 224 - 242 
+442 - 424 
+
+422-422 S identical pair 
+421 -241 
+
+
+
+1. 
+
+
+13- 
+
+
+3i 
+
+
+
+
+312- 
+
+
+321 
+
+
+
+
+31 - 
+
+
+31 
+
+
+
+
+31 - 
+
+
+13 
+
+
+2. 
+
+
+247- 
+
+
+274 
+
+
+
+
+271 - 
+
+
+271 
+
+
+
+
+237- 
+
+
+273 
+
+
+
+
+227- 
+
+
+272 
+
+
+3. 
+
+
+108 - 
+
+
+180 
+
+
+
+
+187- 
+
+
+176 
+
+
+
+
+167- 
+
+
+173 
+
+
+
+
+371 - 
+
+
+371 
+
+
+4. 
+
+
+2791 
+
+
+-2971 
+
+
+
+
+7819 
+
+
+-7819 
+
+
+
+
+189 
+
+
+- 198 
+
+
+
+
+109 
+
+
+- 108 
+
+
+
+ERJC pride 
+
+
+
+Page 46 
+
+
+
+5. 33228-32328 
+33282 - 33282 
+38328 - 38382 
+33882 - 38382 
+
+6. 94321 -94231 
+93423 - 94423 
+93241 -93241 
+93429 - 92342 
+
+7. 91-19 
+19-90 
+90-91 
+91 -91 
+
+8. 1936- 1936 
+1963- 1936 
+1989 - 1998 
+1904- 1940 
+
+9. 3001 -3100 
+3010-3010 
+
+3100- 3101 
+
+3101- 3110 
+
+10.100- 10 
+100- 101 
+100- 100 
+100- 1000 
+
+
+
+5u 
+
+O 
+
+£ J^J(] Mcrccr County Community College 
+
+
+
+Page 47 
+
+
+
+Listen to the number that the instructor reads. Circle the correct one from those 
+
+
+
+listed below. 
+
+1. 99887 98897 99987 98879 
+
+2. 30821 30281 32018 32108 
+
+3. 45270 45702 42570 42750 
+
+4. 90 190 19 91 
+
+5. 10237 12073 12237 12107 
+
+6. 15 55 50 150 
+
+7. 61396 16396 93613 96313 
+
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 48 
+
+
+
+Listen to the number that the instructor reads. Circle the correct one from those 
+listed below. 
+
+
+
+1. 14 
+
+
+
+40 
+
+
+
+2. 17 
+
+
+
+70 
+
+
+
+3. 90 
+
+
+
+19 
+
+
+
+4. 50 
+
+
+
+15 
+
+
+
+5. 13 
+
+
+
+30 
+
+
+
+6. 80 
+
+
+
+18 
+
+
+
+9 
+
+ERIC 
+
+
+
+5o 
+
+
+
+Mercer County Community College 
+
+
+
+Page 49 
+
+
+
+Write down the important numbers that you use every day. 
+
+
+
+Your phone number: 
+<=> Your employee number: 
+<ti> Your birthdate: 
+<£> Your address: 
+<=> Your social security number: 
+
+
+
+Students take turns reading these out loud and practicing hearing numbers. 
+
+
+
+ERLC 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page SO , 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• decode and understand codes 
+
+• write codes correctly 
+
+• discriminate between codes 
+
+TOPICS: 
+
+• codes in the workplace 
+
+• code lists and organization 
+
+METHODS: 
+
+• class discussion 
+
+• team work to decode codes 
+
+MATERIALS: 
+
+• worksheets 
+
+
+
+6u 
+
+
+
+
+Mercer County Community College 
+
+
+
+Page 51 
+
+
+
+CODES 
+
+
+
+: ?Vvi^-^'^'-: fcf^y-'-*- v^;: ^o^^^^-'^'-rV^^v- 
+
+
+
+Codes are sets of letters or numbers, sometimes letters and numbers together, that 
+are used like abbreviations. 
+
+
+
+Codes are used to make filling out forms easier, or they are used to keep track of a 
+certain set or repeated activities or items. Look at the codes on this customer order 
+form. 
+
+
+
+COLOR CODES FOR PAINTS 
+
+
+
+yellow paint A98 
+
+red paint AS7 
+
+blue paint B78 
+
+purple paint C98 
+
+
+
+green paint C99 
+
+white paint A86 
+
+brown paint X96 
+
+beige paint X98 
+
+
+
+© . 
+
+ERJC PRIDE 
+
+
+
+Page 52 
+
+
+
+
+
+1 . What is the title of this list of codes? 
+
+
+
+2. What do you think this list of codes is used for? 
+
+
+
+3. Are the codes arranged in any way? Alphabetical? Numerical? 
+
+
+
+4. Arrange the list of codes alphabetically. 
+
+
+
+5. Arrange the list of codes numerically. 
+
+
+
+9 
+
+ERJC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 53 
+
+
+
+
+
+Read the list of code options for these colors. Pick the correct code. Write the 
+letter for the correct code in the space to the right. 
+
+
+1 . yellow paint 
+
+
+
+
+a. A89 
+
+
+h AQR r rqq d. A99 
+
+
+2. purple paint 
+
+
+
+
+a. C99 
+
+
+h R78 r TQR d. C99 
+
+
+3. brown paint 
+
+
+
+
+a. X98 
+
+
+h YfiQ r. XfiR d. X96 
+
+
+4. blue paint 
+
+
+
+
+a. B78 
+
+
+h A78 c C99 d. C78 
+
+
+5. white paint 
+
+
+
+
+a. A88 
+
+
+h AQR c. ARfi d. A68 
+
+
+6. black paint 
+
+
+
+
+a. A98 
+
+
+h CQR c. X98 d. B78 
+
+
+7. red paint 
+
+
+
+
+a. A88 
+
+
+h. A78 c. A77 d. A87 
+
+
+
+G5 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 54 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• decode and understand hold tag codes 
+
+• write codes correctly 
+
+• read and understand a set of instructions with abbreviations 
+
+TOPICS: 
+
+• hold tags 
+
+• simple table 
+
+• application of codes 
+
+
+
+METHODS: 
+
+• class discussion 
+
+• Q/A session 
+
+• team work to decode 
+
+MATERIALS: 
+
+• worksheets 
+
+• sample hold tags 
+
+
+
+iRJ C Mercer County Community College 
+
+
+
+Page 55 
+
+
+
+Look at this table of Hold Tag codes. Consider the earlier questions about tables 
+and codes. 
+
+Also: 
+
+* How would you use this chart? 
+
+* How is it organized? 
+
+* Could you organize it any other way? 
+
+
+
+G 
+
+ERIC P.R.I.D.E. 
+
+
+
+Page 56 
+
+
+
+Folds 
+
+
+Distorted Bottle 
+
+
+Material Sticking 
+
+
+bottom fold 
+
+
+1A 
+
+
+bead dents 
+
+
+13A 
+
+
+inside neck 
+
+
+21A 
+
+
+neck fold 
+
+
+IB 
+
+
+body defects / 
+
+
+
+
+to inside sidewall 
+
+
+21B 
+
+
+Bubbles 
+
+
+2 
+
+
+cold slugs 
+
+
+13B 
+
+
+strings/flash inside 
+
+
+
+
+Burnt Bottles 
+
+
+body folds 
+
+
+13C 
+
+
+bottom 
+
+
+21C 
+
+
+Melted 
+
+
+3A 
+
+
+damaged shoulders 
+
+
+13D 
+
+
+Mold Mismatch 
+
+
+Melted finish 
+
+
+3B 
+
+
+rough shoulders 
+
+
+13E 
+
+
+bottom plug 
+
+
+22A 
+
+
+Clarity 
+
+
+underblown bottle 
+
+
+13F 
+
+
+parting line 
+
+
+22B 
+
+
+Cloudiness 
+
+
+4A 
+
+
+uneven heel 
+
+
+13G 
+
+
+sealing surface 
+
+
+22C 
+
+
+Tinted 
+
+
+4B 
+
+
+warpage 
+
+
+13H 
+
+
+Neck Pulls 
+
+
+23 
+
+
+Flat panel 
+
+
+5 
+
+
+Distorted Finish 
+
+
+Oil 
+
+
+Contamination 
+
+
+bad dent 
+
+
+14A 
+
+
+on bag 
+
+
+24A 
+
+
+black specks 
+
+
+6A 
+
+
+damaged threads 
+
+
+
+
+on bottle 
+
+
+24B 
+
+
+degrated mater. 
+
+
+6B 
+
+
+(stripper) 
+
+
+14B 
+
+
+Opacity 
+
+
+dirty parting line 
+
+
+6C 
+
+
+mashed threads 
+
+
+14C 
+
+
+too dark 
+
+
+25A 
+
+
+dirty sealing surf. 
+
+
+6D 
+
+
+sink 
+
+
+14D 
+
+
+too light 
+
+
+25B 
+
+
+Cracks 
+
+
+mismatch(thrds) 
+
+
+14E 
+
+
+Orange Peel 
+
+
+26 
+
+
+cracked neck 
+
+
+7A 
+
+
+uneven sealing 
+
+
+
+
+Out of Dimension 
+
+
+cracked bottom 
+
+
+7B 
+
+
+surface 
+
+
+14F 
+
+
+creeping 
+
+
+27A 
+
+
+stress cracks 
+
+
+7C 
+
+
+rough sealing 
+
+
+
+
+low push up 
+
+
+27B 
+
+
+Crooked necks 
+
+
+8 
+
+
+surface 
+
+
+14G 
+
+
+slanted "H" 
+
+
+27C 
+
+
+Repack - crushed, 
+
+
+
+
+Fish eyes 
+
+
+15 
+
+
+Out of Round 
+
+
+28 
+
+
+dented bottles 
+
+
+9 
+
+
+Flash 
+
+
+Packed wrong 
+
+
+29 
+
+
+Delamination 
+
+
+10 
+
+
+heavy parting lines 
+
+
+
+
+Pock Marks/Pitting 
+
+
+30 
+
+
+Dents (body) 
+
+
+11 
+
+
+(body) 
+
+
+16A 
+
+
+Poor flame/Reflame 
+
+
+31 
+
+
+Dirt 
+
+
+bottom flash/tails 
+
+
+16B 
+
+
+
+
+
+
+loose or black 
+
+
+
+
+sealing surf, flash 
+
+
+16C 
+
+
+
+
+
+
+scuff marks 
+
+
+12A 
+
+
+Flow Marks 
+
+
+
+
+
+
+dirt in bag 
+
+
+12B 
+
+
+striation * 
+
+
+
+
+
+
+
+
+
+
+
+
+(streak of color) 
+
+
+17A 
+
+
+
+
+
+
+
+
+
+
+wavy lines in body 
+
+
+17B 
+
+
+
+
+
+
+
+
+
+
+Cold rings 
+
+
+18 
+
+
+
+
+
+
+
+
+
+
+Gas burns 
+
+
+19 
+
+
+
+
+
+
+
+
+
+
+Holes 
+
+
+20 
+
+
+
+
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 57 
+
+
+
+
+Poor Material Distribution 
+
+
+break aways 
+
+
+32A 
+
+
+off center base 
+
+
+32B 
+
+
+wall thickness 
+
+
+32C 
+
+
+soft heels 
+
+
+32D 
+
+
+thin parting line 
+
+
+32E 
+
+
+weak walls 
+
+
+32F 
+
+
+soft bottles 
+
+
+32G 
+
+
+weak bottoms 
+
+
+32H 
+
+
+Rockers 
+
+
+high push up 
+
+
+33A 
+
+
+bottom center push up from 
+
+
+nozzle scar 
+
+
+33B 
+
+
+Rounded boxes 
+
+
+34 
+
+
+Scratches/Scuffs 
+
+
+35 
+
+
+Short shots 
+
+
+36 
+
+
+Splay marks 
+
+
+37 
+
+
+Strings 
+
+
+bottoms 
+
+
+38A 
+
+
+sides of bottles 
+
+
+38B 
+
+
+Unmelts 
+
+
+39 
+
+
+Wrong carton count 
+
+
+40 
+
+
+
+67 
+
+
+
+Page 58 
+
+
+
+Look at these problems. Which numbers would you use to explain the problem on 
+a hold tag? 
+
+1 . The boxes were packed wrong. 
+
+
+
+2. There are scratches on the bottle surfaces. 
+
+
+
+3. The bottle is melted. 
+
+
+
+4. The bottle has black specks in it, and there is warpage. 
+
+
+
+5. There are two holes in the bottle, a mold mismatch on the parting line, and it 
+has a few bubbles. 
+
+
+
+6. There is a mismatch on the bottom plug, it has pock marks, and a weak bottom. 
+
+
+
+7. The bottle has weak walls, a dirty parting line, fish eyes, and is marked with 
+oil. 
+
+
+
+Co 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+■mi 
+
+
+
+mm 
+
+
+
+Page 59 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• decode and understand workplace codes 
+
+• write codes correctly on labor cards 
+
+TOPICS: 
+
+• job codes 
+
+• application of job codes 
+
+• roleplays to review verb tenses 
+
+METHODS: 
+
+• class discussion 
+
+• Q/A session 
+
+• team work to apply codes 
+
+
+
+MATERIALS: 
+
+
+
+worksheets 
+tape recorders 
+
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 60 
+
+
+
+CODES are numbers or letters that are used as abbreviations. Very often they are 
+in some type of order. Look at the codes below and the activities listed with them. 
+How are the codes broken down? How are they arranged? Is there any better way 
+to arrange them in a particular order? 
+
+
+
+OPERATION SEQUENCES 
+
+
+
+MILLING 
+
+
+PAPER 
+
+
+
+
+PASTELS 
+
+
+307 Extra pass on mill 
+
+
+200 
+
+
+Collating 
+
+
+1401 Weight mix 
+
+
+308 Set up 
+
+
+201 
+
+
+First cut 
+
+
+1402 Traying into oven 
+
+
+309 Clean up 
+
+
+202 
+
+
+Second cut 
+
+
+1403 Tray out of oven 
+
+
+1300 Weighing 
+
+
+203 
+
+
+Binder 
+
+
+1404 Granulate (incl. set 
+
+
+HOI Mixinp 
+
+
+204 
+
+
+Hole punch 
+
+
+nn and rlpnn nn^ 
+
+
+MO? Milling 
+
+
+205 
+
+
+Spiral 
+
+
+
+
+1^fH Weitrhirnr/Park nut 
+
+
+206 
+
+
+Sealing 
+
+
+anH plpan nn^ 
+
+
+
+
+208 
+
+
+Make boxes 
+
+
+
+
+
+
+210 
+
+
+Tabbing 
+
+
+
+
+ASSORTMENTS 
+
+
+211 
+
+
+Attaching cover 
+
+
+DOWN TIME 
+
+
+
+
+214 
+
+
+Packing 
+
+
+
+
+Use#l 
+
+
+
+
+
+
+Indicate in comments, reason 
+
+
+
+
+CANS & JARS 
+
+
+
+
+SETS 
+
+
+
+
+
+
+REWORK 
+
+
+
+
+1601 
+
+
+Fill-cap-label 
+
+
+
+
+1700 Strip and label 
+
+
+1603 
+
+
+Label-package 
+
+
+Use code 993 
+
+
+1701 Label 
+
+
+1607 
+
+
+Wgt-mix-filter 
+
+
+
+
+1702 Assembly and 
+
+
+1608 
+
+
+Set up & clean 
+
+
+INDIRECT 
+
+
+packing 
+
+
+
+
+machine 
+
+
+
+
+
+
+1610 
+
+
+Preparation 
+
+
+Indicate in comments, job 
+
+
+TUBE LABELING 
+
+
+1611 
+
+
+Packaging 
+
+
+performed 
+
+
+1200 Label tube 
+
+
+CANVAS 
+
+
+
+
+TUBE FILLING 
+
+
+301 
+
+
+Cut canvas 
+
+
+
+
+
+
+303 
+
+
+O-Bl #2 Feeder 
+
+
+
+
+508 Set up 
+
+
+304 
+
+
+O-B Shrinker 
+
+
+
+
+509 Clean up 
+
+
+306 
+
+
+Machine operator 
+
+
+
+
+1501 Filling 
+
+
+307 
+
+
+Packaging 
+
+
+
+
+1502 Packing 
+
+
+
+
+
+
+
+
+
+Mercer County Community College 
+
+
+
+Page 6 1 
+
+
+
+Help these employees complete the work order form. Use the codes in the 
+operation sequence list. 
+
+
+
+1. Joe is setting up the mill, weighing, and mixing. What code numbers should 
+he write in? 
+
+
+
+2. wStan is working with paper today. He is collating, spiraling, making boxes, and 
+packing. What code numbers should he use? 
+
+
+
+3. Peter is working with pastels. He is traying. Which codes should he use? 
+
+
+
+4. Tom is cleaning and setting up. Which codes should he use? 
+
+
+
+5. Greg is writing 993 on his form. What is he doing? 
+
+
+
+I JL 
+
+
+
+i-n^" P.R.I. D.E, 
+
+
+
+
+J 
+
+
+
+Pair off and do these role plays with a partner. 
+1 . Ask your co-worker what he/she is doing. 
+
+
+
+2. Ask your co-worker why he/she is wearing what he/she is wearing. 
+
+
+
+3. Ask your supervisor what he/she is doing. 
+
+
+
+4. Ask your co-worker what your supervisor is doing. 
+
+
+
+5. Ask your co-worker what he/she is doing in this class. 
+
+
+
+>7 , 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 63 
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• decode and understand workplace codes 
+
+• use codes correctly on orders 
+
+• read and understand an order form 
+
+TOPICS: 
+
+• workplace codes 
+
+• completing an order form 
+
+METHODS: 
+
+• class discussion 
+
+• pair work to complete order form 
+
+MATERIALS: 
+
+• worksheets 
+
+• sample order forms 
+
+
+
+ERJC PRIDE. 
+
+
+
+i O 
+
+
+
+Look at these codes. How are they arranged? What are they used for? 
+How do you think you could use these codes? 
+
+
+
+
+
+
+
+
+
+
+
+2007 
+
+
+Bactine Antibiotic Squeeze 
+
+
+2112 
+
+
+Bactine Antibiotic Cream 
+
+
+3000 
+
+
+Tylenol Tablets 
+
+
+3100 
+
+
+Tylenol Children 
+
+
+3150 
+
+
+Tylenol Sinus 
+
+
+4022 
+
+
+Alka Seltzer Tablets 
+
+
+4336 
+
+
+Alka Seltzer Plus 
+
+
+4703 
+
+
+Alka Mints 
+
+
+4780 
+
+
+Alka Seltzer Cold Relief 
+
+
+
+/'i 
+
+
+
+
+Mcrccr County Community College 
+
+
+
+Page 65 
+
+
+
+These are codes for a company store. If you buy the products from the company 
+store, you get a better price!! 
+
+Look at how the rest of the form is arranged. What is the purpose of the form? 
+
+
+
+ORDER FORM 
+
+To purchase any of these products, complete this form and present it to Dottie in 
+personnel NOTE: The quantity is limited to 2 each per item. 
+
+
+
+Name Date 
+
+
+
+mm 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2007 
+
+
+Bactine Antiliotic Squeeze 
+
+
+4 oz 
+
+
+1.00 
+
+
+
+
+
+
+2112 
+
+
+Bactine Antibiotic Cream 
+
+
+Vz oz 
+
+
+.95 
+
+
+
+
+
+
+3000 
+
+
+Tylenol Tablets 
+
+
+50 
+
+
+2.50 
+
+
+
+
+
+
+3100 
+
+
+Tylenol Children 
+
+
+40 
+
+
+2.25 
+
+
+
+
+
+
+3150 
+
+
+Tylenol Sinus 
+
+
+35 
+
+
+2.25 
+
+
+
+
+
+
+4022 
+
+
+Alka Seltzer Tablets 
+
+
+72 
+
+
+1.85 
+
+
+
+
+
+
+4336 
+
+
+Alka Seltzer Plus 
+
+
+36 
+
+
+1.05 
+
+
+
+
+
+
+4703 
+
+
+Alka Mints 
+
+
+30 
+
+
+1.00 
+
+
+
+
+
+
+4780 
+
+
+Alka Seltzer Cold Relief 
+
+
+35 
+
+
+1.50 
+
+
+
+
+
+Non Taxable Total 
+
+
+
+Amount due 
+
+
+
+Payment Check Cash 
+
+
+
+To 
+
+ER?C 75151 
+
+
+
+t4 
+
+
+
+Page 66 
+
+
+
+
+CODES 
+
+
+
+
+
+\SSS 
+
+
+
+Using the order form for the company store, help Stan place an order for some 
+healthcare products for his family. 
+
+♦ Stan needs some sinus medication, and he would like to order 2 packages. 
+
+♦ Also, he needs 3 tubes of bactine squeeze and 4 children's Tylenol packages. 
+
+♦ He often takes cold medicine when he has a cold, and he wants to try a package 
+of the Alka Seltzer medicine for colds. 
+
+♦ Just for fun, figure out how much Stan will spend on this order! ! 
+
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 68 
+
+
+
+; Y^$;i#^^^ •: * ; : SYMBOL^ 
+
+
+
+Symbols are pictures that convey information. Very often, we use symbols to get 
+an idea across quickly - that way the person looking at the information does not 
+have to read through words, but can get the idea from a picture. 
+
+
+
+Look at these symbols and write what they mean. 
+
+i. & 
+
+
+
+5. 
+
+
+
+9 
+
+
+
+2. $ 
+
+
+
+% 
+
+
+
+@ 
+
+
+
+77 
+
+
+
+£ J^JC Mercer County Community College 
+
+
+
+Page 67 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• decode and understand symbols 
+
+• use symbols in their own communication 
+
+TOPICS: 
+
+• general symbols 
+
+• safety symbols 
+
+METHODS: 
+
+• class discussion 
+
+• symbol search in workplace 
+
+MATERIALS: 
+
+• worksheets 
+
+
+
+ERLC 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 69 
+
+
+
+t ,,*<Wrv.-t 
+
+
+
+6. X 
+
+
+
+7. # 
+
+
+
+8. 
+
+
+
+0 
+
+
+
+o 
+
+
+
+10. © 
+
+
+
+75 
+
+
+
+ERIC 
+
+
+
+P.R.l.D.E. 
+
+
+
+Page 70 
+
+
+
+b 
+
+
+
+9 
+
+
+
+What are some safety symbols that you see around the workplace? 
+
+
+
+& What kinds of pictures do they have in them? 
+
+
+
+% What colors are they? 
+
+
+
+$t Where do you see them? 
+
+
+
+What are they telling you? 
+
+
+
+OU 
+
+
+
+O 
+
+g J^JC" Mercer County Community College 
+
+
+
+Page 71 
+
+
+
+' MMBOLS0 ^^W^^i?: ■ 
+
+
+
+Keep a journal of any symbols that you see. 
+
+
+
+Where did you see/find the symbol? 
+
+
+
+
+What do you think it means? 
+
+
+
+A 
+
+
+
+What similar symbols have you seen in the past? 
+
+
+
+8: 
+
+
+
+9 
+
+ERIC 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 72 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use cardinal and ordinal numbers correctly 
+
+• recognize use of numbers for quantity and order 
+
+TOPICS: 
+
+• cardinal numbers 
+
+• ordinal numbers 
+
+METHODS: 
+
+• class discussion 
+
+• Q/A session 
+
+MATERIALS: 
+
+• worksheets 
+
+
+
+be 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 73 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IDINALNV 
+
+
+Mm 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cardinal numbers are the regular numbers we use for quantity. Write out the 
+numbers below for spelling practice. 
+
+
+
+1 
+
+
+16 
+
+
+40 
+
+
+2 
+
+
+17 
+
+
+50 
+
+
+3 
+
+
+18 
+
+
+60 
+
+
+4 
+
+
+19 
+
+
+70 
+
+
+5 
+
+
+20 
+
+
+80 
+
+
+6 
+
+
+21 
+
+
+90 
+
+
+7 
+
+
+22 
+
+
+100 
+
+
+8 
+
+
+23 
+
+
+105 
+
+
+9 
+
+
+24 
+
+
+168 
+
+
+10 
+
+
+25 
+
+
+200 
+
+
+11 
+
+
+26 
+
+
+300 
+
+
+12 
+
+
+27 
+
+
+1000 
+
+
+13 
+
+
+28 
+
+
+5000 
+
+
+14 
+
+
+29 
+
+
+1,000,000 
+
+
+15 
+
+
+30 
+
+
+9,000,000 
+
+
+00 
+
+
+
+ERIC P.R.I.D.E. 
+
+
+
+Page 74 
+
+
+
+We use ordinal numbers to show ORDER or ranking. In other words, they rank 
+something or someone and are put right before the noun. We also use ordinals to 
+talk about the date: August 5th, November 23rd, December 25th. 
+
+Examples: 
+
+0 I have one day for vacation (quantity), but it is my first day off this year 
+(order). 
+
+0 He takes off July 9th (date). 
+
+0 They have three meals a day. This is their first meal. Their last meal is 
+dinner. 
+
+0 You have eight classes. The eighth class is the last one for this session. 
+0 I told him 100 times! He finally listened to me on the hundredth time! ! 
+
+
+
+9 
+
+ERIC 
+
+
+
+04 
+
+
+
+Mercer County Community College 
+
+
+
+Page 75 
+
+
+
+Write the ordinal numbers for these. Notice how the abbreviations are different. 
+
+
+
+1st 
+
+
+20th 
+
+
+91st 
+
+
+2nd 
+
+
+21st 
+
+
+98th 
+
+
+3rd 
+
+
+23rd 
+
+
+99th 
+
+
+4th 
+
+
+30th 
+
+
+100th 
+
+
+5th 
+
+
+35th 
+
+
+102nd 
+
+
+6th 
+
+
+40th 
+
+
+148th 
+
+
+7th 
+
+
+47th 
+
+
+200th 
+
+
+8th 
+
+
+50th 
+
+
+300th 
+
+
+9th 
+
+
+52nd 
+
+
+400th 
+
+
+10th 
+
+
+60th 
+
+
+1000th 
+
+
+11th 
+
+
+63rd 
+
+
+
+
+12th 
+
+
+70th 
+
+
+
+
+13th 
+
+
+78th 
+
+
+
+
+14th 
+
+
+80th 
+
+
+
+
+15th 
+
+
+81st 
+
+
+
+
+
+So 
+
+
+
+9 
+
+ERIC 
+
+
+
+P.R.I.D.E. 
+
+
+
+ORDINALS AND CARDINALS 
+
+Use the correct number word to complete these sentences. 
+
+Example: He works five days a week. Monday is his first day. 
+
+1. She has cups of coffee every morning. Right now she is drinking 
+
+her cup. At 1 1 :00 she will have her cup. 
+
+
+
+2. They missed days last year. The day was in December. 
+
+
+
+3. The supervisor explains the problem times, he employee listens 
+
+for the time and then understands. 
+
+
+
+4. They have been married for years, so they are celebrating their 
+
+wedding anniversary. 
+
+
+
+5. If you stay with the company for years, you will receive a 
+
+■ year anniversary watch. 
+
+
+
+g J^£" Mcrcc County Community College 
+
+
+
+Page 77 
+
+
+
+9 
+
+ERIC 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use count and non count words correctly 
+
+• read a material list 
+
+TOPICS: 
+
+• count and non count words and usage 
+
+• material list for work 
+
+METHODS: 
+
+• class discussion 
+
+• Q/A session 
+
+MATERIALS: 
+
+• worksheets 
+
+
+
+sv 
+
+
+
+p.r.i.d.e. 
+
+
+
+Page 78 
+
+
+
+COUNT 
+
+
+NON-COUNT 
+
+
+• 
+
+Many 
+
+
+Much 
+
+
+A lot of 
+
+
+A lot oi 
+
+
+Some 
+
+
+Some 
+
+
+A few 
+
+
+A bit 
+
+
+More 
+
+
+More 
+
+
+Any 
+
+
+Any 
+
+
+None 
+
+
+None 
+
+
+
+So 
+
+
+
+9 
+
+ERJC 
+
+
+
+Mcrccr County Community College 
+
+
+
+Page 79 
+
+
+
+What are the count nouns that match these non count nouns? 
+
+
+
+§€ coffee 
+
+
+
+3€ tea 
+
+
+
+§€ time 
+
+
+
+§€ money 
+
+
+
+3€ room 
+
+
+
+§€ paper 
+
+
+
+8j 
+
+
+
+9 
+
+ERIC 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 80 
+
+
+
+Complete these sentences using either MUCH or MANY. 
+
+1 . How time do you have to study? 
+
+2. How friends does he have? 
+
+3. How pizza can he eat? 
+
+4. How machines does she use? 
+
+5. How equipment do you have? 
+
+6. How pieces of equipment do you have? 
+
+
+
+3u 
+
+
+
+g Mercer County Community College 
+
+
+
+Page 81 
+
+
+
+
+
+
+
+T NOUNS iT - » ?-i>" 
+
+
+1. 
+
+
+Ask about making batches. 
+
+
+
+
+2. 
+
+
+Ask about using the glue. 
+
+
+
+
+3. 
+
+
+Ask about hours at a job. 
+
+
+
+
+4. 
+
+
+Ask about time spent at a job. 
+
+
+
+
+5. 
+
+
+Ask about overtime hours. 
+
+
+
+
+6. 
+
+
+Ask about overtime money. 
+
+
+
+
+
+01 
+
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 82 
+
+
+
+HOW MUCH 
+
+Materials List 
+
+
+
+Code 
+
+
+Color 
+
+
+Tubes 
+
+
+Ozs. 
+
+
+Expiration 
+Date 
+
+
+99883 
+
+
+Red 
+
+
+32 
+
+
+1 .5 each 
+
+
+12/95 
+
+
+83227 
+
+
+Green 
+
+
+51 
+
+
+1.8 each 
+
+
+1/96 
+
+
+44331 
+
+
+Orange 
+
+
+29 
+
+
+1 .5 each 
+
+
+2/96 
+
+
+
+he 
+
+Y-r^r^" Mercer County Community College 
+
+ML 
+
+
+
+Page 83 
+
+
+
+ESLltftHE WORKPLACE # SESSION 16 
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• read schedules 
+
+• use schedules in the workplace 
+
+• ask questions about schedules 
+
+• complete their own work schedules 
+
+• calculate total regular overtime hours 
+
+
+
+TOPICS: 
+
+• reading a simple schedule 
+
+• making a schedule 
+
+• job hours 
+
+• adding regular and overtime hours 
+
+METHODS: 
+
+• class discussion 
+
+• Q/A session 
+
+• pair work on schedules 
+
+
+
+MATERIALS: 
+
+
+
+worksheets 
+
+sample workplace schedules 
+
+
+
+
+Page 84 
+
+
+
+SCHEDULES 
+
+
+
+Schedules are all around us in the workplace. We need to know at what time we 
+are doing what, and on what day we are going where. Sometimes we make 
+schedules to organize an activity. 
+
+
+
+What is this a schedule for? 
+
+
+
+
+
+Monday 
+
+
+Tuesday 
+
+
+Wednesday 
+
+
+Thursday 
+
+
+Friday 
+
+
+Sweep 
+floors 
+
+
+
+
+
+
+
+
+
+
+
+
+Mop 
+floors 
+
+
+
+
+
+
+
+
+
+
+
+
+Pick up 
+trash 
+
+
+
+
+
+
+
+
+
+
+
+
+Dust 
+furniture 
+
+
+
+
+
+
+
+
+
+
+
+
+Dust 
+blinds 
+
+
+
+
+
+
+
+
+
+
+
+
+Wash 
+sinks 
+
+
+
+
+
+
+
+
+
+
+
+
+Clean 
+toilets 
+
+
+
+
+
+
+
+
+
+
+
+
+Disinfect 
+floors 
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 85 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IHEDULESF 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 . What is a good title for this schedule? 
+
+
+
+2. How many columns are there? 
+
+
+
+3. How many rows are there? 
+
+
+
+4. What are the headings or labels? 
+
+
+
+5. What are the abbreviations that are on top of each column? 
+
+
+
+6. What ACTIONS do you see? List those VERBS. 
+
+
+
+ERLC 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 86 
+
+
+
+SCHEDULES & : ? ;v^ v y 
+
+
+
+Complete the work schedule below for yourself. Fill in the dates on top of the 
+days and use ordinal numbers. 
+
+
+
+TIME 
+
+
+MONDAY 
+
+
+TUESDAY 
+
+
+WEDNESDAY 
+
+
+THURSDAY 
+
+
+FRIDAY 
+
+
+8:00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+9:00 
+
+
+
+
+
+
+
+
+
+
+
+
+10:00 
+
+
+
+
+
+
+
+
+
+
+
+
+,11:00 
+
+
+
+
+
+
+
+
+
+
+
+
+12:00 
+
+
+
+
+
+
+
+
+
+
+
+
+1:00 
+
+
+
+
+
+
+
+
+
+
+
+
+2:00 
+
+
+
+
+
+
+
+
+
+
+
+
+3:00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mcrccr County Community College 
+
+
+
+Page 87 
+
+i ' : ;>- 5 : : ;^^" <> -'' -- - SCHEDULES 
+
+Using the schedule that you have made, answer these questions. 
+
+1 . What do you have to do during the first hour on Monday? 
+
+2. What do you have to do during your last work hour on Friday? 
+
+3. When do you have to take your first break on Wednesday? 
+
+4. On the second day of the week, what do you have to do at 10:00? 
+
+5. On the fourth day of the week, what do you do at noon? 
+
+6. On the last day of the week, what do you do at 2:00? 
+
+
+
+erJc PR1DE 
+
+
+
+Page 88 
+
+
+
+MORE SCHEDULES 
+
+
+
+Jim Lewis (empl. # 45582) works in the warehouse. On a typical day, he comes to 
+work at 8:00, leaves for lunch at 11:45, returns from lunch at 12:30, then works 
+until 4:45. He is expected to work an 8 hour day - any time he puts in over this is 
+considered overtime. Today, 3/7/94, he worked an extra hour and left at 5:45, so 
+he had 8 hours regular work time and 1 hour of overtime. 
+
+Jim keeps track of his time like this: 
+
+
+
+
+
+IN 
+
+
+OUT 
+
+
+IN 
+
+
+OUT 
+
+
+Total 
+Reg. Hrs. 
+
+
+Total 
+Pvt. Hrs. 
+
+
+M 3/7 
+
+
+8:00 
+
+
+11:45 
+
+
+12:30 
+
+
+5:45 
+
+
+8 
+
+
+1 
+
+
+
+Co 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 89 
+
+
+
+SCHEDULES 
+
+
+
+This is what Jim did this week. Help him to complete his schedule. 
+
+♦ On Monday (3/7/94), he started work at 8:30, stopped for lunch at 12, returned 
+to work at 12:45, and he left work at 6:00. 
+
+♦ On Tuesday, he came in at 8:00. He took lunch from 12:30 to 1:15. He left 
+work at 5:30. 
+
+♦ On Wednesday, he came to work at 8:00, but it started to snow and the 
+company decided to close early (12:00). 
+
+♦ On Thursday, he was late to work because of the snow, so he didn't get in until 
+9:00. However, he was asked to stay until 7:00. As usual, he took his 45- 
+minute lunch break. 
+
+♦ On Friday, he made it in at 8:00, he took lunch at 12:30, and he returned to 
+work at 1 : 15. As it was the weekend, he left work at 4:45. 
+
+♦ On Saturday, he stayed home! ! 
+
+♦ On Sunday, he came to the factory for four hours, from 1 2 to 4. 
+
+
+
+ERXC P.R.I .D.E. 
+
+
+
+Page 90 
+
+
+
+JIM'S WORK SCHEDULE 
+
+
+
+Emp. # Emp. Name 
+
+Dept. 
+
+
+
+Dates 
+
+
+IN 
+
+
+OUT 
+
+
+IN 
+
+
+OUT 
+
+
+Total 
+Reg. Hrs. 
+
+
+Total 
+Ovt. Hrs. 
+
+
+M 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+W 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+F 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sat. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sun. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 91 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• apply job codes correctly 
+
+• complete job schedules 
+
+• read and understand job descriptions 
+
+
+
+TOPICS: 
+
+
+
+• schedules 
+
+• job codes 
+
+• job descriptions 
+
+
+
+METHODS: 
+
+
+
+• class discussion 
+
+• pair work to complete schedules 
+
+
+
+MATERIALS: 
+
+
+
+• worksheets 
+
+
+
+ERLC 
+
+
+
+1AJ1 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 92 
+
+
+
+SCHEDULES 
+
+
+
+Job Labor Card 
+
+
+
+Emp. # . 
+Date 
+
+
+
+Emp. Name 
+Dept. 
+
+
+
+Job No. 
+
+
+Activity 
+Codes 
+
+
+Total Hours 
+
+
+Start Time 
+
+
+Stop Time 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Time: 
+
+
+
+Total Hours: 
+
+
+
+9 
+
+ERIC 
+
+
+
+10/; 
+
+
+
+Mercer County Community College 
+
+
+
+Page 93 
+
+
+
+JOB CODES AND TIME CARDS 
+
+
+
+Job Preparation 
+
+0 100 Set-up 
+
+0 101 Picking materials 
+
+0 102 Collecting paperwork 
+
+0 103 Clean-up 
+
+
+
+Material Preparation - Paper 
+
+
+
+0 200 
+
+0 201 
+
+0 202 
+
+0 203 
+
+0 204 
+
+
+
+Collating 
+
+3HP 
+
+Spiral 
+
+Tabbing 
+
+Cutting 
+
+
+
+Packaging 
+
+
+
+0 
+0 
+0 
+0 
+0 
+0 
+
+
+
+500 
+501 
+503 
+504 
+505 
+506 
+
+
+
+Making boxes 
+
+Printing Labels 
+
+Making envelope inserts 
+
+Shrink-wrapping 
+
+Sealing 
+
+Labeling 
+
+
+
+Shipping 
+
+0 600 Paperwork 
+
+0 601 Weighing 
+
+0 602 Set-up for postage machine 
+
+0 603 Postage machine 
+
+0 604 Sacking 
+
+
+
+ERIC 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 94 
+
+
+
+JOB CODES AND TIME CARDS 
+
+
+
+Jim has a busy day and he needs help filling out his Job Labor Card. As you can 
+see, not only does he need to keep track of his hours, but he also needs to itemize 
+what he does during the day. 
+
+Using the list of Job Codes, fill out Jim's Job Labor Card. 
+
+Today (3/8/94), he goes to get his work order first 
+thing in the morning. It takes him 15 minutes to read 
+his work order and sees that he will be packaging and 
+shipping materials for a large customer. 
+
+It then takes him 15 minutes to set up his work area, 
+and after that he spends an hour assembling 60 boxes. 
+While the picker is filling the boxes, it takes Jim half 
+an hour to assemble the envelope inserts. He then has 
+a ten minute coffee break. 
+
+When he returns from his break, he spends the next 20 minutes shrink-wrapping 
+the envelope inserts. It takes him another 20 minutes to put the envelopes onto the 
+boxes. 
+
+Jim is now ready to run off his labels, which takes him only 10 minutes. Because 
+he has so many boxes to address and seal, he spends the rest of his morning doing 
+these activities before going to lunch. 
+
+Once he returns from lunch, Jim has to calculate the weight of the shipment. After 
+10 minutes weighing, he decides that the shipment is too large and too heavy to 
+send via the post office. So, he has to complete the paperwork to send the boxes 
+via UPS. This activity takes him 20 minutes. He tags the shipment with box 
+numbers and destination codes, and 20 minutes later he does a 10 minute clean-up 
+and is ready to do his next job. 
+
+
+
+r. • 
+
+
+
+
+9 
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+ESLmm^ 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use a monthly calendar correctly 
+
+• complete personal schedules 
+
+• use appropriate vocabulary and expressions to agree/disagree 
+
+TOPICS: 
+
+• schedules and calendars 
+
+• agreeing and disagreeing 
+
+METHODS: 
+
+• class discussion 
+
+• pair work to complete schedules 
+
+• pair work for role plays 
+
+MATERIALS: 
+
+• worksheets 
+
+• tape recorders 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 96 
+
+
+
+SCHEDULES AND CALENDARS 
+
+
+
+MARCH 1994 
+
+
+
+Sunday 
+
+
+Monday 
+
+
+Tuesday 
+
+
+Wednesday 
+
+
+Thursday 
+
+
+Friday 
+
+
+Saturday 
+
+
+
+
+
+
+1 
+
+
+2 
+
+
+3 
+
+
+4 
+
+Payday 
+
+
+IHHK 
+
+
+
+
+7 
+
+
+8 
+
+Jim's 
+
+birthday 
+
+
+9 
+
+
+10 
+
+
+n 
+
+
+
+
+
+
+14 
+
+Karen and 
+Jim's 
+
+Anniversary 
+
+
+15 
+
+
+16 
+
+
+17 
+
+St. Patrick's 
+Day 
+
+
+18 
+
+Payday 
+
+
+
+
+
+
+21 
+
+
+22 
+
+
+23 
+
+Employee 
+
+Appreciation 
+
+Day 
+
+
+24 
+
+
+25 
+
+
+^^^^^^ 
+
+
+Palm Sunday 
+
+
+28 
+
+
+29 
+
+
+30 
+
+
+31 
+
+
+
+
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 97 
+
+
+
+SCHEDULES 
+
+
+
+Using Jim's calendar, answer these questions. Be careful to use the passive voice 
+or active voice correctly, as noted in the questions. 
+
+
+
+1 . How often is he paid a month? 
+
+
+
+2. On what days is Jim paid? 
+
+
+
+3. When is the company ski trip held? 
+
+
+
+4. When is the first day of spring celebrated? 
+
+
+
+5. When does Jim celebrate his birthday" 
+
+
+
+6. What do Jim and Karen celebrate on March 14? 
+
+
+
+iov 
+
+
+
+er|c prjde 
+
+
+
+Page 98 
+
+
+
+SCHEDULES (CON'T) 
+
+
+
+7. When is Palm Sunday celebrated? 
+
+
+
+8. During which week is Passover celebrated? 
+
+
+
+9. When is Employee Appreciation Day held? 
+
+
+
+10. What kind of symbols would you use to mark the holidays and events on the 
+calendar? 
+
+
+
+
+Page 99 
+
+
+
+
+Agreeing and Disagreeing 
+
+
+
+1. Your co-worker is complaining about his/her job. Agree/disagree but give 
+advice too - what should he/she do? 
+
+
+
+2. Your supervisor is telling you what he thinks about work on the line. Agree or 
+disagree with him. 
+
+
+
+3. Your boss thinks that you are not busy enough. Tell him what you have to do 
+- he agrees with you, that he has a lot to do too! 
+
+
+
+4. Your co-worker is having a really good lunch and is talking about food. Agree 
+or disagree with him/her about the types of food. 
+
+
+
+5. Your manager is telling you about what a great weekend he had. You had a 
+good weekend too. Maybe you did some of the same things? 
+
+
+
+ERIC 
+
+
+
+P.R.I.D.E. 
+
+
+
+10'j 
+
+
+
+Page 100 
+
+
+
+ESL IN TEE WORKPLACE i& SESSION 19 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use the past tense correctly in both statements and questions 
+
+• recognize use of DID with past tense 
+
+• report incidents that occurred in the past 
+
+TOPICS: 
+
+• simple past tense 
+
+• Question and Answer (Q/A) review 
+
+• job incident in the past 
+
+METHODS: 
+
+• class discussion 
+
+• Q/A session 
+
+• reporting incident to class 
+
+MATERIALS: 
+
+• worksheets 
+
+• tape recorders (optional) 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 101 
+
+
+
+PAST TENSE - REGULAR FORMS 
+
+
+
+First, complete these sentences using the simple past. Then write the question to 
+match the sentence. 
+
+
+
+Example: My supervisor moved the machine, 
+(to move) 
+
+Question: WHAT did your supervisor move? 
+
+
+
+1 . Yesterday we to our supervisor. 
+
+(to talk) 
+
+Question: 
+
+
+
+2. Last week I _ my sister. 
+
+(to visit) 
+
+Question: 
+
+
+
+3. Last night you TV. 
+
+(to watch) 
+
+Question: 
+
+
+
+4. Yesterday they for 10 hours. 
+
+(to work) 
+
+Question: 
+
+
+
+jL 
+
+
+
+11 
+
+
+
+_0 P.R.I.D.E. 
+
+ERIC 
+
+
+
+Page 102 
+
+
+
+WHAT HAPPENED? 
+
+
+
+Using the past tense, write about something that happened in work. Remember 
+that you are reporting information, so you want to be clear and concise. Assume 
+that your reader does not know the people or situations involved. Be prepared to 
+answer any questions that your readers might have! 
+
+
+
+9 9 9 9 9 
+
+• • • • • 
+
+
+
+Be sure to keep these questions in mind when you are reporting information: 
+
+
+
+A 
+
+
+who? 
+
+
+A 
+
+
+what? 
+
+
+A 
+
+
+where? 
+
+
+A 
+
+
+when? 
+
+
+A 
+
+
+why? 
+
+
+A 
+
+
+how many? how much? 
+
+
+A 
+
+
+how big? how small? how long? how short? 
+
+
+A 
+
+
+what kind? 
+
+
+
+When you are finished writing, give your paragraph to your partner and see if 
+he/she has any questions for you. 
+
+
+
+£ J^JC Mercer County Community College 
+
+
+
+Page 103 
+
+
+
+ESLIN THE WORKPLACE + SESSIOmO \ 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use the past tense correctly in both statements and questions 
+
+• recognize use of DID with past tense 
+
+• use irregular forms of past tense 
+
+
+
+TOPICS: 
+
+• simple past tense - irregular forms 
+
+• Question and Answer (Q/A) review 
+
+• dialogues 
+
+
+
+METHODS: 
+
+• class discussion 
+
+• dialogues 
+
+• Q/A session 
+
+
+
+MATERIALS: 
+
+
+
+• worksheets 
+
+• tape recorders 
+
+
+
+
+P.R.I.D.E. 
+
+
+
+1 1 U 
+x x O 
+
+
+
+Page 104 
+
+
+
+PAST TENSE- COMMON IRREGULARS 
+
+
+
+be 
+
+become 
+
+begin 
+
+bend 
+
+bet 
+
+bit 
+
+blow 
+
+break 
+
+bring 
+
+build 
+
+buy 
+
+catch 
+
+choose 
+
+come 
+
+cost 
+
+cut 
+
+do 
+
+draw 
+
+
+
+was 
+
+became 
+
+began 
+
+bent 
+
+bet 
+
+bit 
+
+blew 
+
+broke 
+
+brought 
+
+built 
+
+bought 
+
+caught 
+
+chose 
+
+came 
+
+cost 
+
+cut 
+
+did 
+
+drew 
+
+
+
+PARW 
+
+been 
+
+become 
+
+begun 
+
+bent 
+
+bet 
+
+bitten 
+
+blown 
+
+broken 
+
+brought 
+
+built 
+
+bought 
+
+caught 
+
+chosen 
+
+come 
+
+cost 
+
+cut 
+
+done 
+
+drawn 
+
+
+
+9 
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 1Q5 
+
+
+
+BASE FORM 
+
+
+PAST TENSE 
+
+
+PARTICIPLE 
+
+
+drink 
+
+
+drank 
+
+
+drunk 
+
+
+drive 
+
+
+drove 
+
+
+driven 
+
+
+eat 
+
+
+ate 
+
+
+eaten 
+
+
+fall 
+
+
+fell 
+
+
+fallen 
+
+
+feel 
+
+
+felt 
+
+
+felt 
+
+
+fight 
+
+
+fought 
+
+
+fought 
+
+
+find 
+
+
+found 
+
+
+found 
+
+
+fly 
+
+
+flew 
+
+
+flown 
+
+
+forget 
+
+
+forgot 
+
+
+forgotten 
+
+
+freeze 
+
+
+froze 
+
+
+frozen 
+
+
+get 
+
+
+got 
+
+
+gotten 
+
+
+give 
+
+
+gave 
+
+
+given 
+
+
+go 
+
+
+went 
+
+
+gone 
+
+
+grow 
+
+
+grew 
+
+
+grown 
+
+
+hear 
+
+
+heard 
+
+
+heard 
+
+
+hide 
+
+
+hid 
+
+
+hidden 
+
+
+hold 
+
+
+held 
+
+
+held 
+
+
+hurt 
+
+
+hurt 
+
+
+hurt 
+
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 106 
+
+
+
+PAST TENSE -COMMON IRREGULARS 
+
+
+
+BASE FORM 
+
+
+
+PAST TENSE 
+
+
+
+PARTICIPLE 
+
+
+
+keep 
+
+know 
+
+leave 
+
+lend 
+
+lose 
+
+make 
+
+mean 
+
+meet 
+
+pay 
+
+put 
+
+read 
+
+ride 
+
+ring 
+
+run 
+
+say 
+
+see 
+
+sell 
+
+send 
+
+
+
+kept 
+
+knew 
+
+left 
+
+lent 
+
+lost 
+
+made 
+
+meant 
+
+met 
+
+paid 
+
+put 
+
+read 
+
+rode 
+
+rang 
+
+run 
+
+said 
+
+saw 
+
+sold 
+
+sent 
+
+
+
+kept 
+
+known 
+
+left 
+
+lent 
+
+lost 
+
+made 
+
+meant 
+
+met 
+
+paid 
+
+put 
+
+read 
+
+ridden 
+
+rung 
+
+run 
+
+said 
+
+seen 
+
+sold 
+
+sent 
+
+
+
+lib 
+
+
+
+ERLC 
+
+
+
+Mcrecr County Community College 
+
+
+
+Page 107 
+
+
+
+PAST TENSE - C OMMON IRREGULARS 
+
+
+
+BASE FORM 
+
+
+
+PAST TENSE 
+
+
+
+PARTICIPLE 
+
+
+
+set 
+
+sing 
+
+sit 
+
+sleep 
+
+speak 
+
+spend 
+
+stand 
+
+steal 
+
+swim 
+
+take 
+
+teach 
+
+tear 
+
+tell 
+
+think 
+
+throw 
+
+understand 
+
+wear 
+
+write 
+
+
+
+set 
+
+sang 
+
+sat 
+
+slept 
+
+spoke 
+
+spent 
+
+stood 
+
+stole 
+
+swam 
+
+took 
+
+taught 
+
+tore 
+
+told 
+
+thought 
+
+threw 
+
+understood 
+
+wore 
+
+wrote 
+
+
+
+set 
+
+sung 
+
+sat 
+
+slept 
+
+spoken 
+
+spent 
+
+stood 
+
+stolen 
+
+swum 
+
+taken 
+
+taught 
+
+torn 
+
+told 
+
+thought 
+
+thrown 
+
+understood 
+
+worn 
+
+written 
+
+
+
+ERLC 
+
+
+
+■1 > : 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 108 
+
+
+
+PAST TENSE 
+
+
+
+First, complete these sentences using the correct verb form. Then, make questions 
+to get these sentences as answers. 
+
+
+
+Example: Yesterday we 
+(to eat) 
+
+
+
+lunch at noon. 
+
+
+
+Question: When DID we eat lunch? 
+
+
+
+1. The unit 
+(to fall) 
+
+
+
+off the conveyor belt. 
+
+
+
+Question: 
+
+
+
+2. He 
+
+
+
+(to bring) 
+Question: 
+
+
+
+3. They 
+
+
+
+(to see) 
+Question: 
+
+
+
+4. She 
+
+
+
+(to hear) 
+Question: 
+
+
+
+his timecard to his boss. 
+
+
+
+the new machines on the A-Line. 
+
+
+
+the bad news about the weather. 
+
+
+
+ERIC 
+
+
+
+ixO 
+
+
+
+Mercer County Community College 
+
+
+
+Page 109 
+
+
+
+DIALOGUES 
+
+
+
+Dialogue 1: 
+
+A: Hey, that looks like my hat. Where did you find it? 
+B: I found it near my work area. 
+
+A: Oh, really? I lost it last week and I didn't see it near my station. 
+B: Well, that's because it was near my station. 
+A: I guess I left it here last week. 
+
+B: Yes, you did. I thought about calling you to remind you. 
+A: Why didn't you? 
+
+B: I like the hat myself, and I was thinking of keeping it for a while. 
+A: I knew I couldn't trust you! ! Give me back my hat! ! 
+B: What ever happened to "finders keepers"? 
+A: No such luck! 
+
+
+
+/ 
+
+
+
+
+Dialogue 2: 
+
+A: Did you hear what happened to Roger? 
+B: I heard he was sick. 
+
+A: Yeh, he fell off the ladder and he hurt his back. 
+B: Oh no! I thought he had the flu or something. 
+A: No, he's in the hospital. 
+
+B: You're kidding! I knew that would happen 
+someday. 
+
+A: What do you mean? 
+
+B: Well, he never put the ladder in a safe place, and he always played around. 
+
+A: That's true. Still, I feel bad for him. 
+
+B: Me too. Did you send a card? 
+
+A: No. Do you think we should? 
+
+B: Yeh, that's the good thing to do. 
+
+A: Okay. Let's do that. 
+
+
+
+JLx J 
+
+m^- P.R.l.D.E. 
+
+
+
+Page 110 
+
+
+
+ESL IN THE WORKPLACE # SESSION 21 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use the past tense correctly to report points 
+
+• use a company point system 
+
+
+
+TOPICS: 
+
+
+
+• simple past tense 
+
+• company point system 
+
+
+
+METHODS: 
+
+• class discussion 
+
+• Q/A session 
+
+MATERIALS: 
+
+• worksheets 
+
+• sample point system 
+
+
+
+£ I^JC Mercer County Community College 
+
+
+
+Page 1 1 1 
+
+
+
+THE POINT SYSTEM 
+
+
+
+The company has a point system to keep track of an employee's attendance record. 
+
+Non-probationary employees who are absent, leave early, or fail to punch a time 
+card receive points as follows: 
+
+
+
+REASON POINTS 
+
+
+
+Absent (no call in) 8 
+
+Absent (call in at start of shift) 4 
+
+Consecutive days absent: 
+
+(1st day of consecutive days) 4 
+
+(2nd" M ) 3 
+
+(3rd" " " ) 2 
+
+* (4th " " ) 1 
+
+*(5th" " ) 4 
+
+* Doctor's note required to return to work 
+
+Late(l - 10 minutes) x h 
+
+Late ( 1 1 minutes - 1 hour) 1 
+
+Late ( 1 hour or more) 2 
+
+Leave early (1-59 minutes) 1 
+
+Leave early ( 1 hour or more) 2 
+
+Failure to punch time card 1 (each time) 
+
+
+
+NOTE: Points are not received if the absence was paid, such as funeral leave, 
+paid sick day, paid vacation day. 
+
+
+
+X & JL 
+
+er|c 
+
+
+
+Page n; 
+
+
+
+THE POINT SYSTEM 
+
+
+
+1 . How many points do you get for being late 3 minutes? 
+
+
+
+2. How many points do you get for being late 3 hours? 
+
+
+
+3. How many points do you get for forgetting to punch your time card? 
+
+
+
+4. If you are absent and do not call your supervisor, how many points do you get? 
+
+
+
+5. When do you need a doctor's note? 
+
+
+
+•4. Am- A„ 
+
+
+
+
+Mercer County Community College 
+
+
+
+Page 113 
+
+
+
+^ ETO POINTSYSTEM 
+
+
+
+Situations: How many points? 
+
+1 . Paul missed work on Monday because he was sick. He called his supervisor. 
+
+
+
+2. Linda came to work late on Tuesday, but only 1 1 minutes. She had to leave 
+early that afternoon, so she left a half hour early. 
+
+
+
+3. Tim forgot to punch in on Wednesday and Friday. 
+
+
+
+4. Mary took a sick day and then went to work, then took another sick day the 
+following day. 
+
+
+
+5. Stan was really sick, so he was out for four days in a row. 
+
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 114 
+
+
+
+ESL IN THE WORKPLACE ♦ SESSION 22 
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use commands 
+
+• give clear instructions 
+
+TOPICS: 
+
+• commands 
+
+• instructions 
+
+METHODS: 
+
+• class discussion 
+
+• individual work to complete instructions 
+
+MATERIALS: 
+
+• worksheets 
+
+
+
+-L 'i 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 115 
+
+
+
+COMMANDS 
+
+
+
+2. It would be nice if you didn't throw the eraser at the teacher. 
+
+
+
+3. What a wonderful idea to put the units on the line. 
+
+
+
+4. You really shouldn't talk back to your boss, you know. 
+
+
+
+5. If I were you, I would plug in the light before you turn it on. 
+
+
+
+6. I don't like it when you are rude to me, so I'm asking you to stop. 
+
+
+
+1 r ''i 
+
+
+
+IRJC PRI-D.E. 
+
+
+
+3 
+
+
+
+Give commands for the following sentences. 
+
+1 . I think you should close the door and then you should erase the buard. 
+
+
+
+Page 116 
+
+
+
+COMMANDS VS. REQUESTS 
+
+
+
+A command is different from a request! 
+Command: statement, no preface, no ending 
+
+=> Open the door! 
+=> Close the box! 
+=> Move the forklift! 
+
+Request: preface, question form, polite ending or start 
+
+=> Could you please open the door? 
+=> Please close that box. 
+
+=> I would appreciate it. if you could remove the forklift. 
+=> Move the forklift, okay? 
+
+
+
+ER?C 
+
+
+
+Mercer County Community College 
+
+
+
+Page 117 
+
+
+
+COMMANDSVS. REQUESTS 
+
+
+
+Which is a command and which is a request? Why? 
+1 . Don't slam the door! 
+
+
+
+2. Could you take a minute to look this over? 
+
+
+
+3. Look at this! 
+
+
+
+4. Excuse me, please hold that door for me. 
+
+
+
+5. Hold the door! 
+
+
+
+6. Please be quiet 
+
+
+
+ER?C 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 118 
+
+
+
+INSTRUCTIONS 
+
+
+
+
+Think of something you do every day in work. Write a set of instructions telling 
+someone else how to do it. Use numbers to mark the steps. 
+
+1. 
+
+2. : 
+
+3. ; 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+■J r, ■ 
+
+
+
+
+Mercer County Community College 
+
+
+
+Page 119 
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use prepositions of place correctly 
+
+• describe locations 
+
+TOPICS: 
+
+• prepositions 
+
+• phrases to show location 
+
+METHODS: 
+
+• class discussion 
+
+MATERIALS: 
+
+• worksheets 
+
+
+
+1 n 
+
+
+
+9 
+
+ERLC 
+
+
+
+RR.I.D.E. 
+
+
+
+Page 120 
+
+
+
+REPOSITIONS - WHERE? 
+
+
+
+© 
+
+
+
+AT IN ON UNDER 
+
+
+
+• ||-> • ® ® $ $ 
+
+• ||_^. ® • • $• $ 
+
+1 2 . ® ® * 3 
+
+1. behind beside between among 
+
+2. in front of next to 
+
+
+
+* 1 
+
+* • I 
+
+^ ^ I • • • • 
+
+* 112 3 4 
+
+2 • I 
+
+opposite 1. above 1. by 
+
+2. below 2. near 
+
+3. not far from 
+
+4. a long way from 
+
+
+
+1 JU 
+
+9 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 121 
+
+
+
+71 
+
+up 
+
+
+
+down 
+
+
+
+
+1. into 
+
+2. out of 
+
+
+
+o 
+
+
+
+past 
+
+
+
+
+
+— 1 
+
+
+f \ 
+
+
+
+
+
+
+
+
+
+
+
+1. onto 
+
+2. off 
+
+
+
+1. over 
+
+2. under 
+
+
+
+1. from 
+
+2. back to 
+
+
+
+through 
+
+
+
+
+erJc pride 
+
+
+
+Page 122 
+
+
+
+PREPOSITIONS 
+
+
+
+1 
+
+♦ Live 
+
+
+♦ VYOrK 
+
+
+I live in Trenton. 
+
+I live on Hamilton Street. 
+
+I live at 334 Hamilton Street. 
+
+
+He works at this company. 
+He works on the Packing Line. 
+He works in the shipping area. 
+
+
+"+Where do you live? 
+
+
+,m +Where do you work? 
+
+
+♦ Where are we? 
+
+
+♦ To and From 
+
+
+Wf» ckrf* in thf* playroom 
+
+We are on the second floor of the 
+factory. 
+
+We are sitting at the table. 
+The instructor is writing on the 
+board. 
+
+Someone is knocking on the door. 
+
+
+T cn vp mv timpcarri to mv boss 
+
+JL Cjl V w A11V UUlvvUlU vVJ Ally L/Vuui 
+
+I get my paycheck from him. 
+I give my mail to the mailman. 
+I get my mail from him too. 
+
+,m +What do we give at Christmas? 
+•*+What do we get from the union? 
+
+
+♦ Transportation 
+
+
+♦ Walking . . . 
+
+
+She gets on the train in Newark. 
+
+She gets off the train in NY. 
+
+He gets on the bus in Trenton, and 
+
+gets off the bus in NY. 
+
+They get on the plane at JFK and 
+
+get off at Heathrow. 
+
+We get into my car here, and we 
+
+get out of my car at home. 
+
+
+I walk across the street. 
+
+The supervisor walks around the 
+
+line. 
+
+They walk back from the training 
+room. 
+
+They walk back to work. 
+She is walking towards the door. 
+The couple walked along the 
+beach. 
+
+
+
+13^ 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 123 
+
+
+
+PREPOSITIONS 
+
+
+
+As a review, fill in the missing prepositions to complete this paragraph. 
+
+
+
+I work a small company 
+
+Route I _ Lawrenceville. My best 
+
+friend works Trenton. Her name is 
+
+Karen. She works the big bank 
+
+downtown, South . Montgomery 
+
+Street, the ninth floor. When I 
+
+visit her, I have to take the elevator. I get 
+
+
+
+the elevator the lobby 
+
+and I push the button marked M 9. M The door opens when I get the 
+
+ninth floor, and I get the elevator. I walk Karen's office and 
+
+knock the door. She says, "Come I walk her 
+
+
+
+office and sit down the chair. We talk, and very often we decide to go 
+
+for lunch. She takes me her favorite cafe and we sit 
+
+a window table so we can watch the pedestrians walk . 
+
+When we leave the restaurant, we pay the counter and leave a tip 
+
+the table. We walk back lunch and get her 
+
+office at around 1:15. We say good-bye and then I walk the bank 
+
+my car, which is the parking garage. I go back 
+
+my job. 
+
+
+
+
+l Jo 
+
+ER£ 75155 
+
+
+
+Page 124 
+
+
+
+ESL W THE WORKPLACE ♦ SESSION 24 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• read instructions 
+
+• ask questions about instructions 
+
+• complete inaccurate instructions 
+
+TOPICS: 
+
+• commands 
+
+• instructions 
+
+• tool and safety notes 
+
+METHODS: 
+
+• class discussion 
+
+• pair work to complete instructions 
+
+MATERIALS: 
+
+• worksheets 
+
+• sample instructions 
+
+
+
+lot 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+— Page 125 
+
+1 " r . * • r. .1 , ' ■ . ' ■ ■ ■ 1 . . ' ■ i 1 . ■ . 1 ' , ■ ■ ■ » ■ — ■ ■ ■ ■ ■ ■ — ■ ■ 
+
+DIRECTIONS y' \ : ^ci--^ 
+
+
+
+
+PART 1: Look at these directions. 
+
+
+
+* Open trunk and take out lug wrench, jack, and spare. 
+
+* Take off hubcap. 
+
+* Put jack under body and jack up until the tire is just off ground. 
+Jack car down. 
+
+* Tighten lug nuts completely. 
+
+* Replace jack and old tire in trunk. 
+
+
+
+1 J o 
+
+ERIC " T51 
+
+
+
+Page 126 
+
+
+
+DIRECTIONS 
+
+PART 2: Questions for directions 
+
+1. What are these directions for? What are they instructing you? 
+
+2. How many steps are there? Count the verbs and list them here. 
+
+3. What tools do you need to complete the job? 
+
+4. Do you think there are any steps missing? 
+
+5. What advice do these directions give you? What are the safety warnings and 
+notes? 
+
+6. Make these directions more clear for your car - describe the materials and 
+tools, tell how easy it is to do the steps. 
+
+
+
+
+Mercer County Community College 
+
+
+
+Pagi 27 
+
+
+
+
+DIRECTIONS ' 
+
+
+
+
+Exchange directions rhat you made a few classes ago. Let your partner read them 
+and try to do the action that you are instructing. 
+
+
+
+^ Are the directions clear? 
+
+
+
+W Are all the steps there? 
+
+
+
+Did you leave out any important notes or warnings? 
+
+
+
+eric 
+
+
+
+P.R.LD.E. 
+
+
+
+Page 128 
+
+
+
+ESL IN THE WORKPLACE + SESSION 25 
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• review their instructions and make them clearer 
+
+• peer critique instructions 
+
+TOPICS: 
+
+• instructions 
+
+• strategies for writing clearer instructions 
+
+METHODS: 
+
+• class discussion 
+
+• pair work to complete instructions 
+
+• peer critique 
+
+MATERIALS: 
+
+• worksheets 
+
+
+
+1 '/ 
+loo 
+
+
+
+n *?^- Mercer County Community College 
+
+
+
+Page 129 
+
+
+
+TIPS FOR WRITING INSTRUCTIONS 
+
+
+
+Instructions tell people how to do things. We use instructions on the job, 
+especially when we are trying to do something new, or have been moved to a 
+different area for work. 
+
+Instructions are good when they are simple and easy to follow. 
+
+
+
+Keep these instructions in mind when you are reviewing your instructions: 
+
+* use clear and strong verbs 
+
+* use simple sentences - one verb 
+
+* use commands 
+
+* describe anything that you think the reader might not know 
+
+* keep a clear order to the steps 
+
+* use numbered steps 
+
+* add any pictures that might help the reader understand 
+
+* make sure that you haven't left out any important warnings . 
+
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 130 
+
+
+
+PEER CRITIQUE 
+
+
+
+Exchange your finalized set of instructions with your partner. Look for these 
+things: 
+
+▼ clear verbs 
+
+▼ clear steps 
+
+▼ good sequence 
+
+▼ good descriptions 
+
+▼ good start and end steps 
+
+▼ good overview of purpose 
+
+
+
+ERLC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 131 
+
+
+
+SESSION 26 " ; 
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• read and understand safety vocabulary 
+
+• use safety vocabulary correctly in warnings and descriptions 
+
+TOPICS: 
+
+• safety vocabulary 
+
+• safety situations 
+
+• job descriptions and warnings 
+
+METHODS: 
+
+• class discussion 
+
+• role plays with safety issues 
+
+MATERIALS: 
+
+• worksheets 
+
+• tape recorders 
+
+
+
+141 
+
+ERiC P.R.I.D.E. 
+
+
+
+Page 132 
+
+
+
+SAFETY VOCABULARY 
+
+
+
+
+heart 
+kidneys 
+esophagus 
+intestines 
+
+
+
+inhalation 
+ingestion 
+absorption 
+
+
+
+liver 
+lungs 
+bloodstream 
+stomach 
+
+
+
+1 4 ^ 
+
+
+
+ERLC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 133 
+
+
+
+: VOCABUIARY ^ 
+
+
+
+
+1 . I use my lungs to , 
+
+2. My heart pumps . 
+
+3. I have kidneys. 
+
+4. Food goes to my first and then to my 
+
+5. I inhale through my . 
+
+6. I absorb chemicals through my . 
+
+7. I ingest chemicals when I . 
+
+8. Once in my body, chemicals travel through my . 
+
+ERXC pH5j[ 
+
+
+
+Page 134 
+
+
+
+AN ACCIDENT WAITING TO HAPPEN?!! 
+
+
+
+
+What is happening in this picture? 
+v& What can you suggest they do in order to avoid an accident? 
+^ Role play: what would you do if you were one of the people? 
+
+
+
+IVi 
+
+
+
+
+Mcrccr County Community College 
+
+
+
+Page 135 
+
+
+
+■ ^0$miMTHE WORKPLACE + ^Sjj&SION27 '0 '-' } ' 
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use an MSDS sheet 
+
+• use safety vocabulary 
+
+• use safety abbreviations and codes on the job 
+
+TOPICS: 
+
+• MSDS sheet 
+
+• safety situations 
+
+• safety abbreviations and codes 
+
+
+
+METHODS: 
+
+
+
+• class discussion 
+
+• pair work to complete worksheets on MSDS 
+
+
+
+MATERIALS: 
+
+
+
+• worksheets 
+
+• MSDS sheet 
+
+
+
+±4o 
+
+
+
+9 
+
+ERLC 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 136 
+
+
+
+MATERIAL SAFETY DATA SHEET 
+
+
+
+I. PRODUCT IDENTIFICATION 
+
+Product name Additin RC7135 
+
+Chemical Family Aromatic Amine 
+
+Chemical Name N-Phenyl-stryenated benzenamine 
+
+OSHA Hazard Communication 
+
+Status This product is not hazardous under the 
+
+criteria of the Federal OSHA Hazard Communication Standard 29 CFR 1910.1200. 
+
+
+
+II. HAZARDOUS INGREDIENTS 
+
+Components: None %: optional 
+
+
+
+ffl. PHYSICAL DATA 
+
+Appearance Liquid 
+
+Color Brown to Reddish 
+
+Melt point/Freeze point N/A 
+
+Boiling Point Greater than 572° F (300° C) 
+
+Vapor Pressure N/A 
+
+Specific Gravity 1.1 
+
+Solubility in water Insoluble 
+
+
+
+IV. FIRE AND EXPLOSION DATA 
+
+Flash Point °F(°C) 518°F (270° C) 
+
+Extinguishing Media Water, Chemical, Foam, Dry Chemical 
+
+Special firefighling procedures/unusual fire or explosion hazards: Firefighters should 
+wear full protective clothing including self-contained breathing apparatus. During a fire, 
+irritating and/or toxic gasses from combustion/decomposition may be generated. 
+
+
+
+ERIC 
+
+
+
+9 
+
+
+
+Mercer County Community College 
+
+
+
+Page 137 
+
+
+
+MATERIAL SAFETY DATA SHEET 
+
+
+
+V. HUMAN HEALTH DATA 
+
+
+
+Primary Route(s) of exposure Eyes, Skin 
+
+Human effects and symptoms of overexposure 
+
+Acute none observed 
+
+Chronic none observed 
+
+Medical Conditions aggravated by exposure not established 
+
+Carcinogenicity This product is not listed 
+
+as a carcinogen. 
+
+Exposure limits see section II 
+
+
+
+VI. EMERGENCY AND FIRST AID PROCEDURES 
+
+Eye contact Flush eyes with plenty of water 
+
+Skin contact Wash thoroughly with soap and water 
+
+Remove contaminated water and wash container before reuse. 
+
+Inhalation Remove to fresh air 
+
+Ingestion Consult physician 
+
+
+
+133 
+
+VII. EMPLOYEE PROTECTION RECOMMENDATIONS 
+
+
+
+Eye protection safety glasses 
+
+Skin protection ; rubber gloves 
+
+Respiratory protection Organic vapor cartridge 
+
+respirator is highly recommended 
+
+Ventilation Local exhaust during processing 
+
+Other Employee education and training in safe 
+
+
+
+handling procedures of this product are recommended. Safety showers and eye wash 
+stations should be easily accessible to work areas. 
+
+
+
+14, 
+
+
+
+Page 138 
+
+
+
+VOCABULARY 
+
+
+
+aromatic / aroma 
+
+
+foam 
+
+
+breathing apparatus 
+
+
+irritating / irritant 
+
+
+toxic 
+
+
+combustion 
+
+
+decomposition 
+
+
+generated 
+
+
+status 
+
+
+hazardous 
+
+
+components 
+
+
+melt 
+
+
+freeze 
+
+
+vapor 
+
+
+gravity 
+
+
+solubility 
+
+
+flash point 
+
+
+extinguish (er) 
+
+
+exposure 
+
+
+overexposure 
+
+
+acute 
+
+
+chronic 
+
+
+carcinogen 
+
+
+flush 
+
+
+thorough 
+
+
+ingestion 
+
+
+respiratory 
+
+
+respiration 
+
+
+ventilation 
+
+
+exhaust 
+
+
+
+er|c 
+
+
+
+14cf 
+
+
+
+Mercer County Community College 
+
+
+
+Page 139 
+
+
+
+QUESTIONS 
+
+
+
+1 . What is the name of the chemical? 
+
+
+
+2. According to OSHA, is this product hazardous? 
+
+
+
+3. What kind of chemical is it? A solid? A liquid? A powder? 
+
+
+
+4. What color is the chemical? 
+
+
+
+5. Will this chemical mix with water? Will it dissolve? 
+
+
+
+6. If there is a fire with this chemical, what is the best way to put it out? 
+
+
+
+7. Will this chemical cause cancer? 
+
+
+
+eric 
+
+
+
+8. What kind of ventilation should a company have if this chemical is used? 
+
+
+
+14 J 
+
+P.R.I.D.E. 
+
+
+
+Page 140 
+
+
+
+SITUATIONS 
+
+Use the MSDS sheet as your guide. What would you do in these situations? 
+
+1 . Paul is working with Additin. He gets some in his eyes. What should he do? 
+
+2. Some of the Additin splashes on Steve's skin. What should he do? 
+
+3. What kind of protective equipment should Steve bee wearing if he is working 
+with this chemical? 
+
+4. What is the main way that this chemical can enter the body? 
+
+5. If Steve or Peter breathe in the chemical, what should he do? 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 141 
+
+
+
+ESL IN THE WORKPLACE ♦ SESSION 28 
+
+
+
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use chemical codes correctly 
+
+• discriminate between chemical codes 
+
+• use the future tense 
+
+
+
+TOPICS: 
+
+• chemical codes 
+
+• future tense 
+
+
+
+METHODS: 
+
+
+
+• class discussion 
+
+• pair work to complete role plays 
+
+
+
+MATERIALS: 
+
+
+
+• worksheets 
+
+• tape recorders 
+
+
+
+ERLC 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 142 
+
+
+
+CHEMICAL CODES 
+
+
+
+CODE NAME 
+
+
+
+009 Paracril 
+
+139 Ethyl Thiuram 
+
+272 XX-85 Zinc Oxide 
+
+306 Polygard 
+
+630 Oleic Acid 
+
+832 Paraplex G-62 
+
+965 Burgess KE Clay 
+
+
+
+
+
+Mercer County Community College 
+
+
+
+Page 143 
+
+
+
+CHEMICAL CODES 
+
+
+
+Which is the correct code for these items? 
+
+
+
+1. Polygard 
+
+
+
+a. 009 b. 360 c. 271 d. 306 
+
+
+
+2. Oleic Acid 
+
+
+
+a. 009 b. 630 c. 360 d. 036 
+
+
+
+3. Paraplex 
+
+a. 238 b. -328 c. 832 d. 823 
+
+
+
+4. Paracrii 
+
+
+
+a. 090 b. 099 c. 009 d. 098 
+
+
+
+5. Burgess KE Clay 
+
+
+
+a. 965 b. 956 c. 659 d. 953 
+
+
+
+6. Ethyl Thiuram 
+
+
+
+a. 193 b. 138 c. 931 d. 139 
+
+
+
+10 J 
+
+
+
+rrw/~- P.R.I.D.E. 
+
+ML 
+
+
+
+Page 144 
+
+
+
+CHEMICAL CODES 
+
+
+
+These are the codes for this formula. What are the ingredients? Write the name 
+next to the number. Is there a problem? What is it and what would you do about 
+it? 
+
+
+
+FORMULA XYZ 
+
+
+
+139 
+
+
+
+009 
+
+
+
+360 
+
+
+
+832 
+
+
+
+272 
+
+
+
+956 
+
+
+
+*» r- .- 
+
+
+
+ER?C 
+
+
+
+Mercer Counly Communily College 
+
+
+
+Page 145 
+
+FUTURE TENSE -REVIEW 
+
+Remember, we use WILL or WONT for the future tense: 
+I will come to work tomorrow, but I won't work overtime. 
+
+Pair off with a partner and make a role play using the future tense. 
+
+1. What will you do this weekend? 
+
+2. What will your supervisor do about the changes in the factory? 
+
+3. What will the company do for the holidays? 
+
+4. Where will you go for summer vacation? 
+
+
+
+ER?C 
+
+
+
+Page 146 
+
+
+
+ESL IN THE WORKPLACE * SESSION 29 
+OBJECTIVES: 
+
+At the end of this session, students will be able to do the following: 
+
+• use make/do correctly 
+
+TOPICS: 
+
+• make/do 
+
+• role plays using make/do 
+
+METHODS: 
+
+• class discussion 
+
+• role plays 
+
+MATERIALS: 
+
+• worksheets 
+
+• tape recorders 
+
+
+
+O Mercer County Community College 
+
+ERIC 
+
+
+
+Page 147 
+
+
+
+MAKE AND DO 
+
+
+
+tit Make = create, usually using hands 
+
+
+
+I make dinner every night. 
+
+
+
+I create dinner. There was no 
+dinner when I started, but when 
+I finished there was dinner. 
+
+
+
+Or Do = perform, complete 
+
+I do my job every day. 
+
+
+
+My job is already there and I 
+just perform it. 
+
+
+
+ERIC FR.ID.l-. 
+
+
+
+Page 148 
+
+
+
+MAKE AND DO 
+
+
+
+So how can you remember what TO MAKE and what TO DO? Here's a simple 
+list to help you remember! , 
+
+
+
+To MAKE: 
+
+
+
+an appointment 
+a decision 
+an impression 
+a promise 
+a turn (left/right) 
+trouble 
+
+
+
+a change 
+a difference 
+an offer 
+a profit 
+money 
+
+use of something 
+
+
+
+a copy 
+a discovery 
+a payment 
+a sale 
+your bed 
+
+
+
+a deal 
+a mistake 
+a phone call 
+a suggestion 
+progress 
+
+
+
+To DO: 
+
+business with someone the laundry ihe dishes the windows 
+
+someone a favor 55 m.p.h. a job 
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+
+Page 149 
+
+
+
+MAKE AND DO 
+
+
+
+Complete these sentences using either MAKE or DO. Be sure to use the correct 
+tense of the verb! 
+
+
+
+1. They 
+
+
+
+a lot of boxes in one day. 
+
+
+
+2. If you are sick, you should 
+doctor this week. 
+
+
+
+an appointment with your 
+
+
+
+3. Can you 
+
+
+
+the floor again - it's still dirty. 
+
+
+
+4. I have to 
+
+
+
+six copies of this letter. 
+
+
+
+5. This company 
+
+
+
+paints and brushes. 
+
+
+
+6. This company 
+
+
+
+business with a lot of companies overseas. 
+
+
+
+7. Can you 
+
+
+
+me a favor and 
+
+
+
+a phone call? 
+
+
+
+8. If you 
+
+
+
+mistakes on the job! 
+
+
+
+a good job, then you won't 
+
+
+
+any 
+
+
+
+9. What company 
+
+
+
+these earplugs that we wear? 
+
+
+
+10. in 
+
+
+
+the speed limit, then I shouldn't get a ticket. 
+
+
+
+ERIC 
+
+
+
+P.R.I.D.E. 
+
+
+
+Page 150 
+
+
+
+ROLE PLAYS 
+
+
+
+
+Find a partner and pick one of these role plays. 
+Be sure to use make/do correctly. 
+
+
+
+1 . Ask your co-worker what he/she is doing. 
+
+
+
+2. Ask your co-worker which product he/she is making. 
+
+
+
+3. Ask your co-worker if he/she made an appointment at the doctor's office 
+recently. 
+
+
+
+4. Ask your partner if he/she has made plans for the holiday and what he/she will 
+be doing. 
+
+
+
+5. Ask your partner is he/she has made plans for vacation and what he/she will be 
+doing. 
+
+
+
+
+ERIC 
+
+
+
+Mercer County Community College 
+
+
+

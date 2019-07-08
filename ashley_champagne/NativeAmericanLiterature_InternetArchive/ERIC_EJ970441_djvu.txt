@@ -1,0 +1,1783 @@
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+
+TRIBAL RECOMMENDATIONS FOR DESIGNING 
+CULTURALLY APPROPRIATE TECHNOLOGY-BASED 
+SEXUAL HEALTH INTERVENTIONS TARGETING NATIVE YOUTH 
+
+IN THE PACIFIC NORTHWEST 
+
+
+Stephanie Craig Rushing, PhD, MPH, and David Stephens, BA 
+
+
+Abstract: Media technologies, including the Internet, cell phones, and 
+video games, offer new avenues to reach Native youth on sensitive health 
+topics. Project Red Talon, a sexually transmitted disease (STD)/HIV 
+prevention project that serves the 43 federally recognized tribes in Oregon, 
+Washington, and Idaho, used community-based participatory research 
+methods in partnership with the Northwest tribes to review existing 
+technology-based interventions and generate recommendations for designing 
+interventions that reflect the culture, needs, and organizational capacities 
+of participating tribes and Native youth. These findings are now being 
+used to guide the development of technology-based health interventions 
+targeting American Indian/Alaska Native teens and young adults. 
+
+
+INTRODUCTION 
+
+The sexual and reproductive decisions of American Indian and Alaska Native (AI/AN or 
+Native) teens and young adults are shaped by unique social norms and sexual contexts that include 
+both traditional and contemporary cultural values. Influenced by years of federal policies designed 
+to exterminate their populations, Native communities often view the arrival of new life favorably, 
+regardless of the parent’s age. High teen pregnancy and sexually transmitted disease (STD) rates 
+indicate that sexual activity in AI/AN communities starts earlier than among other American teens, 
+and often occurs without the use of protective measures. Environmental factors such as poverty, 
+geography, and inadequate health services further exacerbate the adverse sexual health outcomes 
+that many AI/AN youth experience. 
+
+Until quite recently, few sexual health interventions were designed for or evaluated in Indian 
+Country. As a result, most Native youth do not receive sufficient reproductive health education and 
+support. Media technologies like the Internet, cell phones, and video games offer new ways to bridge 
+
+
+76 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 77 
+
+
+this gap in ways that are familiar, accessible, and culturally appropriate for Native youth. Many 
+approaches can be tailored to the maturity and interests of the individual, can be disseminated broadly 
+regardless of geographic location, and can be privately accessed when and where the individual 
+is ready (Bennett & Glasgow, 2009; Coyle, Doherty, Matthews, & Sharry, 2007; Lustria, Cortese, 
+Noar, & Glueckauf, 2009; Portnoy, Scott-Sheldon, Johnson, & Carey, 2008). Media technologies 
+thus hold great promise for public health practitioners seeking to reach Native youth, as vehicles 
+for education and intervention related to sexual and reproductive health (Bull, Phibbs, Watson, & 
+McFarlane, 2007). 
+
+Project Red Talon has provided capacity-building assistance on STD/HIV prevention and 
+surveillance to the 43 federally recognized tribes in Oregon, Washington, and Idaho for over two 
+decades. In response to tribal interest, Project Red Talon surveyed over 400 Native youth on their 
+media technology use and online health information seeking in 2009 (the Native Youth Media Survey), 
+conducted a systematic literature review to identify available technology-based interventions, 
+and facilitated a variety of community-based participatory research (CBPR) activities to generate 
+recommendations for designing technology-based interventions that would best align with the 
+culture, needs, and organizational capacities of tribes in the Pacific Northwest. Findings from the 
+Native Youth Media Survey have been reported elsewhere in the literature (Craig Rushing, 2010; 
+Craig Rushing & Stephens, 2011). This paper will share findings from the study’s literature review 
+and CBPR activities. 
+
+Community-based Participatory Research in Indian Country 
+
+Respecting Indigenous research methods requires that communities have direct input in 
+“developing and defining research practices and projects that relate to them” (p. 503), defining 
+for themselves what is and what is not acceptable research (Battiste, 2008). Such a relationship 
+can be achieved by using community-based participatory research (CBPR) methods that involve 
+communities in selecting the scope and design of the study, the collection of data, the interpretation 
+of research findings, and the dissemination of results (Minkler & Wallerstein, 2003). Additionally, 
+there are several distinct benefits to using CBPR in Indian Country, including that it reflects and 
+acknowledges tribal sovereignty, self-determination, and self-govemance; allows research to occur 
+in circumstances where it otherwise wouldn’t; and better aligns with traditional research approaches. 
+In their curriculum on Research that Benefits Native People, the National Congress of American 
+Indians (2009) describes traditional research practices as: 
+
+• based on the collective wisdom of community members, built through careful observation 
+and experiences of natural patterns of life 
+
+• learned, transmitted, and retained in the telling of stories 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+78 VOLUME 19, NUMBER 1 
+
+
+• complex, interrelated, and based on diverse conditions 
+
+• closely linked with cultural views of the world (p. 13) 
+
+CBPR mirrors the values and strengths of many AI/AN nations, including respect for 
+community processes and consensus, sincere equal partnership, and the ecological view of the 
+individual as intricately linked with family and tribe. In CBPR, equal weight is given to both 
+scientific and Indigenous expressions of knowledge (Cochran et al., 2008; Forster et ah, 2007), 
+employing both Western and cultural lenses in the interpretation of data (Warner & Grint, 2006). 
+CBPR acknowledges that “research is not culturally neutral” (p. 12), and that Indigenous knowledge 
+is a necessary component of the research process (National Congress of American Indians, 2009). 
+Consequently, CBPR has become an informal code of conduct for most research and surveillance 
+now done in Indian Country. 
+
+Background on Technology-based Interventions 
+
+Media technologies, including the Internet, cell phones, and video games, are increasingly 
+being used to disseminate health information and teach users new skills. To support healthy behavior 
+change, research in the field suggests that technology-based interventions incorporate several 
+important components, including: (a) messages that are tailored to the needs of the user; (b) features 
+that enhance social support and communication; (c) content that is interactive and multimedia; (d) 
+features that promote repeated use of the intervention; and, like other behavioral interventions, (e) 
+content that addresses the core risk and protective factors associated with health outcomes (Craig 
+Rushing, 2010; Noar, Black, & Pierce, 2009). 
+
+Health messages can be tailored to an individual by eliciting information from the user, and 
+then using that information to selectively display content in a manner that is relevant or engaging 
+(Baylari & Montazer, 2009). Technology-based interventions have tailored their content using a 
+variety of criteria, including users’ age, gender, race/ethnicity, sexual orientation, stage of change, 
+perceived needs, and reported risk factors (Lustria et al., 2009). Tailored content can be used to 
+bypass material that does not reflect the user’s individual needs, and can thus reduce intervention 
+time requirements and enhance user retention (Kiene & Barta, 2006). Software and information 
+technologies now make it possible to provide tailored interventions to an entire population, producing 
+“mass customization” (Cobb, Graham, Bock, Papandonatos, & Abrams, 2005). Gaming research 
+similarly suggests that integrated assessment tools and responsive adaptation can improve learning 
+and cognition (Wilson et al., 2009). Assessment tools that provide immediate feedback give learners a 
+clear understanding about how they are doing on the task, help students identify errors, and improve 
+understanding and motivation to stay on task (Wilson et al., 2009). 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 79 
+
+
+Tailoring is theoretically supported by the Transtheoretical Model (Prochaska, DiClemente, 
+& Norcross, 1992). According to the model, behavior change involves progression through a series 
+of predictable, though not necessarily sequential, stages. By understanding what processes are 
+present at each stage, interventions can be aligned to the needs of individuals at any point along 
+the continuum. Stage-based interventions have been shown to dramatically increase successful 
+recruitment, retention, and completion, and promote movement through successive stages (Di Noia, 
+Contento, & Prochaska, 2008). Tailoring is also supported by research in the communication and 
+learning fields. Skinner and colleagues found that tailored information is more likely to be read, 
+understood, perceived as personally relevant, and remembered (Skinner, Campbell, Rimer, Curry, 
+& Prochaska, 1999). The literature suggests that learners experience greater success in learning 
+environments that adapt to and support their individual learning orientations, and that patient 
+satisfaction and care can be optimized by integrating the patient’s interests, strengths, and ideas 
+into the treatment process (Baylari & Montazer, 2009; Coyle et al., 2007). As a result, computer 
+tailoring has the potential to enhance both the reach and effectiveness of behavioral interventions 
+(Lustria et al., 2009). 
+
+Media technologies offer a variety of tools to instill social support and communication 
+between users, including e-mail, instant messaging, text messaging, discussion boards, blogs, chat 
+rooms, and social networking. The literature suggests that virtual peer-to-peer interaction can support 
+healthy behavior change by creating and reinforcing positive social norms (Cobb et al., 2005; Gerber, 
+Solomon, Shaffer, Quinn, & Lipton, 2007; Rhodes, 2004). Technology-based interventions are now 
+being designed to facilitate sensitive conversations between adolescents and their parents, between 
+adolescents and their health care providers, between peers, and between sexual partners. Virtual 
+"discussions" between experts and peers can make learning a dynamic, two-way experience (Barak 
+& Fisher, 2001; Baylari & Montazer, 2009). Providing expert feedback within tailored interventions 
+has been shown to be more effective for helping smokers quit than providing tailored messages 
+alone (Dijkstra, 2005). 
+
+Media technologies can also incorporate a wide variety of interactive design elements, 
+including graphics, animation, photos, videos, sounds, click-through modules, games, quizzes, 
+surveys, polls, and links. Hypertext learning environments allow users to access multiple sources 
+of information, enriching the informational experience (Bull et al., 2007). The selection, pace, 
+and depth of information is controlled by the learner, meeting his or her unique educational needs 
+(Coyle et al., 2007). These technologies accommodate diverse preferences and learning styles by 
+presenting information in multiple ways - via text, audio, and visual elements (Ito, Kalyanaraman, 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+80 VOLUME 19, NUMBER 1 
+
+
+Ford, Brown, & Miller, 2008). Several studies support the use of multimedia platforms to enhance 
+learning, user satisfaction, and behavior change (Daft & Lengel, 1986; Liu, Liao, & Pratt, 2009; 
+Mayer & Moreno, 1998). 
+
+Just as seen in face-to-face treatment, the intensity and duration of technology-based 
+interventions appears to be closely associated with subsequent health outcomes (Cobb et ah, 2005). 
+In follow-up studies of smoking-cessation Web sites, those who successfully quit smoking logged in 
+more frequently, spent more time online, and viewed more pages than those who continued to smoke 
+(Cobb et ah, 2005). It is not yet kn own what frequency and intensity are needed for technology- 
+based interventions to modify behavior, but repeat use is clearly an important component of such 
+programs. 
+
+To achieve this level of use, technology-based interventions must incorporate features 
+that promote repetition. Retention tools (like reminder systems, personal contact with participants 
+giving positive feedback, and incentives for returning—raffles, point systems, or giveaways) and 
+compelling design features (like content that is new and salient, user-generated, and/or entertaining 
+and interactive) have been reported by several investigators (Bull, Lloyd, Rietmeijer, & McFarlane, 
+2004; Bull, Vallejos, Levine, & Ortiz, 2008). Other studies have incorporated booster sessions to 
+reinforce information and maintain program effects (Bull, Pratte, Whitesell, Rietmeijer, & McFarlane, 
+2009; Card & Kuhn, 2006; Metcalf et ah, 2005; Pedlow & Carey, 2004). Media interactivity has 
+been found to increase user retention (Hurling, Fairley, & Dias, 2006), and gaming researchers have 
+found that learner control (the ability to dictate the pace and sequence of activities), mystery (gaps 
+in knowledge), and challenge can improve learning attitudes, motivation, and cognition (Wilson 
+et ah, 2009). 
+
+
+METHODS 
+
+Founded in 1972, the Northwest Portland Area Indian Health Board (NPAIHB) is a tribally 
+operated non-profit organization that provides health research, technical assistance, and policy 
+advocacy on behalf of its member tribes. Housed within the NPAIHB’s Tribal Epidemiology Center, 
+Project Red Talon works to reduce STD/HIV infections through research, surveillance, and health 
+promotion practices. 
+
+In 2005, Project Red Talon formed the Red Talon STD/HIV Coalition at the request of tribal 
+health advocates to work collaboratively across Northwest tribes to reduce STDs and improve sexual 
+health outcomes. Recognizing the need to provide better reproductive health education to Northwest 
+teens and young adults, the group frequently reviewed mainstream STD/HIV prevention resources 
+and interventions, but repeatedly found that their content did not reflect the life experiences of rural, 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 81 
+
+
+Native youth. Interested in harnessing the privacy, reach, and customizability of technology-based 
+interventions, the Red Talon STD/HIV Coalition included this research activity as an action item 
+in 2009: “Identify innovative STD/HIV prevention strategies using computer-based programs and 
+social networking sites; explore their possible relevance and utility in Indian Country” (Project 
+Red Talon, 2009). 
+
+To infonn the selection and development of culturally appropriate technology-based health 
+sexual health interventions for youth, coalition members felt they needed to know more about 
+youths’ current use of media technologies (types of technologies used, frequency and duration 
+of use, preferred media features and activities) and to what extent they search online for health 
+in formation (Craig Rushing & Stephens, 2011). Members were also interested in learning about 
+the types of technology-based health interventions that were currently available in the published 
+literature, their effectiveness, and organizational resources that would be needed to implement them. 
+Members agreed that a Native Youth Media Survey and literature review would be useful activities 
+to generate this information. 
+
+To ensure human protections throughout the research process, the protocol was submitted to 
+the Portland Area Indian Health Service’s Institutional Review Board (PA IHSIRB - #09-P-03) and 
+Portland State University’s (PSU) Human Subjects Research Review Committee (HSRRC - #09880). 
+Approval was obtained from both committees prior to data collection. Project Red Talon staff then 
+worked with coalition members and tribal health educators to carry out the Native Youth Media 
+Survey. Survey methods and results are reported elsewhere (Craig Rushing, 2010; Craig Rushing 
+& Stephens, 2011). The literature review was simultaneously completed by Project Red Talon staff. 
+
+Community-based participatory research (CBPR) activities took place throughout the year¬ 
+long project (see Table 1). Because the study was conducted regionally, rather than with a single 
+Northwest tribe, Project Red Talon staff sought input from project stakeholders multiple times in 
+multiple settings, tribal coalition members, Native youth, and topical experts were all involved in 
+shaping the study’s scope and design, contributed to data collection efforts, reviewed qualitative 
+and quantitative data, offered recommendations for selecting and adapting technology-based 
+interventions, reviewed draft reports and manuscripts, and helped disseminate study findings. This 
+iterative process helped ensure resultant recommendations were relevant to the diverse needs and 
+capacities of our Northwest tribes, while maintaining adherence to CBPR principles. 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+
+82 VOLUME 19, NUMBER 1 
+
+
+Table 1 
+
+Research Methods 
+
+Location, Date 
+
+Informant Type, Demographics 
+
+Research Activities 
+
+Red Talon Coalition 
+
+Meeting, Portland, OR 
+January 7, 2009 
+
+Tribal health advocates: 15 people 
+(40% M, 60% F) representing 1 NW 
+tribe, 5 tribal organizations, and 3 
+partnering agencies. 
+
+Finalized STD/HIV Action Plan, which 
+included this research activity as an 
+action item, after two prior meetings. 
+
+January-July 2009 
+
+
+Literature review 
+
+February-March 2009 
+
+8 community partners and topical 
+experts 
+
+Compiled survey tool, sent draft 
+to community partners and topical 
+experts for input and feedback 
+
+NW tribe 
+
+March 31, 2009 
+
+12 youth, 3 parents 
+
+Piloted survey tool with teens and 
+their parents 
+
+NW Indian Youth 
+Conference, Spokane, WA 
+April 3-5, 2009 
+
+196 Youth: 
+
+37% Male, 63% Female 
+
+Collected survey data 
+
+Red Talon Coalition 
+
+Meeting, Seaside, OR 
+
+April 8, 2009 
+
+Tribal health advocates: 8 people 
+(100% F) representing 2 NW tribes, 
+
+2 NW tribal organizations, and 2 
+partnering agencies. 
+
+Participants were given copies of the 
+survey and discussed potential data 
+collection strategies and sites. 
+
+NPAIHB Quarterly Board 
+Meeting, Grand Ronde, OR 
+April 20-23, 2009 
+
+Delegates to the Northwest 
+
+Portland Area Indian Health Board, 
+representing 43 member tribes. 
+
+Shared progress to date, discussed 
+data collection strategies and sites. 
+
+Tribal School A 
+
+81 Youth, 48% male, 52% female 
+
+Collected survey data 
+
+Tribal School B 
+
+28 Youth, 68% male, 32% female 
+
+Collected survey data 
+
+Tribal School C 
+
+16 Youth, 44% male, 56% female 
+
+Collected survey data 
+
+Tribal School D 
+
+43 Youth, 42% male, 58% female 
+
+Collected survey data 
+
+NPAIHB Quarterly Board 
+Meeting, Tulalip, WA 
+
+July 22, 2009 
+
+Delegates to the Northwest 
+
+Portland Area Indian Health Board, 
+representing 43 member tribes. 
+
+Shared progress to date, discussed 
+preliminary data. 
+
+Native STAND Youth 
+Summit, Chehalis, WA 
+
+July 27-31, 2009 
+
+30 youth, 2 adult mentors 
+
+Existing media interventions were 
+described and demoed. Group 
+discussions were used to gauge 
+interest in available methods/ 
+modalities. 
+
+
+continued on next page 
+
+
+
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 83 
+
+
+Table 1, Continued 
+
+Research Methods 
+
+Location, Date 
+
+Informant Type, Demographics 
+
+Research Activities 
+
+Working with Native Youth 
+training, Portland, OR 
+August 11-13, 2009 
+
+65 teachers, parents, and health 
+educators 
+
+Existing media interventions 
+were described, demonstrated, 
+and discussed. Small and large 
+group discussions were used to 
+elicit opinions and ideas about 
+tech interventions and cultural 
+considerations. 
+
+November-December 2009 
+
+
+Individual data reports were returned 
+to participating tribes. 
+
+Chemawa Indian Boarding 
+School, Salem, OR 
+November 23, 2009 
+
+60 high school students 
+
+Existing media interventions were 
+described and demoed. Group 
+activities were used to gauge interest 
+in available methods/modalities. 
+
+Adolescent Health 
+
+Alliance, Salem, OR 
+December 9, 2009 
+
+Tribal health advocates: 35 
+attendees, representing seven NW 
+tribes, three Native youth treatment 
+centers, one Urban Indian health 
+clinic, NPAIHB, two universities, and 
+three divisions of the Oregon State 
+Department of Human Services. 
+
+Participants reviewed and discussed 
+survey data, technology-based 
+interventions (abstracts, photos/ 
+demos, and comparison charts), and 
+the merits and drawbacks of various 
+strategies. Attendees then prioritized 
+options and offered recommendations 
+for designing culturally appropriate 
+interventions. 
+
+Tribal school board 
+
+January 20-22, 2010 
+
+10 tribal school administrators 
+
+Discussed school's data and strategies 
+to disseminate findings. 
+
+Adolescent Health 
+
+Alliance, Shelton, WA 
+February 24, 2010 
+
+Tribal health advocates: 47 people 
+representing 18 NW tribes, one 
+Native-specific youth treatment 
+center, two tribal organizations, one 
+university, and two divisions of the 
+Washington State Department of 
+Human Services. 
+
+Participants reviewed and discussed 
+survey data, technology-based 
+interventions (abstracts, photos/ 
+demos, and comparison charts), and 
+the merits and drawbacks of various 
+strategies. Attendees then reviewed 
+and refined recommendations for 
+designing culturally appropriate 
+interventions. 
+
+35th annual NW Indian 
+Youth Conference 
+
+April 2010 
+
+600 AI/AN junior and senior high 
+school students 
+
+Existing media interventions were 
+described/demoed. Group discussions 
+and activities were used to gauge 
+interest in available methods/ 
+modalities. 
+
+NPAIHB Quarterly Board 
+Meeting, Cow Creek, OR 
+April 20, 2010 
+
+Delegates to the Northwest 
+
+Portland Area Indian Health Board, 
+representing 43 member tribes. 
+
+Shared progress to date; discussed 
+priorities and recommendations 
+for designing culturally appropriate 
+interventions. 
+
+
+
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+84 VOLUME 19, NUMBER 1 
+
+
+CBPR with Tribal Coalitions 
+
+In the Pacific Northwest, tribal coalitions serve the dual purpose of engaging tribes in 
+planning and outreach, while providing direction to NPAIHB staff on desired goals and activities 
+for the region as a whole. These coalitions meet at rotating locations throughout the Northwest, 
+and attendance typically varies from 15-45 members. To maximize participation, meetings are 
+scheduled in conjunction with other relevant tribal gatherings or trainings, and travel expenses for 
+attendees are reimbursed by the NPAIHB. In 2009, the Red Talon STD/HIV Coalition merged with 
+three other planning groups to create a more holistic body, forming the Northwest Native Adolescent 
+Health Alliance. 
+
+Coalition members are well aware of community norms, appropriate messages, traditional 
+teachings, and effective strategies for reaching high-risk populations. As a result, they are regularly 
+called upon to guide the development of educational materials produced by the NPAIHB. Meetings 
+typically include a variety of partners, including tribal health advocates (health directors and 
+educators, community health representatives, RNs, and youth prevention staff) and representatives 
+from regional and national Indian Health Service programs, state and county Health Departments, 
+Universities, and other tribal programs and partners. 
+
+During the course of this year-long project, tribal coalition meetings were held quarterly. At 
+the first two meetings, participants selected the research topic, reviewed survey instruments, and 
+brainstormed data collection strategies and sites. Coalition members then administered the survey 
+in their local communities, or facilitated its administration by Project Red Talon staff. 
+
+When these activities were complete, two additional coalition meetings were convened 
+to review survey data and discuss identified interventions. The first meeting had 35 attendees, 
+representing seven Northwest tribes, three Native youth treatment centers, one Urban Indian Health 
+clinic (NARA), two universities (Oregon Health Sciences University, Portland State University), 
+and three divisions of the Oregon State Department of Human Services (HIV/STD/Tuberculosis, 
+Indian Education, Alcohol and Mental Health). The second meeting was attended by 47 people 
+representing 18 Northwest tribes, one Native youth treatment center, two tribal organizations (the 
+NPAIHB, South Puget Intertribal Planning Agency), one university (University of Washington), 
+and two divisions of the Washington State Department of Human Services (HIV/STD/Tuberculosis, 
+Tobacco Prevention). 
+
+Participants at the final two meetings discussed the merits and drawbacks of available 
+intervention strategies, prioritized options in light of resultant data and community experience, 
+and proposed and refined recommendations for designing culturally appropriate interventions. 
+Comparison charts, demonstrations, and visual examples of available interventions were provided 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 85 
+
+
+to support group discussion. Detailed meeting minutes were taken by Project Red Talon staff to 
+capture participants’ input, and an automated response system was used at the final meeting to poll 
+attendees on possible intervention designs. 
+
+CBPR with Native Youth 
+
+Project Red Talon staff also sought input from Native teens and young adults at several points 
+throughout the study to inform the selection of technology-based interventions. Project staff piloted 
+the survey tool with 10 teens and parents from a Northwest tribe, and integrated their suggestions 
+before administering it regionally. Teens and young adults at all surveying sites were invited to 
+participate in the distribution and collection of surveys, pens, and raffle tickets, and seemed to take 
+interest in both the survey process and the findings that would emerge. 
+
+Informal formative research was carried out with 25 high school students attending the 2009 
+Native STAND Youth Summit, with 60 students attending Chemawa Indian School, a Bureau of 
+Indian Education residential school, and with over 600 AI/AN junior and senior high school students 
+attending the 35th annual Northwest Indian Youth Conference. At each of these gatherings, a variety 
+of existing media interventions were shown or described to attendees, and interactive discussions 
+and activities were used to gauge student interest. 
+
+CBPR with Community Partners and Topical Experts 
+
+Additionally, Project Red Talon staff consulted with community partners and topical experts 
+to ensure resultant data would be useful and relevant to their work, including staff from the Indian 
+Health Service’s National STD Program, Native Wellness Institute, and State Health Departments in 
+Oregon and Washington. Several regional meetings were also used to infonn community stakeholders 
+about the project’s progress, and to seek participants’ input and ideas. Feedback was gathered 
+from 65 teachers, parents, and health educators who attended a three-day training on Working with 
+Native Youth (August 11-13,2009). Tribal delegates to the NPAIHB and members of the NPAIHB’s 
+Behavioral Health Committee were consulted quarterly throughout the year-long project. 
+
+Literature Review on Technology-based Sexual Health Interventions 
+
+The literature review was carried out by study co-authors Stephanie Craig Rushing, Director 
+of Project Red Talon at the NPAIHB, and David Stephens, a part-time student intern. To locate 
+appropriate articles, key terms were used in academic search engines (i.e. Academic Search Complete, 
+Cochrane Library, PubMed, etc.), including technology, Internet, online, computer-based, cell phone, 
+text message, and video game. These words were cross-referenced with terms like health promotion. 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+86 VOLUME 19, NUMBER 1 
+
+
+health intervention, risk-reduction, and terms like sexual health, STD, pregnancy, contraception, 
+condom, adolescent, teen, ox young adult. Resultant studies were screened in several stages using 
+explicit inclusion criteria, referencing the full-text article when necessary. 
+
+Twenty-nine interventions were selected for systematic review based on their delivery method 
+(computer, Internet, cell phone, video game, interactive video/DVD), health focus (STD, HIV, or 
+pregnancy prevention; abstinence, condom or contraception use; STD/HIV testing), and intended 
+outcome (changes in behavior, knowledge, attitudes, perceptions, or skills). Both researchers coded 
+the interventions independently on variables of interest to the study in a Microsoft Excel spreadsheet 
+(see Table 2 and Craig Rushing [2010] for intervention matrices and operational definitions). 
+Variables included: 
+
+• Study Methods: aims, study design, participant recruitment. 
+
+• Intervention Design: description, theoretical framework, purpose/health focus, 
+implementation setting, duration, message content, message tailoring criteria, features 
+and modalities, user control, privacy. 
+
+• Target Population: age, gender, ethnicity, socioeconomic status. 
+
+• Outcomes: changes in behavior, knowledge, attitudes, perceptions, skills. 
+
+• Results: process or utilization data, retention, user satisfaction. 
+
+• Organizational Requirements for Implementation: funding, space, incentives. 
+
+• Technical Requirements for Implementation: software, equipment. 
+
+• Personnel Requirements for Implementation: number, skills/training, gender. 
+
+Operational definitions for each variable were summarized to ensure they were consistently 
+applied throughout the process. On those occasions when the published literature was not sufficient 
+to complete the matrix for a particular intervention, the Principal Investigator contacted the 
+intervention’s corresponding author with follow-up questions via e-mail or phone. Thirteen out of 
+16 investigators responded to such inquiries, answering questions directly or sending other pertinent 
+documents for review. 
+
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 87 
+
+
+Table 2 
+
+Technology-based Interventions Included in the Systematic Review 
+
+
+Delivery 
+
+Method 
+
+
+Intervention 
+
+
+1 . 
+
+It's Your Game (IYG) 
+
+
+2. 
+
+Let's Talk About Sex 
+
+Computer-based 
+
+
+
+Modules 
+
+3. 
+
+Project L.I.G.H.T. 
+
+
+4. 
+
+Sexual Risk Reduction 
+
+
+5. 
+
+Computer-assisted 
+Motivational 
+Intervention (CAMI) 
+
+Computerized 
+Risk Assessment/ 
+
+6. 
+
+Youth Health Provider 
+
+Diagnostic Tools 
+
+7. 
+
+Aid for Contraceptive 
+
+Internet Class 
+
+8. 
+
+Decision-making (ACD) 
+
+Health Info. Consumer 
+Skills 
+
+Informational 
+
+
+www.sexualityandu.ca 
+
+Web Site 
+
+9. 
+
+
+10. 
+
+Keep it Real 
+
+
+11. 
+
+Trust Yourself, Reduce 
+Your Risk 
+
+Internet-based 
+
+12. 
+
++CLICK (adapted from 
+IYG) 
+
+Modules 
+
+
+
+13. 
+
+Queermasters 
+
+
+14. 
+
+Smart Sex Quest 
+
+
+15. 
+
+WRAPP Internet 
+
+Intervention 
+
+
+Author 
+
+
+(Shegog et al., 2007; Tortolero et al., 2008) 
+
+
+(Ito et al., 2008) 
+
+(Lightfoot, Comulada, & Stover, 2007) 
+
+(Kiene & Barta, 2006) 
+
+(Gold, Chiappetta, Young, Zuckoff, & 
+DiClemente, 2008) 
+
+(Paperny, 1997) 
+
+(Chewning et al., 1999) 
+
+(Kalichman et al., 2006) 
+
+
+(Barak & Fisher, 2001, 2003) 
+
+(Bull et al., 2007; 2008; 2009) 
+
+(Roberto et al., 2008; Roberto, 
+Zimmerman, Carlyle, & Abner, 2007; 
+Roberto, Zimmerman, Carlyle, Abner, et 
+al., 2007) 
+
+(Markham, Shegog, Leonard, Bui, & Paul, 
+2009) 
+
+(Kok, Harterink, Vriens, de Zwart, & 
+Hospers, 2006; Mikolajczak, Kok, & 
+Hospers, 2008) 
+
+(Bull et al., 2004) 
+
+(Bowen, 2005; Bowen, Williams, Daniel, & 
+Clayton, 2008) 
+
+
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+
+X X 
+
+X X X X 
+
+X 
+
+
+X 
+
+X X 
+
+
+X 
+
+X 
+
+X 
+
+
+continued on next page 
+
+
+
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+88 VOLUME 19, NUMBER 1 
+
+
+Table 2, Continued 
+
+Technology-based Interventions Included in the Systematic Review 
+
+
+Delivery Method Intervention Author 
+
+
+-= J2 + 
+
++■> — Z 
+3 3 > 
+
+P -O S! 
+> < 1 
+
+
+* 
+
+
+l/l 
+
+
+2 
+
+
+Chat Room 
+
+16. PowerON 
+
+(Moskowitz, Melton, & Owczarzak, 
+2009a;b) 
+
+
+X 
+
+Virtual World 
+
+17. Sexual Health Sims - 
+Second Life 
+
+(Beard, Wilson, Morra, & Keelan, 2009) 
+
+
+X 
+
+E-mail-based 
+
+18. Online Prevention 
+Program 
+
+(Lau, Lau, Cheung, & Tsui, 2008) 
+
+
+X 
+
+Online STD 
+Testing 
+
+19. STDTest.org & syfilistest. 
+nl 
+
+20. IWanttheKit.org 
+
+(Koekenbier, Davidovich, van Leent, 
+Thiesbrummel, & Fennema, 2008; Levine, 
+Scott, & Klausner, 2005) 
+
+(Owens et al., 2009) 
+
+X 
+
+X 
+
+X 
+
+Cell Phone 
+
+21. Cell Phone Reminders 
+
+(Puccio et al., 2006) 
+
+X 
+
+X 
+
+
+22. Hookup & TeenSource 
+
+(Woodruff, 2009) 
+
+X 
+
+
+Text Messaging 
+
+23. Sexlnfo 
+
+(Levine, McCright, Dobkin, Woodruff, & 
+Klausner, 2008) 
+
+X 
+
+
+Service 
+
+24. The Birds & Bees Text 
+Line 
+
+(Hoffman, 2009) 
+
+X 
+
+
+
+25. Text to Change 
+
+(Text to Change, 2009) 
+
+X 
+
+X 
+
+
+26. What Could You Do? 
+
+(Downs et al., 2004) 
+
+X 
+
+
+Video 
+
+27. Video to Promote Dual 
+
+(Roye, Perlmutter Silverman, & Krauss, 
+
+X 
+
+
+
+Methods 
+
+2007) 
+
+
+
+Video Game 
+
+28. Baby Game and 
+
+Romance 
+
+(Paperny & Starn, 1989) 
+
+X 
+
+
+
+29. Life Challenge 
+
+(Thomas, Cahill, & Santilli, 1997) 
+
+X 
+
+
+
+MSM = Men who have sex with men 
+
+
+
+
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 89 
+
+
+RESULTS 
+
+
+Literature Review 
+
+As shown in Table 2, 29 interventions fulfilled the project’s inclusion criteria for systematic 
+review (see Appendices of Craig Rushing [2010] for intervention abstracts and additional matrices). 
+Reviewed articles included preliminary feasibility and usability studies, randomized controlled trials, 
+quasi-experimental studies, and non-experimental utilization reports. Study participants varied in 
+age, gender, ethnicity, and sexual orientation. Twenty-one interventions targeted young adults, seven 
+targeted men who have sex with men, and four targeted people who were HIV-positive. Most of the 
+interventions included in the review specifically addressed sexual risk factors, but two addressed 
+a wide range of health topics pertinent to youth (like sexual activity, alcohol use, marijuana use, 
+substance abuse, sexual abuse, contraception, and suicide attempts). None of the interventions were 
+designed for AI/AN populations, and none of the evaluation studies included a significant number 
+of AI/AN participants. 
+
+Altogether, 22 of the interventions were delivered using a computer or CD-ROM, 12 required 
+Internet access, four were delivered via a cell phone using text messages, two were primarily video- 
+based, and three solely involved a computer-based video game. The interventions were implemented 
+in a variety of settings (e.g., clinics, schools, community centers, at home), and were administered 
+by a range of trained and untrained personnel (e.g., clinicians, health educators, teachers, or self- 
+administered). Many included messages or visual content that was aligned to the users’ age (n = 
+29), gender (n = 13), race/ethnicity (n = 5), sexual orientation (n = 7), stage-of-change (n = 4), self- 
+identified informational needs (n = 9), or reported risk factors (n = 14). To create tailored content, 
+18 imbedded risk, needs, or readiness assessments directly into the program. Slightly fewer (n = 13) 
+incorporated "virtual" interactions with a health care provider or user-generated goal- setting activities 
+or self-monitoring tools. Twenty-two included skill-building exercises or personal development 
+tools, like goal-setting activities, boundary-setting activities, condom demonstrations, or activities 
+that helped users practice healthy communication skills. Fourteen required users to participate in 
+multiple sessions, 15 involved interactions with peers or peer role models, and 15 involved virtual 
+or in-person communication with health experts. Most of the interventions (n = 21) were interactive, 
+requiring active participation by the user (i.e., as opposed to passively reading text or watching a 
+video). Fewer (n = 12) were intensely multimedia, integrating text, audio, video, games, quizzes, 
+and links to other sources within the intervention. 
+
+The interventions reported varying levels of effectiveness, and tracked a variety of cognitive 
+and behavioral outcomes. Only one (3%) reported changes in perceived sexual risk or consequences, 
+three (10%) reported changes in intention or motivation, and three (10%) reported changes in 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+90 VOLUME 19, NUMBER 1 
+
+
+perceived peer norms or behaviors. Ten (34%) interventions reported changes in participant 
+knowledge about STDs, HIV, or condoms, seven (24%) reported changes in sexual values or attitudes, 
+and nine (31%) reported changes in participant skill or self-efficacy. Altogether, 12 (41%) reported 
+changes in condom or contraception use, STD/HIV screening rates, or sexual activity (11 of which 
+were statistically significant at the p<.05 level). 
+
+Despite this seemingly low level of effectiveness, fewer than half of the interventions 
+were truly designed to assess behavioral outcomes. Instead, many were intended to evaluate the 
+intervention’s acceptability and feasibility, and thus involved small sample sizes, did not track 
+behavioral outcomes, or did not assess changes in behavior over time. Thirteen (45%) were evaluated 
+using a cohort or non-experimental design to test preliminary effectiveness, acceptability, or 
+utilization rates. Thirteen (45%) were evaluated using randomized controlled trials, and three (10%) 
+were evaluated using non-randomized controlled trials. Studies that did include follow-up with a 
+sufficient number of participants showed promising changes in knowledge, attitude, and behavior. 
+
+CBPR Recommendations for Intervention Selection and Adaptation 
+
+After reviewing data from the Native Youth Media Survey, abstracts describing available 
+technology-based sexual interventions, charts comparing their features and effectiveness, and 
+photos or demonstrations of available programs, tribal coalition members discussed the merits 
+and drawbacks of available strategies, prioritized options in light of resultant data and community 
+experience, and proposed recommendations for designing culturally appropriate interventions. 
+During these meetings, participants identified several traits that they felt ought to be considered 
+when designing or adapting interventions. Specifically, interventions should: 
+
+• Contain Accurate Age- and Gender-Appropriate Content. Interventions should 
+contain gender-specific infonnation and age-appropriate content for younger and older 
+youth, using the tailoring capabilities of computer-based technologies. Health information 
+should be monitored and “medically accurate.” 
+
+• Start Early and Encourage Abstinence. Prevention messages should target pre- and 
+young teens. We need to start “when children are younger,” before they are sexually 
+active, and be sure to include “a bigger focus on abstinence.” 
+
+• Be Holistic and Real. Participants noted that many existing technology-based 
+interventions did not address other important adolescent health issues. Interventions 
+targeting Northwest AI/AN youth should be more holistic. Early sexual debut, substance 
+abuse, violence, and suicide are symptoms of deeper social and emotional challenges, 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 91 
+
+
+including poverty, discrimination, and sexual abuse. Interventions targeting AI/AN youth 
+must be real, reflect the unique life experiences of Native youth, and address the root 
+social determinants of their health. 
+
+• Be Based in Culture. Interventions targeting Northwest AI/AN youth should incorporate 
+cultural materials, “like tribal stories or history to teach important concepts.” None of 
+the interventions reviewed by participants contained text, photos, or design elements 
+specific to AI/ANs. 
+
+• Focus on Assets and Skills. Instead of stigmatizing sexuality, interventions should 
+focus on “positive messages and protective factors,” including both the physical and 
+“emotional aspects of relationships.” It is important for interventions to demonstrate and 
+allow youth to practice important skills (like refusal skills, condom negotiation skills, 
+and how to use a condom), “get them involved in their own health and well-being,” and 
+permit users to navigate through the content that most interests them. 
+
+• Encourage Dialogue While Maintaining Privacy. Interventions should include content 
+that supports dialogue with trusted adults (“not necessarily parents”), and “ways for 
+local adults to provide follow-up if a teen needs additional resources.” Participants also 
+felt that youth should be able to access private, “confidential” information and services. 
+
+• Be Interactive. Interventions should incorporate a wide range of interactive features, like 
+quizzes and games, as well as the ability to contact or converse with experts. Participants 
+particularly liked the interventions that had a human voice guiding teens, “making the 
+social interactions more realistic.” 
+
+• Incorporate Evaluation Plans. New programs should also incorporate evaluation 
+strategies to continuously monitor their use and “measure their effectiveness.” 
+
+Participants also identified several potential barriers that they felt ought to be considered 
+when designing or adapting technology-based interventions for AI/AN youth. These included: 
+
+• Staffing and Intervention Setting. Participants expressed concern about interventions 
+that were labor intensive, and interventions that required technical expertise or multiple 
+people to implement. To be most widely implemented, interventions should be flexibly 
+designed for use in home, community, or clinic settings. If interventions are designed to 
+be implemented by local health educators, they must be easy to pick up and ready to use. 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+92 VOLUME 19, NUMBER 1 
+
+
+• Multimodal Formats. When possible, technology-based interventions should include a 
+variety of teaching/modeling tools, take into consideration the “different reading/literacy 
+capabilities of youth, even within grade levels,” and include print versions “for those 
+who do not have computers.” 
+
+• Shorter Length/Duration. Participants noted that some technology-based interventions 
+took an hour or more to complete or required youth to return to the clinic multiple times, 
+and were concerned about student retention. On the whole, intervention activities should 
+not require multiple clinic visits, and should be conscientious of possible “attention 
+span issues.” 
+
+• Cost. The only cost concerns voiced by participants were in relation to text messaging 
+interventions, which they thought might be problematic for some youth (depending on 
+individual calling plans). 
+
+• Maintaining Youth’s Interest and Attention. Participants also noted that “there are a 
+lot of interesting sites on the Internet that teens frequent already.” Online interventions 
+will have to be “as good as the technologies that teens are already using, or teens may 
+not use them.” 
+
+(It should be noted that a mix of teachers, parents, and health educators participated in these meetings; 
+their comments were not collected in such a way that they could be stratified by informant type.) 
+
+When asked about the potential utility of various intervention strategies, particularly in 
+relation to their own communities’ programs, resources, and needs, tribal partners used an anonymous 
+automated response system to indicate that computer- or Internet-based skill-building tools would be 
+most useful (91%) for their community, followed by informational Web sites or social networking 
+sites (82%), electronic assessment or diagnostic tools (81%), services that would allow teens and 
+young adults to order STD test kits or condoms online (81%), and programs that offered youth live 
+instant message or text counseling with an expert (74%). Participants indicated that they would 
+prefer interventions that could be administered by someone at the regional level, by a local health 
+educator, or, if appropriate, by the youth themselves. Few felt that it would be highly problematic 
+for them or their tribe to deliver a computer-based intervention (13%), an Internet-based intervention 
+(17%), or an intervention requiring a TV/DVD (13%). More people expressed concern, however, 
+about delivering interventions via cell phone (36%). 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 93 
+
+
+DISCUSSION 
+
+While data from the Native Youth Media Survey offered insight into which technologies were 
+most often used by AI/AN youth, the literature review and additional CBPR activities provided 
+critical information needed to select strategies that aligned to the priorities and organizational 
+capacities of the Northwest tribes (Craig Rushing, 2010). The literature review provided partners 
+with a better understanding of the types of technology-based interventions that were possible, and the 
+skills and resources that would be needed to implement them. Partners discussed the effectiveness 
+of various approaches, and design features that have been shown to maximize behavioral impacts. 
+
+CBPR processes also took into consideration other factors that have been shown to affect 
+intervention effectiveness and sustainability, including the availability of staff with appropriate skills 
+and training, the availability of requisite space and equipment, the perceived merits and drawbacks of 
+available intervention modalities and settings, and the availability of current and recurring funds to 
+implement selected interventions, as well as more nuanced Indigenous knowledge about Northwest 
+AI/AN communities (Center for Substance Abuse Prevention, 2009). CBPR activities substantially 
+improved the intervention alignment process by giving insight to tribal values and priorities, and 
+potential capacities and constraints affecting participating tribes. 
+
+CBPR activities also enhanced the interpretation of qualitative and quantitative data collected 
+by the project, employing both Western and cultural lenses. For example, while cell phones were the 
+media technology most frequently used by Northwest Native youth (according to survey results), 
+youth, parents, and health educators expressed much less interest in phone-based interventions 
+than they did in Internet- or video-based approaches. This apparent divide between youth’s current 
+technology use and reported intervention priorities may stem from the strong preference (expressed 
+by both survey respondents and CBPR partners), that youth receive sexual health information from 
+a trusted adult. Role modeling, experiential learning, and storytelling are teaching tools traditionally 
+valued by AI/AN communities, and are highly dependent upon human interaction (Cajete, 2008; 
+Goodluck, 2002). Compared to the other strategies offered and discussed, rote text messaging 
+services (that often lack modeling, interaction, and visual cues) may have felt less congruent with 
+traditional teaching modalities. 
+
+CBPR participants were particularly concerned that some technology-based interventions 
+might unintentionally reduce communication or fail to support needed follow-up with youth. This 
+concern highlights the importance of using technology-based interventions to enhance, rather than 
+replace, traditional sources of health information, including health professionals and family members 
+(Fox & Jones, 2009). Other critical insights gained through CBPR included the importance of 
+empowering Native youth to get involved in their own health and well-being, while also addressing 
+the deeper social and emotional conditions that contribute to their disproportionate risk-taking. 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+94 VOLUME 19, NUMBER 1 
+
+
+CBPR strategies increased our understanding of the ethnographic culture of AI/AN youth, 
+and the social and environmental contexts in which they live. Participants pointed out that Native 
+youth “culture” is not solely defined by race/ethnicity. Like other teens and young adults, Native 
+youth identify with and reflect multiple identities (e.g., athletes, skaters, nerds, gangsters, straight/ 
+two-spirit/lesbian/gay/bisexual/transgender/questioning, etc.). Northwest Native youth did express 
+a greater preference for accessing sexual health information on Web sites containing Native-specific 
+content than on sites targeting all U.S. youth, but to reflect their full lived experience, interventions 
+targeting AI/AN youth should portray a range of adolescent and cultural identities. 
+
+Like all research, this study had several strengths and limitations worth noting. These findings 
+represent data from the Pacific Northwest and cannot be generalized to other regions or individual 
+tribes. Many of the youth who participated in CBPR feedback sessions were involved in tribe- or 
+school-sponsored health and wellness activities, and may have reported higher levels of interest 
+than typical youth. The continuity of our coalition membership was hampered by our inclusion of 
+participants from a geographically disbursed three-state region. This challenge was met by rotating 
+meetings throughout the Northwest, covering travel expenses for tribal participants, and by iteratively 
+reviewing project data and refining recommendations at each subsequent meeting. Fortunately, the 
+project was strengthened by the support of the Northwest tribes, who repeatedly expressed interest 
+in the research subject and its findings. Collecting data and feedback from multiple tribes helped 
+ensure that resulting recommendations and priorities reflected a wide spectrum of perspectives and 
+experiential realities. Guided by CBPR values, this process took active steps to address potential 
+validity threats associated with analyzing data using only a Western interpretive lens. 
+
+CONCLUSION 
+
+Like all behavioral interventions, to be truly effective, technology-based sexual health 
+interventions must address the core risk and protective factors associated with teen pregnancy 
+and STDs, cultivate individual skills, and foster frequent and repeated use. If designed properly, 
+youth-driven multimedia technologies could achieve these goals, while reflecting traditional and 
+contemporary AI/AN culture, values, teachings, and experiences. To meet everyone’s needs, age- 
+and gender-appropriate sexual health information should be made available in a variety of formats, 
+through a variety of channels. This CBPR study suggests that integrated, multimedia approaches 
+offer the best opportunity to reach the greatest number of Native youth in the Pacific Northwest. 
+The NPAIHB and Northwest tribes are now using this data to inform the development of several 
+technology-based interventions targeting AI/AN teens and young adults. 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 95 
+
+
+Stephanie Craig Rushing, PhD, MPH 
+Northwest Portland Indian Health Board 
+2121 SW Broadway, Suite 300, Portland, OR 97201 
+
+E-mail: scraig@npaihb.org 
+
+
+REFERENCES 
+
+Barak, A., & Fisher, W. A. (2001). Toward an Internet-driven, theoretically-based, innovative approach 
+to sex education. Journal of Sex Research, 35(4), 324-332. doi: 10.1080/00224490109552103 
+
+Barak, A., & Fisher, W. A. (2003). Experience with an Internet-based, theoretically grounded 
+educational resource for the promotion of sexual and reproductive health. Sexual and Relationship 
+Therapy, 75(3), 293-308. doi: 10.1080/1468199031000153928 
+
+Battiste, M. (2008). Research ethics for protecting Indigenous knowledge and heritage: Institutional 
+and researcher responsibilities. In N. K. Denzin, Y. S. Eincoln, & F. T. Smith (Eds.), Handbook 
+of critical and Indigenous methodologies (pp. 497-511). Thousand Oaks, CA: Sage Publications, 
+Inc. 
+
+Baylari, A., & Montazer, G. A. (2009). Design a personalized e-leaming system based on item 
+response theory and artificial neural network approach. Expert Systems with Applications, 36(4), 
+8013-8021. doi: 10.1016/j.eswa.2008.10.080 
+
+Beard, E., Wilson, K., Morra, D., & Keelan, J. (2009). A survey of health-related activities on Second 
+Life. Journal Of Medical Internet Research, 11(2), el 7. Retrieved from http://www.jmir.org/ 
+
+Bennett, G. G., & Glasgow, R. E. (2009). The delivery of public health interventions via the Internet: 
+Actualizing their potential. Annual Review of Public Health, 30, 273-292. doi: 10.1146/annurev. 
+publhealth.031308.100235 
+
+Bowen, A. (2005). Internet sexuality research with rural men who have sex with men: Can we recruit 
+and retain them? Journal of Sex Research, 42(4), 317-323. doi: 10.1080/00224490509552287 
+
+Bowen, A. M., Williams, M. L., Daniel, C. M., & Clayton, S. (2008). Internet based HIV prevention 
+research targeting rural MSM: Feasibility, acceptability, and preliminary efficacy. Journal of 
+Behavioral Medicine, 37(6), 463-477. doi: 10.1007/s 10865-008-9171-6 
+
+Bull, S., Lloyd, L., Rietmeijer, C., & McFarlane, M. (2004). Recruitment and retention of an online 
+sample for an HIV prevention intervention targeting men who have sex with men: The Smart 
+Sex Quest Project. AIDS Care, 16(S), 931-943. doi: 10.1080/09540120412331292507 
+
+Bull, S., Phibbs, S., Watson, S., & McFarlane, M. (2007). What do young adults expect when they 
+go online? Lessons for development of an STD/HIV and pregnancy prevention website. Journal 
+of Medical Systems, 31(2), 149-158. doi: 10.1007/sl0916-006-9050-z 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+96 VOLUME 19, NUMBER 1 
+
+
+Bull, S., Pratte, K., Whitesell, N., Rietmeijer, C., & McFarlane, M. (2009). Effects of an Internet- 
+based intervention for HIV prevention: The Youthnet trials. AIDS and Behavior, 13(3), 474-487 
+doi: 10.1007/s 10461-008-9487-9 
+
+Bull, S., Vallejos, D., Levine, D., & Ortiz, C. (2008). Improving recruitment and retention for an 
+online randomized controlled trial: Experience from the Youthnet study. AIDS Care, 20(8), 
+887-893. doi: 10.1080/09540120701771697 
+
+Cajete, G. (2008). Seven orientations for the development of indigenous science education. In N. K. 
+Denzin, Y. S. Lincoln & L. T. Smith (Eds.), Handbook of critical and Indigenous methodologies 
+(pp. 487-496). Thousand Oaks, CA: Sage Publications, Inc. 
+
+Card, J. J., & Kuhn, T. (2006). Development of online suites of social science-based resources for 
+health researchers and practitioners. Social Science Computer Review, 24(2), 255-261. doi: 
+10.1177/0894439305281498 
+
+Center for Substance Abuse Prevention. (2009). Identifying and selecting evidence-based 
+interventions: Revised guidance documentfor the strategic prevention framework state incentive 
+grant program. Rockville, MD: Department of Health and Human Services, Substance Abuse 
+and Mental Health Services Administration. 
+
+Chewning, B., Mosena, P, Wilson, D., Erdman, H., Potthoff, S., Murphy, A., & Kuhnen, K. K. 
+(1999). Evaluation of a computerized contraceptive decision aid for adolescent patients. Patient 
+Education and Counseling, 35(3), 227-239. doi: 10.1016/S0738-3991 (99)00014-2 
+
+Cobb, N., Graham, A., Bock, B., Papandonatos, G., & Abrams, D. (2005). Initial evaluation of a 
+real world Internet smoking cessation system. Nicotine & Tobacco Research, 7(2), 207-216. 
+doi: 10.1080/14622200500055319 
+
+Cochran, P. A., Marshall, C. A., Garcia-Downing, C., Kendall, E., Cook, D., McCubbin, L., & 
+Gover, R. M. (2008). Indigenous ways of knowing: Implications for participatory research and 
+community. American Journal of Public Health, 95(1), 22-27. doi: 10.2105/AJPH.2006.093641 
+
+Coyle, D., Doherty, G., Matthews, M., & Sharry, J. (2007). Computers in talk-based mental health 
+interventions. Interacting with Computers, 19(4), 545-562. doi: 10.1016/j.intcom.2007.02.001 
+
+Craig Rushing, S. N. (2010). Use of media technologies by Native American teens and young adults: 
+Evaluating their utility for designing culturally-appropriate sexual health interventions targeting 
+Native youth in the Pacific Northwest. Doctoral dissertation, Portland State University, Portland, 
+OR. Retrieved from http://dr.archives.pdx.edu/xmlui/handle/psu/4743 
+
+Craig Rushing, S., & Stephens, D. (2011). Use of media technologies by Native American teens and 
+young adults in the Pacific Northwest: Exploring their utility for designing culturally appropriate 
+technology-based health interventions. The Journal of Primary Prevention, 32(3), 135-145. doi: 
+10.1007/s 10935-011-0242-z 
+
+Daft, R., & Lengel, R. (1986). Organizational information requirements, media richness and structural 
+design . Management Science, 32, 554-571. doi: 10.1287/mnsc.32.5.554 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 97 
+
+
+Dijkstra, A. (2005) Working mechanisms of computer-tailored health education: Evidence from 
+smoking cessation. Health Education Research, 20(5), 527-539. doi: 10.1093/her/cyh014 
+
+Di Noia, J., Contento, I. R., & Prochaska, J. O. (2008). Computer-mediated intervention tailored on 
+transtheoretical model stages and processes of change increases fruit and vegetable consumption 
+among urban African-American adolescents. American Journal of Health Promotion, 22(5), 
+336-341. doi: 10.4278/ajhp.22.5.336 
+
+Downs, J. S., Murray, P. J., Bruine de Bruin, W., Penrose, J., Palmgren, C., & Fischhoff, B. 
+(2004). Interactive video behavioral intervention to reduce adolescent females' STD risk: A 
+randomized controlled trial. Social Science & Medicine, 59(8), 1561-1572. doi: 10.1016/j. 
+socscimed.2004.01.032 
+
+Forster, J. F., Rhodes, K. F., Poupart, J., Baker, F. O., Davey, C., & Forster, J. F. (2007). Patterns 
+of tobacco use in a sample of American Indians in Minneapolis-St. Paul. Nicotine & Tobacco 
+Research, 9(Suppl 1), S29-S37. doi: 10.1080/14622200601083434 
+
+Fox, S., & Jones, S. (2009). The social life of health information. Washington, DC: Pew Internet 
+and American Fife Project. 
+
+Gerber, B. S., Solomon, M. C., Shaffer, T. F., Quinn, M. T., & Fipton, R. B. (2007). Evaluation 
+of an Internet diabetes self-management training program for adolescents and young adults. 
+Diabetes Technology & Therapeutics, 9(1), 60-67. doi: 10.1089/dia.2006.0058 
+
+Gold, M. A., Chiappetta, F., Young, A. J., Zuckoff, A., & DiClemente, C. C. (2008). Female 
+adolescents' educational choices about reproductive health modules. American Journal of 
+Sexuality Education, 3(1), 65-86. doi: 10.1300/J455v03n01_05 
+
+Goodluck, C. (2002). Native American children and youth well-being indicators: A strengths 
+perspective (pp. 1-58). Portland, OR: National Indian Child Welfare Association. 
+
+Hoffman, J. (2009, May 3, 2009). When the cellphone teaches sex education. The New York Times, 
+p. ST1. 
+
+Hurling, R., Fairley, B. W., & Dias, M. B. (2006). Internet-based exercise intervention 
+systems: Are more interactive designs better? Psychology & Health, 21(6), 757-772. doi: 
+10.1080/14768320600603257 
+
+Ito, K. E., Kalyanaraman, S., Ford, C. A., Brown, J. D., & Miller, W. C. (2008). “Fet's talk about 
+sex”: Pilot study of an interactive CD-ROM to prevent HIV/STIs in female adolescents. AIDS 
+Education & Prevention, 26(1), 78-89. doi: 10.1521/aeap.2008.20.1.78 
+
+Kalichman, S. C., Cherry, C., Cain, D., Pope, H., Kalichman, M., Eaton, F., . . . Benotsch, E. G. 
+(2006). Internet-Based Health Infonnation Consumer Skills Intervention for People Fiving With 
+HIV/AIDS. Journal of Consulting and Clinical Psychology, 74(3), 545-554. doi: 10.1037/0022- 
+006X.74.3.545 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+98 VOLUME 19, NUMBER 1 
+
+
+Kiene, S. M., & Barta, W. D. (2006). A brief individualized computer-delivered sexual risk reduction 
+intervention increases HIV/AIDS preventive behavior. Journal of Adolescent Health, 39(3), 
+404-410. doi: 10.1016/j.jadohealth.2005.12.029 
+
+Koekenbier, R. H., Davidovich, U., van Leent, E. J. M., Thiesbrummel, H. F. J., & Fennema, H. S. A. 
+(2008). Online-mediated syphilis testing: Feasibility, efficacy, and usage. Sexually Transmitted 
+Diseases, 35(8), 764-769. Retreived from http://joumals.lww.com/stdjoumaFpages/default.aspx 
+
+Kok, G., Harterink, R, Vriens, R, de Zwart, O., & Hospers, H. J. (2006). The gay cruise: Developing 
+a theory- and evidence-based Internet HIV-prevention intervention. Sexuality Research & Social 
+Policy: Journal ofNSRC, 3(2), 52-67. doi: 10.1525/srsp.2006.3.2.52 
+
+Fau, J. T. F., Fau, M., Cheung, A., & Tsui, H. Y. (2008). A randomized controlled study to evaluate 
+the efficacy of an Internet-based intervention in reducing HIV risk behaviors among men who 
+have sex with men in Hong Kong. AIDS Care, 20(7), 820-828. doi: 10.1080/09540120701694048 
+
+Fevine, D., McCright, J., Dobkin, F., Woodruff, A. J., & Klausner, J. D. (2008). SEXINFO: A sexual 
+health text messaging service for San Francisco youth. American Journal of Public Health, 
+98(2), 393-395. doi: 10.2105/AJPH.2007.110767 
+
+Fevine, D. K., Scott, K. C., & Klausner, J. D. (2005). Online syphilis testing - confidential and 
+convenient. Sexually Transmitted Diseases, 32(2), 139-141. Retrieved from http://joumals.lww. 
+com/stdjoumaFpages/default.aspx 
+
+Fightfoot, M., Comulada, W. S., & Stover, G. (2007). Computerized HIV preventive intervention 
+for adolescents: Indications of efficacy. American Journal of Public Health, 97(6), 1027-1030. 
+doi: 10.2105/AJPH.2005.072652 
+
+Fiu, S.-H., Fiao, H.-F., & Pratt, J. A. (2009). Impact ofmedia richness and flow on e-leaming technology 
+acceptance. Computers & Education, 52(2), 599-607. doi: 10.1016/j.compedu.2008.11.002 
+
+Fustria, M. F. A., Cortese, J., Noar, S. M., & Glueckauf, R. F. (2009). Computer-tailored health 
+interventions delivered over the web: Review and analysis of key components. Patient Education 
+& Counseling, 74(2), 156-173. doi: 10.1016/j.pec.2008.08.023 
+
+Markham, C. M., Shegog, R., Feonard, A. D., Bui, T. C., & Paul, M. E. (2009). +CFICK: Harnessing 
+web-based training to reduce secondary transmission among HIV-positive youth. AIDS Care, 
+21(5), 622-631. doi: 10.1080/09540120802385637 
+
+Mayer, R. E., & Moreno, R. (1998). A cognitive theory of multimedia learning: Implications for 
+design principles. University of California, Santa Barbara, CA. Santa Barbara, CA. Retrieved 
+from http ://www.unm. edu/~moreno/PDFS/chi .pdf 
+
+Metcalf, C. A., Malotte, C. K., Douglas, J. M., Jr., Paul, S. M., Dillon, B. A., & Cross, H. (2005). 
+Efficacy of a booster counseling session 6 months after HIV testing and counseling: A randomized, 
+controlled trial (RESPECT-2). Sexually Transmitted Diseases, 32, 123-129. Retrieved from http:// 
+journals.lww.com/stdjoumal/pages/default.aspx 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 99 
+
+
+Mikolajczak, J., Kok, G., & Hospers, H. J. (2008). Queermasters: Developing a theory- and 
+evidence-based Internet HIV-prevention intervention to promote HIV-testing among men who 
+have sex with men (MSM). Applied Psychology: An International Review, 57(4), 681-697. doi: 
+10.1111/j. 1464-0597.2008.00342.X 
+
+Minkler, M., & Wallerstein, N. (2003). Community-based participatory research for health. San 
+Francisco, CA: Jossey-Bass. 
+
+Moskowitz, D. A., Melton, D., & Owczarzak, J. (2009a). PowerON: The use of instant message 
+counseling and the Internet to facilitate HIV/STD education and prevention. Patient Education 
+& Counseling, 77(1), 20-26. doi: 10.1016/j.pec.2009.01.002 
+
+National Congress of American Indians. (2009). Research that benefits Native people: A guide for 
+tribal leaders. Retrieved from http://www.ncaiprc.org/research-curriculum-guide 
+
+Noar, S. M., Black, H. G., & Pierce, L. B. (2009). Efficacy of computer technology-based 
+HIV prevention interventions: A meta-analysis. AIDS, 23(1), 107-115. doi: 110.1097/ 
+QAD. 1090b 1013e32831c35500. 
+
+Owens, S. L., Arora, N., Quinn, N., Peeling, R. W., Holmes, K. K., & Gaydos, C. A. (2010). Utilizing 
+the Internet to test for sexually transmitted infections: Results of a survey and accuracy testing. 
+Sexually Transmitted Infections, 86, 112-116. doi: 10.1136/sti.2009.037226 
+
+Paperny, D. M. (1997). Computerized health assessment and education for adolescent HIV and STD 
+prevention in health care settings and schools. Health Education & Behavior, 24(1), 54-70. doi: 
+10.1177/109019819702400107 
+
+Paperny, D. M., & Starn, J. R. (1989). Adolescent pregnancy prevention by health education 
+computer games: Computer-assisted instruction of knowledge and attitudes. Pediatrics, 53(5), 
+742. Retrieved from http://pediatrics.aappublications.org/ 
+
+Pedlow, C. T., & Carey, M. P. (2004). Developmentally appropriate sexual risk reduction interventions 
+for adolescents: Rationale, review of interventions, and recommendations for research and 
+practice. Annals of Behavioral Medicine, 27, 172-184. doi: 10.1207/sl5324796abm2703_5 
+
+Portnoy, D. B., Scott-Sheldon, L. A. J., Johnson, B. T., & Carey, M. P. (2008). Computer-delivered 
+interventions for health promotion and behavioral risk reduction: A meta-analysis of 75 
+randomized controlled trials, 1988-2007. Preventive Medicine, 47(1), 3-16. doi: 10.1016/j. 
+ypmed.2008.02.014, 
+
+Prochaska, J. O., DiClemente, C. C., & Norcross, J. C. (1992). In search of how people change: 
+Applications to addictive behaviors. The American Psychologist, 47(9), 1102-1114. doi: 
+10.1037/0003-066X.47.9.1102 
+
+Project Red Talon. (2009). Red Talon STD/HIV tribal action plan, 2009-2011. Northwest Portland 
+Area Indian Health Board. Portland, OR: Author. Retrieved from http://www.npaihb.org/ 
+epicenter/project/prt_tribal_action_plan/ 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+100 VOLUME 19, NUMBER 1 
+
+
+Puccio, J. A., Belzer, M., Olson, J., Martinez, M., Salata, C., Tucker, D., & Tanaka, D. (2006). The 
+use of cell phone reminder calls for assisting HIV-infected adolescents and young adults to 
+adhere to highly active antiretroviral therapy: A pilot study. AIDS Patient Care & STDs, 20(6), 
+438-444. doi: 10.1089/apc.2006.20.438 
+
+Rhodes, S. D. (2004). Hookups or health promotion? An exploratory study of a chat room-based 
+HIV prevention intervention for men who have sex with men. AIDS Education & Prevention, 
+16(4), 315-327. doi: 10.1521/aeap.l6.4.315.40399 
+
+Roberto, A. J., Carlyle, K. E., Zimmerman, R. S., Abner, E. L., Cupp, P. K., & Hansen, G. L. (2008). 
+The short-tenn effects of a computer-based pregnancy, STD, and HIV prevention program. 
+Communication Quarterly, 56( 1), 29-48. doi: 10.1080/01463370701839255 
+
+Roberto, A. J., Zimmerman, R. S., Carlyle, K. E., & Abner, E. L. (2007). A computer-based approach 
+to preventing pregnancy, STD, and HIV in rural adolescents. Journal of Health Communication, 
+72(1), 53-76. doi: 10.1080/10810730601096622 
+
+Roberto, A. J., Zimmerman, R. S., Carlyle, K. E., Abner, E. L., Cupp, P. K., & Hansen, G. L. 
+(2007). The effects of a computer-based pregnancy, STD, and HIV prevention intervention: A 
+nine-school trial. Health Communication, 21(2), 115-124. doi: 10.1080/10410230701306990 
+
+Roye, C., Perlmutter Silverman, P, & Krauss, B. (2007). Abrief, low-cost, theory-based intervention 
+to promote dual method use by Black and Latina female adolescents: A randomized clinical 
+trial. Health Education & Behavior, 34(4), 608-621. doi: 10.1177/1090198105284840 
+
+Shegog, R., Markham, C., Peskin, M., Dancel, M., Coton, C., & Tortolero, S. (2007). "It's your 
+game": An innovative multimedia virtual world to prevent HIV/STI and pregnancy in middle 
+school youth. Studies in Health Technology and Informatics, 129(?t 2), 983-987. Retrieved 
+from http://booksonline.iospress.nl/Content/View.aspx?piid=6252 
+
+Skinner, C., Campbell, M., Rimer, B., Curry, S., & Prochaska, J. (1999). How effective is tailored 
+print communication? Annals of Behavioral Medicine, 21(4), 290-298. doi: 10.1007/bf02895960 
+
+Text to Change. (2009). Retrieved from www.texttochange.com 
+
+Thomas, R., Cahill, J., & Santilli, L. (1997). Using an interactive computer game to increase skill 
+and self-efficacy regarding safer sex negotiation: Field test results. Health Education & Behavior, 
+24(1), 71-86. doi: 10.1177/109019819702400108 
+
+Tortolero, S. R., Markham, C. M., Peskin, M. F., Shegog, R., Addy, R. C., Escobar-Chaves, S. L., & 
+Baumler, E. R. (2008). It’s your game. Keep it real: Delaying sexual behavior with an effective 
+middle school program. Houston, TX: Center for Health Promotion and Prevention Research, 
+University of Texas Health Science Center. 
+
+Warner, L. S., & Grint, K. (2006). American Indian ways of leading and knowing. Leadership, 2(2), 
+225-244. doi: 10.1177/1742715006062936 
+
+
+
+
+American Indian and Alaska Native Mental Health Research 
+Journal published by the Centers for American Indian and Alaska Native Health 
+Colorado School of Public Health/University of Colorado Anschutz Medical Campus ( www.ucdenver.edu/caianh) 
+
+TECHNOLOGY-BASED SEXUAL HEALTH INTERVENTIONS 101 
+
+
+Wilson, K. A., Bedwell, W. L., Lazzara, E. H., Salas, E., Burke, C. S., Estock, J. L., . . . Conkey, 
+C. (2009). Relationships between game attributes and learning outcomes: Review and research 
+proposals. Simulation Gaming, 40(2), 217-266. doi: 10.1177/1046878108321866 
+
+Woodruff, A. J. (2009). Hookup program usage summary: April-June 2009. San Francisco, CA: 
+Internet Sexuality Information Services, Inc. 
+
+
+FOOTNOTE 
+
+1 Hypertext: text displayed on an electronic device with links to other text, tables, or images that 
+can be accessed immediately. 
+
+
+ACKNOWLEDGEMENTS 
+
+We would like to tha nk the tribes of Idaho, Oregon, and Washington for their public health 
+leadership, and their ongoing support of Project Red Talon. All credit in this undertaking should 
+be given to our tribal partners, whose impassioned commitment to AI/AN health has made this 
+project a success. We also tha nk John Spence and members of the Portland Area IHS IRB for their 
+constructive reviews of this article. 
+
+
+
+
